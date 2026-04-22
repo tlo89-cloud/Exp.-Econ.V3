@@ -7,6 +7,54 @@
 <title>Experience Economy Map</title>
 <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<!-- Add Signal Modal -->
+<div class="add-signal-overlay" id="addSignalOverlay" onclick="closeAddSignalModal()"></div>
+<div class="add-signal-panel" id="addSignalPanel">
+  <button class="add-signal-close" onclick="closeAddSignalModal()">✕</button>
+  <div class="add-signal-title">Add LinkedIn Signal</div>
+  <div class="add-signal-sub">Manually log a fund or company announcement</div>
+
+  <div class="signals-field">
+    <label>Headline *</label>
+    <textarea id="asTitle" placeholder="e.g. Arctos Partners closes $4B Fund III focused on sports and live entertainment" oninput="validateAddSignal()"></textarea>
+  </div>
+  <div class="signals-field">
+    <label>URL / Link *</label>
+    <input type="url" id="asLink" placeholder="https://linkedin.com/posts/… or source URL" oninput="validateAddSignal()">
+  </div>
+  <div class="signals-field">
+    <label>Company / Entity</label>
+    <input type="text" id="asCompany" placeholder="e.g. Arctos Partners">
+  </div>
+  <div class="signals-field">
+    <label>Summary (paste LinkedIn text)</label>
+    <textarea id="asSummary" placeholder="Optional — paste the post or announcement body"></textarea>
+  </div>
+  <div class="signals-field">
+    <label>Layer</label>
+    <select id="asLayer">
+      <option value="1">1 — Content &amp; IP</option>
+      <option value="2">2 — Physical Infrastructure</option>
+      <option value="3">3 — Operators &amp; Distribution</option>
+      <option value="4">4 — Service Providers</option>
+      <option value="5">5 — Technology Enablers</option>
+    </select>
+  </div>
+  <div class="signals-field">
+    <label>Signal Type</label>
+    <div class="add-signal-moments">
+      <label class="add-signal-moment-label"><input type="checkbox" name="asMoment" value="fund_launch"> Fund Launch</label>
+      <label class="add-signal-moment-label"><input type="checkbox" name="asMoment" value="company_launch"> New Company</label>
+      <label class="add-signal-moment-label"><input type="checkbox" name="asMoment" value="funding_round"> Funding Round</label>
+      <label class="add-signal-moment-label"><input type="checkbox" name="asMoment" value="acquisition"> Acquisition</label>
+      <label class="add-signal-moment-label"><input type="checkbox" name="asMoment" value="pe_investment"> PE Investment</label>
+      <label class="add-signal-moment-label"><input type="checkbox" name="asMoment" value="lp_commitment"> LP Commitment</label>
+    </div>
+  </div>
+
+  <button class="add-signal-submit" id="addSignalSubmit" onclick="submitAddSignal()" disabled>Save Signal</button>
+  <div class="add-signal-status" id="addSignalStatus"></div>
+</div>
 <style>
 :root {
   --bg: #0a0a0a;
@@ -878,6 +926,110 @@ body {
   font-size: 12px;
 }
 .signals-field textarea { min-height: 90px; resize: vertical; }
+
+/* ── ADD SIGNAL MODAL ────────────────────────── */
+.add-signal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.6);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease;
+  z-index: 1300;
+}
+.add-signal-overlay.open { opacity: 1; pointer-events: all; }
+.add-signal-panel {
+  position: fixed;
+  top: 52px;
+  right: 0;
+  height: calc(100vh - 52px);
+  width: min(480px, 96vw);
+  background: rgba(12,12,12,0.99);
+  border-left: 1px solid var(--border);
+  transform: translateX(100%);
+  transition: transform 0.25s ease;
+  z-index: 1301;
+  padding: 22px 20px 28px;
+  overflow-y: auto;
+}
+.add-signal-panel.open { transform: translateX(0); }
+.add-signal-close {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  border: 1px solid rgba(255,255,255,0.12);
+  background: rgba(255,255,255,0.03);
+  color: var(--text2);
+  border-radius: 10px;
+  padding: 8px 10px;
+  cursor: pointer;
+}
+.add-signal-title {
+  font-size: 13px;
+  font-weight: 600;
+  margin-bottom: 4px;
+  margin-right: 48px;
+}
+.add-signal-sub {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  color: var(--text3);
+  letter-spacing: 0.06em;
+  margin-bottom: 20px;
+}
+.add-signal-moments {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 6px;
+}
+.add-signal-moment-label {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 0.06em;
+  color: var(--text2);
+  background: rgba(255,255,255,0.03);
+  border: 1px solid var(--border2);
+  border-radius: 20px;
+  padding: 4px 10px;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.add-signal-moment-label:has(input:checked) {
+  color: var(--accent);
+  border-color: rgba(200,241,53,0.45);
+  background: rgba(200,241,53,0.06);
+}
+.add-signal-moment-label input { display: none; }
+.add-signal-submit {
+  margin-top: 22px;
+  width: 100%;
+  background: var(--accent);
+  color: #000;
+  font-family: 'DM Mono', monospace;
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border: none;
+  border-radius: 8px;
+  padding: 13px;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.add-signal-submit:hover:not(:disabled) { background: #d4f84a; }
+.add-signal-submit:disabled { opacity: 0.35; cursor: not-allowed; }
+.add-signal-status {
+  margin-top: 10px;
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 0.06em;
+  text-align: center;
+  min-height: 16px;
+}
 
 /* CTA */
 .view-companies-btn {
@@ -1786,6 +1938,7 @@ body {
         </div>
         <div class="signals-feed-actions">
           <span class="signals-pill" id="signalsStatusPill">Loading…</span>
+          <button class="signals-btn" id="addSignalBtn" onclick="openAddSignalModal()" style="display:none">+ Add Signal</button>
           <button class="signals-btn" id="signalsAuthBtn" onclick="signalsAuthClick()">Sign in</button>
         </div>
       </div>
@@ -2886,7 +3039,7 @@ function closePrimer() {
 
 // ── KEYBOARD ───────────────────────────────────────────────────────
 document.addEventListener('keydown', e => {
-  if (e.key === 'Escape') { closeDetail(); closePrimer(); }
+  if (e.key === 'Escape') { closeDetail(); closePrimer(); closeAddSignalModal(); }
 });
 
 // ── LIVE SIGNALS ────────────────────────────────────────────────────
@@ -2913,21 +3066,25 @@ function initSupabase() {
 
 function updateSignalsAuthUI() {
   const btn = document.getElementById('signalsAuthBtn');
+  const addBtn = document.getElementById('addSignalBtn');
   if (!btn) return;
   if (!supabaseClient) {
     btn.textContent = 'Auth off';
     btn.disabled = true;
     btn.style.opacity = '0.55';
+    if (addBtn) addBtn.style.display = 'none';
     return;
   }
   if (signalsUser) {
     btn.textContent = 'Sign out';
     btn.disabled = false;
     btn.style.opacity = '1';
+    if (addBtn) addBtn.style.display = '';
   } else {
     btn.textContent = 'Sign in';
     btn.disabled = false;
     btn.style.opacity = '1';
+    if (addBtn) addBtn.style.display = 'none';
   }
 }
 
@@ -3007,6 +3164,86 @@ if (supabaseClient) {
       if (currentPanel === 4) renderSignalsFeed();
     });
   });
+}
+
+// ── ADD SIGNAL MODAL ────────────────────────────────────────────────
+
+function openAddSignalModal() {
+  if (!signalsUser) return;
+  document.getElementById('addSignalOverlay').classList.add('open');
+  document.getElementById('addSignalPanel').classList.add('open');
+  document.getElementById('addSignalStatus').textContent = '';
+  setTimeout(() => document.getElementById('asTitle').focus(), 80);
+}
+
+function closeAddSignalModal() {
+  document.getElementById('addSignalOverlay').classList.remove('open');
+  document.getElementById('addSignalPanel').classList.remove('open');
+}
+
+function validateAddSignal() {
+  const title = (document.getElementById('asTitle').value || '').trim();
+  const link  = (document.getElementById('asLink').value  || '').trim();
+  document.getElementById('addSignalSubmit').disabled = !(title && link);
+}
+
+async function submitAddSignal() {
+  const btn = document.getElementById('addSignalSubmit');
+  const statusEl = document.getElementById('addSignalStatus');
+  const title   = (document.getElementById('asTitle').value    || '').trim();
+  const link    = (document.getElementById('asLink').value     || '').trim();
+  const company = (document.getElementById('asCompany').value  || '').trim();
+  const summary = (document.getElementById('asSummary').value  || '').trim();
+  const layer   = parseInt(document.getElementById('asLayer').value, 10);
+  const moments = Array.from(document.querySelectorAll('input[name="asMoment"]:checked')).map(el => el.value);
+
+  if (!title || !link) return;
+
+  // Simple deterministic ID from title+link
+  const raw = title + link;
+  let hash = 0;
+  for (let i = 0; i < raw.length; i++) { hash = ((hash << 5) - hash + raw.charCodeAt(i)) | 0; }
+  const id = 'li' + Math.abs(hash).toString(36).slice(0, 10);
+
+  const today = new Date();
+  const dateStr = today.toLocaleDateString('en-US', { month: 'short', day: '2-digit', year: '2-digit' });
+
+  const row = {
+    id,
+    link,
+    title,
+    summary,
+    company,
+    source: 'LinkedIn (manual)',
+    layer,
+    access: moments.includes('fund_launch') || moments.includes('pe_investment') ? 'pe'
+          : moments.includes('funding_round') ? 'venture' : 'pe',
+    score: 10 + moments.length * 4,
+    moments,
+    published_text: dateStr,
+  };
+
+  btn.disabled = true;
+  statusEl.style.color = 'var(--text3)';
+  statusEl.textContent = 'Saving…';
+
+  try {
+    const { error } = await supabaseClient.from('signals').upsert([row], { onConflict: 'link' });
+    if (error) throw error;
+    statusEl.style.color = 'var(--accent)';
+    statusEl.textContent = 'Saved! Signal added to feed.';
+    // Reset form fields
+    ['asTitle','asLink','asCompany','asSummary'].forEach(id => { document.getElementById(id).value = ''; });
+    document.querySelectorAll('input[name="asMoment"]').forEach(el => { el.checked = false; });
+    document.getElementById('asLayer').value = '1';
+    // Refresh live signals so the new entry appears immediately
+    fetchLiveSignals().then(() => { if (typeof renderSignalsFeed === 'function') renderSignalsFeed(); });
+    setTimeout(closeAddSignalModal, 1400);
+  } catch (err) {
+    statusEl.style.color = '#f87171';
+    statusEl.textContent = 'Error: ' + (err.message || 'could not save');
+    btn.disabled = false;
+  }
 }
 
 function getLiveSignalsForLayer(layerIndex) {

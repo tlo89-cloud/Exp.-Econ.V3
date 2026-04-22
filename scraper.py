@@ -63,6 +63,12 @@ SOURCES = [
     {"url": "https://www.pehub.com/feed/",                           "name": "PE Hub"},
     {"url": "https://www.wsj.com/xml/rss/3_7085.xml",                "name": "WSJ Sports"},
     {"url": "https://www.wsj.com/xml/rss/3_7014.xml",                "name": "WSJ Biz"},
+    {"url": "https://news.crunchbase.com/feed/",                     "name": "Crunchbase News"},
+    {"url": "https://techcrunch.com/category/startups/feed/",        "name": "TechCrunch Startups"},
+    {"url": "https://www.axios.com/feeds/feed.rss",                  "name": "Axios"},
+    {"url": "https://www.privateequitywire.co.uk/feed/",             "name": "PE Wire"},
+    {"url": "https://www.altassets.net/feed",                         "name": "AltAssets"},
+    {"url": "https://www.globenewswire.com/RssFeed/subjectcode/15",  "name": "GlobeNewsWire Deals"},
 
     # ── Tier 5: Venue & Infrastructure ────────────────────────────────
     {"url": "https://www.venuestoday.com/rss",                       "name": "Venues Today"},
@@ -95,6 +101,9 @@ MOMENT_PATTERNS = {
     "record_breaking":      [r"record-breaking|sets? record|highest.grossing|most.watched|largest ever|all.time high"],
     "pe_investment":        [r"private equity", r"pe (?:firm|fund|investment)", r"institutional investor"],
     "streaming_milestone":  [r"billion streams?", r"million listeners?", r"spotify|apple music.+record"],
+    "fund_launch":          [r"launches? (?:\S+ )*(?:new )?fund\b", r"closes? (?:.+ )?(?:fund|capital)\b", r"fund (?:close|closing|launch|formation)", r"fund (?:i{1,4}v?|one|two|three|four|five)\b", r"\bnew fund\b", r"\$[\d\.]+[bm] fund\b"],
+    "company_launch":       [r"launches? (?:new )?(?:company|startup|venture|platform)", r"announces? (?:launch|formation|founding)", r"spins? (?:out|off)", r"co-?founded|founds?"],
+    "lp_commitment":        [r"limited partner", r"\blp commitment\b", r"commits? \$[\d\.]+[bm] to"],
 }
 
 # ── KEYWORD SCORING ───────────────────────────────────────────────────
@@ -106,6 +115,9 @@ HIGH_VALUE = [
     "private equity", "investment", "media rights", "rights deal",
     "billion", "stadium", "arena", "venue", "franchise", "ownership",
     "partnership", "expansion", "antitrust", "doj", "lawsuit",
+    "new fund", "fund launch", "fund close", "fund closing", "fund formation",
+    "new company", "spin-off", "spun out", "founded", "co-founded",
+    "limited partner", "general partner", "lp commitment", "gp",
     # Live entertainment business (+3)
     "tour", "touring", "concert", "festival", "headline", "headlining",
     "ticket sales", "sold out", "gross", "grossed", "revenue",
@@ -126,6 +138,8 @@ LAYER_KEYWORDS = {
         "comedy", "theater", "broadway", "immersive",
         "madonna", "taylor swift", "beyonce",  # major artists as signals
         "surprise guest", "surprise appearance", "brings out",
+        "new fund", "fund launch", "fund close", "sports fund",
+        "entertainment fund", "media fund", "experience fund",
     ],
     2: [  # Physical Infrastructure
         "stadium", "arena", "venue", "sphere entertainment", "cosm",
@@ -175,6 +189,20 @@ NOISE_KEYWORDS = [
     "power rankings", "how to watch", "stream free",
     "recipe", "horoscope", "crossword",
 ]
+
+# Minimum shared significant words between two titles to treat them as the same story.
+# "KKR achieves 15x return on data center" vs "15x return by KKR on data center sale"
+# share 5 significant words → deduped. Two different "tour announcement" headlines
+# might share 2-3 words → kept separate.
+TITLE_DEDUPE_MIN_SHARED = 4
+
+STOPWORDS = {
+    'a','an','the','and','or','but','in','on','at','to','for','of','with',
+    'by','from','is','are','was','were','be','been','has','have','had',
+    'will','would','could','should','may','might','this','that','these',
+    'those','its','it','as','up','out','into','about','over','after',
+    'new','says','say','said','how','what','who','why','when','where',
+}
 
 ACCESS_HINTS = {
     "public":  ["nyse", "nasdaq", "stock", "shares", "public company", "publicly traded", "earnings"],
@@ -345,7 +373,35 @@ def fetch_feed(source):
 
     return articles
 
+# ── TITLE SIMILARITY DEDUPE ───────────────────────────────────────────
+
+def title_tokens(title):
+    """Significant words in a title — lowercase, no punctuation, no stopwords."""
+    words = re.sub(r'[^\w\s]', '', title.lower()).split()
+    return set(w for w in words if w not in STOPWORDS and len(w) > 2)
+
+
+def dedupe_similar_titles(articles):
+    """
+    Remove near-duplicate stories that cover the same event across sources.
+    Articles are pre-sorted highest-score first so the best version is always kept.
+    """
+    kept = []
+    kept_tokens = []
+    for article in articles:
+        tokens = title_tokens(article['title'])
+        is_dup = any(
+            len(tokens & existing) >= TITLE_DEDUPE_MIN_SHARED
+            for existing in kept_tokens
+        )
+        if not is_dup:
+            kept.append(article)
+            kept_tokens.append(tokens)
+    return kept
+
+
 # ── MAIN ──────────────────────────────────────────────────────────────
+
 
 def run():
     print(f"\n=== Experience Economy Scraper v2 — {datetime.now().strftime('%Y-%m-%d %H:%M UTC')} ===\n")
@@ -384,7 +440,12 @@ def run():
 
     print(f"\nTotal relevant articles (pre-dedupe): {len(all_articles)}")
     all_articles = dedupe_articles(all_articles)
-    print(f"Total relevant articles (post-dedupe): {len(all_articles)}")
+    print(f"Total relevant articles (post-url-dedupe): {len(all_articles)}")
+
+    # Sort before title-dedupe so the highest-scoring version is always kept
+    all_articles.sort(key=lambda x: (len(x.get('moments', [])), x['score']), reverse=True)
+    all_articles = dedupe_similar_titles(all_articles)
+    print(f"Total relevant articles (post-title-dedupe): {len(all_articles)}")
 
     # Deduplicate against existing
     new_articles = [a for a in all_articles if a["id"] not in existing_ids]

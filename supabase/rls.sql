@@ -13,6 +13,14 @@ for select
 to authenticated
 using (true);
 
+-- Authenticated users can insert/upsert signals (e.g. manual LinkedIn intake).
+drop policy if exists "signals_insert_auth" on public.signals;
+create policy "signals_insert_auth"
+on public.signals
+for insert
+to authenticated
+with check (true);
+
 -- signal_triage: each user can read/write only their rows.
 drop policy if exists "triage_read_own" on public.signal_triage;
 create policy "triage_read_own"
