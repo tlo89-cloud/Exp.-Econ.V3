@@ -563,19 +563,6 @@ body {
   border-bottom: 1px solid var(--border);
 }
 .signal-row:last-child { border-bottom: none; }
-.signal-live { background: rgba(200,241,53,0.03); border-radius: 4px; padding: 12px 8px; margin: 0 -8px; }
-.signal-live-badge {
-  font-family: 'DM Mono', monospace;
-  font-size: 8px;
-  letter-spacing: 0.12em;
-  color: var(--accent);
-  border: 1px solid var(--accent);
-  border-radius: 3px;
-  padding: 1px 5px;
-  margin-left: 6px;
-  vertical-align: middle;
-  opacity: 0.8;
-}
 
 .signal-date {
   font-family: 'DM Mono', monospace;
@@ -1991,8 +1978,8 @@ function buildLayerPanel(idx) {
   const allSignals = [...live, ...d.signals];
 
   const signalsHTML = allSignals.map(s => `
-    <div class="signal-row${s.isLive ? ' signal-live' : ''}">
-      <div class="signal-date">${s.date}${s.isLive ? ' <span class="signal-live-badge">LIVE</span>' : ''}</div>
+    <div class="signal-row">
+      <div class="signal-date">${s.date}</div>
       <div class="signal-dot" style="background:${DOT_COLORS[s.access] || 'var(--text3)'}"></div>
       <div class="signal-text"><span class="signal-company">${s.company}</span> - ${s.text}</div>
     </div>

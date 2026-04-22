@@ -280,10 +280,10 @@ def format_date(entry):
     try:
         if hasattr(entry, 'published_parsed') and entry.published_parsed:
             dt = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
-            return dt.strftime("%b %Y")
+            return dt.strftime("%b %d, %y")
     except Exception:
         pass
-    return datetime.now(timezone.utc).strftime("%b %Y")
+    return datetime.now(timezone.utc).strftime("%b %d, %y")
 
 
 def article_id(title, url):
@@ -350,18 +350,30 @@ def fetch_feed(source):
 def run():
     print(f"\n=== Experience Economy Scraper v2 — {datetime.now().strftime('%Y-%m-%d %H:%M UTC')} ===\n")
 
-    # Load existing scraped events (Option B: merge with existing)
-    existing = []
-    if os.path.exists(OUTPUT_FILE):
-        try:
-            with open(OUTPUT_FILE) as f:
-                data = json.load(f)
-                existing = data.get("scraped", [])
-            print(f"Loaded {len(existing)} existing events\n")
-        except Exception as e:
-            print(f"Could not load existing events: {e}\n")
+    def dedupe_articles(articles):
+        """
+        Remove duplicates.
+        Prefer the highest-signal version (more moments, higher score).
+        Dedupe primarily by link (stable), falling back to id.
+        """
+        best_by_key = {}
+        for a in articles:
+            key = (a.get("link") or "").strip() or a["id"]
+            prev = best_by_key.get(key)
+            if not prev:
+                best_by_key[key] = a
+                continue
 
-    existing_ids = {e["id"] for e in existing}
+            prev_rank = (len(prev.get("moments", [])), prev.get("score", 0))
+            a_rank = (len(a.get("moments", [])), a.get("score", 0))
+            if a_rank > prev_rank:
+                best_by_key[key] = a
+
+        return list(best_by_key.values())
+
+    # Build a fresh snapshot each run (prevents stale metadata like month-only dates)
+    existing = []
+    existing_ids = set()
 
     # Fetch all sources
     print("Fetching sources...")
@@ -370,7 +382,9 @@ def run():
         articles = fetch_feed(source)
         all_articles.extend(articles)
 
-    print(f"\nTotal relevant articles: {len(all_articles)}")
+    print(f"\nTotal relevant articles (pre-dedupe): {len(all_articles)}")
+    all_articles = dedupe_articles(all_articles)
+    print(f"Total relevant articles (post-dedupe): {len(all_articles)}")
 
     # Deduplicate against existing
     new_articles = [a for a in all_articles if a["id"] not in existing_ids]
@@ -398,6 +412,7 @@ def run():
 
     # Merge and trim
     combined = filtered + existing
+    combined = dedupe_articles(combined)
     combined = combined[:MAX_EVENTS]
 
     output = {
