@@ -2609,7 +2609,13 @@ function renderSignalsFeed() {
       if (!outreachOnly) return true;
       return !!outreachBySignalId[s.id];
     })
-    .sort((a, b) => parseSignalDate(b.date) - parseSignalDate(a.date));
+    .sort((a, b) => {
+      // Moment-tagged signals first, then chronological within each group
+      const am = (Array.isArray(a.moments) && a.moments.length) ? 1 : 0;
+      const bm = (Array.isArray(b.moments) && b.moments.length) ? 1 : 0;
+      if (bm !== am) return bm - am;
+      return parseSignalDate(b.date) - parseSignalDate(a.date);
+    });
 
   pill.textContent = `${items.length} signals`;
 
@@ -2618,12 +2624,16 @@ function renderSignalsFeed() {
     return;
   }
 
-  list.innerHTML = items.map(s => `
+  list.innerHTML = items.map(s => {
+    const sc = s.score || 0;
+    const scoreColor = sc >= 12 ? 'var(--accent)' : sc >= 7 ? 'var(--text2)' : 'var(--text3)';
+    return `
     <div class="signals-item" onclick="openSignalsDetail('${s.id}')">
       <div class="signals-item-date">${s.date || ''}</div>
-      <div>
+      <div style="flex:1;min-width:0;">
         <div class="signals-item-title">${s.title || ''}</div>
         <div class="signals-item-meta">
+          <span class="signals-chip" style="color:${scoreColor};border-color:currentColor;opacity:0.8">${sc}</span>
           <span class="signals-chip">${(s.source || 'Source')}</span>
           ${s.company ? `<span class="signals-chip">${s.company}</span>` : ''}
           ${Array.isArray(s.moments) && s.moments.length ? `<span class="signals-chip">${s.moments[0].replace(/_/g,' ')}</span>` : ''}
@@ -2633,7 +2643,7 @@ function renderSignalsFeed() {
         </div>
       </div>
     </div>
-  `).join('');
+  `}).join('');
 }
 
 function openSignalsDetail(signalId) {

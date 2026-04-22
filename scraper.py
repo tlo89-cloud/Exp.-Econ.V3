@@ -25,7 +25,7 @@ import ssl
 OUTPUT_FILE = "events.json"
 MAX_EVENTS = 60
 MAX_PER_LAYER = 8
-MIN_SCORE = 3
+MIN_SCORE = 4
 
 # ── NEWS SOURCES ──────────────────────────────────────────────────────
 
@@ -65,10 +65,13 @@ SOURCES = [
     {"url": "https://www.wsj.com/xml/rss/3_7014.xml",                "name": "WSJ Biz"},
     {"url": "https://news.crunchbase.com/feed/",                     "name": "Crunchbase News"},
     {"url": "https://techcrunch.com/category/startups/feed/",        "name": "TechCrunch Startups"},
+    {"url": "https://techcrunch.com/category/venture/feed/",         "name": "TechCrunch Venture"},
     {"url": "https://www.axios.com/feeds/feed.rss",                  "name": "Axios"},
     {"url": "https://www.privateequitywire.co.uk/feed/",             "name": "PE Wire"},
-    {"url": "https://www.altassets.net/feed",                         "name": "AltAssets"},
+    {"url": "https://www.altassets.net/feed",                        "name": "AltAssets"},
     {"url": "https://www.globenewswire.com/RssFeed/subjectcode/15",  "name": "GlobeNewsWire Deals"},
+    {"url": "https://www.prnewswire.com/rss/news-releases-list.rss", "name": "PR Newswire"},
+    {"url": "https://www.sportbusiness.com/feed/",                   "name": "Sport Business"},
 
     # ── Tier 5: Venue & Infrastructure ────────────────────────────────
     {"url": "https://www.venuestoday.com/rss",                       "name": "Venues Today"},
