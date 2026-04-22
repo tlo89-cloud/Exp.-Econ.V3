@@ -1,7 +1,24 @@
 {
-  "generated": "2026-04-22T19:57:35.065881+00:00",
+  "generated": "2026-04-22T20:31:52.347295+00:00",
   "total": 36,
   "scraped": [
+    {
+      "id": "7da294c1a8a0",
+      "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+      "summary": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the ",
+      "company": "Vercel CEO Guillermo Rauch",
+      "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+      "date": "Apr 13, 26",
+      "source": "TechCrunch Venture",
+      "layer": 2,
+      "access": "venture",
+      "score": 31,
+      "moments": [
+        "acquisition",
+        "ipo",
+        "company_launch"
+      ]
+    },
     {
       "id": "f2e64ff38870",
       "title": "Founders First Capital hits first close for $50m-targeting second fund",
@@ -113,22 +130,6 @@
       "moments": [
         "funding_round",
         "pe_investment"
-      ]
-    },
-    {
-      "id": "8e45eaf403a0",
-      "title": "Brightstar Capital acquires children\u2019s products provider Bendon",
-      "summary": "Bendon\u2019s founder and CEO, Ben Ferguson, will continue to lead the company. The post Brightstar Capital acquires children&#8217;s products provider Bendon appeared first on PE Hub.",
-      "company": "Brightstar Capital",
-      "link": "https://www.pehub.com/brightstar-capital-acquires-childrens-products-provider-bendon/",
-      "date": "Apr 22, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "acquisition",
-        "company_launch"
       ]
     },
     {
@@ -392,6 +393,21 @@
       ]
     },
     {
+      "id": "1330f93b1455",
+      "title": "Beck Confirms Fall 2026 Tour Dates Alongside New Single",
+      "summary": "Beck has released a new single titled \u201cRide Lonesome\u201d and announced a 25-date North American tour of the same name... The post Beck Confirms Fall 2026 Tour Dates Alongside New Single appeared first on",
+      "company": "Beck Confirms Fall",
+      "link": "https://www.ticketnews.com/2026/04/beck-confirms-fall-2026-tour-dates-alongside-new-single/",
+      "date": "Apr 22, 26",
+      "source": "Ticket News",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "tour_announcement"
+      ]
+    },
+    {
       "id": "db6ba793d78e",
       "title": "Illinois Lawmakers Race to Advance $5B Bears Stadium Plan",
       "summary": "State legislators race against the clock as a stadium decision nears.",
@@ -404,6 +420,21 @@
       "score": 9,
       "moments": [
         "venue_announcement"
+      ]
+    },
+    {
+      "id": "2527b3f08d50",
+      "title": "PE-backed Alcami to acquire Tjoapack",
+      "summary": "Headquartered in North Carolina, Alcami is a contract development and manufacturing organization. The post PE-backed Alcami to acquire Tjoapack appeared first on PE Hub.",
+      "company": "PE-backed Alcami to",
+      "link": "https://www.pehub.com/pe-backed-alcami-to-acquire-tjoapack/",
+      "date": "Apr 22, 26",
+      "source": "PE Hub",
+      "layer": 2,
+      "access": "pe",
+      "score": 8,
+      "moments": [
+        "acquisition"
       ]
     },
     {
@@ -435,42 +466,16 @@
       "moments": []
     },
     {
-      "id": "059a29b0fc1a",
-      "title": "Spurs Fans Must Wait Until Round 2 for Next Fiesta Shirt Night",
-      "summary": "The San Antonio Spurs have waited seven years since their last home playoff game in 2019, and the franchise returned to the postseason with a splash on Sunday night. The team distributed shirts in its",
-      "company": "Spurs Fans Must Wait Until Round",
-      "link": "https://www.sportico.com/leagues/basketball/2026/san-antonio-spurs-fiesta-night-shirts-jerseys-1234890732/",
-      "date": "Apr 21, 26",
-      "source": "Sportico",
-      "layer": 2,
-      "access": "pe",
-      "score": 10,
-      "moments": []
-    },
-    {
-      "id": "471114ae3c70",
-      "title": "\u2018I\u2019m not famous. But I can\u2019t go to the chippy\u2019: Courteeners\u2019 Liam Fray on filling stadiums, defying extinction \u2013 and wearing M&S pants",
-      "summary": "He launched a guitar band just as the world was moving on. But they still went stratospheric. Fray talks about uniting Manchester after the attacks \u2013 and writing his first single on a Fred Perry comp ",
-      "company": "\u2018I\u2019m",
-      "link": "https://www.theguardian.com/music/2026/apr/22/courteeners-liam-fray-manchester-attacks",
+      "id": "51b995110409",
+      "title": "SOUTHWEST AIRLINES REPORTS FIRST QUARTER RESULTS, BUSINESS TRANSFORMATION INITIATIVES DELIVER MEANINGFUL MARGIN EXPANSION",
+      "summary": "$227 million net income and $0.45 EPS, in line with guidance Operating margin of 4.6%, an improvement of 8.1 points year-over-year Generated $1.4 billion in operating cash flow in the quarter Record f",
+      "company": "",
+      "link": "https://www.prnewswire.com/news-releases/southwest-airlines-reports-first-quarter-results-business-transformation-initiatives-deliver-meaningful-margin-expansion-302750840.html",
       "date": "Apr 22, 26",
-      "source": "Guardian Music",
+      "source": "PR Newswire",
       "layer": 2,
       "access": "pe",
-      "score": 10,
-      "moments": []
-    },
-    {
-      "id": "d5ab954e4aab",
-      "title": "Maximize Every Square Foot: Using Digital Authority to Win High-Value Venue Bookings",
-      "summary": "Source: ChatGPT Event organizers often struggle to secure premium venue bookings even when their content or services are strong. Limited visibility, unclear reputation, and weak online authority can r",
-      "company": "Maximize Every Square Foot",
-      "link": "https://venuestoday.com/maximize-every-square-foot-using-digital-authority-to-win-high-value-venue-bookings/?utm_source=rss&utm_medium=rss&utm_campaign=maximize-every-square-foot-using-digital-authority-to-win-high-value-venue-bookings",
-      "date": "Mar 04, 26",
-      "source": "Venues Today",
-      "layer": 2,
-      "access": "pe",
-      "score": 10,
+      "score": 14,
       "moments": []
     },
     {
@@ -526,13 +531,13 @@
       "moments": []
     },
     {
-      "id": "ea3f022fc27e",
-      "title": "Finance Complaint List Warns of a 500% Surge in AI-Powered Deepfake Crypto Scams Driven by Celebrity Impersonations",
-      "summary": "Globally people are losing millions in minutes as hyper-realistic videos, fake news broadcasts, and live executive impersonations turn artificial intelligence into the most dangerous fraud weapon of 2",
-      "company": "Finance Complaint List Warns",
-      "link": "https://venuestoday.com/finance-complaint-list-warns-of-a-500-surge-in-ai-powered-deepfake-crypto-scams-driven-by-celebrity-impersonations/?utm_source=rss&utm_medium=rss&utm_campaign=finance-complaint-list-warns-of-a-500-surge-in-ai-powered-deepfake-crypto-scams-driven-by-celebrity-impersonations",
-      "date": "Feb 04, 26",
-      "source": "Venues Today",
+      "id": "e28043986191",
+      "title": "From host broadcaster to digital storyteller: why HBS launched skroller, with the support of Bubble Agency",
+      "summary": "Broadcasters are reengineering themselves for an always-on, audience-first world. Source",
+      "company": "From host broadcaster to digital storyteller",
+      "link": "https://www.sportbusiness.com/2026/03/from-host-broadcaster-to-digital-storyteller-why-hbs-launched-skroller-with-the-support-of-bubble-agency/?utm_source=rss&utm_medium=rss&utm_campaign=from-host-broadcaster-to-digital-storyteller-why-hbs-launched-skroller-with-the-support-of-bubble-agency",
+      "date": "Mar 23, 26",
+      "source": "Sport Business",
       "layer": 3,
       "access": "pe",
       "score": 5,
