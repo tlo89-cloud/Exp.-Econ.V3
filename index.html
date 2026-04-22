@@ -2610,11 +2610,9 @@ function renderSignalsFeed() {
       return !!outreachBySignalId[s.id];
     })
     .sort((a, b) => {
-      // Moment-tagged signals first, then chronological within each group
-      const am = (Array.isArray(a.moments) && a.moments.length) ? 1 : 0;
-      const bm = (Array.isArray(b.moments) && b.moments.length) ? 1 : 0;
-      if (bm !== am) return bm - am;
-      return parseSignalDate(b.date) - parseSignalDate(a.date);
+      const dateDiff = parseSignalDate(b.date) - parseSignalDate(a.date);
+      if (dateDiff !== 0) return dateDiff;
+      return (b.score || 0) - (a.score || 0);
     });
 
   pill.textContent = `${items.length} signals`;
