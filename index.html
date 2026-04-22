@@ -612,9 +612,10 @@ body {
 
 /* Signals Feed */
 .signals-feed {
-  padding: 26px 30px 40px;
-  max-width: 1180px;
-  margin: 0 auto;
+  /* push content below fixed header so back button is visible */
+  padding: 86px 28px 44px;
+  max-width: none;
+  margin: 0;
 }
 .signals-feed-header {
   display: flex;
@@ -622,6 +623,9 @@ body {
   justify-content: space-between;
   gap: 14px;
   margin-bottom: 16px;
+}
+.signals-feed-header .back-btn {
+  margin-bottom: 14px; /* tighter in this header block */
 }
 .signals-feed-title {
   font-size: 18px;
@@ -649,7 +653,7 @@ body {
 }
 .signals-layout {
   display: grid;
-  grid-template-columns: 240px 1fr;
+  grid-template-columns: 280px 1fr;
   gap: 16px;
   margin-top: 14px;
 }
