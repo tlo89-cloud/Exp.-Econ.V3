@@ -35,3 +35,4 @@ jobs:
           git add events.json
           git diff --staged --quiet || git commit -m "chore: update news signals $(date -u '+%Y-%m-%d')"
           git push
+
