@@ -1,21 +1,22 @@
 {
-  "generated": "2026-04-22T03:41:34.655575+00:00",
-  "total": 35,
+  "generated": "2026-04-22T19:57:35.065881+00:00",
+  "total": 36,
   "scraped": [
     {
-      "id": "a101ed8d6462",
-      "title": "Karol G Announces Massive \u2018Viajando Por El Mundo Tropitour\u2019 Global Stadium Tour Dates",
-      "summary": "Following her critically acclaimed headline performances at the Coachella festival, Colombian superstar Karol G has announced \u201cViajando Por El Mundo Tropitour,\u201d a massive global tour beginning this su",
-      "company": "Karol",
-      "link": "https://variety.com/2026/music/news/karol-g-viajando-por-el-mundo-tropitour-stadium-tour-dates-1236726945/",
+      "id": "f2e64ff38870",
+      "title": "Founders First Capital hits first close for $50m-targeting second fund",
+      "summary": "Alternative credit investor Founders First Capital Partners has reached a first close for its $50m-targeting sophomore fund. The post Founders First Capital hits first close for $50m-targeting second ",
+      "company": "Founders First Capital hits first",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/founders-first-capital-hits-first-close-for-50m-targeting-second-fund.html",
       "date": "Apr 21, 26",
-      "source": "Variety Music",
-      "layer": 1,
+      "source": "AltAssets",
+      "layer": 5,
       "access": "pe",
-      "score": 26,
+      "score": 17,
       "moments": [
-        "tour_announcement",
-        "festival_headliner"
+        "pe_investment",
+        "fund_launch",
+        "company_launch"
       ]
     },
     {
@@ -25,7 +26,7 @@
       "company": "How Coachella Became",
       "link": "https://www.nytimes.com/2026/04/20/arts/music/coachella-guests-madonna-sabrina-carpenter.html",
       "date": "Apr 20, 26",
-      "source": "NYT Arts",
+      "source": "NYT Music",
       "layer": 1,
       "access": "pe",
       "score": 22,
@@ -35,19 +36,19 @@
       ]
     },
     {
-      "id": "252d10a17447",
-      "title": "Lykke Li announces one-off London headline show",
-      "summary": "Her new album 'The Afterparty' arrives next month The post Lykke Li announces one-off London headline show appeared first on NME.",
-      "company": "Lykke Li",
-      "link": "https://www.nme.com/news/music/lykke-li-announces-one-off-london-headline-show-buy-tickets-3941658?utm_source=rss&utm_medium=rss&utm_campaign=lykke-li-announces-one-off-london-headline-show-buy-tickets",
-      "date": "Apr 21, 26",
+      "id": "80da1f9f7d18",
+      "title": "Tricky announces new album \u2018Different When It\u2019s Silent\u2019 with paranoid single \u2018Out Of Place\u2019 and summer UK and European tour dates",
+      "summary": "It is the trip-hop pioneer's first full solo album since 2020's 'Fall To Pieces' The post Tricky announces new album &#8216;Different When It\u2019s Silent&#8217; with paranoid single &#8216;Out Of Place&#",
+      "company": "Tricky",
+      "link": "https://www.nme.com/news/music/tricky-announces-new-album-different-when-its-silent-with-paranoid-single-out-of-place-and-summer-uk-and-european-tour-dates-3941866?utm_source=rss&utm_medium=rss&utm_campaign=tricky-announces-new-album-different-when-its-silent-with-paranoid-single-out-of-place-and-summer-uk-and-european-tour-dates",
+      "date": "Apr 22, 26",
       "source": "NME",
       "layer": 1,
       "access": "pe",
       "score": 18,
       "moments": [
         "album_announcement",
-        "festival_headliner"
+        "tour_announcement"
       ]
     },
     {
@@ -83,28 +84,156 @@
       ]
     },
     {
-      "id": "fd6262b92904",
-      "title": "Karol G announces \u2018Viajando Por El Mundo Tropitour\u2019 world stadium tour \u2013 including huge London show in 2027",
-      "summary": "It comes hot on the heels of the Colombian's historic headline show at Coachella The post Karol G announces &#8216;Viajando Por El Mundo Tropitour&#8217; world stadium tour \u2013 including huge London sho",
-      "company": "Karol G",
-      "link": "https://www.nme.com/news/music/karol-g-announces-viajando-por-el-mundo-tropitour-world-stadium-tour-including-huge-london-show-in-2027-3941722?utm_source=rss&utm_medium=rss&utm_campaign=karol-g-announces-viajando-por-el-mundo-tropitour-world-stadium-tour-including-huge-london-show-in-2027",
+      "id": "8593bd30d014",
+      "title": "Baird Capital holds Fund III at $450m hard cap despite additional LP demand",
+      "summary": "Baird's private equity investment arm, Baird Capital, has reached a $450m hard cap final close for its third global fund. The post Baird Capital holds Fund III at $450m hard cap despite additional LP ",
+      "company": "Baird Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/baird-capital-holds-fund-iii-at-450m-hard-cap-despite-additional-lp-demand.html",
+      "date": "Apr 22, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "778e83e6b8ec",
+      "title": "EQT raises $15.6bn for Asia Pacific\u2019s biggest private equity fund",
+      "summary": "Alternative assets major EQT has raised the Asia Pacific region's biggest-ever private equity fund, pulling in a hard-cap-beating $15.6bn at final close. The post EQT raises $15.6bn for Asia Pacific&#",
+      "company": "EQT",
+      "link": "https://www.altassets.net/private-equity-news/by-region/asia-by-region/eqt-raises-15-6bn-for-asia-pacifics-biggest-private-equity-fund.html",
       "date": "Apr 21, 26",
-      "source": "NME",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "funding_round",
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "8e45eaf403a0",
+      "title": "Brightstar Capital acquires children\u2019s products provider Bendon",
+      "summary": "Bendon\u2019s founder and CEO, Ben Ferguson, will continue to lead the company. The post Brightstar Capital acquires children&#8217;s products provider Bendon appeared first on PE Hub.",
+      "company": "Brightstar Capital",
+      "link": "https://www.pehub.com/brightstar-capital-acquires-childrens-products-provider-bendon/",
+      "date": "Apr 22, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "acquisition",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "f1e1e7d30c5f",
+      "title": "CVC and GTCR make joint take-private bid for Teleflex",
+      "summary": "Private equity firms CVC Capital Partners and GTCR have made a joint proposal to acquire medical device manufacturer Teleflex and take the company private, according to a report by Reuters citing an u",
+      "company": "CVC and GTCR make",
+      "link": "https://www.privateequitywire.co.uk/cvc-and-gtcr-make-joint-take-private-bid-for-teleflex/",
+      "date": "Apr 22, 26",
+      "source": "PE Wire",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "acquisition",
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "e24d3ccc46a0",
+      "title": "Abenex hits halfway mark for Industries 9.0 fundraise, reaches 50% of \u20ac150m goal",
+      "summary": "French private equity investor Abenex has sealed a first close for its Industries 9.0 Fund, with commitments exceeding 50% of its \u20ac150m target. The post Abenex hits halfway mark for Industries 9.0 fun",
+      "company": "Abenex",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/france-western-europe-europe-by-region/abenex-hits-halfway-mark-for-industries-9-0-fundraise-reaches-50-of-e150m-goal.html",
+      "date": "Apr 22, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "9921c364be26",
+      "title": "HarbourVest hits $2.4bn to close new primary PE vehicle, down on $3bn predecessor fund",
+      "summary": "HarbourVest Partners has picked up about $2.4bn of commitments to close its thirteenth flagship US primaries fund, down on the $3bn it gathered for its predecessor vehicle. The post HarbourVest hits $",
+      "company": "HarbourVest",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208065.html",
+      "date": "Apr 22, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "8810db8e8600",
+      "title": "Alexis Smith of The Feminine Glow Emerges at the Center of the Feminine Energy Coaching Boom",
+      "summary": "DUBAI, UAE &#8211; &#160;The Feminine Glow, the fast-growing femininity and inner work platform founded by Alexis Smith, is gaining national attention as interest in coaching, self-development, and fe",
+      "company": "Alexis Smith",
+      "link": "https://venuestoday.com/alexis-smith-of-the-feminine-glow-emerges-at-the-center-of-the-feminine-energy-coaching-boom/?utm_source=rss&utm_medium=rss&utm_campaign=alexis-smith-of-the-feminine-glow-emerges-at-the-center-of-the-feminine-energy-coaching-boom",
+      "date": "Mar 29, 26",
+      "source": "Venues Today",
+      "layer": 2,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "acquisition",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "c2054008a5e5",
+      "title": "HairClub Launches $100,000 Aderans Helping Hearts Fund to Support Employees Facing Life\u2019s Unexpected Hardships",
+      "summary": "New initiative provides confidential emergency financial relief while empowering employees across Aderans\u2019 U.S. corporate businesses to support colleagues in times of crisis New initiative provides co",
+      "company": "HairClub Launches",
+      "link": "https://www.globenewswire.com/news-release/2026/04/06/3268535/0/en/HairClub-Launches-100-000-Aderans-Helping-Hearts-Fund-to-Support-Employees-Facing-Life-s-Unexpected-Hardships.html",
+      "date": "Apr 06, 26",
+      "source": "GlobeNewsWire Deals",
       "layer": 1,
       "access": "pe",
-      "score": 19,
+      "score": 10,
+      "moments": [
+        "acquisition",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "31744d175c3e",
+      "title": "Kanye West\u2019s Upcoming Concert in Italy Prompts Uproar After U.K., France, Switzerland and Poland Cancellations",
+      "summary": "After canceled gigs in the U.K., France, Switzerland and Poland, Kanye West&#8217;s upcoming concert in Italy is sparking an uproar due to the rapper&#8217;s antisemitic remarks. West, now known as Ye",
+      "company": "Kanye West\u2019s Upcoming Concert",
+      "link": "https://variety.com/2026/music/global/kanye-west-italy-concert-uproar-uk-france-cancellations-1236727651/",
+      "date": "Apr 22, 26",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 27,
       "moments": [
         "festival_headliner"
       ]
     },
     {
-      "id": "4e1040953905",
-      "title": "Karol G Reveals Massive Global Stadium \u2018Tropitour\u2019",
-      "summary": "Fresh off her headlining set at Coachella, Karol G is ready to cross the globe on a massive world tour.... The post Karol G Reveals Massive Global Stadium \u2018Tropitour\u2019 appeared first on TicketNews.",
-      "company": "Karol",
-      "link": "https://www.ticketnews.com/2026/04/karol-g-reveals-massive-global-stadium-tropitour/",
-      "date": "Apr 21, 26",
-      "source": "Ticket News",
+      "id": "931ed41f11b2",
+      "title": "Kanye West under pressure to cancel headline slot at Hellwat Festival in Italy following backlash: \u201cAnti-fascism for us is not a whim, but a value...",
+      "summary": "It comes after concerts in Switzerland, Poland and three shows at London's Wireless Festival were all axed The post Kanye West under pressure to cancel headline slot at Hellwat Festival in Italy follo",
+      "company": "Kanye West",
+      "link": "https://www.nme.com/news/music/kanye-west-under-pressure-to-cancel-headline-slot-at-hellwat-festival-in-italy-following-backlash-anti-fascism-for-us-is-not-a-whim-but-a-value-rooted-in-our-history-3941882?utm_source=rss&utm_medium=rss&utm_campaign=kanye-west-under-pressure-to-cancel-headline-slot-at-hellwat-festival-in-italy-following-backlash-anti-fascism-for-us-is-not-a-whim-but-a-value-rooted-in-our-history",
+      "date": "Apr 22, 26",
+      "source": "NME",
       "layer": 1,
       "access": "pe",
       "score": 19,
@@ -143,6 +272,21 @@
       ]
     },
     {
+      "id": "a44c309bb9fe",
+      "title": "5 Takeaways From the Live Nation Antitrust Trial",
+      "summary": "A jury found that the concert giant operated as a monopoly, a verdict that could have major reverberations in the music industry.",
+      "company": "Takeaways From",
+      "link": "https://www.nytimes.com/2026/04/15/arts/music/live-nation-antitrust-trial-monopoly-takeaways.html",
+      "date": "Apr 15, 26",
+      "source": "NYT Music",
+      "layer": 3,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
       "id": "d425c12a0b94",
       "title": "After Epstein scandal, Hollywood bidders race for Wasserman's $3-billion agency",
       "summary": "Beverly Hills agency UTA, former Endeavor Chairman Patrick Whitesell and private equity firms have expressed interest in Wasserman's sports marketing and music representation agency.",
@@ -158,31 +302,91 @@
       ]
     },
     {
-      "id": "6b9e67e7152b",
-      "title": "Joan Jett And The Blackhearts announce first UK headline tour in 16 years for summer 2026",
-      "summary": "\"It\u2019s been too long since we\u2019ve been in the UK and we\u2019re excited to see everyone!\u201d The post Joan Jett And The Blackhearts announce first UK headline tour in 16 years for summer 2026 appeared first on ",
-      "company": "Joan Jett And The Blackhearts",
-      "link": "https://www.nme.com/news/music/joan-jett-and-the-blackhearts-announce-first-uk-headline-tour-in-16-years-for-summer-2026-3941732?utm_source=rss&utm_medium=rss&utm_campaign=joan-jett-and-the-blackhearts-announce-first-uk-headline-tour-in-16-years-for-summer-2026",
+      "id": "7a468132ba18",
+      "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
+      "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
+      "company": "Kiro Eid Built",
+      "link": "https://venuestoday.com/kiro-eid-built-8x6-design-studio-here-is-how-he-did-it-without-a-network-or-shortcuts/?utm_source=rss&utm_medium=rss&utm_campaign=kiro-eid-built-8x6-design-studio-here-is-how-he-did-it-without-a-network-or-shortcuts",
+      "date": "Mar 28, 26",
+      "source": "Venues Today",
+      "layer": 2,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "8bf66d40ef98",
+      "title": "Judge orders Nexstar-Tegna to pause merger",
+      "summary": "A U.S. district judge on Friday issued a preliminary injunction requiring Nexstar and Tegna to remain separate, despite closing their $6.2 billion megamerger last month. Why it matters: The ruling sig",
+      "company": "Judge",
+      "link": "https://www.axios.com/2026/04/20/judge-orders-nexstar-tegna-to-pause-merger",
+      "date": "Apr 20, 26",
+      "source": "Axios",
+      "layer": 3,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "8bc2d379d16a",
+      "title": "FanDuel\u2019s Latest Injury Promo Gets People Talking\u2014and Betting",
+      "summary": "FanDuel\u2019s latest entry into the highly competitive arena of \u201cathlete injury protection\u201d sportsbook promotions drew strong reactions from both bettors and rival companies after it launched Saturday. In",
+      "company": "FanDuel\u2019s Latest Injury Promo Gets People",
+      "link": "https://www.sportico.com/business/sports-betting/2026/fanduel-bet-protect-expected-value-1234890905/",
+      "date": "Apr 22, 26",
+      "source": "Sportico",
+      "layer": 2,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "60f1eec3d8d3",
+      "title": "LISTEN: Why the Warner Bros.-Paramount Skydance Sale \u2018Symbolizes Big Changes in the Industry\u2019",
+      "summary": "On today\u2019s episode of &#8220;Daily Variety&#8221; podcast, Erik Gordon, a professor at the University of Michigan\u2019s Ross School of Business, breaks down the Warner Bros. Discovery sale saga as the com",
+      "company": "LISTEN",
+      "link": "https://variety.com/2026/biz/news/warner-bros-paramount-sale-erik-gordon-michigan-ross-1236728129/",
+      "date": "Apr 22, 26",
+      "source": "Variety Biz",
+      "layer": 3,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "e4cabbeaba97",
+      "title": "British Business Bank backs B2B software investor Episode 1 yet again, provides \u00a335m anchor investment",
+      "summary": "The British Business Bank has agreed to commit up to \u00a335m to the fourth fund being raised by pre-seed and seed investor Episode 1. The post British Business Bank backs B2B software investor Episode 1 ",
+      "company": "British Business Bank",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/100208036.html",
       "date": "Apr 21, 26",
-      "source": "NME",
+      "source": "AltAssets",
       "layer": 5,
       "access": "pe",
       "score": 12,
       "moments": [
-        "festival_headliner"
+        "pe_investment"
       ]
     },
     {
-      "id": "007e05907d29",
-      "title": "Standard Life merger with Aegon UK is \u2018good news for bigger GPs\u2019",
-      "summary": "The deal, which will form a life and pensions giant with a \u00a3480bn-odd asset portfolio, reflects the trend for consolidation among both LPs and managers. The post Standard Life merger with Aegon UK is ",
-      "company": "Standard Life",
-      "link": "https://www.pehub.com/standard-life-merger-with-aegon-uk-is-good-news-for-bigger-gps/",
-      "date": "Apr 21, 26",
-      "source": "PE Hub",
-      "layer": 2,
+      "id": "b67710bb0ca6",
+      "title": "Kornit Digital Acquires PrintFactory to Accelerate the Industry\u2019s Transition to Digital, On-Demand Production",
+      "summary": "Acquisition Strengthens Kornit\u2019s Platform Strategy, Expanding Digital Access to the Global Screen-Printing Market and Advancing Connected Infrastructure Linking Demand, Production and Fulfillment Acqu",
+      "company": "Kornit Digital Acquires PrintFactory",
+      "link": "https://www.globenewswire.com/news-release/2026/04/12/3272164/34898/en/Kornit-Digital-Acquires-PrintFactory-to-Accelerate-the-Industry-s-Transition-to-Digital-On-Demand-Production.html",
+      "date": "Apr 12, 26",
+      "source": "GlobeNewsWire Deals",
+      "layer": 4,
       "access": "pe",
-      "score": 11,
+      "score": 12,
       "moments": [
         "acquisition"
       ]
@@ -203,134 +407,14 @@
       ]
     },
     {
-      "id": "2755d508d1a2",
-      "title": "Century Park unveils new platform Green Summit Landscape Group",
-      "summary": "Green Summit\u2019s initial acquisitions are two Lansing, Michigan-based companies, R&#038;D Landscape and LandMark Landscape. The post Century Park unveils new platform Green Summit Landscape Group appear",
-      "company": "Century Park",
-      "link": "https://www.pehub.com/century-park-unveils-new-platform-green-summit-landscape-group/",
-      "date": "Apr 21, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "3d6874713684",
-      "title": "PE-backed Aqua Dermatology acquires Steele Dermatology",
-      "summary": "Headquartered in Palm Beach Gardens, Florida. Aqua is a provider of dermatology services in the Southeast. The post PE-backed Aqua Dermatology acquires Steele Dermatology appeared first on PE Hub.",
-      "company": "PE-backed Aqua Dermatology",
-      "link": "https://www.pehub.com/pe-backed-aqua-dermatology-acquires-steele-dermatology/",
-      "date": "Apr 21, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "7c06215c5f57",
-      "title": "HIG-backed Coriant acquires SCA",
-      "summary": "SCA is a provider of access, temporary containment, and industrial support services across the defense, marine and infrastructure sectors. The post HIG-backed Coriant acquires SCA appeared first on PE",
-      "company": "HIG-backed Coriant",
-      "link": "https://www.pehub.com/hig-backed-coriant-acquires-sca/",
-      "date": "Apr 21, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "60681c9c898c",
-      "title": "Osceola Capital-backed Fortify Restoration acquires Beach Contracting",
-      "summary": "Fortify Restoration is a provider of structural restoration services throughout Florida and the broader Southeast. The post Osceola Capital-backed Fortify Restoration acquires Beach Contracting appear",
-      "company": "Osceola Capital-backed Fortify Restoration",
-      "link": "https://www.pehub.com/osceola-capital-backed-fortify-restoration-acquires-beach-contracting/",
-      "date": "Apr 21, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "6b45d146e2b6",
-      "title": "PE-backed Thermal Concepts acquires commercial HVAC and food service equipment firm Hunter Mechanical",
-      "summary": "Headquartered in Davie, Florida, Thermal Concepts is a provider of maintenance, controls, repair and installation services for commercial HVAC and building control systems in the Southeast. The post P",
-      "company": "PE-backed Thermal Concepts",
-      "link": "https://www.pehub.com/pe-backed-thermal-concepts-acquires-commercial-hvac-and-food-service-equipment-firm-hunter-mechanical/",
-      "date": "Apr 21, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "b47429b5e74f",
-      "title": "Churchill Downs strikes $85m deal for Preakness intellectual property rights",
-      "summary": "Kentucky Derby owner to buy Preakness trademarksMaryland will keep staging race under licensing dealMove comes amid Triple Crown scheduling debateChurchill Downs has reached a deal to acquire the inte",
-      "company": "Churchill Downs",
-      "link": "https://www.theguardian.com/sport/2026/apr/21/churchill-downs-preakness-rights-85m-maryland-triple-crown",
-      "date": "Apr 21, 26",
-      "source": "Guardian Sport",
-      "layer": 4,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "380ddfeff12e",
-      "title": "HIG seeks bids for Capstone Logistics, sources say; Roofing deals draw Angeles Partners, Sumeru, Osceola and Huron",
-      "summary": "HIG Capital to collect first-round bids for Capstone Logistics by early May in a newly launched sale process, sources say; a look at what's drawing PE firms to the roofing sector. The post HIG seeks b",
-      "company": "HIG",
-      "link": "https://www.pehub.com/hig-seeks-bids-for-capstone-logistics-sources-say-roofing-deals-draw-angeles-partners-sumeru-osceola-and-huron/",
-      "date": "Apr 21, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "e94903db0944",
-      "title": "Catchment Capital to acquire manufacturer Isolatek",
-      "summary": "The seller is SK Capital. The post Catchment Capital to acquire manufacturer Isolatek appeared first on PE Hub.",
-      "company": "Catchment Capital to",
-      "link": "https://www.pehub.com/catchment-capital-to-acquire-manufacturer-isolatek/",
-      "date": "Apr 21, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "8810db8e8600",
-      "title": "Alexis Smith of The Feminine Glow Emerges at the Center of the Feminine Energy Coaching Boom",
-      "summary": "DUBAI, UAE &#8211; &#160;The Feminine Glow, the fast-growing femininity and inner work platform founded by Alexis Smith, is gaining national attention as interest in coaching, self-development, and fe",
-      "company": "Alexis Smith",
-      "link": "https://venuestoday.com/alexis-smith-of-the-feminine-glow-emerges-at-the-center-of-the-feminine-energy-coaching-boom/?utm_source=rss&utm_medium=rss&utm_campaign=alexis-smith-of-the-feminine-glow-emerges-at-the-center-of-the-feminine-energy-coaching-boom",
-      "date": "Mar 29, 26",
+      "id": "493fd25ac40c",
+      "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
+      "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
+      "company": "Navigating",
+      "link": "https://venuestoday.com/navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026/?utm_source=rss&utm_medium=rss&utm_campaign=navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026",
+      "date": "Apr 22, 26",
       "source": "Venues Today",
-      "layer": 2,
+      "layer": 3,
       "access": "pe",
       "score": 6,
       "moments": [
@@ -338,29 +422,16 @@
       ]
     },
     {
-      "id": "a44c309bb9fe",
-      "title": "5 Takeaways From the Live Nation Antitrust Trial",
-      "summary": "A jury found that the concert giant operated as a monopoly, a verdict that could have major reverberations in the music industry.",
-      "company": "Takeaways From",
-      "link": "https://www.nytimes.com/2026/04/15/arts/music/live-nation-antitrust-trial-monopoly-takeaways.html",
-      "date": "Apr 15, 26",
-      "source": "NYT Music",
-      "layer": 3,
-      "access": "pe",
-      "score": 12,
-      "moments": []
-    },
-    {
-      "id": "4da54bfa8279",
-      "title": "Live Nation and Ticketmaster Illegally Monopolized Ticketing Market, Jury Finds",
-      "summary": "In a verdict that could have far-reaching consequences in the music industry, the live colossus that includes Ticketmaster was found to have violated antitrust laws.",
-      "company": "Live Nation",
-      "link": "https://www.nytimes.com/2026/04/15/arts/music/live-nation-antitrust-trial-verdict-monopoly.html",
-      "date": "Apr 16, 26",
-      "source": "NYT Music",
-      "layer": 3,
-      "access": "pe",
-      "score": 11,
+      "id": "20efa470f119",
+      "title": "Rogers Planning Sports Team Stake Sale at $18 Billion Valuation",
+      "summary": "Rogers Communications\u2019 first-quarter financial results, announced Wednesday morning, largely matched analysts&#8217; revenue and earnings expectations, but the stock surged 11% on guidance of lower ca",
+      "company": "Rogers Planning Sports Team Stake Sale",
+      "link": "https://www.sportico.com/business/finance/2026/rogers-communications-earnings-sports-teams-toronto-1234890920/",
+      "date": "Apr 22, 26",
+      "source": "Sportico",
+      "layer": 2,
+      "access": "public",
+      "score": 14,
       "moments": []
     },
     {
@@ -371,6 +442,32 @@
       "link": "https://www.sportico.com/leagues/basketball/2026/san-antonio-spurs-fiesta-night-shirts-jerseys-1234890732/",
       "date": "Apr 21, 26",
       "source": "Sportico",
+      "layer": 2,
+      "access": "pe",
+      "score": 10,
+      "moments": []
+    },
+    {
+      "id": "471114ae3c70",
+      "title": "\u2018I\u2019m not famous. But I can\u2019t go to the chippy\u2019: Courteeners\u2019 Liam Fray on filling stadiums, defying extinction \u2013 and wearing M&S pants",
+      "summary": "He launched a guitar band just as the world was moving on. But they still went stratospheric. Fray talks about uniting Manchester after the attacks \u2013 and writing his first single on a Fred Perry comp ",
+      "company": "\u2018I\u2019m",
+      "link": "https://www.theguardian.com/music/2026/apr/22/courteeners-liam-fray-manchester-attacks",
+      "date": "Apr 22, 26",
+      "source": "Guardian Music",
+      "layer": 2,
+      "access": "pe",
+      "score": 10,
+      "moments": []
+    },
+    {
+      "id": "d5ab954e4aab",
+      "title": "Maximize Every Square Foot: Using Digital Authority to Win High-Value Venue Bookings",
+      "summary": "Source: ChatGPT Event organizers often struggle to secure premium venue bookings even when their content or services are strong. Limited visibility, unclear reputation, and weak online authority can r",
+      "company": "Maximize Every Square Foot",
+      "link": "https://venuestoday.com/maximize-every-square-foot-using-digital-authority-to-win-high-value-venue-bookings/?utm_source=rss&utm_medium=rss&utm_campaign=maximize-every-square-foot-using-digital-authority-to-win-high-value-venue-bookings",
+      "date": "Mar 04, 26",
+      "source": "Venues Today",
       "layer": 2,
       "access": "pe",
       "score": 10,
@@ -390,105 +487,40 @@
       "moments": []
     },
     {
-      "id": "7a468132ba18",
-      "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
-      "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
-      "company": "Kiro Eid Built",
-      "link": "https://venuestoday.com/kiro-eid-built-8x6-design-studio-here-is-how-he-did-it-without-a-network-or-shortcuts/?utm_source=rss&utm_medium=rss&utm_campaign=kiro-eid-built-8x6-design-studio-here-is-how-he-did-it-without-a-network-or-shortcuts",
-      "date": "Mar 28, 26",
-      "source": "Venues Today",
-      "layer": 2,
-      "access": "pe",
-      "score": 9,
-      "moments": []
-    },
-    {
-      "id": "a927279b87b3",
-      "title": "FIFA puts new round of World Cup tickets up for sale amid reports of lagging purchases",
-      "summary": "FIFA is opening up another round of ticket sales starting Wednesday. Tickets for the U.S. World Cup opener at SoFi Stadium reportedly are lagging.",
-      "company": "FIFA",
-      "link": "https://www.latimes.com/sports/soccer/story/2026-04-21/fifa-adds-world-cup-ticket-drop-amid-reports-of-lagging-sales",
-      "date": "Apr 21, 26",
-      "source": "LA Times Sports",
-      "layer": 2,
-      "access": "pe",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "7cd714299477",
-      "title": "LAFC faces big test against coach Bruce Arena and his Earthquakes",
-      "summary": "The legendary American manager has San Jos\u00e9 off to its best start in franchise history in his second season at the helm.",
-      "company": "LAFC",
-      "link": "https://www.latimes.com/sports/soccer/lafc/story/2026-04-19/lafc-faces-big-test-against-coach-bruce-arena-and-earthquakes",
-      "date": "Apr 19, 26",
-      "source": "LA Times Sports",
-      "layer": 2,
-      "access": "pe",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "5475d41d5771",
-      "title": "We Took on Live Nation and Won. Here\u2019s What the Verdict Means for Fans",
-      "summary": "Attorneys general Letitia James of New York and Jonathan Skrmetti of Tennessee discuss the historic trial and why antitrust \u201cisn\u2019t a partisan issue\u201d",
-      "company": "We Took",
-      "link": "https://www.rollingstone.com/music/music-features/live-nation-verdict-attorneys-general-fans-op-ed-1235551218/",
-      "date": "Apr 21, 26",
-      "source": "Rolling Stone Music",
+      "id": "aa3679f84b9f",
+      "title": "Live Nation Verdict, D4vd Murder Case, Bad Bunny Lawsuit, BTS Leak & More Top Music Law News",
+      "summary": "In this week's Legal Beat newsletter, Ticketmaster verdict fallout, a horrific murder charge, Bad Bunny's fee dispute, a BTS leak case and much more.",
+      "company": "Live Nation Verdict D4vd Murder Case",
+      "link": "https://www.billboard.com/pro/legal-beat-live-nation-verdict-d4vd-murder-case-bad-bunny/",
+      "date": "Apr 22, 26",
+      "source": "Billboard",
       "layer": 3,
       "access": "pe",
       "score": 7,
       "moments": []
     },
     {
-      "id": "d5ab954e4aab",
-      "title": "Maximize Every Square Foot: Using Digital Authority to Win High-Value Venue Bookings",
-      "summary": "Source: ChatGPT Event organizers often struggle to secure premium venue bookings even when their content or services are strong. Limited visibility, unclear reputation, and weak online authority can r",
-      "company": "Maximize Every Square Foot",
-      "link": "https://venuestoday.com/maximize-every-square-foot-using-digital-authority-to-win-high-value-venue-bookings/?utm_source=rss&utm_medium=rss&utm_campaign=maximize-every-square-foot-using-digital-authority-to-win-high-value-venue-bookings",
-      "date": "Mar 04, 26",
-      "source": "Venues Today",
-      "layer": 2,
-      "access": "pe",
-      "score": 7,
-      "moments": []
-    },
-    {
-      "id": "9be47823f87a",
-      "title": "Peachtree Entertainment Taps Live Nation Veterans to Accelerate National Expansion",
-      "summary": "Peachtree Entertainment is deepening its leadership bench with the addition of two seasoned industry executives, naming Aaron Siuda as Senior... The post Peachtree Entertainment Taps Live Nation Veter",
-      "company": "",
-      "link": "https://www.ticketnews.com/2026/04/peachtree-entertainment-taps-live-nation-veterans-expansion/",
-      "date": "Apr 21, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 7,
-      "moments": []
-    },
-    {
-      "id": "4de6b07151ee",
-      "title": "NCAA Weighs Changes to Stop \u2018Chaos\u2019 Amid Eligibility Lawsuits",
-      "summary": "The NCAA is weighing new eligibility rules that would allow athletes five years to compete from the time they turn 19 or when they graduate from high school\u2014whichever is earlier. In the meantime, it i",
-      "company": "NCAA Weighs Changes",
-      "link": "https://www.sportico.com/law/analysis/2026/ncaa-eligibility-lawsuits-rules-reform-1234890587/",
-      "date": "Apr 20, 26",
-      "source": "Sportico",
+      "id": "6b408e370a5c",
+      "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
+      "summary": "The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video.",
+      "company": "Luma",
+      "link": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
+      "date": "Apr 16, 26",
+      "source": "TechCrunch Startups",
       "layer": 4,
       "access": "pe",
       "score": 5,
       "moments": []
     },
     {
-      "id": "e34986c5024b",
-      "title": "After 55 years as a broadcaster in L.A., Randy Rosenbloom is leaving town",
-      "summary": "From high school to college to the pros, Randy Rosenbloom has been a broadcasting icon in Los Angeles.",
-      "company": "After",
-      "link": "https://www.latimes.com/sports/highschool/story/2026-04-19/broadcaster-randy-rosenbloom-is-leaving-for-south-carolina",
-      "date": "Apr 19, 26",
-      "source": "LA Times Sports",
-      "layer": 3,
+      "id": "17d351e2541b",
+      "title": "Trump invokes Cold War law in move to boost energy supply",
+      "summary": "President Trump said Monday he'll use a Cold War-era national security law to try and bolster domestic production of motor fuels and electricity.Why it matters: His use of the Defense Production Act c",
+      "company": "Trump",
+      "link": "https://www.axios.com/2026/04/20/trump-energy-fuel-cold-war-defense-law",
+      "date": "Apr 20, 26",
+      "source": "Axios",
+      "layer": 4,
       "access": "pe",
       "score": 5,
       "moments": []
