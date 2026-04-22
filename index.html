@@ -6,6 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Experience Economy Map</title>
 <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <style>
 :root {
   --bg: #0a0a0a;
@@ -108,6 +109,22 @@ body {
   align-items: center;
   gap: 20px;
 }
+
+.signals-btn {
+  font-family: 'DM Mono', monospace;
+  font-size: 9px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text3);
+  background: none;
+  border: 1px solid var(--border2);
+  border-radius: 3px;
+  padding: 4px 10px;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.signals-btn:hover { color: var(--accent); border-color: rgba(200,241,53,0.35); }
+.signals-btn.active { color: var(--accent); border-color: rgba(200,241,53,0.55); }
 
 .header-authors {
   display: flex;
@@ -592,6 +609,271 @@ body {
   font-weight: 500;
   color: var(--text);
 }
+
+/* Signals Feed */
+.signals-feed {
+  padding: 26px 30px 40px;
+  max-width: 1180px;
+  margin: 0 auto;
+}
+.signals-feed-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  margin-bottom: 16px;
+}
+.signals-feed-title {
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+.signals-feed-sub {
+  font-size: 12px;
+  color: var(--text3);
+  margin-top: 4px;
+}
+.signals-feed-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.signals-pill {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  color: var(--text2);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 7px 10px;
+  background: rgba(255,255,255,0.02);
+}
+.signals-layout {
+  display: grid;
+  grid-template-columns: 240px 1fr;
+  gap: 16px;
+  margin-top: 14px;
+}
+.signals-rail {
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  overflow: hidden;
+  background: rgba(255,255,255,0.02);
+}
+.signals-rail-header {
+  padding: 12px 12px;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.signals-rail-title {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text3);
+}
+.signals-tab {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 12px 12px;
+  cursor: pointer;
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+  transition: background 0.2s ease;
+}
+.signals-tab:hover { background: rgba(255,255,255,0.03); }
+.signals-tab.active { background: rgba(200,241,53,0.06); }
+.signals-tab-name {
+  font-size: 12px;
+  color: var(--text);
+}
+.signals-tab-count {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  color: var(--text3);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 4px 8px;
+}
+.signals-main {
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: rgba(255,255,255,0.02);
+  overflow: hidden;
+}
+.signals-filters {
+  padding: 12px;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+}
+.signals-toggle {
+  display: inline-flex;
+  border: 1px solid rgba(255,255,255,0.10);
+  border-radius: 10px;
+  overflow: hidden;
+}
+.signals-toggle button {
+  background: rgba(0,0,0,0.22);
+  border: none;
+  color: var(--text3);
+  padding: 10px 12px;
+  font-size: 12px;
+  cursor: pointer;
+}
+.signals-toggle button.active { color: var(--text); background: rgba(255,255,255,0.04); }
+.signals-check {
+  display: inline-flex;
+  gap: 8px;
+  align-items: center;
+  font-size: 12px;
+  color: var(--text3);
+  user-select: none;
+}
+.signals-check input { accent-color: var(--accent); }
+.signals-search {
+  flex: 1;
+  min-width: 220px;
+  background: rgba(0,0,0,0.22);
+  border: 1px solid rgba(255,255,255,0.08);
+  color: var(--text);
+  border-radius: 10px;
+  padding: 10px 12px;
+  font-size: 12px;
+  outline: none;
+}
+.signals-select {
+  background: rgba(0,0,0,0.22);
+  border: 1px solid rgba(255,255,255,0.08);
+  color: var(--text2);
+  border-radius: 10px;
+  padding: 10px 12px;
+  font-size: 12px;
+}
+.signals-list2 { padding: 2px 12px 10px; }
+.signals-item {
+  padding: 14px 6px;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+  display: grid;
+  grid-template-columns: 86px 1fr;
+  gap: 14px;
+  cursor: pointer;
+}
+.signals-item:last-child { border-bottom: none; }
+.signals-item:hover { background: rgba(255,255,255,0.02); }
+.signals-item-date {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  color: var(--text3);
+  padding-top: 2px;
+}
+.signals-item-title {
+  font-size: 12px;
+  color: var(--text);
+  line-height: 1.5;
+  margin-bottom: 6px;
+}
+.signals-item-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  font-size: 11px;
+  color: var(--text3);
+}
+.signals-chip {
+  font-family: 'DM Mono', monospace;
+  font-size: 9px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  border: 1px solid rgba(255,255,255,0.12);
+  border-radius: 999px;
+  padding: 4px 8px;
+  color: var(--text3);
+}
+.signals-empty {
+  padding: 26px 12px 30px;
+  color: var(--text3);
+  font-size: 12px;
+}
+
+/* Signals detail */
+.signals-detail-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.55);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease;
+  z-index: 1200;
+}
+.signals-detail-overlay.open { opacity: 1; pointer-events: all; }
+.signals-detail-panel {
+  position: fixed;
+  top: 52px;
+  right: 0;
+  height: calc(100vh - 52px);
+  width: min(520px, 96vw);
+  background: rgba(12,12,12,0.98);
+  border-left: 1px solid var(--border);
+  transform: translateX(100%);
+  transition: transform 0.25s ease;
+  z-index: 1201;
+  padding: 18px 18px 22px;
+  overflow-y: auto;
+}
+.signals-detail-panel.open { transform: translateX(0); }
+.signals-detail-close {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  border: 1px solid rgba(255,255,255,0.12);
+  background: rgba(255,255,255,0.03);
+  color: var(--text2);
+  border-radius: 10px;
+  padding: 8px 10px;
+  cursor: pointer;
+}
+.signals-detail-h1 { font-size: 14px; font-weight: 600; line-height: 1.4; margin-right: 48px; }
+.signals-detail-meta { margin-top: 10px; display: flex; flex-wrap: wrap; gap: 8px; }
+.signals-detail-body { margin-top: 14px; font-size: 12px; color: var(--text2); line-height: 1.65; }
+.signals-detail-actions { margin-top: 16px; display: flex; flex-wrap: wrap; gap: 10px; }
+.signals-action-btn {
+  border: 1px solid rgba(255,255,255,0.12);
+  background: rgba(255,255,255,0.03);
+  color: var(--text);
+  border-radius: 10px;
+  padding: 10px 12px;
+  font-size: 12px;
+  cursor: pointer;
+}
+.signals-action-btn.primary { border-color: rgba(200,241,53,0.35); }
+.signals-field {
+  margin-top: 14px;
+}
+.signals-field label {
+  font-family: 'DM Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text3);
+  display: block;
+  margin-bottom: 8px;
+}
+.signals-field textarea, .signals-field input, .signals-field select {
+  width: 100%;
+  background: rgba(0,0,0,0.22);
+  border: 1px solid rgba(255,255,255,0.08);
+  color: var(--text);
+  border-radius: 10px;
+  padding: 10px 12px;
+  font-size: 12px;
+}
+.signals-field textarea { min-height: 90px; resize: vertical; }
 
 /* CTA */
 .view-companies-btn {
@@ -1199,6 +1481,7 @@ body {
       <a href="https://www.linkedin.com/in/nishaldesai98/" target="_blank" class="author-link">@NishalDesai</a>
       <a href="https://linkedin.com/in/trevor-lorenz/?skipRedirect=true" target="_blank" class="author-link">@TrevorLorenz</a>
     </div>
+    <button class="signals-btn" id="signalsToggle" onclick="openSignalsFeed()">Signals</button>
     <button class="primer-btn" id="primerToggle" onclick="togglePrimer()">✦ Primer</button>
   </div>
 </header>
@@ -1487,6 +1770,103 @@ body {
   <div class="detail-subseg" id="dSubseg"></div>
   <div id="dBody"></div>
 </div>
+
+  <!-- PANEL 4: SIGNALS FEED -->
+  <div class="panel panel-state-right" id="panel4" style="display: block;">
+    <div class="signals-feed">
+      <div class="signals-feed-header">
+        <div>
+          <button class="back-btn" onclick="closeSignalsFeed()">← Back</button>
+          <div class="signals-feed-title">Signals Feed</div>
+          <div class="signals-feed-sub">Forward-looking signals for sourcing, triage, and weekly outreach.</div>
+        </div>
+        <div class="signals-feed-actions">
+          <span class="signals-pill" id="signalsStatusPill">Loading…</span>
+          <button class="signals-btn" id="signalsAuthBtn" onclick="signalsAuthClick()">Sign in</button>
+        </div>
+      </div>
+
+      <div class="signals-layout">
+        <div class="signals-rail" id="signalsRail">
+          <div class="signals-rail-header">
+            <div class="signals-rail-title">Vertical</div>
+            <div class="signals-rail-title">Count</div>
+          </div>
+          <div id="signalsTabs"></div>
+        </div>
+
+        <div class="signals-main">
+          <div class="signals-filters">
+            <div class="signals-toggle">
+              <button id="signalsModeFeed" class="active" onclick="setSignalsMode('feed')">Feed</button>
+              <button id="signalsModeOutreach" onclick="setSignalsMode('outreach')">Outreach</button>
+            </div>
+            <input class="signals-search" id="signalsSearch" placeholder="Search headlines, entities, sources…" oninput="renderSignalsFeed()">
+            <select class="signals-select" id="signalsMoments" onchange="renderSignalsFeed()">
+              <option value="">All moments</option>
+              <option value="album_announcement">Album</option>
+              <option value="tour_announcement">Tour</option>
+              <option value="surprise_appearance">Surprise</option>
+              <option value="acquisition">Acquisition</option>
+              <option value="funding_round">Funding</option>
+              <option value="rights_deal">Rights</option>
+              <option value="venue_announcement">Venue</option>
+              <option value="festival_headliner">Festival</option>
+              <option value="pe_investment">PE</option>
+              <option value="ipo">IPO</option>
+              <option value="valuation">Valuation</option>
+            </select>
+            <label class="signals-check"><input type="checkbox" id="signalsUntriagedOnly" onchange="renderSignalsFeed()"> Untriaged</label>
+            <label class="signals-check"><input type="checkbox" id="signalsOutreachOnly" onchange="renderSignalsFeed()"> Outreach</label>
+          </div>
+          <div class="signals-list2" id="signalsList"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="signals-detail-overlay" id="signalsDetailOverlay" onclick="closeSignalsDetail()"></div>
+  <div class="signals-detail-panel" id="signalsDetailPanel">
+    <button class="signals-detail-close" onclick="closeSignalsDetail()">✕</button>
+    <div class="signals-detail-h1" id="signalsDetailTitle"></div>
+    <div class="signals-detail-meta" id="signalsDetailMeta"></div>
+    <div class="signals-detail-body" id="signalsDetailSummary"></div>
+
+    <div class="signals-detail-actions">
+      <button class="signals-action-btn primary" onclick="setSignalRelevance(true)">Relevant</button>
+      <button class="signals-action-btn" onclick="setSignalRelevance(false)">Not relevant</button>
+      <button class="signals-action-btn" onclick="openSignalLink()">Open link</button>
+    </div>
+
+    <div class="signals-field">
+      <label>Notes</label>
+      <textarea id="signalsDetailNote" placeholder="Why does this matter? Who should we contact?"></textarea>
+      <div style="margin-top:10px; display:flex; gap:10px;">
+        <button class="signals-action-btn primary" onclick="saveSignalNote()">Save note</button>
+      </div>
+    </div>
+
+    <div class="signals-field">
+      <label>Add to outreach</label>
+      <select id="signalsOutreachType">
+        <option value="company">Company</option>
+        <option value="fund">Fund</option>
+        <option value="person">Person</option>
+      </select>
+      <input id="signalsOutreachName" placeholder="Name (company, fund, or person)" style="margin-top:10px;">
+      <input id="signalsOutreachFirm" placeholder="Firm (optional)" style="margin-top:10px;">
+      <input id="signalsOutreachRole" placeholder="Role (optional)" style="margin-top:10px;">
+      <select id="signalsOutreachStatus" style="margin-top:10px;">
+        <option value="to_contact">To contact</option>
+        <option value="contacted">Contacted</option>
+        <option value="in_progress">In progress</option>
+        <option value="passed">Passed</option>
+      </select>
+      <div style="margin-top:10px; display:flex; gap:10px;">
+        <button class="signals-action-btn primary" onclick="saveOutreachTarget()">Save outreach</button>
+      </div>
+    </div>
+  </div>
 
 <!-- PRIMER OVERLAY & PANEL -->
 <div class="primer-overlay" id="primerOverlay" onclick="closePrimer()"></div>
@@ -1889,15 +2269,22 @@ const LAYER_DATA = [
 let currentPanel = 1;
 let activeLayer = null;
 let searchQuery = '';
+let lastPanelBeforeSignals = 1;
+let signalsActiveLayer = 0;
+let signalsMode = 'feed';
+let signalsDetail = null;
+let triageBySignalId = {};
+let outreachBySignalId = {};
 
 // ── PANEL NAVIGATION ───────────────────────────────────────────────
 function setPanel(target, prev) {
   const p1 = document.getElementById('panel1');
   const p2 = document.getElementById('panel2');
   const p3 = document.getElementById('panel3');
+  const p4 = document.getElementById('panel4');
 
   // Reset all
-  [p1, p2, p3].forEach(p => {
+  [p1, p2, p3, p4].forEach(p => {
     p.className = 'panel panel-state-right';
     p.style.display = 'block';
   });
@@ -1906,14 +2293,22 @@ function setPanel(target, prev) {
     p1.className = 'panel panel-state-center';
     p2.className = 'panel panel-state-right';
     p3.className = 'panel panel-state-right';
+    p4.className = 'panel panel-state-right';
   } else if (target === 2) {
     p1.className = 'panel panel-state-left';
     p2.className = 'panel panel-state-center';
     p3.className = 'panel panel-state-right';
+    p4.className = 'panel panel-state-right';
   } else if (target === 3) {
     p1.className = 'panel panel-state-left';
     p2.className = 'panel panel-state-left';
     p3.className = 'panel panel-state-center';
+    p4.className = 'panel panel-state-right';
+  } else if (target === 4) {
+    p1.className = 'panel panel-state-left';
+    p2.className = 'panel panel-state-left';
+    p3.className = 'panel panel-state-left';
+    p4.className = 'panel panel-state-center';
   }
 
   currentPanel = target;
@@ -1940,6 +2335,253 @@ function openGrid() {
   document.getElementById('panel3').scrollTop = 0;
   document.getElementById('gridSearch').value = '';
   searchQuery = '';
+}
+
+function openSignalsFeed() {
+  lastPanelBeforeSignals = currentPanel || 1;
+  setPanel(4, lastPanelBeforeSignals);
+  document.getElementById('panel4').scrollTop = 0;
+  document.getElementById('signalsToggle').classList.add('active');
+  document.getElementById('signalsStatusPill').textContent = 'Loading…';
+  const load = (!liveSignals || liveSignals.length === 0) ? fetchLiveSignals() : Promise.resolve();
+  load.finally(async () => {
+    await hydrateSignalsUserState();
+    renderSignalsFeed();
+  });
+}
+
+function closeSignalsFeed() {
+  setPanel(lastPanelBeforeSignals, 4);
+  document.getElementById('signalsToggle').classList.remove('active');
+}
+
+function setSignalsMode(mode) {
+  signalsMode = mode;
+  document.getElementById('signalsModeFeed').classList.toggle('active', mode === 'feed');
+  document.getElementById('signalsModeOutreach').classList.toggle('active', mode === 'outreach');
+  renderSignalsFeed();
+}
+
+function layerLabelFromIndex(idx) {
+  return (LAYER_DATA[idx] && LAYER_DATA[idx].label) ? LAYER_DATA[idx].label : `Layer ${idx + 1}`;
+}
+
+function buildSignalsTabs() {
+  const tabs = document.getElementById('signalsTabs');
+  const counts = {0:0,1:0,2:0,3:0,4:0};
+  (liveSignals || []).forEach(s => {
+    const li = (s.layer || 0) - 1;
+    if (li >= 0 && li <= 4) counts[li] += 1;
+  });
+  tabs.innerHTML = [0,1,2,3,4].map(i => `
+    <div class="signals-tab${signalsActiveLayer === i ? ' active' : ''}" onclick="setSignalsLayer(${i})">
+      <div class="signals-tab-name">${layerLabelFromIndex(i)}</div>
+      <div class="signals-tab-count">${counts[i] || 0}</div>
+    </div>
+  `).join('');
+}
+
+function setSignalsLayer(idx) {
+  signalsActiveLayer = idx;
+  renderSignalsFeed();
+}
+
+function renderSignalsFeed() {
+  buildSignalsTabs();
+
+  const pill = document.getElementById('signalsStatusPill');
+  const list = document.getElementById('signalsList');
+  const q = (document.getElementById('signalsSearch').value || '').trim().toLowerCase();
+  const moment = (document.getElementById('signalsMoments').value || '').trim();
+  const untriagedOnly = !!document.getElementById('signalsUntriagedOnly').checked;
+  const outreachOnly = !!document.getElementById('signalsOutreachOnly').checked;
+
+  if (signalsMode === 'outreach') {
+    const all = Object.values(outreachBySignalId || {});
+    const filtered = all.filter(o => {
+      if (!q) return true;
+      const hay = `${o.name || ''} ${o.firm || ''} ${o.role || ''} ${o.status || ''}`.toLowerCase();
+      return hay.includes(q);
+    });
+    pill.textContent = `${filtered.length} outreach`;
+    if (!filtered.length) {
+      list.innerHTML = `<div class="signals-empty">No outreach targets yet. Add one from any signal.</div>`;
+      return;
+    }
+    list.innerHTML = filtered.map(o => `
+      <div class="signals-item" onclick="openOutreachDetail('${o.id}')">
+        <div class="signals-item-date">${(o.status || '').replace(/_/g,' ')}</div>
+        <div>
+          <div class="signals-item-title">${o.name || ''}</div>
+          <div class="signals-item-meta">
+            <span class="signals-chip">${o.target_type || 'target'}</span>
+            ${o.firm ? `<span class="signals-chip">${o.firm}</span>` : ''}
+            ${o.role ? `<span class="signals-chip">${o.role}</span>` : ''}
+          </div>
+        </div>
+      </div>
+    `).join('');
+    return;
+  }
+
+  const items = (liveSignals || [])
+    .filter(s => (s.layer || 0) === signalsActiveLayer + 1)
+    .filter(s => {
+      if (!q) return true;
+      const hay = `${s.title || ''} ${s.company || ''} ${s.source || ''}`.toLowerCase();
+      return hay.includes(q);
+    })
+    .filter(s => {
+      if (!moment) return true;
+      const ms = s.moments || [];
+      return Array.isArray(ms) && ms.includes(moment);
+    })
+    .filter(s => {
+      if (!untriagedOnly) return true;
+      return !triageBySignalId[s.id];
+    })
+    .filter(s => {
+      if (!outreachOnly) return true;
+      return !!outreachBySignalId[s.id];
+    });
+
+  pill.textContent = `${items.length} signals`;
+
+  if (!items.length) {
+    list.innerHTML = `<div class="signals-empty">No signals match these filters for this vertical.</div>`;
+    return;
+  }
+
+  list.innerHTML = items.map(s => `
+    <div class="signals-item" onclick="openSignalsDetail('${s.id}')">
+      <div class="signals-item-date">${s.date || ''}</div>
+      <div>
+        <div class="signals-item-title">${s.title || ''}</div>
+        <div class="signals-item-meta">
+          <span class="signals-chip">${(s.source || 'Source')}</span>
+          ${s.company ? `<span class="signals-chip">${s.company}</span>` : ''}
+          ${Array.isArray(s.moments) && s.moments.length ? `<span class="signals-chip">${s.moments[0].replace(/_/g,' ')}</span>` : ''}
+          ${triageBySignalId[s.id] && triageBySignalId[s.id].relevance === true ? `<span class="signals-chip">relevant</span>` : ''}
+          ${triageBySignalId[s.id] && triageBySignalId[s.id].relevance === false ? `<span class="signals-chip">not</span>` : ''}
+          ${outreachBySignalId[s.id] ? `<span class="signals-chip">outreach</span>` : ''}
+        </div>
+      </div>
+    </div>
+  `).join('');
+}
+
+function openSignalsDetail(signalId) {
+  const s = (liveSignals || []).find(x => x.id === signalId);
+  if (!s) return;
+  signalsDetail = s;
+  document.getElementById('signalsDetailTitle').textContent = s.title || '';
+  document.getElementById('signalsDetailSummary').textContent = s.summary || '';
+  document.getElementById('signalsDetailMeta').innerHTML = `
+    <span class="signals-chip">${s.date || ''}</span>
+    <span class="signals-chip">${s.source || ''}</span>
+    ${s.company ? `<span class="signals-chip">${s.company}</span>` : ''}
+    ${Array.isArray(s.moments) && s.moments.length ? `<span class="signals-chip">${s.moments.join(', ').replace(/_/g,' ')}</span>` : ''}
+  `;
+  document.getElementById('signalsDetailNote').value = (triageBySignalId[signalId] && triageBySignalId[signalId].note) ? triageBySignalId[signalId].note : '';
+  document.getElementById('signalsOutreachName').value = s.company || '';
+  document.getElementById('signalsDetailOverlay').classList.add('open');
+  document.getElementById('signalsDetailPanel').classList.add('open');
+}
+
+function closeSignalsDetail() {
+  document.getElementById('signalsDetailOverlay').classList.remove('open');
+  document.getElementById('signalsDetailPanel').classList.remove('open');
+  signalsDetail = null;
+}
+
+function openSignalLink() {
+  if (!signalsDetail) return;
+  if (signalsDetail.link) window.open(signalsDetail.link, '_blank');
+}
+
+async function ensureAuthForWrites() {
+  if (!supabaseClient || !signalsUser) {
+    window.alert('Sign in to save triage/outreach.');
+    return false;
+  }
+  return true;
+}
+
+async function setSignalRelevance(isRelevant) {
+  if (!signalsDetail) return;
+  if (!(await ensureAuthForWrites())) return;
+  const payload = {
+    user_id: signalsUser.id,
+    signal_id: signalsDetail.id,
+    relevance: !!isRelevant,
+    updated_at: new Date().toISOString(),
+  };
+  const { error } = await supabaseClient.from('signal_triage').upsert(payload);
+  if (error) {
+    console.log(error);
+    window.alert('Could not save triage.');
+    return;
+  }
+  triageBySignalId[signalsDetail.id] = { ...(triageBySignalId[signalsDetail.id] || {}), ...payload };
+  renderSignalsFeed();
+}
+
+async function saveSignalNote() {
+  if (!signalsDetail) return;
+  if (!(await ensureAuthForWrites())) return;
+  const note = (document.getElementById('signalsDetailNote').value || '').trim();
+  const payload = {
+    user_id: signalsUser.id,
+    signal_id: signalsDetail.id,
+    note,
+    updated_at: new Date().toISOString(),
+  };
+  const { error } = await supabaseClient.from('signal_triage').upsert(payload);
+  if (error) {
+    console.log(error);
+    window.alert('Could not save note.');
+    return;
+  }
+  triageBySignalId[signalsDetail.id] = { ...(triageBySignalId[signalsDetail.id] || {}), ...payload };
+  renderSignalsFeed();
+}
+
+async function saveOutreachTarget() {
+  if (!signalsDetail) return;
+  if (!(await ensureAuthForWrites())) return;
+  const target_type = document.getElementById('signalsOutreachType').value;
+  const name = (document.getElementById('signalsOutreachName').value || '').trim();
+  const firm = (document.getElementById('signalsOutreachFirm').value || '').trim();
+  const role = (document.getElementById('signalsOutreachRole').value || '').trim();
+  const status = document.getElementById('signalsOutreachStatus').value;
+  if (!name) {
+    window.alert('Please add a name.');
+    return;
+  }
+  const payload = {
+    user_id: signalsUser.id,
+    signal_id: signalsDetail.id,
+    target_type,
+    name,
+    firm: firm || null,
+    role: role || null,
+    status,
+    updated_at: new Date().toISOString(),
+  };
+  const { data, error } = await supabaseClient.from('outreach_targets').insert(payload).select().single();
+  if (error) {
+    console.log(error);
+    window.alert('Could not save outreach.');
+    return;
+  }
+  outreachBySignalId[signalsDetail.id] = data;
+  renderSignalsFeed();
+  window.alert('Saved to outreach.');
+}
+
+function openOutreachDetail(_id) {
+  // v1: no separate outreach editor yet
+  window.alert('Outreach editing UI is coming next. For now, create new outreach from signals.');
 }
 
 // ── LAYER PANEL BUILDER ────────────────────────────────────────────
@@ -2247,9 +2889,90 @@ document.addEventListener('keydown', e => {
 // Fetched from events.json (updated daily by scraper)
 // Option B: live signals prepend to hardcoded ones per layer
 let liveSignals = [];  // populated on load
+let supabaseClient = null;
+let signalsUser = null;
+
+// Configure these by setting window.SUPABASE_URL / window.SUPABASE_ANON_KEY in a separate script tag,
+// or replace the empty strings below.
+const SUPABASE_URL = window.SUPABASE_URL || '';
+const SUPABASE_ANON_KEY = window.SUPABASE_ANON_KEY || '';
+
+function initSupabase() {
+  try {
+    if (!SUPABASE_URL || !SUPABASE_ANON_KEY) return null;
+    if (!window.supabase) return null;
+    return window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+  } catch (e) {
+    return null;
+  }
+}
+
+function updateSignalsAuthUI() {
+  const btn = document.getElementById('signalsAuthBtn');
+  if (!btn) return;
+  if (!supabaseClient) {
+    btn.textContent = 'Auth off';
+    btn.disabled = true;
+    btn.style.opacity = '0.55';
+    return;
+  }
+  if (signalsUser) {
+    btn.textContent = 'Sign out';
+    btn.disabled = false;
+    btn.style.opacity = '1';
+  } else {
+    btn.textContent = 'Sign in';
+    btn.disabled = false;
+    btn.style.opacity = '1';
+  }
+}
+
+async function hydrateSignalsUserState() {
+  triageBySignalId = {};
+  outreachBySignalId = {};
+  if (!supabaseClient || !signalsUser) return;
+
+  const ids = (liveSignals || []).map(s => s.id).filter(Boolean);
+  if (!ids.length) return;
+
+  // Load triage for visible signals (batched)
+  for (let i = 0; i < ids.length; i += 100) {
+    const batch = ids.slice(i, i + 100);
+    const { data: triage, error: triageErr } = await supabaseClient
+      .from('signal_triage')
+      .select('signal_id,relevance,tags,note,updated_at')
+      .in('signal_id', batch);
+    if (!triageErr && Array.isArray(triage)) {
+      triage.forEach(t => { triageBySignalId[t.signal_id] = t; });
+    }
+  }
+
+  // Load outreach targets linked to signals (latest per signal_id)
+  const { data: outreach, error: outreachErr } = await supabaseClient
+    .from('outreach_targets')
+    .select('id,signal_id,target_type,name,firm,role,status,created_at,updated_at')
+    .not('signal_id', 'is', null);
+  if (!outreachErr && Array.isArray(outreach)) {
+    outreach.forEach(o => {
+      if (o.signal_id && !outreachBySignalId[o.signal_id]) outreachBySignalId[o.signal_id] = o;
+    });
+  }
+}
+
+async function signalsAuthClick() {
+  if (!supabaseClient) return;
+  if (signalsUser) {
+    await supabaseClient.auth.signOut();
+    return;
+  }
+  const email = (window.prompt('Email for magic link sign-in:') || '').trim();
+  if (!email) return;
+  await supabaseClient.auth.signInWithOtp({ email });
+  window.alert('Check your email for the sign-in link.');
+}
 
 function fetchLiveSignals() {
-  fetch('events.json?v=' + Date.now())
+  return fetch('events.json?v=' + Date.now())
     .then(r => {
       if (!r.ok) throw new Error('events.json not found');
       return r.json();
@@ -2265,6 +2988,22 @@ function fetchLiveSignals() {
 }
 
 fetchLiveSignals();
+
+// Initialize auth (Signals feed uses this later for triage/outreach persistence)
+supabaseClient = initSupabase();
+if (supabaseClient) {
+  supabaseClient.auth.getUser().then(({ data }) => {
+    signalsUser = data && data.user ? data.user : null;
+    updateSignalsAuthUI();
+  });
+  supabaseClient.auth.onAuthStateChange((_event, session) => {
+    signalsUser = session && session.user ? session.user : null;
+    updateSignalsAuthUI();
+    hydrateSignalsUserState().finally(() => {
+      if (currentPanel === 4) renderSignalsFeed();
+    });
+  });
+}
 
 function getLiveSignalsForLayer(layerIndex) {
   // Return up to 3 most recent live signals for this layer
