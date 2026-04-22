@@ -1932,7 +1932,7 @@ body {
     <div class="signals-feed">
       <div class="signals-feed-header">
         <div>
-          <button class="back-btn" onclick="closeSignalsFeed()">← Back</button>
+          <button class="back-btn" onclick="closeSignalsFeed()">Back</button>
           <div class="signals-feed-title">Signals Feed</div>
           <div class="signals-feed-sub">Forward-looking signals for sourcing, triage, and weekly outreach.</div>
         </div>
@@ -2495,7 +2495,7 @@ function openGrid() {
 }
 
 function openSignalsFeed() {
-  lastPanelBeforeSignals = currentPanel || 1;
+  if (currentPanel !== 4) lastPanelBeforeSignals = currentPanel || 1;
   setPanel(4, lastPanelBeforeSignals);
   document.getElementById('panel4').scrollTop = 0;
   document.getElementById('signalsToggle').classList.add('active');
@@ -2541,6 +2541,14 @@ function buildSignalsTabs() {
 function setSignalsLayer(idx) {
   signalsActiveLayer = idx;
   renderSignalsFeed();
+}
+
+function parseSignalDate(d) {
+  if (!d) return 0;
+  // "Apr 22, 26" → "Apr 22, 2026"
+  const fixed = d.replace(/,\s*(\d{2})$/, (_, y) => `, 20${y}`);
+  const t = new Date(fixed).getTime();
+  return isNaN(t) ? 0 : t;
 }
 
 function renderSignalsFeed() {
@@ -2600,7 +2608,8 @@ function renderSignalsFeed() {
     .filter(s => {
       if (!outreachOnly) return true;
       return !!outreachBySignalId[s.id];
-    });
+    })
+    .sort((a, b) => parseSignalDate(b.date) - parseSignalDate(a.date));
 
   pill.textContent = `${items.length} signals`;
 
