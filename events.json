@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-22T20:31:52.347295+00:00",
-  "total": 36,
+  "generated": "2026-04-23T13:57:18.440008+00:00",
+  "total": 38,
   "scraped": [
     {
       "id": "7da294c1a8a0",
@@ -17,6 +17,23 @@
         "acquisition",
         "ipo",
         "company_launch"
+      ]
+    },
+    {
+      "id": "516f634212e7",
+      "title": "Deal Roundup: HIG Capital agrees Celerion sale to THL Partners, GTCR closes Fiduciary acquisition",
+      "summary": "HIG Capital has agreed to sell clinical pharmacology and bioanalytical sciences specialist Celerion to THL Partners. The post Deal Roundup: HIG Capital agrees Celerion sale to THL Partners, GTCR close",
+      "company": "Deal Roundup",
+      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-hig-capital-agrees-celerion-sale-to-thl-partners-gtcr-closes-fiduciary-acquisition.html",
+      "date": "Apr 23, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 20,
+      "moments": [
+        "acquisition",
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
@@ -53,19 +70,19 @@
       ]
     },
     {
-      "id": "80da1f9f7d18",
-      "title": "Tricky announces new album \u2018Different When It\u2019s Silent\u2019 with paranoid single \u2018Out Of Place\u2019 and summer UK and European tour dates",
-      "summary": "It is the trip-hop pioneer's first full solo album since 2020's 'Fall To Pieces' The post Tricky announces new album &#8216;Different When It\u2019s Silent&#8217; with paranoid single &#8216;Out Of Place&#",
-      "company": "Tricky",
-      "link": "https://www.nme.com/news/music/tricky-announces-new-album-different-when-its-silent-with-paranoid-single-out-of-place-and-summer-uk-and-european-tour-dates-3941866?utm_source=rss&utm_medium=rss&utm_campaign=tricky-announces-new-album-different-when-its-silent-with-paranoid-single-out-of-place-and-summer-uk-and-european-tour-dates",
-      "date": "Apr 22, 26",
-      "source": "NME",
+      "id": "e6d1bfc77824",
+      "title": "Adams Street soars past target to hit $2.5bn co-invest fund close, almost double predecessor fund total",
+      "summary": "Adams Street Partners has reached a $2.5bn final close for its latest co-investment fund, bringing its AUM in the strategy to $7.2bn. The post Adams Street soars past target to hit $2.5bn co-invest fu",
+      "company": "Adams Street",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/adams-street-soars-past-target-to-hit-2-5bn-co-invest-fund-close-almost-double-predecessor-fund-total.html",
+      "date": "Apr 23, 26",
+      "source": "AltAssets",
       "layer": 1,
       "access": "pe",
-      "score": 18,
+      "score": 21,
       "moments": [
-        "album_announcement",
-        "tour_announcement"
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
@@ -75,7 +92,7 @@
       "company": "Madonna Says Her Vintage Outfit Is",
       "link": "https://www.nytimes.com/2026/04/21/arts/music/madonna-coachella-outfits-missing-reward.html",
       "date": "Apr 21, 26",
-      "source": "NYT Arts",
+      "source": "NYT Music",
       "layer": 1,
       "access": "pe",
       "score": 17,
@@ -98,6 +115,22 @@
       "moments": [
         "surprise_appearance",
         "festival_headliner"
+      ]
+    },
+    {
+      "id": "fe4fab16b78f",
+      "title": "Harbinger Sports secures $450m first close for debut fund",
+      "summary": "Harbinger Sports, a private equity vehicle focused on professional sports and led by investor Mark Cuban has raised $450m in initial commitments for its first fund close, according to a report by Bloo",
+      "company": "Harbinger Sports",
+      "link": "https://www.privateequitywire.co.uk/harbinger-sports-secures-450m-first-close-for-debut-fund/",
+      "date": "Apr 23, 26",
+      "source": "PE Wire",
+      "layer": 1,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
@@ -133,12 +166,12 @@
       ]
     },
     {
-      "id": "f1e1e7d30c5f",
-      "title": "CVC and GTCR make joint take-private bid for Teleflex",
-      "summary": "Private equity firms CVC Capital Partners and GTCR have made a joint proposal to acquire medical device manufacturer Teleflex and take the company private, according to a report by Reuters citing an u",
-      "company": "CVC and GTCR make",
-      "link": "https://www.privateequitywire.co.uk/cvc-and-gtcr-make-joint-take-private-bid-for-teleflex/",
-      "date": "Apr 22, 26",
+      "id": "a6f75ef9e359",
+      "title": "EQT ups Intertek bid to \u00a39.7bn",
+      "summary": "Swedish private equity firm EQT has increased its takeover offer for Intertek to approximately \u00a39.7bn, in a renewed attempt to acquire the UK-listed testing and certification group after its initial p",
+      "company": "EQT",
+      "link": "https://www.privateequitywire.co.uk/eqt-ups-intertek-bid-to-9-7bn/",
+      "date": "Apr 23, 26",
       "source": "PE Wire",
       "layer": 5,
       "access": "pe",
@@ -228,18 +261,33 @@
       ]
     },
     {
-      "id": "931ed41f11b2",
-      "title": "Kanye West under pressure to cancel headline slot at Hellwat Festival in Italy following backlash: \u201cAnti-fascism for us is not a whim, but a value...",
-      "summary": "It comes after concerts in Switzerland, Poland and three shows at London's Wireless Festival were all axed The post Kanye West under pressure to cancel headline slot at Hellwat Festival in Italy follo",
-      "company": "Kanye West",
-      "link": "https://www.nme.com/news/music/kanye-west-under-pressure-to-cancel-headline-slot-at-hellwat-festival-in-italy-following-backlash-anti-fascism-for-us-is-not-a-whim-but-a-value-rooted-in-our-history-3941882?utm_source=rss&utm_medium=rss&utm_campaign=kanye-west-under-pressure-to-cancel-headline-slot-at-hellwat-festival-in-italy-following-backlash-anti-fascism-for-us-is-not-a-whim-but-a-value-rooted-in-our-history",
+      "id": "20efa470f119",
+      "title": "Rogers Planning Sports Team Stake Sale at $18 Billion Valuation",
+      "summary": "Rogers Communications\u2019 first-quarter financial results, announced Wednesday morning, largely matched analysts&#8217; revenue and earnings expectations, but the stock surged almost 14% to close at $37.",
+      "company": "Rogers Planning Sports Team Stake Sale",
+      "link": "https://www.sportico.com/business/finance/2026/rogers-communications-earnings-sports-teams-toronto-1234890920/",
       "date": "Apr 22, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 19,
+      "source": "Sportico",
+      "layer": 2,
+      "access": "public",
+      "score": 18,
       "moments": [
-        "festival_headliner"
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "5392a08b6f18",
+      "title": "Anthropic's growing pains mount ahead of OpenAI showdown",
+      "summary": "Anthropic is hitting turbulence at a critical moment, with a cascade of challenges converging ahead of a potential IPO that could value the company near $800 billion.Why it matters: The AI darling, wh",
+      "company": "Anthropic's",
+      "link": "https://www.axios.com/2026/04/23/anthropic-openai-showdown",
+      "date": "Apr 23, 26",
+      "source": "Axios",
+      "layer": 2,
+      "access": "pe",
+      "score": 18,
+      "moments": [
+        "ipo"
       ]
     },
     {
@@ -255,36 +303,6 @@
       "score": 17,
       "moments": [
         "album_announcement"
-      ]
-    },
-    {
-      "id": "01394df733d3",
-      "title": "SeatGeek Lands Ticketing Deal for Chicago Fire\u2019s New Downtown Stadium",
-      "summary": "SeatGeek is getting in on the ground floor of one of MLS\u2019s most anticipated stadium projects. Chicago Fire FC has... The post SeatGeek Lands Ticketing Deal for Chicago Fire\u2019s New Downtown Stadium appe",
-      "company": "SeatGeek Lands Ticketing Deal",
-      "link": "https://www.ticketnews.com/2026/04/seatgeek-lands-ticketing-deal-chicago-fire-new-stadium/",
-      "date": "Apr 21, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 17,
-      "moments": [
-        "venue_announcement"
-      ]
-    },
-    {
-      "id": "a44c309bb9fe",
-      "title": "5 Takeaways From the Live Nation Antitrust Trial",
-      "summary": "A jury found that the concert giant operated as a monopoly, a verdict that could have major reverberations in the music industry.",
-      "company": "Takeaways From",
-      "link": "https://www.nytimes.com/2026/04/15/arts/music/live-nation-antitrust-trial-monopoly-takeaways.html",
-      "date": "Apr 15, 26",
-      "source": "NYT Music",
-      "layer": 3,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "company_launch"
       ]
     },
     {
@@ -318,21 +336,6 @@
       ]
     },
     {
-      "id": "8bf66d40ef98",
-      "title": "Judge orders Nexstar-Tegna to pause merger",
-      "summary": "A U.S. district judge on Friday issued a preliminary injunction requiring Nexstar and Tegna to remain separate, despite closing their $6.2 billion megamerger last month. Why it matters: The ruling sig",
-      "company": "Judge",
-      "link": "https://www.axios.com/2026/04/20/judge-orders-nexstar-tegna-to-pause-merger",
-      "date": "Apr 20, 26",
-      "source": "Axios",
-      "layer": 3,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
       "id": "8bc2d379d16a",
       "title": "FanDuel\u2019s Latest Injury Promo Gets People Talking\u2014and Betting",
       "summary": "FanDuel\u2019s latest entry into the highly competitive arena of \u201cathlete injury protection\u201d sportsbook promotions drew strong reactions from both bettors and rival companies after it launched Saturday. In",
@@ -345,6 +348,21 @@
       "score": 14,
       "moments": [
         "acquisition"
+      ]
+    },
+    {
+      "id": "054432edd95f",
+      "title": "Mutares mulls Houston presence as firm enjoys increased US visibility; EQT ups offer for listed ATIC services provider",
+      "summary": "The assurance, testing, inspection and certification sector has attracted plenty of private equity investment, including for the healthcare laboratory segment. The post Mutares mulls Houston presence ",
+      "company": "Mutares",
+      "link": "https://www.pehub.com/mutares-mulls-houston-presence-as-firm-enjoys-increased-us-visibility-eqt-ups-offer-for-listed-atic-services-provider/",
+      "date": "Apr 23, 26",
+      "source": "PE Hub",
+      "layer": 4,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "pe_investment"
       ]
     },
     {
@@ -363,18 +381,18 @@
       ]
     },
     {
-      "id": "e4cabbeaba97",
-      "title": "British Business Bank backs B2B software investor Episode 1 yet again, provides \u00a335m anchor investment",
-      "summary": "The British Business Bank has agreed to commit up to \u00a335m to the fourth fund being raised by pre-seed and seed investor Episode 1. The post British Business Bank backs B2B software investor Episode 1 ",
-      "company": "British Business Bank",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/100208036.html",
-      "date": "Apr 21, 26",
-      "source": "AltAssets",
+      "id": "94278b950500",
+      "title": "New primary care firm Mangrove Health launches with investment by Mako",
+      "summary": "Mangrove was founded by veteran healthcare executives Elena Casta\u00f1eda and Dr. Emily Maxson. The post New primary care firm Mangrove Health launches with investment by Mako appeared first on PE Hub.",
+      "company": "New primary care firm Mangrove Health",
+      "link": "https://www.pehub.com/new-primary-care-firm-mangrove-health-launches-with-investment-by-mako/",
+      "date": "Apr 23, 26",
+      "source": "PE Hub",
       "layer": 5,
       "access": "pe",
       "score": 12,
       "moments": [
-        "pe_investment"
+        "company_launch"
       ]
     },
     {
@@ -393,21 +411,6 @@
       ]
     },
     {
-      "id": "1330f93b1455",
-      "title": "Beck Confirms Fall 2026 Tour Dates Alongside New Single",
-      "summary": "Beck has released a new single titled \u201cRide Lonesome\u201d and announced a 25-date North American tour of the same name... The post Beck Confirms Fall 2026 Tour Dates Alongside New Single appeared first on",
-      "company": "Beck Confirms Fall",
-      "link": "https://www.ticketnews.com/2026/04/beck-confirms-fall-2026-tour-dates-alongside-new-single/",
-      "date": "Apr 22, 26",
-      "source": "Ticket News",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "tour_announcement"
-      ]
-    },
-    {
       "id": "db6ba793d78e",
       "title": "Illinois Lawmakers Race to Advance $5B Bears Stadium Plan",
       "summary": "State legislators race against the clock as a stadium decision nears.",
@@ -420,21 +423,6 @@
       "score": 9,
       "moments": [
         "venue_announcement"
-      ]
-    },
-    {
-      "id": "2527b3f08d50",
-      "title": "PE-backed Alcami to acquire Tjoapack",
-      "summary": "Headquartered in North Carolina, Alcami is a contract development and manufacturing organization. The post PE-backed Alcami to acquire Tjoapack appeared first on PE Hub.",
-      "company": "PE-backed Alcami to",
-      "link": "https://www.pehub.com/pe-backed-alcami-to-acquire-tjoapack/",
-      "date": "Apr 22, 26",
-      "source": "PE Hub",
-      "layer": 2,
-      "access": "pe",
-      "score": 8,
-      "moments": [
-        "acquisition"
       ]
     },
     {
@@ -453,29 +441,16 @@
       ]
     },
     {
-      "id": "20efa470f119",
-      "title": "Rogers Planning Sports Team Stake Sale at $18 Billion Valuation",
-      "summary": "Rogers Communications\u2019 first-quarter financial results, announced Wednesday morning, largely matched analysts&#8217; revenue and earnings expectations, but the stock surged 11% on guidance of lower ca",
-      "company": "Rogers Planning Sports Team Stake Sale",
-      "link": "https://www.sportico.com/business/finance/2026/rogers-communications-earnings-sports-teams-toronto-1234890920/",
+      "id": "054bb27cd7db",
+      "title": "Tesla earnings rise, but AI expenses add up for Elon Musk",
+      "summary": "Tesla reported an uptick in quarterly revenue and profit, but the costs of pivoting to an AI future are starting to add up.Why it matters: CEO Elon Musk has directed the company to invest heavily in t",
+      "company": "Tesla",
+      "link": "https://www.axios.com/2026/04/22/tesla-earnings-elon-musk-ai",
       "date": "Apr 22, 26",
-      "source": "Sportico",
+      "source": "Axios",
       "layer": 2,
       "access": "public",
-      "score": 14,
-      "moments": []
-    },
-    {
-      "id": "51b995110409",
-      "title": "SOUTHWEST AIRLINES REPORTS FIRST QUARTER RESULTS, BUSINESS TRANSFORMATION INITIATIVES DELIVER MEANINGFUL MARGIN EXPANSION",
-      "summary": "$227 million net income and $0.45 EPS, in line with guidance Operating margin of 4.6%, an improvement of 8.1 points year-over-year Generated $1.4 billion in operating cash flow in the quarter Record f",
-      "company": "",
-      "link": "https://www.prnewswire.com/news-releases/southwest-airlines-reports-first-quarter-results-business-transformation-initiatives-deliver-meaningful-margin-expansion-302750840.html",
-      "date": "Apr 22, 26",
-      "source": "PR Newswire",
-      "layer": 2,
-      "access": "pe",
-      "score": 14,
+      "score": 15,
       "moments": []
     },
     {
@@ -492,28 +467,28 @@
       "moments": []
     },
     {
-      "id": "aa3679f84b9f",
-      "title": "Live Nation Verdict, D4vd Murder Case, Bad Bunny Lawsuit, BTS Leak & More Top Music Law News",
-      "summary": "In this week's Legal Beat newsletter, Ticketmaster verdict fallout, a horrific murder charge, Bad Bunny's fee dispute, a BTS leak case and much more.",
-      "company": "Live Nation Verdict D4vd Murder Case",
-      "link": "https://www.billboard.com/pro/legal-beat-live-nation-verdict-d4vd-murder-case-bad-bunny/",
+      "id": "dd88622117a0",
+      "title": "TNT Rides NHL\u2019s Playoff Momentum After Shuffling Rights Portfolio",
+      "summary": "Fresh off its production of an NCAA men\u2019s basketball championship game that posted a seven-year ratings high, TNT Sports is gearing up for another run of outsized springtime sports deliveries with its",
+      "company": "TNT Rides NHL\u2019s Playoff Momentum After",
+      "link": "https://www.sportico.com/business/media/2026/stanley-cup-playoffs-nhl-ratings-up-tnt-disney-1234890946/",
       "date": "Apr 22, 26",
-      "source": "Billboard",
-      "layer": 3,
+      "source": "Sportico",
+      "layer": 4,
       "access": "pe",
-      "score": 7,
+      "score": 8,
       "moments": []
     },
     {
-      "id": "6b408e370a5c",
-      "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
-      "summary": "The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video.",
-      "company": "Luma",
-      "link": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
-      "date": "Apr 16, 26",
-      "source": "TechCrunch Startups",
-      "layer": 4,
-      "access": "pe",
+      "id": "1b84b6a69c58",
+      "title": "Netflix Authorizes $25 Billion Stock Buyback in Bid to Boost Share Price",
+      "summary": "Now that it doesn&#8217;t have to pay for Warner Bros., Netflix is using its capital to buy back more shares: The streaming giant said its board authorized a buyback of an additional $25 billion of th",
+      "company": "Netflix Authorizes",
+      "link": "https://variety.com/2026/tv/news/netflix-25-billion-share-repurchase-stock-price-1236728558/",
+      "date": "Apr 23, 26",
+      "source": "Variety Biz",
+      "layer": 3,
+      "access": "public",
       "score": 5,
       "moments": []
     },
@@ -531,6 +506,19 @@
       "moments": []
     },
     {
+      "id": "7642bff5ac83",
+      "title": "Goya Foods Marks 90 Years with Sponsorship of Carlos Vives' TOUR AL SOL 2026 and Donates $50,000 to Children and Families in Need",
+      "summary": "NEW YORK, April 23, 2026 /PRNewswire/ -- Goya Foods, the largest Hispanic-owned food company in the United States, celebrates 90 years with major presenting sponsorship of Carlos Vives' TOUR AL SOL 20",
+      "company": "Goya Foods Marks",
+      "link": "https://www.prnewswire.com/news-releases/goya-foods-marks-90-years-with-sponsorship-of-carlos-vives-tour-al-sol-2026-and-donates-50-000-to-children-and-families-in-need-302751893.html",
+      "date": "Apr 23, 26",
+      "source": "PR Newswire",
+      "layer": 4,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
       "id": "e28043986191",
       "title": "From host broadcaster to digital storyteller: why HBS launched skroller, with the support of Bubble Agency",
       "summary": "Broadcasters are reengineering themselves for an always-on, audience-first world. Source",
@@ -541,6 +529,45 @@
       "layer": 3,
       "access": "pe",
       "score": 5,
+      "moments": []
+    },
+    {
+      "id": "ea3f022fc27e",
+      "title": "Finance Complaint List Warns of a 500% Surge in AI-Powered Deepfake Crypto Scams Driven by Celebrity Impersonations",
+      "summary": "Globally people are losing millions in minutes as hyper-realistic videos, fake news broadcasts, and live executive impersonations turn artificial intelligence into the most dangerous fraud weapon of 2",
+      "company": "Finance Complaint List Warns",
+      "link": "https://venuestoday.com/finance-complaint-list-warns-of-a-500-surge-in-ai-powered-deepfake-crypto-scams-driven-by-celebrity-impersonations/?utm_source=rss&utm_medium=rss&utm_campaign=finance-complaint-list-warns-of-a-500-surge-in-ai-powered-deepfake-crypto-scams-driven-by-celebrity-impersonations",
+      "date": "Feb 04, 26",
+      "source": "Venues Today",
+      "layer": 3,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "1499f48f1507",
+      "title": "Jury finds Ticketmaster and Live Nation operated illegal monopoly",
+      "summary": "The verdict by a Manhattan jury came after a five-week trial and caps a closely watched case that could have far reaching effects across the music industry.",
+      "company": "Jury",
+      "link": "https://www.latimes.com/business/story/2026-04-15/jury-finds-that-ticketmaster-live-nation-had-anticompetitive-monopoly-over-big-concert-venues",
+      "date": "Apr 15, 26",
+      "source": "LA Times Music",
+      "layer": 3,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "8a8e426f3a22",
+      "title": "Ticketmaster Cancels Scalped Harry Styles Tickets\u2014But Fans Say It\u2019s Dodging the Real Problem",
+      "summary": "Ticketmaster is reportedly working with Harry Styles and his team to get tickets for his New York City residency back... The post Ticketmaster Cancels Scalped Harry Styles Tickets\u2014But Fans Say It\u2019s Do",
+      "company": "",
+      "link": "https://www.ticketnews.com/2026/04/ticketmaster-cancels-scalped-harry-styles-tickets/",
+      "date": "Apr 22, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 4,
       "moments": []
     }
   ]
