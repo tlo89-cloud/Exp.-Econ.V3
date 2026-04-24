@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-23T13:57:18.440008+00:00",
-  "total": 38,
+  "generated": "2026-04-24T13:48:29.930213+00:00",
+  "total": 37,
   "scraped": [
     {
       "id": "7da294c1a8a0",
@@ -34,23 +34,6 @@
         "acquisition",
         "pe_investment",
         "fund_launch"
-      ]
-    },
-    {
-      "id": "f2e64ff38870",
-      "title": "Founders First Capital hits first close for $50m-targeting second fund",
-      "summary": "Alternative credit investor Founders First Capital Partners has reached a first close for its $50m-targeting sophomore fund. The post Founders First Capital hits first close for $50m-targeting second ",
-      "company": "Founders First Capital hits first",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/founders-first-capital-hits-first-close-for-50m-targeting-second-fund.html",
-      "date": "Apr 21, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 17,
-      "moments": [
-        "pe_investment",
-        "fund_launch",
-        "company_launch"
       ]
     },
     {
@@ -118,67 +101,35 @@
       ]
     },
     {
-      "id": "fe4fab16b78f",
-      "title": "Harbinger Sports secures $450m first close for debut fund",
-      "summary": "Harbinger Sports, a private equity vehicle focused on professional sports and led by investor Mark Cuban has raised $450m in initial commitments for its first fund close, according to a report by Bloo",
-      "company": "Harbinger Sports",
-      "link": "https://www.privateequitywire.co.uk/harbinger-sports-secures-450m-first-close-for-debut-fund/",
-      "date": "Apr 23, 26",
-      "source": "PE Wire",
-      "layer": 1,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "8593bd30d014",
-      "title": "Baird Capital holds Fund III at $450m hard cap despite additional LP demand",
-      "summary": "Baird's private equity investment arm, Baird Capital, has reached a $450m hard cap final close for its third global fund. The post Baird Capital holds Fund III at $450m hard cap despite additional LP ",
-      "company": "Baird Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/baird-capital-holds-fund-iii-at-450m-hard-cap-despite-additional-lp-demand.html",
-      "date": "Apr 22, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "778e83e6b8ec",
-      "title": "EQT raises $15.6bn for Asia Pacific\u2019s biggest private equity fund",
-      "summary": "Alternative assets major EQT has raised the Asia Pacific region's biggest-ever private equity fund, pulling in a hard-cap-beating $15.6bn at final close. The post EQT raises $15.6bn for Asia Pacific&#",
+      "id": "63401b037338",
+      "title": "EQT weighs potential bid for Japan\u2019s Kakaku.com",
+      "summary": "European private equity giant EQT AB is reportedly exploring a possible acquisition of Japanese internet platform Kakaku.com Inc, underscoring continued private equity interest in Japan\u2019s public marke",
       "company": "EQT",
-      "link": "https://www.altassets.net/private-equity-news/by-region/asia-by-region/eqt-raises-15-6bn-for-asia-pacifics-biggest-private-equity-fund.html",
-      "date": "Apr 21, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "funding_round",
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "a6f75ef9e359",
-      "title": "EQT ups Intertek bid to \u00a39.7bn",
-      "summary": "Swedish private equity firm EQT has increased its takeover offer for Intertek to approximately \u00a39.7bn, in a renewed attempt to acquire the UK-listed testing and certification group after its initial p",
-      "company": "EQT",
-      "link": "https://www.privateequitywire.co.uk/eqt-ups-intertek-bid-to-9-7bn/",
-      "date": "Apr 23, 26",
+      "link": "https://www.privateequitywire.co.uk/eqt-weighs-potential-bid-for-japans-kakaku-com/",
+      "date": "Apr 24, 26",
       "source": "PE Wire",
       "layer": 5,
       "access": "pe",
-      "score": 13,
+      "score": 16,
       "moments": [
         "acquisition",
         "pe_investment"
+      ]
+    },
+    {
+      "id": "3efdcc00dc88",
+      "title": "Waterland speeds to \u20ac4.6bn double hard cap close in less than four months",
+      "summary": "European private equity house Waterland has raced to \u20ac4.6bn across its latest flagship buyout fund and sophomore Partnership Fund. The post Waterland speeds to \u20ac4.6bn double hard cap close in less tha",
+      "company": "Waterland",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/belgium-western-europe-europe-by-region/waterland-speeds-to-e4-6bn-double-hard-cap-close-in-less-than-four-months.html",
+      "date": "Apr 24, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
@@ -187,22 +138,6 @@
       "summary": "French private equity investor Abenex has sealed a first close for its Industries 9.0 Fund, with commitments exceeding 50% of its \u20ac150m target. The post Abenex hits halfway mark for Industries 9.0 fun",
       "company": "Abenex",
       "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/france-western-europe-europe-by-region/abenex-hits-halfway-mark-for-industries-9-0-fundraise-reaches-50-of-e150m-goal.html",
-      "date": "Apr 22, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "9921c364be26",
-      "title": "HarbourVest hits $2.4bn to close new primary PE vehicle, down on $3bn predecessor fund",
-      "summary": "HarbourVest Partners has picked up about $2.4bn of commitments to close its thirteenth flagship US primaries fund, down on the $3bn it gathered for its predecessor vehicle. The post HarbourVest hits $",
-      "company": "HarbourVest",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208065.html",
       "date": "Apr 22, 26",
       "source": "AltAssets",
       "layer": 5,
@@ -243,21 +178,6 @@
       "moments": [
         "acquisition",
         "fund_launch"
-      ]
-    },
-    {
-      "id": "31744d175c3e",
-      "title": "Kanye West\u2019s Upcoming Concert in Italy Prompts Uproar After U.K., France, Switzerland and Poland Cancellations",
-      "summary": "After canceled gigs in the U.K., France, Switzerland and Poland, Kanye West&#8217;s upcoming concert in Italy is sparking an uproar due to the rapper&#8217;s antisemitic remarks. West, now known as Ye",
-      "company": "Kanye West\u2019s Upcoming Concert",
-      "link": "https://variety.com/2026/music/global/kanye-west-italy-concert-uproar-uk-france-cancellations-1236727651/",
-      "date": "Apr 22, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 27,
-      "moments": [
-        "festival_headliner"
       ]
     },
     {
@@ -306,6 +226,21 @@
       ]
     },
     {
+      "id": "bc87f5da13d3",
+      "title": "Add to playlist: the disaster-baiting jazz-rock brinkmanship of Taupe and the week\u2019s best new tracks",
+      "summary": "The trio combine sludgy rock, homemade electronics and squawking into a watertight groove that makes light work of their complex musicianshipFrom Glasgow, ScotlandRecommended if you like Horse Lords, ",
+      "company": "Add to playlist",
+      "link": "https://www.theguardian.com/music/2026/apr/24/add-to-playlist-the-disaster-baiting-jazz-rock-brinkmanship-of-taupe-and-the-weeks-best-new-tracks",
+      "date": "Apr 24, 26",
+      "source": "Guardian Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 17,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
       "id": "d425c12a0b94",
       "title": "After Epstein scandal, Hollywood bidders race for Wasserman's $3-billion agency",
       "summary": "Beverly Hills agency UTA, former Endeavor Chairman Patrick Whitesell and private equity firms have expressed interest in Wasserman's sports marketing and music representation agency.",
@@ -318,6 +253,21 @@
       "score": 16,
       "moments": [
         "pe_investment"
+      ]
+    },
+    {
+      "id": "8d113555645b",
+      "title": "Spotify launches push to back L.A.'s independent music venues",
+      "summary": "During a tumultuous time for the ticketing industry, Spotify announced a yearlong partnership with the National Independent Venue Assn. that would help spotlight local venues' upcoming shows.",
+      "company": "Spotify",
+      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-04-15/spotify-niva-back-las-independent-music-venues",
+      "date": "Apr 15, 26",
+      "source": "LA Times Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "streaming_milestone"
       ]
     },
     {
@@ -336,6 +286,21 @@
       ]
     },
     {
+      "id": "7d7c72e90162",
+      "title": "L Catterton teams with elite athletes for $500m consumer-focused investment operation",
+      "summary": "L Catterton has teamed with athletes including Mike Trout, Kevin Durant and Cooper Flagg to launch a $500m investment partnership targeting consumer businesses. The post L Catterton teams with elite a",
+      "company": "Catterton",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/l-catterton-teams-with-elite-athletes-for-500m-consumer-focused-investment-operation.html",
+      "date": "Apr 24, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
       "id": "8bc2d379d16a",
       "title": "FanDuel\u2019s Latest Injury Promo Gets People Talking\u2014and Betting",
       "summary": "FanDuel\u2019s latest entry into the highly competitive arena of \u201cathlete injury protection\u201d sportsbook promotions drew strong reactions from both bettors and rival companies after it launched Saturday. In",
@@ -351,33 +316,18 @@
       ]
     },
     {
-      "id": "054432edd95f",
-      "title": "Mutares mulls Houston presence as firm enjoys increased US visibility; EQT ups offer for listed ATIC services provider",
-      "summary": "The assurance, testing, inspection and certification sector has attracted plenty of private equity investment, including for the healthcare laboratory segment. The post Mutares mulls Houston presence ",
-      "company": "Mutares",
-      "link": "https://www.pehub.com/mutares-mulls-houston-presence-as-firm-enjoys-increased-us-visibility-eqt-ups-offer-for-listed-atic-services-provider/",
+      "id": "ee8ed7dbce4c",
+      "title": "Swiatek leads players\u2019 surprise as WTA head Portia Archer quits after two years",
+      "summary": "WTA chief executive appointed only in June 2024Tour needs to find new venue for flagship eventA number of top players on the WTA tour have expressed their surprise at the abrupt decision by its chief ",
+      "company": "Swiatek",
+      "link": "https://www.theguardian.com/sport/2026/apr/23/swiatek-leads-players-surprise-as-wta-head-portia-archer-quits-after-two-years",
       "date": "Apr 23, 26",
-      "source": "PE Hub",
-      "layer": 4,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "60f1eec3d8d3",
-      "title": "LISTEN: Why the Warner Bros.-Paramount Skydance Sale \u2018Symbolizes Big Changes in the Industry\u2019",
-      "summary": "On today\u2019s episode of &#8220;Daily Variety&#8221; podcast, Erik Gordon, a professor at the University of Michigan\u2019s Ross School of Business, breaks down the Warner Bros. Discovery sale saga as the com",
-      "company": "LISTEN",
-      "link": "https://variety.com/2026/biz/news/warner-bros-paramount-sale-erik-gordon-michigan-ross-1236728129/",
-      "date": "Apr 22, 26",
-      "source": "Variety Biz",
-      "layer": 3,
+      "source": "Guardian Sport",
+      "layer": 2,
       "access": "pe",
       "score": 12,
       "moments": [
-        "acquisition"
+        "venue_announcement"
       ]
     },
     {
@@ -396,6 +346,36 @@
       ]
     },
     {
+      "id": "373e54d83f27",
+      "title": "Warner Bros. Discovery shareholders approve Paramount Skydance deal",
+      "summary": "Warner Bros. Discovery shareholders on Thursday voted \"overwhelmingly\" in favor of the merger with Paramount Skydance, clearing a critical hurdle.Yes, but: Shareholders did not approve the executive c",
+      "company": "Warner Bros Discovery",
+      "link": "https://www.axios.com/2026/04/23/warner-bros-discovery-approve-paramount-skydance-deal",
+      "date": "Apr 23, 26",
+      "source": "Axios",
+      "layer": 3,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "ea245a8c5af7",
+      "title": "Private markets GPs reveal fundraising optimism for 2026, shifting LP priorities are main challenge",
+      "summary": "The majority of private markets GPs are optimistic about their fundraising prospects in 2026 - although pessimism remains with a significant chunk of capital raisers, new research from S&#038;P shows.",
+      "company": "Private",
+      "link": "https://www.altassets.net/featured/private-markets-gps-reveal-fundraising-optimism-for-2026-shifting-lp-priorities-are-main-challenge.html",
+      "date": "Apr 24, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
       "id": "b67710bb0ca6",
       "title": "Kornit Digital Acquires PrintFactory to Accelerate the Industry\u2019s Transition to Digital, On-Demand Production",
       "summary": "Acquisition Strengthens Kornit\u2019s Platform Strategy, Expanding Digital Access to the Global Screen-Printing Market and Advancing Connected Infrastructure Linking Demand, Production and Fulfillment Acqu",
@@ -411,18 +391,48 @@
       ]
     },
     {
-      "id": "db6ba793d78e",
-      "title": "Illinois Lawmakers Race to Advance $5B Bears Stadium Plan",
-      "summary": "State legislators race against the clock as a stadium decision nears.",
-      "company": "Illinois Lawmakers Race",
-      "link": "https://frontofficesports.com/illinois-lawmakers-race-to-advance-5b-bears-stadium-plan/",
-      "date": "Apr 21, 26",
-      "source": "Front Office Sports",
+      "id": "964251e981b4",
+      "title": "\u2018I nearly quit to become a fencing teacher\u2019: Iron Maiden on 50 years of heavy metal, hard living \u2013 and hopeless communication skills",
+      "summary": "As a career-spanning documentary hits cinemas and the band eye two nights at Knebworth, they revisit their path from pubs to stadiums \u2013 but how did they get through their crisis-filled 1990s?When I as",
+      "company": "",
+      "link": "https://www.theguardian.com/music/2026/apr/24/i-nearly-quit-to-become-a-fencing-teacher-iron-maiden-on-50-years-of-heavy-metal-hard-living-and-hopeless-communication-skills",
+      "date": "Apr 24, 26",
+      "source": "Guardian Music",
       "layer": 2,
       "access": "pe",
       "score": 9,
       "moments": [
-        "venue_announcement"
+        "company_launch"
+      ]
+    },
+    {
+      "id": "813b448df2ba",
+      "title": "Avance-backed Alchemy Technology Group acquires cybersecurity firm IOvations",
+      "summary": "Alchemy is a Houston-based IT advisory, consulting, and reseller firm. The post Avance-backed Alchemy Technology Group acquires cybersecurity firm IOvations appeared first on PE Hub.",
+      "company": "Avance-backed Alchemy Technology Group",
+      "link": "https://www.pehub.com/avance-backed-alchemy-technology-group-acquires-cybersecurity-firm-iovations/",
+      "date": "Apr 24, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "388e2fb7b86f",
+      "title": "\u2018It\u2019s not much but, at the same time, it\u2019s very much\u2019: the enduring impact of Sade\u2019s style",
+      "summary": "The 1980s band are being inducted into the Rock and Roll Hall of Fame this year \u2013 but why does singer Sade Adu\u2019s pared-back look still resonate in 2026?Earlier this month it was announced that Sade, t",
+      "company": "\u2018It\u2019s",
+      "link": "https://www.theguardian.com/fashion/2026/apr/23/enduring-impact-of-sade-adu-style",
+      "date": "Apr 24, 26",
+      "source": "Guardian Music",
+      "layer": 4,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "company_launch"
       ]
     },
     {
@@ -441,32 +451,6 @@
       ]
     },
     {
-      "id": "054bb27cd7db",
-      "title": "Tesla earnings rise, but AI expenses add up for Elon Musk",
-      "summary": "Tesla reported an uptick in quarterly revenue and profit, but the costs of pivoting to an AI future are starting to add up.Why it matters: CEO Elon Musk has directed the company to invest heavily in t",
-      "company": "Tesla",
-      "link": "https://www.axios.com/2026/04/22/tesla-earnings-elon-musk-ai",
-      "date": "Apr 22, 26",
-      "source": "Axios",
-      "layer": 2,
-      "access": "public",
-      "score": 15,
-      "moments": []
-    },
-    {
-      "id": "c85667538334",
-      "title": "ESPN Defends NCAA Gymnastics Broadcast After Minnesota Backlash",
-      "summary": "Minnesota blasted ESPN for showing its routines less than other teams.",
-      "company": "ESPN Defends NCAA Gymnastics Broadcast After",
-      "link": "https://frontofficesports.com/espn-defends-ncaa-gymnastics-coverage/",
-      "date": "Apr 21, 26",
-      "source": "Front Office Sports",
-      "layer": 3,
-      "access": "pe",
-      "score": 9,
-      "moments": []
-    },
-    {
       "id": "dd88622117a0",
       "title": "TNT Rides NHL\u2019s Playoff Momentum After Shuffling Rights Portfolio",
       "summary": "Fresh off its production of an NCAA men\u2019s basketball championship game that posted a seven-year ratings high, TNT Sports is gearing up for another run of outsized springtime sports deliveries with its",
@@ -477,6 +461,32 @@
       "layer": 4,
       "access": "pe",
       "score": 8,
+      "moments": []
+    },
+    {
+      "id": "ef294c9981ce",
+      "title": "StubHub Expands AI Ticket Discovery Push With New Claude Integration",
+      "summary": "StubHub is extending its push into conversational ticket discovery, announcing Thursday that fans can now browse live event listings inside... The post StubHub Expands AI Ticket Discovery Push With Ne",
+      "company": "StubHub Expands AI Ticket Discovery Push",
+      "link": "https://www.ticketnews.com/2026/04/stubhub-expands-ai-ticket-discovery-push-with-new-claude-integration/",
+      "date": "Apr 23, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 6,
+      "moments": []
+    },
+    {
+      "id": "3815c01ef845",
+      "title": "State AGs Now Explicitly Seek Live Nation Breakup After Monopoly Verdict",
+      "summary": "The coalition of state attorneys general that beat Live Nation and Ticketmaster at trial last week is now making its... The post State AGs Now Explicitly Seek Live Nation Breakup After Monopoly Verdic",
+      "company": "State AGs Now Explicitly Seek Live",
+      "link": "https://www.ticketnews.com/2026/04/state-ags-now-explicitly-seek-live-nation-breakup-after-monopoly-verdict/",
+      "date": "Apr 23, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 6,
       "moments": []
     },
     {
@@ -493,39 +503,26 @@
       "moments": []
     },
     {
-      "id": "17d351e2541b",
-      "title": "Trump invokes Cold War law in move to boost energy supply",
-      "summary": "President Trump said Monday he'll use a Cold War-era national security law to try and bolster domestic production of motor fuels and electricity.Why it matters: His use of the Defense Production Act c",
-      "company": "Trump",
-      "link": "https://www.axios.com/2026/04/20/trump-energy-fuel-cold-war-defense-law",
-      "date": "Apr 20, 26",
-      "source": "Axios",
-      "layer": 4,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "7642bff5ac83",
-      "title": "Goya Foods Marks 90 Years with Sponsorship of Carlos Vives' TOUR AL SOL 2026 and Donates $50,000 to Children and Families in Need",
-      "summary": "NEW YORK, April 23, 2026 /PRNewswire/ -- Goya Foods, the largest Hispanic-owned food company in the United States, celebrates 90 years with major presenting sponsorship of Carlos Vives' TOUR AL SOL 20",
-      "company": "Goya Foods Marks",
-      "link": "https://www.prnewswire.com/news-releases/goya-foods-marks-90-years-with-sponsorship-of-carlos-vives-tour-al-sol-2026-and-donates-50-000-to-children-and-families-in-need-302751893.html",
+      "id": "401fe1555559",
+      "title": "Slovenia to air films about Palestine instead of Eurovision song contest",
+      "summary": "Ireland and Spain will also not broadcast Eurovision after decision to boycott live event over Israel\u2019s participationNational broadcasters in Ireland, Spain and Slovenia will not air the Eurovision so",
+      "company": "Slovenia",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/apr/23/slovenia-to-air-films-about-palestine-instead-of-eurovision-song-contest",
       "date": "Apr 23, 26",
-      "source": "PR Newswire",
-      "layer": 4,
+      "source": "Guardian Music",
+      "layer": 3,
       "access": "pe",
       "score": 5,
       "moments": []
     },
     {
-      "id": "e28043986191",
-      "title": "From host broadcaster to digital storyteller: why HBS launched skroller, with the support of Bubble Agency",
-      "summary": "Broadcasters are reengineering themselves for an always-on, audience-first world. Source",
-      "company": "From host broadcaster to digital storyteller",
-      "link": "https://www.sportbusiness.com/2026/03/from-host-broadcaster-to-digital-storyteller-why-hbs-launched-skroller-with-the-support-of-bubble-agency/?utm_source=rss&utm_medium=rss&utm_campaign=from-host-broadcaster-to-digital-storyteller-why-hbs-launched-skroller-with-the-support-of-bubble-agency",
-      "date": "Mar 23, 26",
-      "source": "Sport Business",
+      "id": "d5ba5af0e958",
+      "title": "BBC blows final whistle on Football Focus as show scrapped after 52 years",
+      "summary": "Growth of digital platforms reflected in audience fallAlex Scott filled with \u2018anxiety\u2019 in expectation of backlashThe BBC will take Football Focus off air this summer, bringing to an end a 52-year stin",
+      "company": "BBC",
+      "link": "https://www.theguardian.com/football/2026/apr/23/bbc-cancels-football-focus-after-52-years",
+      "date": "Apr 23, 26",
+      "source": "Guardian Sport",
       "layer": 3,
       "access": "pe",
       "score": 5,
@@ -545,27 +542,14 @@
       "moments": []
     },
     {
-      "id": "1499f48f1507",
-      "title": "Jury finds Ticketmaster and Live Nation operated illegal monopoly",
-      "summary": "The verdict by a Manhattan jury came after a five-week trial and caps a closely watched case that could have far reaching effects across the music industry.",
-      "company": "Jury",
-      "link": "https://www.latimes.com/business/story/2026-04-15/jury-finds-that-ticketmaster-live-nation-had-anticompetitive-monopoly-over-big-concert-venues",
-      "date": "Apr 15, 26",
-      "source": "LA Times Music",
-      "layer": 3,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "8a8e426f3a22",
-      "title": "Ticketmaster Cancels Scalped Harry Styles Tickets\u2014But Fans Say It\u2019s Dodging the Real Problem",
-      "summary": "Ticketmaster is reportedly working with Harry Styles and his team to get tickets for his New York City residency back... The post Ticketmaster Cancels Scalped Harry Styles Tickets\u2014But Fans Say It\u2019s Do",
-      "company": "",
-      "link": "https://www.ticketnews.com/2026/04/ticketmaster-cancels-scalped-harry-styles-tickets/",
-      "date": "Apr 22, 26",
-      "source": "Ticket News",
-      "layer": 3,
+      "id": "b5ed2ae7ce58",
+      "title": "Proposed NCAA Five-Year Rule Could Squeeze Olympic Sports",
+      "summary": "Olympic athletes and coaches don\u2019t think the proposed rules considered them.",
+      "company": "Proposed NCAA Five-Year Rule Could Squeeze",
+      "link": "https://frontofficesports.com/proposed-ncaa-five-year-rule-could-squeeze-olympic-sports/",
+      "date": "Apr 24, 26",
+      "source": "Front Office Sports",
+      "layer": 4,
       "access": "pe",
       "score": 4,
       "moments": []
