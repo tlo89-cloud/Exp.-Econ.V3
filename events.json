@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-24T13:48:29.930213+00:00",
+  "generated": "2026-04-25T13:16:01.651469+00:00",
   "total": 37,
   "scraped": [
     {
@@ -133,6 +133,22 @@
       ]
     },
     {
+      "id": "a8483312f648",
+      "title": "LCD Soundsystem Expands 2026 Tour With New North American Dates",
+      "summary": "LCD Soundsystem has announced a new set of 2026 summer tour dates, adding a second leg of headlining shows scheduled... The post LCD Soundsystem Expands 2026 Tour With New North American Dates appeare",
+      "company": "LCD Soundsystem Expands",
+      "link": "https://www.ticketnews.com/2026/04/lcd-soundsystem-expands-2026-tour-with-new-north-american-dates/",
+      "date": "Apr 24, 26",
+      "source": "Ticket News",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "tour_announcement",
+        "festival_headliner"
+      ]
+    },
+    {
       "id": "e24d3ccc46a0",
       "title": "Abenex hits halfway mark for Industries 9.0 fundraise, reaches 50% of \u20ac150m goal",
       "summary": "French private equity investor Abenex has sealed a first close for its Industries 9.0 Fund, with commitments exceeding 50% of its \u20ac150m target. The post Abenex hits halfway mark for Industries 9.0 fun",
@@ -181,18 +197,33 @@
       ]
     },
     {
-      "id": "20efa470f119",
-      "title": "Rogers Planning Sports Team Stake Sale at $18 Billion Valuation",
-      "summary": "Rogers Communications\u2019 first-quarter financial results, announced Wednesday morning, largely matched analysts&#8217; revenue and earnings expectations, but the stock surged almost 14% to close at $37.",
-      "company": "Rogers Planning Sports Team Stake Sale",
-      "link": "https://www.sportico.com/business/finance/2026/rogers-communications-earnings-sports-teams-toronto-1234890920/",
-      "date": "Apr 22, 26",
+      "id": "360ce0bda00e",
+      "title": "Sportico Transactions: Moves and Mergers Roundup for April 24",
+      "summary": "Welcome to&#160;Sportico\u2019s&#160;transactions&#160;wire, a weekly rundown of personnel, partnerships, products and purchases across the sports business industry. PERSONNEL Former NFL, StubHub Exec Kate",
+      "company": "Sportico Transactions",
+      "link": "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-roundup-april-24-1234891088/",
+      "date": "Apr 24, 26",
       "source": "Sportico",
-      "layer": 2,
-      "access": "public",
-      "score": 18,
+      "layer": 3,
+      "access": "pe",
+      "score": 24,
       "moments": [
-        "fund_launch"
+        "acquisition"
+      ]
+    },
+    {
+      "id": "f4d1b1b5ee55",
+      "title": "Archimed, Cinven, Gemspring target orthopedics; Lower development risk draws PE to medical devices",
+      "summary": "Value-based care trends and sector resiliency are making orthopedics \u2013 especially in medical device production \u2013 a hot commodity for private equity; a $1.25 billion minority investment by Apollo in a ",
+      "company": "Archimed Cinven Gemspring",
+      "link": "https://www.pehub.com/archimed-cinven-gemspring-target-orthopedics-lower-development-risk-draws-pe-to-medical-devices/",
+      "date": "Apr 24, 26",
+      "source": "PE Hub",
+      "layer": 2,
+      "access": "pe",
+      "score": 19,
+      "moments": [
+        "pe_investment"
       ]
     },
     {
@@ -301,51 +332,6 @@
       ]
     },
     {
-      "id": "8bc2d379d16a",
-      "title": "FanDuel\u2019s Latest Injury Promo Gets People Talking\u2014and Betting",
-      "summary": "FanDuel\u2019s latest entry into the highly competitive arena of \u201cathlete injury protection\u201d sportsbook promotions drew strong reactions from both bettors and rival companies after it launched Saturday. In",
-      "company": "FanDuel\u2019s Latest Injury Promo Gets People",
-      "link": "https://www.sportico.com/business/sports-betting/2026/fanduel-bet-protect-expected-value-1234890905/",
-      "date": "Apr 22, 26",
-      "source": "Sportico",
-      "layer": 2,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "ee8ed7dbce4c",
-      "title": "Swiatek leads players\u2019 surprise as WTA head Portia Archer quits after two years",
-      "summary": "WTA chief executive appointed only in June 2024Tour needs to find new venue for flagship eventA number of top players on the WTA tour have expressed their surprise at the abrupt decision by its chief ",
-      "company": "Swiatek",
-      "link": "https://www.theguardian.com/sport/2026/apr/23/swiatek-leads-players-surprise-as-wta-head-portia-archer-quits-after-two-years",
-      "date": "Apr 23, 26",
-      "source": "Guardian Sport",
-      "layer": 2,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "venue_announcement"
-      ]
-    },
-    {
-      "id": "94278b950500",
-      "title": "New primary care firm Mangrove Health launches with investment by Mako",
-      "summary": "Mangrove was founded by veteran healthcare executives Elena Casta\u00f1eda and Dr. Emily Maxson. The post New primary care firm Mangrove Health launches with investment by Mako appeared first on PE Hub.",
-      "company": "New primary care firm Mangrove Health",
-      "link": "https://www.pehub.com/new-primary-care-firm-mangrove-health-launches-with-investment-by-mako/",
-      "date": "Apr 23, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
       "id": "373e54d83f27",
       "title": "Warner Bros. Discovery shareholders approve Paramount Skydance deal",
       "summary": "Warner Bros. Discovery shareholders on Thursday voted \"overwhelmingly\" in favor of the merger with Paramount Skydance, clearing a critical hurdle.Yes, but: Shareholders did not approve the executive c",
@@ -406,11 +392,11 @@
       ]
     },
     {
-      "id": "813b448df2ba",
-      "title": "Avance-backed Alchemy Technology Group acquires cybersecurity firm IOvations",
-      "summary": "Alchemy is a Houston-based IT advisory, consulting, and reseller firm. The post Avance-backed Alchemy Technology Group acquires cybersecurity firm IOvations appeared first on PE Hub.",
-      "company": "Avance-backed Alchemy Technology Group",
-      "link": "https://www.pehub.com/avance-backed-alchemy-technology-group-acquires-cybersecurity-firm-iovations/",
+      "id": "88c78f13ff9d",
+      "title": "PE-backed MyEyeDr acquires Lumina Vision Partners",
+      "summary": "Based in Vienna, Virginia, MyEyeDr is a provider of vision care and eyewear. The post PE-backed MyEyeDr acquires Lumina Vision Partners appeared first on PE Hub.",
+      "company": "PE-backed MyEyeDr",
+      "link": "https://www.pehub.com/pe-backed-myeyedr-acquires-lumina-vision-partners/",
       "date": "Apr 24, 26",
       "source": "PE Hub",
       "layer": 5,
@@ -421,18 +407,18 @@
       ]
     },
     {
-      "id": "388e2fb7b86f",
-      "title": "\u2018It\u2019s not much but, at the same time, it\u2019s very much\u2019: the enduring impact of Sade\u2019s style",
-      "summary": "The 1980s band are being inducted into the Rock and Roll Hall of Fame this year \u2013 but why does singer Sade Adu\u2019s pared-back look still resonate in 2026?Earlier this month it was announced that Sade, t",
-      "company": "\u2018It\u2019s",
-      "link": "https://www.theguardian.com/fashion/2026/apr/23/enduring-impact-of-sade-adu-style",
+      "id": "a67c9773e661",
+      "title": "Why the new Michael Jackson biopic is on track to break box office records",
+      "summary": "Despite some production hurdles and mixed reviews, the film is on track for a record-breaking opening weekend.",
+      "company": "Why",
+      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-04-24/michael-jackson-biopic-what-to-know",
       "date": "Apr 24, 26",
-      "source": "Guardian Music",
+      "source": "LA Times Music",
       "layer": 4,
       "access": "pe",
       "score": 6,
       "moments": [
-        "company_launch"
+        "record_breaking"
       ]
     },
     {
@@ -451,25 +437,90 @@
       ]
     },
     {
-      "id": "dd88622117a0",
-      "title": "TNT Rides NHL\u2019s Playoff Momentum After Shuffling Rights Portfolio",
-      "summary": "Fresh off its production of an NCAA men\u2019s basketball championship game that posted a seven-year ratings high, TNT Sports is gearing up for another run of outsized springtime sports deliveries with its",
-      "company": "TNT Rides NHL\u2019s Playoff Momentum After",
-      "link": "https://www.sportico.com/business/media/2026/stanley-cup-playoffs-nhl-ratings-up-tnt-disney-1234890946/",
+      "id": "054bb27cd7db",
+      "title": "Tesla earnings rise, but AI expenses add up for Elon Musk",
+      "summary": "Tesla reported an uptick in quarterly revenue and profit, but the costs of pivoting to an AI future are starting to add up.Why it matters: CEO Elon Musk has directed the company to invest heavily in t",
+      "company": "Tesla",
+      "link": "https://www.axios.com/2026/04/22/tesla-earnings-elon-musk-ai",
       "date": "Apr 22, 26",
-      "source": "Sportico",
+      "source": "Axios",
+      "layer": 2,
+      "access": "public",
+      "score": 15,
+      "moments": []
+    },
+    {
+      "id": "d441708ad0e6",
+      "title": "BTS Fans Cry Foul After Ticketmaster Cancels Tickets, Saying They Should Have Been Held Back for VIP Sale",
+      "summary": "A ticketing error involving BTS\u2019 upcoming Las Vegas concert left some fans with canceled VIP orders and non-refundable travel expenses... The post BTS Fans Cry Foul After Ticketmaster Cancels Tickets,",
+      "company": "BTS Fans Cry Foul After Ticketmaster",
+      "link": "https://www.ticketnews.com/2026/04/bts-fans-cry-foul-after-ticketmaster-cancells-tickets-claining-glitch/",
+      "date": "Apr 24, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 13,
+      "moments": []
+    },
+    {
+      "id": "471114ae3c70",
+      "title": "\u2018I\u2019m not famous. But I can\u2019t go to the chippy\u2019: Courteeners\u2019 Liam Fray on filling stadiums, defying extinction \u2013 and wearing M&S pants",
+      "summary": "He launched a guitar band just as the world was moving on. But they still went stratospheric. Fray talks about uniting Manchester after the attacks \u2013 and writing his first single on a Fred Perry comp ",
+      "company": "\u2018I\u2019m",
+      "link": "https://www.theguardian.com/music/2026/apr/22/courteeners-liam-fray-manchester-attacks",
+      "date": "Apr 22, 26",
+      "source": "Guardian Music",
+      "layer": 2,
+      "access": "pe",
+      "score": 10,
+      "moments": []
+    },
+    {
+      "id": "10106dd74d09",
+      "title": "DOJ drops criminal probe into Fed chair Jerome Powell",
+      "summary": "The Department of Justice said it will drop a criminal probe into Federal Reserve chair Jerome Powell on Friday, a sharp pivot in an unprecedented investigation into the nation's top central banker.Wh",
+      "company": "DOJ",
+      "link": "https://www.axios.com/2026/04/24/fed-powell-trump-doj",
+      "date": "Apr 24, 26",
+      "source": "Axios",
+      "layer": 3,
+      "access": "pe",
+      "score": 10,
+      "moments": []
+    },
+    {
+      "id": "dddf9499a3fd",
+      "title": "Cathay Capital-backed Parkview Dental Partners snaps up VIP Dental",
+      "summary": "Based in Sarasota, Florida, Parkview Dental Partners is a dental growth &#038; management partnership. The post Cathay Capital-backed Parkview Dental Partners snaps up VIP Dental appeared first on PE ",
+      "company": "",
+      "link": "https://www.pehub.com/cathay-capital-backed-parkview-dental-partners-snaps-up-vip-dental/",
+      "date": "Apr 24, 26",
+      "source": "PE Hub",
       "layer": 4,
       "access": "pe",
-      "score": 8,
+      "score": 7,
       "moments": []
     },
     {
-      "id": "ef294c9981ce",
-      "title": "StubHub Expands AI Ticket Discovery Push With New Claude Integration",
-      "summary": "StubHub is extending its push into conversational ticket discovery, announcing Thursday that fans can now browse live event listings inside... The post StubHub Expands AI Ticket Discovery Push With Ne",
-      "company": "StubHub Expands AI Ticket Discovery Push",
-      "link": "https://www.ticketnews.com/2026/04/stubhub-expands-ai-ticket-discovery-push-with-new-claude-integration/",
-      "date": "Apr 23, 26",
+      "id": "35c739583626",
+      "title": "Former Live Nation Executive Alleges He Was Fired After Flagging Financial Misconduct, Consent Decree Concerns",
+      "summary": "A former Live Nation executive has filed a whistleblower and wrongful termination lawsuit in Los Angeles Superior Court, alleging the... The post Former Live Nation Executive Alleges He Was Fired Afte",
+      "company": "Former Live Nation Executive Alleges He",
+      "link": "https://www.ticketnews.com/2026/04/former-live-nation-executive-alleges-he-was-fired-after-flagging-financial-misconduct-consent-decree-concerns/",
+      "date": "Apr 24, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 7,
+      "moments": []
+    },
+    {
+      "id": "f55bf09d5723",
+      "title": "Ticketmaster Delists Ontario Resale Tickets as New Price Cap Hands Live Nation a Competitive Win",
+      "summary": "Ticketmaster has begun delisting resale tickets for Ontario events after the province passed legislation capping resale prices at face value,... The post Ticketmaster Delists Ontario Resale Tickets as",
+      "company": "Ticketmaster Delists Ontario Resale Tickets",
+      "link": "https://www.ticketnews.com/2026/04/ticketmaster-delists-ontario-resale-tickets-as-new-price-cap-hands-live-nation-a-competitive-win/",
+      "date": "Apr 24, 26",
       "source": "Ticket News",
       "layer": 3,
       "access": "pe",
@@ -477,65 +528,13 @@
       "moments": []
     },
     {
-      "id": "3815c01ef845",
-      "title": "State AGs Now Explicitly Seek Live Nation Breakup After Monopoly Verdict",
-      "summary": "The coalition of state attorneys general that beat Live Nation and Ticketmaster at trial last week is now making its... The post State AGs Now Explicitly Seek Live Nation Breakup After Monopoly Verdic",
-      "company": "State AGs Now Explicitly Seek Live",
-      "link": "https://www.ticketnews.com/2026/04/state-ags-now-explicitly-seek-live-nation-breakup-after-monopoly-verdict/",
-      "date": "Apr 23, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 6,
-      "moments": []
-    },
-    {
-      "id": "1b84b6a69c58",
-      "title": "Netflix Authorizes $25 Billion Stock Buyback in Bid to Boost Share Price",
-      "summary": "Now that it doesn&#8217;t have to pay for Warner Bros., Netflix is using its capital to buy back more shares: The streaming giant said its board authorized a buyback of an additional $25 billion of th",
-      "company": "Netflix Authorizes",
-      "link": "https://variety.com/2026/tv/news/netflix-25-billion-share-repurchase-stock-price-1236728558/",
-      "date": "Apr 23, 26",
+      "id": "5cd1b33559e2",
+      "title": "LISTEN: NBCUniversal\u2019s Pearlena Igbokwe on the Return of Pilots, the Value of Co-Viewing, and Leveraging Broadcast and Streaming Platforms",
+      "summary": "On today\u2019s episode of Variety\u2019s &#8220;Strictly Business&#8221; podcast, NBCUniversal\u2019s Pearlena Igbokwe details the company\u2019s key areas of focus following its transition with the Versant Media spinof",
+      "company": "LISTEN",
+      "link": "https://variety.com/2026/tv/news/pearlena-igbokwe-nbcuniversal-svu-variety-strictly-business-1236729572/",
+      "date": "Apr 24, 26",
       "source": "Variety Biz",
-      "layer": 3,
-      "access": "public",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "401fe1555559",
-      "title": "Slovenia to air films about Palestine instead of Eurovision song contest",
-      "summary": "Ireland and Spain will also not broadcast Eurovision after decision to boycott live event over Israel\u2019s participationNational broadcasters in Ireland, Spain and Slovenia will not air the Eurovision so",
-      "company": "Slovenia",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/apr/23/slovenia-to-air-films-about-palestine-instead-of-eurovision-song-contest",
-      "date": "Apr 23, 26",
-      "source": "Guardian Music",
-      "layer": 3,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "d5ba5af0e958",
-      "title": "BBC blows final whistle on Football Focus as show scrapped after 52 years",
-      "summary": "Growth of digital platforms reflected in audience fallAlex Scott filled with \u2018anxiety\u2019 in expectation of backlashThe BBC will take Football Focus off air this summer, bringing to an end a 52-year stin",
-      "company": "BBC",
-      "link": "https://www.theguardian.com/football/2026/apr/23/bbc-cancels-football-focus-after-52-years",
-      "date": "Apr 23, 26",
-      "source": "Guardian Sport",
-      "layer": 3,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "ea3f022fc27e",
-      "title": "Finance Complaint List Warns of a 500% Surge in AI-Powered Deepfake Crypto Scams Driven by Celebrity Impersonations",
-      "summary": "Globally people are losing millions in minutes as hyper-realistic videos, fake news broadcasts, and live executive impersonations turn artificial intelligence into the most dangerous fraud weapon of 2",
-      "company": "Finance Complaint List Warns",
-      "link": "https://venuestoday.com/finance-complaint-list-warns-of-a-500-surge-in-ai-powered-deepfake-crypto-scams-driven-by-celebrity-impersonations/?utm_source=rss&utm_medium=rss&utm_campaign=finance-complaint-list-warns-of-a-500-surge-in-ai-powered-deepfake-crypto-scams-driven-by-celebrity-impersonations",
-      "date": "Feb 04, 26",
-      "source": "Venues Today",
       "layer": 3,
       "access": "pe",
       "score": 5,
