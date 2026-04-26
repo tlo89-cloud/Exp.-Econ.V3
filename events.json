@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-25T13:16:01.651469+00:00",
+  "generated": "2026-04-26T13:17:38.401522+00:00",
   "total": 37,
   "scraped": [
     {
@@ -66,6 +66,22 @@
       "moments": [
         "pe_investment",
         "fund_launch"
+      ]
+    },
+    {
+      "id": "f584b463e840",
+      "title": "Cody Johnson Brings Out Boyz II Men for \u2018On Bended Knee\u2019 at Stagecoach 2026",
+      "summary": "The country star headlined the opening day of the desert festival on April 24.",
+      "company": "Cody Johnson Brings Out Boyz II",
+      "link": "https://www.billboard.com/music/music-news/cody-johnson-boyz-ii-men-stagecoach-2026-1236231467/",
+      "date": "Apr 25, 26",
+      "source": "Billboard",
+      "layer": 1,
+      "access": "pe",
+      "score": 18,
+      "moments": [
+        "surprise_appearance",
+        "festival_headliner"
       ]
     },
     {
@@ -212,6 +228,21 @@
       ]
     },
     {
+      "id": "7af6bece9733",
+      "title": "First 26 artists and 211 tour dates benefit from FAC\u2019s \u00a3125k fund to get musicians back on the road",
+      "summary": "The grassroots fund has been collected from voluntary ticket contributions from a range of big stadium and arena shows The post First 26 artists and 211 tour dates benefit from FAC&#8217;s \u00a3125k fund ",
+      "company": "First",
+      "link": "https://www.nme.com/news/music/first-26-artists-and-211-tour-dates-benefit-from-facs-125k-fund-to-get-musicians-back-on-the-road-3942537?utm_source=rss&utm_medium=rss&utm_campaign=first-26-artists-and-211-tour-dates-benefit-from-facs-125k-fund-to-get-musicians-back-on-the-road",
+      "date": "Apr 25, 26",
+      "source": "NME",
+      "layer": 2,
+      "access": "pe",
+      "score": 21,
+      "moments": [
+        "tour_announcement"
+      ]
+    },
+    {
       "id": "f4d1b1b5ee55",
       "title": "Archimed, Cinven, Gemspring target orthopedics; Lower development risk draws PE to medical devices",
       "summary": "Value-based care trends and sector resiliency are making orthopedics \u2013 especially in medical device production \u2013 a hot commodity for private equity; a $1.25 billion minority investment by Apollo in a ",
@@ -284,21 +315,6 @@
       "score": 16,
       "moments": [
         "pe_investment"
-      ]
-    },
-    {
-      "id": "8d113555645b",
-      "title": "Spotify launches push to back L.A.'s independent music venues",
-      "summary": "During a tumultuous time for the ticketing industry, Spotify announced a yearlong partnership with the National Independent Venue Assn. that would help spotlight local venues' upcoming shows.",
-      "company": "Spotify",
-      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-04-15/spotify-niva-back-las-independent-music-venues",
-      "date": "Apr 15, 26",
-      "source": "LA Times Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "streaming_milestone"
       ]
     },
     {
@@ -437,19 +453,6 @@
       ]
     },
     {
-      "id": "054bb27cd7db",
-      "title": "Tesla earnings rise, but AI expenses add up for Elon Musk",
-      "summary": "Tesla reported an uptick in quarterly revenue and profit, but the costs of pivoting to an AI future are starting to add up.Why it matters: CEO Elon Musk has directed the company to invest heavily in t",
-      "company": "Tesla",
-      "link": "https://www.axios.com/2026/04/22/tesla-earnings-elon-musk-ai",
-      "date": "Apr 22, 26",
-      "source": "Axios",
-      "layer": 2,
-      "access": "public",
-      "score": 15,
-      "moments": []
-    },
-    {
       "id": "d441708ad0e6",
       "title": "BTS Fans Cry Foul After Ticketmaster Cancels Tickets, Saying They Should Have Been Held Back for VIP Sale",
       "summary": "A ticketing error involving BTS\u2019 upcoming Las Vegas concert left some fans with canceled VIP orders and non-refundable travel expenses... The post BTS Fans Cry Foul After Ticketmaster Cancels Tickets,",
@@ -478,7 +481,7 @@
     {
       "id": "10106dd74d09",
       "title": "DOJ drops criminal probe into Fed chair Jerome Powell",
-      "summary": "The Department of Justice said it will drop a criminal probe into Federal Reserve chair Jerome Powell on Friday, a sharp pivot in an unprecedented investigation into the nation's top central banker.Wh",
+      "summary": "The Department of Justice said Friday it will drop a criminal probe into Federal Reserve chair Jerome Powell, a sharp pivot in an unprecedented investigation into the nation's top central banker.Why i",
       "company": "DOJ",
       "link": "https://www.axios.com/2026/04/24/fed-powell-trump-doj",
       "date": "Apr 24, 26",
