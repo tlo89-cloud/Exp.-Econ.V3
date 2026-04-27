@@ -1,24 +1,7 @@
 {
-  "generated": "2026-04-26T13:17:38.401522+00:00",
-  "total": 37,
+  "generated": "2026-04-27T14:06:47.616077+00:00",
+  "total": 36,
   "scraped": [
-    {
-      "id": "7da294c1a8a0",
-      "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
-      "summary": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the ",
-      "company": "Vercel CEO Guillermo Rauch",
-      "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
-      "date": "Apr 13, 26",
-      "source": "TechCrunch Venture",
-      "layer": 2,
-      "access": "venture",
-      "score": 31,
-      "moments": [
-        "acquisition",
-        "ipo",
-        "company_launch"
-      ]
-    },
     {
       "id": "516f634212e7",
       "title": "Deal Roundup: HIG Capital agrees Celerion sale to THL Partners, GTCR closes Fiduciary acquisition",
@@ -69,19 +52,19 @@
       ]
     },
     {
-      "id": "f584b463e840",
-      "title": "Cody Johnson Brings Out Boyz II Men for \u2018On Bended Knee\u2019 at Stagecoach 2026",
-      "summary": "The country star headlined the opening day of the desert festival on April 24.",
-      "company": "Cody Johnson Brings Out Boyz II",
-      "link": "https://www.billboard.com/music/music-news/cody-johnson-boyz-ii-men-stagecoach-2026-1236231467/",
-      "date": "Apr 25, 26",
-      "source": "Billboard",
+      "id": "03d0d444c92d",
+      "title": "TPG, GTCR, Otro among PE firms in pursuit of broader sports ecosystem deals; Harbinger Sports targets pro sports teams after fund close",
+      "summary": "A look at growing private equity interest in the broader sports ecosystem, which includes technology, consumer and youth sports; Harbinger Sports Partners announced the initial closing of its first fu",
+      "company": "TPG GTCR Otro",
+      "link": "https://www.pehub.com/tpg-gtcr-otro-among-pe-firms-in-pursuit-of-broader-sports-ecosystem-deals-harbinger-sports-targets-pro-sports-teams-after-fund-close/",
+      "date": "Apr 27, 26",
+      "source": "PE Hub",
       "layer": 1,
       "access": "pe",
       "score": 18,
       "moments": [
-        "surprise_appearance",
-        "festival_headliner"
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
@@ -117,22 +100,6 @@
       ]
     },
     {
-      "id": "63401b037338",
-      "title": "EQT weighs potential bid for Japan\u2019s Kakaku.com",
-      "summary": "European private equity giant EQT AB is reportedly exploring a possible acquisition of Japanese internet platform Kakaku.com Inc, underscoring continued private equity interest in Japan\u2019s public marke",
-      "company": "EQT",
-      "link": "https://www.privateequitywire.co.uk/eqt-weighs-potential-bid-for-japans-kakaku-com/",
-      "date": "Apr 24, 26",
-      "source": "PE Wire",
-      "layer": 5,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "acquisition",
-        "pe_investment"
-      ]
-    },
-    {
       "id": "3efdcc00dc88",
       "title": "Waterland speeds to \u20ac4.6bn double hard cap close in less than four months",
       "summary": "European private equity house Waterland has raced to \u20ac4.6bn across its latest flagship buyout fund and sophomore Partnership Fund. The post Waterland speeds to \u20ac4.6bn double hard cap close in less tha",
@@ -165,19 +132,19 @@
       ]
     },
     {
-      "id": "e24d3ccc46a0",
-      "title": "Abenex hits halfway mark for Industries 9.0 fundraise, reaches 50% of \u20ac150m goal",
-      "summary": "French private equity investor Abenex has sealed a first close for its Industries 9.0 Fund, with commitments exceeding 50% of its \u20ac150m target. The post Abenex hits halfway mark for Industries 9.0 fun",
-      "company": "Abenex",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/france-western-europe-europe-by-region/abenex-hits-halfway-mark-for-industries-9-0-fundraise-reaches-50-of-e150m-goal.html",
-      "date": "Apr 22, 26",
-      "source": "AltAssets",
+      "id": "050e76d92490",
+      "title": "The Sterling Group Foundation Fund acquires wastewater services firm Scrugg",
+      "summary": "Scruggs was previously a portfolio company of Rox Capital Partners. The post The Sterling Group Foundation Fund acquires wastewater services firm Scrugg appeared first on PE Hub.",
+      "company": "The Sterling Group Foundation Fund",
+      "link": "https://www.pehub.com/the-sterling-group-foundation-fund-acquires-wastewater-services-firm-scrugg/",
+      "date": "Apr 27, 26",
+      "source": "PE Hub",
       "layer": 5,
       "access": "pe",
       "score": 13,
       "moments": [
-        "pe_investment",
-        "fund_launch"
+        "acquisition",
+        "company_launch"
       ]
     },
     {
@@ -225,51 +192,6 @@
       "score": 24,
       "moments": [
         "acquisition"
-      ]
-    },
-    {
-      "id": "7af6bece9733",
-      "title": "First 26 artists and 211 tour dates benefit from FAC\u2019s \u00a3125k fund to get musicians back on the road",
-      "summary": "The grassroots fund has been collected from voluntary ticket contributions from a range of big stadium and arena shows The post First 26 artists and 211 tour dates benefit from FAC&#8217;s \u00a3125k fund ",
-      "company": "First",
-      "link": "https://www.nme.com/news/music/first-26-artists-and-211-tour-dates-benefit-from-facs-125k-fund-to-get-musicians-back-on-the-road-3942537?utm_source=rss&utm_medium=rss&utm_campaign=first-26-artists-and-211-tour-dates-benefit-from-facs-125k-fund-to-get-musicians-back-on-the-road",
-      "date": "Apr 25, 26",
-      "source": "NME",
-      "layer": 2,
-      "access": "pe",
-      "score": 21,
-      "moments": [
-        "tour_announcement"
-      ]
-    },
-    {
-      "id": "f4d1b1b5ee55",
-      "title": "Archimed, Cinven, Gemspring target orthopedics; Lower development risk draws PE to medical devices",
-      "summary": "Value-based care trends and sector resiliency are making orthopedics \u2013 especially in medical device production \u2013 a hot commodity for private equity; a $1.25 billion minority investment by Apollo in a ",
-      "company": "Archimed Cinven Gemspring",
-      "link": "https://www.pehub.com/archimed-cinven-gemspring-target-orthopedics-lower-development-risk-draws-pe-to-medical-devices/",
-      "date": "Apr 24, 26",
-      "source": "PE Hub",
-      "layer": 2,
-      "access": "pe",
-      "score": 19,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "5392a08b6f18",
-      "title": "Anthropic's growing pains mount ahead of OpenAI showdown",
-      "summary": "Anthropic is hitting turbulence at a critical moment, with a cascade of challenges converging ahead of a potential IPO that could value the company near $800 billion.Why it matters: The AI darling, wh",
-      "company": "Anthropic's",
-      "link": "https://www.axios.com/2026/04/23/anthropic-openai-showdown",
-      "date": "Apr 23, 26",
-      "source": "Axios",
-      "layer": 2,
-      "access": "pe",
-      "score": 18,
-      "moments": [
-        "ipo"
       ]
     },
     {
@@ -408,12 +330,27 @@
       ]
     },
     {
-      "id": "88c78f13ff9d",
-      "title": "PE-backed MyEyeDr acquires Lumina Vision Partners",
-      "summary": "Based in Vienna, Virginia, MyEyeDr is a provider of vision care and eyewear. The post PE-backed MyEyeDr acquires Lumina Vision Partners appeared first on PE Hub.",
-      "company": "PE-backed MyEyeDr",
-      "link": "https://www.pehub.com/pe-backed-myeyedr-acquires-lumina-vision-partners/",
-      "date": "Apr 24, 26",
+      "id": "567fa323d639",
+      "title": "Sullivan Street Partners acquires Mi Hub from LDC",
+      "summary": "Mi Hub is a corporate uniform provider that operates through four brands: Dimensions, Alexandra, Yaffy and Affinity. The post Sullivan Street Partners acquires Mi Hub from LDC appeared first on PE Hub",
+      "company": "Sullivan Street Partners",
+      "link": "https://www.pehub.com/sullivan-street-partners-acquires-mi-hub-from-ldc/",
+      "date": "Apr 27, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "d0b6781c3fe5",
+      "title": "Bridgepoint-backed Fera completes 3Keel acquisition",
+      "summary": "3Keel tackles risks across supply chains, food systems and landscapes. The post Bridgepoint-backed Fera completes 3Keel acquisition appeared first on PE Hub.",
+      "company": "Bridgepoint-backed Fera",
+      "link": "https://www.pehub.com/bridgepoint-backed-fera-completes-3keel-acquisition/",
+      "date": "Apr 27, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
@@ -466,6 +403,19 @@
       "moments": []
     },
     {
+      "id": "4dc6cba12849",
+      "title": "Marketecture Media Taps Jackelyn Keller as Chief Commerical Officer",
+      "summary": "Marketecture Media, a publishing and live event outfit that focuses on the nexus of media and technology, has recruited Jackelyn Keller to serve as chief revenue officer as the company looks to scale ",
+      "company": "Marketecture Media Taps Jackelyn Keller",
+      "link": "https://variety.com/2026/biz/news/marketecture-media-jackelyn-keller-chief-commerical-officer-1236731098/",
+      "date": "Apr 27, 26",
+      "source": "Variety Biz",
+      "layer": 2,
+      "access": "pe",
+      "score": 11,
+      "moments": []
+    },
+    {
       "id": "471114ae3c70",
       "title": "\u2018I\u2019m not famous. But I can\u2019t go to the chippy\u2019: Courteeners\u2019 Liam Fray on filling stadiums, defying extinction \u2013 and wearing M&S pants",
       "summary": "He launched a guitar band just as the world was moving on. But they still went stratospheric. Fray talks about uniting Manchester after the attacks \u2013 and writing his first single on a Fred Perry comp ",
@@ -492,16 +442,55 @@
       "moments": []
     },
     {
-      "id": "dddf9499a3fd",
-      "title": "Cathay Capital-backed Parkview Dental Partners snaps up VIP Dental",
-      "summary": "Based in Sarasota, Florida, Parkview Dental Partners is a dental growth &#038; management partnership. The post Cathay Capital-backed Parkview Dental Partners snaps up VIP Dental appeared first on PE ",
-      "company": "",
-      "link": "https://www.pehub.com/cathay-capital-backed-parkview-dental-partners-snaps-up-vip-dental/",
-      "date": "Apr 24, 26",
-      "source": "PE Hub",
-      "layer": 4,
+      "id": "d5ab954e4aab",
+      "title": "Maximize Every Square Foot: Using Digital Authority to Win High-Value Venue Bookings",
+      "summary": "Source: ChatGPT Event organizers often struggle to secure premium venue bookings even when their content or services are strong. Limited visibility, unclear reputation, and weak online authority can r",
+      "company": "Maximize Every Square Foot",
+      "link": "https://venuestoday.com/maximize-every-square-foot-using-digital-authority-to-win-high-value-venue-bookings/?utm_source=rss&utm_medium=rss&utm_campaign=maximize-every-square-foot-using-digital-authority-to-win-high-value-venue-bookings",
+      "date": "Mar 04, 26",
+      "source": "Venues Today",
+      "layer": 2,
       "access": "pe",
-      "score": 7,
+      "score": 10,
+      "moments": []
+    },
+    {
+      "id": "a0efe0cc3892",
+      "title": "Live Nation Canada Reports Sustainability Progress at Rogers Stadium",
+      "summary": "Live Nation Canada is using Earth Week to share new environmental progress at Rogers Stadium, where recent operational changes have... The post Live Nation Canada Reports Sustainability Progress at Ro",
+      "company": "",
+      "link": "https://www.ticketnews.com/2026/04/live-nation-canada-reports-sustainability-progress-at-rogers-stadium/",
+      "date": "Apr 27, 26",
+      "source": "Ticket News",
+      "layer": 2,
+      "access": "pe",
+      "score": 9,
+      "moments": []
+    },
+    {
+      "id": "7c3aabc4f316",
+      "title": "Live Nation Seeks to Pause Breakup Fight Until After DOJ Settlement Review \u2013 Which Could Take Up to a Year",
+      "summary": "Holdout states want remedies proceedings to run alongside Tunney Act review, warning Live Nation\u2019s schedule could delay relief nearly a... The post Live Nation Seeks to Pause Breakup Fight Until After",
+      "company": "Live Nation Seeks",
+      "link": "https://www.ticketnews.com/2026/04/live-nation-seeks-to-pause-breakup-fight-until-after-doj-settlement-review-which-could-take-up-to-a-year/",
+      "date": "Apr 27, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 9,
+      "moments": []
+    },
+    {
+      "id": "eebd4f114586",
+      "title": "See BTS Kick Off North American Leg of Arirang World Tour in Tampa",
+      "summary": "Superstars perform \"Permission to Dance\" and \"Magic Shop\" as surprise song encore as stadium trek comes stateside",
+      "company": "See BTS Kick Off North American",
+      "link": "https://www.rollingstone.com/music/music-news/bts-north-american-leg-arirang-world-tour-tampa-1235553802/",
+      "date": "Apr 26, 26",
+      "source": "Rolling Stone Music",
+      "layer": 2,
+      "access": "pe",
+      "score": 8,
       "moments": []
     },
     {
@@ -528,19 +517,6 @@
       "layer": 3,
       "access": "pe",
       "score": 6,
-      "moments": []
-    },
-    {
-      "id": "5cd1b33559e2",
-      "title": "LISTEN: NBCUniversal\u2019s Pearlena Igbokwe on the Return of Pilots, the Value of Co-Viewing, and Leveraging Broadcast and Streaming Platforms",
-      "summary": "On today\u2019s episode of Variety\u2019s &#8220;Strictly Business&#8221; podcast, NBCUniversal\u2019s Pearlena Igbokwe details the company\u2019s key areas of focus following its transition with the Versant Media spinof",
-      "company": "LISTEN",
-      "link": "https://variety.com/2026/tv/news/pearlena-igbokwe-nbcuniversal-svu-variety-strictly-business-1236729572/",
-      "date": "Apr 24, 26",
-      "source": "Variety Biz",
-      "layer": 3,
-      "access": "pe",
-      "score": 5,
       "moments": []
     },
     {
