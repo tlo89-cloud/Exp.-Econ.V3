@@ -1,21 +1,21 @@
 {
-  "generated": "2026-04-29T14:11:10.805051+00:00",
-  "total": 35,
+  "generated": "2026-04-30T14:09:07.529828+00:00",
+  "total": 37,
   "scraped": [
     {
-      "id": "04ecbdd7d8b5",
-      "title": "Ariana Grande announces new album \u2018Petal\u2019: \u201cSomething that is full of life and growing through the cracks of something cold and hard and challenging\u201d",
-      "summary": "It will be released on July 31, after she kicks off her first tour dates since 2019 The post Ariana Grande announces new album &#8216;Petal&#8217;: \u201cSomething that is full of life and growing through ",
-      "company": "Ariana Grande",
-      "link": "https://www.nme.com/news/music/ariana-grande-announces-new-album-petal-something-that-is-full-of-life-and-growing-through-the-cracks-of-something-cold-and-hard-and-challenging-3943098?utm_source=rss&utm_medium=rss&utm_campaign=ariana-grande-announces-new-album-petal-something-that-is-full-of-life-and-growing-through-the-cracks-of-something-cold-and-hard-and-challenging",
-      "date": "Apr 29, 26",
-      "source": "NME",
+      "id": "604b7e719b6a",
+      "title": "Clessidra clears \u20ac150m target at final close of Italy-focused agrifood fund",
+      "summary": "Italian alternative investment major Clessidra's private equity arm has beaten its target for a new fund targeting the country's agrifood sector, with total commitments of more than \u20ac150m. The post Cl",
+      "company": "Clessidra",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/italy-western-europe-europe-by-region/100208179.html",
+      "date": "Apr 30, 26",
+      "source": "AltAssets",
       "layer": 1,
       "access": "pe",
       "score": 21,
       "moments": [
-        "album_announcement",
-        "tour_announcement"
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
@@ -35,16 +35,16 @@
       ]
     },
     {
-      "id": "5923e1f42f78",
-      "title": "Emerald Lake seals transition from deal-by-deal with heavily oversubscribed $800m debut fund close",
-      "summary": "Emerald Lake Capital Management has raised $800m for its heavily oversubscribed debut fund after years of successful deal-by-deal investing. The post Emerald Lake seals transition from deal-by-deal wi",
-      "company": "Emerald Lake",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/emerald-lake-seals-transition-from-deal-by-deal-with-heavily-oversubscribed-800m-debut-fund-close.html",
-      "date": "Apr 28, 26",
+      "id": "2211843f47e1",
+      "title": "NorthWestern Mutual expands VC allocation with fintech, insurtech-focused \u2018Fund III\u2019",
+      "summary": "Northwestern Mutual has expanded its venture capital allocation to $350m through a new investment targeting promising fintech and insurtech startups. The post NorthWestern Mutual expands VC allocation",
+      "company": "NorthWestern Mutual",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/northweestern-mutual-expands-vc-allocation-with-fintech-insurtech-focused-fund-iii.html",
+      "date": "Apr 30, 26",
       "source": "AltAssets",
-      "layer": 1,
+      "layer": 5,
       "access": "pe",
-      "score": 18,
+      "score": 16,
       "moments": [
         "pe_investment",
         "fund_launch"
@@ -67,12 +67,28 @@
       ]
     },
     {
-      "id": "c8f7ce02c5a1",
-      "title": "B2B tech investor Mighty Capital collects more than $90m for oversubscribed Fund III",
-      "summary": "Product-led investing VC Mighty Capital has closed its third fundraise on $91m, more than three-times the amount it collected for its predecessor vehicle. The post B2B tech investor Mighty Capital col",
-      "company": "B2B",
-      "link": "https://www.altassets.net/private-equity-news/by-news-type/fund-news/funds-closed/b2b-tech-investor-mighty-capital-collects-more-than-90m-for-oversubscribed-fund-iii.html",
-      "date": "Apr 28, 26",
+      "id": "f1ba784f6c69",
+      "title": "DAZN\u2019s $100M ViewLift Buy Bolsters Regional Streaming Rights Push",
+      "summary": "DAZN has acquired streaming tech developer ViewLift as the global sports media platform courts teams across the U.S. sorting out their digital distribution futures. A source familiar with the deal sai",
+      "company": "DAZN\u2019s",
+      "link": "https://www.sportico.com/business/tech/2026/dazn-viewlift-acquisition-cost-tech-rsns-local-streaming-1234891540/",
+      "date": "Apr 30, 26",
+      "source": "Sportico",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "acquisition",
+        "rights_deal"
+      ]
+    },
+    {
+      "id": "254de15a390e",
+      "title": "BMW i Ventures eyes AI\u2019s automotive revolution with new $300m fund",
+      "summary": "Car giant BMW\u2019s venture capital arm has launched its $300m third fund, looking to leverage the potential impact of AI in reshaping the automotive industry. The post BMW i Ventures eyes AI&#8217;s auto",
+      "company": "BMW",
+      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/100208173.html",
+      "date": "Apr 30, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -83,12 +99,12 @@
       ]
     },
     {
-      "id": "e7863438705c",
-      "title": "AllianzGI hits $270m first close for first Asia Pacific infra credit fundraise",
-      "summary": "Allianz Global Investors has hit a $270m first close for its debut infrastructure credit fund focused on the Asia Pacific region. The post AllianzGI hits $270m first close for first Asia Pacific infra",
-      "company": "AllianzGI",
-      "link": "https://www.altassets.net/private-equity-news/by-region/asia-by-region/100208128.html",
-      "date": "Apr 28, 26",
+      "id": "3e74c0ef41ef",
+      "title": "Investindustrial races to \u20ac1.5bn hard cap close for fourth lower-mid-market fund",
+      "summary": "Investindustrial has sped to a \u20ac1.5bn one-and-done close for its latest lower mid-market fundraise, reaching the vehicle's hard cap. The post Investindustrial races to \u20ac1.5bn hard cap close for fourth",
+      "company": "Investindustrial",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/italy-western-europe-europe-by-region/investindustrial-races-to-e1-5bn-hard-cap-close-for-fourth-lower-mid-market-fund.html",
+      "date": "Apr 30, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -115,18 +131,34 @@
       ]
     },
     {
-      "id": "acb2a7648248",
-      "title": "House Settlement Collides With Multimedia Rights, Sponsorships",
-      "summary": "When U.S. District Judge Claudia Wilken granted&#160;final approval&#160;to the settlement between the NCAA, power conferences and thousands of current and former D-I athletes represented by the House",
-      "company": "",
-      "link": "https://www.sportico.com/law/analysis/2026/multimedia-rights-companies-nil-house-settlement-csc-legal-1234891274/",
-      "date": "Apr 28, 26",
-      "source": "Sportico",
-      "layer": 4,
+      "id": "2745acbb00d7",
+      "title": "Algebris to acquire stake in Italy\u2019s Geosec",
+      "summary": "Geosec specializes in ground engineering, providing soil and foundation consolidation services for buildings and infrastructure. The post Algebris to acquire stake in Italy&#8217;s Geosec appeared fir",
+      "company": "Algebris to",
+      "link": "https://www.pehub.com/algebris-to-acquire-stake-in-italys-geosec/",
+      "date": "Apr 30, 26",
+      "source": "PE Hub",
+      "layer": 5,
       "access": "pe",
-      "score": 18,
+      "score": 10,
       "moments": [
-        "rights_deal"
+        "acquisition",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "e838d4ec6fc9",
+      "title": "Newsboys File Lawsuit Against MercyMe, Christian Tour Promoters, World Vision Charity and Journalists Who Broke Michael Tait Sex Scandal",
+      "summary": "The Christian rock band the Newsboys and their co-founder Wes Campbell have filed a wide-ranging lawsuit in the wake of scandals that brought their career to a halt. The suit alleges a combination of ",
+      "company": "",
+      "link": "https://variety.com/2026/music/news/newsboys-lawsuit-mercyme-christian-world-vision-michael-tait-1236733187/",
+      "date": "Apr 29, 26",
+      "source": "Variety Music",
+      "layer": 3,
+      "access": "pe",
+      "score": 19,
+      "moments": [
+        "company_launch"
       ]
     },
     {
@@ -142,21 +174,6 @@
       "score": 17,
       "moments": [
         "album_announcement"
-      ]
-    },
-    {
-      "id": "a5f7e57fe14b",
-      "title": "New York\u2019s Central Park SummerStage Announces 2026 Concert Schedule",
-      "summary": "Laurie Anderson, Ang\u00e9lique Kidjo, Mavis Staples, De La Soul, Spoon, Julieta Venegas, Black Country, New Road and Horsegirl are among the artists who will grace the stage of the 2026 season of Capital ",
-      "company": "",
-      "link": "https://variety.com/2026/music/news/central-park-summerstage-2026-concert-schedule-1236732282/",
-      "date": "Apr 28, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "company_launch"
       ]
     },
     {
@@ -205,48 +222,48 @@
       ]
     },
     {
-      "id": "032112b930b5",
-      "title": "Spotify Q1 Revenue Rises 8%, Premium Subscribers Inch Up to 293 Million Amid U.S. Price Hikes",
-      "summary": "Spotify reported results for the first quarter of 2026 that were in line or slightly ahead of expectations across all key metrics &#8212; gaining 3 million Premium subscribers in the period to reach 2",
-      "company": "Spotify Q1 Revenue Rises",
-      "link": "https://variety.com/2026/music/news/spotify-q1-2026-earnings-revenue-total-premium-subscribers-1236731842/",
+      "id": "e817a580b835",
+      "title": "\u2018Geordie optimism is this rigorous spirit of hard graft\u2019: Newcastle jazz band Knats break out of the north-south divide",
+      "summary": "While their London peers thrived, Knats faced dwindling funding. But after a Proms appearance and as they release a new album produced by Black Midi\u2019s Geordie Greep, their confidence is high\u201cIt\u2019s kind",
+      "company": "\u2018Geordie",
+      "link": "https://www.theguardian.com/music/2026/apr/28/geordie-optimism-is-this-rigorous-spirit-of-hard-graft-newcastle-jazz-band-knats-break-out-of-the-north-south-divide",
       "date": "Apr 28, 26",
+      "source": "Guardian Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "8cf3eb9f6794",
+      "title": "Olivia Rodrigo Announces Massive \u2018Unraveled\u2019 Tour Dates",
+      "summary": "Olivia Rodrigo has announced dates for \u201cThe Unraveled Tour,\u201d a huge 65-date run across North America, Europe, and the UK. The tour supports her third studio album, &#8220;You Seem Pretty Sad for a Gir",
+      "company": "",
+      "link": "https://variety.com/2026/music/news/olivia-rodrigo-announces-unraveled-tour-dates-1236734157/",
+      "date": "Apr 30, 26",
       "source": "Variety Music",
       "layer": 1,
       "access": "pe",
       "score": 14,
       "moments": [
-        "streaming_milestone"
+        "tour_announcement"
       ]
     },
     {
-      "id": "a7734a756e2e",
-      "title": "The best, worst and Hootiest moments of Stagecoach Day 3",
-      "summary": "Post Malone headlined Sunday at the 2026 Stagecoach Country Music Festival, which also featured sets from Brooks & Dunn, Hootie & the Blowfish and more.",
-      "company": "The",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-04-27/stagecoach-day-3-recap-post-malone-brooks-dunn-hootie-blowfish",
-      "date": "Apr 27, 26",
-      "source": "LA Times Music",
+      "id": "4fb0dd11a0f1",
+      "title": "Download Festival 2026: check out the full set times, stage-by-stage",
+      "summary": "It\u2019ll see headline sets from Limp Bizkit, Guns N\u2019 Roses and Linkin Park The post Download Festival 2026: check out the full set times, stage-by-stage appeared first on NME.",
+      "company": "Download Festival 2026",
+      "link": "https://www.nme.com/news/music/download-festival-2026-check-out-the-full-set-times-stage-by-stage-3943295?utm_source=rss&utm_medium=rss&utm_campaign=download-festival-2026-check-out-the-full-set-times-stage-by-stage",
+      "date": "Apr 30, 26",
+      "source": "NME",
       "layer": 1,
       "access": "pe",
       "score": 14,
       "moments": [
         "festival_headliner"
-      ]
-    },
-    {
-      "id": "47521d7c6fe2",
-      "title": "Paramount-Warner Bros. Discovery Will Be 38.5% Owned by Middle Eastern Funds Following Close: Filing",
-      "summary": "Paramount Skydance said the merged Paramount-Warner Bros. Discovery will be 49.5% owned by foreign investors, with about 38.5% of the equity in the new company held by a trio of Middle Eastern funds. ",
-      "company": "Paramount-Warner Bros Discovery Will Be",
-      "link": "https://variety.com/2026/film/news/paramount-warner-bros-foreign-ownership-middle-eastern-funds-1236731732/",
-      "date": "Apr 27, 26",
-      "source": "Variety Biz",
-      "layer": 3,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "acquisition"
       ]
     },
     {
@@ -265,12 +282,12 @@
       ]
     },
     {
-      "id": "a7be13c23ad5",
-      "title": "Illuminate Financial to target Series B and beyond with $135m fourth fund",
-      "summary": "Financial services-focused venture capital house Illuminate Financial has closed its fourth fund - its first early growth vehicle - on $135m. The post Illuminate Financial to target Series B and beyon",
-      "company": "Illuminate Financial",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/illuminate-financial-to-target-series-b-and-beyond-with-135m-fourth-fund.html",
-      "date": "Apr 29, 26",
+      "id": "a9f916ecb3b8",
+      "title": "Adams Street Partners leads $240m continuation fund for Broadtree Partners portfolio",
+      "summary": "Service business investor Broadtree Partners has closed a $240m multi-asset continuation fund led by investment from Adams Street Partners. The post Adams Street Partners leads $240m continuation fund",
+      "company": "Adams Street Partners",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/adams-street-partners-leads-240m-continuation-fund-for-broadtree-partners-portfolio.html",
+      "date": "Apr 30, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -280,12 +297,12 @@
       ]
     },
     {
-      "id": "4b72189049bf",
-      "title": "StepStone soars to more than double its target for new credit fund, hits $1.58bn",
-      "summary": "Private markets investment major StepStone Group has raised more than double its target for its second credit opportunities fund through a $1.58bn final close. The post StepStone soars to more than do",
-      "company": "StepStone",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/stepstone-soars-to-more-than-double-its-target-for-new-credit-fund-hits-1-58bn.html",
-      "date": "Apr 24, 26",
+      "id": "a7be13c23ad5",
+      "title": "Illuminate Financial to target Series B and beyond with $135m fourth fund",
+      "summary": "Financial services-focused venture capital house Illuminate Financial has closed its fourth fund - its first early growth vehicle - on $135m. The post Illuminate Financial to target Series B and beyon",
+      "company": "Illuminate Financial",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/illuminate-financial-to-target-series-b-and-beyond-with-135m-fourth-fund.html",
+      "date": "Apr 29, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -310,48 +327,33 @@
       ]
     },
     {
-      "id": "991369f83c86",
-      "title": "Logic and G-Eazy Set Fall Co-Headlining Tour Across North America",
-      "summary": "G-Eazy and Logic have announced a co-headlining North American tour titled \u201cThe Endless Summer Part II,\u201d a 23-date run set... The post Logic and G-Eazy Set Fall Co-Headlining Tour Across North America",
-      "company": "Logic",
-      "link": "https://www.ticketnews.com/2026/04/logic-and-g-eazy-set-fall-co-headlining-tour-across-north-america/",
-      "date": "Apr 28, 26",
-      "source": "Ticket News",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "b01bea6ab974",
-      "title": "Skyview acquires Lightspeed Commerce\u2019s Upserve US hospitality product line",
-      "summary": "The deal covers about 3,200 US hospitality customer locations. The post Skyview acquires Lightspeed Commerce&#8217;s Upserve US hospitality product line appeared first on PE Hub.",
-      "company": "Skyview",
-      "link": "https://www.pehub.com/skyview-acquires-lightspeed-commerces-upserve-us-hospitality-product-line/",
-      "date": "Apr 29, 26",
-      "source": "PE Hub",
-      "layer": 4,
+      "id": "33dec6aa40ba",
+      "title": "Ardian steps up secondary-market role as Canadian pensions rebalance portfolios",
+      "summary": "Ardian is increasingly positioning itself as a key buyer of private equity stakes from major Canadian pension funds, as institutional investors accelerate use of the secondary market to generate liqui",
+      "company": "Ardian",
+      "link": "https://www.privateequitywire.co.uk/ardian-steps-up-secondary-market-role-as-canadian-pensions-rebalance-portfolios/",
+      "date": "Apr 30, 26",
+      "source": "PE Wire",
+      "layer": 3,
       "access": "pe",
       "score": 11,
       "moments": [
-        "acquisition"
+        "pe_investment"
       ]
     },
     {
-      "id": "daeeeef93131",
-      "title": "Godspeed-backed ERG acquires Haltom Engineering",
-      "summary": "Headquartered in Flowood, Mississippi, Engineering Resource Group is an engineering, consulting, and design firm. The post Godspeed-backed ERG acquires Haltom Engineering appeared first on PE Hub.",
-      "company": "Godspeed-backed ERG",
-      "link": "https://www.pehub.com/godspeed-backed-erg-acquires-haltom-engineering/",
+      "id": "74f11c95536a",
+      "title": "Eva Longoria and \u2018The House of the Spirits\u2019 Team to Lead NALIP\u2019s Diverse Women in Media Forum",
+      "summary": "Eva Longoria and the team behind Amazon Prime Video&#8217;s &#8220;The House of the Spirits&#8221; will be among the notable multihyphenates, actors, writers and producers who are set to take part in ",
+      "company": "Eva Longoria",
+      "link": "https://variety.com/2026/biz/news/eva-longoria-house-of-spirits-team-nalip-diverse-women-1236733589/",
       "date": "Apr 29, 26",
-      "source": "PE Hub",
-      "layer": 5,
+      "source": "Variety Biz",
+      "layer": 3,
       "access": "pe",
-      "score": 9,
+      "score": 6,
       "moments": [
-        "acquisition"
+        "company_launch"
       ]
     },
     {
@@ -385,29 +387,42 @@
       ]
     },
     {
-      "id": "604862c85ef9",
-      "title": "Deal Roundup: Astorg agrees $1bn buyout of Thermo Fisher microbiology unit, O2 Investment backs Steffl Drilling & Pump",
-      "summary": "Astorg has agreed a roughly $1bn buyout of Thermo Fisher Scientific&#8217;s microbiology business. The arm, which provides antimicrobial susceptibility testing and culture media solutions for clinical",
-      "company": "Deal Roundup",
-      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-astorg-agrees-1bn-buyout-of-thermo-fisher-microbiology-unit-o2-investment-backs-steffl-drilling-pump.html",
-      "date": "Apr 28, 26",
-      "source": "AltAssets",
+      "id": "e184c60ea6f4",
+      "title": "More March Madness: NCAA basketball tournaments reportedly set to expand to 76 teams",
+      "summary": "The NCAA and its media partners favor schools with large, established fan bases for viewership and revenue, so expect the new bids to go to power conference schools.",
+      "company": "More March Madness",
+      "link": "https://www.latimes.com/sports/story/2026-04-29/ncaa-basketball-tournaments-reportedly-set-to-expand-to-76-teams-march-madness-power-conferences",
+      "date": "Apr 29, 26",
+      "source": "LA Times Sports",
       "layer": 2,
       "access": "pe",
       "score": 13,
       "moments": []
     },
     {
-      "id": "2e0282eb8801",
-      "title": "Watch The Weeknd debut new Anitta collab \u2018Rio\u2019 on tour in Brazil",
-      "summary": "The pair performed their second collaboration with pyrotechnics and dancers in front of a packed stadium The post Watch The Weeknd debut new Anitta collab &#8216;Rio&#8217; on tour in Brazil appeared ",
-      "company": "Watch The Weeknd",
-      "link": "https://www.nme.com/news/music/watch-the-weeknd-debut-new-anitta-collab-rio-on-tour-in-brazil-3943136?utm_source=rss&utm_medium=rss&utm_campaign=watch-the-weeknd-debut-new-anitta-collab-rio-on-tour-in-brazil",
+      "id": "ccf608c6e70d",
+      "title": "Meta Q1 Revenue Soars 33% in Q1, Net Profit Hits $26.8 Billion Ahead of Mass Layoffs",
+      "summary": "Even as Meta continues make money hand over fist, the tech giant is set to make a large round of layoffs to optimize operations &#8212; and as it continues to plow billions into AI projects. Meta, the",
+      "company": "Meta Q1 Revenue Soars",
+      "link": "https://variety.com/2026/digital/news/meta-q1-2026-earnings-1236733502/",
       "date": "Apr 29, 26",
-      "source": "NME",
+      "source": "Variety Biz",
       "layer": 2,
       "access": "pe",
-      "score": 10,
+      "score": 11,
+      "moments": []
+    },
+    {
+      "id": "b5f248358c96",
+      "title": "YouTube Pumps Up Ad Sales 10.7% to $9.9 Billion in Q1",
+      "summary": "Time spent viewing on YouTube, the internet&#8217;s most massive video platform, keeps growing at a healthy clip &#8212; and with it, YouTube continues to see a double-digit uptick in ad revenue. YouT",
+      "company": "YouTube Pumps Up Ad Sales",
+      "link": "https://variety.com/2026/digital/news/youtube-q1-2026-ad-revenue-google-earnings-1236733480/",
+      "date": "Apr 29, 26",
+      "source": "Variety Biz",
+      "layer": 2,
+      "access": "pe",
+      "score": 11,
       "moments": []
     },
     {
@@ -424,16 +439,42 @@
       "moments": []
     },
     {
-      "id": "a399d3fde7a0",
-      "title": "Karol G Expands Stadium Tour With Additional U.S. and Spain Shows",
-      "summary": "Karol G has announced additional dates for her upcoming \u201cViajando Por El Mundo Tropitour,\u201d expanding the schedule across the United... The post Karol G Expands Stadium Tour With Additional U.S. and Sp",
-      "company": "Karol",
-      "link": "https://www.ticketnews.com/2026/04/karol-g-expands-stadium-tour-with-additional-u-s-and-spain-shows/",
-      "date": "Apr 28, 26",
+      "id": "1acce56afc4f",
+      "title": "Judge Sets May 7 Hearing on Live Nation Remedies Fight After Monopoly Verdict",
+      "summary": "The court approved the next post\u2011trial briefing schedule but will separately hear arguments over how the DOJ settlement review and... The post Judge Sets May 7 Hearing on Live Nation Remedies Fight Af",
+      "company": "Judge Sets May",
+      "link": "https://www.ticketnews.com/2026/04/judge-sets-may-7-hearing-on-live-nation-remedies-fight-after-monopoly-verdict/",
+      "date": "Apr 29, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 9,
+      "moments": []
+    },
+    {
+      "id": "a34f685d1ab6",
+      "title": "Coliseo GNP Seguros to Reopen in August Following Major Renovation",
+      "summary": "The venue formerly known as Estadio 3 de Marzo will reopen this August as Coliseo GNP Seguros after undergoing a... The post Coliseo GNP Seguros to Reopen in August Following Major Renovation appeared",
+      "company": "Coliseo GNP Seguros",
+      "link": "https://www.ticketnews.com/2026/04/coliseo-gnp-seguros-to-reopen-in-august-following-major-renovation/",
+      "date": "Apr 29, 26",
       "source": "Ticket News",
       "layer": 2,
       "access": "pe",
-      "score": 10,
+      "score": 9,
+      "moments": []
+    },
+    {
+      "id": "9c7c86452386",
+      "title": "Sporticast: Who Asked for a 76-Team College Basketball Tournament?",
+      "summary": "On the 548th Sporticast episode, hosts Scott Soshnick and Eben Novy-Williams discuss some of the biggest sports business stories of the week, including the looming expansion of the NCAA men\u2019s and wome",
+      "company": "Sporticast",
+      "link": "https://www.sportico.com/podcasts/sporticast/2026/ncaa-expand-march-madness-teams-sporticast-podcast-1234891511/",
+      "date": "Apr 30, 26",
+      "source": "Sportico",
+      "layer": 4,
+      "access": "pe",
+      "score": 8,
       "moments": []
     },
     {
@@ -444,19 +485,6 @@
       "link": "https://frontofficesports.com/braves-say-new-tv-network-is-on-pace-to-beat-old-rsn-revenue/",
       "date": "Apr 28, 26",
       "source": "Front Office Sports",
-      "layer": 2,
-      "access": "pe",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "9227ac285b42",
-      "title": "Wales great George North announces retirement from rugby at end of season",
-      "summary": "Retired from international arena in 2024 with 121 caps\u2018I lived out my childhood dream for many seasons\u2019Think of George North and two iconic moments inevitably stand out. Both took place on the 2013 Br",
-      "company": "Wales great George North",
-      "link": "https://www.theguardian.com/sport/2026/apr/29/wales-great-george-north-announces-retirement-from-rugby-at-end-of-season",
-      "date": "Apr 29, 26",
-      "source": "Guardian Sport",
       "layer": 2,
       "access": "pe",
       "score": 8,
@@ -489,15 +517,15 @@
       "moments": []
     },
     {
-      "id": "20f235ba6b76",
-      "title": "Texas Tech QB Gambling Probe Ratchets Up Betting Worries",
-      "summary": "Texas Tech quarterback Brendan Sorsby has taken an indefinite medical leave to participate in a residential treatment program for a gambling addiction, the school announced on Monday. Sorsby, who was ",
-      "company": "Texas Tech QB Gambling Probe Ratchets",
-      "link": "https://www.sportico.com/law/analysis/2026/brendan-sorsby-gambling-addiction-ncaa-legal-implications-1234891322/",
-      "date": "Apr 27, 26",
-      "source": "Sportico",
+      "id": "141867b2b363",
+      "title": "Warner Bros. Discovery CEO David Zaslav\u2019s Pay More Than Tripled in 2025 to a Staggering $165 Million",
+      "summary": "David Zaslav, in what could be his last full year leading Warner Bros. Discovery, saw his compensation more than triple in 2025 &#8212; largely thanks to nearly $110 million in one-time stock options ",
+      "company": "Warner Bros Discovery CEO David Zaslav\u2019s",
+      "link": "https://variety.com/2026/film/news/david-zaslav-warner-bros-discovery-compensation-2025-1236734023/",
+      "date": "Apr 30, 26",
+      "source": "Variety Biz",
       "layer": 3,
-      "access": "pe",
+      "access": "public",
       "score": 4,
       "moments": []
     },
@@ -507,8 +535,8 @@
       "summary": "Geirr Tveitt\u2019s reputation was tarnished by his nationalist politics. But a new generation of musicians is bringing this composer\u2019s music to an international audience.",
       "company": "",
       "link": "https://www.nytimes.com/2026/04/28/arts/music/geirr-tveitt-leif-ove-andsnes-norway.html",
-      "date": "Apr 28, 26",
-      "source": "NYT Arts",
+      "date": "Apr 29, 26",
+      "source": "NYT Music",
       "layer": 4,
       "access": "pe",
       "score": 4,
