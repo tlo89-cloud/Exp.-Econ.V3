@@ -1,7 +1,23 @@
 {
-  "generated": "2026-05-01T13:38:24.795517+00:00",
-  "total": 33,
+  "generated": "2026-05-02T13:22:46.492655+00:00",
+  "total": 35,
   "scraped": [
+    {
+      "id": "14b9c3671ce5",
+      "title": "Music Industry Moves: Mariah the Scientist Signs With Universal Publishing, UTA Inks Eve, Primary Wave Music Raises Another $2.225 Billion",
+      "summary": "Universal Music Publishing Group has signed R&#38;B star Mariah the Scientist to an exclusive worldwide music publishing agreement. The Atlanta native\u2019s latest album \u201cHearts Sold Separately debuted at",
+      "company": "Music Industry Moves",
+      "link": "https://variety.com/2026/music/news/avex-100-million-for-catalog-acquisitions-1236732678/",
+      "date": "May 01, 26",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 26,
+      "moments": [
+        "record_deal",
+        "funding_round"
+      ]
+    },
     {
       "id": "604b7e719b6a",
       "title": "Clessidra clears \u20ac150m target at final close of Italy-focused agrifood fund",
@@ -19,6 +35,38 @@
       ]
     },
     {
+      "id": "203b9b9af1ff",
+      "title": "Loathe Announce Fall 2026 North American Tour Dates",
+      "summary": "British metal outfit Loathe have announced a North American headlining tour in support of their upcoming album A Stranger To... The post Loathe Announce Fall 2026 North American Tour Dates appeared fi",
+      "company": "Loathe Announce Fall",
+      "link": "https://www.ticketnews.com/2026/05/loathe-announce-fall-2026-north-american-tour-dates/",
+      "date": "May 01, 26",
+      "source": "Ticket News",
+      "layer": 1,
+      "access": "pe",
+      "score": 21,
+      "moments": [
+        "tour_announcement",
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "46edf07444eb",
+      "title": "Goldman Sachs, GHO, MidEuropa set sights on eye care; Medical component demand drives Artemis\u2019 acquisition of Optikos",
+      "summary": "With sizable and stable EBITDA multiples, ophthalmology assets have become highly sought after by private equity. The post Goldman Sachs, GHO, MidEuropa set sights on eye care; Medical component deman",
+      "company": "Goldman Sachs GHO MidEuropa",
+      "link": "https://www.pehub.com/goldman-sachs-gho-mideuropa-set-sights-on-eye-care-medical-component-demand-drives-artemis-acquisition-of-optikos/",
+      "date": "May 01, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "acquisition",
+        "pe_investment"
+      ]
+    },
+    {
       "id": "300e1258cc19",
       "title": "Ridgeline raises more than $180m for sophomore fund",
       "summary": "Early-stage investor Ridgeline Capital Management has sealed more than $180m for the final close its sophomore fundraise. The post Ridgeline raises more than $180m for sophomore fund appeared first on",
@@ -32,22 +80,6 @@
       "moments": [
         "pe_investment",
         "fund_launch"
-      ]
-    },
-    {
-      "id": "238917fe667d",
-      "title": "Inflexion to acquire minority stake in Marktlink Capital",
-      "summary": "Marktlink Capital offers entrepreneurs and families access to private equity, venture capital and private credit funds across Europe and North America. The post Inflexion to acquire minority stake in ",
-      "company": "Inflexion to",
-      "link": "https://www.pehub.com/inflexion-to-acquire-minority-stake-in-marktlink-capital/",
-      "date": "May 01, 26",
-      "source": "PE Hub",
-      "layer": 1,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "acquisition",
-        "pe_investment"
       ]
     },
     {
@@ -147,6 +179,22 @@
       ]
     },
     {
+      "id": "eb1a22041329",
+      "title": "New PE firm Mako officially rolls out",
+      "summary": "The co-founders include Oscar Munoz, the former chairman and CEO of United Airlines. The post New PE firm Mako officially rolls out appeared first on PE Hub.",
+      "company": "New PE",
+      "link": "https://www.pehub.com/new-pe-firm-mako-officially-rolls-out/",
+      "date": "May 01, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 10,
+      "moments": [
+        "pe_investment",
+        "company_launch"
+      ]
+    },
+    {
       "id": "16c39216478b",
       "title": "Olivia Rodrigo's massive 65-date Unraveled Tour includes four L.A. concerts",
       "summary": "Olivia Rodrigo's massive 65-date Unraveled Tour will include four concerts at Inglewood's Intuit Dome in January 2027, following the release of her new album, 'You Seem Pretty Sad for a Girl So in Lov",
@@ -162,18 +210,33 @@
       ]
     },
     {
-      "id": "714afafbb77c",
-      "title": "Jason Aldean, Luke Bryan Plot 2026 \u2018Double Down Tour\u2019 Stadium Dates",
-      "summary": "Jason Aldean and Luke Bryan have announced a series of co-headlining stadium concerts scheduled for 2026.&#160; The run, titled the... The post Jason Aldean, Luke Bryan Plot 2026 \u2018Double Down Tour\u2019 St",
-      "company": "Jason Aldean Luke Bryan Plot",
-      "link": "https://www.ticketnews.com/2026/04/jason-aldean-luke-bryan-plot-2026-double-down-tour-stadium-dates/",
-      "date": "Apr 30, 26",
-      "source": "Ticket News",
+      "id": "040d9937d4a2",
+      "title": "Post Malone Cancels First Few Weeks of \u2018Big Ass Stadium\u2019 Shows With Jelly Roll, Citing Need to Finish New Album: \u2018We Ain\u2019t Ready for Tour Just Yet\u2019",
+      "summary": "Post Malone&#8217;s &#8220;Big Ass Stadium Tour Part 2&#8221; just got smaller. The artist took to social media Friday night to announce that he was canceling the first few weeks of his outing in stad",
+      "company": "Post Malone Cancels First Few Weeks",
+      "link": "https://variety.com/2026/music/news/post-malone-cancels-stadium-concerts-jelly-roll-tour-1236735970/",
+      "date": "May 02, 26",
+      "source": "Variety Music",
       "layer": 1,
       "access": "pe",
-      "score": 22,
+      "score": 21,
       "moments": [
-        "festival_headliner"
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "6454b5387a39",
+      "title": "Browns Break Ground on New Stadium, but Funding Still in Limbo",
+      "summary": "State and local funding for the planned venue is not yet solidified.",
+      "company": "Browns Break Ground",
+      "link": "https://frontofficesports.com/browns-break-ground-on-new-stadium-but-funding-still-in-limbo/",
+      "date": "May 01, 26",
+      "source": "Front Office Sports",
+      "layer": 2,
+      "access": "pe",
+      "score": 19,
+      "moments": [
+        "venue_announcement"
       ]
     },
     {
@@ -192,18 +255,18 @@
       ]
     },
     {
-      "id": "2e95ba01e5f9",
-      "title": "Post Malone closes Stagecoach with style if not excitement",
-      "summary": "The singer headlined the festival's final night almost exactly a year after closing out Coachella's 2025 edition.",
-      "company": "Post Malone",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-04-27/stagecoach-2026-post-malone-review",
-      "date": "Apr 27, 26",
-      "source": "LA Times Music",
+      "id": "bcdfb93efbcb",
+      "title": "Big 12\u2019s Private Equity Marriage Yields Cash and Legal Questions",
+      "summary": "The Big 12\u2019s five-year, multimillion-dollar private equity deal with RedBird Capital and Weatherford Capital is a major development in the economic landscape of college sports\u2014and its legal ramificati",
+      "company": "Big",
+      "link": "https://www.sportico.com/law/analysis/2026/big-12-private-equity-deal-legal-implications-1234891617/",
+      "date": "May 01, 26",
+      "source": "Sportico",
       "layer": 1,
       "access": "pe",
       "score": 16,
       "moments": [
-        "festival_headliner"
+        "pe_investment"
       ]
     },
     {
@@ -222,21 +285,6 @@
       ]
     },
     {
-      "id": "e817a580b835",
-      "title": "\u2018Geordie optimism is this rigorous spirit of hard graft\u2019: Newcastle jazz band Knats break out of the north-south divide",
-      "summary": "While their London peers thrived, Knats faced dwindling funding. But after a Proms appearance and as they release a new album produced by Black Midi\u2019s Geordie Greep, their confidence is high\u201cIt\u2019s kind",
-      "company": "\u2018Geordie",
-      "link": "https://www.theguardian.com/music/2026/apr/28/geordie-optimism-is-this-rigorous-spirit-of-hard-graft-newcastle-jazz-band-knats-break-out-of-the-north-south-divide",
-      "date": "Apr 28, 26",
-      "source": "Guardian Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
       "id": "b67710bb0ca6",
       "title": "Kornit Digital Acquires PrintFactory to Accelerate the Industry\u2019s Transition to Digital, On-Demand Production",
       "summary": "Acquisition Strengthens Kornit\u2019s Platform Strategy, Expanding Digital Access to the Global Screen-Printing Market and Advancing Connected Infrastructure Linking Demand, Production and Fulfillment Acqu",
@@ -252,48 +300,48 @@
       ]
     },
     {
-      "id": "220db9762e2c",
-      "title": "PE targets eye care assets: 6 deals",
-      "summary": "Goldman Sachs, Gryphon Investors, MidEuropa and Olympus are among the PE firms eying platform investments and consolidation in eye care. The post PE targets eye care assets: 6 deals appeared first on ",
-      "company": "PE targets eye care assets",
-      "link": "https://www.pehub.com/pe-targets-eye-care-assets-6-deals/",
+      "id": "56d06ba91bb6",
+      "title": "AnaCap sells French private bank Milleis to LCL and Cr\u00e9dit Agricole Assurances",
+      "summary": "The Milleis Group acquisition comprises Milleis Banque and its subsidiaries Milleis Vie, Cholet Dupont Oudart and Cholet Dupont Asset Management. The post AnaCap sells French private bank Milleis to L",
+      "company": "AnaCap",
+      "link": "https://www.pehub.com/anacap-sells-french-private-bank-milleis-to-lcl-and-credit-agricole-assurances/",
       "date": "May 01, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
       "score": 9,
       "moments": [
-        "pe_investment"
+        "acquisition"
       ]
     },
     {
-      "id": "030136d9bf34",
-      "title": "The IPO Pipeline Finally Gets Interesting",
-      "summary": "S-1 filings have been plentiful the past few weeks for venture-backed startups providing semiconductors, nuclear and geothermal power, biotech, and space and defense tech queuing up for a possible tri",
-      "company": "The IPO Pipeline Finally Gets Interesting",
-      "link": "https://news.crunchbase.com/public/ipo-pipeline-thawing-ai-semiconductors-clean-energy/",
-      "date": "Apr 24, 26",
-      "source": "Crunchbase News",
-      "layer": 5,
-      "access": "venture",
-      "score": 9,
-      "moments": [
-        "ipo"
-      ]
-    },
-    {
-      "id": "b180fec2c34a",
-      "title": "Global M&A reaches new quarterly record of $1.6tn despite ongoing global uncertainty",
-      "summary": "Global M&#038;A activity soared to a quarterly record of $1.6tn in Q1 of this year - up more than 50% on the same period in 2025 despite ongoing volatility in global markets, new data from PitchBook s",
-      "company": "Global M&A",
-      "link": "https://www.altassets.net/featured/global-ma-reaches-new-quarterly-record-of-1-6tn-despite-ongoing-global-uncertainty.html",
+      "id": "4a30049adb3d",
+      "title": "In Canada: The Tragically Hip, Feist & More to Enter Canadian Songwriters Hall of Fame in 2026",
+      "summary": "Also up north this week: TALK signs with Big Loud Rock and the Canadian Musical Reproduction Rights Agency reveals its 2025 royalty distribution total.",
+      "company": "In Canada",
+      "link": "https://www.billboard.com/pro/tragically-hip-feist-songwriters-hall-of-fame-canada-news/",
       "date": "May 01, 26",
-      "source": "AltAssets",
-      "layer": 5,
+      "source": "Billboard",
+      "layer": 4,
       "access": "pe",
-      "score": 9,
+      "score": 6,
       "moments": [
-        "pe_investment"
+        "record_deal"
+      ]
+    },
+    {
+      "id": "5da4979b8901",
+      "title": "LISTEN: Why Hollywood Is Increasingly Leaning on Gaming Platforms to Promote Movies",
+      "summary": "As the 2026 box office finishes its spring run with \u201cThe Super Mario Galaxy Movie\u201d on top and a controversial Michael Jackson film nabbing a record opening for a biopics, no one can argue that transme",
+      "company": "LISTEN",
+      "link": "https://variety.com/2026/gaming/news/nic-hill-sawhorse-productions-gaming-platforms-hollywood-1236735141/",
+      "date": "May 01, 26",
+      "source": "Variety Biz",
+      "layer": 4,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "company_launch"
       ]
     },
     {
@@ -342,29 +390,16 @@
       ]
     },
     {
-      "id": "c77381f951b5",
-      "title": "NITO Elects New Board, Sets Live Nation Case and Ticketing Restrictions as Priorities",
-      "summary": "The independent agents and managers group says it will continue pressing antitrust, resale and touring-policy issues, even as its own... The post NITO Elects New Board, Sets Live Nation Case and Ticke",
-      "company": "NITO Elects New Board Sets Live",
-      "link": "https://www.ticketnews.com/2026/04/elects-new-board-sets-live-nation-case-and-ticketing-restrictions-as-priorities/",
-      "date": "Apr 30, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 19,
-      "moments": []
-    },
-    {
-      "id": "e184c60ea6f4",
-      "title": "More March Madness: NCAA basketball tournaments reportedly set to expand to 76 teams",
-      "summary": "The NCAA and its media partners favor schools with large, established fan bases for viewership and revenue, so expect the new bids to go to power conference schools.",
-      "company": "More March Madness",
-      "link": "https://www.latimes.com/sports/story/2026-04-29/ncaa-basketball-tournaments-reportedly-set-to-expand-to-76-teams-march-madness-power-conferences",
-      "date": "Apr 29, 26",
-      "source": "LA Times Sports",
+      "id": "7d3c1da00374",
+      "title": "Fifa ramps up efforts to sell luxury World Cup hospitality tickets after revenue re-evaluation",
+      "summary": "Packages still available for 102 of the 104 matchesFifa selling individual suites in former group sectionsFifa is upping efforts to sell luxury hospitality tickets for the World Cup, with packages sti",
+      "company": "Fifa",
+      "link": "https://www.theguardian.com/football/2026/may/01/fifa-luxury-world-cup-hospitality-tickets-revenue-re-evaluation",
+      "date": "May 01, 26",
+      "source": "Guardian Sport",
       "layer": 2,
       "access": "pe",
-      "score": 13,
+      "score": 16,
       "moments": []
     },
     {
@@ -394,6 +429,19 @@
       "moments": []
     },
     {
+      "id": "7a1f3ce243d8",
+      "title": "Scoop: U.S. blockade has cost Iran $4.8 billion, Pentagon says",
+      "summary": "The Defense Department estimates Iran has been denied nearly $5 billion in oil revenue because of the U.S. blockade in the Gulf of Oman, causing unprecedented pressure on Tehran's government.Why it ma",
+      "company": "Scoop",
+      "link": "https://www.axios.com/2026/05/01/us-blockade-oman-cost-iran-5-million",
+      "date": "May 01, 26",
+      "source": "Axios",
+      "layer": 2,
+      "access": "pe",
+      "score": 11,
+      "moments": []
+    },
+    {
       "id": "d5ab954e4aab",
       "title": "Maximize Every Square Foot: Using Digital Authority to Win High-Value Venue Bookings",
       "summary": "Source: ChatGPT Event organizers often struggle to secure premium venue bookings even when their content or services are strong. Limited visibility, unclear reputation, and weak online authority can r",
@@ -404,45 +452,6 @@
       "layer": 2,
       "access": "pe",
       "score": 10,
-      "moments": []
-    },
-    {
-      "id": "6a6980f77e03",
-      "title": "evian Makes a Splash at Sphere as Venue\u2019s Official Still Water Partner",
-      "summary": "Sphere is adding a premium water brand to its growing roster of venue partners. Sphere Entertainment Co. announced that evian... The post evian Makes a Splash at Sphere as Venue\u2019s Official Still Water",
-      "company": "Makes",
-      "link": "https://www.ticketnews.com/2026/04/evian-makes-a-splash-sphere-venue-still-water-partner/",
-      "date": "Apr 30, 26",
-      "source": "Ticket News",
-      "layer": 2,
-      "access": "pe",
-      "score": 9,
-      "moments": []
-    },
-    {
-      "id": "37c7e4b647eb",
-      "title": "Amid backlash over World Cup parking and transportation, LA Metro offers a solution",
-      "summary": "LA Metro plans to spend $9.3 million in federal funding to make attending the World Cup easy while also easing traffic around SoFi Stadium.",
-      "company": "Amid",
-      "link": "https://www.latimes.com/sports/soccer/story/2026-04-30/amid-backlash-over-world-cup-parking-la-metro-offers-solution",
-      "date": "Apr 30, 26",
-      "source": "LA Times Sports",
-      "layer": 2,
-      "access": "pe",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "16be97e89756",
-      "title": "Linden Creek Expands Luxury Home Staging and Interior Design Services to Charleston, SC",
-      "summary": "CHARLESTON, S.C., May 1, 2026 /PRNewswire/ -- Linden Creek, a luxury interior design and home staging firm headquartered in Raleigh, North Carolina, is proud to announce the opening of its newest fran",
-      "company": "Linden Creek Expands Luxury Home Staging",
-      "link": "https://www.prnewswire.com/news-releases/linden-creek-expands-luxury-home-staging-and-interior-design-services-to-charleston-sc-302760155.html",
-      "date": "May 01, 26",
-      "source": "PR Newswire",
-      "layer": 4,
-      "access": "pe",
-      "score": 8,
       "moments": []
     },
     {
@@ -479,6 +488,32 @@
       "link": "https://www.nytimes.com/2026/04/28/arts/music/geirr-tveitt-leif-ove-andsnes-norway.html",
       "date": "Apr 29, 26",
       "source": "NYT Music",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "32eafdb33780",
+      "title": "\u2018We feel angry \u2013 and we have reason to be\u2019: Brazil\u2019s resurgent punk scene is a howl of outrage at injustice",
+      "summary": "Thriving punk culture seen as response to frustrations at unemployment, urban violence, police brutality and deprivationAs black-clad police combatants charged into the hillside favela and opened fire",
+      "company": "\u2018We",
+      "link": "https://www.theguardian.com/world/2026/may/02/brazil-punk-scene-culture-injustice",
+      "date": "May 02, 26",
+      "source": "Guardian Music",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "c53ed8f14e62",
+      "title": "\u2018Selfish\u2019, \u2018cough up\u2019: Brisbane whiteboard leak exposes brutal Essendon player notes",
+      "summary": "Photo reveals strength and weakness of Bombers like Merrett and McKayLions coach Chris Fagan fumes over \u2018hero\u2019 supporter\u2019s social media postA furious Chris Fagan has slammed the \u201chero\u201d actions of a pa",
+      "company": "\u2018Selfish\u2019",
+      "link": "https://www.theguardian.com/sport/2026/may/02/afl-brisbane-lions-whiteboard-notes-leak-essendon-bombers",
+      "date": "May 02, 26",
+      "source": "Guardian Sport",
       "layer": 4,
       "access": "pe",
       "score": 4,
