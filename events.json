@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-02T13:22:46.492655+00:00",
-  "total": 35,
+  "generated": "2026-05-03T13:22:04.774897+00:00",
+  "total": 33,
   "scraped": [
     {
       "id": "14b9c3671ce5",
@@ -315,21 +315,6 @@
       ]
     },
     {
-      "id": "4a30049adb3d",
-      "title": "In Canada: The Tragically Hip, Feist & More to Enter Canadian Songwriters Hall of Fame in 2026",
-      "summary": "Also up north this week: TALK signs with Big Loud Rock and the Canadian Musical Reproduction Rights Agency reveals its 2025 royalty distribution total.",
-      "company": "In Canada",
-      "link": "https://www.billboard.com/pro/tragically-hip-feist-songwriters-hall-of-fame-canada-news/",
-      "date": "May 01, 26",
-      "source": "Billboard",
-      "layer": 4,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "record_deal"
-      ]
-    },
-    {
       "id": "5da4979b8901",
       "title": "LISTEN: Why Hollywood Is Increasingly Leaning on Gaming Platforms to Promote Movies",
       "summary": "As the 2026 box office finishes its spring run with \u201cThe Super Mario Galaxy Movie\u201d on top and a controversial Michael Jackson film nabbing a record opening for a biopics, no one can argue that transme",
@@ -390,19 +375,6 @@
       ]
     },
     {
-      "id": "7d3c1da00374",
-      "title": "Fifa ramps up efforts to sell luxury World Cup hospitality tickets after revenue re-evaluation",
-      "summary": "Packages still available for 102 of the 104 matchesFifa selling individual suites in former group sectionsFifa is upping efforts to sell luxury hospitality tickets for the World Cup, with packages sti",
-      "company": "Fifa",
-      "link": "https://www.theguardian.com/football/2026/may/01/fifa-luxury-world-cup-hospitality-tickets-revenue-re-evaluation",
-      "date": "May 01, 26",
-      "source": "Guardian Sport",
-      "layer": 2,
-      "access": "pe",
-      "score": 16,
-      "moments": []
-    },
-    {
       "id": "ccf608c6e70d",
       "title": "Meta Q1 Revenue Soars 33% in Q1, Net Profit Hits $26.8 Billion Ahead of Mass Layoffs",
       "summary": "Even as Meta continues make money hand over fist, the tech giant is set to make a large round of layoffs to optimize operations &#8212; and as it continues to plow billions into AI projects. Meta, the",
@@ -455,6 +427,19 @@
       "moments": []
     },
     {
+      "id": "37c7e4b647eb",
+      "title": "Amid backlash over World Cup parking and transportation, LA Metro offers a solution",
+      "summary": "LA Metro plans to spend $9.3 million in federal funding to make attending the World Cup easy while also easing traffic around SoFi Stadium.",
+      "company": "Amid",
+      "link": "https://www.latimes.com/sports/soccer/story/2026-04-30/amid-backlash-over-world-cup-parking-la-metro-offers-solution",
+      "date": "Apr 30, 26",
+      "source": "LA Times Sports",
+      "layer": 2,
+      "access": "pe",
+      "score": 8,
+      "moments": []
+    },
+    {
       "id": "ea3f022fc27e",
       "title": "Finance Complaint List Warns of a 500% Surge in AI-Powered Deepfake Crypto Scams Driven by Celebrity Impersonations",
       "summary": "Globally people are losing millions in minutes as hyper-realistic videos, fake news broadcasts, and live executive impersonations turn artificial intelligence into the most dangerous fraud weapon of 2",
@@ -501,19 +486,6 @@
       "link": "https://www.theguardian.com/world/2026/may/02/brazil-punk-scene-culture-injustice",
       "date": "May 02, 26",
       "source": "Guardian Music",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "c53ed8f14e62",
-      "title": "\u2018Selfish\u2019, \u2018cough up\u2019: Brisbane whiteboard leak exposes brutal Essendon player notes",
-      "summary": "Photo reveals strength and weakness of Bombers like Merrett and McKayLions coach Chris Fagan fumes over \u2018hero\u2019 supporter\u2019s social media postA furious Chris Fagan has slammed the \u201chero\u201d actions of a pa",
-      "company": "\u2018Selfish\u2019",
-      "link": "https://www.theguardian.com/sport/2026/may/02/afl-brisbane-lions-whiteboard-notes-leak-essendon-bombers",
-      "date": "May 02, 26",
-      "source": "Guardian Sport",
       "layer": 4,
       "access": "pe",
       "score": 4,
