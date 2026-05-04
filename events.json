@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-03T13:22:04.774897+00:00",
-  "total": 33,
+  "generated": "2026-05-04T14:14:44.297867+00:00",
+  "total": 34,
   "scraped": [
     {
       "id": "14b9c3671ce5",
@@ -51,22 +51,6 @@
       ]
     },
     {
-      "id": "46edf07444eb",
-      "title": "Goldman Sachs, GHO, MidEuropa set sights on eye care; Medical component demand drives Artemis\u2019 acquisition of Optikos",
-      "summary": "With sizable and stable EBITDA multiples, ophthalmology assets have become highly sought after by private equity. The post Goldman Sachs, GHO, MidEuropa set sights on eye care; Medical component deman",
-      "company": "Goldman Sachs GHO MidEuropa",
-      "link": "https://www.pehub.com/goldman-sachs-gho-mideuropa-set-sights-on-eye-care-medical-component-demand-drives-artemis-acquisition-of-optikos/",
-      "date": "May 01, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "acquisition",
-        "pe_investment"
-      ]
-    },
-    {
       "id": "300e1258cc19",
       "title": "Ridgeline raises more than $180m for sophomore fund",
       "summary": "Early-stage investor Ridgeline Capital Management has sealed more than $180m for the final close its sophomore fundraise. The post Ridgeline raises more than $180m for sophomore fund appeared first on",
@@ -83,19 +67,19 @@
       ]
     },
     {
-      "id": "f1ba784f6c69",
-      "title": "DAZN\u2019s $100M ViewLift Buy Bolsters Regional Streaming Rights Push",
-      "summary": "DAZN has acquired streaming tech developer ViewLift as the global sports media platform courts teams across the U.S. sorting out their digital distribution futures. A source familiar with the deal sai",
-      "company": "DAZN\u2019s",
-      "link": "https://www.sportico.com/business/tech/2026/dazn-viewlift-acquisition-cost-tech-rsns-local-streaming-1234891540/",
-      "date": "Apr 30, 26",
-      "source": "Sportico",
+      "id": "76641e1d9b4d",
+      "title": "Paladin Artists Names Rick Levy CEO as It Enters \u2018Advanced Discussions\u2019 to Acquire Entourage Talent",
+      "summary": "Entourage's founder, Wayne Forte, has been on Paladin's board since its 2021 inception.",
+      "company": "Paladin Artists Names Rick Levy CEO",
+      "link": "https://www.billboard.com/pro/paladin-artists-rick-levy-ceo-acquire-entourage-talent/",
+      "date": "May 04, 26",
+      "source": "Billboard",
       "layer": 1,
       "access": "pe",
-      "score": 14,
+      "score": 13,
       "moments": [
         "acquisition",
-        "rights_deal"
+        "company_launch"
       ]
     },
     {
@@ -175,22 +159,6 @@
       "score": 13,
       "moments": [
         "acquisition",
-        "company_launch"
-      ]
-    },
-    {
-      "id": "eb1a22041329",
-      "title": "New PE firm Mako officially rolls out",
-      "summary": "The co-founders include Oscar Munoz, the former chairman and CEO of United Airlines. The post New PE firm Mako officially rolls out appeared first on PE Hub.",
-      "company": "New PE",
-      "link": "https://www.pehub.com/new-pe-firm-mako-officially-rolls-out/",
-      "date": "May 01, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 10,
-      "moments": [
-        "pe_investment",
         "company_launch"
       ]
     },
@@ -285,6 +253,36 @@
       ]
     },
     {
+      "id": "2d0571423f8b",
+      "title": "IFM Investors-backed Mobius Renewables acquires Air Liquide\u2019s biogas production activities in US, France, Norway and Sweden",
+      "summary": "The acquisition includes six operating landfill gas-to-RNG sites in the US, five operating farm waste sites in France, and a 51 percent stake in Redo Biosolutions with production and distribution asse",
+      "company": "IFM Investors-backed Mobius Renewables",
+      "link": "https://www.pehub.com/ifm-investors-backed-mobius-renewables-acquires-air-liquides-biogas-production-activities-in-us-france-norway-and-sweden/",
+      "date": "May 04, 26",
+      "source": "PE Hub",
+      "layer": 4,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "eb0dfcd1796e",
+      "title": "Olivia Dean\u2019s \u2018The Art of Loving\u2019 Tour Will Be 2026\u2019s Hottest Ticket: 5 Best Moments from London\u2019s O2 Arena",
+      "summary": "Sam Fender was a special guest at the Saturday night (May 2) show.",
+      "company": "Olivia Dean\u2019s \u2018The Art",
+      "link": "https://www.billboard.com/lists/olivia-dean-art-of-loving-tour-london-best-moments/",
+      "date": "May 03, 26",
+      "source": "Billboard",
+      "layer": 2,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "surprise_appearance"
+      ]
+    },
+    {
       "id": "b67710bb0ca6",
       "title": "Kornit Digital Acquires PrintFactory to Accelerate the Industry\u2019s Transition to Digital, On-Demand Production",
       "summary": "Acquisition Strengthens Kornit\u2019s Platform Strategy, Expanding Digital Access to the Global Screen-Printing Market and Advancing Connected Infrastructure Linking Demand, Production and Fulfillment Acqu",
@@ -300,18 +298,48 @@
       ]
     },
     {
-      "id": "56d06ba91bb6",
-      "title": "AnaCap sells French private bank Milleis to LCL and Cr\u00e9dit Agricole Assurances",
-      "summary": "The Milleis Group acquisition comprises Milleis Banque and its subsidiaries Milleis Vie, Cholet Dupont Oudart and Cholet Dupont Asset Management. The post AnaCap sells French private bank Milleis to L",
-      "company": "AnaCap",
-      "link": "https://www.pehub.com/anacap-sells-french-private-bank-milleis-to-lcl-and-credit-agricole-assurances/",
-      "date": "May 01, 26",
+      "id": "95e392ca79a8",
+      "title": "Audax sale of HVAC service provider Nextech progresses, sources say; More PE deals expected in roofing, landscaping and remodeling",
+      "summary": "Good morning, dealmakers. MK Flynn here, coming to you from New York, with PE Hub\u2019s US morning newsletter. As regular readers of PE Hub know, senior reporter Michael Schoeck is always on the lookout f",
+      "company": "Audax",
+      "link": "https://www.pehub.com/audax-sale-of-hvac-service-provider-nextech-progresses-sources-say-more-pe-deals-expected-in-roofing-landscaping-and-remodeling/",
+      "date": "May 04, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "public",
+      "score": 9,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "7d4acd6643d1",
+      "title": "Grovecourt-backed Traffic & Mobility Consultants acquires Chindalur Traffic Solutions",
+      "summary": "Traffic &#038; Mobility Consultants LLC is a Florida-based engineering company specializing in transportation planning and traffic engineering. The post Grovecourt-backed Traffic &#038; Mobility Consu",
+      "company": "Grovecourt-backed Traffic",
+      "link": "https://www.pehub.com/grovecourt-backed-traffic-mobility-consultants-acquires-chindalur-traffic-solutions/",
+      "date": "May 04, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
       "score": 9,
       "moments": [
         "acquisition"
+      ]
+    },
+    {
+      "id": "b180fec2c34a",
+      "title": "Global M&A reaches new quarterly record of $1.6tn despite ongoing global uncertainty",
+      "summary": "Global M&#038;A activity soared to a quarterly record of $1.6tn in Q1 of this year - up more than 50% on the same period in 2025 despite ongoing volatility in global markets, new data from PitchBook s",
+      "company": "Global M&A",
+      "link": "https://www.altassets.net/featured/global-ma-reaches-new-quarterly-record-of-1-6tn-despite-ongoing-global-uncertainty.html",
+      "date": "May 01, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "pe_investment"
       ]
     },
     {
@@ -345,18 +373,18 @@
       ]
     },
     {
-      "id": "a67c9773e661",
-      "title": "Why the new Michael Jackson biopic is on track to break box office records",
-      "summary": "Despite some production hurdles and mixed reviews, the film is on track for a record-breaking opening weekend.",
-      "company": "Why",
-      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-04-24/michael-jackson-biopic-what-to-know",
-      "date": "Apr 24, 26",
+      "id": "ea85e3c7e97e",
+      "title": "This historian dug into old records and found a lost chapter of Chicano L.A. music culture",
+      "summary": "Community historian Ruben Molina's discovery of 1950s rhythm & blues records with handwritten tags inspired \"The Dreamy Side,\" a book documenting overlooked Chicano youth culture.",
+      "company": "This",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-05-04/one-historian-dug-into-old-records-found-lost-chapter-of-chicano-la-music-culture",
+      "date": "May 04, 26",
       "source": "LA Times Music",
-      "layer": 4,
+      "layer": 3,
       "access": "pe",
       "score": 6,
       "moments": [
-        "record_breaking"
+        "company_launch"
       ]
     },
     {
@@ -388,19 +416,6 @@
       "moments": []
     },
     {
-      "id": "b5f248358c96",
-      "title": "YouTube Pumps Up Ad Sales 10.7% to $9.9 Billion in Q1",
-      "summary": "Time spent viewing on YouTube, the internet&#8217;s most massive video platform, keeps growing at a healthy clip &#8212; and with it, YouTube continues to see a double-digit uptick in ad revenue. YouT",
-      "company": "YouTube Pumps Up Ad Sales",
-      "link": "https://variety.com/2026/digital/news/youtube-q1-2026-ad-revenue-google-earnings-1236733480/",
-      "date": "Apr 29, 26",
-      "source": "Variety Biz",
-      "layer": 2,
-      "access": "pe",
-      "score": 11,
-      "moments": []
-    },
-    {
       "id": "7a1f3ce243d8",
       "title": "Scoop: U.S. blockade has cost Iran $4.8 billion, Pentagon says",
       "summary": "The Defense Department estimates Iran has been denied nearly $5 billion in oil revenue because of the U.S. blockade in the Gulf of Oman, causing unprecedented pressure on Tehran's government.Why it ma",
@@ -411,6 +426,19 @@
       "layer": 2,
       "access": "pe",
       "score": 11,
+      "moments": []
+    },
+    {
+      "id": "bc1beae3c080",
+      "title": "US Footwear Industry Delivers Modest First-Quarter Growth Driven by Price Increases and Strength in Performance Segment, Circana Reports",
+      "summary": "CHICAGO, IL, May 04, 2026 (GLOBE NEWSWIRE) -- The U.S. footwear industry posted soft dollar growth in the first quarter (Q1) of 2026, with total sales increasing by +1%, versus the same period last ye",
+      "company": "",
+      "link": "https://www.globenewswire.com/news-release/2026/05/04/3286860/0/en/US-Footwear-Industry-Delivers-Modest-First-Quarter-Growth-Driven-by-Price-Increases-and-Strength-in-Performance-Segment-Circana-Reports.html",
+      "date": "May 04, 26",
+      "source": "GlobeNewsWire Deals",
+      "layer": 2,
+      "access": "pe",
+      "score": 10,
       "moments": []
     },
     {
@@ -427,16 +455,16 @@
       "moments": []
     },
     {
-      "id": "37c7e4b647eb",
-      "title": "Amid backlash over World Cup parking and transportation, LA Metro offers a solution",
-      "summary": "LA Metro plans to spend $9.3 million in federal funding to make attending the World Cup easy while also easing traffic around SoFi Stadium.",
-      "company": "Amid",
-      "link": "https://www.latimes.com/sports/soccer/story/2026-04-30/amid-backlash-over-world-cup-parking-la-metro-offers-solution",
-      "date": "Apr 30, 26",
-      "source": "LA Times Sports",
-      "layer": 2,
+      "id": "469430905d25",
+      "title": "John Sterling, beloved voice of Yankees for 36 seasons, dies at age of 87",
+      "summary": "Broadcaster called 5,420 regular-season gamesNative New Yorker won 12 Emmys for his workJohn Sterling, whose voice became synonymous with the New York Yankees, has died at the age of 87.Sterling, a na",
+      "company": "John Sterling",
+      "link": "https://www.theguardian.com/sport/2026/may/04/john-sterling-beloved-voice-of-yankees-for-36-seasons-dies-at-age-of-87",
+      "date": "May 04, 26",
+      "source": "Guardian Sport",
+      "layer": 3,
       "access": "pe",
-      "score": 8,
+      "score": 7,
       "moments": []
     },
     {
@@ -473,19 +501,6 @@
       "link": "https://www.nytimes.com/2026/04/28/arts/music/geirr-tveitt-leif-ove-andsnes-norway.html",
       "date": "Apr 29, 26",
       "source": "NYT Music",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "32eafdb33780",
-      "title": "\u2018We feel angry \u2013 and we have reason to be\u2019: Brazil\u2019s resurgent punk scene is a howl of outrage at injustice",
-      "summary": "Thriving punk culture seen as response to frustrations at unemployment, urban violence, police brutality and deprivationAs black-clad police combatants charged into the hillside favela and opened fire",
-      "company": "\u2018We",
-      "link": "https://www.theguardian.com/world/2026/may/02/brazil-punk-scene-culture-injustice",
-      "date": "May 02, 26",
-      "source": "Guardian Music",
       "layer": 4,
       "access": "pe",
       "score": 4,
