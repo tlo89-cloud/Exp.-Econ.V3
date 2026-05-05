@@ -1,62 +1,47 @@
 {
-  "generated": "2026-05-04T14:14:44.297867+00:00",
-  "total": 34,
+  "generated": "2026-05-05T14:08:21.134027+00:00",
+  "total": 30,
   "scraped": [
     {
-      "id": "14b9c3671ce5",
-      "title": "Music Industry Moves: Mariah the Scientist Signs With Universal Publishing, UTA Inks Eve, Primary Wave Music Raises Another $2.225 Billion",
-      "summary": "Universal Music Publishing Group has signed R&#38;B star Mariah the Scientist to an exclusive worldwide music publishing agreement. The Atlanta native\u2019s latest album \u201cHearts Sold Separately debuted at",
-      "company": "Music Industry Moves",
-      "link": "https://variety.com/2026/music/news/avex-100-million-for-catalog-acquisitions-1236732678/",
-      "date": "May 01, 26",
-      "source": "Variety Music",
+      "id": "aabe93b39149",
+      "title": "Justin Bieber Spotify streams skyrocket by 1,800 per cent since Coachella",
+      "summary": "His two performances at the festival saw Dijon, Billie Eilish, SZA and more join as special guests The post Justin Bieber Spotify streams skyrocket by 1,800 per cent since Coachella appeared first on ",
+      "company": "Justin Bieber Spotify",
+      "link": "https://www.nme.com/news/music/justin-bieber-spotify-streams-skyrocket-by-1800-per-cent-since-coachella-3944085?utm_source=rss&utm_medium=rss&utm_campaign=justin-bieber-spotify-streams-skyrocket-by-1800-per-cent-since-coachella",
+      "date": "May 05, 26",
+      "source": "NME",
       "layer": 1,
       "access": "pe",
-      "score": 26,
+      "score": 23,
       "moments": [
-        "record_deal",
-        "funding_round"
+        "surprise_appearance",
+        "festival_headliner",
+        "streaming_milestone"
       ]
     },
     {
-      "id": "604b7e719b6a",
-      "title": "Clessidra clears \u20ac150m target at final close of Italy-focused agrifood fund",
-      "summary": "Italian alternative investment major Clessidra's private equity arm has beaten its target for a new fund targeting the country's agrifood sector, with total commitments of more than \u20ac150m. The post Cl",
-      "company": "Clessidra",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/italy-western-europe-europe-by-region/100208179.html",
-      "date": "Apr 30, 26",
-      "source": "AltAssets",
+      "id": "ab39b8149efb",
+      "title": "Antony Szmierek announces new album \u2018Decoding Birdsong\u2019 with hypnotic single \u2018Chalk\u2019 and UK tour dates",
+      "summary": "The sophomore record is inspired by \u201cchoosing to believe in something\u201d and seeing \u201ccoincidence as a religion\u201d The post Antony Szmierek announces new album \u2018Decoding Birdsong\u2019 with hypnotic single \u2018Cha",
+      "company": "Antony Szmierek",
+      "link": "https://www.nme.com/news/music/antony-szmierek-announces-new-album-decoding-birdsong-with-hypnotic-single-chalk-and-uk-tour-dates-3944127?utm_source=rss&utm_medium=rss&utm_campaign=antony-szmierek-announces-new-album-decoding-birdsong-with-hypnotic-single-chalk-and-uk-tour-dates",
+      "date": "May 05, 26",
+      "source": "NME",
       "layer": 1,
       "access": "pe",
-      "score": 21,
+      "score": 18,
       "moments": [
-        "pe_investment",
-        "fund_launch"
+        "album_announcement",
+        "tour_announcement"
       ]
     },
     {
-      "id": "203b9b9af1ff",
-      "title": "Loathe Announce Fall 2026 North American Tour Dates",
-      "summary": "British metal outfit Loathe have announced a North American headlining tour in support of their upcoming album A Stranger To... The post Loathe Announce Fall 2026 North American Tour Dates appeared fi",
-      "company": "Loathe Announce Fall",
-      "link": "https://www.ticketnews.com/2026/05/loathe-announce-fall-2026-north-american-tour-dates/",
-      "date": "May 01, 26",
-      "source": "Ticket News",
-      "layer": 1,
-      "access": "pe",
-      "score": 21,
-      "moments": [
-        "tour_announcement",
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "300e1258cc19",
-      "title": "Ridgeline raises more than $180m for sophomore fund",
-      "summary": "Early-stage investor Ridgeline Capital Management has sealed more than $180m for the final close its sophomore fundraise. The post Ridgeline raises more than $180m for sophomore fund appeared first on",
-      "company": "Ridgeline",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208203.html",
-      "date": "May 01, 26",
+      "id": "9df8a59c4b56",
+      "title": "Plug and Play Japan beats debut fund target with JPY6bn final close",
+      "summary": "Innovation platform Plug and Play Japan has closed its debut investment fund on JPY6bn ($38m), beating its initial target. The post Plug and Play Japan beats debut fund target with JPY6bn final close ",
+      "company": "Plug",
+      "link": "https://www.altassets.net/private-equity-news/by-region/asia-by-region/japan-asia-by-region/100208224.html",
+      "date": "May 05, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -67,19 +52,19 @@
       ]
     },
     {
-      "id": "76641e1d9b4d",
-      "title": "Paladin Artists Names Rick Levy CEO as It Enters \u2018Advanced Discussions\u2019 to Acquire Entourage Talent",
-      "summary": "Entourage's founder, Wayne Forte, has been on Paladin's board since its 2021 inception.",
-      "company": "Paladin Artists Names Rick Levy CEO",
-      "link": "https://www.billboard.com/pro/paladin-artists-rick-levy-ceo-acquire-entourage-talent/",
-      "date": "May 04, 26",
-      "source": "Billboard",
-      "layer": 1,
+      "id": "1f282a8a2629",
+      "title": "THL Partners picks up $6.35bn at final close of tenth flagship fundraise",
+      "summary": "THL Partners has secured $6.35bn of investable capital through its tenth flagship fundraise, up 13% compared to its 2021 predecessor vehicle. The post THL Partners picks up $6.35bn at final close of t",
+      "company": "THL Partners",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208248.html",
+      "date": "May 05, 26",
+      "source": "AltAssets",
+      "layer": 5,
       "access": "pe",
       "score": 13,
       "moments": [
-        "acquisition",
-        "company_launch"
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
@@ -89,54 +74,6 @@
       "company": "Boyne Capital",
       "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208208.html",
       "date": "May 01, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "533307a65fd2",
-      "title": "European tech investor Earlybird seals \u20ac360m to close biggest fund yet",
-      "summary": "European early stage investor Earlybird has hit a \u20ac360m final close for its oversubscribed Fund VIII, marking the biggest raise in its history. The post European tech investor Earlybird seals \u20ac360m to",
-      "company": "European",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/germany-western-europe-europe-by-region/100208197.html",
-      "date": "May 01, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "087e90bb2630",
-      "title": "Growth tech investor Crescent Cove collects $446m for oversubscribed Fund IV",
-      "summary": "Growth capital investor Crescent Cove Advisors has reached a $446m final close for its oversubscribed fourth fund. The post Growth tech investor Crescent Cove collects $446m for oversubscribed Fund IV",
-      "company": "Growth",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/growth-tech-investor-crecent-cove-collects-446m-for-oversubscribed-fund-iv.html",
-      "date": "May 01, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "254de15a390e",
-      "title": "BMW i Ventures eyes AI\u2019s automotive revolution with new $300m fund",
-      "summary": "Car giant BMW\u2019s venture capital arm has launched its $300m third fund, looking to leverage the potential impact of AI in reshaping the automotive industry. The post BMW i Ventures eyes AI&#8217;s auto",
-      "company": "BMW",
-      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/100208173.html",
-      "date": "Apr 30, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -178,33 +115,18 @@
       ]
     },
     {
-      "id": "040d9937d4a2",
-      "title": "Post Malone Cancels First Few Weeks of \u2018Big Ass Stadium\u2019 Shows With Jelly Roll, Citing Need to Finish New Album: \u2018We Ain\u2019t Ready for Tour Just Yet\u2019",
-      "summary": "Post Malone&#8217;s &#8220;Big Ass Stadium Tour Part 2&#8221; just got smaller. The artist took to social media Friday night to announce that he was canceling the first few weeks of his outing in stad",
-      "company": "Post Malone Cancels First Few Weeks",
-      "link": "https://variety.com/2026/music/news/post-malone-cancels-stadium-concerts-jelly-roll-tour-1236735970/",
-      "date": "May 02, 26",
+      "id": "6751989132e9",
+      "title": "Hayley Williams, Lola Young, Zara Larsson to Headline All Things Go Festival",
+      "summary": "The All Things Go Festival 2026 has revealed the lineup of the 12th D.C.-area edition, with headliners including Hayley Williams, Brandi Carlile, Zara Larsson and ATG alumni, Mitski, Muna, Lola Young,",
+      "company": "Hayley Williams Lola Young Zara Larsson",
+      "link": "https://variety.com/2026/music/news/all-things-go-festival-2026-hayley-williams-lola-young-zara-larsson-1236736969/",
+      "date": "May 04, 26",
       "source": "Variety Music",
       "layer": 1,
       "access": "pe",
-      "score": 21,
+      "score": 17,
       "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "6454b5387a39",
-      "title": "Browns Break Ground on New Stadium, but Funding Still in Limbo",
-      "summary": "State and local funding for the planned venue is not yet solidified.",
-      "company": "Browns Break Ground",
-      "link": "https://frontofficesports.com/browns-break-ground-on-new-stadium-but-funding-still-in-limbo/",
-      "date": "May 01, 26",
-      "source": "Front Office Sports",
-      "layer": 2,
-      "access": "pe",
-      "score": 19,
-      "moments": [
-        "venue_announcement"
+        "festival_headliner"
       ]
     },
     {
@@ -238,6 +160,21 @@
       ]
     },
     {
+      "id": "2e95ba01e5f9",
+      "title": "Post Malone closes Stagecoach with style if not excitement",
+      "summary": "The singer headlined the festival's final night almost exactly a year after closing out Coachella's 2025 edition.",
+      "company": "Post Malone",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-04-27/stagecoach-2026-post-malone-review",
+      "date": "Apr 27, 26",
+      "source": "LA Times Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
       "id": "7a468132ba18",
       "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
       "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
@@ -253,33 +190,93 @@
       ]
     },
     {
-      "id": "2d0571423f8b",
-      "title": "IFM Investors-backed Mobius Renewables acquires Air Liquide\u2019s biogas production activities in US, France, Norway and Sweden",
-      "summary": "The acquisition includes six operating landfill gas-to-RNG sites in the US, five operating farm waste sites in France, and a 51 percent stake in Redo Biosolutions with production and distribution asse",
-      "company": "IFM Investors-backed Mobius Renewables",
-      "link": "https://www.pehub.com/ifm-investors-backed-mobius-renewables-acquires-air-liquides-biogas-production-activities-in-us-france-norway-and-sweden/",
+      "id": "66db92afdfc7",
+      "title": "Katie Haun raises $1B for new venture funds",
+      "summary": "Katie Haun announced on Monday that $1 billion has been raised across new funds to continue the firm\u2019s thesis of backing crypto and blockchain startups.",
+      "company": "Katie Haun",
+      "link": "https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/",
       "date": "May 04, 26",
-      "source": "PE Hub",
-      "layer": 4,
+      "source": "TechCrunch Startups",
+      "layer": 1,
+      "access": "venture",
+      "score": 15,
+      "moments": [
+        "funding_round"
+      ]
+    },
+    {
+      "id": "0bacacc842f3",
+      "title": "Every Mile Matters: Hansei Solutions and Change Your Brain Foundation Celebrate Mental Health Month",
+      "summary": "Joint initiative aims to expand access to brain health treatment by turning steps into funding for care FRANKLIN, Tenn., May 5, 2026 /PRNewswire/ -- Hansei Solutions, the premier revenue cycle managem",
+      "company": "Every Mile Matters",
+      "link": "https://www.prnewswire.com/news-releases/every-mile-matters-hansei-solutions-and-change-your-brain-foundation-celebrate-mental-health-month-302761751.html",
+      "date": "May 05, 26",
+      "source": "PR Newswire",
+      "layer": 2,
       "access": "pe",
-      "score": 14,
+      "score": 15,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "31d1767d8ae7",
+      "title": "Paramount Projects \u2018Significantly\u2019 Lower Theatrical Revenue Overall in 2026 Despite More Titles; CEO David Ellison Reiterates Plan for 30-Film Annual...",
+      "summary": "Paramount Skydance has nearly doubled its theatrical-film slate in 2026 &#8212; but it will see &#8220;significantly&#8221; lower box office revenue overall from those movies, according to the company",
+      "company": "",
+      "link": "https://variety.com/2026/film/news/paramount-theatrical-revenue-2026-david-ellison-30-films-warner-bros-1236737048/",
+      "date": "May 04, 26",
+      "source": "Variety Biz",
+      "layer": 2,
+      "access": "pe",
+      "score": 12,
       "moments": [
         "acquisition"
       ]
     },
     {
-      "id": "eb0dfcd1796e",
-      "title": "Olivia Dean\u2019s \u2018The Art of Loving\u2019 Tour Will Be 2026\u2019s Hottest Ticket: 5 Best Moments from London\u2019s O2 Arena",
-      "summary": "Sam Fender was a special guest at the Saturday night (May 2) show.",
-      "company": "Olivia Dean\u2019s \u2018The Art",
-      "link": "https://www.billboard.com/lists/olivia-dean-art-of-loving-tour-london-best-moments/",
-      "date": "May 03, 26",
-      "source": "Billboard",
-      "layer": 2,
+      "id": "6d5b990d3cb1",
+      "title": "Lizzo will not back down in backup dancers lawsuit: \u201cThe truth is less salacious than the headlines\u201d",
+      "summary": "\"I\u2019m fighting the case because I know that it\u2019s not true\" The post Lizzo will not back down in backup dancers lawsuit: &#8220;The truth is less salacious than the headlines&#8221; appeared first on NM",
+      "company": "Lizzo",
+      "link": "https://www.nme.com/news/music/lizzo-will-not-back-down-in-backup-dancers-lawsuit-the-truth-is-less-salacious-than-the-headlines-3944143?utm_source=rss&utm_medium=rss&utm_campaign=lizzo-will-not-back-down-in-backup-dancers-lawsuit-the-truth-is-less-salacious-than-the-headlines",
+      "date": "May 05, 26",
+      "source": "NME",
+      "layer": 5,
       "access": "pe",
       "score": 12,
       "moments": [
-        "surprise_appearance"
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "59ff0497818b",
+      "title": "Pantheon leads $1bn private debt continuation fund for Audax portfolio",
+      "summary": "Audax Private Debt has closed a $1bn private credit continuation fund led by fellow alternative investment major Pantheon. The post Pantheon leads $1bn private debt continuation fund for Audax portfol",
+      "company": "Pantheon",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208243.html",
+      "date": "May 05, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "4497039cb60b",
+      "title": "New Mexico SIC backs newly launched TAG Capital fund, will make infra investments in state",
+      "summary": "Tierra Adentro Growth Capital, a newly-launched investor targeting the New Mexico region of the US, has announced its debut fund. The post New Mexico SIC backs newly launched TAG Capital fund, will ma",
+      "company": "New Mexico SIC backs newly",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/new-mexico-sic-backs-newly-launched-tag-capital-fund-will-make-infra-investments-in-state.html",
+      "date": "May 05, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "pe_investment"
       ]
     },
     {
@@ -298,48 +295,33 @@
       ]
     },
     {
-      "id": "95e392ca79a8",
-      "title": "Audax sale of HVAC service provider Nextech progresses, sources say; More PE deals expected in roofing, landscaping and remodeling",
-      "summary": "Good morning, dealmakers. MK Flynn here, coming to you from New York, with PE Hub\u2019s US morning newsletter. As regular readers of PE Hub know, senior reporter Michael Schoeck is always on the lookout f",
-      "company": "Audax",
-      "link": "https://www.pehub.com/audax-sale-of-hvac-service-provider-nextech-progresses-sources-say-more-pe-deals-expected-in-roofing-landscaping-and-remodeling/",
+      "id": "e9cf529489c9",
+      "title": "GameStop (Yes, GameStop) Makes $56 Billion Bid for eBay",
+      "summary": "Shares of online retail giant eBay were up more than 4% Monday after GameStop, the video-game and fandom-culture retailer, launched an unsolicited $56 billion takeover bid. On Sunday, GameStop announc",
+      "company": "GameStop (Yes GameStop) Makes",
+      "link": "https://variety.com/2026/digital/news/gamestop-ebay-56-billion-bid-acquisition-1236736709/",
       "date": "May 04, 26",
-      "source": "PE Hub",
+      "source": "Variety Biz",
       "layer": 5,
       "access": "public",
-      "score": 9,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "7d4acd6643d1",
-      "title": "Grovecourt-backed Traffic & Mobility Consultants acquires Chindalur Traffic Solutions",
-      "summary": "Traffic &#038; Mobility Consultants LLC is a Florida-based engineering company specializing in transportation planning and traffic engineering. The post Grovecourt-backed Traffic &#038; Mobility Consu",
-      "company": "Grovecourt-backed Traffic",
-      "link": "https://www.pehub.com/grovecourt-backed-traffic-mobility-consultants-acquires-chindalur-traffic-solutions/",
-      "date": "May 04, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
       "score": 9,
       "moments": [
         "acquisition"
       ]
     },
     {
-      "id": "b180fec2c34a",
-      "title": "Global M&A reaches new quarterly record of $1.6tn despite ongoing global uncertainty",
-      "summary": "Global M&#038;A activity soared to a quarterly record of $1.6tn in Q1 of this year - up more than 50% on the same period in 2025 despite ongoing volatility in global markets, new data from PitchBook s",
-      "company": "Global M&A",
-      "link": "https://www.altassets.net/featured/global-ma-reaches-new-quarterly-record-of-1-6tn-despite-ongoing-global-uncertainty.html",
-      "date": "May 01, 26",
-      "source": "AltAssets",
+      "id": "847f93a511f8",
+      "title": "Copley to sell LJB, sources say; KKR made \u2018targeted acquisitions\u2019 to scale Axius Water before sale to CRH",
+      "summary": "Copley Equity Partners is in the early stages of a sales process for a civil, structural, geospatial engineering and environmental services firm, according to sources; KKR and XPV Water Partners have ",
+      "company": "Copley",
+      "link": "https://www.pehub.com/copley-to-sell-ljb-sources-say-kkr-made-targeted-acquisitions-to-scale-axius-water-before-sale-to-crh/",
+      "date": "May 05, 26",
+      "source": "PE Hub",
       "layer": 5,
       "access": "pe",
       "score": 9,
       "moments": [
-        "pe_investment"
+        "acquisition"
       ]
     },
     {
@@ -351,21 +333,6 @@
       "date": "May 01, 26",
       "source": "Variety Biz",
       "layer": 4,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "74f11c95536a",
-      "title": "Eva Longoria and \u2018The House of the Spirits\u2019 Team to Lead NALIP\u2019s Diverse Women in Media Forum",
-      "summary": "Eva Longoria and the team behind Amazon Prime Video&#8217;s &#8220;The House of the Spirits&#8221; will be among the notable multihyphenates, actors, writers and producers who are set to take part in ",
-      "company": "Eva Longoria",
-      "link": "https://variety.com/2026/biz/news/eva-longoria-house-of-spirits-team-nalip-diverse-women-1236733589/",
-      "date": "Apr 29, 26",
-      "source": "Variety Biz",
-      "layer": 3,
       "access": "pe",
       "score": 6,
       "moments": [
@@ -403,13 +370,13 @@
       ]
     },
     {
-      "id": "ccf608c6e70d",
-      "title": "Meta Q1 Revenue Soars 33% in Q1, Net Profit Hits $26.8 Billion Ahead of Mass Layoffs",
-      "summary": "Even as Meta continues make money hand over fist, the tech giant is set to make a large round of layoffs to optimize operations &#8212; and as it continues to plow billions into AI projects. Meta, the",
-      "company": "Meta Q1 Revenue Soars",
-      "link": "https://variety.com/2026/digital/news/meta-q1-2026-earnings-1236733502/",
-      "date": "Apr 29, 26",
-      "source": "Variety Biz",
+      "id": "18a04dcb9f36",
+      "title": "Sabalenka believes players will boycott grand slams to \u2018fight for our rights\u2019",
+      "summary": "Players want greater share of revenue from tournamentsSabalenka: \u2018I think at some point we will boycott it\u2019Aryna Sabalenka believes that the top tennis players will boycott grand slam tournaments in a",
+      "company": "Sabalenka",
+      "link": "https://www.theguardian.com/sport/2026/may/05/aryna-sabalenka-tennis-grand-slam-boycott-prize-money",
+      "date": "May 05, 26",
+      "source": "Guardian Sport",
       "layer": 2,
       "access": "pe",
       "score": 11,
@@ -455,16 +422,16 @@
       "moments": []
     },
     {
-      "id": "469430905d25",
-      "title": "John Sterling, beloved voice of Yankees for 36 seasons, dies at age of 87",
-      "summary": "Broadcaster called 5,420 regular-season gamesNative New Yorker won 12 Emmys for his workJohn Sterling, whose voice became synonymous with the New York Yankees, has died at the age of 87.Sterling, a na",
-      "company": "John Sterling",
-      "link": "https://www.theguardian.com/sport/2026/may/04/john-sterling-beloved-voice-of-yankees-for-36-seasons-dies-at-age-of-87",
-      "date": "May 04, 26",
-      "source": "Guardian Sport",
+      "id": "c2e8db8d5988",
+      "title": "U.K. Crew Union Leads \u2018Broken Turnaround\u2019 Protest Outside Netflix, Amazon and Disney\u2019s London Offices: \u2018Our Members Have Reached Breaking Point\u2019...",
+      "summary": "U.K. crew union Bectu has staged a protest outside the London offices of some of the world&#8217;s biggest production companies and broadcasters, including Netflix, Amazon and Disney, over what they c",
+      "company": "U.K Crew Union Leads \u2018Broken Turnaround\u2019",
+      "link": "https://variety.com/2026/biz/global/bectu-broken-turnaround-campaign-protest-uk-1236737958/",
+      "date": "May 05, 26",
+      "source": "Variety Biz",
       "layer": 3,
       "access": "pe",
-      "score": 7,
+      "score": 9,
       "moments": []
     },
     {
@@ -478,32 +445,6 @@
       "layer": 3,
       "access": "pe",
       "score": 5,
-      "moments": []
-    },
-    {
-      "id": "141867b2b363",
-      "title": "Warner Bros. Discovery CEO David Zaslav\u2019s Pay More Than Tripled in 2025 to a Staggering $165 Million",
-      "summary": "David Zaslav, in what could be his last full year leading Warner Bros. Discovery, saw his compensation more than triple in 2025 &#8212; largely thanks to nearly $110 million in one-time stock options ",
-      "company": "Warner Bros Discovery CEO David Zaslav\u2019s",
-      "link": "https://variety.com/2026/film/news/david-zaslav-warner-bros-discovery-compensation-2025-1236734023/",
-      "date": "Apr 30, 26",
-      "source": "Variety Biz",
-      "layer": 3,
-      "access": "public",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "79dda6c1de16",
-      "title": "Geirr Tveitt\u2019s Music Captured Norway\u2019s Colors. His Life Reflected Its Shadows.",
-      "summary": "Geirr Tveitt\u2019s reputation was tarnished by his nationalist politics. But a new generation of musicians is bringing this composer\u2019s music to an international audience.",
-      "company": "",
-      "link": "https://www.nytimes.com/2026/04/28/arts/music/geirr-tveitt-leif-ove-andsnes-norway.html",
-      "date": "Apr 29, 26",
-      "source": "NYT Music",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
       "moments": []
     }
   ]
