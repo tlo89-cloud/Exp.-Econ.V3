@@ -1,47 +1,46 @@
 {
-  "generated": "2026-05-05T14:08:21.134027+00:00",
-  "total": 30,
+  "generated": "2026-05-06T14:26:50.084206+00:00",
+  "total": 34,
   "scraped": [
     {
-      "id": "aabe93b39149",
-      "title": "Justin Bieber Spotify streams skyrocket by 1,800 per cent since Coachella",
-      "summary": "His two performances at the festival saw Dijon, Billie Eilish, SZA and more join as special guests The post Justin Bieber Spotify streams skyrocket by 1,800 per cent since Coachella appeared first on ",
-      "company": "Justin Bieber Spotify",
-      "link": "https://www.nme.com/news/music/justin-bieber-spotify-streams-skyrocket-by-1800-per-cent-since-coachella-3944085?utm_source=rss&utm_medium=rss&utm_campaign=justin-bieber-spotify-streams-skyrocket-by-1800-per-cent-since-coachella",
+      "id": "fb8a71184758",
+      "title": "Blitzy Raises $200M At $1.4B Valuation For Autonomous Software Development",
+      "summary": "Blitzy, an autonomous software development startup, said it has raised $200 million in a funding round that values it at $1.4 billion, making it the latest company to receive major investor backing to",
+      "company": "Blitzy Raises",
+      "link": "https://news.crunchbase.com/ai/blitzy-funding-valuation-autonomous-software-development-vibe-coding-startups/",
       "date": "May 05, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 23,
+      "source": "Crunchbase News",
+      "layer": 2,
+      "access": "venture",
+      "score": 22,
       "moments": [
-        "surprise_appearance",
-        "festival_headliner",
-        "streaming_milestone"
+        "funding_round",
+        "valuation"
       ]
     },
     {
-      "id": "ab39b8149efb",
-      "title": "Antony Szmierek announces new album \u2018Decoding Birdsong\u2019 with hypnotic single \u2018Chalk\u2019 and UK tour dates",
-      "summary": "The sophomore record is inspired by \u201cchoosing to believe in something\u201d and seeing \u201ccoincidence as a religion\u201d The post Antony Szmierek announces new album \u2018Decoding Birdsong\u2019 with hypnotic single \u2018Cha",
-      "company": "Antony Szmierek",
-      "link": "https://www.nme.com/news/music/antony-szmierek-announces-new-album-decoding-birdsong-with-hypnotic-single-chalk-and-uk-tour-dates-3944127?utm_source=rss&utm_medium=rss&utm_campaign=antony-szmierek-announces-new-album-decoding-birdsong-with-hypnotic-single-chalk-and-uk-tour-dates",
-      "date": "May 05, 26",
-      "source": "NME",
+      "id": "993cc4bea92b",
+      "title": "MidOcean seals $300m CV fund close for 2022 investment Cloyes Gear and Products",
+      "summary": "MidOcean Partners has closed a roughly $300m single-asset continuation vehicle for Cloyes Gear and Products, the automotive components maker it bought into in 2022. The post MidOcean seals $300m CV fu",
+      "company": "MidOcean",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208272.html",
+      "date": "May 06, 26",
+      "source": "AltAssets",
       "layer": 1,
       "access": "pe",
-      "score": 18,
+      "score": 21,
       "moments": [
-        "album_announcement",
-        "tour_announcement"
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
-      "id": "9df8a59c4b56",
-      "title": "Plug and Play Japan beats debut fund target with JPY6bn final close",
-      "summary": "Innovation platform Plug and Play Japan has closed its debut investment fund on JPY6bn ($38m), beating its initial target. The post Plug and Play Japan beats debut fund target with JPY6bn final close ",
-      "company": "Plug",
-      "link": "https://www.altassets.net/private-equity-news/by-region/asia-by-region/japan-asia-by-region/100208224.html",
-      "date": "May 05, 26",
+      "id": "97e456795996",
+      "title": "Bridge Growth Partners closes $790m CV for 2016 investment Solace",
+      "summary": "Tech investor Bridge Growth Partners has closed a $790m single-asset continuation fund for Solace, a real-time data and agentic AI platform it initially backed a decade ago. The post Bridge Growth Par",
+      "company": "Bridge Growth Partners",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208262.html",
+      "date": "May 06, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -52,12 +51,44 @@
       ]
     },
     {
-      "id": "1f282a8a2629",
-      "title": "THL Partners picks up $6.35bn at final close of tenth flagship fundraise",
-      "summary": "THL Partners has secured $6.35bn of investable capital through its tenth flagship fundraise, up 13% compared to its 2021 predecessor vehicle. The post THL Partners picks up $6.35bn at final close of t",
-      "company": "THL Partners",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208248.html",
+      "id": "b9ab478954dd",
+      "title": "Justin Bieber Has the Most Monthly Spotify Listeners After Coachella Streaming Surge",
+      "summary": "According to new data shared with Rolling Stone, the pop star has amassed over 140 million listeners in the weeks since his two headlining sets",
+      "company": "Justin Bieber Has",
+      "link": "https://www.rollingstone.com/music/music-news/justin-biebers-spotify-monthly-listeners-coachella-1235557948/",
       "date": "May 05, 26",
+      "source": "Rolling Stone Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "festival_headliner",
+        "streaming_milestone"
+      ]
+    },
+    {
+      "id": "b61264efcde8",
+      "title": "\u2018It kicks ass\u2019: Rolling Stones launch new album at star-studded New York event",
+      "summary": "Mick Jagger, Keith Richards and Ronnie Wood join Conan O\u2019Brien to discuss forthcoming album Foreign TonguesOn Tuesday afternoon in New York, the Rolling Stones gathered friends, journalists and fellow",
+      "company": "\u2018It",
+      "link": "https://www.theguardian.com/music/2026/may/05/rolling-stones-foreign-tongues-album-new-york",
+      "date": "May 05, 26",
+      "source": "Guardian Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "album_announcement",
+        "surprise_appearance"
+      ]
+    },
+    {
+      "id": "ea15610c6d5f",
+      "title": "Twin Bridge beats target for sixth flagship fund, closes vehicle on over $855m",
+      "summary": "Twin Bridge Capital Partners has closed its oversubscribed sixth lower middle market focused fund on more than $855m. The post Twin Bridge beats target for sixth flagship fund, closes vehicle on over ",
+      "company": "Twin Bridge",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/twin-bridge-beats-target-for-sixth-flagship-fund-closes-vehicle-on-over-855m.html",
+      "date": "May 06, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -68,12 +99,28 @@
       ]
     },
     {
-      "id": "7eeaed3f2861",
-      "title": "Boyne Capital brings in over $355m for oversubscribed Fund III in 90-day raise",
-      "summary": "Lower mid-market private equity house Boyne Capital has raced to secure a one-and-done $355m final close for its third fund, beating its initial target. The post Boyne Capital brings in over $355m for",
-      "company": "Boyne Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208208.html",
-      "date": "May 01, 26",
+      "id": "8ac6508ef736",
+      "title": "Deviation Capital spins out from Two Sigma, launches with about $2bn of AUM",
+      "summary": "Early-stage venture capital investor Deviation Capital has launched as a newly independent firm with $2bn of AUM through a spinout from Two Sigma Ventures. The post Deviation Capital spins out from Tw",
+      "company": "Deviation Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/deviation-capital-spins-out-from-two-sigma-launches-with-about-2bn-of-aum.html",
+      "date": "May 06, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "1f282a8a2629",
+      "title": "THL Partners picks up $6.35bn at final close of tenth flagship fundraise",
+      "summary": "THL Partners has secured $6.35bn of investable capital through its tenth flagship fundraise, up 13% compared to its 2021 predecessor vehicle. The post THL Partners picks up $6.35bn at final close of t",
+      "company": "THL Partners",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208248.html",
+      "date": "May 05, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -115,48 +162,33 @@
       ]
     },
     {
-      "id": "6751989132e9",
-      "title": "Hayley Williams, Lola Young, Zara Larsson to Headline All Things Go Festival",
-      "summary": "The All Things Go Festival 2026 has revealed the lineup of the 12th D.C.-area edition, with headliners including Hayley Williams, Brandi Carlile, Zara Larsson and ATG alumni, Mitski, Muna, Lola Young,",
-      "company": "Hayley Williams Lola Young Zara Larsson",
-      "link": "https://variety.com/2026/music/news/all-things-go-festival-2026-hayley-williams-lola-young-zara-larsson-1236736969/",
-      "date": "May 04, 26",
-      "source": "Variety Music",
-      "layer": 1,
+      "id": "2fcce7d3d781",
+      "title": "Burna Boy, Wizkid, Tyla and more took African pop global. So why don\u2019t they tour Africa itself?",
+      "summary": "Due to many obstacles \u2013 from security to air fares \u2013 local fans lose out as African artists tour overseas instead. But as western corporations invest, there are more worries besidesWhen a major Africa",
+      "company": "Burna Boy Wizkid Tyla",
+      "link": "https://www.theguardian.com/music/2026/may/06/afrobeats-stars-africa-venues-burna-boy-wizkid-tems-tyla",
+      "date": "May 06, 26",
+      "source": "Guardian Music",
+      "layer": 2,
       "access": "pe",
-      "score": 17,
+      "score": 19,
       "moments": [
         "festival_headliner"
       ]
     },
     {
-      "id": "bc87f5da13d3",
-      "title": "Add to playlist: the disaster-baiting jazz-rock brinkmanship of Taupe and the week\u2019s best new tracks",
-      "summary": "The trio combine sludgy rock, homemade electronics and squawking into a watertight groove that makes light work of their complex musicianshipFrom Glasgow, ScotlandRecommended if you like Horse Lords, ",
-      "company": "Add to playlist",
-      "link": "https://www.theguardian.com/music/2026/apr/24/add-to-playlist-the-disaster-baiting-jazz-rock-brinkmanship-of-taupe-and-the-weeks-best-new-tracks",
-      "date": "Apr 24, 26",
-      "source": "Guardian Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 17,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "bcdfb93efbcb",
-      "title": "Big 12\u2019s Private Equity Marriage Yields Cash and Legal Questions",
-      "summary": "The Big 12\u2019s five-year, multimillion-dollar private equity deal with RedBird Capital and Weatherford Capital is a major development in the economic landscape of college sports\u2014and its legal ramificati",
-      "company": "Big",
-      "link": "https://www.sportico.com/law/analysis/2026/big-12-private-equity-deal-legal-implications-1234891617/",
-      "date": "May 01, 26",
+      "id": "d4b0fa474a9f",
+      "title": "Sphere Beats Earnings Forecast, Stock Reaches All-Time High",
+      "summary": "Sphere Entertainment\u2019s first-quarter revenue and earnings smashed Wall Street expectations on Tuesday, powering the stock to an all-time high price north of $147 before receding, finishing the day at ",
+      "company": "Sphere Beats Earnings Forecast Stock Reaches",
+      "link": "https://www.sportico.com/business/finance/2026/sphere-beats-earnings-forecast-high-stock-1234891889/",
+      "date": "May 05, 26",
       "source": "Sportico",
-      "layer": 1,
-      "access": "pe",
+      "layer": 2,
+      "access": "public",
       "score": 16,
       "moments": [
-        "pe_investment"
+        "record_breaking"
       ]
     },
     {
@@ -190,6 +222,21 @@
       ]
     },
     {
+      "id": "e482915639d2",
+      "title": "8 Things We Learned at the Rolling Stones Album Release Party With Conan O\u2019Brien",
+      "summary": "Mick Jagger de-aged himself for a video with Odessa A'zion, the Stones made the album in just one month, four of the songs are from older sessions, and there's not even a hint of a tour",
+      "company": "Things We Learned",
+      "link": "https://www.rollingstone.com/music/music-features/rolling-stones-album-conan-obrien-things-learned-1235558323/",
+      "date": "May 06, 26",
+      "source": "Rolling Stone Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
       "id": "66db92afdfc7",
       "title": "Katie Haun raises $1B for new venture funds",
       "summary": "Katie Haun announced on Monday that $1 billion has been raised across new funds to continue the firm\u2019s thesis of backing crypto and blockchain startups.",
@@ -205,18 +252,18 @@
       ]
     },
     {
-      "id": "0bacacc842f3",
-      "title": "Every Mile Matters: Hansei Solutions and Change Your Brain Foundation Celebrate Mental Health Month",
-      "summary": "Joint initiative aims to expand access to brain health treatment by turning steps into funding for care FRANKLIN, Tenn., May 5, 2026 /PRNewswire/ -- Hansei Solutions, the premier revenue cycle managem",
-      "company": "Every Mile Matters",
-      "link": "https://www.prnewswire.com/news-releases/every-mile-matters-hansei-solutions-and-change-your-brain-foundation-celebrate-mental-health-month-302761751.html",
+      "id": "3cfede08b6ee",
+      "title": "As crypto cools, a16z crypto raises a $2.2B fund",
+      "summary": "As some of the biggest VCs in crypto start to consider funding AI startups, a16z crypto's new fund will stay the course.",
+      "company": "As",
+      "link": "https://techcrunch.com/2026/05/05/as-crypto-cools-a16zcrypto-raises-a-2-2b-fund/",
       "date": "May 05, 26",
-      "source": "PR Newswire",
-      "layer": 2,
-      "access": "pe",
+      "source": "TechCrunch Venture",
+      "layer": 1,
+      "access": "venture",
       "score": 15,
       "moments": [
-        "company_launch"
+        "fund_launch"
       ]
     },
     {
@@ -232,21 +279,6 @@
       "score": 12,
       "moments": [
         "acquisition"
-      ]
-    },
-    {
-      "id": "6d5b990d3cb1",
-      "title": "Lizzo will not back down in backup dancers lawsuit: \u201cThe truth is less salacious than the headlines\u201d",
-      "summary": "\"I\u2019m fighting the case because I know that it\u2019s not true\" The post Lizzo will not back down in backup dancers lawsuit: &#8220;The truth is less salacious than the headlines&#8221; appeared first on NM",
-      "company": "Lizzo",
-      "link": "https://www.nme.com/news/music/lizzo-will-not-back-down-in-backup-dancers-lawsuit-the-truth-is-less-salacious-than-the-headlines-3944143?utm_source=rss&utm_medium=rss&utm_campaign=lizzo-will-not-back-down-in-backup-dancers-lawsuit-the-truth-is-less-salacious-than-the-headlines",
-      "date": "May 05, 26",
-      "source": "NME",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "festival_headliner"
       ]
     },
     {
@@ -280,63 +312,33 @@
       ]
     },
     {
-      "id": "b67710bb0ca6",
-      "title": "Kornit Digital Acquires PrintFactory to Accelerate the Industry\u2019s Transition to Digital, On-Demand Production",
-      "summary": "Acquisition Strengthens Kornit\u2019s Platform Strategy, Expanding Digital Access to the Global Screen-Printing Market and Advancing Connected Infrastructure Linking Demand, Production and Fulfillment Acqu",
-      "company": "Kornit Digital Acquires PrintFactory",
-      "link": "https://www.globenewswire.com/news-release/2026/04/12/3272164/34898/en/Kornit-Digital-Acquires-PrintFactory-to-Accelerate-the-Industry-s-Transition-to-Digital-On-Demand-Production.html",
-      "date": "Apr 12, 26",
-      "source": "GlobeNewsWire Deals",
-      "layer": 4,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "e9cf529489c9",
-      "title": "GameStop (Yes, GameStop) Makes $56 Billion Bid for eBay",
-      "summary": "Shares of online retail giant eBay were up more than 4% Monday after GameStop, the video-game and fandom-culture retailer, launched an unsolicited $56 billion takeover bid. On Sunday, GameStop announc",
-      "company": "GameStop (Yes GameStop) Makes",
-      "link": "https://variety.com/2026/digital/news/gamestop-ebay-56-billion-bid-acquisition-1236736709/",
-      "date": "May 04, 26",
-      "source": "Variety Biz",
-      "layer": 5,
-      "access": "public",
-      "score": 9,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "847f93a511f8",
-      "title": "Copley to sell LJB, sources say; KKR made \u2018targeted acquisitions\u2019 to scale Axius Water before sale to CRH",
-      "summary": "Copley Equity Partners is in the early stages of a sales process for a civil, structural, geospatial engineering and environmental services firm, according to sources; KKR and XPV Water Partners have ",
-      "company": "Copley",
-      "link": "https://www.pehub.com/copley-to-sell-ljb-sources-say-kkr-made-targeted-acquisitions-to-scale-axius-water-before-sale-to-crh/",
-      "date": "May 05, 26",
-      "source": "PE Hub",
+      "id": "b6518297cd4f",
+      "title": "Jennie announced as headliner of Open\u2019er 2026",
+      "summary": "The BLACKPINK member will take to the stage on July 4 The post Jennie announced as headliner of Open&#8217;er 2026 appeared first on NME.",
+      "company": "Jennie",
+      "link": "https://www.nme.com/news/music/jennie-announced-as-headliner-of-opener-2026-3944247?utm_source=rss&utm_medium=rss&utm_campaign=jennie-announced-as-headliner-of-opener-2026",
+      "date": "May 06, 26",
+      "source": "NME",
       "layer": 5,
       "access": "pe",
       "score": 9,
       "moments": [
-        "acquisition"
+        "festival_headliner"
       ]
     },
     {
-      "id": "5da4979b8901",
-      "title": "LISTEN: Why Hollywood Is Increasingly Leaning on Gaming Platforms to Promote Movies",
-      "summary": "As the 2026 box office finishes its spring run with \u201cThe Super Mario Galaxy Movie\u201d on top and a controversial Michael Jackson film nabbing a record opening for a biopics, no one can argue that transme",
-      "company": "LISTEN",
-      "link": "https://variety.com/2026/gaming/news/nic-hill-sawhorse-productions-gaming-platforms-hollywood-1236735141/",
-      "date": "May 01, 26",
-      "source": "Variety Biz",
-      "layer": 4,
+      "id": "ecd11adb019f",
+      "title": "Intertek considers EQT\u2019s $12bn sweetened bid",
+      "summary": "UK testing and compliance group Intertek is evaluating a revised takeover proposal from Swedish private equity firm EQT, in a deal that would value the company at approximately \u00a38.9bn ($12bn), accordi",
+      "company": "Intertek",
+      "link": "https://www.privateequitywire.co.uk/intertek-considers-eqts-12bn-sweetened-bid/",
+      "date": "May 06, 26",
+      "source": "PE Wire",
+      "layer": 5,
       "access": "pe",
-      "score": 6,
+      "score": 9,
       "moments": [
-        "company_launch"
+        "pe_investment"
       ]
     },
     {
@@ -370,55 +372,55 @@
       ]
     },
     {
-      "id": "18a04dcb9f36",
-      "title": "Sabalenka believes players will boycott grand slams to \u2018fight for our rights\u2019",
-      "summary": "Players want greater share of revenue from tournamentsSabalenka: \u2018I think at some point we will boycott it\u2019Aryna Sabalenka believes that the top tennis players will boycott grand slam tournaments in a",
-      "company": "Sabalenka",
-      "link": "https://www.theguardian.com/sport/2026/may/05/aryna-sabalenka-tennis-grand-slam-boycott-prize-money",
+      "id": "8db3c5b8f558",
+      "title": "Live Nation Revenue Rises 12% as $450M Legal Accrual Pushes Company to Q1 Loss",
+      "summary": "Live Nation points to strong concert demand and Ticketmaster growth while setting aside hundreds of millions tied to antitrust litigation... The post Live Nation Revenue Rises 12% as $450M Legal Accru",
+      "company": "Live Nation Revenue Rises",
+      "link": "https://www.ticketnews.com/2026/05/live-nation-revenue-rises-12-as-450m-legal-accrual-pushes-company-to-q1-loss/",
       "date": "May 05, 26",
-      "source": "Guardian Sport",
-      "layer": 2,
+      "source": "Ticket News",
+      "layer": 3,
       "access": "pe",
-      "score": 11,
+      "score": 24,
       "moments": []
     },
     {
-      "id": "7a1f3ce243d8",
-      "title": "Scoop: U.S. blockade has cost Iran $4.8 billion, Pentagon says",
-      "summary": "The Defense Department estimates Iran has been denied nearly $5 billion in oil revenue because of the U.S. blockade in the Gulf of Oman, causing unprecedented pressure on Tehran's government.Why it ma",
-      "company": "Scoop",
-      "link": "https://www.axios.com/2026/05/01/us-blockade-oman-cost-iran-5-million",
-      "date": "May 01, 26",
-      "source": "Axios",
-      "layer": 2,
+      "id": "9d4682ff6d02",
+      "title": "Alex Warren Signs With UTA for Film, TV, Content and More",
+      "summary": "United Talent Agency has signed Grammy-nominated artist and creator Alex Warren for global representation across film, television, content creation, podcasting, publishing, brand partnerships, and mor",
+      "company": "Alex Warren Signs With UTA",
+      "link": "https://variety.com/2026/music/news/alex-warren-signs-with-uta-1236737771/",
+      "date": "May 05, 26",
+      "source": "Variety Music",
+      "layer": 4,
       "access": "pe",
-      "score": 11,
+      "score": 19,
       "moments": []
     },
     {
-      "id": "bc1beae3c080",
-      "title": "US Footwear Industry Delivers Modest First-Quarter Growth Driven by Price Increases and Strength in Performance Segment, Circana Reports",
-      "summary": "CHICAGO, IL, May 04, 2026 (GLOBE NEWSWIRE) -- The U.S. footwear industry posted soft dollar growth in the first quarter (Q1) of 2026, with total sales increasing by +1%, versus the same period last ye",
-      "company": "",
-      "link": "https://www.globenewswire.com/news-release/2026/05/04/3286860/0/en/US-Footwear-Industry-Delivers-Modest-First-Quarter-Growth-Driven-by-Price-Increases-and-Strength-in-Performance-Segment-Circana-Reports.html",
-      "date": "May 04, 26",
-      "source": "GlobeNewsWire Deals",
+      "id": "dd57533936cb",
+      "title": "Live Nation Posts Overall Growth in First Quarter Despite $450 Million Hit Due to Department of Justice Settlement and Litigation",
+      "summary": "Live Nation posted overall growth in its first quarter of the year with $3.79 billion in revenue despite taking a $450 million hit due to the legal costs associated with its Department of Justice sett",
+      "company": "Live Nation Posts Overall Growth",
+      "link": "https://variety.com/2026/music/news/live-nation-first-quarter-earnings-450-million-hit-doj-suit-1236738569/",
+      "date": "May 05, 26",
+      "source": "Variety Music",
       "layer": 2,
-      "access": "pe",
-      "score": 10,
+      "access": "public",
+      "score": 15,
       "moments": []
     },
     {
-      "id": "d5ab954e4aab",
-      "title": "Maximize Every Square Foot: Using Digital Authority to Win High-Value Venue Bookings",
-      "summary": "Source: ChatGPT Event organizers often struggle to secure premium venue bookings even when their content or services are strong. Limited visibility, unclear reputation, and weak online authority can r",
-      "company": "Maximize Every Square Foot",
-      "link": "https://venuestoday.com/maximize-every-square-foot-using-digital-authority-to-win-high-value-venue-bookings/?utm_source=rss&utm_medium=rss&utm_campaign=maximize-every-square-foot-using-digital-authority-to-win-high-value-venue-bookings",
-      "date": "Mar 04, 26",
-      "source": "Venues Today",
+      "id": "244861250410",
+      "title": "Sphere Revenue Jumps as \u2018Wizard of Oz\u2019 Ticket Sales Near 3 Million",
+      "summary": "Sphere Entertainment reported a sharp increase in first-quarter revenue Tuesday, as its Las Vegas venue business was driven by The... The post Sphere Revenue Jumps as \u2018Wizard of Oz\u2019 Ticket Sales Near ",
+      "company": "Sphere Revenue Jumps",
+      "link": "https://www.ticketnews.com/2026/05/sphere-revenue-jumps-as-wizard-of-oz-ticket-sales-near-3-million/",
+      "date": "May 05, 26",
+      "source": "Ticket News",
       "layer": 2,
       "access": "pe",
-      "score": 10,
+      "score": 15,
       "moments": []
     },
     {
@@ -435,6 +437,32 @@
       "moments": []
     },
     {
+      "id": "481f8dd08dde",
+      "title": "Live Nation Says Ticketmaster Is \u201cProtected Party,\u201d Not Violator, in FTC BOTS Act Case",
+      "summary": "Live Nation and Ticketmaster are attempting to turn a ruling in the FTC&#8217;s lawsuit against a Maryland ticket broker into... The post Live Nation Says Ticketmaster Is \u201cProtected Party,\u201d Not Violat",
+      "company": "Live Nation Says Ticketmaster Is \u201cProtected",
+      "link": "https://www.ticketnews.com/2026/05/live-nation-says-ticketmaster-is-protected-party-not-violator-in-ftc-bots-act-case/",
+      "date": "May 05, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 9,
+      "moments": []
+    },
+    {
+      "id": "2969d0fa19e8",
+      "title": "New Mountain BDC benfits from dislocation strategy as discounted debt trades rebound",
+      "summary": "A private credit vehicle managed by New Mountain Capital is highlighting early gains from a dislocation-driven investment strategy, after purchasing discounted loans in the secondary market and seeing",
+      "company": "New Mountain BDC",
+      "link": "https://www.privateequitywire.co.uk/new-mountain-bdc-benfits-from-dislocation-strategy-as-discounted-debt-trades-rebound/",
+      "date": "May 06, 26",
+      "source": "PE Wire",
+      "layer": 3,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
       "id": "ea3f022fc27e",
       "title": "Finance Complaint List Warns of a 500% Surge in AI-Powered Deepfake Crypto Scams Driven by Celebrity Impersonations",
       "summary": "Globally people are losing millions in minutes as hyper-realistic videos, fake news broadcasts, and live executive impersonations turn artificial intelligence into the most dangerous fraud weapon of 2",
@@ -445,6 +473,32 @@
       "layer": 3,
       "access": "pe",
       "score": 5,
+      "moments": []
+    },
+    {
+      "id": "de936265cbf4",
+      "title": "Grant Horvat Among YouTube Golf Stars Joining Wasserman\u2019s Firm",
+      "summary": "Golf creators Grant Horvat and the Bryan Brothers land major sports representation deals.",
+      "company": "Grant Horvat Among YouTube Golf Stars",
+      "link": "https://frontofficesports.com/grant-horvat-among-youtube-golf-stars-joining-wassermans-firm/",
+      "date": "May 06, 26",
+      "source": "Front Office Sports",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "86f65a0a37c5",
+      "title": "Revenge, Served Two Ways: Cold in \u2018Othello\u2019 and Lukewarm in \u2018Hamlet\u2019",
+      "summary": "Shakespeare\u2019s brooding prince comes off as bored at the Brooklyn Academy of Music. But Bedlam\u2019s lean production of \u201cOthello\u201d is positively thrilling.",
+      "company": "Revenge Served Two Ways: Cold",
+      "link": "https://www.nytimes.com/2026/05/06/theater/othello-bedlam-hamlet-bam.html",
+      "date": "May 06, 26",
+      "source": "NYT Arts",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
       "moments": []
     }
   ]
