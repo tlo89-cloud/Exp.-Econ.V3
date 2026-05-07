@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-06T14:26:50.084206+00:00",
-  "total": 34,
+  "generated": "2026-05-07T14:26:49.353483+00:00",
+  "total": 33,
   "scraped": [
     {
       "id": "fb8a71184758",
@@ -12,6 +12,22 @@
       "source": "Crunchbase News",
       "layer": 2,
       "access": "venture",
+      "score": 22,
+      "moments": [
+        "funding_round",
+        "valuation"
+      ]
+    },
+    {
+      "id": "6c9ddf5a27d2",
+      "title": "China\u2019s Moonshot AI raises $2B at $20B valuation as demand for open-source AI skyrockets",
+      "summary": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
+      "company": "China\u2019s Moonshot AI",
+      "link": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+      "date": "May 07, 26",
+      "source": "TechCrunch Startups",
+      "layer": 2,
+      "access": "pe",
       "score": 22,
       "moments": [
         "funding_round",
@@ -35,6 +51,38 @@
       ]
     },
     {
+      "id": "88fac907f400",
+      "title": "Baird Capital raises $450m continuation fund for 2020 investment Blue Matter Consulting",
+      "summary": "Baird Capital has closed a $450m continuation fund for life sciences-focused Blue Matter Consulting, which it initially backed in 2020. The post Baird Capital raises $450m continuation fund for 2020 i",
+      "company": "Baird Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208284.html",
+      "date": "May 07, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 19,
+      "moments": [
+        "funding_round",
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "d1cacec4335b",
+      "title": "Apis Partners more than doubles Fund II total with $1.23bn close of third fund series",
+      "summary": "Financial infrastructure and services investor Apis Partners has pulled in $1.23bn of commitments to close its third fund series - more tha double the total it gathered for Fund II. The post Apis Part",
+      "company": "Apis Partners",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/100208296.html",
+      "date": "May 07, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
       "id": "97e456795996",
       "title": "Bridge Growth Partners closes $790m CV for 2016 investment Solace",
       "summary": "Tech investor Bridge Growth Partners has closed a $790m single-asset continuation fund for Solace, a real-time data and agentic AI platform it initially backed a decade ago. The post Bridge Growth Par",
@@ -51,35 +99,35 @@
       ]
     },
     {
-      "id": "b9ab478954dd",
-      "title": "Justin Bieber Has the Most Monthly Spotify Listeners After Coachella Streaming Surge",
-      "summary": "According to new data shared with Rolling Stone, the pop star has amassed over 140 million listeners in the weeks since his two headlining sets",
-      "company": "Justin Bieber Has",
-      "link": "https://www.rollingstone.com/music/music-news/justin-biebers-spotify-monthly-listeners-coachella-1235557948/",
-      "date": "May 05, 26",
-      "source": "Rolling Stone Music",
-      "layer": 1,
+      "id": "f1ad95ff1309",
+      "title": "Berkshire-backed Specialized Elevator and Wyatt Elevator merge",
+      "summary": "Specialized Elevator was founded in 1997 and Wyatt was founded in 2012. The post Berkshire-backed Specialized Elevator and Wyatt Elevator merge appeared first on PE Hub.",
+      "company": "Berkshire-backed Specialized Elevator",
+      "link": "https://www.pehub.com/berkshire-backed-specialized-elevator-and-wyatt-elevator-merge/",
+      "date": "May 07, 26",
+      "source": "PE Hub",
+      "layer": 5,
       "access": "pe",
-      "score": 15,
+      "score": 13,
       "moments": [
-        "festival_headliner",
-        "streaming_milestone"
+        "acquisition",
+        "company_launch"
       ]
     },
     {
-      "id": "b61264efcde8",
-      "title": "\u2018It kicks ass\u2019: Rolling Stones launch new album at star-studded New York event",
-      "summary": "Mick Jagger, Keith Richards and Ronnie Wood join Conan O\u2019Brien to discuss forthcoming album Foreign TonguesOn Tuesday afternoon in New York, the Rolling Stones gathered friends, journalists and fellow",
-      "company": "\u2018It",
-      "link": "https://www.theguardian.com/music/2026/may/05/rolling-stones-foreign-tongues-album-new-york",
-      "date": "May 05, 26",
-      "source": "Guardian Music",
-      "layer": 1,
+      "id": "808dfb3111cd",
+      "title": "5th Century Partners closes oversubscribed $276m Fund II, almost double debut fund total",
+      "summary": "5th Century Partners, a lower mid-market investor launched by former Vistria Group and Clarion Capital Partners execs, has hit a $276m final close for its sophomore fund. The post 5th Century Partners",
+      "company": "Century Partners",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/5th-century-partners-closes-oversubscribed-276m-fund-ii-almost-double-debut-fund-total.html",
+      "date": "May 07, 26",
+      "source": "AltAssets",
+      "layer": 5,
       "access": "pe",
-      "score": 15,
+      "score": 13,
       "moments": [
-        "album_announcement",
-        "surprise_appearance"
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
@@ -162,6 +210,36 @@
       ]
     },
     {
+      "id": "5f7d84a0a8e7",
+      "title": "Strummingbird 2026 Announces Post Malone As Headliner For Three-Date Australian Run",
+      "summary": "Strummingbird is flying back into Australia in 2026, and it has landed one massive headliner. The touring country festival has... The post Strummingbird 2026 Announces Post Malone As Headliner For Thr",
+      "company": "Strummingbird",
+      "link": "https://www.ticketnews.com/2026/05/strummingbird-2026-post-malone-headliner/",
+      "date": "May 06, 26",
+      "source": "Ticket News",
+      "layer": 1,
+      "access": "pe",
+      "score": 22,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "ca3140508eb7",
+      "title": "Sporticast: Duke, Amazon Test the Edges of College Media Rights",
+      "summary": "On the 550th Sporticast episode, hosts Eben Novy-Williams and Jacob Feldman are joined by colleague Lev Akabas to discuss a number of current sports business topics, including the backlash to Duke&#82",
+      "company": "Sporticast",
+      "link": "https://www.sportico.com/podcasts/sporticast/2026/duke-amazon-college-basketball-rights-sporticast-podcast-1234892017/",
+      "date": "May 07, 26",
+      "source": "Sportico",
+      "layer": 1,
+      "access": "pe",
+      "score": 19,
+      "moments": [
+        "rights_deal"
+      ]
+    },
+    {
       "id": "2fcce7d3d781",
       "title": "Burna Boy, Wizkid, Tyla and more took African pop global. So why don\u2019t they tour Africa itself?",
       "summary": "Due to many obstacles \u2013 from security to air fares \u2013 local fans lose out as African artists tour overseas instead. But as western corporations invest, there are more worries besidesWhen a major Africa",
@@ -174,21 +252,6 @@
       "score": 19,
       "moments": [
         "festival_headliner"
-      ]
-    },
-    {
-      "id": "d4b0fa474a9f",
-      "title": "Sphere Beats Earnings Forecast, Stock Reaches All-Time High",
-      "summary": "Sphere Entertainment\u2019s first-quarter revenue and earnings smashed Wall Street expectations on Tuesday, powering the stock to an all-time high price north of $147 before receding, finishing the day at ",
-      "company": "Sphere Beats Earnings Forecast Stock Reaches",
-      "link": "https://www.sportico.com/business/finance/2026/sphere-beats-earnings-forecast-high-stock-1234891889/",
-      "date": "May 05, 26",
-      "source": "Sportico",
-      "layer": 2,
-      "access": "public",
-      "score": 16,
-      "moments": [
-        "record_breaking"
       ]
     },
     {
@@ -222,21 +285,6 @@
       ]
     },
     {
-      "id": "e482915639d2",
-      "title": "8 Things We Learned at the Rolling Stones Album Release Party With Conan O\u2019Brien",
-      "summary": "Mick Jagger de-aged himself for a video with Odessa A'zion, the Stones made the album in just one month, four of the songs are from older sessions, and there's not even a hint of a tour",
-      "company": "Things We Learned",
-      "link": "https://www.rollingstone.com/music/music-features/rolling-stones-album-conan-obrien-things-learned-1235558323/",
-      "date": "May 06, 26",
-      "source": "Rolling Stone Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
       "id": "66db92afdfc7",
       "title": "Katie Haun raises $1B for new venture funds",
       "summary": "Katie Haun announced on Monday that $1 billion has been raised across new funds to continue the firm\u2019s thesis of backing crypto and blockchain startups.",
@@ -267,78 +315,48 @@
       ]
     },
     {
-      "id": "31d1767d8ae7",
-      "title": "Paramount Projects \u2018Significantly\u2019 Lower Theatrical Revenue Overall in 2026 Despite More Titles; CEO David Ellison Reiterates Plan for 30-Film Annual...",
-      "summary": "Paramount Skydance has nearly doubled its theatrical-film slate in 2026 &#8212; but it will see &#8220;significantly&#8221; lower box office revenue overall from those movies, according to the company",
-      "company": "",
-      "link": "https://variety.com/2026/film/news/paramount-theatrical-revenue-2026-david-ellison-30-films-warner-bros-1236737048/",
-      "date": "May 04, 26",
-      "source": "Variety Biz",
+      "id": "9c0a3b7c117f",
+      "title": "How Elon grew to love Anthropic",
+      "summary": "Elon Musk's surprise Anthropic deal allows him to accomplish two things at once: turn unused compute into revenue before an expected SpaceX IPO next month \u2014 and stick it to his archrival, Sam Altman.W",
+      "company": "How Elon",
+      "link": "https://www.axios.com/2026/05/07/musk-anthropic-compute-spacex-ai",
+      "date": "May 07, 26",
+      "source": "Axios",
       "layer": 2,
       "access": "pe",
-      "score": 12,
+      "score": 15,
       "moments": [
-        "acquisition"
+        "ipo"
       ]
     },
     {
-      "id": "59ff0497818b",
-      "title": "Pantheon leads $1bn private debt continuation fund for Audax portfolio",
-      "summary": "Audax Private Debt has closed a $1bn private credit continuation fund led by fellow alternative investment major Pantheon. The post Pantheon leads $1bn private debt continuation fund for Audax portfol",
-      "company": "Pantheon",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208243.html",
-      "date": "May 05, 26",
-      "source": "AltAssets",
-      "layer": 5,
+      "id": "2fd7bb1b55a5",
+      "title": "Bundesliga\u2019s investment strategy: Three stripes and you\u2019re in",
+      "summary": "This week on The SportBusiness Podcast, co-hosts Jonathan Rest and Martin Ross analyse the industry\u2019s heavy-hitting stories, go deep on a football media rights deal with lessons for the wider market a",
+      "company": "Bundesliga\u2019s",
+      "link": "https://www.sportbusiness.com/2026/05/bundesligas-investment-strategy-three-stripes-and-youre-in/?utm_source=rss&utm_medium=rss&utm_campaign=bundesligas-investment-strategy-three-stripes-and-youre-in",
+      "date": "May 01, 26",
+      "source": "Sport Business",
+      "layer": 1,
       "access": "pe",
-      "score": 12,
+      "score": 15,
       "moments": [
-        "pe_investment"
+        "rights_deal"
       ]
     },
     {
-      "id": "4497039cb60b",
-      "title": "New Mexico SIC backs newly launched TAG Capital fund, will make infra investments in state",
-      "summary": "Tierra Adentro Growth Capital, a newly-launched investor targeting the New Mexico region of the US, has announced its debut fund. The post New Mexico SIC backs newly launched TAG Capital fund, will ma",
-      "company": "New Mexico SIC backs newly",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/new-mexico-sic-backs-newly-launched-tag-capital-fund-will-make-infra-investments-in-state.html",
-      "date": "May 05, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "b6518297cd4f",
-      "title": "Jennie announced as headliner of Open\u2019er 2026",
-      "summary": "The BLACKPINK member will take to the stage on July 4 The post Jennie announced as headliner of Open&#8217;er 2026 appeared first on NME.",
-      "company": "Jennie",
-      "link": "https://www.nme.com/news/music/jennie-announced-as-headliner-of-opener-2026-3944247?utm_source=rss&utm_medium=rss&utm_campaign=jennie-announced-as-headliner-of-opener-2026",
+      "id": "aee85b6cff95",
+      "title": "Underoath to Stop at Independent Venues on \u2018The Van Tour to Vans Warped Tour\u2019",
+      "summary": "Underoath is crossing the country this summer for a round of tour dates at independent music venues in-between their appearances... The post Underoath to Stop at Independent Venues on &#8216;The Van T",
+      "company": "Underoath",
+      "link": "https://www.ticketnews.com/2026/05/underoath-independent-venues-the-van-tour-to-vans-warped-tour/",
       "date": "May 06, 26",
-      "source": "NME",
-      "layer": 5,
+      "source": "Ticket News",
+      "layer": 2,
       "access": "pe",
-      "score": 9,
+      "score": 14,
       "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "ecd11adb019f",
-      "title": "Intertek considers EQT\u2019s $12bn sweetened bid",
-      "summary": "UK testing and compliance group Intertek is evaluating a revised takeover proposal from Swedish private equity firm EQT, in a deal that would value the company at approximately \u00a38.9bn ($12bn), accordi",
-      "company": "Intertek",
-      "link": "https://www.privateequitywire.co.uk/intertek-considers-eqts-12bn-sweetened-bid/",
-      "date": "May 06, 26",
-      "source": "PE Wire",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "pe_investment"
+        "tour_announcement"
       ]
     },
     {
@@ -385,19 +403,6 @@
       "moments": []
     },
     {
-      "id": "9d4682ff6d02",
-      "title": "Alex Warren Signs With UTA for Film, TV, Content and More",
-      "summary": "United Talent Agency has signed Grammy-nominated artist and creator Alex Warren for global representation across film, television, content creation, podcasting, publishing, brand partnerships, and mor",
-      "company": "Alex Warren Signs With UTA",
-      "link": "https://variety.com/2026/music/news/alex-warren-signs-with-uta-1236737771/",
-      "date": "May 05, 26",
-      "source": "Variety Music",
-      "layer": 4,
-      "access": "pe",
-      "score": 19,
-      "moments": []
-    },
-    {
       "id": "dd57533936cb",
       "title": "Live Nation Posts Overall Growth in First Quarter Despite $450 Million Hit Due to Department of Justice Settlement and Litigation",
       "summary": "Live Nation posted overall growth in its first quarter of the year with $3.79 billion in revenue despite taking a $450 million hit due to the legal costs associated with its Department of Justice sett",
@@ -411,52 +416,39 @@
       "moments": []
     },
     {
-      "id": "244861250410",
-      "title": "Sphere Revenue Jumps as \u2018Wizard of Oz\u2019 Ticket Sales Near 3 Million",
-      "summary": "Sphere Entertainment reported a sharp increase in first-quarter revenue Tuesday, as its Las Vegas venue business was driven by The... The post Sphere Revenue Jumps as \u2018Wizard of Oz\u2019 Ticket Sales Near ",
-      "company": "Sphere Revenue Jumps",
-      "link": "https://www.ticketnews.com/2026/05/sphere-revenue-jumps-as-wizard-of-oz-ticket-sales-near-3-million/",
-      "date": "May 05, 26",
-      "source": "Ticket News",
-      "layer": 2,
-      "access": "pe",
-      "score": 15,
-      "moments": []
-    },
-    {
-      "id": "c2e8db8d5988",
-      "title": "U.K. Crew Union Leads \u2018Broken Turnaround\u2019 Protest Outside Netflix, Amazon and Disney\u2019s London Offices: \u2018Our Members Have Reached Breaking Point\u2019...",
-      "summary": "U.K. crew union Bectu has staged a protest outside the London offices of some of the world&#8217;s biggest production companies and broadcasters, including Netflix, Amazon and Disney, over what they c",
-      "company": "U.K Crew Union Leads \u2018Broken Turnaround\u2019",
-      "link": "https://variety.com/2026/biz/global/bectu-broken-turnaround-campaign-protest-uk-1236737958/",
-      "date": "May 05, 26",
-      "source": "Variety Biz",
-      "layer": 3,
-      "access": "pe",
-      "score": 9,
-      "moments": []
-    },
-    {
-      "id": "481f8dd08dde",
-      "title": "Live Nation Says Ticketmaster Is \u201cProtected Party,\u201d Not Violator, in FTC BOTS Act Case",
-      "summary": "Live Nation and Ticketmaster are attempting to turn a ruling in the FTC&#8217;s lawsuit against a Maryland ticket broker into... The post Live Nation Says Ticketmaster Is \u201cProtected Party,\u201d Not Violat",
-      "company": "Live Nation Says Ticketmaster Is \u201cProtected",
-      "link": "https://www.ticketnews.com/2026/05/live-nation-says-ticketmaster-is-protected-party-not-violator-in-ftc-bots-act-case/",
-      "date": "May 05, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 9,
-      "moments": []
-    },
-    {
-      "id": "2969d0fa19e8",
-      "title": "New Mountain BDC benfits from dislocation strategy as discounted debt trades rebound",
-      "summary": "A private credit vehicle managed by New Mountain Capital is highlighting early gains from a dislocation-driven investment strategy, after purchasing discounted loans in the secondary market and seeing",
-      "company": "New Mountain BDC",
-      "link": "https://www.privateequitywire.co.uk/new-mountain-bdc-benfits-from-dislocation-strategy-as-discounted-debt-trades-rebound/",
+      "id": "48427e6ede6c",
+      "title": "Formula 1, Sky Extend Broadcast Partnership Into Next Decade",
+      "summary": "Formula 1 has renewed its long-running broadcast partnership with Sky, securing exclusive live coverage across the UK, Ireland and Italy... The post Formula 1, Sky Extend Broadcast Partnership Into Ne",
+      "company": "Formula",
+      "link": "https://www.ticketnews.com/2026/05/formula-1-sky-extend-broadcast-partnership-next-decade/",
       "date": "May 06, 26",
-      "source": "PE Wire",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 10,
+      "moments": []
+    },
+    {
+      "id": "fc1bb060090f",
+      "title": "AEG Presents Names Jonathan Lee Managing Director of Korea Office",
+      "summary": "AEG Presents has appointed Jonathan Lee as Managing Director of its Korea office, strengthening the global promoter\u2019s push into one... The post AEG Presents Names Jonathan Lee Managing Director of Kor",
+      "company": "AEG Presents Names Jonathan Lee Managing",
+      "link": "https://www.ticketnews.com/2026/05/aeg-presents-jonathan-lee-managing-director-seoul/",
+      "date": "May 06, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 8,
+      "moments": []
+    },
+    {
+      "id": "9ddebcdcb5ee",
+      "title": "Media CEO Pay 2025: How David Zaslav, Bob Iger, Ted Sarandos and Other Moguls Made Bank as Hollywood Struggled",
+      "summary": "Warner Bros. Discovery shareholders sent a clear message to David Zaslav last month: Greed isn\u2019t good.&#160; On April 23, they approved a plan to sell the company to Paramount for $110.9 billion, whil",
+      "company": "Media CEO Pay 2025",
+      "link": "https://variety.com/lists/media-pay-packages-bob-iger-sarandos-zaslav-salaries/",
+      "date": "May 06, 26",
+      "source": "Variety Biz",
       "layer": 3,
       "access": "pe",
       "score": 5,
@@ -476,8 +468,8 @@
       "moments": []
     },
     {
-      "id": "de936265cbf4",
-      "title": "Grant Horvat Among YouTube Golf Stars Joining Wasserman\u2019s Firm",
+      "id": "c1f3d3a751ef",
+      "title": "Grant Horvat Among YouTube Golf Stars Joining Wasserman\u2019s The Team",
       "summary": "Golf creators Grant Horvat and the Bryan Brothers land major sports representation deals.",
       "company": "Grant Horvat Among YouTube Golf Stars",
       "link": "https://frontofficesports.com/grant-horvat-among-youtube-golf-stars-joining-wassermans-firm/",
