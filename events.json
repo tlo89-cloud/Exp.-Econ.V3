@@ -1,7 +1,41 @@
 {
-  "generated": "2026-05-07T14:26:49.353483+00:00",
-  "total": 33,
+  "generated": "2026-05-08T14:02:04.607179+00:00",
+  "total": 36,
   "scraped": [
+    {
+      "id": "3e93af688b9e",
+      "title": "AI-powered VC investor Global Millennial Capital raises $100m for new fund",
+      "summary": "Venture capital investor Global Millennial Capital has pulled in $100m for its first IPO Opportunities Fund, five times the total it collected for its debut fund two years ago. The post AI-powered VC ",
+      "company": "AI-powered VC",
+      "link": "https://www.altassets.net/private-equity-news/by-region/middle-east-and-israel-by-region/middle-east-middle-east-and-israel-by-region/ai-powered-vc-investor-global-millennial-capital-raises-100m-for-new-fund.html",
+      "date": "May 08, 26",
+      "source": "AltAssets",
+      "layer": 1,
+      "access": "pe",
+      "score": 32,
+      "moments": [
+        "funding_round",
+        "ipo",
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "29119f2b38fa",
+      "title": "The Hottest Job in Sports: A WNBA Front Office Role",
+      "summary": "The WNBA\u2019s lucrative, long-term media rights are inked. The historic collective bargaining agreement between owners and players is complete. Team valuations are at an all-time high. The league enters ",
+      "company": "The Hottest Job in Sports",
+      "link": "https://www.sportico.com/leagues/basketball/2026/sports-jobs-wnba-front-office-boom-1234892308/",
+      "date": "May 08, 26",
+      "source": "Sportico",
+      "layer": 1,
+      "access": "pe",
+      "score": 22,
+      "moments": [
+        "rights_deal",
+        "record_breaking"
+      ]
+    },
     {
       "id": "fb8a71184758",
       "title": "Blitzy Raises $200M At $1.4B Valuation For Autonomous Software Development",
@@ -19,8 +53,8 @@
       ]
     },
     {
-      "id": "6c9ddf5a27d2",
-      "title": "China\u2019s Moonshot AI raises $2B at $20B valuation as demand for open-source AI skyrockets",
+      "id": "cc1ead114a7e",
+      "title": "China\u2019s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
       "summary": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
       "company": "China\u2019s Moonshot AI",
       "link": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
@@ -35,12 +69,12 @@
       ]
     },
     {
-      "id": "993cc4bea92b",
-      "title": "MidOcean seals $300m CV fund close for 2022 investment Cloyes Gear and Products",
-      "summary": "MidOcean Partners has closed a roughly $300m single-asset continuation vehicle for Cloyes Gear and Products, the automotive components maker it bought into in 2022. The post MidOcean seals $300m CV fu",
-      "company": "MidOcean",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208272.html",
-      "date": "May 06, 26",
+      "id": "9312f5f5880f",
+      "title": "Corbin Capital collects $342m for commercial litigation finance fund",
+      "summary": "Hedge fund and opportunistic credit investor Corbin Capital Partners has raised $342m for a new fund targeting commercial litigation funding. The post Corbin Capital collects $342m for commercial liti",
+      "company": "Corbin Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/corbin-capital-collects-342m-for-commercial-litigation-finance-fund.html",
+      "date": "May 08, 26",
       "source": "AltAssets",
       "layer": 1,
       "access": "pe",
@@ -67,6 +101,22 @@
       ]
     },
     {
+      "id": "f036bb37f535",
+      "title": "Siris Capital to triple its money with Equiniti sale; Remote healthcare demand pulls PE to telehealth",
+      "summary": "Return information from the expected sale of Equiniti, a Siris Capital Group portfolio company, with insights from Siris co-founder and managing partner Frank Baker; how rising demand for remote healt",
+      "company": "Siris Capital",
+      "link": "https://www.pehub.com/siris-capital-to-triple-its-money-with-equiniti-sale-remote-healthcare-demand-pulls-pe-to-telehealth/",
+      "date": "May 08, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "pe_investment",
+        "company_launch"
+      ]
+    },
+    {
       "id": "d1cacec4335b",
       "title": "Apis Partners more than doubles Fund II total with $1.23bn close of third fund series",
       "summary": "Financial infrastructure and services investor Apis Partners has pulled in $1.23bn of commitments to close its third fund series - more tha double the total it gathered for Fund II. The post Apis Part",
@@ -83,35 +133,19 @@
       ]
     },
     {
-      "id": "97e456795996",
-      "title": "Bridge Growth Partners closes $790m CV for 2016 investment Solace",
-      "summary": "Tech investor Bridge Growth Partners has closed a $790m single-asset continuation fund for Solace, a real-time data and agentic AI platform it initially backed a decade ago. The post Bridge Growth Par",
-      "company": "Bridge Growth Partners",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208262.html",
-      "date": "May 06, 26",
+      "id": "0cecf4eaf4ef",
+      "title": "S3 Capital collects $1.3bn of investable capital in new construction lending fundraise",
+      "summary": "Private construction lending specialist S3 Capital has raised about $1.3bn of investable capital through a hard cap close of its latest fund. The post S3 Capital collects $1.3bn of investable capital ",
+      "company": "S3 Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/s3-capital-collects-1-3bn-of-investable-capital-in-new-construction-lending-fundraise.html",
+      "date": "May 08, 26",
       "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "f1ad95ff1309",
-      "title": "Berkshire-backed Specialized Elevator and Wyatt Elevator merge",
-      "summary": "Specialized Elevator was founded in 1997 and Wyatt was founded in 2012. The post Berkshire-backed Specialized Elevator and Wyatt Elevator merge appeared first on PE Hub.",
-      "company": "Berkshire-backed Specialized Elevator",
-      "link": "https://www.pehub.com/berkshire-backed-specialized-elevator-and-wyatt-elevator-merge/",
-      "date": "May 07, 26",
-      "source": "PE Hub",
       "layer": 5,
       "access": "pe",
       "score": 13,
       "moments": [
-        "acquisition",
-        "company_launch"
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
@@ -147,38 +181,6 @@
       ]
     },
     {
-      "id": "8ac6508ef736",
-      "title": "Deviation Capital spins out from Two Sigma, launches with about $2bn of AUM",
-      "summary": "Early-stage venture capital investor Deviation Capital has launched as a newly independent firm with $2bn of AUM through a spinout from Two Sigma Ventures. The post Deviation Capital spins out from Tw",
-      "company": "Deviation Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/deviation-capital-spins-out-from-two-sigma-launches-with-about-2bn-of-aum.html",
-      "date": "May 06, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "company_launch"
-      ]
-    },
-    {
-      "id": "1f282a8a2629",
-      "title": "THL Partners picks up $6.35bn at final close of tenth flagship fundraise",
-      "summary": "THL Partners has secured $6.35bn of investable capital through its tenth flagship fundraise, up 13% compared to its 2021 predecessor vehicle. The post THL Partners picks up $6.35bn at final close of t",
-      "company": "THL Partners",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208248.html",
-      "date": "May 05, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
       "id": "8810db8e8600",
       "title": "Alexis Smith of The Feminine Glow Emerges at the Center of the Feminine Energy Coaching Boom",
       "summary": "DUBAI, UAE &#8211; &#160;The Feminine Glow, the fast-growing femininity and inner work platform founded by Alexis Smith, is gaining national attention as interest in coaching, self-development, and fe",
@@ -192,6 +194,21 @@
       "moments": [
         "acquisition",
         "company_launch"
+      ]
+    },
+    {
+      "id": "e0b93f3f1db1",
+      "title": "Sony Music Group Yearly Revenues Top $13 Billion on Success of Streaming, Bad Bunny Album Releases",
+      "summary": "Sony Music reported sales for its fiscal year were up 15% and up 21% in the final fiscal quarter compared to the year-ago periods.",
+      "company": "Sony Music Group Yearly Revenues Top",
+      "link": "https://www.billboard.com/pro/sony-music-group-yearly-revenues-fiscal-25-26/",
+      "date": "May 08, 26",
+      "source": "Billboard",
+      "layer": 1,
+      "access": "pe",
+      "score": 25,
+      "moments": [
+        "album_announcement"
       ]
     },
     {
@@ -210,63 +227,18 @@
       ]
     },
     {
-      "id": "5f7d84a0a8e7",
-      "title": "Strummingbird 2026 Announces Post Malone As Headliner For Three-Date Australian Run",
-      "summary": "Strummingbird is flying back into Australia in 2026, and it has landed one massive headliner. The touring country festival has... The post Strummingbird 2026 Announces Post Malone As Headliner For Thr",
-      "company": "Strummingbird",
-      "link": "https://www.ticketnews.com/2026/05/strummingbird-2026-post-malone-headliner/",
-      "date": "May 06, 26",
-      "source": "Ticket News",
-      "layer": 1,
-      "access": "pe",
-      "score": 22,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "ca3140508eb7",
-      "title": "Sporticast: Duke, Amazon Test the Edges of College Media Rights",
-      "summary": "On the 550th Sporticast episode, hosts Eben Novy-Williams and Jacob Feldman are joined by colleague Lev Akabas to discuss a number of current sports business topics, including the backlash to Duke&#82",
-      "company": "Sporticast",
-      "link": "https://www.sportico.com/podcasts/sporticast/2026/duke-amazon-college-basketball-rights-sporticast-podcast-1234892017/",
+      "id": "02843f06ecd4",
+      "title": "Players Era Unveils ESPN Rev-Share Partnership, 24 (Not 32) Teams in \u201926",
+      "summary": "Players Era, the Las Vegas-based college basketball multi-team event (MTE), announced Thursday that it has secured a multiyear broadcasting partnership with ESPN for its upcoming tournaments. The even",
+      "company": "",
+      "link": "https://www.sportico.com/leagues/college-sports/2026/players-era-espn-partnership-1234892216/",
       "date": "May 07, 26",
       "source": "Sportico",
-      "layer": 1,
+      "layer": 3,
       "access": "pe",
-      "score": 19,
+      "score": 20,
       "moments": [
         "rights_deal"
-      ]
-    },
-    {
-      "id": "2fcce7d3d781",
-      "title": "Burna Boy, Wizkid, Tyla and more took African pop global. So why don\u2019t they tour Africa itself?",
-      "summary": "Due to many obstacles \u2013 from security to air fares \u2013 local fans lose out as African artists tour overseas instead. But as western corporations invest, there are more worries besidesWhen a major Africa",
-      "company": "Burna Boy Wizkid Tyla",
-      "link": "https://www.theguardian.com/music/2026/may/06/afrobeats-stars-africa-venues-burna-boy-wizkid-tems-tyla",
-      "date": "May 06, 26",
-      "source": "Guardian Music",
-      "layer": 2,
-      "access": "pe",
-      "score": 19,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "2e95ba01e5f9",
-      "title": "Post Malone closes Stagecoach with style if not excitement",
-      "summary": "The singer headlined the festival's final night almost exactly a year after closing out Coachella's 2025 edition.",
-      "company": "Post Malone",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-04-27/stagecoach-2026-post-malone-review",
-      "date": "Apr 27, 26",
-      "source": "LA Times Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "festival_headliner"
       ]
     },
     {
@@ -285,21 +257,6 @@
       ]
     },
     {
-      "id": "66db92afdfc7",
-      "title": "Katie Haun raises $1B for new venture funds",
-      "summary": "Katie Haun announced on Monday that $1 billion has been raised across new funds to continue the firm\u2019s thesis of backing crypto and blockchain startups.",
-      "company": "Katie Haun",
-      "link": "https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/",
-      "date": "May 04, 26",
-      "source": "TechCrunch Startups",
-      "layer": 1,
-      "access": "venture",
-      "score": 15,
-      "moments": [
-        "funding_round"
-      ]
-    },
-    {
       "id": "3cfede08b6ee",
       "title": "As crypto cools, a16z crypto raises a $2.2B fund",
       "summary": "As some of the biggest VCs in crypto start to consider funding AI startups, a16z crypto's new fund will stay the course.",
@@ -315,9 +272,24 @@
       ]
     },
     {
+      "id": "66db92afdfc7",
+      "title": "Katie Haun raises $1B for new venture funds",
+      "summary": "Katie Haun announced on Monday that $1 billion has been raised across new funds to continue the firm\u2019s thesis of backing crypto and blockchain startups.",
+      "company": "Katie Haun",
+      "link": "https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/",
+      "date": "May 04, 26",
+      "source": "TechCrunch Venture",
+      "layer": 1,
+      "access": "venture",
+      "score": 15,
+      "moments": [
+        "funding_round"
+      ]
+    },
+    {
       "id": "9c0a3b7c117f",
       "title": "How Elon grew to love Anthropic",
-      "summary": "Elon Musk's surprise Anthropic deal allows him to accomplish two things at once: turn unused compute into revenue before an expected SpaceX IPO next month \u2014 and stick it to his archrival, Sam Altman.W",
+      "summary": "Elon Musk's surprise Anthropic deal allows him to accomplish two things at once: turn unused compute into revenue before an expected SpaceX IPO next month \u2014 and stick it to his archrival, OpenAI CEO S",
       "company": "How Elon",
       "link": "https://www.axios.com/2026/05/07/musk-anthropic-compute-spacex-ai",
       "date": "May 07, 26",
@@ -345,18 +317,78 @@
       ]
     },
     {
-      "id": "aee85b6cff95",
-      "title": "Underoath to Stop at Independent Venues on \u2018The Van Tour to Vans Warped Tour\u2019",
-      "summary": "Underoath is crossing the country this summer for a round of tour dates at independent music venues in-between their appearances... The post Underoath to Stop at Independent Venues on &#8216;The Van T",
-      "company": "Underoath",
-      "link": "https://www.ticketnews.com/2026/05/underoath-independent-venues-the-van-tour-to-vans-warped-tour/",
+      "id": "bffee0c02823",
+      "title": "New England Realty Associates LP Announces Second-Quarter Distribution on Class A Units and Depositary Receipts",
+      "summary": "ALLSTON, Mass., May 8, 2026 /PRNewswire/ -- On June 30, 2026, New England Realty Associates Limited Partnership (NYSE MKT: NEN) will make its quarterly distribution to its Class A Limited Partners and",
+      "company": "New England Realty Associates LP Announces",
+      "link": "https://www.prnewswire.com/news-releases/new-england-realty-associates-lp-announces-second-quarter-distribution-on-class-a-units-and-depositary-receipts-302766972.html",
+      "date": "May 08, 26",
+      "source": "PR Newswire",
+      "layer": 5,
+      "access": "public",
+      "score": 12,
+      "moments": [
+        "lp_commitment"
+      ]
+    },
+    {
+      "id": "5901bd9c97b3",
+      "title": "Liz Phair, Sleater-Kinney Unveil Co-Headlining Tour",
+      "summary": "Rockers Liz Phair and Sleater-Kinney are teaming-up for a co-headlining run across the U.S. this fall. The tour, titled &#8220;The... The post Liz Phair, Sleater-Kinney Unveil Co-Headlining Tour appea",
+      "company": "",
+      "link": "https://www.ticketnews.com/2026/05/liz-phair-sleater-kinney-co-headlining-tour/",
       "date": "May 06, 26",
       "source": "Ticket News",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "df9dfdd3caf9",
+      "title": "Tournament Darling LIU Had a Thousand Ineligible Athletes, NCAA Says",
+      "summary": "LIU merged its Brooklyn and Long Island campuses in 2019.",
+      "company": "Tournament Darling LIU Had",
+      "link": "https://frontofficesports.com/tournament-darling-liu-had-a-thousand-ineligible-athletes-ncaa-says/",
+      "date": "May 07, 26",
+      "source": "Front Office Sports",
+      "layer": 4,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "acc1b4bb716b",
+      "title": "Can the ITTF bounce back from big losses?",
+      "summary": "This week on The SportBusiness Podcast, co-hosts Jonathan Rest and Martin Ross bring you analysis of this week\u2019s industry developments, big numbers and the context behind the headlines.",
+      "company": "Can",
+      "link": "https://www.sportbusiness.com/2026/05/can-the-ittf-bounce-back-from-big-losses/?utm_source=rss&utm_medium=rss&utm_campaign=can-the-ittf-bounce-back-from-big-losses",
+      "date": "May 08, 26",
+      "source": "Sport Business",
       "layer": 2,
       "access": "pe",
-      "score": 14,
+      "score": 9,
       "moments": [
-        "tour_announcement"
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "52fa94cfcc27",
+      "title": "Carlyle and Diversified Energy to acquire Andarko Basin oil assets from Camino for $1.2bn",
+      "summary": "The deal provides an additional 100 undeveloped inventory locations in an active development area, with Diversified owning in excess of 450 locations in Oklahoma. The post Carlyle and Diversified Ener",
+      "company": "Carlyle and Diversified Energy to",
+      "link": "https://www.pehub.com/carlyle-and-diversified-energy-to-acquire-andarko-basin-oil-assets-from-camino-for-1-2bn/",
+      "date": "May 07, 26",
+      "source": "PE Hub",
+      "layer": 2,
+      "access": "pe",
+      "score": 8,
+      "moments": [
+        "acquisition"
       ]
     },
     {
@@ -375,6 +407,21 @@
       ]
     },
     {
+      "id": "2170c0b36208",
+      "title": "Swanson: Blame the Clippers for creating this Thunder monster",
+      "summary": "When the Clippers tried to rebuild the team around Kawhi Leonard and Paul George, Oklahoma City not only acquired SGA but a host of draft picks that led to a powerhouse.",
+      "company": "Swanson",
+      "link": "https://www.latimes.com/sports/lakers/story/2026-05-08/los-angeles-lakers-okc-thunder-game-2-commentary-swanson",
+      "date": "May 08, 26",
+      "source": "LA Times Sports",
+      "layer": 2,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
       "id": "493fd25ac40c",
       "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
       "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
@@ -390,66 +437,92 @@
       ]
     },
     {
-      "id": "8db3c5b8f558",
-      "title": "Live Nation Revenue Rises 12% as $450M Legal Accrual Pushes Company to Q1 Loss",
-      "summary": "Live Nation points to strong concert demand and Ticketmaster growth while setting aside hundreds of millions tied to antitrust litigation... The post Live Nation Revenue Rises 12% as $450M Legal Accru",
-      "company": "Live Nation Revenue Rises",
-      "link": "https://www.ticketnews.com/2026/05/live-nation-revenue-rises-12-as-450m-legal-accrual-pushes-company-to-q1-loss/",
-      "date": "May 05, 26",
+      "id": "d5b9cb634d7d",
+      "title": "SeatGeek to Power Ticketing for Cincinnati Open, Credit One Charleston Open",
+      "summary": "SeatGeek is making a major tennis push. The ticketing platform has signed a new partnership with Beemok Sports &#38; Entertainment... The post SeatGeek to Power Ticketing for Cincinnati Open, Credit O",
+      "company": "SeatGeek",
+      "link": "https://www.ticketnews.com/2026/05/seatgeek-to-power-ticketing-cincinnati-open-charleston-open/",
+      "date": "May 07, 26",
       "source": "Ticket News",
       "layer": 3,
       "access": "pe",
-      "score": 24,
+      "score": 9,
       "moments": []
     },
     {
-      "id": "dd57533936cb",
-      "title": "Live Nation Posts Overall Growth in First Quarter Despite $450 Million Hit Due to Department of Justice Settlement and Litigation",
-      "summary": "Live Nation posted overall growth in its first quarter of the year with $3.79 billion in revenue despite taking a $450 million hit due to the legal costs associated with its Department of Justice sett",
-      "company": "Live Nation Posts Overall Growth",
-      "link": "https://variety.com/2026/music/news/live-nation-first-quarter-earnings-450-million-hit-doj-suit-1236738569/",
-      "date": "May 05, 26",
-      "source": "Variety Music",
-      "layer": 2,
-      "access": "public",
-      "score": 15,
-      "moments": []
-    },
-    {
-      "id": "48427e6ede6c",
-      "title": "Formula 1, Sky Extend Broadcast Partnership Into Next Decade",
-      "summary": "Formula 1 has renewed its long-running broadcast partnership with Sky, securing exclusive live coverage across the UK, Ireland and Italy... The post Formula 1, Sky Extend Broadcast Partnership Into Ne",
-      "company": "Formula",
-      "link": "https://www.ticketnews.com/2026/05/formula-1-sky-extend-broadcast-partnership-next-decade/",
-      "date": "May 06, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 10,
-      "moments": []
-    },
-    {
-      "id": "fc1bb060090f",
-      "title": "AEG Presents Names Jonathan Lee Managing Director of Korea Office",
-      "summary": "AEG Presents has appointed Jonathan Lee as Managing Director of its Korea office, strengthening the global promoter\u2019s push into one... The post AEG Presents Names Jonathan Lee Managing Director of Kor",
-      "company": "AEG Presents Names Jonathan Lee Managing",
-      "link": "https://www.ticketnews.com/2026/05/aeg-presents-jonathan-lee-managing-director-seoul/",
-      "date": "May 06, 26",
-      "source": "Ticket News",
-      "layer": 3,
+      "id": "b412c5533169",
+      "title": "DOGE\u2019s Termination of Humanities Grants Is Ruled Unconstitutional",
+      "summary": "A lawsuit against the National Endowment for the Humanities drew wide attention for revealing how DOGE had used ChatGPT to cancel grants.",
+      "company": "DOGE\u2019s Termination",
+      "link": "https://www.nytimes.com/2026/05/07/arts/neh-grants-lawsuit-doge.html",
+      "date": "May 08, 26",
+      "source": "NYT Arts",
+      "layer": 4,
       "access": "pe",
       "score": 8,
       "moments": []
     },
     {
-      "id": "9ddebcdcb5ee",
-      "title": "Media CEO Pay 2025: How David Zaslav, Bob Iger, Ted Sarandos and Other Moguls Made Bank as Hollywood Struggled",
-      "summary": "Warner Bros. Discovery shareholders sent a clear message to David Zaslav last month: Greed isn\u2019t good.&#160; On April 23, they approved a plan to sell the company to Paramount for $110.9 billion, whil",
-      "company": "Media CEO Pay 2025",
-      "link": "https://variety.com/lists/media-pay-packages-bob-iger-sarandos-zaslav-salaries/",
-      "date": "May 06, 26",
-      "source": "Variety Biz",
+      "id": "de835edd5789",
+      "title": "REPORT: Ticketmaster Cuts 8% of Global Staff Following Strong Live Nation Earnings Report",
+      "summary": "Ticketmaster has cut 8% of its global staff, reducing its workforce by roughly 350 employees across 25 countries, according to... The post REPORT: Ticketmaster Cuts 8% of Global Staff Following Strong",
+      "company": "REPORT",
+      "link": "https://www.ticketnews.com/2026/05/report-ticketmaster-cuts-global-staff-live-nation-earnings-report/",
+      "date": "May 07, 26",
+      "source": "Ticket News",
       "layer": 3,
+      "access": "public",
+      "score": 6,
+      "moments": []
+    },
+    {
+      "id": "3e1c72318f9b",
+      "title": "Higher Prices, Tighter Control: Live Nation Outlines Post-Verdict Strategy on Earnings Call",
+      "summary": "Live Nation executives used the company\u2019s latest earnings call to describe a future in which more ticketing power flows through... The post Higher Prices, Tighter Control: Live Nation Outlines Post-Ve",
+      "company": "Higher Prices Tighter Control: Live Nation",
+      "link": "https://www.ticketnews.com/2026/05/higher-prices-tighter-control-live-nation-outlines-post-verdict-strategy-on-earnings-call/",
+      "date": "May 07, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "public",
+      "score": 6,
+      "moments": []
+    },
+    {
+      "id": "3b76ab161593",
+      "title": "Expanded Basketball Tournaments Will Yield NCAA $50M a Year",
+      "summary": "The deal guarantees the NCAA will be able to cover additional operating expenses.",
+      "company": "",
+      "link": "https://frontofficesports.com/expanded-basketball-tournaments-will-yield-ncaa-50m-a-year/",
+      "date": "May 07, 26",
+      "source": "Front Office Sports",
+      "layer": 4,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "37f45ed23693",
+      "title": "HYBE Unveils New Label ABD",
+      "summary": "ABD, short for A Bold Dream, is dedicated to girl group production, with the first project launching in the second half of 2026.",
+      "company": "HYBE Unveils New Label ABD",
+      "link": "https://www.billboard.com/pro/hybe-new-label-abd/",
+      "date": "May 08, 26",
+      "source": "Billboard",
+      "layer": 4,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "3732e8e5f3b4",
+      "title": "March Madness tournaments to expand to 76 teams from next season",
+      "summary": "Both tournaments will have eight extra gamesTournaments will expand for first time in 15 yearsThe NCAA announced on Thursday that it will expand its two March Madness tournaments by eight teams each n",
+      "company": "March Madness",
+      "link": "https://www.theguardian.com/sport/2026/may/07/march-madness-tournaments-to-expand-to-76-teams-from-next-season",
+      "date": "May 07, 26",
+      "source": "Guardian Sport",
+      "layer": 4,
       "access": "pe",
       "score": 5,
       "moments": []
@@ -465,32 +538,6 @@
       "layer": 3,
       "access": "pe",
       "score": 5,
-      "moments": []
-    },
-    {
-      "id": "c1f3d3a751ef",
-      "title": "Grant Horvat Among YouTube Golf Stars Joining Wasserman\u2019s The Team",
-      "summary": "Golf creators Grant Horvat and the Bryan Brothers land major sports representation deals.",
-      "company": "Grant Horvat Among YouTube Golf Stars",
-      "link": "https://frontofficesports.com/grant-horvat-among-youtube-golf-stars-joining-wassermans-firm/",
-      "date": "May 06, 26",
-      "source": "Front Office Sports",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "86f65a0a37c5",
-      "title": "Revenge, Served Two Ways: Cold in \u2018Othello\u2019 and Lukewarm in \u2018Hamlet\u2019",
-      "summary": "Shakespeare\u2019s brooding prince comes off as bored at the Brooklyn Academy of Music. But Bedlam\u2019s lean production of \u201cOthello\u201d is positively thrilling.",
-      "company": "Revenge Served Two Ways: Cold",
-      "link": "https://www.nytimes.com/2026/05/06/theater/othello-bedlam-hamlet-bam.html",
-      "date": "May 06, 26",
-      "source": "NYT Arts",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
       "moments": []
     }
   ]
