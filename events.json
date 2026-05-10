@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-09T13:27:07.870287+00:00",
-  "total": 36,
+  "generated": "2026-05-10T13:39:42.874193+00:00",
+  "total": 38,
   "scraped": [
     {
       "id": "3e93af688b9e",
@@ -258,18 +258,18 @@
       ]
     },
     {
-      "id": "bdb5087ac2a8",
-      "title": "The Rolling Stones\u2019 new album \u2018Foreign Tongues\u2019 also features an Amy Winehouse cover",
-      "summary": "The two artists performed 'Ain't Too Proud To Beg' together at the 2007 Isle Of Wight Festival The post The Rolling Stones&#8217; new album &#8216;Foreign Tongues&#8217; also features an Amy Winehouse",
-      "company": "The Rolling Stones\u2019",
-      "link": "https://www.nme.com/news/music/the-rolling-stones-new-album-foreign-tongues-also-features-an-amy-winehouse-cover-3944671?utm_source=rss&utm_medium=rss&utm_campaign=the-rolling-stones-new-album-foreign-tongues-also-features-an-amy-winehouse-cover",
-      "date": "May 09, 26",
+      "id": "04357032fb6b",
+      "title": "Father John Misty shares baroque single \u2018The Payoff\u2019 and adds London headline gig to summer 2026 tour",
+      "summary": "His show at the O2 Shepherds Bush Empire in June replaces his cancelled appearance at LIDO Festival The post Father John Misty shares baroque single &#8216;The Payoff&#8217; and adds London headline g",
+      "company": "Father John Misty",
+      "link": "https://www.nme.com/news/music/father-john-misty-shares-baroque-single-the-payoff-and-adds-london-headline-gig-to-summer-2026-tour-3944743?utm_source=rss&utm_medium=rss&utm_campaign=father-john-misty-shares-baroque-single-the-payoff-and-adds-london-headline-gig-to-summer-2026-tour",
+      "date": "May 10, 26",
       "source": "NME",
       "layer": 1,
-      "access": "pe",
-      "score": 18,
+      "access": "public",
+      "score": 17,
       "moments": [
-        "album_announcement"
+        "festival_headliner"
       ]
     },
     {
@@ -348,21 +348,6 @@
       ]
     },
     {
-      "id": "fa342bad7bd3",
-      "title": "Katy Perry, Future, Lisa, Tyla, and more to headline US World Cup opening ceremony",
-      "summary": "More celebrations will be held in Mexico and Toronto \u2013 marking the first time FIFA has featured multiple opening ceremonies across different countries for a single tournament The post Katy Perry, Futu",
-      "company": "Katy Perry Future Lisa Tyla",
-      "link": "https://www.nme.com/news/music/katy-perry-future-lisa-tyla-and-more-to-headline-us-world-cup-opening-ceremony-3944665?utm_source=rss&utm_medium=rss&utm_campaign=katy-perry-future-lisa-tyla-and-more-to-headline-us-world-cup-opening-ceremony",
-      "date": "May 09, 26",
-      "source": "NME",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
       "id": "df9dfdd3caf9",
       "title": "Tournament Darling LIU Had a Thousand Ineligible Athletes, NCAA Says",
       "summary": "LIU merged its Brooklyn and Long Island campuses in 2019.",
@@ -375,6 +360,21 @@
       "score": 9,
       "moments": [
         "acquisition"
+      ]
+    },
+    {
+      "id": "8e8bc476eba9",
+      "title": "Psychedelic Furs Cancel Spring and Summer Tour Dates Due to \u2018Serious Medical Issue\u2019",
+      "summary": "New wave music fans will have to wait a little longer to get Pretty in Pink as The Psychedelic Furs have cancelled their spring and summer tour dates due to a &#8220;serious medical issue in the band.",
+      "company": "Psychedelic Furs Cancel Spring",
+      "link": "https://variety.com/2026/music/news/psychedelic-furs-cancel-tour-dates-serious-medical-issue-1236741833/",
+      "date": "May 08, 26",
+      "source": "Variety Music",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "tour_announcement"
       ]
     },
     {
@@ -503,13 +503,26 @@
       "moments": []
     },
     {
-      "id": "3732e8e5f3b4",
-      "title": "March Madness tournaments to expand to 76 teams from next season",
-      "summary": "Both tournaments will have eight extra gamesTournaments will expand for first time in 15 yearsThe NCAA announced on Thursday that it will expand its two March Madness tournaments by eight teams each n",
-      "company": "March Madness",
-      "link": "https://www.theguardian.com/sport/2026/may/07/march-madness-tournaments-to-expand-to-76-teams-from-next-season",
-      "date": "May 07, 26",
-      "source": "Guardian Sport",
+      "id": "cec4a93c0b06",
+      "title": "Sky Toasts BAFTA TV Nominees at Annual Unmissable Television Celebration",
+      "summary": "Ahead of the BAFTA TV Awards tomorrow night, celebrations were in full swing in London on Saturday afternoon as Sky hosted its annual Unmissable Television celebration for its BAFTA TV &#38; Craft nom",
+      "company": "Sky Toasts BAFTA TV Nominees",
+      "link": "https://variety.com/2026/biz/events/sky-toasts-bafta-tv-nominees-annual-celebration-1236742391/",
+      "date": "May 09, 26",
+      "source": "Variety Biz",
+      "layer": 3,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "fdada434e12c",
+      "title": "UC-Irvine to face Hawaii in NCAA men's volleyball championship",
+      "summary": "No. 2 Hawaii beat No. 3 Long Beach and unranked UC Irvine extended its run after beating No. 1 UCLA earlier in the men's volleyball NCAA tournament.",
+      "company": "UC-Irvine",
+      "link": "https://www.latimes.com/sports/story/2026-05-10/uc-irvine-to-face-hawaii-in-ncaa-mens-volleyball-championship",
+      "date": "May 10, 26",
+      "source": "LA Times Sports",
       "layer": 4,
       "access": "pe",
       "score": 5,
@@ -526,6 +539,19 @@
       "layer": 3,
       "access": "pe",
       "score": 5,
+      "moments": []
+    },
+    {
+      "id": "bc6a11dc7d18",
+      "title": "Television Academy Endorses Post-Production Tax Credit Bill as Assemblyman Nick Schultz Rallies Support in Burbank: \u2018We Should Have Done This a...",
+      "summary": "The drive to pass a post-production tax credit bill in the California legislature received a boost Friday night when the California Post Alliance announced that the Television Academy has joined the f",
+      "company": "",
+      "link": "https://variety.com/2026/tv/news/television-academy-post-production-tax-credit-nick-schultz-1236742365/",
+      "date": "May 09, 26",
+      "source": "Variety Biz",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
       "moments": []
     },
     {
