@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-11T15:22:15.821398+00:00",
+  "generated": "2026-05-12T14:36:04.820972+00:00",
   "total": 35,
   "scraped": [
     {
@@ -18,22 +18,6 @@
         "ipo",
         "pe_investment",
         "fund_launch"
-      ]
-    },
-    {
-      "id": "29119f2b38fa",
-      "title": "The Hottest Job in Sports: A WNBA Front Office Role",
-      "summary": "The WNBA\u2019s lucrative, long-term media rights are inked. The historic collective bargaining agreement between owners and players is complete. Team valuations are at an all-time high. The league enters ",
-      "company": "The Hottest Job in Sports",
-      "link": "https://www.sportico.com/leagues/basketball/2026/sports-jobs-wnba-front-office-boom-1234892308/",
-      "date": "May 08, 26",
-      "source": "Sportico",
-      "layer": 1,
-      "access": "pe",
-      "score": 22,
-      "moments": [
-        "rights_deal",
-        "record_breaking"
       ]
     },
     {
@@ -69,44 +53,44 @@
       ]
     },
     {
-      "id": "9312f5f5880f",
-      "title": "Corbin Capital collects $342m for commercial litigation finance fund",
-      "summary": "Hedge fund and opportunistic credit investor Corbin Capital Partners has raised $342m for a new fund targeting commercial litigation funding. The post Corbin Capital collects $342m for commercial liti",
-      "company": "Corbin Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/corbin-capital-collects-342m-for-commercial-litigation-finance-fund.html",
-      "date": "May 08, 26",
+      "id": "409e4a73349f",
+      "title": "Riverside Partners rebrands to RS2 Healthcare Partners, raises CV for 2014 investment Loftware",
+      "summary": "Veteran private equity house Riverside Partners has rebranded to RS2 Healthcare Partners alongside the final close of a continuation fund for its long-held portfolio business Loftware. The post Rivers",
+      "company": "Riverside Partners",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/riverside-partners-rebrands-to-rs2-healthcare-partners-raises-cv-for-2014-investment-loftware.html",
+      "date": "May 12, 26",
       "source": "AltAssets",
-      "layer": 1,
+      "layer": 5,
       "access": "pe",
-      "score": 21,
+      "score": 19,
       "moments": [
         "pe_investment",
         "fund_launch"
       ]
     },
     {
-      "id": "cb6810a89c6d",
-      "title": "MUNA share \u2018Eastside Girls\u2019 video and announce huge 2026 UK, European and North American tour",
-      "summary": "Dates come in support of their new album \u2018Dancing On The Wall\u2019 and include a gig at London\u2019s Eventim Apollo The post MUNA share &#8216;Eastside Girls&#8217; video and announce huge 2026 UK, European a",
-      "company": "MUNA",
-      "link": "https://www.nme.com/news/music/muna-share-eastside-girls-video-announce-uk-european-north-american-tour-buy-tickets-3944926?utm_source=rss&utm_medium=rss&utm_campaign=muna-share-eastside-girls-video-announce-uk-european-north-american-tour-buy-tickets",
-      "date": "May 11, 26",
-      "source": "NME",
-      "layer": 1,
+      "id": "ebd2d3412a54",
+      "title": "S2G Investments seals $1bn final close for tech-focused food, agriculture-focused",
+      "summary": "S2G Investments, a multi-asset investment firm focused on food and agriculture, energy, and oceans, has closed its growth-stage Solutions Fund on $1bn. The post S2G Investments seals $1bn final close ",
+      "company": "S2G Investments",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/s2g-investments-seals-1bn-final-close-for-tech-focused-food-agriculture-focused.html",
+      "date": "May 12, 26",
+      "source": "AltAssets",
+      "layer": 5,
       "access": "pe",
-      "score": 18,
+      "score": 16,
       "moments": [
-        "album_announcement",
-        "tour_announcement"
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
-      "id": "d1cacec4335b",
-      "title": "Apis Partners more than doubles Fund II total with $1.23bn close of third fund series",
-      "summary": "Financial infrastructure and services investor Apis Partners has pulled in $1.23bn of commitments to close its third fund series - more tha double the total it gathered for Fund II. The post Apis Part",
-      "company": "Apis Partners",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/100208296.html",
-      "date": "May 07, 26",
+      "id": "51abc77dea8b",
+      "title": "Kalos Ventures eyes workforce tech investments amid AI upheaval, closes $78.8m debut fund",
+      "summary": "Early-stage workforce, care and education tech investor Kalos Ventures Management has secured $78.8m for its oversubscribed debut fund. The post Kalos Ventures eyes workforce tech investments amid AI ",
+      "company": "Kalos Ventures",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/kalos-ventures-eyes-workforce-tech-investments-amid-ai-upheaval-closes-78-8m-debut-fund.html",
+      "date": "May 12, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -149,51 +133,19 @@
       ]
     },
     {
-      "id": "808dfb3111cd",
-      "title": "5th Century Partners closes oversubscribed $276m Fund II, almost double debut fund total",
-      "summary": "5th Century Partners, a lower mid-market investor launched by former Vistria Group and Clarion Capital Partners execs, has hit a $276m final close for its sophomore fund. The post 5th Century Partners",
-      "company": "Century Partners",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/5th-century-partners-closes-oversubscribed-276m-fund-ii-almost-double-debut-fund-total.html",
-      "date": "May 07, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "8810db8e8600",
-      "title": "Alexis Smith of The Feminine Glow Emerges at the Center of the Feminine Energy Coaching Boom",
-      "summary": "DUBAI, UAE &#8211; &#160;The Feminine Glow, the fast-growing femininity and inner work platform founded by Alexis Smith, is gaining national attention as interest in coaching, self-development, and fe",
-      "company": "Alexis Smith",
-      "link": "https://venuestoday.com/alexis-smith-of-the-feminine-glow-emerges-at-the-center-of-the-feminine-energy-coaching-boom/?utm_source=rss&utm_medium=rss&utm_campaign=alexis-smith-of-the-feminine-glow-emerges-at-the-center-of-the-feminine-energy-coaching-boom",
-      "date": "Mar 29, 26",
-      "source": "Venues Today",
-      "layer": 2,
-      "access": "pe",
-      "score": 13,
+      "id": "a706e175096e",
+      "title": "The hottest place for startups to strike a deal? The F1 paddock",
+      "summary": "F1 Grands Prix have emerged as a new place to see and be seen if you are a founder or investor.",
+      "company": "The",
+      "link": "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/",
+      "date": "May 10, 26",
+      "source": "TechCrunch Venture",
+      "layer": 1,
+      "access": "venture",
+      "score": 10,
       "moments": [
         "acquisition",
         "company_launch"
-      ]
-    },
-    {
-      "id": "a4736ab4d8b3",
-      "title": "Music Industry Moves: Angine de Poitrine Signs With Third Side Music Publishing; the War and Treaty Pact With Atlantic Outpost",
-      "summary": "The fast-rising bonkers Montreal rock duo Angine de Poitrine, whose popularity soared after a live KEXP session, have inked an exclusive publishing deal with independent music publisher Third Side Mus",
-      "company": "Music Industry Moves",
-      "link": "https://variety.com/2026/music/news/angine-de-poitrine-signs-with-third-side-publishing-1236742012/",
-      "date": "May 08, 26",
-      "source": "Variety Music",
-      "layer": 5,
-      "access": "pe",
-      "score": 10,
-      "moments": [
-        "record_deal",
-        "festival_headliner"
       ]
     },
     {
@@ -212,21 +164,6 @@
       ]
     },
     {
-      "id": "800942b6a173",
-      "title": "More Than 50% of WNBA Players Are With New Teams This Season",
-      "summary": "The WNBA is getting a fresh start this season. Many, in fact. A new collective bargaining agreement raised salaries across the board\u2014the minimum rose from $66,000 to $270,000, and the maximum increase",
-      "company": "More Than",
-      "link": "https://www.sportico.com/leagues/basketball/2026/2026-wnba-free-agency-team-rosters-expansion-1234892344/",
-      "date": "May 08, 26",
-      "source": "Sportico",
-      "layer": 1,
-      "access": "pe",
-      "score": 18,
-      "moments": [
-        "rights_deal"
-      ]
-    },
-    {
       "id": "a763c27919db",
       "title": "OnlyFans Valued at $3.15 Billion in Deal to Sell Minority Stake to Architect Capital",
       "summary": "The parent company of OnlyFans, the porn-friendly creator site that rakes in billions of dollars in annual revenue, has sold a 16% stake to Architect Capital for $535 million. The deal announced by U.",
@@ -239,36 +176,6 @@
       "score": 18,
       "moments": [
         "valuation"
-      ]
-    },
-    {
-      "id": "df4850e765ef",
-      "title": "Coachella Valley Lakers to Tip Off at Acrisure Arena in 2026",
-      "summary": "The Los Angeles Lakers are taking their G League operation to the desert. Beginning with the 2026-27 NBA G League... The post Coachella Valley Lakers to Tip Off at Acrisure Arena in 2026 appeared firs",
-      "company": "Coachella Valley Lakers",
-      "link": "https://www.ticketnews.com/2026/05/coachella-valley-lakers-tip-off-acrisure-arena-2026/",
-      "date": "May 08, 26",
-      "source": "Ticket News",
-      "layer": 1,
-      "access": "pe",
-      "score": 17,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "7a468132ba18",
-      "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
-      "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
-      "company": "Kiro Eid Built",
-      "link": "https://venuestoday.com/kiro-eid-built-8x6-design-studio-here-is-how-he-did-it-without-a-network-or-shortcuts/?utm_source=rss&utm_medium=rss&utm_campaign=kiro-eid-built-8x6-design-studio-here-is-how-he-did-it-without-a-network-or-shortcuts",
-      "date": "Mar 28, 26",
-      "source": "Venues Today",
-      "layer": 2,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "company_launch"
       ]
     },
     {
@@ -287,18 +194,48 @@
       ]
     },
     {
-      "id": "9c0a3b7c117f",
-      "title": "How Elon grew to love Anthropic",
-      "summary": "Elon Musk's surprise Anthropic deal allows him to accomplish two things at once: turn unused compute into revenue before an expected SpaceX IPO next month \u2014 and stick it to his archrival, OpenAI CEO S",
-      "company": "How Elon",
-      "link": "https://www.axios.com/2026/05/07/musk-anthropic-compute-spacex-ai",
-      "date": "May 07, 26",
-      "source": "Axios",
-      "layer": 2,
+      "id": "66db92afdfc7",
+      "title": "Katie Haun raises $1B for new venture funds",
+      "summary": "Katie Haun announced on Monday that $1 billion has been raised across new funds to continue the firm\u2019s thesis of backing crypto and blockchain startups.",
+      "company": "Katie Haun",
+      "link": "https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/",
+      "date": "May 04, 26",
+      "source": "TechCrunch Venture",
+      "layer": 1,
+      "access": "venture",
+      "score": 15,
+      "moments": [
+        "funding_round"
+      ]
+    },
+    {
+      "id": "2fd7bb1b55a5",
+      "title": "Bundesliga\u2019s investment strategy: Three stripes and you\u2019re in",
+      "summary": "This week on The SportBusiness Podcast, co-hosts Jonathan Rest and Martin Ross analyse the industry\u2019s heavy-hitting stories, go deep on a football media rights deal with lessons for the wider market a",
+      "company": "Bundesliga\u2019s",
+      "link": "https://www.sportbusiness.com/2026/05/bundesligas-investment-strategy-three-stripes-and-youre-in/?utm_source=rss&utm_medium=rss&utm_campaign=bundesligas-investment-strategy-three-stripes-and-youre-in",
+      "date": "May 01, 26",
+      "source": "Sport Business",
+      "layer": 1,
       "access": "pe",
       "score": 15,
       "moments": [
-        "ipo"
+        "rights_deal"
+      ]
+    },
+    {
+      "id": "ca95ff956362",
+      "title": "Nebraska-Playfly Arbitrator Ruling Raises Stakes in House NIL Fight",
+      "summary": "A neutral arbitrator on Monday sided with the College Sports Commission in finding that millions of dollars of purported NIL deals between Playfly Sports and 18 Nebraska football players were properly",
+      "company": "",
+      "link": "https://www.sportico.com/law/analysis/2026/nebraska-football-playfly-nil-arbitration-1234892531/",
+      "date": "May 12, 26",
+      "source": "Sportico",
+      "layer": 4,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "funding_round"
       ]
     },
     {
@@ -317,33 +254,33 @@
       ]
     },
     {
-      "id": "86ec7bbc3760",
-      "title": "Retail investor demand for evergreen private equity slows",
-      "summary": "Retail investor appetite for private markets products has softened in the first quarter, as concerns around valuations, credit quality and exposure to technology-linked sectors ripple through the broa",
-      "company": "Retail",
-      "link": "https://www.privateequitywire.co.uk/retail-investor-demand-for-evergreen-private-equity-slows/",
-      "date": "May 11, 26",
-      "source": "PE Wire",
-      "layer": 5,
+      "id": "c21cc1244ed8",
+      "title": "Drake lost the beef and embraced the manosphere. Is it too late for him to win back his audience?",
+      "summary": "After his Kendrick Lamar feud, Drake alienated female fans. With new album Iceman, he\u2019s aiming for the top of the charts againDespite his A-list pop star status, there\u2019s been a noticeable scrappiness ",
+      "company": "Drake",
+      "link": "https://www.theguardian.com/music/2026/may/12/drake-iceman-essay-toronto-manosphere-adin-ross-new-album-nokia",
+      "date": "May 12, 26",
+      "source": "Guardian Music",
+      "layer": 1,
       "access": "pe",
-      "score": 12,
+      "score": 14,
       "moments": [
-        "pe_investment"
+        "album_announcement"
       ]
     },
     {
-      "id": "ff32d001965c",
-      "title": "PE sponsors tap European junk bond market for dividend recaps",
-      "summary": "Private equity firms are increasingly returning to the European high-yield debt markets to extract dividends from portfolio companies, as elevated volatility and a subdued exit environment continue to",
-      "company": "PE",
-      "link": "https://www.privateequitywire.co.uk/pe-sponsors-tap-european-junk-bond-market-for-dividend-recaps/",
+      "id": "3d6587bda659",
+      "title": "Sony Publishing to Acquire Recognition Music in Billion-Plus Dollar Deal, Including Songs by Fleetwood Mac, Beyonce, Lady Gaga",
+      "summary": "As expected, Sony Music Publishing has announced an agreement to acquire the complete music rights portfolio of Recognition Music Group from funds managed by Blackstone, subject to customary closing c",
+      "company": "Sony Publishing",
+      "link": "https://variety.com/2026/music/news/sony-publishing-acquire-recognition-fleetwood-mac-beyonce-1236744574/",
       "date": "May 11, 26",
-      "source": "PE Wire",
-      "layer": 5,
+      "source": "Variety Music",
+      "layer": 1,
       "access": "pe",
-      "score": 12,
+      "score": 13,
       "moments": [
-        "pe_investment"
+        "acquisition"
       ]
     },
     {
@@ -359,6 +296,51 @@
       "score": 12,
       "moments": [
         "festival_headliner"
+      ]
+    },
+    {
+      "id": "fb865482e758",
+      "title": "World Cup 2026: is it possible to walk to MetLife Stadium from New York City? \u2013 video",
+      "summary": "Now that the usually $13 train ticket has been hiked up to $105 for the World Cup, a lot of fans have been wondering whether it's possible to walk to MetLife Stadium from New York City. To find out, w",
+      "company": "World Cup 2026",
+      "link": "https://www.theguardian.com/football/video/2026/may/12/world-cup-2026-is-it-possible-to-walk-to-metlife-stadium-from-new-york-city-video",
+      "date": "May 12, 26",
+      "source": "Guardian Sport",
+      "layer": 2,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "a2dcecf46765",
+      "title": "The Who\u2019s Roger Daltrey Sets Tour Dates for \u2018Possibly\u2019 His Last Solo U.S. Trek",
+      "summary": "The shows, dubbed A Great Night Out, will kick off this summer in Arizona",
+      "company": "The Who\u2019s Roger Daltrey Sets Tour",
+      "link": "https://www.rollingstone.com/music/music-news/roger-daltrey-solo-tour-the-who-1235560489/",
+      "date": "May 12, 26",
+      "source": "Rolling Stone Music",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "tour_announcement"
+      ]
+    },
+    {
+      "id": "080331070c89",
+      "title": "Luna Lab Is Building a Future for Female Composers",
+      "summary": "Missy Mazzoli and Ellen Reid didn\u2019t have female mentors. They founded Luna Composition Lab so young composers would.",
+      "company": "Luna Lab Is Building",
+      "link": "https://www.nytimes.com/2026/05/12/arts/music/luna-composition-lab.html",
+      "date": "May 12, 26",
+      "source": "NYT Arts",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "company_launch"
       ]
     },
     {
@@ -407,34 +389,30 @@
       ]
     },
     {
-      "id": "60d2d7217718",
-      "title": "The PenFed Foundation for Military Heroes Announces Veteran Entrepreneur Accelerator Program May 2026 Cohort",
-      "summary": "New cohort offers innovative solutions across healthcare, AI, security and youth development TYSONS, Va., May 11, 2026 /PRNewswire/ -- The PenFed Foundation for Military Heroes, a national nonprofit o",
-      "company": "The PenFed Foundation",
-      "link": "https://www.prnewswire.com/news-releases/the-penfed-foundation-for-military-heroes-announces-veteran-entrepreneur-accelerator-program-may-2026-cohort-302768341.html",
-      "date": "May 11, 26",
-      "source": "PR Newswire",
+      "id": "bc1beae3c080",
+      "title": "US Footwear Industry Delivers Modest First-Quarter Growth Driven by Price Increases and Strength in Performance Segment, Circana Reports",
+      "summary": "CHICAGO, IL, May 04, 2026 (GLOBE NEWSWIRE) -- The U.S. footwear industry posted soft dollar growth in the first quarter (Q1) of 2026, with total sales increasing by +1%, versus the same period last ye",
+      "company": "",
+      "link": "https://www.globenewswire.com/news-release/2026/05/04/3286860/0/en/US-Footwear-Industry-Delivers-Modest-First-Quarter-Growth-Driven-by-Price-Increases-and-Strength-in-Performance-Segment-Circana-Reports.html",
+      "date": "May 04, 26",
+      "source": "GlobeNewsWire Deals",
       "layer": 2,
       "access": "pe",
-      "score": 6,
-      "moments": [
-        "company_launch"
-      ]
+      "score": 10,
+      "moments": []
     },
     {
-      "id": "493fd25ac40c",
-      "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
-      "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
-      "company": "Navigating",
-      "link": "https://venuestoday.com/navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026/?utm_source=rss&utm_medium=rss&utm_campaign=navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026",
-      "date": "Apr 22, 26",
-      "source": "Venues Today",
-      "layer": 3,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "acquisition"
-      ]
+      "id": "d75ad00c6eda",
+      "title": "As College Sports Roils, an Apparel Company Pitches Its Stressed Stock",
+      "summary": "With college athletic departments scrambling for new revenue streams to pay athletes, John Hilburn \u201cHil\u201d Davis IV believes his clothing company, Digital Brands Group (DBGI), can provide something indi",
+      "company": "As College Sports Roils",
+      "link": "https://www.sportico.com/leagues/college-sports/2026/digital-brands-group-avo-college-sports-stock-1234892472/",
+      "date": "May 12, 26",
+      "source": "Sportico",
+      "layer": 2,
+      "access": "public",
+      "score": 8,
+      "moments": []
     },
     {
       "id": "c5cbddcb80da",
@@ -446,6 +424,19 @@
       "source": "Sportico",
       "layer": 3,
       "access": "pe",
+      "score": 8,
+      "moments": []
+    },
+    {
+      "id": "325f9cdbf3cb",
+      "title": "Braves Earnings Show Promise and Pressure of RSN Shift",
+      "summary": "The club\u2019s revenue surged, aided in part by the earlier season start.",
+      "company": "Braves Earnings Show Promise",
+      "link": "https://frontofficesports.com/braves-earnings-show-promise-and-pressure-of-rsn-shift/",
+      "date": "May 11, 26",
+      "source": "Front Office Sports",
+      "layer": 2,
+      "access": "public",
       "score": 8,
       "moments": []
     },
@@ -463,6 +454,19 @@
       "moments": []
     },
     {
+      "id": "d314d5e91eaa",
+      "title": "Irish broadcaster RT\u00c9 to air \u2018Father Ted\u2019 Eurovision episode in boycott of song contest",
+      "summary": "But co-creator Graham Linehan has hit back at the broadcaster and called for the director general's resignation The post Irish broadcaster RT\u00c9 to air &#8216;Father Ted&#8217; Eurovision episode in boy",
+      "company": "Irish",
+      "link": "https://www.nme.com/news/music/irish-broadcaster-rte-to-air-father-ted-eurovision-episode-in-boycott-of-song-contest-3945060?utm_source=rss&utm_medium=rss&utm_campaign=irish-broadcaster-rte-to-air-father-ted-eurovision-episode-in-boycott-of-song-contest",
+      "date": "May 12, 26",
+      "source": "NME",
+      "layer": 3,
+      "access": "pe",
+      "score": 7,
+      "moments": []
+    },
+    {
       "id": "cec4a93c0b06",
       "title": "Sky Toasts BAFTA TV Nominees at Annual Unmissable Television Celebration",
       "summary": "Ahead of the BAFTA TV Awards tomorrow night, celebrations were in full swing in London on Saturday afternoon as Sky hosted its annual Unmissable Television celebration for its BAFTA TV &#38; Craft nom",
@@ -471,6 +475,19 @@
       "date": "May 09, 26",
       "source": "Variety Biz",
       "layer": 3,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "2de6da008078",
+      "title": "UC Irvine proud of its NCAA tournament run despite loss in men's volleyball title game",
+      "summary": "UC Irvine put together a string of upsets, but the Anteaters couldn't knock off Hawaii in the men's volleyball NCAA tournament played Monday at Pauley Pavilion.",
+      "company": "UC Irvine",
+      "link": "https://www.latimes.com/sports/story/2026-05-11/uc-irvine-proud-of-its-ncaa-tournament-run-despite-title-game-loss",
+      "date": "May 12, 26",
+      "source": "LA Times Sports",
+      "layer": 4,
       "access": "pe",
       "score": 5,
       "moments": []
@@ -496,32 +513,6 @@
       "link": "https://variety.com/2026/tv/news/television-academy-post-production-tax-credit-nick-schultz-1236742365/",
       "date": "May 09, 26",
       "source": "Variety Biz",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "9494820b7b3f",
-      "title": "Beatles Hamburg drama from \u2018Succession\u2019 writer starts production in Germany",
-      "summary": "'Hamburg Days' will air on the BBC The post Beatles Hamburg drama from &#8216;Succession&#8217; writer starts production in Germany appeared first on NME.",
-      "company": "Beatles Hamburg",
-      "link": "https://www.nme.com/news/tv/beatles-hamburg-drama-from-succession-writer-starts-production-in-germany-3944928?utm_source=rss&utm_medium=rss&utm_campaign=beatles-hamburg-drama-from-succession-writer-starts-production-in-germany",
-      "date": "May 11, 26",
-      "source": "NME",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "177f7a618fbf",
-      "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
-      "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
-      "company": "Global Times",
-      "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/?utm_source=rss&utm_medium=rss&utm_campaign=global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression",
-      "date": "May 09, 26",
-      "source": "Venues Today",
       "layer": 4,
       "access": "pe",
       "score": 4,
