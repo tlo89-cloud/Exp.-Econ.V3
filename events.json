@@ -1,25 +1,7 @@
 {
-  "generated": "2026-05-12T14:36:04.820972+00:00",
-  "total": 35,
+  "generated": "2026-05-13T14:46:11.888793+00:00",
+  "total": 38,
   "scraped": [
-    {
-      "id": "3e93af688b9e",
-      "title": "AI-powered VC investor Global Millennial Capital raises $100m for new fund",
-      "summary": "Venture capital investor Global Millennial Capital has pulled in $100m for its first IPO Opportunities Fund, five times the total it collected for its debut fund two years ago. The post AI-powered VC ",
-      "company": "AI-powered VC",
-      "link": "https://www.altassets.net/private-equity-news/by-region/middle-east-and-israel-by-region/middle-east-middle-east-and-israel-by-region/ai-powered-vc-investor-global-millennial-capital-raises-100m-for-new-fund.html",
-      "date": "May 08, 26",
-      "source": "AltAssets",
-      "layer": 1,
-      "access": "pe",
-      "score": 32,
-      "moments": [
-        "funding_round",
-        "ipo",
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
     {
       "id": "fb8a71184758",
       "title": "Blitzy Raises $200M At $1.4B Valuation For Autonomous Software Development",
@@ -30,22 +12,6 @@
       "source": "Crunchbase News",
       "layer": 2,
       "access": "venture",
-      "score": 22,
-      "moments": [
-        "funding_round",
-        "valuation"
-      ]
-    },
-    {
-      "id": "cc1ead114a7e",
-      "title": "China\u2019s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
-      "summary": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
-      "company": "China\u2019s Moonshot AI",
-      "link": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
-      "date": "May 07, 26",
-      "source": "TechCrunch Startups",
-      "layer": 2,
-      "access": "pe",
       "score": 22,
       "moments": [
         "funding_round",
@@ -66,6 +32,22 @@
       "moments": [
         "pe_investment",
         "fund_launch"
+      ]
+    },
+    {
+      "id": "59223468a77e",
+      "title": "Intertek to recommend EQT\u2019s \u00a39.4bn final bid",
+      "summary": "TOP STORY: Intertek Group Plc is preparing to support a \u00a39.4bn ($12.7bn) acquisition proposal from Swedish private equity firm EQT AB, following a series of previously rejected bids, according to a re",
+      "company": "Intertek",
+      "link": "https://www.privateequitywire.co.uk/intertek-to-recommend-eqts-9-4bn-final-bid/",
+      "date": "May 13, 26",
+      "source": "PE Wire",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "acquisition",
+        "pe_investment"
       ]
     },
     {
@@ -133,6 +115,22 @@
       ]
     },
     {
+      "id": "8810db8e8600",
+      "title": "Alexis Smith of The Feminine Glow Emerges at the Center of the Feminine Energy Coaching Boom",
+      "summary": "DUBAI, UAE &#8211; &#160;The Feminine Glow, the fast-growing femininity and inner work platform founded by Alexis Smith, is gaining national attention as interest in coaching, self-development, and fe",
+      "company": "Alexis Smith",
+      "link": "https://venuestoday.com/alexis-smith-of-the-feminine-glow-emerges-at-the-center-of-the-feminine-energy-coaching-boom/?utm_source=rss&utm_medium=rss&utm_campaign=alexis-smith-of-the-feminine-glow-emerges-at-the-center-of-the-feminine-energy-coaching-boom",
+      "date": "Mar 29, 26",
+      "source": "Venues Today",
+      "layer": 2,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "acquisition",
+        "company_launch"
+      ]
+    },
+    {
       "id": "a706e175096e",
       "title": "The hottest place for startups to strike a deal? The F1 paddock",
       "summary": "F1 Grands Prix have emerged as a new place to see and be seen if you are a founder or investor.",
@@ -164,18 +162,48 @@
       ]
     },
     {
-      "id": "a763c27919db",
-      "title": "OnlyFans Valued at $3.15 Billion in Deal to Sell Minority Stake to Architect Capital",
-      "summary": "The parent company of OnlyFans, the porn-friendly creator site that rakes in billions of dollars in annual revenue, has sold a 16% stake to Architect Capital for $535 million. The deal announced by U.",
-      "company": "OnlyFans Valued",
-      "link": "https://variety.com/2026/digital/news/onlyfans-valuation-3-15-billion-sale-stake-architect-capital-1236741700/",
-      "date": "May 08, 26",
-      "source": "Variety Biz",
+      "id": "cb9246465169",
+      "title": "Anduril raises $5B, doubles valuation to $61B",
+      "summary": "After achieving $2.2 billion in revenue in 2025, the defense tech startup has raised another massive round, led by Thrive and a16z, it says.",
+      "company": "Anduril",
+      "link": "https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/",
+      "date": "May 13, 26",
+      "source": "TechCrunch Startups",
+      "layer": 2,
+      "access": "venture",
+      "score": 21,
+      "moments": [
+        "funding_round"
+      ]
+    },
+    {
+      "id": "c87a63e4b0f5",
+      "title": "William Blair seeks expertise via Inner Circle Sports acquisition amid M&A boom",
+      "summary": "'Inner Circle comes in with real expertise in valuations around sports franchises,' said William Blair's Matthew Zimmer. The post William Blair seeks expertise via Inner Circle Sports acquisition amid",
+      "company": "William Blair",
+      "link": "https://www.pehub.com/william-blair-seeks-expertise-via-inner-circle-sports-acquisition-amid-ma-boom/",
+      "date": "May 13, 26",
+      "source": "PE Hub",
+      "layer": 1,
+      "access": "pe",
+      "score": 17,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "7a468132ba18",
+      "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
+      "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
+      "company": "Kiro Eid Built",
+      "link": "https://venuestoday.com/kiro-eid-built-8x6-design-studio-here-is-how-he-did-it-without-a-network-or-shortcuts/?utm_source=rss&utm_medium=rss&utm_campaign=kiro-eid-built-8x6-design-studio-here-is-how-he-did-it-without-a-network-or-shortcuts",
+      "date": "Mar 28, 26",
+      "source": "Venues Today",
       "layer": 2,
       "access": "pe",
-      "score": 18,
+      "score": 16,
       "moments": [
-        "valuation"
+        "company_launch"
       ]
     },
     {
@@ -209,21 +237,6 @@
       ]
     },
     {
-      "id": "2fd7bb1b55a5",
-      "title": "Bundesliga\u2019s investment strategy: Three stripes and you\u2019re in",
-      "summary": "This week on The SportBusiness Podcast, co-hosts Jonathan Rest and Martin Ross analyse the industry\u2019s heavy-hitting stories, go deep on a football media rights deal with lessons for the wider market a",
-      "company": "Bundesliga\u2019s",
-      "link": "https://www.sportbusiness.com/2026/05/bundesligas-investment-strategy-three-stripes-and-youre-in/?utm_source=rss&utm_medium=rss&utm_campaign=bundesligas-investment-strategy-three-stripes-and-youre-in",
-      "date": "May 01, 26",
-      "source": "Sport Business",
-      "layer": 1,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "rights_deal"
-      ]
-    },
-    {
       "id": "ca95ff956362",
       "title": "Nebraska-Playfly Arbitrator Ruling Raises Stakes in House NIL Fight",
       "summary": "A neutral arbitrator on Monday sided with the College Sports Commission in finding that millions of dollars of purported NIL deals between Playfly Sports and 18 Nebraska football players were properly",
@@ -236,6 +249,21 @@
       "score": 14,
       "moments": [
         "funding_round"
+      ]
+    },
+    {
+      "id": "5657c9aed2d9",
+      "title": "Katseye Announces \u2018Wildworld\u2019 2026 Tour Dates",
+      "summary": "Katseye have announced dates for the \u201cWildworld\u201d tour, taking the group to North America, the U.K. and Europe this fall. Produced by Live Nation, the run will kick off on September 1 at Dublin\u2019s 3Aren",
+      "company": "Katseye Announces \u2018Wildworld\u2019",
+      "link": "https://variety.com/2026/music/news/katseye-wildworld-2026-tour-dates-1236747302/",
+      "date": "May 13, 26",
+      "source": "Variety Music",
+      "layer": 2,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "tour_announcement"
       ]
     },
     {
@@ -254,6 +282,21 @@
       ]
     },
     {
+      "id": "0919e59516b9",
+      "title": "Adam Lambert announces album release shows in UK, Europe and North America",
+      "summary": "His sixth solo LP has already been previewed by the powerful single \u2018Eat U Alive\u2019 The post Adam Lambert announces album release shows in UK, Europe and North America appeared first on NME.",
+      "company": "Adam Lambert",
+      "link": "https://www.nme.com/news/music/adam-lambert-announces-album-release-shows-uk-europe-north-america-buy-tickets-3945244?utm_source=rss&utm_medium=rss&utm_campaign=adam-lambert-announces-album-release-shows-uk-europe-north-america-buy-tickets",
+      "date": "May 13, 26",
+      "source": "NME",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
       "id": "c21cc1244ed8",
       "title": "Drake lost the beef and embraced the manosphere. Is it too late for him to win back his audience?",
       "summary": "After his Kendrick Lamar feud, Drake alienated female fans. With new album Iceman, he\u2019s aiming for the top of the charts againDespite his A-list pop star status, there\u2019s been a noticeable scrappiness ",
@@ -269,59 +312,59 @@
       ]
     },
     {
-      "id": "3d6587bda659",
-      "title": "Sony Publishing to Acquire Recognition Music in Billion-Plus Dollar Deal, Including Songs by Fleetwood Mac, Beyonce, Lady Gaga",
-      "summary": "As expected, Sony Music Publishing has announced an agreement to acquire the complete music rights portfolio of Recognition Music Group from funds managed by Blackstone, subject to customary closing c",
-      "company": "Sony Publishing",
-      "link": "https://variety.com/2026/music/news/sony-publishing-acquire-recognition-fleetwood-mac-beyonce-1236744574/",
-      "date": "May 11, 26",
-      "source": "Variety Music",
+      "id": "8552dc1fe7cf",
+      "title": "Sean Healy Celebrates 30 Years as an Independent Live Music Promoter",
+      "summary": "(Los Angeles, CA, February 2, 2026 \u2014 Los Angeles\u2013based concert promoter Sean Healy, founder of Sean Healy Presents (WeBookBands.com&#160;/&#160;SHPTickets.com), is celebrating a major milestone as his",
+      "company": "Sean Healy Celebrates",
+      "link": "https://venuestoday.com/sean-healy-celebrates-30-years-as-an-independent-live-music-promoter/?utm_source=rss&utm_medium=rss&utm_campaign=sean-healy-celebrates-30-years-as-an-independent-live-music-promoter",
+      "date": "Feb 11, 26",
+      "source": "Venues Today",
       "layer": 1,
       "access": "pe",
-      "score": 13,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "2f9fdb47d943",
-      "title": "Cameron Whitcomb Sets \u2018Kingdom of Fear Tour\u2019 Across U.S.",
-      "summary": "Cameron Whitcomb has announced a new U.S. headline \u201cThe Kingdom of Fear Tour,\u201d scheduled for fall 2026. The tour is... The post Cameron Whitcomb Sets \u2018Kingdom of Fear Tour\u2019 Across U.S. appeared first ",
-      "company": "Cameron Whitcomb Sets \u2018Kingdom",
-      "link": "https://www.ticketnews.com/2026/05/cameron-whitcomb-sets-kingdom-of-fear-tour-across-u-s/",
-      "date": "May 11, 26",
-      "source": "Ticket News",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "fb865482e758",
-      "title": "World Cup 2026: is it possible to walk to MetLife Stadium from New York City? \u2013 video",
-      "summary": "Now that the usually $13 train ticket has been hiked up to $105 for the World Cup, a lot of fans have been wondering whether it's possible to walk to MetLife Stadium from New York City. To find out, w",
-      "company": "World Cup 2026",
-      "link": "https://www.theguardian.com/football/video/2026/may/12/world-cup-2026-is-it-possible-to-walk-to-metlife-stadium-from-new-york-city-video",
-      "date": "May 12, 26",
-      "source": "Guardian Sport",
-      "layer": 2,
-      "access": "pe",
-      "score": 11,
+      "score": 14,
       "moments": [
         "company_launch"
       ]
     },
     {
-      "id": "a2dcecf46765",
-      "title": "The Who\u2019s Roger Daltrey Sets Tour Dates for \u2018Possibly\u2019 His Last Solo U.S. Trek",
-      "summary": "The shows, dubbed A Great Night Out, will kick off this summer in Arizona",
-      "company": "The Who\u2019s Roger Daltrey Sets Tour",
-      "link": "https://www.rollingstone.com/music/music-news/roger-daltrey-solo-tour-the-who-1235560489/",
+      "id": "3bc420319172",
+      "title": "PassPass Raises Seed Round at $15M Valuation to Take Viral Scavenger Hunts Nationwide",
+      "summary": "PassPass, the Nashville-based platform blending real-world gaming, rewards, commerce and social virality, has raised a seven-figure seed round at a... The post PassPass Raises Seed Round at $15M Valua",
+      "company": "PassPass Raises Seed Round",
+      "link": "https://www.ticketnews.com/2026/05/passpass-raises-seed-round-valuation-15-million/",
       "date": "May 12, 26",
-      "source": "Rolling Stone Music",
+      "source": "Ticket News",
       "layer": 5,
+      "access": "venture",
+      "score": 12,
+      "moments": [
+        "valuation"
+      ]
+    },
+    {
+      "id": "98d1220152bc",
+      "title": "Stone-Goff invests in real estate tech firm 5Q Partners",
+      "summary": "Concurrent with the investment, 5Q has acquired One11 Advisors, an Alpharetta, Georgia-based professional services firm. The post Stone-Goff invests in real estate tech firm 5Q Partners appeared first",
+      "company": "Stone-Goff",
+      "link": "https://www.pehub.com/stone-goff-invests-in-real-estate-tech-firm-5q-partners/",
+      "date": "May 13, 26",
+      "source": "PE Hub",
+      "layer": 2,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "26c1e62c2415",
+      "title": "Journey Adds New 'Final Frontier' Tour Dates",
+      "summary": "Rob Loud, Stringer/Getty Images / AEG",
+      "company": "Journey Adds New 'Final Frontier' Tour",
+      "link": "https://loudwire.com/journey-40-new-final-frontier-tour-dates/",
+      "date": "May 12, 26",
+      "source": "Loudwire",
+      "layer": 2,
       "access": "pe",
       "score": 9,
       "moments": [
@@ -344,36 +387,6 @@
       ]
     },
     {
-      "id": "acc1b4bb716b",
-      "title": "Can the ITTF bounce back from big losses?",
-      "summary": "This week on The SportBusiness Podcast, co-hosts Jonathan Rest and Martin Ross bring you analysis of this week\u2019s industry developments, big numbers and the context behind the headlines.",
-      "company": "Can",
-      "link": "https://www.sportbusiness.com/2026/05/can-the-ittf-bounce-back-from-big-losses/?utm_source=rss&utm_medium=rss&utm_campaign=can-the-ittf-bounce-back-from-big-losses",
-      "date": "May 08, 26",
-      "source": "Sport Business",
-      "layer": 2,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "56f442e1cf7a",
-      "title": "Live Nation Backs New AI & Entertainment Training Hub in Crenshaw",
-      "summary": "The SoLa Foundation is putting South LA youth closer to the front door of the entertainment business. The nonprofit has... The post Live Nation Backs New AI &amp; Entertainment Training Hub in Crensha",
-      "company": "Live Nation Backs New AI",
-      "link": "https://www.ticketnews.com/2026/05/live-nation-backs-new-ai-entertainment-hub/",
-      "date": "May 11, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 8,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
       "id": "ea85e3c7e97e",
       "title": "This historian dug into old records and found a lost chapter of Chicano L.A. music culture",
       "summary": "Community historian Ruben Molina's discovery of 1950s rhythm & blues records with handwritten tags inspired \"The Dreamy Side,\" a book documenting overlooked Chicano youth culture.",
@@ -389,55 +402,31 @@
       ]
     },
     {
-      "id": "bc1beae3c080",
-      "title": "US Footwear Industry Delivers Modest First-Quarter Growth Driven by Price Increases and Strength in Performance Segment, Circana Reports",
-      "summary": "CHICAGO, IL, May 04, 2026 (GLOBE NEWSWIRE) -- The U.S. footwear industry posted soft dollar growth in the first quarter (Q1) of 2026, with total sales increasing by +1%, versus the same period last ye",
-      "company": "",
-      "link": "https://www.globenewswire.com/news-release/2026/05/04/3286860/0/en/US-Footwear-Industry-Delivers-Modest-First-Quarter-Growth-Driven-by-Price-Increases-and-Strength-in-Performance-Segment-Circana-Reports.html",
-      "date": "May 04, 26",
-      "source": "GlobeNewsWire Deals",
-      "layer": 2,
+      "id": "493fd25ac40c",
+      "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
+      "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
+      "company": "Navigating",
+      "link": "https://venuestoday.com/navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026/?utm_source=rss&utm_medium=rss&utm_campaign=navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026",
+      "date": "Apr 22, 26",
+      "source": "Venues Today",
+      "layer": 3,
       "access": "pe",
-      "score": 10,
-      "moments": []
+      "score": 6,
+      "moments": [
+        "acquisition"
+      ]
     },
     {
-      "id": "d75ad00c6eda",
-      "title": "As College Sports Roils, an Apparel Company Pitches Its Stressed Stock",
-      "summary": "With college athletic departments scrambling for new revenue streams to pay athletes, John Hilburn \u201cHil\u201d Davis IV believes his clothing company, Digital Brands Group (DBGI), can provide something indi",
-      "company": "As College Sports Roils",
-      "link": "https://www.sportico.com/leagues/college-sports/2026/digital-brands-group-avo-college-sports-stock-1234892472/",
+      "id": "9d5610dde3d5",
+      "title": "Under Armour Anticipates Hit From Curry Brand Exit, Narrows Focus",
+      "summary": "Under Armour said Tuesday that the company expects to take a 1% hit to revenues in its current fiscal year due to the ongoing exit from its brand partnership with Golden State Warriors guard Stephen C",
+      "company": "Under Armour Anticipates Hit From Curry",
+      "link": "https://www.sportico.com/business/commerce/2026/under-armour-curry-brand-exit-impact-1234898859/",
       "date": "May 12, 26",
       "source": "Sportico",
       "layer": 2,
-      "access": "public",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "c5cbddcb80da",
-      "title": "Bruin Capital Buys Stake in Sports Promoter Matchroom",
-      "summary": "Bruin Capital has agreed to purchase a minority stake in sports promoter Matchroom, the companies announced on Monday. Financial terms of the deal were not disclosed. But according to a person familia",
-      "company": "Bruin Capital Buys Stake",
-      "link": "https://www.sportico.com/business/finance/2026/bruin-capital-buys-matchroom-stake-1234892421/",
-      "date": "May 11, 26",
-      "source": "Sportico",
-      "layer": 3,
       "access": "pe",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "325f9cdbf3cb",
-      "title": "Braves Earnings Show Promise and Pressure of RSN Shift",
-      "summary": "The club\u2019s revenue surged, aided in part by the earlier season start.",
-      "company": "Braves Earnings Show Promise",
-      "link": "https://frontofficesports.com/braves-earnings-show-promise-and-pressure-of-rsn-shift/",
-      "date": "May 11, 26",
-      "source": "Front Office Sports",
-      "layer": 2,
-      "access": "public",
-      "score": 8,
+      "score": 11,
       "moments": []
     },
     {
@@ -451,19 +440,6 @@
       "layer": 3,
       "access": "pe",
       "score": 8,
-      "moments": []
-    },
-    {
-      "id": "d314d5e91eaa",
-      "title": "Irish broadcaster RT\u00c9 to air \u2018Father Ted\u2019 Eurovision episode in boycott of song contest",
-      "summary": "But co-creator Graham Linehan has hit back at the broadcaster and called for the director general's resignation The post Irish broadcaster RT\u00c9 to air &#8216;Father Ted&#8217; Eurovision episode in boy",
-      "company": "Irish",
-      "link": "https://www.nme.com/news/music/irish-broadcaster-rte-to-air-father-ted-eurovision-episode-in-boycott-of-song-contest-3945060?utm_source=rss&utm_medium=rss&utm_campaign=irish-broadcaster-rte-to-air-father-ted-eurovision-episode-in-boycott-of-song-contest",
-      "date": "May 12, 26",
-      "source": "NME",
-      "layer": 3,
-      "access": "pe",
-      "score": 7,
       "moments": []
     },
     {
@@ -514,6 +490,71 @@
       "date": "May 09, 26",
       "source": "Variety Biz",
       "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "6a4186c010c1",
+      "title": "RAYE to make acting debut in Yann Demange thriller \u2018Lineage\u2019",
+      "summary": "She previously made a cameo as herself in the Netflix drama 'Black Rabbit' starring Jason Bateman and Jude Law The post RAYE to make acting debut in Yann Demange thriller &#8216;Lineage&#8217; appeare",
+      "company": "RAYE",
+      "link": "https://www.nme.com/news/film/raye-to-make-acting-debut-in-yann-demange-thriller-lineage-3945207?utm_source=rss&utm_medium=rss&utm_campaign=raye-to-make-acting-debut-in-yann-demange-thriller-lineage",
+      "date": "May 13, 26",
+      "source": "NME",
+      "layer": 3,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "d33882dfa88a",
+      "title": "Pete Davidson roasted Kanye West as he sat in audience for Kevin Hart Netflix special: \u201cI\u2019ve taken shots from better gay Nazis\u201d",
+      "summary": "The rapper is said to have sat \"stone-faced\" and \"expressionless\" during the comments The post Pete Davidson roasted Kanye West as he sat in audience for Kevin Hart Netflix special: &#8220;I&#8217;ve ",
+      "company": "Pete Davidson",
+      "link": "https://www.nme.com/news/music/pete-davidson-roasted-kanye-west-as-he-sat-in-audience-for-kevin-hart-netflix-special-ive-taken-shots-from-better-gay-nazis-3945211?utm_source=rss&utm_medium=rss&utm_campaign=pete-davidson-roasted-kanye-west-as-he-sat-in-audience-for-kevin-hart-netflix-special-ive-taken-shots-from-better-gay-nazis",
+      "date": "May 13, 26",
+      "source": "NME",
+      "layer": 3,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "bfda2648a074",
+      "title": "Louisiana advances congressional map with reduced Black representation",
+      "summary": "Louisiana senators voted early Wednesday to advance a congressional map that eliminates one of the state's majority-Black districts.Why it matters: The proposed map pits U.S. Rep. Troy Carter against ",
+      "company": "Louisiana",
+      "link": "https://www.axios.com/local/new-orleans/2026/05/13/new-louisiana-congressional-map-advances",
+      "date": "May 13, 26",
+      "source": "Axios",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "177f7a618fbf",
+      "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
+      "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
+      "company": "Global Times",
+      "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/?utm_source=rss&utm_medium=rss&utm_campaign=global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression",
+      "date": "May 09, 26",
+      "source": "Venues Today",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "cf987438aa2a",
+      "title": "NATB Rebrands as National Association of Ticketing Professionals Amid Ticketing Industry Scrutiny",
+      "summary": "The National Association of Ticket Brokers has changed its name to the National Association of Ticketing Professionals, a move the... The post NATB Rebrands as National Association of Ticketing Profes",
+      "company": "NATB Rebrands",
+      "link": "https://www.ticketnews.com/2026/05/natb-rebrands-national-association-ticketing-professionals/",
+      "date": "May 12, 26",
+      "source": "Ticket News",
+      "layer": 3,
       "access": "pe",
       "score": 4,
       "moments": []
