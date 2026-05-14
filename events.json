@@ -1,47 +1,32 @@
 {
-  "generated": "2026-05-13T14:46:11.888793+00:00",
-  "total": 38,
+  "generated": "2026-05-14T14:26:13.883036+00:00",
+  "total": 35,
   "scraped": [
     {
-      "id": "fb8a71184758",
-      "title": "Blitzy Raises $200M At $1.4B Valuation For Autonomous Software Development",
-      "summary": "Blitzy, an autonomous software development startup, said it has raised $200 million in a funding round that values it at $1.4 billion, making it the latest company to receive major investor backing to",
-      "company": "Blitzy Raises",
-      "link": "https://news.crunchbase.com/ai/blitzy-funding-valuation-autonomous-software-development-vibe-coding-startups/",
-      "date": "May 05, 26",
-      "source": "Crunchbase News",
-      "layer": 2,
-      "access": "venture",
+      "id": "caa5d8268b18",
+      "title": "Jeb Bush\u2019s investment house Finback seals almost $500m to close second PE fund",
+      "summary": "Finback Investment Partners, the investment house with Jeb Bush as its founding partner and chairman, has closed its second private equity fund on almost $500m. The post Jeb Bush&#8217;s investment ho",
+      "company": "Jeb Bush\u2019s",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208382.html",
+      "date": "May 13, 26",
+      "source": "AltAssets",
+      "layer": 1,
+      "access": "pe",
       "score": 22,
       "moments": [
-        "funding_round",
-        "valuation"
-      ]
-    },
-    {
-      "id": "409e4a73349f",
-      "title": "Riverside Partners rebrands to RS2 Healthcare Partners, raises CV for 2014 investment Loftware",
-      "summary": "Veteran private equity house Riverside Partners has rebranded to RS2 Healthcare Partners alongside the final close of a continuation fund for its long-held portfolio business Loftware. The post Rivers",
-      "company": "Riverside Partners",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/riverside-partners-rebrands-to-rs2-healthcare-partners-raises-cv-for-2014-investment-loftware.html",
-      "date": "May 12, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 19,
-      "moments": [
         "pe_investment",
-        "fund_launch"
+        "fund_launch",
+        "company_launch"
       ]
     },
     {
-      "id": "59223468a77e",
-      "title": "Intertek to recommend EQT\u2019s \u00a39.4bn final bid",
-      "summary": "TOP STORY: Intertek Group Plc is preparing to support a \u00a39.4bn ($12.7bn) acquisition proposal from Swedish private equity firm EQT AB, following a series of previously rejected bids, according to a re",
-      "company": "Intertek",
-      "link": "https://www.privateequitywire.co.uk/intertek-to-recommend-eqts-9-4bn-final-bid/",
-      "date": "May 13, 26",
-      "source": "PE Wire",
+      "id": "2bd42d6c75f5",
+      "title": "Deal Roundup: Brookfield said to near $1.2bn WFC buyout from EQT, PAI; Boyne Capital backs YZY Fragrances",
+      "summary": "Brookfield Asset Management is reportedly nearing an acquisition of private equity-backed World Freight Company at an enterprise \u200bvalue of about $1.2bn. The post Deal Roundup: Brookfield said to near ",
+      "company": "Deal Roundup",
+      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-brookfield-said-to-near-1-2bn-wfc-buyout-from-eqt-pai-boyne-capital-backs-yzy-fragrances.html",
+      "date": "May 14, 26",
+      "source": "AltAssets",
       "layer": 5,
       "access": "pe",
       "score": 16,
@@ -51,44 +36,44 @@
       ]
     },
     {
-      "id": "ebd2d3412a54",
-      "title": "S2G Investments seals $1bn final close for tech-focused food, agriculture-focused",
-      "summary": "S2G Investments, a multi-asset investment firm focused on food and agriculture, energy, and oceans, has closed its growth-stage Solutions Fund on $1bn. The post S2G Investments seals $1bn final close ",
-      "company": "S2G Investments",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/s2g-investments-seals-1bn-final-close-for-tech-focused-food-agriculture-focused.html",
-      "date": "May 12, 26",
-      "source": "AltAssets",
-      "layer": 5,
+      "id": "0dc05730512d",
+      "title": "\u2018AI isn\u2019t going to have any beneficial influence on humans\u2019: Beth Orton on creativity, craft and the inspirational power of David Bowie",
+      "summary": "Ahead of her new album, the singer-songwriter answers your questions on big 90s nights out, financial survival and the time a whole tube carriage serenaded herI\u2019m curious how you found out you could s",
+      "company": "\u2018AI",
+      "link": "https://www.theguardian.com/music/2026/may/14/beth-orton-interview-ai-creativity-craft-david-bowie",
+      "date": "May 14, 26",
+      "source": "Guardian Music",
+      "layer": 1,
       "access": "pe",
-      "score": 16,
+      "score": 15,
       "moments": [
-        "pe_investment",
-        "fund_launch"
+        "album_announcement",
+        "company_launch"
       ]
     },
     {
-      "id": "51abc77dea8b",
-      "title": "Kalos Ventures eyes workforce tech investments amid AI upheaval, closes $78.8m debut fund",
-      "summary": "Early-stage workforce, care and education tech investor Kalos Ventures Management has secured $78.8m for its oversubscribed debut fund. The post Kalos Ventures eyes workforce tech investments amid AI ",
-      "company": "Kalos Ventures",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/kalos-ventures-eyes-workforce-tech-investments-amid-ai-upheaval-closes-78-8m-debut-fund.html",
-      "date": "May 12, 26",
+      "id": "146caea1942e",
+      "title": "Eventbrite co-founder Hartz, ex-Coatue partner Siegel seal $450m for third A* fund",
+      "summary": "A*, the early stage investor run by Eventbrite co-founder Kevin Hartz and ex-Coatue partner Bennett Siegel, has raised $450m for its third fund. The post Eventbrite co-founder Hartz, ex-Coatue partner",
+      "company": "Eventbrite",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208387.html",
+      "date": "May 14, 26",
       "source": "AltAssets",
-      "layer": 5,
+      "layer": 3,
       "access": "pe",
-      "score": 16,
+      "score": 15,
       "moments": [
         "pe_investment",
-        "fund_launch"
+        "company_launch"
       ]
     },
     {
-      "id": "47ed99ef04f3",
-      "title": "Restive Ventures eyes AI-native financial services opportunity with $45m Fund III",
-      "summary": "Early-stage venture capital firm Restive Ventures has closed its third fund on $45m, with eyes on backing AI-native financial services companies. The post Restive Ventures eyes AI-native financial ser",
-      "company": "Restive Ventures",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/restive-ventures-eyes-ai-native-financial-services-opportunity-with-45m-fund-iii.html",
-      "date": "May 11, 26",
+      "id": "5cf618705529",
+      "title": "Acacia Partners continues \u201cunique\u201d PE fund strategy with hard cap close of fourth vehicle",
+      "summary": "Acacia Partners has hit its hard cap for its fourth \"unique\" private equity fundraise, which it says has advantages including \"the ability to deploy indefinite capital\". The post Acacia Partners conti",
+      "company": "Acacia Partners",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/acacia-partners-continues-unique-pe-fund-strategy-with-hard-cap-close-of-fourth-vehicle.html",
+      "date": "May 14, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -99,12 +84,12 @@
       ]
     },
     {
-      "id": "0cecf4eaf4ef",
-      "title": "S3 Capital collects $1.3bn of investable capital in new construction lending fundraise",
-      "summary": "Private construction lending specialist S3 Capital has raised about $1.3bn of investable capital through a hard cap close of its latest fund. The post S3 Capital collects $1.3bn of investable capital ",
-      "company": "S3 Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/s3-capital-collects-1-3bn-of-investable-capital-in-new-construction-lending-fundraise.html",
-      "date": "May 08, 26",
+      "id": "749bc77ffa49",
+      "title": "European investor Capital A speeds to \u20ac515m Fund V final close",
+      "summary": "Lower mid-market European investor Capital A has raised \u20ac515m for its fifth flagship fund after just two months of fundraising. The post European investor Capital A speeds to \u20ac515m Fund V final close ",
+      "company": "European",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/netherlands-western-europe-europe-by-region/100208377.html",
+      "date": "May 13, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -147,21 +132,6 @@
       ]
     },
     {
-      "id": "16c39216478b",
-      "title": "Olivia Rodrigo's massive 65-date Unraveled Tour includes four L.A. concerts",
-      "summary": "Olivia Rodrigo's massive 65-date Unraveled Tour will include four concerts at Inglewood's Intuit Dome in January 2027, following the release of her new album, 'You Seem Pretty Sad for a Girl So in Lov",
-      "company": "Olivia Rodrigo's",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-04-30/olivia-rodrigo-unraveled-tour-la-concerts-intuit-dome-dates",
-      "date": "Apr 30, 26",
-      "source": "LA Times Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 22,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
       "id": "cb9246465169",
       "title": "Anduril raises $5B, doubles valuation to $61B",
       "summary": "After achieving $2.2 billion in revenue in 2025, the defense tech startup has raised another massive round, led by Thrive and a16z, it says.",
@@ -177,18 +147,63 @@
       ]
     },
     {
-      "id": "c87a63e4b0f5",
-      "title": "William Blair seeks expertise via Inner Circle Sports acquisition amid M&A boom",
-      "summary": "'Inner Circle comes in with real expertise in valuations around sports franchises,' said William Blair's Matthew Zimmer. The post William Blair seeks expertise via Inner Circle Sports acquisition amid",
-      "company": "William Blair",
-      "link": "https://www.pehub.com/william-blair-seeks-expertise-via-inner-circle-sports-acquisition-amid-ma-boom/",
-      "date": "May 13, 26",
-      "source": "PE Hub",
+      "id": "fc55aabe4801",
+      "title": "Artist And Producer: Inside Jackson Dean\u2019s Long-Running Partnership With \u2018Brother\u2019 Luke Dick",
+      "summary": "With his new album, Magnolia Sage, Jackson Dean put a different spin on his established gritty persona. In his first Big Machine album, 2022\u2019s Greenbroke, he declined to include more than one love son",
+      "company": "Artist And Producer",
+      "link": "https://www.billboard.com/music/country/inside-jackson-deans-partnership-with-luke-dick-1236248080/",
+      "date": "May 14, 26",
+      "source": "Billboard",
+      "layer": 1,
+      "access": "pe",
+      "score": 20,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "15cd1b636cfd",
+      "title": "Cricket Australia in talks with Amazon and Dazn over Ashes broadcast rights",
+      "summary": "Deal covers England men\u2019s T20 and ODI tour this autumnMove may lead to new cricket rights holder in UK marketCricket Australia has opened negotiations with a number of broadcasters, including streamin",
+      "company": "Cricket Australia",
+      "link": "https://www.theguardian.com/sport/2026/may/14/cricket-australia-in-talks-with-amazon-and-dazn-over-ashes-broadcast-rights",
+      "date": "May 14, 26",
+      "source": "Guardian Sport",
+      "layer": 3,
+      "access": "pe",
+      "score": 19,
+      "moments": [
+        "rights_deal"
+      ]
+    },
+    {
+      "id": "dc9194b172cc",
+      "title": "Tove Lo announces new album \u2018Estrus\u2019 with sultry single \u2018I\u2019m Your Girl Right?\u2019 and 2026 world tour",
+      "summary": "The Swedish popstar's sixth album is due to be released September 18 via Pretty Swede Records and Virgin Music Group The post Tove Lo announces new album &#8216;Estrus&#8217; with sultry single &#8216",
+      "company": "Tove Lo",
+      "link": "https://www.nme.com/news/music/tove-lo-announces-new-album-estrus-with-sultry-single-im-your-girl-right-and-2026-world-tour-3945391?utm_source=rss&utm_medium=rss&utm_campaign=tove-lo-announces-new-album-estrus-with-sultry-single-im-your-girl-right-and-2026-world-tour",
+      "date": "May 14, 26",
+      "source": "NME",
       "layer": 1,
       "access": "pe",
       "score": 17,
       "moments": [
-        "acquisition"
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "01044fe72db2",
+      "title": "Shakira, Madonna and BTS to headline first World Cup final half-time show",
+      "summary": "Colombian singer last week teased new official tournament songColdplay\u2019s Chris Martin is curating entertainment at MetLife StadiumShakira, Madonna and K-pop megastars BTS will headline a Super Bowl-st",
+      "company": "Shakira Madonna",
+      "link": "https://www.theguardian.com/football/2026/may/14/shakira-madonna-bts-headline-first-world-cup-final-half-time-show",
+      "date": "May 14, 26",
+      "source": "Guardian Sport",
+      "layer": 1,
+      "access": "pe",
+      "score": 17,
+      "moments": [
+        "festival_headliner"
       ]
     },
     {
@@ -204,6 +219,21 @@
       "score": 16,
       "moments": [
         "company_launch"
+      ]
+    },
+    {
+      "id": "724d6a6ed3d9",
+      "title": "FSU Tests New Revenue Model as Schools Cut Sports and Turn to Private Equity",
+      "summary": "\u201cCutting sports isn\u2019t part of the equation for us.\u201d",
+      "company": "FSU Tests New Revenue Model",
+      "link": "https://frontofficesports.com/fsu-tests-new-revenue-model-as-schools-cut-sports-and-turn-to-private-equity/",
+      "date": "May 13, 26",
+      "source": "Front Office Sports",
+      "layer": 2,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "pe_investment"
       ]
     },
     {
@@ -237,21 +267,6 @@
       ]
     },
     {
-      "id": "ca95ff956362",
-      "title": "Nebraska-Playfly Arbitrator Ruling Raises Stakes in House NIL Fight",
-      "summary": "A neutral arbitrator on Monday sided with the College Sports Commission in finding that millions of dollars of purported NIL deals between Playfly Sports and 18 Nebraska football players were properly",
-      "company": "",
-      "link": "https://www.sportico.com/law/analysis/2026/nebraska-football-playfly-nil-arbitration-1234892531/",
-      "date": "May 12, 26",
-      "source": "Sportico",
-      "layer": 4,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "funding_round"
-      ]
-    },
-    {
       "id": "5657c9aed2d9",
       "title": "Katseye Announces \u2018Wildworld\u2019 2026 Tour Dates",
       "summary": "Katseye have announced dates for the \u201cWildworld\u201d tour, taking the group to North America, the U.K. and Europe this fall. Produced by Live Nation, the run will kick off on September 1 at Dublin\u2019s 3Aren",
@@ -267,93 +282,33 @@
       ]
     },
     {
-      "id": "9f3002b2ce6f",
-      "title": "Opposition Mounts to Paramount-WBD Merger. Will It Make a Difference?",
-      "summary": "There&#8217;s a lot of sound and fury against David Ellison&#8217;s pending $111 billion megamerger with Warner Bros. Discovery. But what changes to the current terms of the pact will it signify \u2014 if ",
-      "company": "Opposition Mounts",
-      "link": "https://variety.com/2026/biz/news/paramount-wbd-merger-opposition-will-it-make-a-difference-1236742042/",
-      "date": "May 08, 26",
-      "source": "Variety Biz",
-      "layer": 3,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "0919e59516b9",
-      "title": "Adam Lambert announces album release shows in UK, Europe and North America",
-      "summary": "His sixth solo LP has already been previewed by the powerful single \u2018Eat U Alive\u2019 The post Adam Lambert announces album release shows in UK, Europe and North America appeared first on NME.",
-      "company": "Adam Lambert",
-      "link": "https://www.nme.com/news/music/adam-lambert-announces-album-release-shows-uk-europe-north-america-buy-tickets-3945244?utm_source=rss&utm_medium=rss&utm_campaign=adam-lambert-announces-album-release-shows-uk-europe-north-america-buy-tickets",
-      "date": "May 13, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "c21cc1244ed8",
-      "title": "Drake lost the beef and embraced the manosphere. Is it too late for him to win back his audience?",
-      "summary": "After his Kendrick Lamar feud, Drake alienated female fans. With new album Iceman, he\u2019s aiming for the top of the charts againDespite his A-list pop star status, there\u2019s been a noticeable scrappiness ",
-      "company": "Drake",
-      "link": "https://www.theguardian.com/music/2026/may/12/drake-iceman-essay-toronto-manosphere-adin-ross-new-album-nokia",
-      "date": "May 12, 26",
-      "source": "Guardian Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "8552dc1fe7cf",
-      "title": "Sean Healy Celebrates 30 Years as an Independent Live Music Promoter",
-      "summary": "(Los Angeles, CA, February 2, 2026 \u2014 Los Angeles\u2013based concert promoter Sean Healy, founder of Sean Healy Presents (WeBookBands.com&#160;/&#160;SHPTickets.com), is celebrating a major milestone as his",
-      "company": "Sean Healy Celebrates",
-      "link": "https://venuestoday.com/sean-healy-celebrates-30-years-as-an-independent-live-music-promoter/?utm_source=rss&utm_medium=rss&utm_campaign=sean-healy-celebrates-30-years-as-an-independent-live-music-promoter",
-      "date": "Feb 11, 26",
-      "source": "Venues Today",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "3bc420319172",
-      "title": "PassPass Raises Seed Round at $15M Valuation to Take Viral Scavenger Hunts Nationwide",
-      "summary": "PassPass, the Nashville-based platform blending real-world gaming, rewards, commerce and social virality, has raised a seven-figure seed round at a... The post PassPass Raises Seed Round at $15M Valua",
-      "company": "PassPass Raises Seed Round",
-      "link": "https://www.ticketnews.com/2026/05/passpass-raises-seed-round-valuation-15-million/",
-      "date": "May 12, 26",
-      "source": "Ticket News",
+      "id": "e5f878bd8fd4",
+      "title": "Lansdowne Partners pulls in $150m for university research-based startups, eyes $200m cap by year end",
+      "summary": "UK investment manager Lansdowne Partners has launched a venture capital fund focused on backing high potential UK companies emerging from the country\u2019s university research base and startup ecosystem. ",
+      "company": "Lansdowne Partners",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/lansdowne-partners-pulls-in-150m-for-university-research-based-startups-eyes-200m-cap-by-year-end.html",
+      "date": "May 14, 26",
+      "source": "AltAssets",
       "layer": 5,
-      "access": "venture",
+      "access": "pe",
       "score": 12,
       "moments": [
-        "valuation"
+        "pe_investment"
       ]
     },
     {
-      "id": "98d1220152bc",
-      "title": "Stone-Goff invests in real estate tech firm 5Q Partners",
-      "summary": "Concurrent with the investment, 5Q has acquired One11 Advisors, an Alpharetta, Georgia-based professional services firm. The post Stone-Goff invests in real estate tech firm 5Q Partners appeared first",
-      "company": "Stone-Goff",
-      "link": "https://www.pehub.com/stone-goff-invests-in-real-estate-tech-firm-5q-partners/",
+      "id": "208a2db357b1",
+      "title": "ESPN Wants Its First Super Bowl to Be the Most-Watched Ever",
+      "summary": "Fox\u2019s broadcast of Super Bowl LIX holds the current record.",
+      "company": "ESPN Wants Its First Super Bowl",
+      "link": "https://frontofficesports.com/espn-wants-first-super-bowl-biggest-ever/",
       "date": "May 13, 26",
-      "source": "PE Hub",
-      "layer": 2,
+      "source": "Front Office Sports",
+      "layer": 3,
       "access": "pe",
       "score": 11,
       "moments": [
-        "acquisition"
+        "record_breaking"
       ]
     },
     {
@@ -378,12 +333,72 @@
       "company": "Luna Lab Is Building",
       "link": "https://www.nytimes.com/2026/05/12/arts/music/luna-composition-lab.html",
       "date": "May 12, 26",
-      "source": "NYT Arts",
+      "source": "NYT Music",
       "layer": 5,
       "access": "pe",
       "score": 9,
       "moments": [
         "company_launch"
+      ]
+    },
+    {
+      "id": "90edf998c74c",
+      "title": "Verdane completes acquisition of Augmentum Fintech",
+      "summary": "Augmentum invests in fast-growing European fintech businesses disrupting the financial services sector. The post Verdane completes acquisition of Augmentum Fintech appeared first on PE Hub.",
+      "company": "Verdane",
+      "link": "https://www.pehub.com/verdane-completes-acquisition-of-augmentum-fintech/",
+      "date": "May 14, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "27bec6c5a660",
+      "title": "Robinhood\u2019s venture fund IPO attracted 150,000+ retail investors, CEO says",
+      "summary": "Robinhood CEO Vlad Tenev says more than 150,000 retail investors joined the fintech\u2019s new venture fund, which offers exposure to private tech companies like OpenAI, Stripe, Databricks, and Oura before",
+      "company": "Robinhood\u2019s",
+      "link": "https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/",
+      "date": "May 06, 26",
+      "source": "TechCrunch Venture",
+      "layer": 5,
+      "access": "venture",
+      "score": 9,
+      "moments": [
+        "ipo"
+      ]
+    },
+    {
+      "id": "e3a757cd6b7f",
+      "title": "Atlas Health Capital speeds to oversubscribed \u00a3400m for debut fund",
+      "summary": "European healthcare investor Atlas Health Capital has closed its oversubscribed debut fund on its \u00a3400m hard cap. The post Atlas Health Capital speeds to oversubscribed \u00a3400m for debut fund appeared f",
+      "company": "Atlas Health Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/100208396.html",
+      "date": "May 14, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "8bd883011a9f",
+      "title": "Fibank successfully closed a record-breaking international placement for a Bulgarian bank, raising a total of EUR 310 million across two bond issues",
+      "summary": "SOFIA, Bulgaria, May 14, 2026 /PRNewswire/ -- Fibank (First Investment Bank) has successfully placed two bond issues on the international capital markets for a total value of EUR 310 million. These ar",
+      "company": "Fibank successfully",
+      "link": "https://www.prnewswire.com/news-releases/fibank-successfully-closed-a-record-breaking-international-placement-for-a-bulgarian-bank-raising-a-total-of-eur-310-million-across-two-bond-issues-302772471.html",
+      "date": "May 14, 26",
+      "source": "PR Newswire",
+      "layer": 2,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "record_breaking"
       ]
     },
     {
@@ -417,42 +432,42 @@
       ]
     },
     {
-      "id": "9d5610dde3d5",
-      "title": "Under Armour Anticipates Hit From Curry Brand Exit, Narrows Focus",
-      "summary": "Under Armour said Tuesday that the company expects to take a 1% hit to revenues in its current fiscal year due to the ongoing exit from its brand partnership with Golden State Warriors guard Stephen C",
-      "company": "Under Armour Anticipates Hit From Curry",
-      "link": "https://www.sportico.com/business/commerce/2026/under-armour-curry-brand-exit-impact-1234898859/",
-      "date": "May 12, 26",
-      "source": "Sportico",
+      "id": "91a31c31fbde",
+      "title": "\u2018KPop Demon Hunters\u2019 Global Concert Tour Set by Netflix and AEG Presents",
+      "summary": "Netflix is launching a &#8220;KPop Demon Hunters&#8221; global concert tour. The news was announced during the streamer&#8217;s presentation to ad buyers at upfronts in New York City. Details about th",
+      "company": "\u2018KPop Demon Hunters\u2019 Global Concert Tour",
+      "link": "https://variety.com/2026/tv/news/kpop-demon-hunters-global-concert-tour-netflix-aeg-1236747546/",
+      "date": "May 13, 26",
+      "source": "Variety Music",
+      "layer": 3,
+      "access": "pe",
+      "score": 17,
+      "moments": []
+    },
+    {
+      "id": "c31c65408139",
+      "title": "StubHub Q1 Results Show Resale Growth as Fight Over Ticket Distribution Intensifies",
+      "summary": "StubHub opened 2026 with higher sales, rising revenue, and a return to profitability, strengthening the newly public marketplace as the... The post StubHub Q1 Results Show Resale Growth as Fight Over ",
+      "company": "StubHub Q1 Results Show Resale Growth",
+      "link": "https://www.ticketnews.com/2026/05/stubhub-q1-results-show-resale-growth-as-fight-over-ticket-distribution-intensifies/",
+      "date": "May 13, 26",
+      "source": "Ticket News",
       "layer": 2,
       "access": "pe",
-      "score": 11,
+      "score": 12,
       "moments": []
     },
     {
-      "id": "fef2c57edcfa",
-      "title": "Biden to fight DOJ's release of ghostwriter tapes",
-      "summary": "Former President Biden is preparing to ask a court to stop the Trump administration from releasing his conversations with his ghostwriter, tapes that played a central role in a classified-documents in",
-      "company": "Biden",
-      "link": "https://www.axios.com/2026/05/10/biden-justice-department-ghostwriter-tapes-classified-docs",
-      "date": "May 10, 26",
-      "source": "Axios",
+      "id": "b1592acf0b45",
+      "title": "Ticketmaster President\u2019s Queue Comments Open New Transparency Questions Over Ticket Sales Process",
+      "summary": "Ticketmaster is facing a fresh wave of scrutiny after a public exchange on X raised new questions about how the... The post Ticketmaster President\u2019s Queue Comments Open New Transparency Questions Over",
+      "company": "",
+      "link": "https://www.ticketnews.com/2026/05/ticketmaster-presidents-queue-comments-open-new-transparency-questions-over-ticket-sales-process/",
+      "date": "May 14, 26",
+      "source": "Ticket News",
       "layer": 3,
       "access": "pe",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "cec4a93c0b06",
-      "title": "Sky Toasts BAFTA TV Nominees at Annual Unmissable Television Celebration",
-      "summary": "Ahead of the BAFTA TV Awards tomorrow night, celebrations were in full swing in London on Saturday afternoon as Sky hosted its annual Unmissable Television celebration for its BAFTA TV &#38; Craft nom",
-      "company": "Sky Toasts BAFTA TV Nominees",
-      "link": "https://variety.com/2026/biz/events/sky-toasts-bafta-tv-nominees-annual-celebration-1236742391/",
-      "date": "May 09, 26",
-      "source": "Variety Biz",
-      "layer": 3,
-      "access": "pe",
-      "score": 5,
+      "score": 7,
       "moments": []
     },
     {
@@ -466,58 +481,6 @@
       "layer": 4,
       "access": "pe",
       "score": 5,
-      "moments": []
-    },
-    {
-      "id": "fdada434e12c",
-      "title": "UC-Irvine to face Hawaii in NCAA men's volleyball championship",
-      "summary": "No. 2 Hawaii beat No. 3 Long Beach and unranked UC Irvine extended its run after beating No. 1 UCLA earlier in the men's volleyball NCAA tournament.",
-      "company": "UC-Irvine",
-      "link": "https://www.latimes.com/sports/story/2026-05-10/uc-irvine-to-face-hawaii-in-ncaa-mens-volleyball-championship",
-      "date": "May 10, 26",
-      "source": "LA Times Sports",
-      "layer": 4,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "bc6a11dc7d18",
-      "title": "Television Academy Endorses Post-Production Tax Credit Bill as Assemblyman Nick Schultz Rallies Support in Burbank: \u2018We Should Have Done This a...",
-      "summary": "The drive to pass a post-production tax credit bill in the California legislature received a boost Friday night when the California Post Alliance announced that the Television Academy has joined the f",
-      "company": "",
-      "link": "https://variety.com/2026/tv/news/television-academy-post-production-tax-credit-nick-schultz-1236742365/",
-      "date": "May 09, 26",
-      "source": "Variety Biz",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "6a4186c010c1",
-      "title": "RAYE to make acting debut in Yann Demange thriller \u2018Lineage\u2019",
-      "summary": "She previously made a cameo as herself in the Netflix drama 'Black Rabbit' starring Jason Bateman and Jude Law The post RAYE to make acting debut in Yann Demange thriller &#8216;Lineage&#8217; appeare",
-      "company": "RAYE",
-      "link": "https://www.nme.com/news/film/raye-to-make-acting-debut-in-yann-demange-thriller-lineage-3945207?utm_source=rss&utm_medium=rss&utm_campaign=raye-to-make-acting-debut-in-yann-demange-thriller-lineage",
-      "date": "May 13, 26",
-      "source": "NME",
-      "layer": 3,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "d33882dfa88a",
-      "title": "Pete Davidson roasted Kanye West as he sat in audience for Kevin Hart Netflix special: \u201cI\u2019ve taken shots from better gay Nazis\u201d",
-      "summary": "The rapper is said to have sat \"stone-faced\" and \"expressionless\" during the comments The post Pete Davidson roasted Kanye West as he sat in audience for Kevin Hart Netflix special: &#8220;I&#8217;ve ",
-      "company": "Pete Davidson",
-      "link": "https://www.nme.com/news/music/pete-davidson-roasted-kanye-west-as-he-sat-in-audience-for-kevin-hart-netflix-special-ive-taken-shots-from-better-gay-nazis-3945211?utm_source=rss&utm_medium=rss&utm_campaign=pete-davidson-roasted-kanye-west-as-he-sat-in-audience-for-kevin-hart-netflix-special-ive-taken-shots-from-better-gay-nazis",
-      "date": "May 13, 26",
-      "source": "NME",
-      "layer": 3,
-      "access": "pe",
-      "score": 4,
       "moments": []
     },
     {
@@ -547,12 +510,12 @@
       "moments": []
     },
     {
-      "id": "cf987438aa2a",
-      "title": "NATB Rebrands as National Association of Ticketing Professionals Amid Ticketing Industry Scrutiny",
-      "summary": "The National Association of Ticket Brokers has changed its name to the National Association of Ticketing Professionals, a move the... The post NATB Rebrands as National Association of Ticketing Profes",
-      "company": "NATB Rebrands",
-      "link": "https://www.ticketnews.com/2026/05/natb-rebrands-national-association-ticketing-professionals/",
-      "date": "May 12, 26",
+      "id": "5fc3466140fd",
+      "title": "California AG Presses FIFA Over World Cup Ticket Maps After Fans Say Seat Categories Were Changed After Purchase",
+      "summary": "The inquiry marks a major escalation in the backlash over FIFA\u2019s 2026 World Cup ticketing system, moving complaints about shifting... The post California AG Presses FIFA Over World Cup Ticket Maps Aft",
+      "company": "California AG Presses FIFA Over World",
+      "link": "https://www.ticketnews.com/2026/05/california-ag-presses-fifa-over-world-cup-ticket-maps-after-fans-say-seat-categories-were-changed-after-purchase/",
+      "date": "May 13, 26",
       "source": "Ticket News",
       "layer": 3,
       "access": "pe",
