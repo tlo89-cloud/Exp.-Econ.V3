@@ -1,22 +1,21 @@
 {
-  "generated": "2026-05-14T14:26:13.883036+00:00",
-  "total": 35,
+  "generated": "2026-05-15T14:19:47.414205+00:00",
+  "total": 33,
   "scraped": [
     {
-      "id": "caa5d8268b18",
-      "title": "Jeb Bush\u2019s investment house Finback seals almost $500m to close second PE fund",
-      "summary": "Finback Investment Partners, the investment house with Jeb Bush as its founding partner and chairman, has closed its second private equity fund on almost $500m. The post Jeb Bush&#8217;s investment ho",
-      "company": "Jeb Bush\u2019s",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208382.html",
-      "date": "May 13, 26",
-      "source": "AltAssets",
+      "id": "2de1ed3bf584",
+      "title": "The War on Drugs Confirm 2026 U.S. Tour Dates, Hint at First Album in Five Years",
+      "summary": "The War on Drugs are expanding their live plans for 2026, unveiling a new batch of U.S. headlining shows while... The post The War on Drugs Confirm 2026 U.S. Tour Dates, Hint at First Album in Five Ye",
+      "company": "The War",
+      "link": "https://www.ticketnews.com/2026/05/the-war-on-drugs-confirm-2026-u-s-tour-dates-hint-at-first-album-in-five-years/",
+      "date": "May 14, 26",
+      "source": "Ticket News",
       "layer": 1,
       "access": "pe",
-      "score": 22,
+      "score": 21,
       "moments": [
-        "pe_investment",
-        "fund_launch",
-        "company_launch"
+        "tour_announcement",
+        "festival_headliner"
       ]
     },
     {
@@ -33,22 +32,6 @@
       "moments": [
         "acquisition",
         "pe_investment"
-      ]
-    },
-    {
-      "id": "0dc05730512d",
-      "title": "\u2018AI isn\u2019t going to have any beneficial influence on humans\u2019: Beth Orton on creativity, craft and the inspirational power of David Bowie",
-      "summary": "Ahead of her new album, the singer-songwriter answers your questions on big 90s nights out, financial survival and the time a whole tube carriage serenaded herI\u2019m curious how you found out you could s",
-      "company": "\u2018AI",
-      "link": "https://www.theguardian.com/music/2026/may/14/beth-orton-interview-ai-creativity-craft-david-bowie",
-      "date": "May 14, 26",
-      "source": "Guardian Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "album_announcement",
-        "company_launch"
       ]
     },
     {
@@ -74,22 +57,6 @@
       "company": "Acacia Partners",
       "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/acacia-partners-continues-unique-pe-fund-strategy-with-hard-cap-close-of-fourth-vehicle.html",
       "date": "May 14, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "749bc77ffa49",
-      "title": "European investor Capital A speeds to \u20ac515m Fund V final close",
-      "summary": "Lower mid-market European investor Capital A has raised \u20ac515m for its fifth flagship fund after just two months of fundraising. The post European investor Capital A speeds to \u20ac515m Fund V final close ",
-      "company": "European",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/netherlands-western-europe-europe-by-region/100208377.html",
-      "date": "May 13, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -147,66 +114,6 @@
       ]
     },
     {
-      "id": "fc55aabe4801",
-      "title": "Artist And Producer: Inside Jackson Dean\u2019s Long-Running Partnership With \u2018Brother\u2019 Luke Dick",
-      "summary": "With his new album, Magnolia Sage, Jackson Dean put a different spin on his established gritty persona. In his first Big Machine album, 2022\u2019s Greenbroke, he declined to include more than one love son",
-      "company": "Artist And Producer",
-      "link": "https://www.billboard.com/music/country/inside-jackson-deans-partnership-with-luke-dick-1236248080/",
-      "date": "May 14, 26",
-      "source": "Billboard",
-      "layer": 1,
-      "access": "pe",
-      "score": 20,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "15cd1b636cfd",
-      "title": "Cricket Australia in talks with Amazon and Dazn over Ashes broadcast rights",
-      "summary": "Deal covers England men\u2019s T20 and ODI tour this autumnMove may lead to new cricket rights holder in UK marketCricket Australia has opened negotiations with a number of broadcasters, including streamin",
-      "company": "Cricket Australia",
-      "link": "https://www.theguardian.com/sport/2026/may/14/cricket-australia-in-talks-with-amazon-and-dazn-over-ashes-broadcast-rights",
-      "date": "May 14, 26",
-      "source": "Guardian Sport",
-      "layer": 3,
-      "access": "pe",
-      "score": 19,
-      "moments": [
-        "rights_deal"
-      ]
-    },
-    {
-      "id": "dc9194b172cc",
-      "title": "Tove Lo announces new album \u2018Estrus\u2019 with sultry single \u2018I\u2019m Your Girl Right?\u2019 and 2026 world tour",
-      "summary": "The Swedish popstar's sixth album is due to be released September 18 via Pretty Swede Records and Virgin Music Group The post Tove Lo announces new album &#8216;Estrus&#8217; with sultry single &#8216",
-      "company": "Tove Lo",
-      "link": "https://www.nme.com/news/music/tove-lo-announces-new-album-estrus-with-sultry-single-im-your-girl-right-and-2026-world-tour-3945391?utm_source=rss&utm_medium=rss&utm_campaign=tove-lo-announces-new-album-estrus-with-sultry-single-im-your-girl-right-and-2026-world-tour",
-      "date": "May 14, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 17,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "01044fe72db2",
-      "title": "Shakira, Madonna and BTS to headline first World Cup final half-time show",
-      "summary": "Colombian singer last week teased new official tournament songColdplay\u2019s Chris Martin is curating entertainment at MetLife StadiumShakira, Madonna and K-pop megastars BTS will headline a Super Bowl-st",
-      "company": "Shakira Madonna",
-      "link": "https://www.theguardian.com/football/2026/may/14/shakira-madonna-bts-headline-first-world-cup-final-half-time-show",
-      "date": "May 14, 26",
-      "source": "Guardian Sport",
-      "layer": 1,
-      "access": "pe",
-      "score": 17,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
       "id": "7a468132ba18",
       "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
       "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
@@ -222,18 +129,18 @@
       ]
     },
     {
-      "id": "724d6a6ed3d9",
-      "title": "FSU Tests New Revenue Model as Schools Cut Sports and Turn to Private Equity",
-      "summary": "\u201cCutting sports isn\u2019t part of the equation for us.\u201d",
-      "company": "FSU Tests New Revenue Model",
-      "link": "https://frontofficesports.com/fsu-tests-new-revenue-model-as-schools-cut-sports-and-turn-to-private-equity/",
-      "date": "May 13, 26",
-      "source": "Front Office Sports",
-      "layer": 2,
+      "id": "7cbf570badab",
+      "title": "Drake Drops 3 Albums: \u2018Iceman,\u2019 \u2018Habibti\u2019 and \u2018Maid of Honour\u2019",
+      "summary": "The chart-topping Canadian rapper released an anticipated new album, \u201cIceman,\u201d on Friday and two previously unannounced LPs, \u201cHabibti\u201d and \u201cMaid of Honour.\u201d",
+      "company": "Drake Drops 3 Albums",
+      "link": "https://www.nytimes.com/2026/05/15/arts/music/drake-new-albums-iceman-habibti-maid-of-honour.html",
+      "date": "May 15, 26",
+      "source": "NYT Arts",
+      "layer": 1,
       "access": "pe",
       "score": 15,
       "moments": [
-        "pe_investment"
+        "album_announcement"
       ]
     },
     {
@@ -252,33 +159,108 @@
       ]
     },
     {
-      "id": "66db92afdfc7",
-      "title": "Katie Haun raises $1B for new venture funds",
-      "summary": "Katie Haun announced on Monday that $1 billion has been raised across new funds to continue the firm\u2019s thesis of backing crypto and blockchain startups.",
-      "company": "Katie Haun",
-      "link": "https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/",
-      "date": "May 04, 26",
-      "source": "TechCrunch Venture",
+      "id": "aea43ac70275",
+      "title": "Morrissey announces winter 2026 UK tour",
+      "summary": "He will play five dates in December in support of new album 'Make-Up Is A Lie' The post Morrissey announces winter 2026 UK tour appeared first on NME.",
+      "company": "Morrissey",
+      "link": "https://www.nme.com/news/music/morrissey-announces-winter-2026-uk-tour-3945580?utm_source=rss&utm_medium=rss&utm_campaign=morrissey-announces-winter-2026-uk-tour",
+      "date": "May 15, 26",
+      "source": "NME",
       "layer": 1,
-      "access": "venture",
-      "score": 15,
-      "moments": [
-        "funding_round"
-      ]
-    },
-    {
-      "id": "5657c9aed2d9",
-      "title": "Katseye Announces \u2018Wildworld\u2019 2026 Tour Dates",
-      "summary": "Katseye have announced dates for the \u201cWildworld\u201d tour, taking the group to North America, the U.K. and Europe this fall. Produced by Live Nation, the run will kick off on September 1 at Dublin\u2019s 3Aren",
-      "company": "Katseye Announces \u2018Wildworld\u2019",
-      "link": "https://variety.com/2026/music/news/katseye-wildworld-2026-tour-dates-1236747302/",
-      "date": "May 13, 26",
-      "source": "Variety Music",
-      "layer": 2,
       "access": "pe",
       "score": 14,
       "moments": [
-        "tour_announcement"
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "5acd07f1eb00",
+      "title": "BTS, Madonna and Shakira to perform at World Cup final halftime show",
+      "summary": "BTS, Madonna and Shakira will headline the World Cup final halftime show on July 19 at MetLife Stadium in New Jersey, marking the first Super Bowl-style performance at a World Cup final.",
+      "company": "BTS Madonna",
+      "link": "https://www.latimes.com/sports/story/2026-05-14/bts-madonna-shakira-world-cup-final-halftime-show",
+      "date": "May 14, 26",
+      "source": "LA Times Sports",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "8552dc1fe7cf",
+      "title": "Sean Healy Celebrates 30 Years as an Independent Live Music Promoter",
+      "summary": "(Los Angeles, CA, February 2, 2026 \u2014 Los Angeles\u2013based concert promoter Sean Healy, founder of Sean Healy Presents (WeBookBands.com&#160;/&#160;SHPTickets.com), is celebrating a major milestone as his",
+      "company": "Sean Healy Celebrates",
+      "link": "https://venuestoday.com/sean-healy-celebrates-30-years-as-an-independent-live-music-promoter/?utm_source=rss&utm_medium=rss&utm_campaign=sean-healy-celebrates-30-years-as-an-independent-live-music-promoter",
+      "date": "Feb 11, 26",
+      "source": "Venues Today",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "6eae844656df",
+      "title": "Julieta Venegas: La Leyenda de Tijuana",
+      "summary": "The Grammy-winning singer-songwriter discusses her dual memoir and album release, \"Norte\u00f1a,\" which features collaborations with Natalia Lafourcade, Yahritza y Su Esencia, Meme del Real and Bronco.",
+      "company": "Julieta Venegas",
+      "link": "https://www.latimes.com/delos/story/2026-05-11/julieta-venegas-nortena-album-book-interview",
+      "date": "May 11, 26",
+      "source": "LA Times Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "78961de16a68",
+      "title": "Balance Point injects capital into jewelry retail software provider The Edge",
+      "summary": "The investment is in connection with Serent Capital\u2019s acquisition of The Edge. The post Balance Point injects capital into jewelry retail software provider The Edge appeared first on PE Hub.",
+      "company": "Balance Point",
+      "link": "https://www.pehub.com/balance-point-injects-capital-into-jewelry-retail-software-provider-the-edge/",
+      "date": "May 14, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "b05c3d7baad4",
+      "title": "Ex-Sony, Panavision arm exec Hallen raises debut Hallstone Venture fund targeting AI in media, advertising",
+      "summary": "Hallstone Ventures, a Los Angeles-based seed investor backing AI-driven infrastructure for media, entertainment and advertising, has closed its debut fund. The post Ex-Sony, Panavision arm exec Hallen",
+      "company": "Ex-Sony Panavision",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208431.html",
+      "date": "May 15, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "99f8550ebc2b",
+      "title": "Secondaries volume down year-on-year in Q1, but remains \u2018resilient\u2019: PJT Partners",
+      "summary": "The booming global private secondaries market has stuttered slightly in Q1 of this year, but its resilience and fundamentals remain intact according to a new report from advisory-focused investment ba",
+      "company": "Secondaries",
+      "link": "https://www.altassets.net/featured/secondaries-volume-down-year-on-year-in-q1-but-remains-resilient-pjt-partners.html",
+      "date": "May 15, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "pe_investment"
       ]
     },
     {
@@ -297,18 +279,18 @@
       ]
     },
     {
-      "id": "208a2db357b1",
-      "title": "ESPN Wants Its First Super Bowl to Be the Most-Watched Ever",
-      "summary": "Fox\u2019s broadcast of Super Bowl LIX holds the current record.",
-      "company": "ESPN Wants Its First Super Bowl",
-      "link": "https://frontofficesports.com/espn-wants-first-super-bowl-biggest-ever/",
-      "date": "May 13, 26",
+      "id": "ecec063a5045",
+      "title": "Lawmakers Want Private Equity Out of Youth Sports",
+      "summary": "Several Democrats have proposed legislation to get PE out of youth sports.",
+      "company": "Lawmakers Want Private Equity Out",
+      "link": "https://frontofficesports.com/lawmakers-want-private-equity-out-of-youth-sports/",
+      "date": "May 14, 26",
       "source": "Front Office Sports",
-      "layer": 3,
+      "layer": 5,
       "access": "pe",
-      "score": 11,
+      "score": 9,
       "moments": [
-        "record_breaking"
+        "pe_investment"
       ]
     },
     {
@@ -342,66 +324,6 @@
       ]
     },
     {
-      "id": "90edf998c74c",
-      "title": "Verdane completes acquisition of Augmentum Fintech",
-      "summary": "Augmentum invests in fast-growing European fintech businesses disrupting the financial services sector. The post Verdane completes acquisition of Augmentum Fintech appeared first on PE Hub.",
-      "company": "Verdane",
-      "link": "https://www.pehub.com/verdane-completes-acquisition-of-augmentum-fintech/",
-      "date": "May 14, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "27bec6c5a660",
-      "title": "Robinhood\u2019s venture fund IPO attracted 150,000+ retail investors, CEO says",
-      "summary": "Robinhood CEO Vlad Tenev says more than 150,000 retail investors joined the fintech\u2019s new venture fund, which offers exposure to private tech companies like OpenAI, Stripe, Databricks, and Oura before",
-      "company": "Robinhood\u2019s",
-      "link": "https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/",
-      "date": "May 06, 26",
-      "source": "TechCrunch Venture",
-      "layer": 5,
-      "access": "venture",
-      "score": 9,
-      "moments": [
-        "ipo"
-      ]
-    },
-    {
-      "id": "e3a757cd6b7f",
-      "title": "Atlas Health Capital speeds to oversubscribed \u00a3400m for debut fund",
-      "summary": "European healthcare investor Atlas Health Capital has closed its oversubscribed debut fund on its \u00a3400m hard cap. The post Atlas Health Capital speeds to oversubscribed \u00a3400m for debut fund appeared f",
-      "company": "Atlas Health Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/100208396.html",
-      "date": "May 14, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "8bd883011a9f",
-      "title": "Fibank successfully closed a record-breaking international placement for a Bulgarian bank, raising a total of EUR 310 million across two bond issues",
-      "summary": "SOFIA, Bulgaria, May 14, 2026 /PRNewswire/ -- Fibank (First Investment Bank) has successfully placed two bond issues on the international capital markets for a total value of EUR 310 million. These ar",
-      "company": "Fibank successfully",
-      "link": "https://www.prnewswire.com/news-releases/fibank-successfully-closed-a-record-breaking-international-placement-for-a-bulgarian-bank-raising-a-total-of-eur-310-million-across-two-bond-issues-302772471.html",
-      "date": "May 14, 26",
-      "source": "PR Newswire",
-      "layer": 2,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "record_breaking"
-      ]
-    },
-    {
       "id": "ea85e3c7e97e",
       "title": "This historian dug into old records and found a lost chapter of Chicano L.A. music culture",
       "summary": "Community historian Ruben Molina's discovery of 1950s rhythm & blues records with handwritten tags inspired \"The Dreamy Side,\" a book documenting overlooked Chicano youth culture.",
@@ -432,53 +354,105 @@
       ]
     },
     {
-      "id": "91a31c31fbde",
-      "title": "\u2018KPop Demon Hunters\u2019 Global Concert Tour Set by Netflix and AEG Presents",
-      "summary": "Netflix is launching a &#8220;KPop Demon Hunters&#8221; global concert tour. The news was announced during the streamer&#8217;s presentation to ad buyers at upfronts in New York City. Details about th",
-      "company": "\u2018KPop Demon Hunters\u2019 Global Concert Tour",
-      "link": "https://variety.com/2026/tv/news/kpop-demon-hunters-global-concert-tour-netflix-aeg-1236747546/",
-      "date": "May 13, 26",
+      "id": "75fb898981cd",
+      "title": "Revenue predictability pulls PE to testing and inspection: 5 deals",
+      "summary": "Ardian, Blackstone, Bridgepoint and EQT and are among the firms tapping into the TICC industry. The post Revenue predictability pulls PE to testing and inspection: 5 deals appeared first on PE Hub.",
+      "company": "Revenue",
+      "link": "https://www.pehub.com/revenue-predictability-pulls-pe-to-testing-and-inspection-5-deals/",
+      "date": "May 15, 26",
+      "source": "PE Hub",
+      "layer": 2,
+      "access": "pe",
+      "score": 10,
+      "moments": []
+    },
+    {
+      "id": "bc1beae3c080",
+      "title": "US Footwear Industry Delivers Modest First-Quarter Growth Driven by Price Increases and Strength in Performance Segment, Circana Reports",
+      "summary": "CHICAGO, IL, May 04, 2026 (GLOBE NEWSWIRE) -- The U.S. footwear industry posted soft dollar growth in the first quarter (Q1) of 2026, with total sales increasing by +1%, versus the same period last ye",
+      "company": "",
+      "link": "https://www.globenewswire.com/news-release/2026/05/04/3286860/0/en/US-Footwear-Industry-Delivers-Modest-First-Quarter-Growth-Driven-by-Price-Increases-and-Strength-in-Performance-Segment-Circana-Reports.html",
+      "date": "May 04, 26",
+      "source": "GlobeNewsWire Deals",
+      "layer": 2,
+      "access": "pe",
+      "score": 10,
+      "moments": []
+    },
+    {
+      "id": "d5ab954e4aab",
+      "title": "Maximize Every Square Foot: Using Digital Authority to Win High-Value Venue Bookings",
+      "summary": "Source: ChatGPT Event organizers often struggle to secure premium venue bookings even when their content or services are strong. Limited visibility, unclear reputation, and weak online authority can r",
+      "company": "Maximize Every Square Foot",
+      "link": "https://venuestoday.com/maximize-every-square-foot-using-digital-authority-to-win-high-value-venue-bookings/?utm_source=rss&utm_medium=rss&utm_campaign=maximize-every-square-foot-using-digital-authority-to-win-high-value-venue-bookings",
+      "date": "Mar 04, 26",
+      "source": "Venues Today",
+      "layer": 2,
+      "access": "pe",
+      "score": 10,
+      "moments": []
+    },
+    {
+      "id": "35bd88f5e910",
+      "title": "Chess: Niemann puts controversy aside and wins $50,000 first prize in Warsaw",
+      "summary": "US grandmaster scored biggest success of his career at the Grand Chess Tour Rapid &amp; Blitz and is close to world top 10Hans Niemann, the controversial US grandmaster whose game with \u00adMagnus Carlsen",
+      "company": "Chess",
+      "link": "https://www.theguardian.com/sport/2026/may/15/chess-niemann-puts-controversy-aside-and-wins-50000-first-prize-in-warsaw",
+      "date": "May 15, 26",
+      "source": "Guardian Sport",
+      "layer": 3,
+      "access": "pe",
+      "score": 8,
+      "moments": []
+    },
+    {
+      "id": "c39759ece3f6",
+      "title": "Gusto hits $1B revenue, a figure that brings it closer to public markets",
+      "summary": "Gusto has shared an impressive milestone on its actual revenue, not an ARR number that estimates future income.",
+      "company": "Gusto",
+      "link": "https://techcrunch.com/2026/05/07/gusto-hits-1b-revenue-a-figure-that-brings-it-closer-to-public-markets/",
+      "date": "May 07, 26",
+      "source": "TechCrunch Startups",
+      "layer": 2,
+      "access": "pe",
+      "score": 8,
+      "moments": []
+    },
+    {
+      "id": "3bb1ad2a50c7",
+      "title": "LISTEN: Upfronts 2026: What We Learned From TV\u2019s Biggest Platforms; Crafting the Music of \u2018Heated Rivalry\u2019",
+      "summary": "On today\u2019s episode of &#8220;Daily Variety&#8221; podcast, Variety\u2019s Michael Schneider breaks down the last lap of upfronts week as Warner Bros. Discovery, Netflix and YouTube grabbed the megaphone. A",
+      "company": "LISTEN",
+      "link": "https://variety.com/2026/tv/news/upfronts-netflix-heated-rivalry-music-daily-variety-podcast-1236749025/",
+      "date": "May 14, 26",
       "source": "Variety Music",
       "layer": 3,
       "access": "pe",
-      "score": 17,
+      "score": 6,
       "moments": []
     },
     {
-      "id": "c31c65408139",
-      "title": "StubHub Q1 Results Show Resale Growth as Fight Over Ticket Distribution Intensifies",
-      "summary": "StubHub opened 2026 with higher sales, rising revenue, and a return to profitability, strengthening the newly public marketplace as the... The post StubHub Q1 Results Show Resale Growth as Fight Over ",
-      "company": "StubHub Q1 Results Show Resale Growth",
-      "link": "https://www.ticketnews.com/2026/05/stubhub-q1-results-show-resale-growth-as-fight-over-ticket-distribution-intensifies/",
-      "date": "May 13, 26",
-      "source": "Ticket News",
-      "layer": 2,
-      "access": "pe",
-      "score": 12,
-      "moments": []
-    },
-    {
-      "id": "b1592acf0b45",
-      "title": "Ticketmaster President\u2019s Queue Comments Open New Transparency Questions Over Ticket Sales Process",
-      "summary": "Ticketmaster is facing a fresh wave of scrutiny after a public exchange on X raised new questions about how the... The post Ticketmaster President\u2019s Queue Comments Open New Transparency Questions Over",
-      "company": "",
-      "link": "https://www.ticketnews.com/2026/05/ticketmaster-presidents-queue-comments-open-new-transparency-questions-over-ticket-sales-process/",
-      "date": "May 14, 26",
-      "source": "Ticket News",
+      "id": "871ae5ba86fb",
+      "title": "Donald Trump Discloses at Least $220 Million in Q1 Financial Transactions, Including Purchases of Paramount, WBD, Netflix, Disney and Comcast...",
+      "summary": "President Donald Trump disclosed thousands of financial transactions for the first quarter of 2026 with a total value of at least $220 million (and as much as $750 million), including those involving ",
+      "company": "Donald Trump Discloses",
+      "link": "https://variety.com/2026/biz/news/donald-trump-financial-disclosure-stock-purchases-paramount-wbd-netflix-disney-comcast-1236749740/",
+      "date": "May 15, 26",
+      "source": "Variety Biz",
       "layer": 3,
       "access": "pe",
-      "score": 7,
+      "score": 5,
       "moments": []
     },
     {
-      "id": "2de6da008078",
-      "title": "UC Irvine proud of its NCAA tournament run despite loss in men's volleyball title game",
-      "summary": "UC Irvine put together a string of upsets, but the Anteaters couldn't knock off Hawaii in the men's volleyball NCAA tournament played Monday at Pauley Pavilion.",
-      "company": "UC Irvine",
-      "link": "https://www.latimes.com/sports/story/2026-05-11/uc-irvine-proud-of-its-ncaa-tournament-run-despite-title-game-loss",
-      "date": "May 12, 26",
-      "source": "LA Times Sports",
-      "layer": 4,
+      "id": "dd2858995739",
+      "title": "Channel 5 secures Commonwealth Games highlights deal as BBC ends 72-year run",
+      "summary": "TNT will show live action having outbid BBC for rightsCorporation indifference sparked by poor viewing figuresChannel 5 has agreed a deal to show a daily highlights programme from the Commonwealth Gam",
+      "company": "Channel",
+      "link": "https://www.theguardian.com/sport/2026/may/15/channel-5-secures-commonwealth-games-highlights-deal-bbc-ends-72-year-run",
+      "date": "May 15, 26",
+      "source": "Guardian Sport",
+      "layer": 3,
       "access": "pe",
       "score": 5,
       "moments": []
@@ -505,19 +479,6 @@
       "date": "May 09, 26",
       "source": "Venues Today",
       "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "5fc3466140fd",
-      "title": "California AG Presses FIFA Over World Cup Ticket Maps After Fans Say Seat Categories Were Changed After Purchase",
-      "summary": "The inquiry marks a major escalation in the backlash over FIFA\u2019s 2026 World Cup ticketing system, moving complaints about shifting... The post California AG Presses FIFA Over World Cup Ticket Maps Aft",
-      "company": "California AG Presses FIFA Over World",
-      "link": "https://www.ticketnews.com/2026/05/california-ag-presses-fifa-over-world-cup-ticket-maps-after-fans-say-seat-categories-were-changed-after-purchase/",
-      "date": "May 13, 26",
-      "source": "Ticket News",
-      "layer": 3,
       "access": "pe",
       "score": 4,
       "moments": []
