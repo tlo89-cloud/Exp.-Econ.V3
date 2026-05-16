@@ -1,21 +1,21 @@
 {
-  "generated": "2026-05-15T14:19:47.414205+00:00",
-  "total": 33,
+  "generated": "2026-05-16T13:42:29.120195+00:00",
+  "total": 36,
   "scraped": [
     {
-      "id": "2de1ed3bf584",
-      "title": "The War on Drugs Confirm 2026 U.S. Tour Dates, Hint at First Album in Five Years",
-      "summary": "The War on Drugs are expanding their live plans for 2026, unveiling a new batch of U.S. headlining shows while... The post The War on Drugs Confirm 2026 U.S. Tour Dates, Hint at First Album in Five Ye",
-      "company": "The War",
-      "link": "https://www.ticketnews.com/2026/05/the-war-on-drugs-confirm-2026-u-s-tour-dates-hint-at-first-album-in-five-years/",
-      "date": "May 14, 26",
-      "source": "Ticket News",
+      "id": "3a115e50b74d",
+      "title": "Drake Is Spotify\u2019s Most-Streamed Artist in a Day for 2026 Following Three-Album Release",
+      "summary": "The rapper dropped Iceman on Friday alongside two other surprise LPs",
+      "company": "Drake Is Spotify\u2019s Most-Streamed Artist",
+      "link": "https://www.rollingstone.com/music/music-news/drake-iceman-spotify-most-streamed-artist-day-record-2026-1235563836/",
+      "date": "May 16, 26",
+      "source": "Rolling Stone Music",
       "layer": 1,
       "access": "pe",
-      "score": 21,
+      "score": 20,
       "moments": [
-        "tour_announcement",
-        "festival_headliner"
+        "album_announcement",
+        "streaming_milestone"
       ]
     },
     {
@@ -47,6 +47,22 @@
       "score": 15,
       "moments": [
         "pe_investment",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "dcfd2200c8e6",
+      "title": "Meridian Ventures launched a $35M fund with a focus on MBA-deferred founders",
+      "summary": "This new fund will back founders building enterprise technology in the United States. Meridian is agnostic, co-founder Devon Gethers said, noting that the firm has already invested in companies in fin",
+      "company": "Meridian Ventures",
+      "link": "https://techcrunch.com/2026/05/15/meridian-ventures-launched-35m-fund-to-back-mba-deferred-founders/",
+      "date": "May 15, 26",
+      "source": "TechCrunch Startups",
+      "layer": 1,
+      "access": "venture",
+      "score": 13,
+      "moments": [
+        "fund_launch",
         "company_launch"
       ]
     },
@@ -129,6 +145,21 @@
       ]
     },
     {
+      "id": "74ca08bb4867",
+      "title": "European Commission EVP Henna Virkkunen on Film Funding Overhaul and Paramount-WBD Merger: It \u2018Might Have to Be Reviewed Under Several EU Regulatory...",
+      "summary": "Henna Virkkunen, EVP of the European Commission responsible for tech sovereignty, security and democracy, made the trek to the Cannes Film Festival on Friday for the first time, just as Europe&#8217;s",
+      "company": "European Commission EVP Henna Virkkunen",
+      "link": "https://variety.com/2026/biz/global/european-commission-henna-virkkunen-paramount-wbd-merger-1236749435/",
+      "date": "May 15, 26",
+      "source": "Variety Biz",
+      "layer": 1,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
       "id": "7cbf570badab",
       "title": "Drake Drops 3 Albums: \u2018Iceman,\u2019 \u2018Habibti\u2019 and \u2018Maid of Honour\u2019",
       "summary": "The chart-topping Canadian rapper released an anticipated new album, \u201cIceman,\u201d on Friday and two previously unannounced LPs, \u201cHabibti\u201d and \u201cMaid of Honour.\u201d",
@@ -139,36 +170,6 @@
       "layer": 1,
       "access": "pe",
       "score": 15,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "3cfede08b6ee",
-      "title": "As crypto cools, a16z crypto raises a $2.2B fund",
-      "summary": "As some of the biggest VCs in crypto start to consider funding AI startups, a16z crypto's new fund will stay the course.",
-      "company": "As",
-      "link": "https://techcrunch.com/2026/05/05/as-crypto-cools-a16zcrypto-raises-a-2-2b-fund/",
-      "date": "May 05, 26",
-      "source": "TechCrunch Venture",
-      "layer": 1,
-      "access": "venture",
-      "score": 15,
-      "moments": [
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "aea43ac70275",
-      "title": "Morrissey announces winter 2026 UK tour",
-      "summary": "He will play five dates in December in support of new album 'Make-Up Is A Lie' The post Morrissey announces winter 2026 UK tour appeared first on NME.",
-      "company": "Morrissey",
-      "link": "https://www.nme.com/news/music/morrissey-announces-winter-2026-uk-tour-3945580?utm_source=rss&utm_medium=rss&utm_campaign=morrissey-announces-winter-2026-uk-tour",
-      "date": "May 15, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
       "moments": [
         "album_announcement"
       ]
@@ -204,18 +205,48 @@
       ]
     },
     {
-      "id": "6eae844656df",
-      "title": "Julieta Venegas: La Leyenda de Tijuana",
-      "summary": "The Grammy-winning singer-songwriter discusses her dual memoir and album release, \"Norte\u00f1a,\" which features collaborations with Natalia Lafourcade, Yahritza y Su Esencia, Meme del Real and Bronco.",
-      "company": "Julieta Venegas",
-      "link": "https://www.latimes.com/delos/story/2026-05-11/julieta-venegas-nortena-album-book-interview",
-      "date": "May 11, 26",
-      "source": "LA Times Music",
+      "id": "8d40aef83e94",
+      "title": "Shanghai's INS LAND Unveils Three New Immersive Venues -- Soul House, Radi, and Jump",
+      "summary": "SHANGHAI, May 16, 2026 /PRNewswire/ -- INS LAND, the urban entertainment complex recently ranked No.12 in DJ Mag's 2026 Top 100 Clubs worldwide and No.3 in Asia, announced the opening of three new ven",
+      "company": "Shanghai's INS LAND Unveils Three New",
+      "link": "https://www.prnewswire.com/news-releases/shanghais-ins-land-unveils-three-new-immersive-venues--soul-house-radi-and-jump-302774089.html",
+      "date": "May 16, 26",
+      "source": "PR Newswire",
+      "layer": 2,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "venue_announcement"
+      ]
+    },
+    {
+      "id": "f9ef5ca732dc",
+      "title": "Ybor City Residents Create Petition to Stop Live Nation\u2019s New Venue Proposal",
+      "summary": "Live Nation is once again moving in on a city&#8217;s music scene, receiving backlash from residents and business owners. The... The post Ybor City Residents Create Petition to Stop Live Nation&#8217;",
+      "company": "Ybor City Residents Create Petition",
+      "link": "https://www.ticketnews.com/2026/05/ybor-city-residents-create-petition-ln-new-proposal/",
+      "date": "May 15, 26",
+      "source": "Ticket News",
+      "layer": 2,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "venue_announcement"
+      ]
+    },
+    {
+      "id": "eade82a8216f",
+      "title": "Sportico Transactions: Moves and Mergers Roundup for May 15",
+      "summary": "Welcome to&#160;Sportico\u2019s&#160;transactions&#160;wire, a weekly rundown of personnel, partnerships and products across the sports business industry. PERSONNEL United Soccer League Names McDonough Pre",
+      "company": "Sportico Transactions",
+      "link": "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-roundup-may-15-1234899328/",
+      "date": "May 15, 26",
+      "source": "Sportico",
       "layer": 1,
       "access": "pe",
       "score": 12,
       "moments": [
-        "album_announcement"
+        "acquisition"
       ]
     },
     {
@@ -279,6 +310,21 @@
       ]
     },
     {
+      "id": "f47e267ef8e9",
+      "title": "Gambling Layoffs Pile Up As Sports Betting Industry Recalibrates",
+      "summary": "Penn Entertainment headlines three companies with layoffs this week.",
+      "company": "Gambling Layoffs Pile Up As Sports",
+      "link": "https://frontofficesports.com/gambling-layoffs-pile-up-as-sports-betting-industry-recalibrates/",
+      "date": "May 15, 26",
+      "source": "Front Office Sports",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
       "id": "ecec063a5045",
       "title": "Lawmakers Want Private Equity Out of Youth Sports",
       "summary": "Several Democrats have proposed legislation to get PE out of youth sports.",
@@ -309,21 +355,6 @@
       ]
     },
     {
-      "id": "080331070c89",
-      "title": "Luna Lab Is Building a Future for Female Composers",
-      "summary": "Missy Mazzoli and Ellen Reid didn\u2019t have female mentors. They founded Luna Composition Lab so young composers would.",
-      "company": "Luna Lab Is Building",
-      "link": "https://www.nytimes.com/2026/05/12/arts/music/luna-composition-lab.html",
-      "date": "May 12, 26",
-      "source": "NYT Music",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
       "id": "ea85e3c7e97e",
       "title": "This historian dug into old records and found a lost chapter of Chicano L.A. music culture",
       "summary": "Community historian Ruben Molina's discovery of 1950s rhythm & blues records with handwritten tags inspired \"The Dreamy Side,\" a book documenting overlooked Chicano youth culture.",
@@ -333,6 +364,21 @@
       "source": "LA Times Music",
       "layer": 3,
       "access": "pe",
+      "score": 6,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "a50ebc3369ab",
+      "title": "ACTOR RUSSELL ANDREWS SHARES ALS DIAGNOSIS, JOINS ALS NETWORK DURING ALS AWARENESS MONTH TO SPOTLIGHT THE POWER OF COMMUNITY",
+      "summary": "Following his 2025 diagnosis, Andrews is sharing his journey to raise awareness and help drive care, research, and advocacy forward. LOS ANGELES, May 16, 2026 /PRNewswire/ -- Russell Andrews, actor, d",
+      "company": "ACTOR RUSSELL ANDREWS SHARES ALS DIAGNOSIS",
+      "link": "https://www.prnewswire.com/news-releases/actor-russell-andrews-shares-als-diagnosis-joins-als-network-during-als-awareness-month-to-spotlight-the-power-of-community-302774024.html",
+      "date": "May 16, 26",
+      "source": "PR Newswire",
+      "layer": 4,
+      "access": "public",
       "score": 6,
       "moments": [
         "company_launch"
@@ -354,6 +400,32 @@
       ]
     },
     {
+      "id": "eab505ad2a0a",
+      "title": "Raskin, Blumenthal to Set Monday Congressional Hearing on Live Nation\u2013Ticketmaster Monopoly and DOJ Settlement",
+      "summary": "The May 18 bicameral forum will feature California Attorney General Rob Bonta, independent venue owners, legal experts and artists as... The post Raskin, Blumenthal to Set Monday Congressional Hearing",
+      "company": "Raskin Blumenthal",
+      "link": "https://www.ticketnews.com/2026/05/raskin-blumenthal-to-set-monday-congressional-hearing-on-live-nation-ticketmaster-monopoly-and-doj-settlement/",
+      "date": "May 16, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 18,
+      "moments": []
+    },
+    {
+      "id": "7852071a036f",
+      "title": "District by Zomato Named Official Ticketing Partner for Etihad Arena",
+      "summary": "The UAE\u2019s leading indoor entertainment venue has announced District by Zomato as its Official Ticketing Partner, a strategic collaboration designed... The post District by Zomato Named Official Ticket",
+      "company": "District",
+      "link": "https://www.ticketnews.com/2026/05/district-by-zomato-ticketing-partner-etihad-arena/",
+      "date": "May 15, 26",
+      "source": "Ticket News",
+      "layer": 2,
+      "access": "pe",
+      "score": 14,
+      "moments": []
+    },
+    {
       "id": "75fb898981cd",
       "title": "Revenue predictability pulls PE to testing and inspection: 5 deals",
       "summary": "Ardian, Blackstone, Bridgepoint and EQT and are among the firms tapping into the TICC industry. The post Revenue predictability pulls PE to testing and inspection: 5 deals appeared first on PE Hub.",
@@ -367,53 +439,14 @@
       "moments": []
     },
     {
-      "id": "bc1beae3c080",
-      "title": "US Footwear Industry Delivers Modest First-Quarter Growth Driven by Price Increases and Strength in Performance Segment, Circana Reports",
-      "summary": "CHICAGO, IL, May 04, 2026 (GLOBE NEWSWIRE) -- The U.S. footwear industry posted soft dollar growth in the first quarter (Q1) of 2026, with total sales increasing by +1%, versus the same period last ye",
-      "company": "",
-      "link": "https://www.globenewswire.com/news-release/2026/05/04/3286860/0/en/US-Footwear-Industry-Delivers-Modest-First-Quarter-Growth-Driven-by-Price-Increases-and-Strength-in-Performance-Segment-Circana-Reports.html",
-      "date": "May 04, 26",
-      "source": "GlobeNewsWire Deals",
-      "layer": 2,
-      "access": "pe",
-      "score": 10,
-      "moments": []
-    },
-    {
-      "id": "d5ab954e4aab",
-      "title": "Maximize Every Square Foot: Using Digital Authority to Win High-Value Venue Bookings",
-      "summary": "Source: ChatGPT Event organizers often struggle to secure premium venue bookings even when their content or services are strong. Limited visibility, unclear reputation, and weak online authority can r",
-      "company": "Maximize Every Square Foot",
-      "link": "https://venuestoday.com/maximize-every-square-foot-using-digital-authority-to-win-high-value-venue-bookings/?utm_source=rss&utm_medium=rss&utm_campaign=maximize-every-square-foot-using-digital-authority-to-win-high-value-venue-bookings",
-      "date": "Mar 04, 26",
-      "source": "Venues Today",
-      "layer": 2,
-      "access": "pe",
-      "score": 10,
-      "moments": []
-    },
-    {
       "id": "35bd88f5e910",
       "title": "Chess: Niemann puts controversy aside and wins $50,000 first prize in Warsaw",
-      "summary": "US grandmaster scored biggest success of his career at the Grand Chess Tour Rapid &amp; Blitz and is close to world top 10Hans Niemann, the controversial US grandmaster whose game with \u00adMagnus Carlsen",
+      "summary": "US grandmaster scored biggest success of his career at the Grand Chess Tour Rapid &amp; Blitz and is close to world top 10Hans Niemann, the controversial US grandmaster whose game with Magnus Carlsen ",
       "company": "Chess",
       "link": "https://www.theguardian.com/sport/2026/may/15/chess-niemann-puts-controversy-aside-and-wins-50000-first-prize-in-warsaw",
       "date": "May 15, 26",
       "source": "Guardian Sport",
       "layer": 3,
-      "access": "pe",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "c39759ece3f6",
-      "title": "Gusto hits $1B revenue, a figure that brings it closer to public markets",
-      "summary": "Gusto has shared an impressive milestone on its actual revenue, not an ARR number that estimates future income.",
-      "company": "Gusto",
-      "link": "https://techcrunch.com/2026/05/07/gusto-hits-1b-revenue-a-figure-that-brings-it-closer-to-public-markets/",
-      "date": "May 07, 26",
-      "source": "TechCrunch Startups",
-      "layer": 2,
       "access": "pe",
       "score": 8,
       "moments": []
@@ -425,10 +458,23 @@
       "company": "LISTEN",
       "link": "https://variety.com/2026/tv/news/upfronts-netflix-heated-rivalry-music-daily-variety-podcast-1236749025/",
       "date": "May 14, 26",
-      "source": "Variety Music",
+      "source": "Variety Biz",
       "layer": 3,
       "access": "pe",
       "score": 6,
+      "moments": []
+    },
+    {
+      "id": "80491a2546a8",
+      "title": "Fifth Season and HarbourView Equity Partners Set Multi-Picture Financing Pact",
+      "summary": "Fifth Season and HarbourView Equity Partners have set a multi-picture financing pact that will help the indie film and TV production outfit bring to life a number of projects including Dev Patel&#8217",
+      "company": "Fifth Season",
+      "link": "https://variety.com/2026/film/news/fifth-season-harbourview-equity-finance-dev-patel-peasant-1236750563/",
+      "date": "May 16, 26",
+      "source": "Variety Biz",
+      "layer": 4,
+      "access": "pe",
+      "score": 5,
       "moments": []
     },
     {
@@ -445,16 +491,16 @@
       "moments": []
     },
     {
-      "id": "dd2858995739",
-      "title": "Channel 5 secures Commonwealth Games highlights deal as BBC ends 72-year run",
-      "summary": "TNT will show live action having outbid BBC for rightsCorporation indifference sparked by poor viewing figuresChannel 5 has agreed a deal to show a daily highlights programme from the Commonwealth Gam",
-      "company": "Channel",
-      "link": "https://www.theguardian.com/sport/2026/may/15/channel-5-secures-commonwealth-games-highlights-deal-bbc-ends-72-year-run",
+      "id": "919e43dceeca",
+      "title": "Thousands in Jockey Sponsorship Value at Stake in Preakness",
+      "summary": "There won\u2019t be a Triple Crown-winning horse this year, as Kentucky Derby winner Golden Tempo will skip the Preakness Stakes on Saturday. There could, however, be a Triple Crown-winning human. That tri",
+      "company": "Thousands",
+      "link": "https://www.sportico.com/business/sponsorship/2026/preakness-stakes-jockey-sponsorships-pay-1234899444/",
       "date": "May 15, 26",
-      "source": "Guardian Sport",
-      "layer": 3,
+      "source": "Sportico",
+      "layer": 4,
       "access": "pe",
-      "score": 5,
+      "score": 4,
       "moments": []
     },
     {
