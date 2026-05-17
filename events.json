@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-16T13:42:29.120195+00:00",
-  "total": 36,
+  "generated": "2026-05-17T13:41:34.757289+00:00",
+  "total": 33,
   "scraped": [
     {
       "id": "3a115e50b74d",
@@ -130,6 +130,21 @@
       ]
     },
     {
+      "id": "c952f46447c1",
+      "title": "SEMIFIVE Reports 137% YoY Revenue Growth in Q1 2026, Accelerating Its Rise as a Key Global Player in AI ASIC",
+      "summary": "Revenue reached KRW 47.9 billion and new orders totaled KRW 55.4 billion, marking a record-breaking performance and signaling the beginning of full-scale growth. Overseas ASIC development revenue, inc",
+      "company": "SEMIFIVE Reports",
+      "link": "https://www.prnewswire.com/news-releases/semifive-reports-137-yoy-revenue-growth-in-q1-2026-accelerating-its-rise-as-a-key-global-player-in-ai-asic-302774168.html",
+      "date": "May 17, 26",
+      "source": "PR Newswire",
+      "layer": 2,
+      "access": "pe",
+      "score": 17,
+      "moments": [
+        "record_breaking"
+      ]
+    },
+    {
       "id": "7a468132ba18",
       "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
       "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
@@ -175,6 +190,21 @@
       ]
     },
     {
+      "id": "ecabd75c0f37",
+      "title": "Drake breaks 2026 streaming records with surprise triple album release",
+      "summary": "The rapper released \u2018Iceman\u2019, \u2018Habibti\u2019 and \u2018Maid Of Honour\u2019 simultaneously on Friday The post Drake breaks 2026 streaming records with surprise triple album release appeared first on NME.",
+      "company": "Drake",
+      "link": "https://www.nme.com/news/music/drake-breaks-2026-streaming-records-with-surprise-triple-album-release-3945722?utm_source=rss&utm_medium=rss&utm_campaign=drake-breaks-2026-streaming-records-with-surprise-triple-album-release",
+      "date": "May 16, 26",
+      "source": "NME",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
       "id": "5acd07f1eb00",
       "title": "BTS, Madonna and Shakira to perform at World Cup final halftime show",
       "summary": "BTS, Madonna and Shakira will headline the World Cup final halftime show on July 19 at MetLife Stadium in New Jersey, marking the first Super Bowl-style performance at a World Cup final.",
@@ -205,21 +235,6 @@
       ]
     },
     {
-      "id": "8d40aef83e94",
-      "title": "Shanghai's INS LAND Unveils Three New Immersive Venues -- Soul House, Radi, and Jump",
-      "summary": "SHANGHAI, May 16, 2026 /PRNewswire/ -- INS LAND, the urban entertainment complex recently ranked No.12 in DJ Mag's 2026 Top 100 Clubs worldwide and No.3 in Asia, announced the opening of three new ven",
-      "company": "Shanghai's INS LAND Unveils Three New",
-      "link": "https://www.prnewswire.com/news-releases/shanghais-ins-land-unveils-three-new-immersive-venues--soul-house-radi-and-jump-302774089.html",
-      "date": "May 16, 26",
-      "source": "PR Newswire",
-      "layer": 2,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "venue_announcement"
-      ]
-    },
-    {
       "id": "f9ef5ca732dc",
       "title": "Ybor City Residents Create Petition to Stop Live Nation\u2019s New Venue Proposal",
       "summary": "Live Nation is once again moving in on a city&#8217;s music scene, receiving backlash from residents and business owners. The... The post Ybor City Residents Create Petition to Stop Live Nation&#8217;",
@@ -232,21 +247,6 @@
       "score": 13,
       "moments": [
         "venue_announcement"
-      ]
-    },
-    {
-      "id": "eade82a8216f",
-      "title": "Sportico Transactions: Moves and Mergers Roundup for May 15",
-      "summary": "Welcome to&#160;Sportico\u2019s&#160;transactions&#160;wire, a weekly rundown of personnel, partnerships and products across the sports business industry. PERSONNEL United Soccer League Names McDonough Pre",
-      "company": "Sportico Transactions",
-      "link": "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-roundup-may-15-1234899328/",
-      "date": "May 15, 26",
-      "source": "Sportico",
-      "layer": 1,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "acquisition"
       ]
     },
     {
@@ -370,21 +370,6 @@
       ]
     },
     {
-      "id": "a50ebc3369ab",
-      "title": "ACTOR RUSSELL ANDREWS SHARES ALS DIAGNOSIS, JOINS ALS NETWORK DURING ALS AWARENESS MONTH TO SPOTLIGHT THE POWER OF COMMUNITY",
-      "summary": "Following his 2025 diagnosis, Andrews is sharing his journey to raise awareness and help drive care, research, and advocacy forward. LOS ANGELES, May 16, 2026 /PRNewswire/ -- Russell Andrews, actor, d",
-      "company": "ACTOR RUSSELL ANDREWS SHARES ALS DIAGNOSIS",
-      "link": "https://www.prnewswire.com/news-releases/actor-russell-andrews-shares-als-diagnosis-joins-als-network-during-als-awareness-month-to-spotlight-the-power-of-community-302774024.html",
-      "date": "May 16, 26",
-      "source": "PR Newswire",
-      "layer": 4,
-      "access": "public",
-      "score": 6,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
       "id": "493fd25ac40c",
       "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
       "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
@@ -426,29 +411,16 @@
       "moments": []
     },
     {
-      "id": "75fb898981cd",
-      "title": "Revenue predictability pulls PE to testing and inspection: 5 deals",
-      "summary": "Ardian, Blackstone, Bridgepoint and EQT and are among the firms tapping into the TICC industry. The post Revenue predictability pulls PE to testing and inspection: 5 deals appeared first on PE Hub.",
-      "company": "Revenue",
-      "link": "https://www.pehub.com/revenue-predictability-pulls-pe-to-testing-and-inspection-5-deals/",
-      "date": "May 15, 26",
-      "source": "PE Hub",
+      "id": "87f6364d5e4a",
+      "title": "Kiefer Sutherland cancels US tour due to \u201cvery low ticket sales\u201d",
+      "summary": "\u201cI don\u2019t think it\u2019s fair to the people who have bought tickets, or the venues, to play to half empty houses\" The post Kiefer Sutherland cancels US tour due to &#8220;very low ticket sales&#8221; appea",
+      "company": "Kiefer Sutherland",
+      "link": "https://www.nme.com/news/music/kiefer-sutherland-cancels-us-tour-due-to-very-low-ticket-sales-3945737?utm_source=rss&utm_medium=rss&utm_campaign=kiefer-sutherland-cancels-us-tour-due-to-very-low-ticket-sales",
+      "date": "May 16, 26",
+      "source": "NME",
       "layer": 2,
       "access": "pe",
-      "score": 10,
-      "moments": []
-    },
-    {
-      "id": "35bd88f5e910",
-      "title": "Chess: Niemann puts controversy aside and wins $50,000 first prize in Warsaw",
-      "summary": "US grandmaster scored biggest success of his career at the Grand Chess Tour Rapid &amp; Blitz and is close to world top 10Hans Niemann, the controversial US grandmaster whose game with Magnus Carlsen ",
-      "company": "Chess",
-      "link": "https://www.theguardian.com/sport/2026/may/15/chess-niemann-puts-controversy-aside-and-wins-50000-first-prize-in-warsaw",
-      "date": "May 15, 26",
-      "source": "Guardian Sport",
-      "layer": 3,
-      "access": "pe",
-      "score": 8,
+      "score": 13,
       "moments": []
     },
     {
@@ -498,19 +470,6 @@
       "link": "https://www.sportico.com/business/sponsorship/2026/preakness-stakes-jockey-sponsorships-pay-1234899444/",
       "date": "May 15, 26",
       "source": "Sportico",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "bfda2648a074",
-      "title": "Louisiana advances congressional map with reduced Black representation",
-      "summary": "Louisiana senators voted early Wednesday to advance a congressional map that eliminates one of the state's majority-Black districts.Why it matters: The proposed map pits U.S. Rep. Troy Carter against ",
-      "company": "Louisiana",
-      "link": "https://www.axios.com/local/new-orleans/2026/05/13/new-louisiana-congressional-map-advances",
-      "date": "May 13, 26",
-      "source": "Axios",
       "layer": 4,
       "access": "pe",
       "score": 4,
