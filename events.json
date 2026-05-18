@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-17T13:41:34.757289+00:00",
-  "total": 33,
+  "generated": "2026-05-18T15:42:59.272060+00:00",
+  "total": 36,
   "scraped": [
     {
       "id": "3a115e50b74d",
@@ -9,7 +9,7 @@
       "company": "Drake Is Spotify\u2019s Most-Streamed Artist",
       "link": "https://www.rollingstone.com/music/music-news/drake-iceman-spotify-most-streamed-artist-day-record-2026-1235563836/",
       "date": "May 16, 26",
-      "source": "Rolling Stone Music",
+      "source": "Rolling Stone News",
       "layer": 1,
       "access": "pe",
       "score": 20,
@@ -35,19 +35,19 @@
       ]
     },
     {
-      "id": "146caea1942e",
-      "title": "Eventbrite co-founder Hartz, ex-Coatue partner Siegel seal $450m for third A* fund",
-      "summary": "A*, the early stage investor run by Eventbrite co-founder Kevin Hartz and ex-Coatue partner Bennett Siegel, has raised $450m for its third fund. The post Eventbrite co-founder Hartz, ex-Coatue partner",
-      "company": "Eventbrite",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208387.html",
-      "date": "May 14, 26",
-      "source": "AltAssets",
-      "layer": 3,
+      "id": "aca828f3a331",
+      "title": "Why private equity firms are snatching up music rights, including Tina Turner\u2019s catalog; Sverica to sell agentic WinWire to NTT Data",
+      "summary": "Focusing on an area that\u2019s getting a lot of private equity interest lately: Music rights. PE Hub reporter Iris Dorbian has written about the subject in depth. Earlier this morning, we published her st",
+      "company": "Why",
+      "link": "https://www.pehub.com/why-private-equity-firms-are-snatching-up-music-rights-including-tina-turners-catalog-sverica-to-sell-agentic-winwire-to-ntt-data/",
+      "date": "May 18, 26",
+      "source": "PE Hub",
+      "layer": 1,
       "access": "pe",
       "score": 15,
       "moments": [
-        "pe_investment",
-        "company_launch"
+        "acquisition",
+        "pe_investment"
       ]
     },
     {
@@ -130,21 +130,6 @@
       ]
     },
     {
-      "id": "c952f46447c1",
-      "title": "SEMIFIVE Reports 137% YoY Revenue Growth in Q1 2026, Accelerating Its Rise as a Key Global Player in AI ASIC",
-      "summary": "Revenue reached KRW 47.9 billion and new orders totaled KRW 55.4 billion, marking a record-breaking performance and signaling the beginning of full-scale growth. Overseas ASIC development revenue, inc",
-      "company": "SEMIFIVE Reports",
-      "link": "https://www.prnewswire.com/news-releases/semifive-reports-137-yoy-revenue-growth-in-q1-2026-accelerating-its-rise-as-a-key-global-player-in-ai-asic-302774168.html",
-      "date": "May 17, 26",
-      "source": "PR Newswire",
-      "layer": 2,
-      "access": "pe",
-      "score": 17,
-      "moments": [
-        "record_breaking"
-      ]
-    },
-    {
       "id": "7a468132ba18",
       "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
       "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
@@ -181,7 +166,7 @@
       "company": "Drake Drops 3 Albums",
       "link": "https://www.nytimes.com/2026/05/15/arts/music/drake-new-albums-iceman-habibti-maid-of-honour.html",
       "date": "May 15, 26",
-      "source": "NYT Arts",
+      "source": "NYT Music",
       "layer": 1,
       "access": "pe",
       "score": 15,
@@ -190,33 +175,18 @@
       ]
     },
     {
-      "id": "ecabd75c0f37",
-      "title": "Drake breaks 2026 streaming records with surprise triple album release",
-      "summary": "The rapper released \u2018Iceman\u2019, \u2018Habibti\u2019 and \u2018Maid Of Honour\u2019 simultaneously on Friday The post Drake breaks 2026 streaming records with surprise triple album release appeared first on NME.",
-      "company": "Drake",
-      "link": "https://www.nme.com/news/music/drake-breaks-2026-streaming-records-with-surprise-triple-album-release-3945722?utm_source=rss&utm_medium=rss&utm_campaign=drake-breaks-2026-streaming-records-with-surprise-triple-album-release",
-      "date": "May 16, 26",
+      "id": "f1b08c9a9b09",
+      "title": "Mystery Jets announce new album \u2018A Hole To See The Sky Through\u2019 with hazy title track",
+      "summary": "The follow up to 'A Billion Heartbeats' arrives this August The post Mystery Jets announce new album &#8216;A Hole To See The Sky Through&#8217; with hazy title track appeared first on NME.",
+      "company": "Mystery Jets",
+      "link": "https://www.nme.com/news/music/mystery-jets-announce-new-album-a-hole-to-see-the-sky-through-with-hazy-title-track-3945968?utm_source=rss&utm_medium=rss&utm_campaign=mystery-jets-announce-new-album-a-hole-to-see-the-sky-through-with-hazy-title-track",
+      "date": "May 18, 26",
       "source": "NME",
       "layer": 1,
       "access": "pe",
       "score": 14,
       "moments": [
         "album_announcement"
-      ]
-    },
-    {
-      "id": "5acd07f1eb00",
-      "title": "BTS, Madonna and Shakira to perform at World Cup final halftime show",
-      "summary": "BTS, Madonna and Shakira will headline the World Cup final halftime show on July 19 at MetLife Stadium in New Jersey, marking the first Super Bowl-style performance at a World Cup final.",
-      "company": "BTS Madonna",
-      "link": "https://www.latimes.com/sports/story/2026-05-14/bts-madonna-shakira-world-cup-final-halftime-show",
-      "date": "May 14, 26",
-      "source": "LA Times Sports",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "festival_headliner"
       ]
     },
     {
@@ -247,21 +217,6 @@
       "score": 13,
       "moments": [
         "venue_announcement"
-      ]
-    },
-    {
-      "id": "78961de16a68",
-      "title": "Balance Point injects capital into jewelry retail software provider The Edge",
-      "summary": "The investment is in connection with Serent Capital\u2019s acquisition of The Edge. The post Balance Point injects capital into jewelry retail software provider The Edge appeared first on PE Hub.",
-      "company": "Balance Point",
-      "link": "https://www.pehub.com/balance-point-injects-capital-into-jewelry-retail-software-provider-the-edge/",
-      "date": "May 14, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "acquisition"
       ]
     },
     {
@@ -310,6 +265,21 @@
       ]
     },
     {
+      "id": "cd76ad074b0e",
+      "title": "Qualtrics Acquires Healthcare Experience Leader Press Ganey Forsta For $6.75 Billion: Expands Experience Management (XM) Category Leadership Creating...",
+      "summary": "Adding Press Ganey Forsta, the trusted standard for healthcare experience, to the Qualtrics XM dataset combines decades of proprietary healthcare data and regulatory systems with the leading XM AI & d",
+      "company": "",
+      "link": "https://www.prnewswire.com/news-releases/qualtrics-acquires-healthcare-experience-leader-press-ganey-forsta-for-6-75-billion-expands-experience-management-xm-category-leadership-creating-worlds-largest-ai-dataset-for-human-experiential-context-ever-assembled-302774876.html",
+      "date": "May 18, 26",
+      "source": "PR Newswire",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
       "id": "f47e267ef8e9",
       "title": "Gambling Layoffs Pile Up As Sports Betting Industry Recalibrates",
       "summary": "Penn Entertainment headlines three companies with layoffs this week.",
@@ -325,18 +295,18 @@
       ]
     },
     {
-      "id": "ecec063a5045",
-      "title": "Lawmakers Want Private Equity Out of Youth Sports",
-      "summary": "Several Democrats have proposed legislation to get PE out of youth sports.",
-      "company": "Lawmakers Want Private Equity Out",
-      "link": "https://frontofficesports.com/lawmakers-want-private-equity-out-of-youth-sports/",
-      "date": "May 14, 26",
-      "source": "Front Office Sports",
+      "id": "16140632f70c",
+      "title": "ATEEZ to headline London\u2019s BST Hyde Park 2026 as UK exclusive",
+      "summary": "The South Korean group will make their Hyde Park debut next month The post ATEEZ to headline London&#8217;s BST Hyde Park 2026 as UK exclusive appeared first on NME.",
+      "company": "ATEEZ",
+      "link": "https://www.nme.com/news/music/ateez-to-headline-londons-bst-hyde-park-2026-as-uk-exclusive-3945920?utm_source=rss&utm_medium=rss&utm_campaign=ateez-to-headline-londons-bst-hyde-park-2026-as-uk-exclusive",
+      "date": "May 18, 26",
+      "source": "NME",
       "layer": 5,
       "access": "pe",
       "score": 9,
       "moments": [
-        "pe_investment"
+        "festival_headliner"
       ]
     },
     {
@@ -385,10 +355,10 @@
       ]
     },
     {
-      "id": "eab505ad2a0a",
-      "title": "Raskin, Blumenthal to Set Monday Congressional Hearing on Live Nation\u2013Ticketmaster Monopoly and DOJ Settlement",
-      "summary": "The May 18 bicameral forum will feature California Attorney General Rob Bonta, independent venue owners, legal experts and artists as... The post Raskin, Blumenthal to Set Monday Congressional Hearing",
-      "company": "Raskin Blumenthal",
+      "id": "a2b4a26561e6",
+      "title": "Raskin, Blumenthal Set Monday Congressional Hearing on Live Nation\u2013Ticketmaster Monopoly and DOJ Settlement",
+      "summary": "The May 18 bicameral forum will feature California Attorney General Rob Bonta, independent venue owners, legal experts and artists as... The post Raskin, Blumenthal Set Monday Congressional Hearing on",
+      "company": "",
       "link": "https://www.ticketnews.com/2026/05/raskin-blumenthal-to-set-monday-congressional-hearing-on-live-nation-ticketmaster-monopoly-and-doj-settlement/",
       "date": "May 16, 26",
       "source": "Ticket News",
@@ -398,42 +368,94 @@
       "moments": []
     },
     {
-      "id": "7852071a036f",
-      "title": "District by Zomato Named Official Ticketing Partner for Etihad Arena",
-      "summary": "The UAE\u2019s leading indoor entertainment venue has announced District by Zomato as its Official Ticketing Partner, a strategic collaboration designed... The post District by Zomato Named Official Ticket",
-      "company": "District",
-      "link": "https://www.ticketnews.com/2026/05/district-by-zomato-ticketing-partner-etihad-arena/",
-      "date": "May 15, 26",
+      "id": "65eea7d5c863",
+      "title": "Who Will Testify at Today\u2019s Live Nation\u2013Ticketmaster Hearing \u2014 and Why Their Testimony Matters",
+      "summary": "The witnesses expected at the Raskin-Blumenthal forum include California Attorney General Rob Bonta, a former DOJ antitrust official, two independent... The post Who Will Testify at Today\u2019s Live Natio",
+      "company": "Who Will Testify",
+      "link": "https://www.ticketnews.com/2026/05/who-will-testify-at-todays-live-nation-ticketmaster-hearing-and-why-their-testimony-matters/",
+      "date": "May 18, 26",
       "source": "Ticket News",
-      "layer": 2,
-      "access": "pe",
-      "score": 14,
-      "moments": []
-    },
-    {
-      "id": "87f6364d5e4a",
-      "title": "Kiefer Sutherland cancels US tour due to \u201cvery low ticket sales\u201d",
-      "summary": "\u201cI don\u2019t think it\u2019s fair to the people who have bought tickets, or the venues, to play to half empty houses\" The post Kiefer Sutherland cancels US tour due to &#8220;very low ticket sales&#8221; appea",
-      "company": "Kiefer Sutherland",
-      "link": "https://www.nme.com/news/music/kiefer-sutherland-cancels-us-tour-due-to-very-low-ticket-sales-3945737?utm_source=rss&utm_medium=rss&utm_campaign=kiefer-sutherland-cancels-us-tour-due-to-very-low-ticket-sales",
-      "date": "May 16, 26",
-      "source": "NME",
-      "layer": 2,
-      "access": "pe",
-      "score": 13,
-      "moments": []
-    },
-    {
-      "id": "3bb1ad2a50c7",
-      "title": "LISTEN: Upfronts 2026: What We Learned From TV\u2019s Biggest Platforms; Crafting the Music of \u2018Heated Rivalry\u2019",
-      "summary": "On today\u2019s episode of &#8220;Daily Variety&#8221; podcast, Variety\u2019s Michael Schneider breaks down the last lap of upfronts week as Warner Bros. Discovery, Netflix and YouTube grabbed the megaphone. A",
-      "company": "LISTEN",
-      "link": "https://variety.com/2026/tv/news/upfronts-netflix-heated-rivalry-music-daily-variety-podcast-1236749025/",
-      "date": "May 14, 26",
-      "source": "Variety Biz",
       "layer": 3,
       "access": "pe",
-      "score": 6,
+      "score": 16,
+      "moments": []
+    },
+    {
+      "id": "abc01165321f",
+      "title": "US DOJ scrutinises valuation practices at BlackRock private credit fund",
+      "summary": "TOP STORY: Federal prosecutors are examining valuation practices at a private credit fund linked to BlackRock, publicly traded business development company BlackRock TCP Capital Corp (TCPC), according",
+      "company": "US DOJ",
+      "link": "https://www.privateequitywire.co.uk/us-doj-scrutinises-valuation-practices-at-blackrock-private-credit-fund/",
+      "date": "May 18, 26",
+      "source": "PE Wire",
+      "layer": 2,
+      "access": "public",
+      "score": 10,
+      "moments": []
+    },
+    {
+      "id": "bc1beae3c080",
+      "title": "US Footwear Industry Delivers Modest First-Quarter Growth Driven by Price Increases and Strength in Performance Segment, Circana Reports",
+      "summary": "CHICAGO, IL, May 04, 2026 (GLOBE NEWSWIRE) -- The U.S. footwear industry posted soft dollar growth in the first quarter (Q1) of 2026, with total sales increasing by +1%, versus the same period last ye",
+      "company": "",
+      "link": "https://www.globenewswire.com/news-release/2026/05/04/3286860/0/en/US-Footwear-Industry-Delivers-Modest-First-Quarter-Growth-Driven-by-Price-Increases-and-Strength-in-Performance-Segment-Circana-Reports.html",
+      "date": "May 04, 26",
+      "source": "GlobeNewsWire Deals",
+      "layer": 2,
+      "access": "pe",
+      "score": 10,
+      "moments": []
+    },
+    {
+      "id": "d5ab954e4aab",
+      "title": "Maximize Every Square Foot: Using Digital Authority to Win High-Value Venue Bookings",
+      "summary": "Source: ChatGPT Event organizers often struggle to secure premium venue bookings even when their content or services are strong. Limited visibility, unclear reputation, and weak online authority can r",
+      "company": "Maximize Every Square Foot",
+      "link": "https://venuestoday.com/maximize-every-square-foot-using-digital-authority-to-win-high-value-venue-bookings/?utm_source=rss&utm_medium=rss&utm_campaign=maximize-every-square-foot-using-digital-authority-to-win-high-value-venue-bookings",
+      "date": "Mar 04, 26",
+      "source": "Venues Today",
+      "layer": 2,
+      "access": "pe",
+      "score": 10,
+      "moments": []
+    },
+    {
+      "id": "3ed99198700a",
+      "title": "Cond\u00e9 Nast CEO Told His Teams to Plan As If Search Is Zero -- A Year Before the Data Proved Him Right. New 5W research measures the discovery shift...",
+      "summary": "MIAMI, May 18, 2026 /PRNewswire/ -- A year ago, Cond\u00e9 Nast CEO Roger Lynch told his teams something most media executives still won't say out loud: assume search is over. This week he restated it on a",
+      "company": "Cond\u00e9 Nast CEO Told His Teams",
+      "link": "https://www.prnewswire.com/news-releases/conde-nast-ceo-told-his-teams-to-plan-as-if-search-is-zero--a-year-before-the-data-proved-him-right-new-5w-research-measures-the-discovery-shift-the-visionary-conde-nast-chief-foresaw--across-chatgpt-claude-gemini-perplexity-302774757.html",
+      "date": "May 18, 26",
+      "source": "PR Newswire",
+      "layer": 3,
+      "access": "pe",
+      "score": 7,
+      "moments": []
+    },
+    {
+      "id": "22dced4e6f71",
+      "title": "Roland-Garros Hits YouTube: TNT to Simulcast McEnroe Morning Hour",
+      "summary": "Brothers John and Patrick McEnroe will host two hours of whiparound coverage from Roland-Garros during the French Open\u2019s first six days, TNT Sports is set to announce.&#160;The Mac Zone&#160;will go l",
+      "company": "Roland-Garros Hits YouTube",
+      "link": "https://www.sportico.com/leagues/tennis/2026/roland-garros-french-streaming-youtube-tnt-trutv-mcenroe-1234899473/",
+      "date": "May 18, 26",
+      "source": "Sportico",
+      "layer": 3,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "34551fbe1327",
+      "title": "Jay Bilas Has No Soft Takes on College Hoops",
+      "summary": "Jay Bilas on AJ Dybantsa, NCAA expansion, NIL costs, and the future of college basketball.",
+      "company": "Jay Bilas Has No Soft Takes",
+      "link": "https://frontofficesports.com/videos/jay-bilas-has-no-soft-takes-on-college-hoops/",
+      "date": "May 18, 26",
+      "source": "Front Office Sports",
+      "layer": 4,
+      "access": "pe",
+      "score": 5,
       "moments": []
     },
     {
@@ -470,6 +492,19 @@
       "link": "https://www.sportico.com/business/sponsorship/2026/preakness-stakes-jockey-sponsorships-pay-1234899444/",
       "date": "May 15, 26",
       "source": "Sportico",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "c8581fb24dc4",
+      "title": "Shakira acquitted in a Spanish tax fraud case: \u201cFor nearly a decade, I was treated as guilty\u201d",
+      "summary": "She said the court had \"finally set the record straight\" after she spent eight years enduring \"orchestrated campaigns\" to destroy her reputation The post Shakira acquitted in a Spanish tax fraud case:",
+      "company": "Shakira",
+      "link": "https://www.nme.com/news/music/shakira-acquitted-in-a-spanish-tax-fraud-case-for-nearly-a-decade-i-was-treated-as-guilty-3946000?utm_source=rss&utm_medium=rss&utm_campaign=shakira-acquitted-in-a-spanish-tax-fraud-case-for-nearly-a-decade-i-was-treated-as-guilty",
+      "date": "May 18, 26",
+      "source": "NME",
       "layer": 4,
       "access": "pe",
       "score": 4,
