@@ -1,53 +1,54 @@
 {
-  "generated": "2026-05-18T15:42:59.272060+00:00",
-  "total": 36,
+  "generated": "2026-05-19T15:39:05.596831+00:00",
+  "total": 35,
   "scraped": [
     {
-      "id": "3a115e50b74d",
-      "title": "Drake Is Spotify\u2019s Most-Streamed Artist in a Day for 2026 Following Three-Album Release",
-      "summary": "The rapper dropped Iceman on Friday alongside two other surprise LPs",
-      "company": "Drake Is Spotify\u2019s Most-Streamed Artist",
-      "link": "https://www.rollingstone.com/music/music-news/drake-iceman-spotify-most-streamed-artist-day-record-2026-1235563836/",
-      "date": "May 16, 26",
-      "source": "Rolling Stone News",
-      "layer": 1,
-      "access": "pe",
-      "score": 20,
-      "moments": [
-        "album_announcement",
-        "streaming_milestone"
-      ]
-    },
-    {
-      "id": "2bd42d6c75f5",
-      "title": "Deal Roundup: Brookfield said to near $1.2bn WFC buyout from EQT, PAI; Boyne Capital backs YZY Fragrances",
-      "summary": "Brookfield Asset Management is reportedly nearing an acquisition of private equity-backed World Freight Company at an enterprise \u200bvalue of about $1.2bn. The post Deal Roundup: Brookfield said to near ",
-      "company": "Deal Roundup",
-      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-brookfield-said-to-near-1-2bn-wfc-buyout-from-eqt-pai-boyne-capital-backs-yzy-fragrances.html",
-      "date": "May 14, 26",
+      "id": "200c68a12127",
+      "title": "Lightrock raises $500m fund looking to boost electricity access in global south",
+      "summary": "London-headquarted Lightrock has closed a $500m fund targeting growth-stage investments across sub-Saharan Africa, South Asia and Southeast Asia which advance the UN goal of ensuring access to afforda",
+      "company": "Lightrock",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/lightrock-raises-500m-fund-looking-to-boost-electricity-access-in-global-south.html",
+      "date": "May 19, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
-      "score": 16,
+      "score": 23,
       "moments": [
-        "acquisition",
-        "pe_investment"
+        "funding_round",
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
-      "id": "aca828f3a331",
-      "title": "Why private equity firms are snatching up music rights, including Tina Turner\u2019s catalog; Sverica to sell agentic WinWire to NTT Data",
-      "summary": "Focusing on an area that\u2019s getting a lot of private equity interest lately: Music rights. PE Hub reporter Iris Dorbian has written about the subject in depth. Earlier this morning, we published her st",
-      "company": "Why",
-      "link": "https://www.pehub.com/why-private-equity-firms-are-snatching-up-music-rights-including-tina-turners-catalog-sverica-to-sell-agentic-winwire-to-ntt-data/",
-      "date": "May 18, 26",
-      "source": "PE Hub",
+      "id": "1a5aea5666fe",
+      "title": "Snowhawk seals $1.3bn for debut fund close, eyes growing digital infra opportunity",
+      "summary": "Digital infrastructure investor Snowhawk has reached a $1.3bn final close for its inaugural fund and a separate co-invest strategy. The post Snowhawk seals $1.3bn for debut fund close, eyes growing di",
+      "company": "Snowhawk",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/snowhawk-seals-1-3bn-for-debut-fund-close-eyes-growing-digital-infra-opportunity.html",
+      "date": "May 19, 26",
+      "source": "AltAssets",
       "layer": 1,
       "access": "pe",
-      "score": 15,
+      "score": 18,
       "moments": [
-        "acquisition",
-        "pe_investment"
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "d3b9491b4a15",
+      "title": "Beartooth Announce 2026 U.S. Tour Dates With 3 Special Guests",
+      "summary": "BEARTOOTHband / Fearless Records, YouTube, Live Nation",
+      "company": "Beartooth Announce",
+      "link": "https://loudwire.com/beartooth-2026-us-tour-dates/",
+      "date": "May 19, 26",
+      "source": "Loudwire",
+      "layer": 3,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "tour_announcement",
+        "surprise_appearance"
       ]
     },
     {
@@ -67,12 +68,12 @@
       ]
     },
     {
-      "id": "5cf618705529",
-      "title": "Acacia Partners continues \u201cunique\u201d PE fund strategy with hard cap close of fourth vehicle",
-      "summary": "Acacia Partners has hit its hard cap for its fourth \"unique\" private equity fundraise, which it says has advantages including \"the ability to deploy indefinite capital\". The post Acacia Partners conti",
-      "company": "Acacia Partners",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/acacia-partners-continues-unique-pe-fund-strategy-with-hard-cap-close-of-fourth-vehicle.html",
-      "date": "May 14, 26",
+      "id": "45ce123c0632",
+      "title": "Bain Capital closes its biggest Asia fund yet on $10.5bn, smashing target",
+      "summary": "Buyout giant Bain Capital has soared past its target for its latest Asia-focused fundraise to reach a $10.5bn final close for the vehicle. The post Bain Capital closes its biggest Asia fund yet on $10",
+      "company": "Bain Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/asia-by-region/bain-capital-closes-its-biggest-asia-fund-yet-on-10-5bn-smashing-target.html",
+      "date": "May 19, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -130,6 +131,66 @@
       ]
     },
     {
+      "id": "0c998339eae2",
+      "title": "Zara Larsson, Brandi Carlile, MUNA to Headline All Things Go NYC Festival",
+      "summary": "All Things Go NYC will return to Forest Hills Stadium from September 25 to 27 with Zara Larsson, Brandi Carlile,... The post Zara Larsson, Brandi Carlile, MUNA to Headline All Things Go NYC Festival a",
+      "company": "Zara Larsson Brandi Carlile MUNA",
+      "link": "https://www.ticketnews.com/2026/05/zara-larsson-brandi-carlile-muna-to-headline-all-things-go-nyc-festival/",
+      "date": "May 18, 26",
+      "source": "Ticket News",
+      "layer": 1,
+      "access": "pe",
+      "score": 19,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "0ab68b9bb313",
+      "title": "Value creation and post-deal due diligence more important with longer hold periods; Blackstone injects $5 billion into JV with Google",
+      "summary": "Exploring how extended hold periods are affecting private equity investments in conversations with PE advisers and consultants from McKinsey, KPMG and Lathrop GPM; Blackstone is investing $5 billion i",
+      "company": "Value",
+      "link": "https://www.pehub.com/value-creation-and-post-deal-due-diligence-more-important-with-longer-hold-periods-blackstone-injects-5-billion-into-jv-with-google/",
+      "date": "May 19, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 18,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "50c8f8810fbd",
+      "title": "Stretch-n-Grow Celebrates 34 Years of Impact and Announces Strategic Franchise Expansion Partnership with BrandONE",
+      "summary": "Legacy youth enrichment brand positions for next phase of national growth while staying rooted in family values, community impact, and purpose-driven entrepreneurship SEMINOLE, Fla., May 19, 2026 /PRN",
+      "company": "Stretch-n-Grow Celebrates",
+      "link": "https://www.prnewswire.com/news-releases/stretch-n-grow-celebrates-34-years-of-impact-and-announces-strategic-franchise-expansion-partnership-with-brandone-302776401.html",
+      "date": "May 19, 26",
+      "source": "PR Newswire",
+      "layer": 5,
+      "access": "pe",
+      "score": 18,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "7aae114b4a2f",
+      "title": "Sydney\u2019s Qudos Bank Arena to Be Renamed Afterpay Arena Under Five-Year Naming Rights Deal",
+      "summary": "Afterpay Arena will become the first major entertainment venue in Australia to offer end-to-end payment flexibility across the entire fan experience.",
+      "company": "Sydney\u2019s Qudos Bank Arena",
+      "link": "https://www.billboard.com/pro/sydney-qudos-bank-arena-renamed-afterpay-arena/",
+      "date": "May 19, 26",
+      "source": "Billboard",
+      "layer": 2,
+      "access": "pe",
+      "score": 17,
+      "moments": [
+        "rights_deal"
+      ]
+    },
+    {
       "id": "7a468132ba18",
       "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
       "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
@@ -142,21 +203,6 @@
       "score": 16,
       "moments": [
         "company_launch"
-      ]
-    },
-    {
-      "id": "74ca08bb4867",
-      "title": "European Commission EVP Henna Virkkunen on Film Funding Overhaul and Paramount-WBD Merger: It \u2018Might Have to Be Reviewed Under Several EU Regulatory...",
-      "summary": "Henna Virkkunen, EVP of the European Commission responsible for tech sovereignty, security and democracy, made the trek to the Cannes Film Festival on Friday for the first time, just as Europe&#8217;s",
-      "company": "European Commission EVP Henna Virkkunen",
-      "link": "https://variety.com/2026/biz/global/european-commission-henna-virkkunen-paramount-wbd-merger-1236749435/",
-      "date": "May 15, 26",
-      "source": "Variety Biz",
-      "layer": 1,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "acquisition"
       ]
     },
     {
@@ -175,18 +221,18 @@
       ]
     },
     {
-      "id": "f1b08c9a9b09",
-      "title": "Mystery Jets announce new album \u2018A Hole To See The Sky Through\u2019 with hazy title track",
-      "summary": "The follow up to 'A Billion Heartbeats' arrives this August The post Mystery Jets announce new album &#8216;A Hole To See The Sky Through&#8217; with hazy title track appeared first on NME.",
-      "company": "Mystery Jets",
-      "link": "https://www.nme.com/news/music/mystery-jets-announce-new-album-a-hole-to-see-the-sky-through-with-hazy-title-track-3945968?utm_source=rss&utm_medium=rss&utm_campaign=mystery-jets-announce-new-album-a-hole-to-see-the-sky-through-with-hazy-title-track",
-      "date": "May 18, 26",
-      "source": "NME",
+      "id": "014b93132d20",
+      "title": "Kraftwerk review \u2013 after more than half a century of techno supremacy, they still sound like the future",
+      "summary": "Waterfront Hall, BelfastRalf Hutter and his bandmates show how profound their influence has been on huge swathes of popular music \u2013 and they give a tender tribute to the late Ryuichi SakamotoForty-fiv",
+      "company": "Kraftwerk",
+      "link": "https://www.theguardian.com/music/2026/may/19/kraftwerk-review-waterfront-hall-belfast",
+      "date": "May 19, 26",
+      "source": "Guardian Music",
       "layer": 1,
       "access": "pe",
       "score": 14,
       "moments": [
-        "album_announcement"
+        "company_launch"
       ]
     },
     {
@@ -205,18 +251,63 @@
       ]
     },
     {
-      "id": "f9ef5ca732dc",
-      "title": "Ybor City Residents Create Petition to Stop Live Nation\u2019s New Venue Proposal",
-      "summary": "Live Nation is once again moving in on a city&#8217;s music scene, receiving backlash from residents and business owners. The... The post Ybor City Residents Create Petition to Stop Live Nation&#8217;",
-      "company": "Ybor City Residents Create Petition",
-      "link": "https://www.ticketnews.com/2026/05/ybor-city-residents-create-petition-ln-new-proposal/",
-      "date": "May 15, 26",
+      "id": "03ce210d46b3",
+      "title": "Wave to Earth Sets North American and Asia Dates for \u2018The Pieces Tour\u2019",
+      "summary": "South Korean indie rock band wave to earth has announced a global tour and new album, confirming details for \u201cThe... The post Wave to Earth Sets North American and Asia Dates for \u2018The Pieces Tour\u2019 app",
+      "company": "Wave",
+      "link": "https://www.ticketnews.com/2026/05/wave-to-earth-sets-north-american-and-asia-dates-for-the-pieces-tour/",
+      "date": "May 18, 26",
       "source": "Ticket News",
-      "layer": 2,
+      "layer": 1,
       "access": "pe",
-      "score": 13,
+      "score": 14,
       "moments": [
-        "venue_announcement"
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "aafe2cd2ea48",
+      "title": "Leonard Green completes take-private buyout of Mister Car Wash for $7 per share",
+      "summary": "The transaction puts Mister Car Wash at an enterprise valuation of $3.1 billion. The post Leonard Green completes take-private buyout of Mister Car Wash for $7 per share appeared first on PE Hub.",
+      "company": "Leonard Green",
+      "link": "https://www.pehub.com/leonard-green-completes-take-private-buyout-of-mister-car-wash-for-7-per-share/",
+      "date": "May 19, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "valuation"
+      ]
+    },
+    {
+      "id": "a01dfea41f4f",
+      "title": "PE-backed SRS Acquiom appoints Sallie Krawcheck and Philip Vasan to its board",
+      "summary": "Based in Denver, SRS Acquiom is a provider of a platform to help manage merger and acquisition transactions and bilateral and syndicated loan facilities. The post PE-backed SRS Acquiom appoints Sallie",
+      "company": "PE-backed SRS Acquiom",
+      "link": "https://www.pehub.com/backed-srs-acquiom-appoints-sallie-krawcheck-and-philip-vasan-to-its-board/",
+      "date": "May 19, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "5c007f48049b",
+      "title": "EU picks EQT to manage \u20ac5bn deeptech scale-up fund",
+      "summary": "The European Union has picked investment giant EQT to manage its Scaleup Europe Fund, a \u20ac5bn vehicle created to target deeptech companies on the continent. The post EU picks EQT to manage \u20ac5bn deeptec",
+      "company": "EU",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/eu-picks-eqt-to-manage-e5bn-deeptech-scale-up-fund.html",
+      "date": "May 19, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "pe_investment"
       ]
     },
     {
@@ -235,106 +326,16 @@
       ]
     },
     {
-      "id": "99f8550ebc2b",
-      "title": "Secondaries volume down year-on-year in Q1, but remains \u2018resilient\u2019: PJT Partners",
-      "summary": "The booming global private secondaries market has stuttered slightly in Q1 of this year, but its resilience and fundamentals remain intact according to a new report from advisory-focused investment ba",
-      "company": "Secondaries",
-      "link": "https://www.altassets.net/featured/secondaries-volume-down-year-on-year-in-q1-but-remains-resilient-pjt-partners.html",
-      "date": "May 15, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "e5f878bd8fd4",
-      "title": "Lansdowne Partners pulls in $150m for university research-based startups, eyes $200m cap by year end",
-      "summary": "UK investment manager Lansdowne Partners has launched a venture capital fund focused on backing high potential UK companies emerging from the country\u2019s university research base and startup ecosystem. ",
-      "company": "Lansdowne Partners",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/lansdowne-partners-pulls-in-150m-for-university-research-based-startups-eyes-200m-cap-by-year-end.html",
-      "date": "May 14, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "cd76ad074b0e",
-      "title": "Qualtrics Acquires Healthcare Experience Leader Press Ganey Forsta For $6.75 Billion: Expands Experience Management (XM) Category Leadership Creating...",
-      "summary": "Adding Press Ganey Forsta, the trusted standard for healthcare experience, to the Qualtrics XM dataset combines decades of proprietary healthcare data and regulatory systems with the leading XM AI & d",
+      "id": "e9a543c5794a",
+      "title": "Lawmakers, Witnesses Dissect \u2018Corrupt\u2019 Live Nation Settlement at Hearing, Press for Breakup",
+      "summary": "California AG Rob Bonta said state plaintiffs will seek structural remedies after a jury found Live Nation/Ticketmaster liable, while lawmakers... The post Lawmakers, Witnesses Dissect \u2018Corrupt\u2019 Live ",
       "company": "",
-      "link": "https://www.prnewswire.com/news-releases/qualtrics-acquires-healthcare-experience-leader-press-ganey-forsta-for-6-75-billion-expands-experience-management-xm-category-leadership-creating-worlds-largest-ai-dataset-for-human-experiential-context-ever-assembled-302774876.html",
-      "date": "May 18, 26",
-      "source": "PR Newswire",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "f47e267ef8e9",
-      "title": "Gambling Layoffs Pile Up As Sports Betting Industry Recalibrates",
-      "summary": "Penn Entertainment headlines three companies with layoffs this week.",
-      "company": "Gambling Layoffs Pile Up As Sports",
-      "link": "https://frontofficesports.com/gambling-layoffs-pile-up-as-sports-betting-industry-recalibrates/",
-      "date": "May 15, 26",
-      "source": "Front Office Sports",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "16140632f70c",
-      "title": "ATEEZ to headline London\u2019s BST Hyde Park 2026 as UK exclusive",
-      "summary": "The South Korean group will make their Hyde Park debut next month The post ATEEZ to headline London&#8217;s BST Hyde Park 2026 as UK exclusive appeared first on NME.",
-      "company": "ATEEZ",
-      "link": "https://www.nme.com/news/music/ateez-to-headline-londons-bst-hyde-park-2026-as-uk-exclusive-3945920?utm_source=rss&utm_medium=rss&utm_campaign=ateez-to-headline-londons-bst-hyde-park-2026-as-uk-exclusive",
-      "date": "May 18, 26",
-      "source": "NME",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "26c1e62c2415",
-      "title": "Journey Adds New 'Final Frontier' Tour Dates",
-      "summary": "Rob Loud, Stringer/Getty Images / AEG",
-      "company": "Journey Adds New 'Final Frontier' Tour",
-      "link": "https://loudwire.com/journey-40-new-final-frontier-tour-dates/",
-      "date": "May 12, 26",
-      "source": "Loudwire",
-      "layer": 2,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "tour_announcement"
-      ]
-    },
-    {
-      "id": "ea85e3c7e97e",
-      "title": "This historian dug into old records and found a lost chapter of Chicano L.A. music culture",
-      "summary": "Community historian Ruben Molina's discovery of 1950s rhythm & blues records with handwritten tags inspired \"The Dreamy Side,\" a book documenting overlooked Chicano youth culture.",
-      "company": "This",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-05-04/one-historian-dug-into-old-records-found-lost-chapter-of-chicano-la-music-culture",
-      "date": "May 04, 26",
-      "source": "LA Times Music",
+      "link": "https://www.ticketnews.com/2026/05/lawmakers-witnesses-dissect-corrupt-live-nation-settlement-press-for-breakup-after-ticketmaster-verdict/",
+      "date": "May 19, 26",
+      "source": "Ticket News",
       "layer": 3,
       "access": "pe",
-      "score": 6,
+      "score": 10,
       "moments": [
         "company_launch"
       ]
@@ -355,42 +356,16 @@
       ]
     },
     {
-      "id": "a2b4a26561e6",
-      "title": "Raskin, Blumenthal Set Monday Congressional Hearing on Live Nation\u2013Ticketmaster Monopoly and DOJ Settlement",
-      "summary": "The May 18 bicameral forum will feature California Attorney General Rob Bonta, independent venue owners, legal experts and artists as... The post Raskin, Blumenthal Set Monday Congressional Hearing on",
+      "id": "8579fe610fab",
+      "title": "Roger Alford Testimony Casts Live Nation\u2013Ticketmaster Settlement as Test Case for Political Influence Over Antitrust Enforcement",
+      "summary": "Roger Alford, a former senior official in the Department of Justice\u2019s Antitrust Division, used congressional testimony Monday to deliver a... The post Roger Alford Testimony Casts Live Nation\u2013Ticketma",
       "company": "",
-      "link": "https://www.ticketnews.com/2026/05/raskin-blumenthal-to-set-monday-congressional-hearing-on-live-nation-ticketmaster-monopoly-and-doj-settlement/",
-      "date": "May 16, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 18,
-      "moments": []
-    },
-    {
-      "id": "65eea7d5c863",
-      "title": "Who Will Testify at Today\u2019s Live Nation\u2013Ticketmaster Hearing \u2014 and Why Their Testimony Matters",
-      "summary": "The witnesses expected at the Raskin-Blumenthal forum include California Attorney General Rob Bonta, a former DOJ antitrust official, two independent... The post Who Will Testify at Today\u2019s Live Natio",
-      "company": "Who Will Testify",
-      "link": "https://www.ticketnews.com/2026/05/who-will-testify-at-todays-live-nation-ticketmaster-hearing-and-why-their-testimony-matters/",
+      "link": "https://www.ticketnews.com/2026/05/roger-alford-testimony-casts-live-nation-ticketmaster-settlement-as-test-case-for-political-influence-over-antitrust-enforcement/",
       "date": "May 18, 26",
       "source": "Ticket News",
       "layer": 3,
       "access": "pe",
-      "score": 16,
-      "moments": []
-    },
-    {
-      "id": "abc01165321f",
-      "title": "US DOJ scrutinises valuation practices at BlackRock private credit fund",
-      "summary": "TOP STORY: Federal prosecutors are examining valuation practices at a private credit fund linked to BlackRock, publicly traded business development company BlackRock TCP Capital Corp (TCPC), according",
-      "company": "US DOJ",
-      "link": "https://www.privateequitywire.co.uk/us-doj-scrutinises-valuation-practices-at-blackrock-private-credit-fund/",
-      "date": "May 18, 26",
-      "source": "PE Wire",
-      "layer": 2,
-      "access": "public",
-      "score": 10,
+      "score": 13,
       "moments": []
     },
     {
@@ -420,16 +395,29 @@
       "moments": []
     },
     {
-      "id": "3ed99198700a",
-      "title": "Cond\u00e9 Nast CEO Told His Teams to Plan As If Search Is Zero -- A Year Before the Data Proved Him Right. New 5W research measures the discovery shift...",
-      "summary": "MIAMI, May 18, 2026 /PRNewswire/ -- A year ago, Cond\u00e9 Nast CEO Roger Lynch told his teams something most media executives still won't say out loud: assume search is over. This week he restated it on a",
-      "company": "Cond\u00e9 Nast CEO Told His Teams",
-      "link": "https://www.prnewswire.com/news-releases/conde-nast-ceo-told-his-teams-to-plan-as-if-search-is-zero--a-year-before-the-data-proved-him-right-new-5w-research-measures-the-discovery-shift-the-visionary-conde-nast-chief-foresaw--across-chatgpt-claude-gemini-perplexity-302774757.html",
-      "date": "May 18, 26",
-      "source": "PR Newswire",
+      "id": "fc95df2b9620",
+      "title": "Harry Styles review \u2013 a genuinely charismatic performer who has pulled off one of the hardest tricks in pop",
+      "summary": "Johan Cruijff Arena, the NetherlandsStyles\u2019 first stop in his Together, Together tour, which will see him perform lengthy residencies around the world, is a reminder of how talented he isMidway throug",
+      "company": "Harry Styles",
+      "link": "https://www.theguardian.com/music/2026/may/17/harry-styles-together-together-tour-genuinely-charismatic-performer-amsterdam-live-concert-review",
+      "date": "May 17, 26",
+      "source": "Guardian Music",
+      "layer": 2,
+      "access": "pe",
+      "score": 8,
+      "moments": []
+    },
+    {
+      "id": "1e83527526f0",
+      "title": "Nuweb Group launches resale to help ticketing platforms reclaim the secondary market",
+      "summary": "Nuweb Group has launched native resale, enabling ticketing platforms to offer both primary sales and verified resale within a single... The post Nuweb Group launches resale to help ticketing platforms",
+      "company": "Nuweb Group",
+      "link": "https://www.ticketnews.com/2026/05/nuweb-group-launches-resale-to-help-ticketing-platforms-reclaim-the-secondary-market/",
+      "date": "May 19, 26",
+      "source": "Ticket News",
       "layer": 3,
       "access": "pe",
-      "score": 7,
+      "score": 6,
       "moments": []
     },
     {
@@ -459,53 +447,53 @@
       "moments": []
     },
     {
-      "id": "80491a2546a8",
-      "title": "Fifth Season and HarbourView Equity Partners Set Multi-Picture Financing Pact",
-      "summary": "Fifth Season and HarbourView Equity Partners have set a multi-picture financing pact that will help the indie film and TV production outfit bring to life a number of projects including Dev Patel&#8217",
-      "company": "Fifth Season",
-      "link": "https://variety.com/2026/film/news/fifth-season-harbourview-equity-finance-dev-patel-peasant-1236750563/",
-      "date": "May 16, 26",
-      "source": "Variety Biz",
-      "layer": 4,
+      "id": "8ca1b879f883",
+      "title": "Rays Reach Preliminary Agreement With City, County on $2.3B Ballpark",
+      "summary": "The stadium would be located near Raymond James Stadium, home of the Buccaneers.",
+      "company": "Rays Reach Preliminary Agreement With City",
+      "link": "https://frontofficesports.com/rays-reach-preliminary-agreement-with-city-county-on-2-3b-ballpark/",
+      "date": "May 15, 26",
+      "source": "Front Office Sports",
+      "layer": 2,
       "access": "pe",
       "score": 5,
       "moments": []
     },
     {
-      "id": "871ae5ba86fb",
-      "title": "Donald Trump Discloses at Least $220 Million in Q1 Financial Transactions, Including Purchases of Paramount, WBD, Netflix, Disney and Comcast...",
-      "summary": "President Donald Trump disclosed thousands of financial transactions for the first quarter of 2026 with a total value of at least $220 million (and as much as $750 million), including those involving ",
-      "company": "Donald Trump Discloses",
-      "link": "https://variety.com/2026/biz/news/donald-trump-financial-disclosure-stock-purchases-paramount-wbd-netflix-disney-comcast-1236749740/",
-      "date": "May 15, 26",
-      "source": "Variety Biz",
+      "id": "aa68584ca467",
+      "title": "Cardi B, Kendrick Lamar, Mariah the Scientist Lead 2026 BET Awards Nominations",
+      "summary": "The 2026 BET Awards nominations have landed: Cardi B leads the nominations with six, Kendrick Lamar and Mariah the Scientist tie for second five nominations, and Doechii, Doja Cat, Clipse, Teyana Tayl",
+      "company": "Cardi",
+      "link": "https://variety.com/2026/music/news/bet-awards-2026-nominations-cardi-b-1236753557/",
+      "date": "May 19, 26",
+      "source": "Variety Music",
       "layer": 3,
       "access": "pe",
       "score": 5,
       "moments": []
     },
     {
-      "id": "919e43dceeca",
-      "title": "Thousands in Jockey Sponsorship Value at Stake in Preakness",
-      "summary": "There won\u2019t be a Triple Crown-winning horse this year, as Kentucky Derby winner Golden Tempo will skip the Preakness Stakes on Saturday. There could, however, be a Triple Crown-winning human. That tri",
-      "company": "Thousands",
-      "link": "https://www.sportico.com/business/sponsorship/2026/preakness-stakes-jockey-sponsorships-pay-1234899444/",
-      "date": "May 15, 26",
-      "source": "Sportico",
+      "id": "cfe61fe3dc9c",
+      "title": "Smashing Pumpkins Announce Rats in a Cage Tour to Celebrate \u2018Mellon Collie and the Infinite Sadness\u2019",
+      "summary": "\"Staging a Mellon Collie-themed show is something we\u2019ve discussed for over a decade, and finally the stars have aligned,\" says Billy Corgan",
+      "company": "Smashing Pumpkins Announce Rats",
+      "link": "https://www.rollingstone.com/music/music-news/smashing-pumpkins-tour-rats-in-a-cage-1235564532/",
+      "date": "May 18, 26",
+      "source": "Rolling Stone News",
       "layer": 4,
       "access": "pe",
-      "score": 4,
+      "score": 5,
       "moments": []
     },
     {
-      "id": "c8581fb24dc4",
-      "title": "Shakira acquitted in a Spanish tax fraud case: \u201cFor nearly a decade, I was treated as guilty\u201d",
-      "summary": "She said the court had \"finally set the record straight\" after she spent eight years enduring \"orchestrated campaigns\" to destroy her reputation The post Shakira acquitted in a Spanish tax fraud case:",
-      "company": "Shakira",
-      "link": "https://www.nme.com/news/music/shakira-acquitted-in-a-spanish-tax-fraud-case-for-nearly-a-decade-i-was-treated-as-guilty-3946000?utm_source=rss&utm_medium=rss&utm_campaign=shakira-acquitted-in-a-spanish-tax-fraud-case-for-nearly-a-decade-i-was-treated-as-guilty",
-      "date": "May 18, 26",
+      "id": "5847fc6c4f2a",
+      "title": "Kylie Minogue says \u201cshock\u201d cancer diagnosis over 20 years ago is \u201cstill with me today\u201d",
+      "summary": "Her three-part Netflix doc arrives tomorrow (Wednesday May 20), along with a new song called 'Light Up' The post Kylie Minogue says &#8220;shock&#8221; cancer diagnosis over 20 years ago is &#8220;sti",
+      "company": "Kylie Minogue",
+      "link": "https://www.nme.com/news/music/kylie-minogue-says-shock-cancer-diagnosis-over-20-years-ago-is-still-with-me-today-3946241?utm_source=rss&utm_medium=rss&utm_campaign=kylie-minogue-says-shock-cancer-diagnosis-over-20-years-ago-is-still-with-me-today",
+      "date": "May 19, 26",
       "source": "NME",
-      "layer": 4,
+      "layer": 3,
       "access": "pe",
       "score": 4,
       "moments": []
