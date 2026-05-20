@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-19T15:39:05.596831+00:00",
-  "total": 35,
+  "generated": "2026-05-20T15:34:08.836172+00:00",
+  "total": 33,
   "scraped": [
     {
       "id": "200c68a12127",
@@ -17,6 +17,38 @@
         "funding_round",
         "pe_investment",
         "fund_launch"
+      ]
+    },
+    {
+      "id": "bf1f8d67a8dd",
+      "title": "Gurriers announce new album \u2018Nobody\u2019s Coming To Save You\u2019 with intense title track",
+      "summary": "The Irish alt band have also announced a UK and European headline tour for later this year The post Gurriers announce new album \u2018Nobody\u2019s Coming To Save You\u2019 with intense title track appeared first on",
+      "company": "Gurriers",
+      "link": "https://www.nme.com/news/music/gurriers-announce-album-nobodys-coming-to-save-you-intense-title-track-tour-3946426?utm_source=rss&utm_medium=rss&utm_campaign=gurriers-announce-album-nobodys-coming-to-save-you-intense-title-track-tour",
+      "date": "May 20, 26",
+      "source": "NME",
+      "layer": 1,
+      "access": "pe",
+      "score": 21,
+      "moments": [
+        "album_announcement",
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "945e83668917",
+      "title": "Shamrock Capital seals $813m for content-focused investment fund",
+      "summary": "Media, entertainment and communications-focused private equity house Shamrock Capital has secured $813m for its fourth content acquisition fund. The post Shamrock Capital seals $813m for content-focus",
+      "company": "Shamrock Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208472.html",
+      "date": "May 20, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 19,
+      "moments": [
+        "acquisition",
+        "pe_investment"
       ]
     },
     {
@@ -68,6 +100,22 @@
       ]
     },
     {
+      "id": "d0febabb953b",
+      "title": "Stellus Capital seals $1.5bn for fourth credit fund ahead of takeover by Ridgepost",
+      "summary": "Lower middle market direct lending specialist Stellus Capital Management has reached an on-target $1.5bn final close for its fourth credit fund. The post Stellus Capital seals $1.5bn for fourth credit",
+      "company": "Stellus Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208467.html",
+      "date": "May 20, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
       "id": "45ce123c0632",
       "title": "Bain Capital closes its biggest Asia fund yet on $10.5bn, smashing target",
       "summary": "Buyout giant Bain Capital has soared past its target for its latest Asia-focused fundraise to reach a $10.5bn final close for the vehicle. The post Bain Capital closes its biggest Asia fund yet on $10",
@@ -94,6 +142,22 @@
       "layer": 2,
       "access": "pe",
       "score": 13,
+      "moments": [
+        "acquisition",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "ffe2e387535c",
+      "title": "Healthcare specialists GHO and CBC sign tie-up; Data room figures suggest financial services M&A growth; Eurazeo to acquire cybersecurity biz",
+      "summary": "GHO and CBC co-founders Mike Mortimer and Fu Wei will serve as co-CEOs of the combined company. The post Healthcare specialists GHO and CBC sign tie-up; Data room figures suggest financial services M&",
+      "company": "Healthcare specialists GHO and CBC",
+      "link": "https://www.pehub.com/healthcare-specialists-gho-and-cbc-sign-tie-up-data-room-figures-suggest-financial-services-m-eurazeo-to-acquire-cybersecurity-biz/",
+      "date": "May 20, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 10,
       "moments": [
         "acquisition",
         "company_launch"
@@ -131,63 +195,18 @@
       ]
     },
     {
-      "id": "0c998339eae2",
-      "title": "Zara Larsson, Brandi Carlile, MUNA to Headline All Things Go NYC Festival",
-      "summary": "All Things Go NYC will return to Forest Hills Stadium from September 25 to 27 with Zara Larsson, Brandi Carlile,... The post Zara Larsson, Brandi Carlile, MUNA to Headline All Things Go NYC Festival a",
-      "company": "Zara Larsson Brandi Carlile MUNA",
-      "link": "https://www.ticketnews.com/2026/05/zara-larsson-brandi-carlile-muna-to-headline-all-things-go-nyc-festival/",
-      "date": "May 18, 26",
-      "source": "Ticket News",
+      "id": "08f73b977807",
+      "title": "Getdown Services announce second album \u2018Massive Champion\u2019 with charismatic single \u2018I Can\u2019t Die Like That\u2019 and UK tour dates",
+      "summary": "The Bristol band will perform as part of Harry Styles' Meltdown festival, and also support Courteeners at a huge Manchester gig The post Getdown Services announce second album \u2018Massive Champion\u2019 with ",
+      "company": "Getdown Services",
+      "link": "https://www.nme.com/news/music/getdown-services-announce-second-album-massive-champion-with-charismatic-single-i-cant-die-like-that-and-uk-tour-dates-3946479?utm_source=rss&utm_medium=rss&utm_campaign=getdown-services-announce-second-album-massive-champion-with-charismatic-single-i-cant-die-like-that-and-uk-tour-dates",
+      "date": "May 20, 26",
+      "source": "NME",
       "layer": 1,
       "access": "pe",
       "score": 19,
       "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "0ab68b9bb313",
-      "title": "Value creation and post-deal due diligence more important with longer hold periods; Blackstone injects $5 billion into JV with Google",
-      "summary": "Exploring how extended hold periods are affecting private equity investments in conversations with PE advisers and consultants from McKinsey, KPMG and Lathrop GPM; Blackstone is investing $5 billion i",
-      "company": "Value",
-      "link": "https://www.pehub.com/value-creation-and-post-deal-due-diligence-more-important-with-longer-hold-periods-blackstone-injects-5-billion-into-jv-with-google/",
-      "date": "May 19, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 18,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "50c8f8810fbd",
-      "title": "Stretch-n-Grow Celebrates 34 Years of Impact and Announces Strategic Franchise Expansion Partnership with BrandONE",
-      "summary": "Legacy youth enrichment brand positions for next phase of national growth while staying rooted in family values, community impact, and purpose-driven entrepreneurship SEMINOLE, Fla., May 19, 2026 /PRN",
-      "company": "Stretch-n-Grow Celebrates",
-      "link": "https://www.prnewswire.com/news-releases/stretch-n-grow-celebrates-34-years-of-impact-and-announces-strategic-franchise-expansion-partnership-with-brandone-302776401.html",
-      "date": "May 19, 26",
-      "source": "PR Newswire",
-      "layer": 5,
-      "access": "pe",
-      "score": 18,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "7aae114b4a2f",
-      "title": "Sydney\u2019s Qudos Bank Arena to Be Renamed Afterpay Arena Under Five-Year Naming Rights Deal",
-      "summary": "Afterpay Arena will become the first major entertainment venue in Australia to offer end-to-end payment flexibility across the entire fan experience.",
-      "company": "Sydney\u2019s Qudos Bank Arena",
-      "link": "https://www.billboard.com/pro/sydney-qudos-bank-arena-renamed-afterpay-arena/",
-      "date": "May 19, 26",
-      "source": "Billboard",
-      "layer": 2,
-      "access": "pe",
-      "score": 17,
-      "moments": [
-        "rights_deal"
+        "tour_announcement"
       ]
     },
     {
@@ -221,9 +240,24 @@
       ]
     },
     {
+      "id": "68d67b7c3b29",
+      "title": "Harry Styles\u2019 Tour Rep Responds to Fan Complaints About Poor Sightlines on \u2018Together Together\u2019 Tour: \u2018Those Areas Are Being Reviewed Carefully and...",
+      "summary": "In response to multiple complaints online from Harry Styles fans who paid for special \u201cVIP\u201d floor tickets on the first two nights of the singer\u2019s \u201cTogether Together\u201d tour, but found their views obscur",
+      "company": "Harry Styles\u2019 Tour Rep Responds",
+      "link": "https://variety.com/2026/music/news/harry-styles-responds-fan-complaints-poor-sightlines-1236753944/",
+      "date": "May 19, 26",
+      "source": "Variety Music",
+      "layer": 2,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
       "id": "014b93132d20",
       "title": "Kraftwerk review \u2013 after more than half a century of techno supremacy, they still sound like the future",
-      "summary": "Waterfront Hall, BelfastRalf Hutter and his bandmates show how profound their influence has been on huge swathes of popular music \u2013 and they give a tender tribute to the late Ryuichi SakamotoForty-fiv",
+      "summary": "Waterfront Hall, BelfastRalf H\u00fctter and his bandmates show how profound their influence has been on huge swathes of popular music \u2013 and they give a tender tribute to the late Ryuichi SakamotoForty-fiv",
       "company": "Kraftwerk",
       "link": "https://www.theguardian.com/music/2026/may/19/kraftwerk-review-waterfront-hall-belfast",
       "date": "May 19, 26",
@@ -236,63 +270,18 @@
       ]
     },
     {
-      "id": "8552dc1fe7cf",
-      "title": "Sean Healy Celebrates 30 Years as an Independent Live Music Promoter",
-      "summary": "(Los Angeles, CA, February 2, 2026 \u2014 Los Angeles\u2013based concert promoter Sean Healy, founder of Sean Healy Presents (WeBookBands.com&#160;/&#160;SHPTickets.com), is celebrating a major milestone as his",
-      "company": "Sean Healy Celebrates",
-      "link": "https://venuestoday.com/sean-healy-celebrates-30-years-as-an-independent-live-music-promoter/?utm_source=rss&utm_medium=rss&utm_campaign=sean-healy-celebrates-30-years-as-an-independent-live-music-promoter",
-      "date": "Feb 11, 26",
-      "source": "Venues Today",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "03ce210d46b3",
-      "title": "Wave to Earth Sets North American and Asia Dates for \u2018The Pieces Tour\u2019",
-      "summary": "South Korean indie rock band wave to earth has announced a global tour and new album, confirming details for \u201cThe... The post Wave to Earth Sets North American and Asia Dates for \u2018The Pieces Tour\u2019 app",
-      "company": "Wave",
-      "link": "https://www.ticketnews.com/2026/05/wave-to-earth-sets-north-american-and-asia-dates-for-the-pieces-tour/",
-      "date": "May 18, 26",
+      "id": "9170c5661b85",
+      "title": "FIFA Fan Festival in Monterrey Unveils Headliners Chayanne, Imagine Dragons and Enrique Iglesias",
+      "summary": "The lineup for the 2026 FIFA Fan Festival in Monterrey has been announced, with Chayanne, Imagine Dragons, Enrique Iglesias and... The post FIFA Fan Festival in Monterrey Unveils Headliners Chayanne, ",
+      "company": "FIFA Fan Festival",
+      "link": "https://www.ticketnews.com/2026/05/fifa-fan-festival-in-monterrey-unveils-headliners-chayanne-imagine-dragons-and-enrique-iglesias/",
+      "date": "May 19, 26",
       "source": "Ticket News",
       "layer": 1,
       "access": "pe",
       "score": 14,
       "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "aafe2cd2ea48",
-      "title": "Leonard Green completes take-private buyout of Mister Car Wash for $7 per share",
-      "summary": "The transaction puts Mister Car Wash at an enterprise valuation of $3.1 billion. The post Leonard Green completes take-private buyout of Mister Car Wash for $7 per share appeared first on PE Hub.",
-      "company": "Leonard Green",
-      "link": "https://www.pehub.com/leonard-green-completes-take-private-buyout-of-mister-car-wash-for-7-per-share/",
-      "date": "May 19, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "valuation"
-      ]
-    },
-    {
-      "id": "a01dfea41f4f",
-      "title": "PE-backed SRS Acquiom appoints Sallie Krawcheck and Philip Vasan to its board",
-      "summary": "Based in Denver, SRS Acquiom is a provider of a platform to help manage merger and acquisition transactions and bilateral and syndicated loan facilities. The post PE-backed SRS Acquiom appoints Sallie",
-      "company": "PE-backed SRS Acquiom",
-      "link": "https://www.pehub.com/backed-srs-acquiom-appoints-sallie-krawcheck-and-philip-vasan-to-its-board/",
-      "date": "May 19, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "acquisition"
+        "festival_headliner"
       ]
     },
     {
@@ -326,18 +315,33 @@
       ]
     },
     {
-      "id": "e9a543c5794a",
-      "title": "Lawmakers, Witnesses Dissect \u2018Corrupt\u2019 Live Nation Settlement at Hearing, Press for Breakup",
-      "summary": "California AG Rob Bonta said state plaintiffs will seek structural remedies after a jury found Live Nation/Ticketmaster liable, while lawmakers... The post Lawmakers, Witnesses Dissect \u2018Corrupt\u2019 Live ",
-      "company": "",
-      "link": "https://www.ticketnews.com/2026/05/lawmakers-witnesses-dissect-corrupt-live-nation-settlement-press-for-breakup-after-ticketmaster-verdict/",
-      "date": "May 19, 26",
-      "source": "Ticket News",
-      "layer": 3,
+      "id": "00af166f62e2",
+      "title": "After 30 years, young crowds still line up for punishment at L.A.'s harshest nightclub, Das Bunker",
+      "summary": "It's impossible to imagine Los Angeles' electronic scene without Das Bunker, founded in 1996 to champion brutalist club music.",
+      "company": "After",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-05-20/das-bunker-los-angeles-nightlife-dance-music-history",
+      "date": "May 20, 26",
+      "source": "LA Times Music",
+      "layer": 4,
       "access": "pe",
-      "score": 10,
+      "score": 11,
       "moments": [
         "company_launch"
+      ]
+    },
+    {
+      "id": "e5e618f4f421",
+      "title": "Yellow Wood-backed Scholl\u2019s Wellness Company acquires athletic performance brand Vktry",
+      "summary": "Dr. Scholl\u2019s is the parent company of Scholl\u2019s Wellness Company. The post Yellow Wood-backed Scholl&#8217;s Wellness Company acquires athletic performance brand Vktry appeared first on PE Hub.",
+      "company": "Yellow Wood-backed Scholl\u2019s Wellness Company",
+      "link": "https://www.pehub.com/yellow-wood-backed-scholls-wellness-company-acquires-athletic-performance-brand-vktry/",
+      "date": "May 20, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
       ]
     },
     {
@@ -354,19 +358,6 @@
       "moments": [
         "acquisition"
       ]
-    },
-    {
-      "id": "8579fe610fab",
-      "title": "Roger Alford Testimony Casts Live Nation\u2013Ticketmaster Settlement as Test Case for Political Influence Over Antitrust Enforcement",
-      "summary": "Roger Alford, a former senior official in the Department of Justice\u2019s Antitrust Division, used congressional testimony Monday to deliver a... The post Roger Alford Testimony Casts Live Nation\u2013Ticketma",
-      "company": "",
-      "link": "https://www.ticketnews.com/2026/05/roger-alford-testimony-casts-live-nation-ticketmaster-settlement-as-test-case-for-political-influence-over-antitrust-enforcement/",
-      "date": "May 18, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 13,
-      "moments": []
     },
     {
       "id": "bc1beae3c080",
@@ -395,68 +386,68 @@
       "moments": []
     },
     {
-      "id": "fc95df2b9620",
-      "title": "Harry Styles review \u2013 a genuinely charismatic performer who has pulled off one of the hardest tricks in pop",
-      "summary": "Johan Cruijff Arena, the NetherlandsStyles\u2019 first stop in his Together, Together tour, which will see him perform lengthy residencies around the world, is a reminder of how talented he isMidway throug",
-      "company": "Harry Styles",
-      "link": "https://www.theguardian.com/music/2026/may/17/harry-styles-together-together-tour-genuinely-charismatic-performer-amsterdam-live-concert-review",
-      "date": "May 17, 26",
-      "source": "Guardian Music",
+      "id": "b848083b09fb",
+      "title": "Don Omar Unveils 2026 \u2018The Last King\u2019 North American Tour",
+      "summary": "Don Omar has announced dates for his upcoming \u201cThe Last King\u201d Tour, a 21-city North American arena run scheduled to... The post Don Omar Unveils 2026 \u2018The Last King\u2019 North American Tour appeared first",
+      "company": "Don Omar Unveils",
+      "link": "https://www.ticketnews.com/2026/05/don-omar-unveils-2026-the-last-king-north-american-tour/",
+      "date": "May 20, 26",
+      "source": "Ticket News",
       "layer": 2,
+      "access": "pe",
+      "score": 10,
+      "moments": []
+    },
+    {
+      "id": "8fe819a33290",
+      "title": "Amazon Prime\u2019s NBA playoff coverage was an alienating, strangely visionary experiment in anti-TV",
+      "summary": "The streamer has given us a broadcast so powerfully isolating it effectively anticipates sport\u2019s viewerless futureGame 7 in the NBA playoffs: a chance to kick back, enjoy the drama of a winner-takes-a",
+      "company": "Amazon Prime\u2019s NBA",
+      "link": "https://www.theguardian.com/sport/2026/may/20/amazon-prime-nba-playoff-coverage",
+      "date": "May 20, 26",
+      "source": "Guardian Sport",
+      "layer": 3,
+      "access": "pe",
+      "score": 9,
+      "moments": []
+    },
+    {
+      "id": "604f623fbeaf",
+      "title": "Bournemouth race to upgrade Vitality Stadium before first season in Europe",
+      "summary": "Club need permission for proposed stadium upgradesDraw with Manchester City sealed first ever European qualificationBournemouth are facing a race to complete upgrades to the Vitality Stadium to enable",
+      "company": "Bournemouth",
+      "link": "https://www.theguardian.com/football/2026/may/20/bournemouth-race-to-upgrade-vitality-stadium-before-first-season-in-europe",
+      "date": "May 20, 26",
+      "source": "Guardian Sport",
+      "layer": 2,
+      "access": "pe",
+      "score": 9,
+      "moments": []
+    },
+    {
+      "id": "e4eba36b1b6b",
+      "title": "DOJ settlement prevents pending tax investigations of Trump and his family",
+      "summary": "A settlement between President Trump and the IRS that created a $1.8 billion \"anti-weaponization\" fund was expanded Tuesday to bar additional tax investigations into him, his family and his businesses",
+      "company": "DOJ",
+      "link": "https://www.axios.com/2026/05/19/trump-tax-settlement-irs-anti-weaponization-fund-doj",
+      "date": "May 19, 26",
+      "source": "Axios",
+      "layer": 3,
       "access": "pe",
       "score": 8,
       "moments": []
     },
     {
-      "id": "1e83527526f0",
-      "title": "Nuweb Group launches resale to help ticketing platforms reclaim the secondary market",
-      "summary": "Nuweb Group has launched native resale, enabling ticketing platforms to offer both primary sales and verified resale within a single... The post Nuweb Group launches resale to help ticketing platforms",
-      "company": "Nuweb Group",
-      "link": "https://www.ticketnews.com/2026/05/nuweb-group-launches-resale-to-help-ticketing-platforms-reclaim-the-secondary-market/",
-      "date": "May 19, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 6,
-      "moments": []
-    },
-    {
-      "id": "22dced4e6f71",
-      "title": "Roland-Garros Hits YouTube: TNT to Simulcast McEnroe Morning Hour",
-      "summary": "Brothers John and Patrick McEnroe will host two hours of whiparound coverage from Roland-Garros during the French Open\u2019s first six days, TNT Sports is set to announce.&#160;The Mac Zone&#160;will go l",
-      "company": "Roland-Garros Hits YouTube",
-      "link": "https://www.sportico.com/leagues/tennis/2026/roland-garros-french-streaming-youtube-tnt-trutv-mcenroe-1234899473/",
-      "date": "May 18, 26",
-      "source": "Sportico",
-      "layer": 3,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "34551fbe1327",
-      "title": "Jay Bilas Has No Soft Takes on College Hoops",
-      "summary": "Jay Bilas on AJ Dybantsa, NCAA expansion, NIL costs, and the future of college basketball.",
-      "company": "Jay Bilas Has No Soft Takes",
-      "link": "https://frontofficesports.com/videos/jay-bilas-has-no-soft-takes-on-college-hoops/",
-      "date": "May 18, 26",
-      "source": "Front Office Sports",
+      "id": "bdb4181bc311",
+      "title": "A 2026 World Cup that doesn\u2019t rip off fans? Some cities are showing that it\u2019s possible",
+      "summary": "Philadelphia, Kansas City and Atlanta are among the hosts showing that price-gouging at this summer\u2019s tournament is, ultimately, a choiceSign up for the World Behind The Cup newsletterPhiladelphia has",
+      "company": "World Cup",
+      "link": "https://www.theguardian.com/football/2026/may/20/world-cup-pricing-fan-friendly-atlanta-kansas-city-philadelphia",
+      "date": "May 20, 26",
+      "source": "Guardian Sport",
       "layer": 4,
       "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "8ca1b879f883",
-      "title": "Rays Reach Preliminary Agreement With City, County on $2.3B Ballpark",
-      "summary": "The stadium would be located near Raymond James Stadium, home of the Buccaneers.",
-      "company": "Rays Reach Preliminary Agreement With City",
-      "link": "https://frontofficesports.com/rays-reach-preliminary-agreement-with-city-county-on-2-3b-ballpark/",
-      "date": "May 15, 26",
-      "source": "Front Office Sports",
-      "layer": 2,
-      "access": "pe",
-      "score": 5,
+      "score": 7,
       "moments": []
     },
     {
@@ -473,29 +464,16 @@
       "moments": []
     },
     {
-      "id": "cfe61fe3dc9c",
-      "title": "Smashing Pumpkins Announce Rats in a Cage Tour to Celebrate \u2018Mellon Collie and the Infinite Sadness\u2019",
-      "summary": "\"Staging a Mellon Collie-themed show is something we\u2019ve discussed for over a decade, and finally the stars have aligned,\" says Billy Corgan",
-      "company": "Smashing Pumpkins Announce Rats",
-      "link": "https://www.rollingstone.com/music/music-news/smashing-pumpkins-tour-rats-in-a-cage-1235564532/",
-      "date": "May 18, 26",
-      "source": "Rolling Stone News",
-      "layer": 4,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "5847fc6c4f2a",
-      "title": "Kylie Minogue says \u201cshock\u201d cancer diagnosis over 20 years ago is \u201cstill with me today\u201d",
-      "summary": "Her three-part Netflix doc arrives tomorrow (Wednesday May 20), along with a new song called 'Light Up' The post Kylie Minogue says &#8220;shock&#8221; cancer diagnosis over 20 years ago is &#8220;sti",
-      "company": "Kylie Minogue",
-      "link": "https://www.nme.com/news/music/kylie-minogue-says-shock-cancer-diagnosis-over-20-years-ago-is-still-with-me-today-3946241?utm_source=rss&utm_medium=rss&utm_campaign=kylie-minogue-says-shock-cancer-diagnosis-over-20-years-ago-is-still-with-me-today",
-      "date": "May 19, 26",
-      "source": "NME",
+      "id": "88a49dc3eaf6",
+      "title": "Shaikin: From the Big Apple, sour grapes toward the voice of the Dodgers",
+      "summary": "New York sports talk radio hosts take issue with Joe Davis serving as the radio voice of the Dodgers and Fox national broadcasts. They're wrong.",
+      "company": "Shaikin",
+      "link": "https://www.latimes.com/sports/dodgers/story/2026-05-20/from-big-apple-sour-grapes-toward-voice-of-dodgers",
+      "date": "May 20, 26",
+      "source": "LA Times Sports",
       "layer": 3,
       "access": "pe",
-      "score": 4,
+      "score": 5,
       "moments": []
     },
     {
