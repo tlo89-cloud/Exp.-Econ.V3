@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-20T15:34:08.836172+00:00",
-  "total": 33,
+  "generated": "2026-05-21T15:38:54.343282+00:00",
+  "total": 34,
   "scraped": [
     {
       "id": "200c68a12127",
@@ -20,19 +20,51 @@
       ]
     },
     {
-      "id": "bf1f8d67a8dd",
-      "title": "Gurriers announce new album \u2018Nobody\u2019s Coming To Save You\u2019 with intense title track",
-      "summary": "The Irish alt band have also announced a UK and European headline tour for later this year The post Gurriers announce new album \u2018Nobody\u2019s Coming To Save You\u2019 with intense title track appeared first on",
-      "company": "Gurriers",
-      "link": "https://www.nme.com/news/music/gurriers-announce-album-nobodys-coming-to-save-you-intense-title-track-tour-3946426?utm_source=rss&utm_medium=rss&utm_campaign=gurriers-announce-album-nobodys-coming-to-save-you-intense-title-track-tour",
-      "date": "May 20, 26",
-      "source": "NME",
-      "layer": 1,
+      "id": "d294cdc12458",
+      "title": "Senate Democrats Implore FCC Chair to Conduct \u2018Rigorous\u2019 Review of Paramount-Warner Bros. Merger Foreign Investment: Deal \u2018Raises National Security...",
+      "summary": "Democratic senators are again urging the FCC to not rubber-stamp Paramount Skydance&#8217;s proposed $111 billion takeover of Warner Bros. Discovery &#8212; citing concerns over foreign investors, inc",
+      "company": "Senate Democrats Implore FCC Chair",
+      "link": "https://variety.com/2026/tv/news/senators-fcc-chairreview-paramount-warner-bros-merger-foreign-investors-1236755538/",
+      "date": "May 21, 26",
+      "source": "Variety Biz",
+      "layer": 3,
       "access": "pe",
-      "score": 21,
+      "score": 24,
       "moments": [
-        "album_announcement",
-        "festival_headliner"
+        "acquisition",
+        "funding_round"
+      ]
+    },
+    {
+      "id": "47b198201f52",
+      "title": "Anthropic and PE-backed AI-native enterprise services firm acquires Fractional AI",
+      "summary": "The other private equity and investment firms that back the new AI-native enterprise services company include Goldman Sachs, General Atlantic, Leonard Green &#038; Partners, Apollo Global Management, ",
+      "company": "Anthropic",
+      "link": "https://www.pehub.com/anthropic-and-pe-backed-ai-native-enterprise-services-firm-acquires-fractional-ai/",
+      "date": "May 21, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 19,
+      "moments": [
+        "acquisition",
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "ab4928c89d58",
+      "title": "Mouro Capital to expand beyond Santander as sole LP, raises $400m from bank for third fund",
+      "summary": "Mouro Capital, the venture capital investor which spun out from Banco Santander in 2020, is expanding beyond having the bank as its sole LP with its third fund. The post Mouro Capital to expand beyond",
+      "company": "Mouro Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/spain-western-europe-europe-by-region/mouro-capital-to-expand-beyond-santander-as-sole-lp-raises-400m-from-bank-for-third-fund.html",
+      "date": "May 21, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 19,
+      "moments": [
+        "funding_round",
+        "pe_investment"
       ]
     },
     {
@@ -52,16 +84,32 @@
       ]
     },
     {
-      "id": "1a5aea5666fe",
-      "title": "Snowhawk seals $1.3bn for debut fund close, eyes growing digital infra opportunity",
-      "summary": "Digital infrastructure investor Snowhawk has reached a $1.3bn final close for its inaugural fund and a separate co-invest strategy. The post Snowhawk seals $1.3bn for debut fund close, eyes growing di",
-      "company": "Snowhawk",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/snowhawk-seals-1-3bn-for-debut-fund-close-eyes-growing-digital-infra-opportunity.html",
-      "date": "May 19, 26",
-      "source": "AltAssets",
+      "id": "490306542f63",
+      "title": "Dexys Midnight Runners announce new album \u2018Love\u2019 with wistful single \u2018My Life In England Pt. 1\u2019 and more UK and European tour dates",
+      "summary": "\"It\u2019s all memories of my own experiences,\" said Kevin Rowland of the track The post Dexys Midnight Runners announce new album &#8216;Love&#8217; with wistful single &#8216;My Life In England Pt. 1\u2019 an",
+      "company": "Dexys Midnight Runners",
+      "link": "https://www.nme.com/news/music/dexys-midnight-runners-announce-new-album-love-with-wistful-single-my-life-in-england-pt-1-and-more-uk-and-european-tour-dates-3946685?utm_source=rss&utm_medium=rss&utm_campaign=dexys-midnight-runners-announce-new-album-love-with-wistful-single-my-life-in-england-pt-1-and-more-uk-and-european-tour-dates",
+      "date": "May 21, 26",
+      "source": "NME",
       "layer": 1,
       "access": "pe",
       "score": 18,
+      "moments": [
+        "album_announcement",
+        "tour_announcement"
+      ]
+    },
+    {
+      "id": "2b12648e5ec2",
+      "title": "Healthtech-focused Lauxera Capital Partners doubles debut fund total in \u20ac520m Fund II close",
+      "summary": "Healthtech investor Lauxera Capital Partners has hit a \u20ac520m final close for its sophomore fundraise, about double the total it collected for its debut investment vehicle. The post Healthtech-focused ",
+      "company": "Healthtech-focused Lauxera Capital Partners",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/healthtech-focused-lauxera-capital-partners-doubles-debut-fund-total-in-e520m-fund-ii-close.html",
+      "date": "May 21, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
       "moments": [
         "pe_investment",
         "fund_launch"
@@ -84,13 +132,29 @@
       ]
     },
     {
+      "id": "db67a84984a8",
+      "title": "McNally-backed Foundral acquires mechanical contracting firm A. Hattersley & Sons",
+      "summary": "Foundral is a family of mechanical contracting companies. The post McNally-backed Foundral acquires mechanical contracting firm A. Hattersley &#038; Sons appeared first on PE Hub.",
+      "company": "McNally-backed Foundral",
+      "link": "https://www.pehub.com/mcnally-backed-foundral-acquires-mechanical-contracting-firm-a-hattersley-sons/",
+      "date": "May 21, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "acquisition",
+        "company_launch"
+      ]
+    },
+    {
       "id": "dcfd2200c8e6",
       "title": "Meridian Ventures launched a $35M fund with a focus on MBA-deferred founders",
       "summary": "This new fund will back founders building enterprise technology in the United States. Meridian is agnostic, co-founder Devon Gethers said, noting that the firm has already invested in companies in fin",
       "company": "Meridian Ventures",
       "link": "https://techcrunch.com/2026/05/15/meridian-ventures-launched-35m-fund-to-back-mba-deferred-founders/",
       "date": "May 15, 26",
-      "source": "TechCrunch Startups",
+      "source": "TechCrunch Venture",
       "layer": 1,
       "access": "venture",
       "score": 13,
@@ -100,12 +164,12 @@
       ]
     },
     {
-      "id": "d0febabb953b",
-      "title": "Stellus Capital seals $1.5bn for fourth credit fund ahead of takeover by Ridgepost",
-      "summary": "Lower middle market direct lending specialist Stellus Capital Management has reached an on-target $1.5bn final close for its fourth credit fund. The post Stellus Capital seals $1.5bn for fourth credit",
-      "company": "Stellus Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208467.html",
-      "date": "May 20, 26",
+      "id": "2662a7eccd48",
+      "title": "Eurazeo passes \u20ac1bn in first close of latest lower mid-market buyout fund",
+      "summary": "Eurazeo has raised more than \u20ac1bn at the first close of the fifth private equity fund from its lower mid-market Elevate arm, already above the total raised for its predecessor vehicle. The post Euraze",
+      "company": "Eurazeo",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/france-western-europe-europe-by-region/eurazeo-passes-e1bn-in-first-close-of-latest-lower-mid-market-buyout-fund.html",
+      "date": "May 21, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -116,12 +180,12 @@
       ]
     },
     {
-      "id": "45ce123c0632",
-      "title": "Bain Capital closes its biggest Asia fund yet on $10.5bn, smashing target",
-      "summary": "Buyout giant Bain Capital has soared past its target for its latest Asia-focused fundraise to reach a $10.5bn final close for the vehicle. The post Bain Capital closes its biggest Asia fund yet on $10",
-      "company": "Bain Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/asia-by-region/bain-capital-closes-its-biggest-asia-fund-yet-on-10-5bn-smashing-target.html",
-      "date": "May 19, 26",
+      "id": "d0febabb953b",
+      "title": "Stellus Capital seals $1.5bn for fourth credit fund ahead of takeover by Ridgepost",
+      "summary": "Lower middle market direct lending specialist Stellus Capital Management has reached an on-target $1.5bn final close for its fourth credit fund. The post Stellus Capital seals $1.5bn for fourth credit",
+      "company": "Stellus Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208467.html",
+      "date": "May 20, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -145,68 +209,6 @@
       "moments": [
         "acquisition",
         "company_launch"
-      ]
-    },
-    {
-      "id": "ffe2e387535c",
-      "title": "Healthcare specialists GHO and CBC sign tie-up; Data room figures suggest financial services M&A growth; Eurazeo to acquire cybersecurity biz",
-      "summary": "GHO and CBC co-founders Mike Mortimer and Fu Wei will serve as co-CEOs of the combined company. The post Healthcare specialists GHO and CBC sign tie-up; Data room figures suggest financial services M&",
-      "company": "Healthcare specialists GHO and CBC",
-      "link": "https://www.pehub.com/healthcare-specialists-gho-and-cbc-sign-tie-up-data-room-figures-suggest-financial-services-m-eurazeo-to-acquire-cybersecurity-biz/",
-      "date": "May 20, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 10,
-      "moments": [
-        "acquisition",
-        "company_launch"
-      ]
-    },
-    {
-      "id": "a706e175096e",
-      "title": "The hottest place for startups to strike a deal? The F1 paddock",
-      "summary": "F1 Grands Prix have emerged as a new place to see and be seen if you are a founder or investor.",
-      "company": "The",
-      "link": "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/",
-      "date": "May 10, 26",
-      "source": "TechCrunch Venture",
-      "layer": 1,
-      "access": "venture",
-      "score": 10,
-      "moments": [
-        "acquisition",
-        "company_launch"
-      ]
-    },
-    {
-      "id": "cb9246465169",
-      "title": "Anduril raises $5B, doubles valuation to $61B",
-      "summary": "After achieving $2.2 billion in revenue in 2025, the defense tech startup has raised another massive round, led by Thrive and a16z, it says.",
-      "company": "Anduril",
-      "link": "https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/",
-      "date": "May 13, 26",
-      "source": "TechCrunch Startups",
-      "layer": 2,
-      "access": "venture",
-      "score": 21,
-      "moments": [
-        "funding_round"
-      ]
-    },
-    {
-      "id": "08f73b977807",
-      "title": "Getdown Services announce second album \u2018Massive Champion\u2019 with charismatic single \u2018I Can\u2019t Die Like That\u2019 and UK tour dates",
-      "summary": "The Bristol band will perform as part of Harry Styles' Meltdown festival, and also support Courteeners at a huge Manchester gig The post Getdown Services announce second album \u2018Massive Champion\u2019 with ",
-      "company": "Getdown Services",
-      "link": "https://www.nme.com/news/music/getdown-services-announce-second-album-massive-champion-with-charismatic-single-i-cant-die-like-that-and-uk-tour-dates-3946479?utm_source=rss&utm_medium=rss&utm_campaign=getdown-services-announce-second-album-massive-champion-with-charismatic-single-i-cant-die-like-that-and-uk-tour-dates",
-      "date": "May 20, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 19,
-      "moments": [
-        "tour_announcement"
       ]
     },
     {
@@ -240,12 +242,27 @@
       ]
     },
     {
-      "id": "68d67b7c3b29",
-      "title": "Harry Styles\u2019 Tour Rep Responds to Fan Complaints About Poor Sightlines on \u2018Together Together\u2019 Tour: \u2018Those Areas Are Being Reviewed Carefully and...",
+      "id": "35baad775a68",
+      "title": "Two hours that changed AI",
+      "summary": "Over the course of two hours Wednesday afternoon, the AI industry produced an extraordinary stream of headlines mapping out the vast architecture of its ambitions.Why it matters: One historic news cyc",
+      "company": "Two",
+      "link": "https://www.axios.com/2026/05/21/ai-news-cycle-openai-anthropic-spacex",
+      "date": "May 21, 26",
+      "source": "Axios",
+      "layer": 2,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "c586e04c003a",
+      "title": "Harry Styles\u2019 Tour Will Adjust Floor Plan in Response to Fan Complaints About Poor Sightlines",
       "summary": "In response to multiple complaints online from Harry Styles fans who paid for special \u201cVIP\u201d floor tickets on the first two nights of the singer\u2019s \u201cTogether Together\u201d tour, but found their views obscur",
-      "company": "Harry Styles\u2019 Tour Rep Responds",
+      "company": "Harry Styles\u2019 Tour Will Adjust Floor",
       "link": "https://variety.com/2026/music/news/harry-styles-responds-fan-complaints-poor-sightlines-1236753944/",
-      "date": "May 19, 26",
+      "date": "May 20, 26",
       "source": "Variety Music",
       "layer": 2,
       "access": "pe",
@@ -270,48 +287,78 @@
       ]
     },
     {
-      "id": "9170c5661b85",
-      "title": "FIFA Fan Festival in Monterrey Unveils Headliners Chayanne, Imagine Dragons and Enrique Iglesias",
-      "summary": "The lineup for the 2026 FIFA Fan Festival in Monterrey has been announced, with Chayanne, Imagine Dragons, Enrique Iglesias and... The post FIFA Fan Festival in Monterrey Unveils Headliners Chayanne, ",
-      "company": "FIFA Fan Festival",
-      "link": "https://www.ticketnews.com/2026/05/fifa-fan-festival-in-monterrey-unveils-headliners-chayanne-imagine-dragons-and-enrique-iglesias/",
-      "date": "May 19, 26",
-      "source": "Ticket News",
+      "id": "6f3cf722a64c",
+      "title": "Spotify\u2019s Head of Music Announces \u2018Reserved\u2019 Ticketing Initiative: \u2018As AI Proliferates, Real World Experiences Mean That Much More\u2019",
+      "summary": "In an interview with Billboard, Charlie Hellman explains Reserved, which kicks off in the U.S. this summer, offering superfans reserved tickets on Live Nation tours.",
+      "company": "Spotify\u2019s Head",
+      "link": "https://www.billboard.com/pro/spotifys-head-of-music-reserved-ticketing-initiative/",
+      "date": "May 21, 26",
+      "source": "Billboard",
+      "layer": 3,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "streaming_milestone"
+      ]
+    },
+    {
+      "id": "5c0bf9b8e769",
+      "title": "Spotify and Universal Music Announce Licensing Agreements for \u2018Responsible\u2019 AI-Generated Covers and Remixes",
+      "summary": "Spotify and Universal Music Group have announced a major recorded-music and music-publishing licensing agreements that will enable Spotify to launch a new tool allowing fans to create covers and remix",
+      "company": "Spotify",
+      "link": "https://variety.com/2026/digital/news/spotify-universal-music-licensing-agreements-fan-made-covers-1236755951/",
+      "date": "May 21, 26",
+      "source": "Variety Music",
       "layer": 1,
       "access": "pe",
-      "score": 14,
+      "score": 13,
+      "moments": [
+        "streaming_milestone"
+      ]
+    },
+    {
+      "id": "ff0a417836f6",
+      "title": "Jack Antonoff Just Wants to Talk",
+      "summary": "Bleachers\u2019 frontman got here by believing in the power of live music. Now, with a new album and tour, he\u2019s not giving up \u2014 not even close",
+      "company": "Jack Antonoff Just Wants",
+      "link": "https://www.rollingstone.com/music/music-features/jack-antonoff-bleachers-new-album-tour-interview-1235566247/",
+      "date": "May 21, 26",
+      "source": "Rolling Stone Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "f9d1b63a0461",
+      "title": "Busta Rhymes to Receive Songwriting Award at NYC Anti Social Camp Event",
+      "summary": "The rap legend headlines a five-day New York gathering in June that bills itself as the world\u2019s largest songwriting festival",
+      "company": "Busta Rhymes",
+      "link": "https://www.rollingstone.com/music/music-news/busta-rhymes-songwriting-award-nyc-anti-social-camp-1235566466/",
+      "date": "May 20, 26",
+      "source": "Rolling Stone Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
       "moments": [
         "festival_headliner"
       ]
     },
     {
-      "id": "5c007f48049b",
-      "title": "EU picks EQT to manage \u20ac5bn deeptech scale-up fund",
-      "summary": "The European Union has picked investment giant EQT to manage its Scaleup Europe Fund, a \u20ac5bn vehicle created to target deeptech companies on the continent. The post EU picks EQT to manage \u20ac5bn deeptec",
-      "company": "EU",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/eu-picks-eqt-to-manage-e5bn-deeptech-scale-up-fund.html",
-      "date": "May 19, 26",
-      "source": "AltAssets",
-      "layer": 5,
+      "id": "6eae844656df",
+      "title": "Julieta Venegas: La Leyenda de Tijuana",
+      "summary": "The Grammy-winning singer-songwriter discusses her dual memoir and album release, \"Norte\u00f1a,\" which features collaborations with Natalia Lafourcade, Yahritza y Su Esencia, Meme del Real and Bronco.",
+      "company": "Julieta Venegas",
+      "link": "https://www.latimes.com/delos/story/2026-05-11/julieta-venegas-nortena-album-book-interview",
+      "date": "May 11, 26",
+      "source": "LA Times Music",
+      "layer": 1,
       "access": "pe",
       "score": 12,
       "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "b05c3d7baad4",
-      "title": "Ex-Sony, Panavision arm exec Hallen raises debut Hallstone Venture fund targeting AI in media, advertising",
-      "summary": "Hallstone Ventures, a Los Angeles-based seed investor backing AI-driven infrastructure for media, entertainment and advertising, has closed its debut fund. The post Ex-Sony, Panavision arm exec Hallen",
-      "company": "Ex-Sony Panavision",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208431.html",
-      "date": "May 15, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "pe_investment"
+        "album_announcement"
       ]
     },
     {
@@ -330,14 +377,14 @@
       ]
     },
     {
-      "id": "e5e618f4f421",
-      "title": "Yellow Wood-backed Scholl\u2019s Wellness Company acquires athletic performance brand Vktry",
-      "summary": "Dr. Scholl\u2019s is the parent company of Scholl\u2019s Wellness Company. The post Yellow Wood-backed Scholl&#8217;s Wellness Company acquires athletic performance brand Vktry appeared first on PE Hub.",
-      "company": "Yellow Wood-backed Scholl\u2019s Wellness Company",
-      "link": "https://www.pehub.com/yellow-wood-backed-scholls-wellness-company-acquires-athletic-performance-brand-vktry/",
+      "id": "5e8114ca238d",
+      "title": "Paramount\u2019s Junk-Status Credit Rating to Be Downgraded Further Following Warner Bros. Merger to Reflect \u2018Major Ongoing Uncertainties,\u2019 S&P Global Says",
+      "summary": "S&#38;P Global Ratings already has placed Paramount Skydance&#8217;s credit rating in junk-status territory &#8212; indicating that the media conglomerate&#8217;s debt securities are considered specul",
+      "company": "Paramount\u2019s Junk-Status Credit Rating",
+      "link": "https://variety.com/2026/film/news/paramount-credit-rating-lower-junk-status-warner-bros-merger-1236754967/",
       "date": "May 20, 26",
-      "source": "PE Hub",
-      "layer": 5,
+      "source": "Variety Biz",
+      "layer": 3,
       "access": "pe",
       "score": 9,
       "moments": [
@@ -358,6 +405,19 @@
       "moments": [
         "acquisition"
       ]
+    },
+    {
+      "id": "816faed0d743",
+      "title": "Anthropic is paying SpaceX $15 billion per year",
+      "summary": "Anthropic is paying SpaceX $1.25 billion per month through May 2029 as part of the massive compute deal the companies signed earlier this month.Why it matters: It's a massive bill but comes as Anthrop",
+      "company": "Anthropic",
+      "link": "https://www.axios.com/2026/05/20/anthropic-spacex-compute",
+      "date": "May 20, 26",
+      "source": "Axios",
+      "layer": 2,
+      "access": "pe",
+      "score": 11,
+      "moments": []
     },
     {
       "id": "bc1beae3c080",
@@ -386,19 +446,6 @@
       "moments": []
     },
     {
-      "id": "b848083b09fb",
-      "title": "Don Omar Unveils 2026 \u2018The Last King\u2019 North American Tour",
-      "summary": "Don Omar has announced dates for his upcoming \u201cThe Last King\u201d Tour, a 21-city North American arena run scheduled to... The post Don Omar Unveils 2026 \u2018The Last King\u2019 North American Tour appeared first",
-      "company": "Don Omar Unveils",
-      "link": "https://www.ticketnews.com/2026/05/don-omar-unveils-2026-the-last-king-north-american-tour/",
-      "date": "May 20, 26",
-      "source": "Ticket News",
-      "layer": 2,
-      "access": "pe",
-      "score": 10,
-      "moments": []
-    },
-    {
       "id": "8fe819a33290",
       "title": "Amazon Prime\u2019s NBA playoff coverage was an alienating, strangely visionary experiment in anti-TV",
       "summary": "The streamer has given us a broadcast so powerfully isolating it effectively anticipates sport\u2019s viewerless futureGame 7 in the NBA playoffs: a chance to kick back, enjoy the drama of a winner-takes-a",
@@ -412,22 +459,35 @@
       "moments": []
     },
     {
-      "id": "604f623fbeaf",
-      "title": "Bournemouth race to upgrade Vitality Stadium before first season in Europe",
-      "summary": "Club need permission for proposed stadium upgradesDraw with Manchester City sealed first ever European qualificationBournemouth are facing a race to complete upgrades to the Vitality Stadium to enable",
-      "company": "Bournemouth",
-      "link": "https://www.theguardian.com/football/2026/may/20/bournemouth-race-to-upgrade-vitality-stadium-before-first-season-in-europe",
+      "id": "824815155056",
+      "title": "Harry Styles\u2019 Team to Make Adjustments in VIP Section After Fans Complained of Restricted Views",
+      "summary": "Harry Styles&#8217; team has vowed to &#8220;adjust obstructions&#8221; on the floor in the VIP section of his arena shows after... The post Harry Styles&#8217; Team to Make Adjustments in VIP Section",
+      "company": "Harry Styles\u2019 Team",
+      "link": "https://www.ticketnews.com/2026/05/harry-styles-team-changes-fans-blast-stage-views/",
       "date": "May 20, 26",
-      "source": "Guardian Sport",
+      "source": "Ticket News",
       "layer": 2,
       "access": "pe",
       "score": 9,
       "moments": []
     },
     {
+      "id": "1dcc87fffcdc",
+      "title": "Michael Jackson Docuseries Set at Netflix, Will Explore His 2005 Child Molestation Trial and Acquittal",
+      "summary": "A new three-part Netflix series about the explosive 2005 Michael Jackson trial, &#8220;Michael Jackson: The Verdict,&#8221; is set to premiere on June 3. The docuseries covers the pop icon&#8217;s 200",
+      "company": "Michael Jackson Docuseries Set",
+      "link": "https://variety.com/2026/music/news/michael-jackson-the-verdict-trailer-netflix-trial-1236755211/",
+      "date": "May 20, 26",
+      "source": "Variety Music",
+      "layer": 3,
+      "access": "venture",
+      "score": 8,
+      "moments": []
+    },
+    {
       "id": "e4eba36b1b6b",
       "title": "DOJ settlement prevents pending tax investigations of Trump and his family",
-      "summary": "A settlement between President Trump and the IRS that created a $1.8 billion \"anti-weaponization\" fund was expanded Tuesday to bar additional tax investigations into him, his family and his businesses",
+      "summary": "A settlement between President Trump and the IRS that created a $1.8 billion \"anti-weaponization\" fund was expanded Tuesday to bar investigations into him, his family and his businesses' previously fi",
       "company": "DOJ",
       "link": "https://www.axios.com/2026/05/19/trump-tax-settlement-irs-anti-weaponization-fund-doj",
       "date": "May 19, 26",
@@ -435,45 +495,6 @@
       "layer": 3,
       "access": "pe",
       "score": 8,
-      "moments": []
-    },
-    {
-      "id": "bdb4181bc311",
-      "title": "A 2026 World Cup that doesn\u2019t rip off fans? Some cities are showing that it\u2019s possible",
-      "summary": "Philadelphia, Kansas City and Atlanta are among the hosts showing that price-gouging at this summer\u2019s tournament is, ultimately, a choiceSign up for the World Behind The Cup newsletterPhiladelphia has",
-      "company": "World Cup",
-      "link": "https://www.theguardian.com/football/2026/may/20/world-cup-pricing-fan-friendly-atlanta-kansas-city-philadelphia",
-      "date": "May 20, 26",
-      "source": "Guardian Sport",
-      "layer": 4,
-      "access": "pe",
-      "score": 7,
-      "moments": []
-    },
-    {
-      "id": "aa68584ca467",
-      "title": "Cardi B, Kendrick Lamar, Mariah the Scientist Lead 2026 BET Awards Nominations",
-      "summary": "The 2026 BET Awards nominations have landed: Cardi B leads the nominations with six, Kendrick Lamar and Mariah the Scientist tie for second five nominations, and Doechii, Doja Cat, Clipse, Teyana Tayl",
-      "company": "Cardi",
-      "link": "https://variety.com/2026/music/news/bet-awards-2026-nominations-cardi-b-1236753557/",
-      "date": "May 19, 26",
-      "source": "Variety Music",
-      "layer": 3,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "88a49dc3eaf6",
-      "title": "Shaikin: From the Big Apple, sour grapes toward the voice of the Dodgers",
-      "summary": "New York sports talk radio hosts take issue with Joe Davis serving as the radio voice of the Dodgers and Fox national broadcasts. They're wrong.",
-      "company": "Shaikin",
-      "link": "https://www.latimes.com/sports/dodgers/story/2026-05-20/from-big-apple-sour-grapes-toward-voice-of-dodgers",
-      "date": "May 20, 26",
-      "source": "LA Times Sports",
-      "layer": 3,
-      "access": "pe",
-      "score": 5,
       "moments": []
     },
     {
