@@ -1,24 +1,7 @@
 {
-  "generated": "2026-05-21T15:38:54.343282+00:00",
-  "total": 34,
+  "generated": "2026-05-22T14:48:51.148529+00:00",
+  "total": 35,
   "scraped": [
-    {
-      "id": "200c68a12127",
-      "title": "Lightrock raises $500m fund looking to boost electricity access in global south",
-      "summary": "London-headquarted Lightrock has closed a $500m fund targeting growth-stage investments across sub-Saharan Africa, South Asia and Southeast Asia which advance the UN goal of ensuring access to afforda",
-      "company": "Lightrock",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/lightrock-raises-500m-fund-looking-to-boost-electricity-access-in-global-south.html",
-      "date": "May 19, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 23,
-      "moments": [
-        "funding_round",
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
     {
       "id": "d294cdc12458",
       "title": "Senate Democrats Implore FCC Chair to Conduct \u2018Rigorous\u2019 Review of Paramount-Warner Bros. Merger Foreign Investment: Deal \u2018Raises National Security...",
@@ -33,22 +16,6 @@
       "moments": [
         "acquisition",
         "funding_round"
-      ]
-    },
-    {
-      "id": "47b198201f52",
-      "title": "Anthropic and PE-backed AI-native enterprise services firm acquires Fractional AI",
-      "summary": "The other private equity and investment firms that back the new AI-native enterprise services company include Goldman Sachs, General Atlantic, Leonard Green &#038; Partners, Apollo Global Management, ",
-      "company": "Anthropic",
-      "link": "https://www.pehub.com/anthropic-and-pe-backed-ai-native-enterprise-services-firm-acquires-fractional-ai/",
-      "date": "May 21, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 19,
-      "moments": [
-        "acquisition",
-        "pe_investment"
       ]
     },
     {
@@ -68,35 +35,19 @@
       ]
     },
     {
-      "id": "945e83668917",
-      "title": "Shamrock Capital seals $813m for content-focused investment fund",
-      "summary": "Media, entertainment and communications-focused private equity house Shamrock Capital has secured $813m for its fourth content acquisition fund. The post Shamrock Capital seals $813m for content-focus",
-      "company": "Shamrock Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208472.html",
-      "date": "May 20, 26",
-      "source": "AltAssets",
+      "id": "f7eb623bdffc",
+      "title": "Charterhouse, Iron Path, Revelar Capital seek pain management assets; Orthopedic care spurs merger between Charlesbank and Nordic manufacturers",
+      "summary": "Exploring private equity interest in the pain management sector; a look at the completed merger of two medtech manufacturers into an orthopedics-focused platform and backed by Charlesbank Capital Part",
+      "company": "Charterhouse Iron Path Revelar Capital",
+      "link": "https://www.pehub.com/charterhouse-iron-path-revelar-capital-seek-pain-management-assets-orthopedic-care-spurs-merger-between-charlesbank-and-nordic-manufacturers/",
+      "date": "May 22, 26",
+      "source": "PE Hub",
       "layer": 5,
       "access": "pe",
-      "score": 19,
+      "score": 16,
       "moments": [
         "acquisition",
         "pe_investment"
-      ]
-    },
-    {
-      "id": "490306542f63",
-      "title": "Dexys Midnight Runners announce new album \u2018Love\u2019 with wistful single \u2018My Life In England Pt. 1\u2019 and more UK and European tour dates",
-      "summary": "\"It\u2019s all memories of my own experiences,\" said Kevin Rowland of the track The post Dexys Midnight Runners announce new album &#8216;Love&#8217; with wistful single &#8216;My Life In England Pt. 1\u2019 an",
-      "company": "Dexys Midnight Runners",
-      "link": "https://www.nme.com/news/music/dexys-midnight-runners-announce-new-album-love-with-wistful-single-my-life-in-england-pt-1-and-more-uk-and-european-tour-dates-3946685?utm_source=rss&utm_medium=rss&utm_campaign=dexys-midnight-runners-announce-new-album-love-with-wistful-single-my-life-in-england-pt-1-and-more-uk-and-european-tour-dates",
-      "date": "May 21, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 18,
-      "moments": [
-        "album_announcement",
-        "tour_announcement"
       ]
     },
     {
@@ -116,6 +67,22 @@
       ]
     },
     {
+      "id": "45984646ad37",
+      "title": "LIV Golf Pitch Deck Seeks Up to $350 Million in Capital Raise",
+      "summary": "Since the Public Investment Fund of Saudi Arabia pulled back on its financial support of LIV Golf, the upstart league has been looking for new investors and capital. Now, the details of LIV&#8217;s fi",
+      "company": "LIV Golf Pitch Deck Seeks Up",
+      "link": "https://www.sportico.com/leagues/golf/2026/liv-golf-seeking-350-million-capital-raise-1234901181/",
+      "date": "May 21, 26",
+      "source": "Sportico",
+      "layer": 1,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "acquisition",
+        "funding_round"
+      ]
+    },
+    {
       "id": "d3b9491b4a15",
       "title": "Beartooth Announce 2026 U.S. Tour Dates With 3 Special Guests",
       "summary": "BEARTOOTHband / Fearless Records, YouTube, Live Nation",
@@ -129,22 +96,6 @@
       "moments": [
         "tour_announcement",
         "surprise_appearance"
-      ]
-    },
-    {
-      "id": "db67a84984a8",
-      "title": "McNally-backed Foundral acquires mechanical contracting firm A. Hattersley & Sons",
-      "summary": "Foundral is a family of mechanical contracting companies. The post McNally-backed Foundral acquires mechanical contracting firm A. Hattersley &#038; Sons appeared first on PE Hub.",
-      "company": "McNally-backed Foundral",
-      "link": "https://www.pehub.com/mcnally-backed-foundral-acquires-mechanical-contracting-firm-a-hattersley-sons/",
-      "date": "May 21, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "acquisition",
-        "company_launch"
       ]
     },
     {
@@ -164,12 +115,28 @@
       ]
     },
     {
-      "id": "2662a7eccd48",
-      "title": "Eurazeo passes \u20ac1bn in first close of latest lower mid-market buyout fund",
-      "summary": "Eurazeo has raised more than \u20ac1bn at the first close of the fifth private equity fund from its lower mid-market Elevate arm, already above the total raised for its predecessor vehicle. The post Euraze",
-      "company": "Eurazeo",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/france-western-europe-europe-by-region/eurazeo-passes-e1bn-in-first-close-of-latest-lower-mid-market-buyout-fund.html",
-      "date": "May 21, 26",
+      "id": "cbcd199d5baa",
+      "title": "WePay co-founder Clerico seals $85m debut raise for disaster relief-focused VC firm Convective Capital",
+      "summary": "Convective Capital, the disaster relief-focused venture capital firm launched by WePay co-founder Bill Clerico, has closed its latest fund on $85m. The post WePay co-founder Clerico seals $85m debut r",
+      "company": "WePay",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/wepay-co-founder-clerico-seals-85m-debut-raise-for-disaster-relief-focused-vc-firm-convective-capital.html",
+      "date": "May 22, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "a89aa3777423",
+      "title": "N49P eyes $70m for fourth Canada-focused tech seed fund, hits $25m first close",
+      "summary": "Canadian pre-seed investor N49P has hit a first close for its $70m-targeting fourth fund, with backing coming from investors including Northleaf Capital Partners. The post N49P eyes $70m for fourth Ca",
+      "company": "N49P",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/canada-north-america-by-region/100208506.html",
+      "date": "May 22, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -180,12 +147,12 @@
       ]
     },
     {
-      "id": "d0febabb953b",
-      "title": "Stellus Capital seals $1.5bn for fourth credit fund ahead of takeover by Ridgepost",
-      "summary": "Lower middle market direct lending specialist Stellus Capital Management has reached an on-target $1.5bn final close for its fourth credit fund. The post Stellus Capital seals $1.5bn for fourth credit",
-      "company": "Stellus Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208467.html",
-      "date": "May 20, 26",
+      "id": "2662a7eccd48",
+      "title": "Eurazeo passes \u20ac1bn in first close of latest lower mid-market buyout fund",
+      "summary": "Eurazeo has raised more than \u20ac1bn at the first close of the fifth private equity fund from its lower mid-market Elevate arm, already above the total raised for its predecessor vehicle. The post Euraze",
+      "company": "Eurazeo",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/france-western-europe-europe-by-region/eurazeo-passes-e1bn-in-first-close-of-latest-lower-mid-market-buyout-fund.html",
+      "date": "May 21, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -212,6 +179,51 @@
       ]
     },
     {
+      "id": "0d77dc9a312f",
+      "title": "Add to playlist: the virtuoso prog-metal-folk of Brazil\u2019s Papangu and the week\u2019s best new tracks",
+      "summary": "The five-piece combine traditional musical styles with mountains of synths and hurried drums \u2013 rejecting computerised production in a pointed anti-AI statementFrom Jo\u00e3o Pessoa, BrazilRecommended if yo",
+      "company": "Add to playlist",
+      "link": "https://www.theguardian.com/music/2026/may/22/add-to-playlist-the-virtuoso-prog-metal-folk-of-brazils-papangu-and-the-weeks-best-new-tracks",
+      "date": "May 22, 26",
+      "source": "Guardian Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 22,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "30589184999b",
+      "title": "Fontaines D.C. to make live comeback with shows in Spain ahead of summer 2026 festival tour",
+      "summary": "The gigs will be the band's first performances in almost a year, as they warm up for their massive Reading &#038; Leeds headline slots The post Fontaines D.C. to make live comeback with shows in Spain",
+      "company": "Fontaines D.C",
+      "link": "https://www.nme.com/news/music/fontaines-dc-announce-three-spain-shows-2026-live-return-dates-buy-tickets-3946890?utm_source=rss&utm_medium=rss&utm_campaign=fontaines-dc-announce-three-spain-shows-2026-live-return-dates-buy-tickets",
+      "date": "May 22, 26",
+      "source": "NME",
+      "layer": 1,
+      "access": "pe",
+      "score": 17,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "ca1fcfa0fc18",
+      "title": "Abu Dhabi Grand Prix Announces Imagine Dragons for Yasalam Concert Series",
+      "summary": "Imagine Dragons are set to headline the Yasalam After-Race Concerts during the 2026 Formula 1 Etihad Airways Abu Dhabi Grand... The post Abu Dhabi Grand Prix Announces Imagine Dragons for Yasalam Conc",
+      "company": "Abu Dhabi Grand Prix Announces Imagine",
+      "link": "https://www.ticketnews.com/2026/05/abu-dhabi-grand-prix-announces-imagine-dragons-for-yasalam-concert-series/",
+      "date": "May 21, 26",
+      "source": "Ticket News",
+      "layer": 1,
+      "access": "venture",
+      "score": 17,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
       "id": "7a468132ba18",
       "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
       "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
@@ -224,21 +236,6 @@
       "score": 16,
       "moments": [
         "company_launch"
-      ]
-    },
-    {
-      "id": "7cbf570badab",
-      "title": "Drake Drops 3 Albums: \u2018Iceman,\u2019 \u2018Habibti\u2019 and \u2018Maid of Honour\u2019",
-      "summary": "The chart-topping Canadian rapper released an anticipated new album, \u201cIceman,\u201d on Friday and two previously unannounced LPs, \u201cHabibti\u201d and \u201cMaid of Honour.\u201d",
-      "company": "Drake Drops 3 Albums",
-      "link": "https://www.nytimes.com/2026/05/15/arts/music/drake-new-albums-iceman-habibti-maid-of-honour.html",
-      "date": "May 15, 26",
-      "source": "NYT Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "album_announcement"
       ]
     },
     {
@@ -257,89 +254,74 @@
       ]
     },
     {
-      "id": "c586e04c003a",
-      "title": "Harry Styles\u2019 Tour Will Adjust Floor Plan in Response to Fan Complaints About Poor Sightlines",
-      "summary": "In response to multiple complaints online from Harry Styles fans who paid for special \u201cVIP\u201d floor tickets on the first two nights of the singer\u2019s \u201cTogether Together\u201d tour, but found their views obscur",
-      "company": "Harry Styles\u2019 Tour Will Adjust Floor",
-      "link": "https://variety.com/2026/music/news/harry-styles-responds-fan-complaints-poor-sightlines-1236753944/",
-      "date": "May 20, 26",
-      "source": "Variety Music",
-      "layer": 2,
+      "id": "164f2bf62d33",
+      "title": "Spotify to Launch \u2018Reserved\u2019 Concert Tickets for Superfans",
+      "summary": "Are you a superfan who ranks among an artist&#8217;s top listeners on Spotify? If so, you may be able to... The post Spotify to Launch &#8216;Reserved&#8217; Concert Tickets for Superfans appeared fir",
+      "company": "Spotify",
+      "link": "https://www.ticketnews.com/2026/05/spotify-launch-reserved-concert-tickets-superfans/",
+      "date": "May 21, 26",
+      "source": "Ticket News",
+      "layer": 1,
       "access": "pe",
-      "score": 14,
+      "score": 15,
       "moments": [
-        "company_launch"
+        "streaming_milestone"
       ]
     },
     {
-      "id": "014b93132d20",
-      "title": "Kraftwerk review \u2013 after more than half a century of techno supremacy, they still sound like the future",
-      "summary": "Waterfront Hall, BelfastRalf H\u00fctter and his bandmates show how profound their influence has been on huge swathes of popular music \u2013 and they give a tender tribute to the late Ryuichi SakamotoForty-fiv",
-      "company": "Kraftwerk",
-      "link": "https://www.theguardian.com/music/2026/may/19/kraftwerk-review-waterfront-hall-belfast",
-      "date": "May 19, 26",
+      "id": "38a15efd68b3",
+      "title": "Ed Sheeran Leaves Warner Music After 15 Years",
+      "summary": "As rumored, Ed Sheeran has left Warner Music after 15 years and eight full-length albums, the singer confirmed via a statement published in Music Week. With an estimated 200 albums sold since his 2011",
+      "company": "Ed Sheeran Leaves Warner Music After",
+      "link": "https://variety.com/2026/music/news/ed-sheeran-leaves-warner-music-1236757081/",
+      "date": "May 22, 26",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "streaming_milestone"
+      ]
+    },
+    {
+      "id": "8576ee1f05a0",
+      "title": "Drake: Iceman / Maid of Honour / Habibti review \u2013 \u200btriple-album comeback is a boring, bloated disaster",
+      "summary": "(OVO/Republic)It\u2019s possible that the world\u2019s biggest rapper is using this epic content drop to get out of his record deal, but aside from some bright spots on Iceman, should the public really be subje",
+      "company": "Drake",
+      "link": "https://www.theguardian.com/music/2026/may/15/drake-iceman-maid-of-honour-habibti-review-triple-album-comeback-is-a-boring-bloated-disaster",
+      "date": "May 15, 26",
       "source": "Guardian Music",
       "layer": 1,
       "access": "pe",
       "score": 14,
       "moments": [
-        "company_launch"
+        "record_deal"
       ]
     },
     {
-      "id": "6f3cf722a64c",
-      "title": "Spotify\u2019s Head of Music Announces \u2018Reserved\u2019 Ticketing Initiative: \u2018As AI Proliferates, Real World Experiences Mean That Much More\u2019",
-      "summary": "In an interview with Billboard, Charlie Hellman explains Reserved, which kicks off in the U.S. this summer, offering superfans reserved tickets on Live Nation tours.",
-      "company": "Spotify\u2019s Head",
-      "link": "https://www.billboard.com/pro/spotifys-head-of-music-reserved-ticketing-initiative/",
+      "id": "0823a7e8404b",
+      "title": "CBS, TNT Sports Parents Face New Merger Scrutiny by Lawmakers",
+      "summary": "A group of six U.S. senators raises concerns about the proposed megadeal.",
+      "company": "CBS TNT Sports Parents Face New",
+      "link": "https://frontofficesports.com/cbs-tnt-sports-parents-face-new-merger-scrutiny-by-lawmakers/",
       "date": "May 21, 26",
-      "source": "Billboard",
-      "layer": 3,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "streaming_milestone"
-      ]
-    },
-    {
-      "id": "5c0bf9b8e769",
-      "title": "Spotify and Universal Music Announce Licensing Agreements for \u2018Responsible\u2019 AI-Generated Covers and Remixes",
-      "summary": "Spotify and Universal Music Group have announced a major recorded-music and music-publishing licensing agreements that will enable Spotify to launch a new tool allowing fans to create covers and remix",
-      "company": "Spotify",
-      "link": "https://variety.com/2026/digital/news/spotify-universal-music-licensing-agreements-fan-made-covers-1236755951/",
-      "date": "May 21, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "streaming_milestone"
-      ]
-    },
-    {
-      "id": "ff0a417836f6",
-      "title": "Jack Antonoff Just Wants to Talk",
-      "summary": "Bleachers\u2019 frontman got here by believing in the power of live music. Now, with a new album and tour, he\u2019s not giving up \u2014 not even close",
-      "company": "Jack Antonoff Just Wants",
-      "link": "https://www.rollingstone.com/music/music-features/jack-antonoff-bleachers-new-album-tour-interview-1235566247/",
-      "date": "May 21, 26",
-      "source": "Rolling Stone Music",
-      "layer": 1,
+      "source": "Front Office Sports",
+      "layer": 5,
       "access": "pe",
       "score": 12,
       "moments": [
-        "album_announcement"
+        "acquisition"
       ]
     },
     {
-      "id": "f9d1b63a0461",
-      "title": "Busta Rhymes to Receive Songwriting Award at NYC Anti Social Camp Event",
-      "summary": "The rap legend headlines a five-day New York gathering in June that bills itself as the world\u2019s largest songwriting festival",
-      "company": "Busta Rhymes",
-      "link": "https://www.rollingstone.com/music/music-news/busta-rhymes-songwriting-award-nyc-anti-social-camp-1235566466/",
-      "date": "May 20, 26",
-      "source": "Rolling Stone Music",
-      "layer": 1,
+      "id": "bb5875ca800a",
+      "title": "Bayer Uerdingen\u2019s \u2018miracle of Berlin\u2019 bewildered Bayern Munich before slow fade to obscurity",
+      "summary": "How the modest club from Krefeld rocked the holders to win the 1985 DFB-Pokal final \u2013 only for their fortunes to fade when funding ran dryWhen Matthias Herget, flanked by Horst Feilzer and Norbert Bri",
+      "company": "Bayer Uerdingen\u2019s",
+      "link": "https://www.theguardian.com/football/2026/may/22/bayer-uerdingen-miracle-berlin-bayern-munich-dfb-pokal",
+      "date": "May 22, 26",
+      "source": "Guardian Sport",
+      "layer": 2,
       "access": "pe",
       "score": 12,
       "moments": [
@@ -347,18 +329,18 @@
       ]
     },
     {
-      "id": "6eae844656df",
-      "title": "Julieta Venegas: La Leyenda de Tijuana",
-      "summary": "The Grammy-winning singer-songwriter discusses her dual memoir and album release, \"Norte\u00f1a,\" which features collaborations with Natalia Lafourcade, Yahritza y Su Esencia, Meme del Real and Bronco.",
-      "company": "Julieta Venegas",
-      "link": "https://www.latimes.com/delos/story/2026-05-11/julieta-venegas-nortena-album-book-interview",
-      "date": "May 11, 26",
-      "source": "LA Times Music",
-      "layer": 1,
+      "id": "09a6b98e7f0d",
+      "title": "KKR to sell Circor Aerospace to Parker Hannifin for $2.55bn",
+      "summary": "KKR first acquired Circor for $1.8 billion in 2023 and will maintain ownership of Circor\u2019s naval and industrial businesses. The post KKR to sell Circor Aerospace to Parker Hannifin for $2.55bn appeare",
+      "company": "KKR",
+      "link": "https://www.pehub.com/kkr-to-sell-circor-aerospace-to-parker-hannifin-for-2-55bn/",
+      "date": "May 21, 26",
+      "source": "PE Hub",
+      "layer": 5,
       "access": "pe",
       "score": 12,
       "moments": [
-        "album_announcement"
+        "acquisition"
       ]
     },
     {
@@ -377,6 +359,36 @@
       ]
     },
     {
+      "id": "56997b1c19f0",
+      "title": "Daytona to Become World\u2019s Largest Sports Facility With Musco LED System",
+      "summary": "The \u201cWorld Center of Racing\u201d will install a new venue-wide Musco LED lighting system, making Daytona the largest sports facility... The post Daytona to Become World\u2019s Largest Sports Facility With Musc",
+      "company": "Daytona",
+      "link": "https://www.ticketnews.com/2026/05/daytona-largest-sports-facility-led-system/",
+      "date": "May 21, 26",
+      "source": "Ticket News",
+      "layer": 2,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "venue_announcement"
+      ]
+    },
+    {
+      "id": "19f21836fdaf",
+      "title": "Rays $2.3B Stadium Plan Survives Narrow Tampa City Council Vote",
+      "summary": "The Tampa City Council narrowly approves a non-binding stadium agreement.",
+      "company": "Rays",
+      "link": "https://frontofficesports.com/rays-2-3b-stadium-plan-survives-narrow-tampa-council-vote/",
+      "date": "May 21, 26",
+      "source": "Front Office Sports",
+      "layer": 2,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "venue_announcement"
+      ]
+    },
+    {
       "id": "5e8114ca238d",
       "title": "Paramount\u2019s Junk-Status Credit Rating to Be Downgraded Further Following Warner Bros. Merger to Reflect \u2018Major Ongoing Uncertainties,\u2019 S&P Global Says",
       "summary": "S&#38;P Global Ratings already has placed Paramount Skydance&#8217;s credit rating in junk-status territory &#8212; indicating that the media conglomerate&#8217;s debt securities are considered specul",
@@ -389,6 +401,36 @@
       "score": 9,
       "moments": [
         "acquisition"
+      ]
+    },
+    {
+      "id": "c7ea1aad9835",
+      "title": "Harvard endowment faces pressure from private equity commitments",
+      "summary": "Harvard University\u2019s $57bn endowment is facing increasing liquidity pressure as large unfunded private equity commitments coincide with slower distributions across private markets, according to a repo",
+      "company": "Harvard",
+      "link": "https://www.privateequitywire.co.uk/harvard-endowment-faces-pressure-from-private-equity-commitments/",
+      "date": "May 22, 26",
+      "source": "PE Wire",
+      "layer": 4,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "81a3e4527616",
+      "title": "SpaceX IPO Set to Lift the Whole Space Sector -- And One NYSE American Operator Just Stepped Into a Capability NASA Has Asked Industry to Rebuild",
+      "summary": "Issued on behalf of Starfighters Space, Inc. USA News Group News Commentary \u2014 CAPE CANAVERAL, Fla., May 22, 2026 /PRNewswire/ -- Key Takeaways: A Yahoo Finance segment yesterday laid out how the loomi",
+      "company": "SpaceX IPO Set",
+      "link": "https://www.prnewswire.com/news-releases/spacex-ipo-set-to-lift-the-whole-space-sector--and-one-nyse-american-operator-just-stepped-into-a-capability-nasa-has-asked-industry-to-rebuild-302780201.html",
+      "date": "May 22, 26",
+      "source": "PR Newswire",
+      "layer": 2,
+      "access": "public",
+      "score": 9,
+      "moments": [
+        "ipo"
       ]
     },
     {
@@ -407,94 +449,68 @@
       ]
     },
     {
-      "id": "816faed0d743",
-      "title": "Anthropic is paying SpaceX $15 billion per year",
-      "summary": "Anthropic is paying SpaceX $1.25 billion per month through May 2029 as part of the massive compute deal the companies signed earlier this month.Why it matters: It's a massive bill but comes as Anthrop",
-      "company": "Anthropic",
-      "link": "https://www.axios.com/2026/05/20/anthropic-spacex-compute",
-      "date": "May 20, 26",
-      "source": "Axios",
-      "layer": 2,
-      "access": "pe",
-      "score": 11,
-      "moments": []
-    },
-    {
-      "id": "bc1beae3c080",
-      "title": "US Footwear Industry Delivers Modest First-Quarter Growth Driven by Price Increases and Strength in Performance Segment, Circana Reports",
-      "summary": "CHICAGO, IL, May 04, 2026 (GLOBE NEWSWIRE) -- The U.S. footwear industry posted soft dollar growth in the first quarter (Q1) of 2026, with total sales increasing by +1%, versus the same period last ye",
-      "company": "",
-      "link": "https://www.globenewswire.com/news-release/2026/05/04/3286860/0/en/US-Footwear-Industry-Delivers-Modest-First-Quarter-Growth-Driven-by-Price-Increases-and-Strength-in-Performance-Segment-Circana-Reports.html",
-      "date": "May 04, 26",
-      "source": "GlobeNewsWire Deals",
-      "layer": 2,
-      "access": "pe",
-      "score": 10,
-      "moments": []
-    },
-    {
-      "id": "d5ab954e4aab",
-      "title": "Maximize Every Square Foot: Using Digital Authority to Win High-Value Venue Bookings",
-      "summary": "Source: ChatGPT Event organizers often struggle to secure premium venue bookings even when their content or services are strong. Limited visibility, unclear reputation, and weak online authority can r",
-      "company": "Maximize Every Square Foot",
-      "link": "https://venuestoday.com/maximize-every-square-foot-using-digital-authority-to-win-high-value-venue-bookings/?utm_source=rss&utm_medium=rss&utm_campaign=maximize-every-square-foot-using-digital-authority-to-win-high-value-venue-bookings",
-      "date": "Mar 04, 26",
-      "source": "Venues Today",
-      "layer": 2,
-      "access": "pe",
-      "score": 10,
-      "moments": []
-    },
-    {
-      "id": "8fe819a33290",
-      "title": "Amazon Prime\u2019s NBA playoff coverage was an alienating, strangely visionary experiment in anti-TV",
-      "summary": "The streamer has given us a broadcast so powerfully isolating it effectively anticipates sport\u2019s viewerless futureGame 7 in the NBA playoffs: a chance to kick back, enjoy the drama of a winner-takes-a",
-      "company": "Amazon Prime\u2019s NBA",
-      "link": "https://www.theguardian.com/sport/2026/may/20/amazon-prime-nba-playoff-coverage",
-      "date": "May 20, 26",
-      "source": "Guardian Sport",
+      "id": "8b70f3fabccb",
+      "title": "States Seek Ticketmaster Breakup, Live Nation Venue Selloffs After Monopoly Verdict",
+      "summary": "In a filing Thursday, the coalition of attorneys general who secured a landmark antitrust verdict against Live Nation and Ticketmaster... The post States Seek Ticketmaster Breakup, Live Nation Venue S",
+      "company": "States Seek Ticketmaster Breakup Live Nation",
+      "link": "https://www.ticketnews.com/2026/05/states-seek-ticketmaster-breakup-live-nation-venue-selloffs-after-monopoly-verdict/",
+      "date": "May 22, 26",
+      "source": "Ticket News",
       "layer": 3,
       "access": "pe",
-      "score": 9,
+      "score": 16,
       "moments": []
     },
     {
-      "id": "824815155056",
-      "title": "Harry Styles\u2019 Team to Make Adjustments in VIP Section After Fans Complained of Restricted Views",
-      "summary": "Harry Styles&#8217; team has vowed to &#8220;adjust obstructions&#8221; on the floor in the VIP section of his arena shows after... The post Harry Styles&#8217; Team to Make Adjustments in VIP Section",
-      "company": "Harry Styles\u2019 Team",
-      "link": "https://www.ticketnews.com/2026/05/harry-styles-team-changes-fans-blast-stage-views/",
-      "date": "May 20, 26",
+      "id": "e27d4f8f9f3c",
+      "title": "Live Nation Hit With Negligence Lawsuit After Minor Allegedly Sexually Assaulted at Venue",
+      "summary": "Live Nation has been hit with a lawsuit after a teen was allegedly sexually assaulted at one of their venues.... The post Live Nation Hit With Negligence Lawsuit After Minor Allegedly Sexually Assault",
+      "company": "Live Nation Hit With Negligence Lawsuit",
+      "link": "https://www.ticketnews.com/2026/05/live-nation-negligence-lawsuit-sexual-assault-venue/",
+      "date": "May 21, 26",
       "source": "Ticket News",
       "layer": 2,
       "access": "pe",
-      "score": 9,
+      "score": 12,
       "moments": []
     },
     {
-      "id": "1dcc87fffcdc",
-      "title": "Michael Jackson Docuseries Set at Netflix, Will Explore His 2005 Child Molestation Trial and Acquittal",
-      "summary": "A new three-part Netflix series about the explosive 2005 Michael Jackson trial, &#8220;Michael Jackson: The Verdict,&#8221; is set to premiere on June 3. The docuseries covers the pop icon&#8217;s 200",
-      "company": "Michael Jackson Docuseries Set",
-      "link": "https://variety.com/2026/music/news/michael-jackson-the-verdict-trailer-netflix-trial-1236755211/",
-      "date": "May 20, 26",
-      "source": "Variety Music",
-      "layer": 3,
-      "access": "venture",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "e4eba36b1b6b",
-      "title": "DOJ settlement prevents pending tax investigations of Trump and his family",
-      "summary": "A settlement between President Trump and the IRS that created a $1.8 billion \"anti-weaponization\" fund was expanded Tuesday to bar investigations into him, his family and his businesses' previously fi",
-      "company": "DOJ",
-      "link": "https://www.axios.com/2026/05/19/trump-tax-settlement-irs-anti-weaponization-fund-doj",
-      "date": "May 19, 26",
-      "source": "Axios",
+      "id": "bd35dcea5c23",
+      "title": "Fox to Test Indy 500 Viewer Excitement Via Sweaty Palms",
+      "summary": "To understand just how gripping Indy 500 racing is, Fox will have a group of viewers\u2014both at home and within The Brickyard\u2014wearing biometric trackers on their hands this Sunday. By measuring sweat gla",
+      "company": "Fox",
+      "link": "https://www.sportico.com/leagues/motorsports/2026/fox-indy-500-broadcast-fan-viewership-measurement-1234901208/",
+      "date": "May 22, 26",
+      "source": "Sportico",
       "layer": 3,
       "access": "pe",
-      "score": 8,
+      "score": 7,
+      "moments": []
+    },
+    {
+      "id": "d638631a45e3",
+      "title": "Former AGs Say Live Nation Verdict Should Spur TICKET Act, Ticket Transfer Reforms",
+      "summary": "A bipartisan op-ed argues the Ticketmaster monopoly ruling should be a starting point for federal and state action, as lawmakers... The post Former AGs Say Live Nation Verdict Should Spur TICKET Act, ",
+      "company": "Former AGs Say Live Nation Verdict",
+      "link": "https://www.ticketnews.com/2026/05/former-ags-say-live-nation-verdict-should-spur-ticket-act-ticket-transfer-reforms/",
+      "date": "May 21, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 6,
+      "moments": []
+    },
+    {
+      "id": "88a49dc3eaf6",
+      "title": "Shaikin: From the Big Apple, sour grapes toward the voice of the Dodgers",
+      "summary": "New York sports talk radio hosts take issue with Joe Davis serving as the radio voice of the Dodgers and Fox national broadcasts. They're wrong.",
+      "company": "Shaikin",
+      "link": "https://www.latimes.com/sports/dodgers/story/2026-05-20/from-big-apple-sour-grapes-toward-voice-of-dodgers",
+      "date": "May 20, 26",
+      "source": "LA Times Sports",
+      "layer": 3,
+      "access": "pe",
+      "score": 5,
       "moments": []
     },
     {
