@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T14:48:51.148529+00:00",
-  "total": 35,
+  "generated": "2026-05-23T13:47:04.570510+00:00",
+  "total": 37,
   "scraped": [
     {
       "id": "d294cdc12458",
@@ -194,36 +194,6 @@
       ]
     },
     {
-      "id": "30589184999b",
-      "title": "Fontaines D.C. to make live comeback with shows in Spain ahead of summer 2026 festival tour",
-      "summary": "The gigs will be the band's first performances in almost a year, as they warm up for their massive Reading &#038; Leeds headline slots The post Fontaines D.C. to make live comeback with shows in Spain",
-      "company": "Fontaines D.C",
-      "link": "https://www.nme.com/news/music/fontaines-dc-announce-three-spain-shows-2026-live-return-dates-buy-tickets-3946890?utm_source=rss&utm_medium=rss&utm_campaign=fontaines-dc-announce-three-spain-shows-2026-live-return-dates-buy-tickets",
-      "date": "May 22, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 17,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "ca1fcfa0fc18",
-      "title": "Abu Dhabi Grand Prix Announces Imagine Dragons for Yasalam Concert Series",
-      "summary": "Imagine Dragons are set to headline the Yasalam After-Race Concerts during the 2026 Formula 1 Etihad Airways Abu Dhabi Grand... The post Abu Dhabi Grand Prix Announces Imagine Dragons for Yasalam Conc",
-      "company": "Abu Dhabi Grand Prix Announces Imagine",
-      "link": "https://www.ticketnews.com/2026/05/abu-dhabi-grand-prix-announces-imagine-dragons-for-yasalam-concert-series/",
-      "date": "May 21, 26",
-      "source": "Ticket News",
-      "layer": 1,
-      "access": "venture",
-      "score": 17,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
       "id": "7a468132ba18",
       "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
       "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
@@ -254,33 +224,33 @@
       ]
     },
     {
-      "id": "164f2bf62d33",
-      "title": "Spotify to Launch \u2018Reserved\u2019 Concert Tickets for Superfans",
-      "summary": "Are you a superfan who ranks among an artist&#8217;s top listeners on Spotify? If so, you may be able to... The post Spotify to Launch &#8216;Reserved&#8217; Concert Tickets for Superfans appeared fir",
-      "company": "Spotify",
-      "link": "https://www.ticketnews.com/2026/05/spotify-launch-reserved-concert-tickets-superfans/",
-      "date": "May 21, 26",
-      "source": "Ticket News",
-      "layer": 1,
+      "id": "1538b6e6a46f",
+      "title": "Post Malone Announces Australian and New Zealand Stadium Run With Don Toliver as Special Guest",
+      "summary": "The Big Ass World Tour touches down at Melbourne's Marvel Stadium on Oct. 9,",
+      "company": "Post Malone Announces Australian",
+      "link": "https://www.billboard.com/music/concerts/post-malone-australian-new-zealand-stadium-don-toliver-special-guest-1236255635/",
+      "date": "May 23, 26",
+      "source": "Billboard",
+      "layer": 2,
       "access": "pe",
-      "score": 15,
+      "score": 14,
       "moments": [
-        "streaming_milestone"
+        "surprise_appearance"
       ]
     },
     {
-      "id": "38a15efd68b3",
-      "title": "Ed Sheeran Leaves Warner Music After 15 Years",
-      "summary": "As rumored, Ed Sheeran has left Warner Music after 15 years and eight full-length albums, the singer confirmed via a statement published in Music Week. With an estimated 200 albums sold since his 2011",
-      "company": "Ed Sheeran Leaves Warner Music After",
-      "link": "https://variety.com/2026/music/news/ed-sheeran-leaves-warner-music-1236757081/",
-      "date": "May 22, 26",
+      "id": "b5b0dc4395a8",
+      "title": "Paul McCartney Explores His Ever-Present Past in \u2018The Boys of Dungeon Lane,\u2019 a Delightful Return to Wings-Era Form: Album Review",
+      "summary": "Paul McCartney is a master of the fake-out. The first feint around his new album, &#8220;The Boys of Dungeon Lane,&#8221; came when he released &#8220;Days We Left Behind&#8221; as the first single, a",
+      "company": "",
+      "link": "https://variety.com/2026/music/album-reviews/paul-mccartney-boys-of-dungeon-lane-album-review-1236757156/",
+      "date": "May 23, 26",
       "source": "Variety Music",
       "layer": 1,
       "access": "pe",
       "score": 14,
       "moments": [
-        "streaming_milestone"
+        "album_announcement"
       ]
     },
     {
@@ -299,6 +269,36 @@
       ]
     },
     {
+      "id": "014b93132d20",
+      "title": "Kraftwerk review \u2013 after more than half a century of techno supremacy, they still sound like the future",
+      "summary": "Waterfront Hall, BelfastRalf H\u00fctter and his bandmates show how profound their influence has been on huge swathes of popular music \u2013 and they give a tender tribute to the late Ryuichi SakamotoForty-fiv",
+      "company": "Kraftwerk",
+      "link": "https://www.theguardian.com/music/2026/may/19/kraftwerk-review-waterfront-hall-belfast",
+      "date": "May 19, 26",
+      "source": "Guardian Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "a404c57a6ade",
+      "title": "How VCs and founders use inflated \u2018ARR\u2019 to crown AI startups",
+      "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
+      "company": "How VCs",
+      "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+      "date": "May 22, 26",
+      "source": "TechCrunch Startups",
+      "layer": 1,
+      "access": "venture",
+      "score": 14,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
       "id": "0823a7e8404b",
       "title": "CBS, TNT Sports Parents Face New Merger Scrutiny by Lawmakers",
       "summary": "A group of six U.S. senators raises concerns about the proposed megadeal.",
@@ -314,18 +314,18 @@
       ]
     },
     {
-      "id": "bb5875ca800a",
-      "title": "Bayer Uerdingen\u2019s \u2018miracle of Berlin\u2019 bewildered Bayern Munich before slow fade to obscurity",
-      "summary": "How the modest club from Krefeld rocked the holders to win the 1985 DFB-Pokal final \u2013 only for their fortunes to fade when funding ran dryWhen Matthias Herget, flanked by Horst Feilzer and Norbert Bri",
-      "company": "Bayer Uerdingen\u2019s",
-      "link": "https://www.theguardian.com/football/2026/may/22/bayer-uerdingen-miracle-berlin-bayern-munich-dfb-pokal",
+      "id": "8b5e81ebc0c5",
+      "title": "Christian Nodal Raises the White Flag on New Album, \u2018Bandera Blanca\u2019: All Tracks Ranked",
+      "summary": "From \"Incompatibles\" to \"Una Mujer Como la Suya\" and more, discover how we ranked the 13 songs on the LP \u2014 all the way to our very favorite.",
+      "company": "Christian Nodal Raises",
+      "link": "https://www.billboard.com/lists/christian-nodal-new-album-bandera-blanca-best-songs-ranked/",
       "date": "May 22, 26",
-      "source": "Guardian Sport",
-      "layer": 2,
+      "source": "Billboard",
+      "layer": 1,
       "access": "pe",
       "score": 12,
       "moments": [
-        "festival_headliner"
+        "album_announcement"
       ]
     },
     {
@@ -359,18 +359,18 @@
       ]
     },
     {
-      "id": "56997b1c19f0",
-      "title": "Daytona to Become World\u2019s Largest Sports Facility With Musco LED System",
-      "summary": "The \u201cWorld Center of Racing\u201d will install a new venue-wide Musco LED lighting system, making Daytona the largest sports facility... The post Daytona to Become World\u2019s Largest Sports Facility With Musc",
-      "company": "Daytona",
-      "link": "https://www.ticketnews.com/2026/05/daytona-largest-sports-facility-led-system/",
-      "date": "May 21, 26",
+      "id": "02d796c93372",
+      "title": "From Halftime Shows to Sports Tourism, Fans Are Raising Gameday Expectations",
+      "summary": "Sports fans are no longer just showing up for the final score. They want the full spectacle. Ticketmaster\u2019s new State... The post From Halftime Shows to Sports Tourism, Fans Are Raising Gameday Expect",
+      "company": "From Halftime Shows",
+      "link": "https://www.ticketnews.com/2026/05/halftime-shows-sports-tourism-fans-raising-gameday-expectations/",
+      "date": "May 22, 26",
       "source": "Ticket News",
-      "layer": 2,
+      "layer": 3,
       "access": "pe",
       "score": 11,
       "moments": [
-        "venue_announcement"
+        "festival_headliner"
       ]
     },
     {
@@ -381,6 +381,21 @@
       "link": "https://frontofficesports.com/rays-2-3b-stadium-plan-survives-narrow-tampa-council-vote/",
       "date": "May 21, 26",
       "source": "Front Office Sports",
+      "layer": 2,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "venue_announcement"
+      ]
+    },
+    {
+      "id": "67d4a19fc884",
+      "title": "In Canada: The Beaches Reach a New Streaming Peak After Major Sync on Prime Video\u2019s \u2018Off Campus\u2019",
+      "summary": "ArtHouse Media Group launched a new venue in Toronto and the industry mourns Cris Derksen",
+      "company": "In Canada",
+      "link": "https://www.billboard.com/pro/in-canada-the-beaches-reach-a-new-streaming-peak/",
+      "date": "May 22, 26",
+      "source": "Billboard",
       "layer": 2,
       "access": "pe",
       "score": 9,
@@ -419,21 +434,6 @@
       ]
     },
     {
-      "id": "81a3e4527616",
-      "title": "SpaceX IPO Set to Lift the Whole Space Sector -- And One NYSE American Operator Just Stepped Into a Capability NASA Has Asked Industry to Rebuild",
-      "summary": "Issued on behalf of Starfighters Space, Inc. USA News Group News Commentary \u2014 CAPE CANAVERAL, Fla., May 22, 2026 /PRNewswire/ -- Key Takeaways: A Yahoo Finance segment yesterday laid out how the loomi",
-      "company": "SpaceX IPO Set",
-      "link": "https://www.prnewswire.com/news-releases/spacex-ipo-set-to-lift-the-whole-space-sector--and-one-nyse-american-operator-just-stepped-into-a-capability-nasa-has-asked-industry-to-rebuild-302780201.html",
-      "date": "May 22, 26",
-      "source": "PR Newswire",
-      "layer": 2,
-      "access": "public",
-      "score": 9,
-      "moments": [
-        "ipo"
-      ]
-    },
-    {
       "id": "493fd25ac40c",
       "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
       "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
@@ -449,29 +449,29 @@
       ]
     },
     {
-      "id": "8b70f3fabccb",
-      "title": "States Seek Ticketmaster Breakup, Live Nation Venue Selloffs After Monopoly Verdict",
-      "summary": "In a filing Thursday, the coalition of attorneys general who secured a landmark antitrust verdict against Live Nation and Ticketmaster... The post States Seek Ticketmaster Breakup, Live Nation Venue S",
-      "company": "States Seek Ticketmaster Breakup Live Nation",
-      "link": "https://www.ticketnews.com/2026/05/states-seek-ticketmaster-breakup-live-nation-venue-selloffs-after-monopoly-verdict/",
-      "date": "May 22, 26",
-      "source": "Ticket News",
-      "layer": 3,
+      "id": "816faed0d743",
+      "title": "Anthropic is paying SpaceX $15 billion per year",
+      "summary": "Anthropic is paying SpaceX $1.25 billion per month through May 2029 as part of the massive compute deal the companies signed earlier this month.Why it matters: It's a massive bill but comes as Anthrop",
+      "company": "Anthropic",
+      "link": "https://www.axios.com/2026/05/20/anthropic-spacex-compute",
+      "date": "May 20, 26",
+      "source": "Axios",
+      "layer": 2,
       "access": "pe",
-      "score": 16,
+      "score": 11,
       "moments": []
     },
     {
-      "id": "e27d4f8f9f3c",
-      "title": "Live Nation Hit With Negligence Lawsuit After Minor Allegedly Sexually Assaulted at Venue",
-      "summary": "Live Nation has been hit with a lawsuit after a teen was allegedly sexually assaulted at one of their venues.... The post Live Nation Hit With Negligence Lawsuit After Minor Allegedly Sexually Assault",
-      "company": "Live Nation Hit With Negligence Lawsuit",
-      "link": "https://www.ticketnews.com/2026/05/live-nation-negligence-lawsuit-sexual-assault-venue/",
-      "date": "May 21, 26",
-      "source": "Ticket News",
+      "id": "bc1beae3c080",
+      "title": "US Footwear Industry Delivers Modest First-Quarter Growth Driven by Price Increases and Strength in Performance Segment, Circana Reports",
+      "summary": "CHICAGO, IL, May 04, 2026 (GLOBE NEWSWIRE) -- The U.S. footwear industry posted soft dollar growth in the first quarter (Q1) of 2026, with total sales increasing by +1%, versus the same period last ye",
+      "company": "",
+      "link": "https://www.globenewswire.com/news-release/2026/05/04/3286860/0/en/US-Footwear-Industry-Delivers-Modest-First-Quarter-Growth-Driven-by-Price-Increases-and-Strength-in-Performance-Segment-Circana-Reports.html",
+      "date": "May 04, 26",
+      "source": "GlobeNewsWire Deals",
       "layer": 2,
       "access": "pe",
-      "score": 12,
+      "score": 10,
       "moments": []
     },
     {
@@ -488,29 +488,55 @@
       "moments": []
     },
     {
-      "id": "d638631a45e3",
-      "title": "Former AGs Say Live Nation Verdict Should Spur TICKET Act, Ticket Transfer Reforms",
-      "summary": "A bipartisan op-ed argues the Ticketmaster monopoly ruling should be a starting point for federal and state action, as lawmakers... The post Former AGs Say Live Nation Verdict Should Spur TICKET Act, ",
-      "company": "Former AGs Say Live Nation Verdict",
-      "link": "https://www.ticketnews.com/2026/05/former-ags-say-live-nation-verdict-should-spur-ticket-act-ticket-transfer-reforms/",
-      "date": "May 21, 26",
-      "source": "Ticket News",
-      "layer": 3,
+      "id": "9b8fe0c913cb",
+      "title": "A Champion of Made in Hollywood: \u2018Fallout\u2019 Season 2 Delivers Character-Driven Storytelling, Ambitious Cinematic Techniques",
+      "summary": "The concept of world-building is bandied about a lot in Hollywood, but few television series live up to the phrase as ambitiously and expansively as Prime Video\u2019s \u201cFallout,\u201d the lavishly produced, soa",
+      "company": "A Champion of Made in Hollywood",
+      "link": "https://variety.com/2026/biz/news/fallout-season-2-delivers-character-driven-storytelling-ambitious-cinematic-techniques-1236735880/",
+      "date": "May 20, 26",
+      "source": "Variety Biz",
+      "layer": 4,
       "access": "pe",
-      "score": 6,
+      "score": 7,
       "moments": []
     },
     {
-      "id": "88a49dc3eaf6",
-      "title": "Shaikin: From the Big Apple, sour grapes toward the voice of the Dodgers",
-      "summary": "New York sports talk radio hosts take issue with Joe Davis serving as the radio voice of the Dodgers and Fox national broadcasts. They're wrong.",
-      "company": "Shaikin",
-      "link": "https://www.latimes.com/sports/dodgers/story/2026-05-20/from-big-apple-sour-grapes-toward-voice-of-dodgers",
-      "date": "May 20, 26",
-      "source": "LA Times Sports",
+      "id": "02a12b79878f",
+      "title": "Ticketmaster Makes Philippines Debut With New SM Ticketmaster Service",
+      "summary": "Ticketmaster is officially entering the Philippines through a new partnership with SM Prime Holdings, Inc. The companies announced the launch... The post Ticketmaster Makes Philippines Debut With New ",
+      "company": "",
+      "link": "https://www.ticketnews.com/2026/05/ticketmaster-makes-phillippines-debut-sm-ticketmaster/",
+      "date": "May 22, 26",
+      "source": "Ticket News",
       "layer": 3,
       "access": "pe",
-      "score": 5,
+      "score": 7,
+      "moments": []
+    },
+    {
+      "id": "ab9c1e6a10a8",
+      "title": "From Cool Dad to Crowd Panic: \u2018Rolling Loud the Movie\u2019 Drops First Teaser",
+      "summary": "Live Nation Studios has dropped the first teaser for &#8220;Rolling Loud the Movie,&#8221; and it looks like one dad\u2019s attempt... The post From Cool Dad to Crowd Panic: &#8216;Rolling Loud the Movie&#",
+      "company": "From Cool Dad to Crowd Panic",
+      "link": "https://www.ticketnews.com/2026/05/live-nation-studios-rolling-loud-the-movie/",
+      "date": "May 22, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 7,
+      "moments": []
+    },
+    {
+      "id": "c1a5dcd6d098",
+      "title": "Hockey Unites to Demand Change to NCAA \u20185-in-5\u2019 Proposal",
+      "summary": "The sport doesn\u2019t want to be \u201ccollateral damage\" of the new rule.",
+      "company": "Hockey Unites",
+      "link": "https://frontofficesports.com/college-hockey-ncaa-5-in-5-eligibility-rule-changes/",
+      "date": "May 22, 26",
+      "source": "Front Office Sports",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
       "moments": []
     },
     {
