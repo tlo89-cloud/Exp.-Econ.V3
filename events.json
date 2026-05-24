@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-23T13:47:04.570510+00:00",
+  "generated": "2026-05-24T13:45:30.179724+00:00",
   "total": 37,
   "scraped": [
     {
@@ -224,21 +224,6 @@
       ]
     },
     {
-      "id": "1538b6e6a46f",
-      "title": "Post Malone Announces Australian and New Zealand Stadium Run With Don Toliver as Special Guest",
-      "summary": "The Big Ass World Tour touches down at Melbourne's Marvel Stadium on Oct. 9,",
-      "company": "Post Malone Announces Australian",
-      "link": "https://www.billboard.com/music/concerts/post-malone-australian-new-zealand-stadium-don-toliver-special-guest-1236255635/",
-      "date": "May 23, 26",
-      "source": "Billboard",
-      "layer": 2,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "surprise_appearance"
-      ]
-    },
-    {
       "id": "b5b0dc4395a8",
       "title": "Paul McCartney Explores His Ever-Present Past in \u2018The Boys of Dungeon Lane,\u2019 a Delightful Return to Wings-Era Form: Album Review",
       "summary": "Paul McCartney is a master of the fake-out. The first feint around his new album, &#8220;The Boys of Dungeon Lane,&#8221; came when he released &#8220;Days We Left Behind&#8221; as the first single, a",
@@ -314,13 +299,13 @@
       ]
     },
     {
-      "id": "8b5e81ebc0c5",
-      "title": "Christian Nodal Raises the White Flag on New Album, \u2018Bandera Blanca\u2019: All Tracks Ranked",
-      "summary": "From \"Incompatibles\" to \"Una Mujer Como la Suya\" and more, discover how we ranked the 13 songs on the LP \u2014 all the way to our very favorite.",
-      "company": "Christian Nodal Raises",
-      "link": "https://www.billboard.com/lists/christian-nodal-new-album-bandera-blanca-best-songs-ranked/",
-      "date": "May 22, 26",
-      "source": "Billboard",
+      "id": "6eae844656df",
+      "title": "Julieta Venegas: La Leyenda de Tijuana",
+      "summary": "The Grammy-winning singer-songwriter discusses her dual memoir and album release, \"Norte\u00f1a,\" which features collaborations with Natalia Lafourcade, Yahritza y Su Esencia, Meme del Real and Bronco.",
+      "company": "Julieta Venegas",
+      "link": "https://www.latimes.com/delos/story/2026-05-11/julieta-venegas-nortena-album-book-interview",
+      "date": "May 11, 26",
+      "source": "LA Times Music",
       "layer": 1,
       "access": "pe",
       "score": 12,
@@ -389,21 +374,6 @@
       ]
     },
     {
-      "id": "67d4a19fc884",
-      "title": "In Canada: The Beaches Reach a New Streaming Peak After Major Sync on Prime Video\u2019s \u2018Off Campus\u2019",
-      "summary": "ArtHouse Media Group launched a new venue in Toronto and the industry mourns Cris Derksen",
-      "company": "In Canada",
-      "link": "https://www.billboard.com/pro/in-canada-the-beaches-reach-a-new-streaming-peak/",
-      "date": "May 22, 26",
-      "source": "Billboard",
-      "layer": 2,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "venue_announcement"
-      ]
-    },
-    {
       "id": "5e8114ca238d",
       "title": "Paramount\u2019s Junk-Status Credit Rating to Be Downgraded Further Following Warner Bros. Merger to Reflect \u2018Major Ongoing Uncertainties,\u2019 S&P Global Says",
       "summary": "S&#38;P Global Ratings already has placed Paramount Skydance&#8217;s credit rating in junk-status territory &#8212; indicating that the media conglomerate&#8217;s debt securities are considered specul",
@@ -431,6 +401,21 @@
       "score": 9,
       "moments": [
         "pe_investment"
+      ]
+    },
+    {
+      "id": "48fb07a9dd63",
+      "title": "CGTN: Xizang at 75: Development and culture create a 'miracle on Earth'",
+      "summary": "BEIJING, May 24, 2026 /PRNewswire/ -- This year marks the 75th anniversary of the peaceful liberation of Xizang. Liang Junyan, a researcher at the Institute of History Studies of China Tibetology Rese",
+      "company": "CGTN",
+      "link": "https://www.prnewswire.com/news-releases/cgtn-xizang-at-75-development-and-culture-create-a-miracle-on-earth-302780736.html",
+      "date": "May 24, 26",
+      "source": "PR Newswire",
+      "layer": 2,
+      "access": "public",
+      "score": 6,
+      "moments": [
+        "festival_headliner"
       ]
     },
     {
@@ -475,6 +460,32 @@
       "moments": []
     },
     {
+      "id": "d5ab954e4aab",
+      "title": "Maximize Every Square Foot: Using Digital Authority to Win High-Value Venue Bookings",
+      "summary": "Source: ChatGPT Event organizers often struggle to secure premium venue bookings even when their content or services are strong. Limited visibility, unclear reputation, and weak online authority can r",
+      "company": "Maximize Every Square Foot",
+      "link": "https://venuestoday.com/maximize-every-square-foot-using-digital-authority-to-win-high-value-venue-bookings/?utm_source=rss&utm_medium=rss&utm_campaign=maximize-every-square-foot-using-digital-authority-to-win-high-value-venue-bookings",
+      "date": "Mar 04, 26",
+      "source": "Venues Today",
+      "layer": 2,
+      "access": "pe",
+      "score": 10,
+      "moments": []
+    },
+    {
+      "id": "517085913bb0",
+      "title": "Taylor Swift Sits Courtside at Knicks-Cavaliers as ESPN Calls Her \u2018Travis Kelce\u2019s Fianc\u00e9e\u2019",
+      "summary": "Swift and Kelce, who announced their engagement last August, were spotted in the first quarter and shown on the ESPN on ABC broadcast.",
+      "company": "Taylor Swift Sits Courtside",
+      "link": "https://www.billboard.com/music/pop/taylor-swift-knicks-cavaliers-game-travis-kelce-1236255749/",
+      "date": "May 24, 26",
+      "source": "Billboard",
+      "layer": 3,
+      "access": "pe",
+      "score": 9,
+      "moments": []
+    },
+    {
       "id": "bd35dcea5c23",
       "title": "Fox to Test Indy 500 Viewer Excitement Via Sweaty Palms",
       "summary": "To understand just how gripping Indy 500 racing is, Fox will have a group of viewers\u2014both at home and within The Brickyard\u2014wearing biometric trackers on their hands this Sunday. By measuring sweat gla",
@@ -506,19 +517,6 @@
       "summary": "Ticketmaster is officially entering the Philippines through a new partnership with SM Prime Holdings, Inc. The companies announced the launch... The post Ticketmaster Makes Philippines Debut With New ",
       "company": "",
       "link": "https://www.ticketnews.com/2026/05/ticketmaster-makes-phillippines-debut-sm-ticketmaster/",
-      "date": "May 22, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 7,
-      "moments": []
-    },
-    {
-      "id": "ab9c1e6a10a8",
-      "title": "From Cool Dad to Crowd Panic: \u2018Rolling Loud the Movie\u2019 Drops First Teaser",
-      "summary": "Live Nation Studios has dropped the first teaser for &#8220;Rolling Loud the Movie,&#8221; and it looks like one dad\u2019s attempt... The post From Cool Dad to Crowd Panic: &#8216;Rolling Loud the Movie&#",
-      "company": "From Cool Dad to Crowd Panic",
-      "link": "https://www.ticketnews.com/2026/05/live-nation-studios-rolling-loud-the-movie/",
       "date": "May 22, 26",
       "source": "Ticket News",
       "layer": 3,
