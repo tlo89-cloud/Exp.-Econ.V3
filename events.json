@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-24T13:45:30.179724+00:00",
-  "total": 37,
+  "generated": "2026-05-25T15:18:02.483067+00:00",
+  "total": 38,
   "scraped": [
     {
       "id": "d294cdc12458",
@@ -16,6 +16,22 @@
       "moments": [
         "acquisition",
         "funding_round"
+      ]
+    },
+    {
+      "id": "a013a5dca4b0",
+      "title": "Paul McCartney: The Boys of Dungeon Lane review \u2013 at 83, his gift for melody still astounds",
+      "summary": "(MPL/Capitol)From nostalgic returns to his Liverpool childhood to a crazed Glastonbury fantasia, these are songs written with real purpose and a master\u2019s finesseThe rock legend in the autumn of their ",
+      "company": "Paul McCartney",
+      "link": "https://www.theguardian.com/music/2026/may/25/paul-mccartney-the-boys-of-dungeon-lane-review-83",
+      "date": "May 24, 26",
+      "source": "Guardian Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 20,
+      "moments": [
+        "album_announcement",
+        "festival_headliner"
       ]
     },
     {
@@ -224,33 +240,33 @@
       ]
     },
     {
-      "id": "b5b0dc4395a8",
-      "title": "Paul McCartney Explores His Ever-Present Past in \u2018The Boys of Dungeon Lane,\u2019 a Delightful Return to Wings-Era Form: Album Review",
-      "summary": "Paul McCartney is a master of the fake-out. The first feint around his new album, &#8220;The Boys of Dungeon Lane,&#8221; came when he released &#8220;Days We Left Behind&#8221; as the first single, a",
-      "company": "",
-      "link": "https://variety.com/2026/music/album-reviews/paul-mccartney-boys-of-dungeon-lane-album-review-1236757156/",
-      "date": "May 23, 26",
-      "source": "Variety Music",
-      "layer": 1,
+      "id": "a0f327ffefbc",
+      "title": "TECO Signs Acquisition Agreement with Malaysia's Dynaciate, Targeting Exponential AIDC Revenue Growth Next Year",
+      "summary": "TAIPEI, May 25, 2026 /PRNewswire/ -- TECO Electric & Machinery Co., Ltd. (\"TECO\", TWSE: 1504) today (25th) held a signing ceremony with Malaysian engineering company Dynaciate Engineering Sdn. Bhd. (\"",
+      "company": "TECO Signs Acquisition Agreement",
+      "link": "https://www.prnewswire.com/news-releases/teco-signs-acquisition-agreement-with-malaysias-dynaciate-targeting-exponential-aidc-revenue-growth-next-year-302781183.html",
+      "date": "May 25, 26",
+      "source": "PR Newswire",
+      "layer": 2,
       "access": "pe",
-      "score": 14,
+      "score": 15,
       "moments": [
-        "album_announcement"
+        "acquisition"
       ]
     },
     {
-      "id": "8576ee1f05a0",
-      "title": "Drake: Iceman / Maid of Honour / Habibti review \u2013 \u200btriple-album comeback is a boring, bloated disaster",
-      "summary": "(OVO/Republic)It\u2019s possible that the world\u2019s biggest rapper is using this epic content drop to get out of his record deal, but aside from some bright spots on Iceman, should the public really be subje",
-      "company": "Drake",
-      "link": "https://www.theguardian.com/music/2026/may/15/drake-iceman-maid-of-honour-habibti-review-triple-album-comeback-is-a-boring-bloated-disaster",
-      "date": "May 15, 26",
-      "source": "Guardian Music",
+      "id": "ace1d633179f",
+      "title": "Neil Young Makes First Live Appearance of 2026 at Vancouver Benefit Concert",
+      "summary": "The surprise appearance came after Young abruptly cancelled a planned European tour in February.",
+      "company": "Neil Young Makes First Live Appearance",
+      "link": "https://www.billboard.com/music/music-news/neil-young-live-vancouver-benefit-concert-1236255952/",
+      "date": "May 25, 26",
+      "source": "Billboard",
       "layer": 1,
       "access": "pe",
       "score": 14,
       "moments": [
-        "record_deal"
+        "surprise_appearance"
       ]
     },
     {
@@ -284,6 +300,21 @@
       ]
     },
     {
+      "id": "d16417dd9703",
+      "title": "Drake Makes Chart History as New Album Trilogy Lands Top Three Spots",
+      "summary": "Iceman, Habibti, and Maid of Honour place at Numbers One, Two, and Three respectively as rapper ties Taylor Swift for most-ever Number One LPs by a solo artist",
+      "company": "Drake Makes Chart History",
+      "link": "https://www.rollingstone.com/music/music-news/drake-chart-history-new-album-trilogy-top-three-spots-1235568152/",
+      "date": "May 25, 26",
+      "source": "Rolling Stone Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
       "id": "0823a7e8404b",
       "title": "CBS, TNT Sports Parents Face New Merger Scrutiny by Lawmakers",
       "summary": "A group of six U.S. senators raises concerns about the proposed megadeal.",
@@ -299,21 +330,6 @@
       ]
     },
     {
-      "id": "6eae844656df",
-      "title": "Julieta Venegas: La Leyenda de Tijuana",
-      "summary": "The Grammy-winning singer-songwriter discusses her dual memoir and album release, \"Norte\u00f1a,\" which features collaborations with Natalia Lafourcade, Yahritza y Su Esencia, Meme del Real and Bronco.",
-      "company": "Julieta Venegas",
-      "link": "https://www.latimes.com/delos/story/2026-05-11/julieta-venegas-nortena-album-book-interview",
-      "date": "May 11, 26",
-      "source": "LA Times Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
       "id": "09a6b98e7f0d",
       "title": "KKR to sell Circor Aerospace to Parker Hannifin for $2.55bn",
       "summary": "KKR first acquired Circor for $1.8 billion in 2023 and will maintain ownership of Circor\u2019s naval and industrial businesses. The post KKR to sell Circor Aerospace to Parker Hannifin for $2.55bn appeare",
@@ -326,6 +342,21 @@
       "score": 12,
       "moments": [
         "acquisition"
+      ]
+    },
+    {
+      "id": "3c233181c47d",
+      "title": "Harvard-Westlake, Dalton, and Horace Mann Named the Only Three Schools Meeting Institutional AI Bar",
+      "summary": "MIAMI, May 25, 2026 /PRNewswire/ -- 5W, the AI Communications Firm, and HL Real Estate Group, the luxury brokerage founded by Haute Living, today released The NYC & LA Private School AI Study 2026, a ",
+      "company": "Harvard-Westlake Dalton",
+      "link": "https://www.prnewswire.com/news-releases/harvard-westlake-dalton-and-horace-mann-named-the-only-three-schools-meeting-institutional-ai-bar-302780395.html",
+      "date": "May 25, 26",
+      "source": "PR Newswire",
+      "layer": 2,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "company_launch"
       ]
     },
     {
@@ -404,21 +435,6 @@
       ]
     },
     {
-      "id": "48fb07a9dd63",
-      "title": "CGTN: Xizang at 75: Development and culture create a 'miracle on Earth'",
-      "summary": "BEIJING, May 24, 2026 /PRNewswire/ -- This year marks the 75th anniversary of the peaceful liberation of Xizang. Liang Junyan, a researcher at the Institute of History Studies of China Tibetology Rese",
-      "company": "CGTN",
-      "link": "https://www.prnewswire.com/news-releases/cgtn-xizang-at-75-development-and-culture-create-a-miracle-on-earth-302780736.html",
-      "date": "May 24, 26",
-      "source": "PR Newswire",
-      "layer": 2,
-      "access": "public",
-      "score": 6,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
       "id": "493fd25ac40c",
       "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
       "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
@@ -432,19 +448,6 @@
       "moments": [
         "acquisition"
       ]
-    },
-    {
-      "id": "816faed0d743",
-      "title": "Anthropic is paying SpaceX $15 billion per year",
-      "summary": "Anthropic is paying SpaceX $1.25 billion per month through May 2029 as part of the massive compute deal the companies signed earlier this month.Why it matters: It's a massive bill but comes as Anthrop",
-      "company": "Anthropic",
-      "link": "https://www.axios.com/2026/05/20/anthropic-spacex-compute",
-      "date": "May 20, 26",
-      "source": "Axios",
-      "layer": 2,
-      "access": "pe",
-      "score": 11,
-      "moments": []
     },
     {
       "id": "bc1beae3c080",
@@ -473,16 +476,16 @@
       "moments": []
     },
     {
-      "id": "517085913bb0",
-      "title": "Taylor Swift Sits Courtside at Knicks-Cavaliers as ESPN Calls Her \u2018Travis Kelce\u2019s Fianc\u00e9e\u2019",
-      "summary": "Swift and Kelce, who announced their engagement last August, were spotted in the first quarter and shown on the ESPN on ABC broadcast.",
-      "company": "Taylor Swift Sits Courtside",
-      "link": "https://www.billboard.com/music/pop/taylor-swift-knicks-cavaliers-game-travis-kelce-1236255749/",
-      "date": "May 24, 26",
-      "source": "Billboard",
-      "layer": 3,
+      "id": "4f19d3e59d1a",
+      "title": "Automotive Lighting Market Accelerates EV Innovation with Smart LED Adoption | CAGR 7.3% | Persistence Market Research",
+      "summary": "LONDON, May 25, 2026 /PRNewswire/ -- The global automotive lighting market is growing steadily, valued at around US$ 38.4 billion in 2025 and projected to reach US$ 62.9 billion by 2032, with a CAGR o",
+      "company": "",
+      "link": "https://www.prnewswire.com/news-releases/automotive-lighting-market-accelerates-ev-innovation-with-smart-led-adoption--cagr-7-3--persistence-market-research-302781155.html",
+      "date": "May 25, 26",
+      "source": "PR Newswire",
+      "layer": 4,
       "access": "pe",
-      "score": 9,
+      "score": 8,
       "moments": []
     },
     {
@@ -517,6 +520,19 @@
       "summary": "Ticketmaster is officially entering the Philippines through a new partnership with SM Prime Holdings, Inc. The companies announced the launch... The post Ticketmaster Makes Philippines Debut With New ",
       "company": "",
       "link": "https://www.ticketnews.com/2026/05/ticketmaster-makes-phillippines-debut-sm-ticketmaster/",
+      "date": "May 22, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 7,
+      "moments": []
+    },
+    {
+      "id": "ab9c1e6a10a8",
+      "title": "From Cool Dad to Crowd Panic: \u2018Rolling Loud the Movie\u2019 Drops First Teaser",
+      "summary": "Live Nation Studios has dropped the first teaser for &#8220;Rolling Loud the Movie,&#8221; and it looks like one dad\u2019s attempt... The post From Cool Dad to Crowd Panic: &#8216;Rolling Loud the Movie&#",
+      "company": "From Cool Dad to Crowd Panic",
+      "link": "https://www.ticketnews.com/2026/05/live-nation-studios-rolling-loud-the-movie/",
       "date": "May 22, 26",
       "source": "Ticket News",
       "layer": 3,
