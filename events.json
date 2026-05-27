@@ -1,62 +1,14 @@
 {
-  "generated": "2026-05-26T15:52:06.650336+00:00",
-  "total": 35,
+  "generated": "2026-05-27T15:57:02.217784+00:00",
+  "total": 37,
   "scraped": [
     {
-      "id": "d294cdc12458",
-      "title": "Senate Democrats Implore FCC Chair to Conduct \u2018Rigorous\u2019 Review of Paramount-Warner Bros. Merger Foreign Investment: Deal \u2018Raises National Security...",
-      "summary": "Democratic senators are again urging the FCC to not rubber-stamp Paramount Skydance&#8217;s proposed $111 billion takeover of Warner Bros. Discovery &#8212; citing concerns over foreign investors, inc",
-      "company": "Senate Democrats Implore FCC Chair",
-      "link": "https://variety.com/2026/tv/news/senators-fcc-chairreview-paramount-warner-bros-merger-foreign-investors-1236755538/",
-      "date": "May 21, 26",
-      "source": "Variety Biz",
-      "layer": 3,
-      "access": "pe",
-      "score": 24,
-      "moments": [
-        "acquisition",
-        "funding_round"
-      ]
-    },
-    {
-      "id": "59b7c14bfbba",
-      "title": "Nothing But Thieves announce new album \u2018Stray Dogs\u2019 with biggest ever headline tour of UK, Europe and North America",
-      "summary": "They announced their return last week with a series of cryptic posters, and then dropped the anthemic lead single \u2018Evolution\u2019 The post Nothing But Thieves announce new album &#8216;Stray Dogs&#8217; w",
-      "company": "Nothing But Thieves",
-      "link": "https://www.nme.com/news/music/nothing-but-thieves-new-album-stray-dog-tour-of-uk-europe-north-america-buy-tickets-3947453?utm_source=rss&utm_medium=rss&utm_campaign=nothing-but-thieves-new-album-stray-dog-tour-of-uk-europe-north-america-buy-tickets",
-      "date": "May 26, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 21,
-      "moments": [
-        "album_announcement",
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "ab4928c89d58",
-      "title": "Mouro Capital to expand beyond Santander as sole LP, raises $400m from bank for third fund",
-      "summary": "Mouro Capital, the venture capital investor which spun out from Banco Santander in 2020, is expanding beyond having the bank as its sole LP with its third fund. The post Mouro Capital to expand beyond",
-      "company": "Mouro Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/spain-western-europe-europe-by-region/mouro-capital-to-expand-beyond-santander-as-sole-lp-raises-400m-from-bank-for-third-fund.html",
-      "date": "May 21, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 19,
-      "moments": [
-        "funding_round",
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "2b12648e5ec2",
-      "title": "Healthtech-focused Lauxera Capital Partners doubles debut fund total in \u20ac520m Fund II close",
-      "summary": "Healthtech investor Lauxera Capital Partners has hit a \u20ac520m final close for its sophomore fundraise, about double the total it collected for its debut investment vehicle. The post Healthtech-focused ",
-      "company": "Healthtech-focused Lauxera Capital Partners",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/healthtech-focused-lauxera-capital-partners-doubles-debut-fund-total-in-e520m-fund-ii-close.html",
-      "date": "May 21, 26",
+      "id": "4631f2b8dfd1",
+      "title": "Ex-Mantra secondaries head Moyne seals $180m final close for debut Seine Capital fundraise",
+      "summary": "Seine Capital, the investment firm launched by former Mantra Investment Partners secondaries head Fabrice Moyne, has beaten its debut fund target to reach a \u20ac180m final close. The post Ex-Mantra secon",
+      "company": "Ex-Mantra",
+      "link": "https://www.altassets.net/private-equity-news/by-news-type/fund-news/funds-closed/ex-mantra-secondaries-head-moyne-seals-180m-final-close-for-debut-seine-capital-fundraise.html",
+      "date": "May 27, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -83,12 +35,12 @@
       ]
     },
     {
-      "id": "cbcd199d5baa",
-      "title": "WePay co-founder Clerico seals $85m debut raise for disaster relief-focused VC firm Convective Capital",
-      "summary": "Convective Capital, the disaster relief-focused venture capital firm launched by WePay co-founder Bill Clerico, has closed its latest fund on $85m. The post WePay co-founder Clerico seals $85m debut r",
-      "company": "WePay",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/wepay-co-founder-clerico-seals-85m-debut-raise-for-disaster-relief-focused-vc-firm-convective-capital.html",
-      "date": "May 22, 26",
+      "id": "57adccd94664",
+      "title": "Ardian unveils succession, names Benedetti co-CEO alongside firm founder Dominique Senequier",
+      "summary": "Ardian, the $200bn AUM asset manager and advisory firm, has appointed long-serving exec Mark Benedetti as its co-CEO. The post Ardian unveils succession, names Benedetti co-CEO alongside firm founder ",
+      "company": "Ardian",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/france-western-europe-europe-by-region/100208544.html",
+      "date": "May 27, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -96,22 +48,6 @@
       "moments": [
         "pe_investment",
         "company_launch"
-      ]
-    },
-    {
-      "id": "a89aa3777423",
-      "title": "N49P eyes $70m for fourth Canada-focused tech seed fund, hits $25m first close",
-      "summary": "Canadian pre-seed investor N49P has hit a first close for its $70m-targeting fourth fund, with backing coming from investors including Northleaf Capital Partners. The post N49P eyes $70m for fourth Ca",
-      "company": "N49P",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/canada-north-america-by-region/100208506.html",
-      "date": "May 22, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
       ]
     },
     {
@@ -131,19 +67,18 @@
       ]
     },
     {
-      "id": "a7981b6a2db2",
-      "title": "Arsenal to acquire specialty hook provider Velco",
-      "summary": "When the deal closes, the Cripps Foundation will continue as a significant minority shareholder. The post Arsenal to acquire specialty hook provider Velco appeared first on PE Hub.",
-      "company": "Arsenal to",
-      "link": "https://www.pehub.com/arsenal-to-acquire-specialty-hook-provider-velco/",
+      "id": "1916f8d8e4b0",
+      "title": "Music Industry Moves: Puerto Rican Star Jay Wheeler Signs With UTA; Sulinna Ong Joins U2\u2019s Management as Partner",
+      "summary": "United Talent Agency has signed Latin music star Jay Wheeler for global representation in all areas. UTA will work alongside Wheeler across live touring, media, brand partnerships, filmed entertainmen",
+      "company": "Music Industry Moves",
+      "link": "https://variety.com/2026/music/news/jay-wheeler-signs-with-uta-1236758958/",
       "date": "May 26, 26",
-      "source": "PE Hub",
-      "layer": 5,
+      "source": "Variety Music",
+      "layer": 4,
       "access": "pe",
-      "score": 10,
+      "score": 26,
       "moments": [
-        "acquisition",
-        "company_launch"
+        "record_deal"
       ]
     },
     {
@@ -162,24 +97,9 @@
       ]
     },
     {
-      "id": "9fbac574e3da",
-      "title": "Instant Funding Acquires Funded Trading Plus, Increasing Group Revenue by 70%",
-      "summary": "LONDON, May 26, 2026 /PRNewswire/ -- Instant Funding today announced the acquisition of Funded Trading Plus (FTP), marking a major step forward in the company's long-term growth strategy and its visio",
-      "company": "Instant Funding Acquires Funded Trading Plus",
-      "link": "https://www.prnewswire.com/news-releases/instant-funding-acquires-funded-trading-plus-increasing-group-revenue-by-70-302782025.html",
-      "date": "May 26, 26",
-      "source": "PR Newswire",
-      "layer": 2,
-      "access": "pe",
-      "score": 21,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
       "id": "7962409f84b1",
       "title": "Asake Announces \u2018In God We Trust\u2019 Tour With Uncle Waffles (EXCLUSIVE)",
-      "summary": "Asake is gearing up to hit the road again: The Nigerian superstar has announced dates for his \u201cIn God We Trust Tour,\u201d joined by special guest, South African artist-DJ Uncle Waffles, on select dates. T",
+      "summary": "Asake is gearing up to hit the road again: The Nigerian superstar has announced dates for his \u201cIn God We Trust Tour,\u201d joined by special guest, Swazi artist-DJ Uncle Waffles, on select dates. The 13-da",
       "company": "Asake Announces \u2018In God We Trust\u2019",
       "link": "https://variety.com/2026/music/news/asake-in-god-we-trust-tour-dates-uncle-waffles-1236758593/",
       "date": "May 26, 26",
@@ -189,6 +109,21 @@
       "score": 17,
       "moments": [
         "surprise_appearance"
+      ]
+    },
+    {
+      "id": "183615ce1f32",
+      "title": "National Spelling Bee kicks off in DC amid odd White House UFC backdrop",
+      "summary": "New venue puts event in heart of Washington DCShuttle rides and crowds irk some returning familiesWhite House UFC build-out adds odd backdrop buzzAfter 15 years at a convention center in suburban Mary",
+      "company": "National Spelling Bee",
+      "link": "https://www.theguardian.com/sport/2026/may/26/scripps-national-spelling-bee-constitution-hall-new-venue-reaction",
+      "date": "May 26, 26",
+      "source": "Guardian Sport",
+      "layer": 1,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "venue_announcement"
       ]
     },
     {
@@ -204,6 +139,21 @@
       "score": 16,
       "moments": [
         "company_launch"
+      ]
+    },
+    {
+      "id": "fee58d820fd1",
+      "title": "ClickHouse triples anualized revenue to $250M, charting a path toward an IPO",
+      "summary": "The database provider is eyeing a public debut within the next few years.",
+      "company": "ClickHouse",
+      "link": "https://techcrunch.com/2026/05/27/clickhouse-triples-anualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
+      "date": "May 27, 26",
+      "source": "TechCrunch Venture",
+      "layer": 2,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "ipo"
       ]
     },
     {
@@ -237,6 +187,21 @@
       ]
     },
     {
+      "id": "4178a7f14af2",
+      "title": "AD\u00c9LA Announces 2026 North American Headlining Tour",
+      "summary": "AD\u00c9LA is getting ready for her first North American headlining tour. The run comes in support of the artist\u2019s 2025... The post AD\u00c9LA Announces 2026 North American Headlining Tour appeared first on Tic",
+      "company": "AD\u00c9LA Announces",
+      "link": "https://www.ticketnews.com/2026/05/adela-announces-2026-north-american-headlining-tour/",
+      "date": "May 27, 26",
+      "source": "Ticket News",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
       "id": "957c329baded",
       "title": "Bonnaroo, Governors Ball and 7 More Summer Music Festivals Not to Miss",
       "summary": "Can\u2019t get to Lollapalooza or Outside Lands this year? Want to see Lizzo play flute with the Chicago Symphony Orchestra? Here are some options.",
@@ -267,27 +232,12 @@
       ]
     },
     {
-      "id": "6eae844656df",
-      "title": "Julieta Venegas: La Leyenda de Tijuana",
-      "summary": "The Grammy-winning singer-songwriter discusses her dual memoir and album release, \"Norte\u00f1a,\" which features collaborations with Natalia Lafourcade, Yahritza y Su Esencia, Meme del Real and Bronco.",
-      "company": "Julieta Venegas",
-      "link": "https://www.latimes.com/delos/story/2026-05-11/julieta-venegas-nortena-album-book-interview",
-      "date": "May 11, 26",
-      "source": "LA Times Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "c0fb41634862",
-      "title": "Partners Group launches new lower leverage, recurring income PE strategy",
-      "summary": "Partners Group has launched a new Total Return control buyout strategy focused on lower leverage, income-generating investments designed to deliver both recurring income and long\u2011term equity appreciat",
-      "company": "Partners Group",
-      "link": "https://www.altassets.net/featured/partners-group-launches-new-lower-leverage-recurring-income-pe-strategy.html",
-      "date": "May 22, 26",
+      "id": "852315391aa4",
+      "title": "CPP Investments sells portfolio of 33 fund interests to Blackstone, Ardian",
+      "summary": "The C$780.7bn-managing Canada Pension Plan Investment Board has completed the sale of a diversified portfolio of 33 LP fund interests to Blackstone Strategic Partners and Ardian. The post CPP Investme",
+      "company": "CPP Investments",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/canada-north-america-by-region/100208557.html",
+      "date": "May 27, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -297,12 +247,12 @@
       ]
     },
     {
-      "id": "88984eb5ef7e",
-      "title": "Barings brings in over $19bn for global direct lending strategy in two-year fundraise",
-      "summary": "Alternative investment major Barings has collected more than $19bn of committed capital for its Global Direct Lending strategy after a two-year fundraise. The post Barings brings in over $19bn for glo",
-      "company": "Barings",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208484.html",
-      "date": "May 21, 26",
+      "id": "c0fb41634862",
+      "title": "Partners Group launches new lower leverage, recurring income PE strategy",
+      "summary": "Partners Group has launched a new Total Return control buyout strategy focused on lower leverage, income-generating investments designed to deliver both recurring income and long\u2011term equity appreciat",
+      "company": "Partners Group",
+      "link": "https://www.altassets.net/featured/partners-group-launches-new-lower-leverage-recurring-income-pe-strategy.html",
+      "date": "May 22, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -342,28 +292,73 @@
       ]
     },
     {
-      "id": "19f21836fdaf",
-      "title": "Rays $2.3B Stadium Plan Survives Narrow Tampa City Council Vote",
-      "summary": "The Tampa City Council narrowly approves a non-binding stadium agreement.",
-      "company": "Rays",
-      "link": "https://frontofficesports.com/rays-2-3b-stadium-plan-survives-narrow-tampa-council-vote/",
-      "date": "May 21, 26",
-      "source": "Front Office Sports",
-      "layer": 2,
+      "id": "18056e4011e3",
+      "title": "Producer Jess Devaney to Lead Documentary Initiative Launched by Perspective Fund",
+      "summary": "Producer Jess Devaney has been tapped to lead Perspective Films, a documentary co-production initiative launched by Perspective Fund. The initiative will provide both funding and producing support for",
+      "company": "Producer Jess Devaney",
+      "link": "https://variety.com/2026/biz/news/jess-devaney-documentary-perspective-fund-1236759188/",
+      "date": "May 27, 26",
+      "source": "Variety Biz",
+      "layer": 4,
       "access": "pe",
       "score": 9,
       "moments": [
-        "venue_announcement"
+        "company_launch"
       ]
     },
     {
-      "id": "0b160f21352d",
-      "title": "People want people to advise on wealth management, says Houlihan Lokey\u2019s James Anderson; Carlyle, JC Flowers, HGGC among investors in wealth advisors",
-      "summary": "A mid-year outlook into PE investments in the wealth management sector from Houlihan Lokey\u2019s James Anderson; highlighting notable wealth management deals this year, including from Carlyle and JC Flowe",
-      "company": "People",
-      "link": "https://www.pehub.com/people-want-humans-to-advise-on-wealth-management-says-houlihan-lokeys-james-anderson-carlyle-jc-flowers-hggc-among-investors-in-wealth-advisors/",
-      "date": "May 26, 26",
+      "id": "182c38068687",
+      "title": "Carlyle\u2019s Ian Fujiyama sees attractive opportunities in ADG services; Rationale behind GHO and CBC merger",
+      "summary": "Also included is a look at recent deals from Vista, Gryphon and Main Capital in employee- and HR-based software. The post Carlyle\u2019s Ian Fujiyama sees attractive opportunities in ADG services; Rational",
+      "company": "Carlyle\u2019s Ian Fujiyama",
+      "link": "https://www.pehub.com/carlyles-ian-fujiyama-sees-attractive-opportunities-in-adg-services-rationale-behind-gho-and-cbc-merger/",
+      "date": "May 27, 26",
       "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "07719d648ab0",
+      "title": "Lovell Minnick-backed Xactus acquires",
+      "summary": "This addition will operate as XedaLink, an independent subsidiary of Xactus. The post Lovell Minnick-backed Xactus acquires appeared first on PE Hub.",
+      "company": "Lovell Minnick-backed Xactus",
+      "link": "https://www.pehub.com/lovell-minnick-backed-xactus-acquires/",
+      "date": "May 27, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "da9b8bda7afd",
+      "title": "Shore Capital-backed Ondex Automation acquires electrical engineering firm The Fitch Company",
+      "summary": "Ondex Automation is a Chicago-based discrete and process automation systems integrator. The post Shore Capital-backed Ondex Automation acquires electrical engineering firm The Fitch Company appeared f",
+      "company": "Shore Capital-backed Ondex Automation",
+      "link": "https://www.pehub.com/shore-capital-backed-ondex-automation-acquires-electrical-engineering-firm-the-fitch-company/",
+      "date": "May 27, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "a3f9021df5de",
+      "title": "Deal Roundup: CVC sells Naturgy stake worth about \u20ac4bn, Arsenal Capital buys into Velcro",
+      "summary": "CVC Capital Partners has sold its 13.8% stake in Spanish energy company Naturgy, worth about \u20ac4bn at current market prices. The post Deal Roundup: CVC sells Naturgy stake worth about \u20ac4bn, Arsenal Cap",
+      "company": "Deal Roundup",
+      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-cvc-sells-naturgy-stake-worth-about-e4bn-arsenal-capital-buys-into-velcro.html",
+      "date": "May 27, 26",
+      "source": "AltAssets",
       "layer": 5,
       "access": "pe",
       "score": 9,
@@ -372,18 +367,18 @@
       ]
     },
     {
-      "id": "d7549768c06c",
-      "title": "Centerbridge in talks to acquire stake in Merritt Properties",
-      "summary": "Centerbridge Partners is in advanced talks to acquire a minority stake in commercial real estate company Merritt Properties, in a deal that would value the business at approximately $3bn, according to",
-      "company": "Centerbridge in talks to",
-      "link": "https://www.privateequitywire.co.uk/centerbridge-in-talks-to-acquire-stake-in-merritt-properties/",
-      "date": "May 26, 26",
-      "source": "PE Wire",
+      "id": "52d1c6871377",
+      "title": "General Motors Selects Pinnacle Intelligence for BDC Services, Supporting Its Integrated AI-Enabled Approach",
+      "summary": "NEW YORK, May 27, 2026 /PRNewswire/ -- Pinnacle Intelligence, a technology-enabled services company transforming automotive retail operations through data, AI, and global talent, today announced that ",
+      "company": "General Motors Selects Pinnacle Intelligence",
+      "link": "https://www.prnewswire.com/news-releases/general-motors-selects-pinnacle-intelligence-for-bdc-services-supporting-its-integrated-ai-enabled-approach-302783348.html",
+      "date": "May 27, 26",
+      "source": "PR Newswire",
       "layer": 2,
       "access": "pe",
       "score": 6,
       "moments": [
-        "acquisition"
+        "festival_headliner"
       ]
     },
     {
@@ -402,6 +397,45 @@
       ]
     },
     {
+      "id": "44381df7bb5a",
+      "title": "Live Nation have created \u201cclimate of fear\u201d in UK live music industry, finds government report calling for fresh investigation into market dominance",
+      "summary": "The report points to \"deep concerns about whether competition in the industry is now working fairly for fans, artists, venues and independent promoters\" The post Live Nation have created \u201cclimate of f",
+      "company": "Live Nation",
+      "link": "https://www.nme.com/news/music/live-nation-have-created-climate-of-fear-in-uk-live-music-industry-finds-government-report-calling-for-fresh-investigation-into-market-dominance-3947698?utm_source=rss&utm_medium=rss&utm_campaign=live-nation-have-created-climate-of-fear-in-uk-live-music-industry-finds-government-report-calling-for-fresh-investigation-into-market-dominance",
+      "date": "May 27, 26",
+      "source": "NME",
+      "layer": 3,
+      "access": "pe",
+      "score": 13,
+      "moments": []
+    },
+    {
+      "id": "6e9322e2310e",
+      "title": "Live Nation Moves to Undo Monopoly Verdict, Delay Breakup Discovery in Ticketmaster Case",
+      "summary": "After losing a landmark antitrust verdict to a coalition of state attorneys general, Live Nation and Ticketmaster vowed that the... The post Live Nation Moves to Undo Monopoly Verdict, Delay Breakup D",
+      "company": "Live Nation Moves",
+      "link": "https://www.ticketnews.com/2026/05/live-nation-moves-to-undo-monopoly-verdict-delay-breakup-discovery-in-ticketmaster-case/",
+      "date": "May 26, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 13,
+      "moments": []
+    },
+    {
+      "id": "6983f947341e",
+      "title": "Biden files lawsuit in bid to block DOJ audio interview release",
+      "summary": "Former President Biden is suing the U.S. Department of Justice in an attempt to block the release of audio recordings and transcripts of private conversations with \u200chis biographer.Why it matters: The ",
+      "company": "Biden",
+      "link": "https://www.axios.com/2026/05/27/biden-lawsuit-doj-release-audio-recordings-block-attempt",
+      "date": "May 27, 26",
+      "source": "Axios",
+      "layer": 3,
+      "access": "pe",
+      "score": 11,
+      "moments": []
+    },
+    {
       "id": "bc1beae3c080",
       "title": "US Footwear Industry Delivers Modest First-Quarter Growth Driven by Price Increases and Strength in Performance Segment, Circana Reports",
       "summary": "CHICAGO, IL, May 04, 2026 (GLOBE NEWSWIRE) -- The U.S. footwear industry posted soft dollar growth in the first quarter (Q1) of 2026, with total sales increasing by +1%, versus the same period last ye",
@@ -409,6 +443,19 @@
       "link": "https://www.globenewswire.com/news-release/2026/05/04/3286860/0/en/US-Footwear-Industry-Delivers-Modest-First-Quarter-Growth-Driven-by-Price-Increases-and-Strength-in-Performance-Segment-Circana-Reports.html",
       "date": "May 04, 26",
       "source": "GlobeNewsWire Deals",
+      "layer": 2,
+      "access": "pe",
+      "score": 10,
+      "moments": []
+    },
+    {
+      "id": "b48da6d16fde",
+      "title": "Mews Unveils the Operating System for Hospitality",
+      "summary": "Five launches \u2013 revenue management, distribution, guest messaging, automations and the financial layer \u2013 converge into one AI-native operating system, all built for the hotel, not for the acronyms AMS",
+      "company": "Mews Unveils",
+      "link": "https://www.prnewswire.com/news-releases/mews-unveils-the-operating-system-for-hospitality-302783322.html",
+      "date": "May 27, 26",
+      "source": "PR Newswire",
       "layer": 2,
       "access": "pe",
       "score": 10,
@@ -428,68 +475,29 @@
       "moments": []
     },
     {
-      "id": "55a6cbf950c2",
-      "title": "StubHub and Chicago Sky Announce New Multi-Year Ticketing Partnership",
-      "summary": "The Chicago Sky have entered a new multi-year partnership with StubHub, naming the ticketing platform the organization\u2019s Official Open Distribution... The post StubHub and Chicago Sky Announce New Mul",
-      "company": "StubHub",
-      "link": "https://www.ticketnews.com/2026/05/stubhub-and-chicago-sky-announce-new-multi-year-ticketing-partnership/",
-      "date": "May 26, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 9,
-      "moments": []
-    },
-    {
-      "id": "9b8fe0c913cb",
-      "title": "A Champion of Made in Hollywood: \u2018Fallout\u2019 Season 2 Delivers Character-Driven Storytelling, Ambitious Cinematic Techniques",
-      "summary": "The concept of world-building is bandied about a lot in Hollywood, but few television series live up to the phrase as ambitiously and expansively as Prime Video\u2019s \u201cFallout,\u201d the lavishly produced, soa",
-      "company": "A Champion of Made in Hollywood",
-      "link": "https://variety.com/2026/biz/news/fallout-season-2-delivers-character-driven-storytelling-ambitious-cinematic-techniques-1236735880/",
-      "date": "May 20, 26",
-      "source": "Variety Biz",
-      "layer": 4,
-      "access": "pe",
-      "score": 7,
-      "moments": []
-    },
-    {
-      "id": "02a12b79878f",
-      "title": "Ticketmaster Makes Philippines Debut With New SM Ticketmaster Service",
-      "summary": "Ticketmaster is officially entering the Philippines through a new partnership with SM Prime Holdings, Inc. The companies announced the launch... The post Ticketmaster Makes Philippines Debut With New ",
-      "company": "",
-      "link": "https://www.ticketnews.com/2026/05/ticketmaster-makes-phillippines-debut-sm-ticketmaster/",
-      "date": "May 22, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 7,
-      "moments": []
-    },
-    {
-      "id": "ab9c1e6a10a8",
-      "title": "From Cool Dad to Crowd Panic: \u2018Rolling Loud the Movie\u2019 Drops First Teaser",
-      "summary": "Live Nation Studios has dropped the first teaser for &#8220;Rolling Loud the Movie,&#8221; and it looks like one dad\u2019s attempt... The post From Cool Dad to Crowd Panic: &#8216;Rolling Loud the Movie&#",
-      "company": "From Cool Dad to Crowd Panic",
-      "link": "https://www.ticketnews.com/2026/05/live-nation-studios-rolling-loud-the-movie/",
-      "date": "May 22, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 7,
-      "moments": []
-    },
-    {
-      "id": "c1a5dcd6d098",
-      "title": "Hockey Unites to Demand Change to NCAA \u20185-in-5\u2019 Proposal",
-      "summary": "The sport doesn\u2019t want to be \u201ccollateral damage\" of the new rule.",
-      "company": "Hockey Unites",
-      "link": "https://frontofficesports.com/college-hockey-ncaa-5-in-5-eligibility-rule-changes/",
-      "date": "May 22, 26",
+      "id": "9ebe94cb74d1",
+      "title": "NCAA Denial Sends Brendan Sorsby Eligibility Fight to Court",
+      "summary": "A hearing for Sorsby\u2019s lawsuit is scheduled for June 1.",
+      "company": "NCAA Denial Sends Brendan Sorsby Eligibility",
+      "link": "https://frontofficesports.com/ncaa-denial-brendan-sorsby-eligibility-fight-court/",
+      "date": "May 27, 26",
       "source": "Front Office Sports",
       "layer": 4,
       "access": "pe",
-      "score": 4,
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "a57c4e1cc7c7",
+      "title": "Metal Working Machinery Market to Reach USD 138.10 Billion by 2033, Driven by CNC Automation, Precision Manufacturing, and Industrial Capacity...",
+      "summary": "Rising demand for automation-ready machining systems, stricter quality traceability standards, and expanding industrial production across automotive, aerospace & defense, and heavy equipment sectors a",
+      "company": "Metal Working Machinery Market",
+      "link": "https://www.prnewswire.com/news-releases/metal-working-machinery-market-to-reach-usd-138-10-billion-by-2033--driven-by-cnc-automation-precision-manufacturing-and-industrial-capacity-modernization-verified-market-research-302783012.html",
+      "date": "May 27, 26",
+      "source": "PR Newswire",
+      "layer": 4,
+      "access": "pe",
+      "score": 5,
       "moments": []
     },
     {
@@ -501,6 +509,19 @@
       "date": "May 25, 26",
       "source": "NYT Arts",
       "layer": 3,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "1edcb2ac261f",
+      "title": "\u2018Moral bankrupts\u2019: Pirlo and Materazzi provoke fury by attending \u2018Football Day\u2019 in Russia",
+      "summary": "Former Italy stars criticised over presence in MoscowThey defend visit as being for sport and childrenThe presence of the Italian World Cup winners Andrea Pirlo and Marco Materazzi in Russia for a spo",
+      "company": "\u2018Moral",
+      "link": "https://www.theguardian.com/football/2026/may/27/andrea-pirlo-marco-materazzi-criticised-attending-football-day-russia",
+      "date": "May 27, 26",
+      "source": "Guardian Sport",
+      "layer": 4,
       "access": "pe",
       "score": 4,
       "moments": []
