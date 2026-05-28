@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-27T15:57:02.217784+00:00",
-  "total": 37,
+  "generated": "2026-05-28T16:11:33.708475+00:00",
+  "total": 36,
   "scraped": [
     {
       "id": "4631f2b8dfd1",
@@ -19,6 +19,22 @@
       ]
     },
     {
+      "id": "e22325dc8b9d",
+      "title": "DigitalBridge to acquire energy PE firm ArcLight for $1.05bn; KKR sells Circor\u2019s aircraft parts group to strategic for $2.55bn",
+      "summary": "Power and infrastructure PE investor ArcLight Capital announces plans to be acquired by data center company DigitalBridge for $1.05 billion; some background intel about KKR\u2019s sale of Circor\u2019s aircraft",
+      "company": "DigitalBridge to",
+      "link": "https://www.pehub.com/digitalbridge-to-acquire-energy-pe-firm-arclight-for-1-05bn-kkr-sells-circors-aircraft-parts-group-to-strategic-for-2-55bn/",
+      "date": "May 28, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "acquisition",
+        "pe_investment"
+      ]
+    },
+    {
       "id": "98de5cd74764",
       "title": "The IPO Comeback Has A Catch",
       "summary": "The threshold for going public has steadily risen, leaving many mid-sized firms and their shareholders without viable exit opportunities, writes guest author Shawn Bercuson, founder of Earlyasset, who",
@@ -31,6 +47,22 @@
       "score": 13,
       "moments": [
         "ipo",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "fbe603e75ae6",
+      "title": "AHL Venture Partners confirms first close of fund at $30.5m",
+      "summary": "AHL Venture Partners has announced its initial close of its AHL Africa Credit Fund at $30.5m. Since 2007, AHL Venture Partners has advised the AHL Charitable Foundation on investments in African busin",
+      "company": "AHL Venture Partners confirms first",
+      "link": "https://www.altassets.net/market-news/ahl-venture-partners-confirms-first-close-of-fund-at-30-5m.html",
+      "date": "May 28, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "venture",
+      "score": 13,
+      "moments": [
+        "fund_launch",
         "company_launch"
       ]
     },
@@ -67,21 +99,6 @@
       ]
     },
     {
-      "id": "1916f8d8e4b0",
-      "title": "Music Industry Moves: Puerto Rican Star Jay Wheeler Signs With UTA; Sulinna Ong Joins U2\u2019s Management as Partner",
-      "summary": "United Talent Agency has signed Latin music star Jay Wheeler for global representation in all areas. UTA will work alongside Wheeler across live touring, media, brand partnerships, filmed entertainmen",
-      "company": "Music Industry Moves",
-      "link": "https://variety.com/2026/music/news/jay-wheeler-signs-with-uta-1236758958/",
-      "date": "May 26, 26",
-      "source": "Variety Music",
-      "layer": 4,
-      "access": "pe",
-      "score": 26,
-      "moments": [
-        "record_deal"
-      ]
-    },
-    {
       "id": "0d77dc9a312f",
       "title": "Add to playlist: the virtuoso prog-metal-folk of Brazil\u2019s Papangu and the week\u2019s best new tracks",
       "summary": "The five-piece combine traditional musical styles with mountains of synths and hurried drums \u2013 rejecting computerised production in a pointed anti-AI statementFrom Jo\u00e3o Pessoa, BrazilRecommended if yo",
@@ -97,33 +114,63 @@
       ]
     },
     {
-      "id": "7962409f84b1",
-      "title": "Asake Announces \u2018In God We Trust\u2019 Tour With Uncle Waffles (EXCLUSIVE)",
-      "summary": "Asake is gearing up to hit the road again: The Nigerian superstar has announced dates for his \u201cIn God We Trust Tour,\u201d joined by special guest, Swazi artist-DJ Uncle Waffles, on select dates. The 13-da",
-      "company": "Asake Announces \u2018In God We Trust\u2019",
-      "link": "https://variety.com/2026/music/news/asake-in-god-we-trust-tour-dates-uncle-waffles-1236758593/",
-      "date": "May 26, 26",
+      "id": "d27e1ff36253",
+      "title": "Gracie Abrams to Embark on Arena Tour in Support of New Album: \u2018I HAVE MISSED YOU\u2019",
+      "summary": "The pop star is gearing up to release her third studio album, Daughter From Hell.",
+      "company": "Gracie Abrams",
+      "link": "https://www.billboard.com/music/music-news/gracie-abrams-tour-dates-2026-2027-new-album-1236259039/",
+      "date": "May 28, 26",
+      "source": "Billboard",
+      "layer": 1,
+      "access": "pe",
+      "score": 20,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "cb900a51ff79",
+      "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+      "summary": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
+      "company": "AI coding startup Cognition",
+      "link": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+      "date": "May 27, 26",
+      "source": "TechCrunch Startups",
+      "layer": 2,
+      "access": "venture",
+      "score": 18,
+      "moments": [
+        "funding_round"
+      ]
+    },
+    {
+      "id": "4e426ae38e4a",
+      "title": "Morris Day Denies He\u2019s Playing Controversial \u2018Freedom 250\u2019 Festival in D.C., After Fans Balk at His Advertised Participation: \u2018It\u2019s a No for Me\u2019",
+      "summary": "Singer Morris Day has denied what he is calling &#8220;rumors&#8221; that he and the Time are set to play a &#8220;Freedom 250&#8221; concert on the National Mall next month, even though organizers an",
+      "company": "Morris Day Denies He\u2019s Playing Controversial",
+      "link": "https://variety.com/2026/music/news/morris-day-denies-freedom-250-concert-controversy-1236760420/",
+      "date": "May 28, 26",
       "source": "Variety Music",
       "layer": 1,
       "access": "pe",
       "score": 17,
       "moments": [
-        "surprise_appearance"
+        "festival_headliner"
       ]
     },
     {
-      "id": "183615ce1f32",
-      "title": "National Spelling Bee kicks off in DC amid odd White House UFC backdrop",
-      "summary": "New venue puts event in heart of Washington DCShuttle rides and crowds irk some returning familiesWhite House UFC build-out adds odd backdrop buzzAfter 15 years at a convention center in suburban Mary",
-      "company": "National Spelling Bee",
-      "link": "https://www.theguardian.com/sport/2026/may/26/scripps-national-spelling-bee-constitution-hall-new-venue-reaction",
-      "date": "May 26, 26",
-      "source": "Guardian Sport",
+      "id": "b5559f0d1ce2",
+      "title": "Bruce Springsteen, Foo Fighters, Dave Matthews and More to Perform at \u2018Power to the People\u2019 Festival Organized by Tom Morello",
+      "summary": "Rage Against the Machine co-founder and longtime activist Tom Morello has announced the \u201cPower to the People\u201d festival \u2014 described as a &#8220;non-partisan celebration of peace, justice, solidarity, m",
+      "company": "Bruce Springsteen Foo Fighters Dave Matthews",
+      "link": "https://variety.com/2026/music/news/bruce-springsteen-foo-fighters-dave-matthews-power-to-the-people-festival-tom-morello-1236760996/",
+      "date": "May 28, 26",
+      "source": "Variety Music",
       "layer": 1,
       "access": "pe",
       "score": 16,
       "moments": [
-        "venue_announcement"
+        "company_launch"
       ]
     },
     {
@@ -142,11 +189,11 @@
       ]
     },
     {
-      "id": "fee58d820fd1",
-      "title": "ClickHouse triples anualized revenue to $250M, charting a path toward an IPO",
+      "id": "d67a9882525a",
+      "title": "ClickHouse triples annualized revenue to $250M, charting a path toward an IPO",
       "summary": "The database provider is eyeing a public debut within the next few years.",
       "company": "ClickHouse",
-      "link": "https://techcrunch.com/2026/05/27/clickhouse-triples-anualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
+      "link": "https://techcrunch.com/2026/05/27/clickhouse-triples-annualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
       "date": "May 27, 26",
       "source": "TechCrunch Venture",
       "layer": 2,
@@ -178,27 +225,12 @@
       "company": "How VCs",
       "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
       "date": "May 22, 26",
-      "source": "TechCrunch Startups",
+      "source": "TechCrunch Venture",
       "layer": 1,
       "access": "venture",
       "score": 14,
       "moments": [
         "company_launch"
-      ]
-    },
-    {
-      "id": "4178a7f14af2",
-      "title": "AD\u00c9LA Announces 2026 North American Headlining Tour",
-      "summary": "AD\u00c9LA is getting ready for her first North American headlining tour. The run comes in support of the artist\u2019s 2025... The post AD\u00c9LA Announces 2026 North American Headlining Tour appeared first on Tic",
-      "company": "AD\u00c9LA Announces",
-      "link": "https://www.ticketnews.com/2026/05/adela-announces-2026-north-american-headlining-tour/",
-      "date": "May 27, 26",
-      "source": "Ticket News",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "festival_headliner"
       ]
     },
     {
@@ -208,7 +240,7 @@
       "company": "Bonnaroo Governors Ball",
       "link": "https://www.nytimes.com/2026/05/24/arts/music/summer-music-festivals-bonnaroo-gov-ball-cma-fest.html",
       "date": "May 24, 26",
-      "source": "NYT Arts",
+      "source": "NYT Music",
       "layer": 1,
       "access": "pe",
       "score": 13,
@@ -217,18 +249,33 @@
       ]
     },
     {
-      "id": "133f2eaaf6d9",
-      "title": "Lizzo Addresses the Backlash and Performs Live at The New York Times",
-      "summary": "During a special edition of \u201cPopcast,\u201d the singer discussed her new album and the public fallout from a series of lawsuits. Then she performed a stripped-down set.",
-      "company": "Lizzo Addresses",
-      "link": "https://www.nytimes.com/2026/05/25/arts/music/lizzo-new-york-times-live-performance.html",
-      "date": "May 25, 26",
-      "source": "NYT Arts",
+      "id": "fe2ffa2935b0",
+      "title": "FIFA World Cup 2026 Hospitality Program Scores Record-Breaking Demand",
+      "summary": "The FIFA World Cup 2026 is just weeks away, and the tournament is already putting up championship-level numbers. On Location,... The post FIFA World Cup 2026 Hospitality Program Scores Record-Breaking",
+      "company": "FIFA World Cup",
+      "link": "https://www.ticketnews.com/2026/05/premium-world-cup-demand-surges-2026-tournament-news/",
+      "date": "May 28, 26",
+      "source": "Ticket News",
+      "layer": 4,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "record_breaking"
+      ]
+    },
+    {
+      "id": "b83837276889",
+      "title": "Dave Checketts Says Founding MLS Team Was His \u2018Worst Investment\u2019",
+      "summary": "Checketts cofounded Real Salt Lake in 2005 and sold it in 2013.",
+      "company": "Dave Checketts Says Founding MLS Team",
+      "link": "https://frontofficesports.com/dave-checketts-mls-worst-investment/",
+      "date": "May 27, 26",
+      "source": "Front Office Sports",
       "layer": 1,
       "access": "pe",
       "score": 12,
       "moments": [
-        "album_announcement"
+        "company_launch"
       ]
     },
     {
@@ -238,21 +285,6 @@
       "company": "CPP Investments",
       "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/canada-north-america-by-region/100208557.html",
       "date": "May 27, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "c0fb41634862",
-      "title": "Partners Group launches new lower leverage, recurring income PE strategy",
-      "summary": "Partners Group has launched a new Total Return control buyout strategy focused on lower leverage, income-generating investments designed to deliver both recurring income and long\u2011term equity appreciat",
-      "company": "Partners Group",
-      "link": "https://www.altassets.net/featured/partners-group-launches-new-lower-leverage-recurring-income-pe-strategy.html",
-      "date": "May 22, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -277,18 +309,18 @@
       ]
     },
     {
-      "id": "a844637e53f8",
-      "title": "Kayne Anderson Real Estate rockets to $5.12bn for biggest-ever fund, soaring past $3bn goal",
-      "summary": "Alternative investor Kayne Anderson's real estate arm has soared past its target for its latest fund to reach a $5.12bn final close. The post Kayne Anderson Real Estate rockets to $5.12bn for biggest-",
-      "company": "Kayne Anderson Real Estate",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/kayne-anderson-real-estate-rockets-to-5-12bn-for-biggest-ever-fund-soaring-past-3bn-goal.html",
-      "date": "May 26, 26",
-      "source": "AltAssets",
+      "id": "d12d81987781",
+      "title": "Frazier acquires behavioral health pharmacy firm Altruix from WindRose",
+      "summary": "Altruix serves patients with severe mental illness, substance use disorders, and intellectual and developmental disabilities. The post Frazier acquires behavioral health pharmacy firm Altruix from Win",
+      "company": "Frazier",
+      "link": "https://www.pehub.com/frazier-acquires-behavioral-health-pharmacy-firm-altruix-from-windrose/",
+      "date": "May 28, 26",
+      "source": "PE Hub",
       "layer": 2,
       "access": "pe",
       "score": 11,
       "moments": [
-        "pe_investment"
+        "acquisition"
       ]
     },
     {
@@ -307,12 +339,12 @@
       ]
     },
     {
-      "id": "182c38068687",
-      "title": "Carlyle\u2019s Ian Fujiyama sees attractive opportunities in ADG services; Rationale behind GHO and CBC merger",
-      "summary": "Also included is a look at recent deals from Vista, Gryphon and Main Capital in employee- and HR-based software. The post Carlyle\u2019s Ian Fujiyama sees attractive opportunities in ADG services; Rational",
-      "company": "Carlyle\u2019s Ian Fujiyama",
-      "link": "https://www.pehub.com/carlyles-ian-fujiyama-sees-attractive-opportunities-in-adg-services-rationale-behind-gho-and-cbc-merger/",
-      "date": "May 27, 26",
+      "id": "87a923d81599",
+      "title": "Apollo to acquire minority stake in residential HVAC firm Apex Service Partners",
+      "summary": "Apex\u2019s existing investor Alpine Investors is also making an additional investment in Apex to support the company\u2019s continued growth. The post Apollo to acquire minority stake in residential HVAC firm ",
+      "company": "Apollo to",
+      "link": "https://www.pehub.com/apollo-to-acquire-minority-stake-in-residential-hvac-firm-apex-service-partners/",
+      "date": "May 28, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
@@ -322,12 +354,12 @@
       ]
     },
     {
-      "id": "07719d648ab0",
-      "title": "Lovell Minnick-backed Xactus acquires",
-      "summary": "This addition will operate as XedaLink, an independent subsidiary of Xactus. The post Lovell Minnick-backed Xactus acquires appeared first on PE Hub.",
-      "company": "Lovell Minnick-backed Xactus",
-      "link": "https://www.pehub.com/lovell-minnick-backed-xactus-acquires/",
-      "date": "May 27, 26",
+      "id": "45f9385b153f",
+      "title": "ACP acquires medical tech firm Heritage Imaging",
+      "summary": "Heritage is led by CEO Dr. Steve Coppess, who will continue to lead the company post-transaction alongside the current management team. The post ACP acquires medical tech firm Heritage Imaging appeare",
+      "company": "ACP",
+      "link": "https://www.pehub.com/acp-acquires-medical-tech-firm-heritage-imaging/",
+      "date": "May 28, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
@@ -337,48 +369,48 @@
       ]
     },
     {
-      "id": "da9b8bda7afd",
-      "title": "Shore Capital-backed Ondex Automation acquires electrical engineering firm The Fitch Company",
-      "summary": "Ondex Automation is a Chicago-based discrete and process automation systems integrator. The post Shore Capital-backed Ondex Automation acquires electrical engineering firm The Fitch Company appeared f",
-      "company": "Shore Capital-backed Ondex Automation",
-      "link": "https://www.pehub.com/shore-capital-backed-ondex-automation-acquires-electrical-engineering-firm-the-fitch-company/",
-      "date": "May 27, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "a3f9021df5de",
-      "title": "Deal Roundup: CVC sells Naturgy stake worth about \u20ac4bn, Arsenal Capital buys into Velcro",
-      "summary": "CVC Capital Partners has sold its 13.8% stake in Spanish energy company Naturgy, worth about \u20ac4bn at current market prices. The post Deal Roundup: CVC sells Naturgy stake worth about \u20ac4bn, Arsenal Cap",
-      "company": "Deal Roundup",
-      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-cvc-sells-naturgy-stake-worth-about-e4bn-arsenal-capital-buys-into-velcro.html",
-      "date": "May 27, 26",
+      "id": "b73f2b452cb1",
+      "title": "Stoneshield Capital concludes oversubscribed fund at \u20ac1.5bn hard cap",
+      "summary": "Stoneshield Capital, a leading European investment firm, has announced the final close of its Stoneshield Opportunity Fund IV at its hard cap of \u20ac1.5bn. The fund surpassed its original \u20ac1bn target and",
+      "company": "Stoneshield Capital",
+      "link": "https://www.altassets.net/market-news/stoneshield-capital-concludes-oversubscribed-fund-at-e1-5bn-hard-cap.html",
+      "date": "May 28, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
       "score": 9,
       "moments": [
-        "pe_investment"
+        "fund_launch"
       ]
     },
     {
-      "id": "52d1c6871377",
-      "title": "General Motors Selects Pinnacle Intelligence for BDC Services, Supporting Its Integrated AI-Enabled Approach",
-      "summary": "NEW YORK, May 27, 2026 /PRNewswire/ -- Pinnacle Intelligence, a technology-enabled services company transforming automotive retail operations through data, AI, and global talent, today announced that ",
-      "company": "General Motors Selects Pinnacle Intelligence",
-      "link": "https://www.prnewswire.com/news-releases/general-motors-selects-pinnacle-intelligence-for-bdc-services-supporting-its-integrated-ai-enabled-approach-302783348.html",
-      "date": "May 27, 26",
+      "id": "2d373c2cf48a",
+      "title": "Linux Foundation Releases OpenMDW-1.1; NVIDIA Adopts OpenMDW for Cosmos, Isaac GR00T, Ising and Nemotron, AI Model Families",
+      "summary": "Updated OpenMDW-1.1 license advances open model ecosystem through permissive licensing and intellectual property protections SAN FRANCISCO, May 28, 2026 /PRNewswire/ -- The Linux Foundation, the nonpr",
+      "company": "",
+      "link": "https://www.prnewswire.com/news-releases/linux-foundation-releases-openmdw-1-1-nvidia-adopts-openmdw-for-cosmos-isaac-gr00t-ising-and-nemotron-ai-model-families-302784725.html",
+      "date": "May 28, 26",
       "source": "PR Newswire",
       "layer": 2,
       "access": "pe",
+      "score": 9,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "61d8f7240537",
+      "title": "Lululemon Adds Former On, ESPN Execs to Board to Resolve Founder Fight",
+      "summary": "Chip Wilson in December called for a board shake-up.",
+      "company": "Lululemon Adds Former On ESPN Execs",
+      "link": "https://frontofficesports.com/lululemon-adds-former-on-espn-execs-to-board-to-resolve-founder-fight/",
+      "date": "May 27, 26",
+      "source": "Front Office Sports",
+      "layer": 3,
+      "access": "pe",
       "score": 6,
       "moments": [
-        "festival_headliner"
+        "company_launch"
       ]
     },
     {
@@ -395,32 +427,6 @@
       "moments": [
         "acquisition"
       ]
-    },
-    {
-      "id": "44381df7bb5a",
-      "title": "Live Nation have created \u201cclimate of fear\u201d in UK live music industry, finds government report calling for fresh investigation into market dominance",
-      "summary": "The report points to \"deep concerns about whether competition in the industry is now working fairly for fans, artists, venues and independent promoters\" The post Live Nation have created \u201cclimate of f",
-      "company": "Live Nation",
-      "link": "https://www.nme.com/news/music/live-nation-have-created-climate-of-fear-in-uk-live-music-industry-finds-government-report-calling-for-fresh-investigation-into-market-dominance-3947698?utm_source=rss&utm_medium=rss&utm_campaign=live-nation-have-created-climate-of-fear-in-uk-live-music-industry-finds-government-report-calling-for-fresh-investigation-into-market-dominance",
-      "date": "May 27, 26",
-      "source": "NME",
-      "layer": 3,
-      "access": "pe",
-      "score": 13,
-      "moments": []
-    },
-    {
-      "id": "6e9322e2310e",
-      "title": "Live Nation Moves to Undo Monopoly Verdict, Delay Breakup Discovery in Ticketmaster Case",
-      "summary": "After losing a landmark antitrust verdict to a coalition of state attorneys general, Live Nation and Ticketmaster vowed that the... The post Live Nation Moves to Undo Monopoly Verdict, Delay Breakup D",
-      "company": "Live Nation Moves",
-      "link": "https://www.ticketnews.com/2026/05/live-nation-moves-to-undo-monopoly-verdict-delay-breakup-discovery-in-ticketmaster-case/",
-      "date": "May 26, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 13,
-      "moments": []
     },
     {
       "id": "6983f947341e",
@@ -449,19 +455,6 @@
       "moments": []
     },
     {
-      "id": "b48da6d16fde",
-      "title": "Mews Unveils the Operating System for Hospitality",
-      "summary": "Five launches \u2013 revenue management, distribution, guest messaging, automations and the financial layer \u2013 converge into one AI-native operating system, all built for the hotel, not for the acronyms AMS",
-      "company": "Mews Unveils",
-      "link": "https://www.prnewswire.com/news-releases/mews-unveils-the-operating-system-for-hospitality-302783322.html",
-      "date": "May 27, 26",
-      "source": "PR Newswire",
-      "layer": 2,
-      "access": "pe",
-      "score": 10,
-      "moments": []
-    },
-    {
       "id": "d5ab954e4aab",
       "title": "Maximize Every Square Foot: Using Digital Authority to Win High-Value Venue Bookings",
       "summary": "Source: ChatGPT Event organizers often struggle to secure premium venue bookings even when their content or services are strong. Limited visibility, unclear reputation, and weak online authority can r",
@@ -472,6 +465,32 @@
       "layer": 2,
       "access": "pe",
       "score": 10,
+      "moments": []
+    },
+    {
+      "id": "6342ef939565",
+      "title": "BTS Preview \u2018Arirang\u2019 World Tour Homecoming Show Broadcast With \u2018Fire\u2019 Trailer",
+      "summary": "The band\u2019s special show in Busan will be broadcast in cinemas across the world on June 13",
+      "company": "BTS Preview \u2018Arirang\u2019 World Tour Homecoming",
+      "link": "https://www.rollingstone.com/music/music-news/bts-arirang-world-tour-homecoming-show-broadcast-trailer-1235569449/",
+      "date": "May 28, 26",
+      "source": "Rolling Stone Music",
+      "layer": 3,
+      "access": "pe",
+      "score": 8,
+      "moments": []
+    },
+    {
+      "id": "8d9774cc9903",
+      "title": "Varsity Avoids Jury Again With Third Antitrust Settlement",
+      "summary": "Varsity Brands has reached a settlement with the latest crop of plaintiffs suing the cheerleading juggernaut over alleged antitrust violations, resolving the case just two weeks before it was set to g",
+      "company": "Varsity Avoids Jury Again With Third",
+      "link": "https://www.sportico.com/leagues/other-sports/2026/varsity-antitrust-settlement-open-championship-1234901637/",
+      "date": "May 28, 26",
+      "source": "Sportico",
+      "layer": 3,
+      "access": "pe",
+      "score": 5,
       "moments": []
     },
     {
@@ -488,42 +507,16 @@
       "moments": []
     },
     {
-      "id": "a57c4e1cc7c7",
-      "title": "Metal Working Machinery Market to Reach USD 138.10 Billion by 2033, Driven by CNC Automation, Precision Manufacturing, and Industrial Capacity...",
-      "summary": "Rising demand for automation-ready machining systems, stricter quality traceability standards, and expanding industrial production across automotive, aerospace & defense, and heavy equipment sectors a",
-      "company": "Metal Working Machinery Market",
-      "link": "https://www.prnewswire.com/news-releases/metal-working-machinery-market-to-reach-usd-138-10-billion-by-2033--driven-by-cnc-automation-precision-manufacturing-and-industrial-capacity-modernization-verified-market-research-302783012.html",
-      "date": "May 27, 26",
-      "source": "PR Newswire",
+      "id": "d86bb72b4db8",
+      "title": "Kanye Label Boss Sues to Unmask Anonymous Figure Behind \u2018Defamatory\u2019 Websites",
+      "summary": "Larry Jackson wants a judge to help unmask the mystery figure he says is trying to destroy him with \u201creputational warfare\u201d",
+      "company": "Kanye Label Boss Sues",
+      "link": "https://www.rollingstone.com/music/music-news/kanye-west-larry-jackson-gamma-lawsuit-defamatory-websites-1235569376/",
+      "date": "May 28, 26",
+      "source": "Rolling Stone Music",
       "layer": 4,
       "access": "pe",
       "score": 5,
-      "moments": []
-    },
-    {
-      "id": "00d4a493b4f0",
-      "title": "\u2018Star City,\u2019 and 5 More Things to Watch on TV This Week",
-      "summary": "A spinoff of \u201cFor All Mankind\u201d airs on Apple TV, and a new Netflix series tells the incredible story of Brazil\u2019s win at the 1970 World Cup.",
-      "company": "\u2018Star City,\u2019",
-      "link": "https://www.nytimes.com/2026/05/25/arts/television/star-city-things-to-watch-on-tv-this-week.html",
-      "date": "May 25, 26",
-      "source": "NYT Arts",
-      "layer": 3,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "1edcb2ac261f",
-      "title": "\u2018Moral bankrupts\u2019: Pirlo and Materazzi provoke fury by attending \u2018Football Day\u2019 in Russia",
-      "summary": "Former Italy stars criticised over presence in MoscowThey defend visit as being for sport and childrenThe presence of the Italian World Cup winners Andrea Pirlo and Marco Materazzi in Russia for a spo",
-      "company": "\u2018Moral",
-      "link": "https://www.theguardian.com/football/2026/may/27/andrea-pirlo-marco-materazzi-criticised-attending-football-day-russia",
-      "date": "May 27, 26",
-      "source": "Guardian Sport",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
       "moments": []
     },
     {
