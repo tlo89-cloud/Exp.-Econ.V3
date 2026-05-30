@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-29T15:52:11.576553+00:00",
+  "generated": "2026-05-30T13:49:35.781741+00:00",
   "total": 35,
   "scraped": [
     {
@@ -79,21 +79,6 @@
       "score": 22,
       "moments": [
         "album_announcement"
-      ]
-    },
-    {
-      "id": "cb900a51ff79",
-      "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
-      "summary": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
-      "company": "AI coding startup Cognition",
-      "link": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
-      "date": "May 27, 26",
-      "source": "TechCrunch Startups",
-      "layer": 2,
-      "access": "venture",
-      "score": 18,
-      "moments": [
-        "funding_round"
       ]
     },
     {
@@ -187,6 +172,21 @@
       ]
     },
     {
+      "id": "1508ed4bc8fc",
+      "title": "Post Malone, HARDY Set to Headline Salute 250 Concert in Columbus",
+      "summary": "America\u2019s 250th birthday celebration is getting a major soundtrack. Breakaway has announced Salute 250, a one-night-only concert event featuring Post... The post Post Malone, HARDY Set to Headline Sal",
+      "company": "Post Malone HARDY Set",
+      "link": "https://www.ticketnews.com/2026/05/post-malone-hardy-headline-salute-250-concert/",
+      "date": "May 29, 26",
+      "source": "Ticket News",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
       "id": "2fce8710524e",
       "title": "Bruce Springsteen, Foo Fighters, Dave Matthews to Headline \u2018Power to the People\u2019 Festival",
       "summary": "Tom Morello has announced the inaugural \u201cPower to the People\u201d festival, a one-day event featuring performances from Bruce Springsteen, Foo... The post Bruce Springsteen, Foo Fighters, Dave Matthews to",
@@ -214,21 +214,6 @@
       "score": 13,
       "moments": [
         "festival_headliner"
-      ]
-    },
-    {
-      "id": "b83837276889",
-      "title": "Dave Checketts Says Founding MLS Team Was His \u2018Worst Investment\u2019",
-      "summary": "Checketts cofounded Real Salt Lake in 2005 and sold it in 2013.",
-      "company": "Dave Checketts Says Founding MLS Team",
-      "link": "https://frontofficesports.com/dave-checketts-mls-worst-investment/",
-      "date": "May 27, 26",
-      "source": "Front Office Sports",
-      "layer": 1,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "company_launch"
       ]
     },
     {
@@ -287,21 +272,6 @@
       "layer": 4,
       "access": "pe",
       "score": 11,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "18056e4011e3",
-      "title": "Producer Jess Devaney to Lead Documentary Initiative Launched by Perspective Fund",
-      "summary": "Producer Jess Devaney has been tapped to lead Perspective Films, a documentary co-production initiative launched by Perspective Fund. The initiative will provide both funding and producing support for",
-      "company": "Producer Jess Devaney",
-      "link": "https://variety.com/2026/biz/news/jess-devaney-documentary-perspective-fund-1236759188/",
-      "date": "May 27, 26",
-      "source": "Variety Biz",
-      "layer": 4,
-      "access": "pe",
-      "score": 9,
       "moments": [
         "company_launch"
       ]
@@ -367,14 +337,29 @@
       ]
     },
     {
-      "id": "61d8f7240537",
-      "title": "Lululemon Adds Former On, ESPN Execs to Board to Resolve Founder Fight",
-      "summary": "Chip Wilson in December called for a board shake-up.",
-      "company": "Lululemon Adds Former On ESPN Execs",
-      "link": "https://frontofficesports.com/lululemon-adds-former-on-espn-execs-to-board-to-resolve-founder-fight/",
-      "date": "May 27, 26",
-      "source": "Front Office Sports",
+      "id": "5e5df73023dc",
+      "title": "How Custom-Made Instruments Were the Key to \u2018The Simpsons: Treehouse of Horror\u2019 and \u2018Prehistoric Planet\u2019 Scores",
+      "summary": "Custom-made instruments are the key to scoring for composers An\u017ee Rozman, Kara Talve and musician Russell Emanuel. Emanuel is a co-founder of the composer collective Bleeding Fingers Music along with ",
+      "company": "How Custom-Made Instruments Were",
+      "link": "https://variety.com/2026/artisans/news/simpsons-treehouse-of-horror-prehistoric-planet-scores-1236762081/",
+      "date": "May 29, 26",
+      "source": "Variety Music",
       "layer": 3,
+      "access": "pe",
+      "score": 8,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "accf452a776f",
+      "title": "50 Years of Skateboarding at London\u2019s Southbank Undercroft",
+      "summary": "Skateboarders make pilgrimages from around the world to a \u201cfound\u201d London space that a grass-roots campaign saved from redevelopment.",
+      "company": "Years",
+      "link": "https://www.nytimes.com/2026/05/30/arts/london-southbank-undercroft-skate-park.html",
+      "date": "May 30, 26",
+      "source": "NYT Arts",
+      "layer": 2,
       "access": "pe",
       "score": 6,
       "moments": [
@@ -410,45 +395,6 @@
       "moments": []
     },
     {
-      "id": "6983f947341e",
-      "title": "Biden files lawsuit in bid to block DOJ audio interview release",
-      "summary": "Former President Biden is suing the U.S. Department of Justice in an attempt to block the release of audio recordings and transcripts of private conversations with \u200chis biographer.Why it matters: The ",
-      "company": "Biden",
-      "link": "https://www.axios.com/2026/05/27/biden-lawsuit-doj-release-audio-recordings-block-attempt",
-      "date": "May 27, 26",
-      "source": "Axios",
-      "layer": 3,
-      "access": "pe",
-      "score": 11,
-      "moments": []
-    },
-    {
-      "id": "568ff6c638de",
-      "title": "StubHub Launches \u2018World Cup Cuts\u2019 Barbershop Pop-Up Campaign",
-      "summary": "StubHub is bringing World Cup fever from the stadium to the barbershop. The live event marketplace announced \u201cWorld Cup Cuts,\u201d... The post StubHub Launches \u2018World Cup Cuts\u2019 Barbershop Pop-Up Campaign ",
-      "company": "StubHub Launches \u2018World Cup Cuts\u2019 Barbershop",
-      "link": "https://www.ticketnews.com/2026/05/stubhub-launches-world-cup-cuts-barbershop-campaign/",
-      "date": "May 28, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 11,
-      "moments": []
-    },
-    {
-      "id": "716d3698155e",
-      "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
-      "summary": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adop",
-      "company": "Payroll",
-      "link": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
-      "date": "May 27, 26",
-      "source": "TechCrunch Startups",
-      "layer": 2,
-      "access": "venture",
-      "score": 10,
-      "moments": []
-    },
-    {
       "id": "d5ab954e4aab",
       "title": "Maximize Every Square Foot: Using Digital Authority to Win High-Value Venue Bookings",
       "summary": "Source: ChatGPT Event organizers often struggle to secure premium venue bookings even when their content or services are strong. Limited visibility, unclear reputation, and weak online authority can r",
@@ -475,6 +421,32 @@
       "moments": []
     },
     {
+      "id": "a3590bdb6bf1",
+      "title": "Gracie Abrams sets four-night Kia Forum homecoming for Look at My Life tour",
+      "summary": "Gracie Abrams is hitting arenas worldwide with her 64-date Look at My Life tour, including four homecoming nights in December at Inglewood's Kia Forum.",
+      "company": "Gracie Abrams",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-05-28/gracie-abrams-tour-look-at-my-life-l-a-concerts-kia-forum",
+      "date": "May 28, 26",
+      "source": "LA Times Music",
+      "layer": 2,
+      "access": "pe",
+      "score": 8,
+      "moments": []
+    },
+    {
+      "id": "b3fbc5d97975",
+      "title": "Fontana Candle Co. Announces Major U.S. Manufacturing Expansion Scheduled for This Fall",
+      "summary": "The company is expected to scale production to 24,000 candles per day, positioning itself as the largest 100% natural candle manufacturer in the nation. LANCASTER, Pa., May 30, 2026 /PRNewswire/ -- Fo",
+      "company": "Fontana Candle Co Announces Major U.S",
+      "link": "https://www.prnewswire.com/news-releases/fontana-candle-co-announces-major-us-manufacturing-expansion-scheduled-for-this-fall-302786073.html",
+      "date": "May 30, 26",
+      "source": "PR Newswire",
+      "layer": 4,
+      "access": "pe",
+      "score": 7,
+      "moments": []
+    },
+    {
       "id": "18cf59e02c64",
       "title": "Fox Creator Studios Sets Content Production Deal With Comedian Tom Segura\u2019s YMH Studios",
       "summary": "Fox Creator Studios has set a production pact with comedian Tom Segura\u2019s YMH Studios for a slate of projects designed to be released on his existing digital and direct-to-consumer channels. The deal c",
@@ -485,6 +457,32 @@
       "layer": 4,
       "access": "pe",
       "score": 5,
+      "moments": []
+    },
+    {
+      "id": "2dde9de2c3e3",
+      "title": "Kuss climbs to Giro d\u2019Italia stage 19 win as Vingegaard maintains overall lead",
+      "summary": "Kuss completes grand tour stage win trilogyVingegaard stays 4min 3sec clear of Gall in the GCTeammates Sepp Kuss and Jonas Vingegaard dominated the high mountains for Visma-Lease a Bike on Friday as t",
+      "company": "Kuss",
+      "link": "https://www.theguardian.com/sport/2026/may/29/cycling-sepp-kuss-giro-ditalia-stage-19-jonas-vingegaard",
+      "date": "May 29, 26",
+      "source": "Guardian Sport",
+      "layer": 4,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "1237aefc9792",
+      "title": "\u2018Spider-Noir\u2019 Review: Your Friendly Neighborhood Nicolas Cage",
+      "summary": "An often unbridled actor gets to play a mutant in a mash-up of superheroes and film noir on Amazon Prime Video.",
+      "company": "",
+      "link": "https://www.nytimes.com/2026/05/30/arts/television/spider-noir-review.html",
+      "date": "May 30, 26",
+      "source": "NYT Arts",
+      "layer": 3,
+      "access": "pe",
+      "score": 4,
       "moments": []
     },
     {
