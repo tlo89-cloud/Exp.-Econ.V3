@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-30T13:49:35.781741+00:00",
-  "total": 35,
+  "generated": "2026-05-31T13:55:32.032893+00:00",
+  "total": 34,
   "scraped": [
     {
       "id": "142d9c55a74c",
@@ -67,6 +67,21 @@
       ]
     },
     {
+      "id": "689606a29bcc",
+      "title": "Kanye West and Travis Scott Concerts Banned in Italy",
+      "summary": "Italian authorities have banned upcoming concerts by Kanye West and Travis Scott that had been scheduled to take place in July in the northern city of Reggio Emilia, citing security concerns. West, no",
+      "company": "Kanye West",
+      "link": "https://variety.com/2026/music/global/kanye-west-travis-scott-concerts-banned-italy-1236763296/",
+      "date": "May 31, 26",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 27,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
       "id": "0d77dc9a312f",
       "title": "Add to playlist: the virtuoso prog-metal-folk of Brazil\u2019s Papangu and the week\u2019s best new tracks",
       "summary": "The five-piece combine traditional musical styles with mountains of synths and hurried drums \u2013 rejecting computerised production in a pointed anti-AI statementFrom Jo\u00e3o Pessoa, BrazilRecommended if yo",
@@ -79,21 +94,6 @@
       "score": 22,
       "moments": [
         "album_announcement"
-      ]
-    },
-    {
-      "id": "7cc8f00455c8",
-      "title": "Austrian man jailed for 15 years for plotting attack on Taylor Swift concert in Vienna",
-      "summary": "An Austrian court convicts Beran A, 21, over plan to attack fans outside stadium in 2024An Austrian man who admitted planning a foiled attack on a Taylor Swift concert in Vienna has been sentenced to ",
-      "company": "Austrian",
-      "link": "https://www.theguardian.com/music/2026/may/28/austrian-man-beran-a-admitted-plotting-attack-taylor-swift-vienna-concert-says-sorry",
-      "date": "May 28, 26",
-      "source": "Guardian Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "company_launch"
       ]
     },
     {
@@ -112,21 +112,6 @@
       ]
     },
     {
-      "id": "d3df209832c7",
-      "title": "MLB\u2019s Marlins Sell Ownership Stake at $1.55 Billion Valuation",
-      "summary": "The Miami Marlins quietly sold a minority stake in the club this spring to help pay down debt. The deal for about 15% of the team was at a valuation of $1.55 billion, according to two people familiar ",
-      "company": "MLB\u2019s Marlins Sell Ownership Stake",
-      "link": "https://www.sportico.com/business/team-sales/2026/miami-marlins-ownership-stake-value-1234901684/",
-      "date": "May 29, 26",
-      "source": "Sportico",
-      "layer": 1,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "valuation"
-      ]
-    },
-    {
       "id": "d67a9882525a",
       "title": "ClickHouse triples annualized revenue to $250M, charting a path toward an IPO",
       "summary": "The database provider is eyeing a public debut within the next few years.",
@@ -142,6 +127,21 @@
       ]
     },
     {
+      "id": "b035fb98063a",
+      "title": "Charli XCX and George Daniel hold surprise intimate \u2018In Conversation\u2019 fan event and DJ afterparty in London",
+      "summary": "She debuted snippets of unreleased songs from her upcoming new album and played older, fan favourite tracks The post Charli XCX and George Daniel hold surprise intimate &#8216;In Conversation&#8217; f",
+      "company": "Charli XCX",
+      "link": "https://www.nme.com/news/music/charli-xcx-and-george-daniel-hold-surprise-intimate-in-conversation-fan-event-and-dj-afterparty-in-london-3948381?utm_source=rss&utm_medium=rss&utm_campaign=charli-xcx-and-george-daniel-hold-surprise-intimate-in-conversation-fan-event-and-dj-afterparty-in-london",
+      "date": "May 31, 26",
+      "source": "NME",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
       "id": "014b93132d20",
       "title": "Kraftwerk review \u2013 after more than half a century of techno supremacy, they still sound like the future",
       "summary": "Waterfront Hall, BelfastRalf H\u00fctter and his bandmates show how profound their influence has been on huge swathes of popular music \u2013 and they give a tender tribute to the late Ryuichi SakamotoForty-fiv",
@@ -151,21 +151,6 @@
       "source": "Guardian Music",
       "layer": 1,
       "access": "pe",
-      "score": 14,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "a404c57a6ade",
-      "title": "How VCs and founders use inflated \u2018ARR\u2019 to crown AI startups",
-      "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
-      "company": "How VCs",
-      "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
-      "date": "May 22, 26",
-      "source": "TechCrunch Venture",
-      "layer": 1,
-      "access": "venture",
       "score": 14,
       "moments": [
         "company_launch"
@@ -202,16 +187,31 @@
       ]
     },
     {
-      "id": "957c329baded",
-      "title": "Bonnaroo, Governors Ball and 7 More Summer Music Festivals Not to Miss",
-      "summary": "Can\u2019t get to Lollapalooza or Outside Lands this year? Want to see Lizzo play flute with the Chicago Symphony Orchestra? Here are some options.",
-      "company": "Bonnaroo Governors Ball",
-      "link": "https://www.nytimes.com/2026/05/24/arts/music/summer-music-festivals-bonnaroo-gov-ball-cma-fest.html",
-      "date": "May 24, 26",
-      "source": "NYT Music",
+      "id": "9a50d8c72546",
+      "title": "Frankie Valli Cancels Remaining 2026 Tour Dates to \u2018Focus on My Health\u2019",
+      "summary": "Frankie Valli &#38; The Four Seasons have called off their Last Encores concert dates that were scheduled from June through November.",
+      "company": "Frankie Valli Cancels Remaining",
+      "link": "https://www.billboard.com/music/music-news/frankie-valli-cancels-2026-tour-dates-1236260867/",
+      "date": "May 31, 26",
+      "source": "Billboard",
       "layer": 1,
       "access": "pe",
-      "score": 13,
+      "score": 12,
+      "moments": [
+        "tour_announcement"
+      ]
+    },
+    {
+      "id": "0d0d8a637cb4",
+      "title": "Jay-Z Brings New York Flair to Philadelphia for Triumphant Roots Picnic Performance Featuring Jazmine Sullivan, Bilal and Meek Mill: Concert Review",
+      "summary": "As it turned out, Jay-Z had been quietly setting the stage over the past few months for what we could expect during his headlining show at the Roots Picnic in Philadelphia. On streaming, he&#8217;d ch",
+      "company": "Jay-Z Brings New York Flair",
+      "link": "https://variety.com/2026/music/concert-reviews/jay-z-roots-picnic-philadelphia-concert-review-1236763295/",
+      "date": "May 31, 26",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
       "moments": [
         "festival_headliner"
       ]
@@ -337,21 +337,6 @@
       ]
     },
     {
-      "id": "5e5df73023dc",
-      "title": "How Custom-Made Instruments Were the Key to \u2018The Simpsons: Treehouse of Horror\u2019 and \u2018Prehistoric Planet\u2019 Scores",
-      "summary": "Custom-made instruments are the key to scoring for composers An\u017ee Rozman, Kara Talve and musician Russell Emanuel. Emanuel is a co-founder of the composer collective Bleeding Fingers Music along with ",
-      "company": "How Custom-Made Instruments Were",
-      "link": "https://variety.com/2026/artisans/news/simpsons-treehouse-of-horror-prehistoric-planet-scores-1236762081/",
-      "date": "May 29, 26",
-      "source": "Variety Music",
-      "layer": 3,
-      "access": "pe",
-      "score": 8,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
       "id": "accf452a776f",
       "title": "50 Years of Skateboarding at London\u2019s Southbank Undercroft",
       "summary": "Skateboarders make pilgrimages from around the world to a \u201cfound\u201d London space that a grass-roots campaign saved from redevelopment.",
@@ -395,6 +380,19 @@
       "moments": []
     },
     {
+      "id": "eb39b9a53350",
+      "title": "Q&A: As costs rise, AD Jennifer Cohen says USC is well-positioned amid college sports chaos",
+      "summary": "In the new era of revenue sharing, particularly because of NIL rights, student athletes have benefitted. USC's athletic director explains why.",
+      "company": "Q&A",
+      "link": "https://www.latimes.com/sports/usc/story/2026-05-31/as-costs-rise-ad-jennifer-cohen-says-usc-is-well-positioned",
+      "date": "May 31, 26",
+      "source": "LA Times Sports",
+      "layer": 2,
+      "access": "pe",
+      "score": 10,
+      "moments": []
+    },
+    {
       "id": "d5ab954e4aab",
       "title": "Maximize Every Square Foot: Using Digital Authority to Win High-Value Venue Bookings",
       "summary": "Source: ChatGPT Event organizers often struggle to secure premium venue bookings even when their content or services are strong. Limited visibility, unclear reputation, and weak online authority can r",
@@ -421,32 +419,6 @@
       "moments": []
     },
     {
-      "id": "a3590bdb6bf1",
-      "title": "Gracie Abrams sets four-night Kia Forum homecoming for Look at My Life tour",
-      "summary": "Gracie Abrams is hitting arenas worldwide with her 64-date Look at My Life tour, including four homecoming nights in December at Inglewood's Kia Forum.",
-      "company": "Gracie Abrams",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-05-28/gracie-abrams-tour-look-at-my-life-l-a-concerts-kia-forum",
-      "date": "May 28, 26",
-      "source": "LA Times Music",
-      "layer": 2,
-      "access": "pe",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "b3fbc5d97975",
-      "title": "Fontana Candle Co. Announces Major U.S. Manufacturing Expansion Scheduled for This Fall",
-      "summary": "The company is expected to scale production to 24,000 candles per day, positioning itself as the largest 100% natural candle manufacturer in the nation. LANCASTER, Pa., May 30, 2026 /PRNewswire/ -- Fo",
-      "company": "Fontana Candle Co Announces Major U.S",
-      "link": "https://www.prnewswire.com/news-releases/fontana-candle-co-announces-major-us-manufacturing-expansion-scheduled-for-this-fall-302786073.html",
-      "date": "May 30, 26",
-      "source": "PR Newswire",
-      "layer": 4,
-      "access": "pe",
-      "score": 7,
-      "moments": []
-    },
-    {
       "id": "18cf59e02c64",
       "title": "Fox Creator Studios Sets Content Production Deal With Comedian Tom Segura\u2019s YMH Studios",
       "summary": "Fox Creator Studios has set a production pact with comedian Tom Segura\u2019s YMH Studios for a slate of projects designed to be released on his existing digital and direct-to-consumer channels. The deal c",
@@ -460,16 +432,16 @@
       "moments": []
     },
     {
-      "id": "2dde9de2c3e3",
-      "title": "Kuss climbs to Giro d\u2019Italia stage 19 win as Vingegaard maintains overall lead",
-      "summary": "Kuss completes grand tour stage win trilogyVingegaard stays 4min 3sec clear of Gall in the GCTeammates Sepp Kuss and Jonas Vingegaard dominated the high mountains for Visma-Lease a Bike on Friday as t",
-      "company": "Kuss",
-      "link": "https://www.theguardian.com/sport/2026/may/29/cycling-sepp-kuss-giro-ditalia-stage-19-jonas-vingegaard",
-      "date": "May 29, 26",
-      "source": "Guardian Sport",
+      "id": "0668d999093d",
+      "title": "Sorsby Took Part in Illegal Bets in Texas, NCAA Says",
+      "summary": "The NCAA on Friday accused Texas Tech quarterback Brendan Sorsby of placing over $90,000 in bets while playing for Indiana, Cincinnati and Texas Tech from 2022 to 2026, and of transferring money to ot",
+      "company": "Sorsby Took Part",
+      "link": "https://www.sportico.com/law/analysis/2026/brendan-sorsby-alleged-llegal-betting-ncaa-1234901911/",
+      "date": "May 31, 26",
+      "source": "Sportico",
       "layer": 4,
       "access": "pe",
-      "score": 5,
+      "score": 4,
       "moments": []
     },
     {
@@ -493,6 +465,19 @@
       "link": "https://www.altassets.net/premium/deal-roundup-siena-lending-announce-transaction-closure-american-securities-sells-mw-components.html",
       "date": "May 29, 26",
       "source": "AltAssets",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "1ba7181fb95d",
+      "title": "La 4\u00aa CISCE ampl\u00eda la participaci\u00f3n internacional y el alcance global",
+      "summary": "Australia es nombrada pa\u00eds invitado de honor por primera vez; regiones francesas e italianas debutan como provincias invitadas internacionales. BEIJING, 31 de mayo de 2026 /PRNewswire/ -- Se espera qu",
+      "company": "La",
+      "link": "https://www.prnewswire.com/news-releases/la-4-cisce-amplia-la-participacion-internacional-y-el-alcance-global-302786381.html",
+      "date": "May 31, 26",
+      "source": "PR Newswire",
       "layer": 4,
       "access": "pe",
       "score": 4,
