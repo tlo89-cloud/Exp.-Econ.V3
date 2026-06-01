@@ -1,7 +1,23 @@
 {
-  "generated": "2026-05-31T13:55:32.032893+00:00",
-  "total": 34,
+  "generated": "2026-06-01T17:51:09.304894+00:00",
+  "total": 36,
   "scraped": [
+    {
+      "id": "fbb1d7e54112",
+      "title": "Gary Clark Jr. Plots 2026 U.S. Headlining Tour",
+      "summary": "Gary Clark Jr. has announced a new round of U.S. headlining tour dates for 2026, with concerts scheduled from August... The post Gary Clark Jr. Plots 2026 U.S. Headlining Tour appeared first on Ticket",
+      "company": "Gary Clark Jr Plots",
+      "link": "https://www.ticketnews.com/2026/06/gary-clark-jr-plots-2026-u-s-headlining-tour/",
+      "date": "Jun 01, 26",
+      "source": "Ticket News",
+      "layer": 1,
+      "access": "pe",
+      "score": 21,
+      "moments": [
+        "tour_announcement",
+        "festival_headliner"
+      ]
+    },
     {
       "id": "142d9c55a74c",
       "title": "Lion Real Estate Group finalises Marble Partners Fund I",
@@ -19,19 +35,35 @@
       ]
     },
     {
-      "id": "98de5cd74764",
-      "title": "The IPO Comeback Has A Catch",
-      "summary": "The threshold for going public has steadily risen, leaving many mid-sized firms and their shareholders without viable exit opportunities, writes guest author Shawn Bercuson, founder of Earlyasset, who",
-      "company": "The IPO Comeback Has",
-      "link": "https://news.crunchbase.com/public/ipo-comeback-catch-exits-liquidity-declines-bercuson-earlyasset/",
-      "date": "May 26, 26",
-      "source": "Crunchbase News",
-      "layer": 3,
+      "id": "bf5f21e46bb5",
+      "title": "Reichmann Segal forms Metatron Private Equity",
+      "summary": "In conjunction with the launch, Metatron has acquired Green Circuits Inc., a Silicon Valley-based electronics manufacturing services provider. The post Reichmann Segal forms Metatron Private Equity ap",
+      "company": "Reichmann Segal",
+      "link": "https://www.pehub.com/reichmann-segal-forms-metatron-private-equity/",
+      "date": "Jun 01, 26",
+      "source": "PE Hub",
+      "layer": 5,
       "access": "pe",
       "score": 13,
       "moments": [
-        "ipo",
-        "company_launch"
+        "acquisition",
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "17e1d2708593",
+      "title": "NextEnergy Capital seals $974m for international solar, energy storage infrastructure deals",
+      "summary": "Solar-focused renewables manager NextEnergy Capital has raised $974m for its international strategy through the final close of its latest fund and related co-invest pots. The post NextEnergy Capital s",
+      "company": "NextEnergy Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/100208591.html",
+      "date": "Jun 01, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
@@ -67,9 +99,9 @@
       ]
     },
     {
-      "id": "689606a29bcc",
-      "title": "Kanye West and Travis Scott Concerts Banned in Italy",
-      "summary": "Italian authorities have banned upcoming concerts by Kanye West and Travis Scott that had been scheduled to take place in July in the northern city of Reggio Emilia, citing security concerns. West, no",
+      "id": "6ea6624a5ebd",
+      "title": "Kanye West and Travis Scott Concerts Canceled in Italy",
+      "summary": "Italian authorities have canceled upcoming concerts by Kanye West and Travis Scott that had been scheduled to take place in July in the northern city of Reggio Emilia, citing security concerns. West, ",
       "company": "Kanye West",
       "link": "https://variety.com/2026/music/global/kanye-west-travis-scott-concerts-banned-italy-1236763296/",
       "date": "May 31, 26",
@@ -127,13 +159,13 @@
       ]
     },
     {
-      "id": "b035fb98063a",
-      "title": "Charli XCX and George Daniel hold surprise intimate \u2018In Conversation\u2019 fan event and DJ afterparty in London",
-      "summary": "She debuted snippets of unreleased songs from her upcoming new album and played older, fan favourite tracks The post Charli XCX and George Daniel hold surprise intimate &#8216;In Conversation&#8217; f",
-      "company": "Charli XCX",
-      "link": "https://www.nme.com/news/music/charli-xcx-and-george-daniel-hold-surprise-intimate-in-conversation-fan-event-and-dj-afterparty-in-london-3948381?utm_source=rss&utm_medium=rss&utm_campaign=charli-xcx-and-george-daniel-hold-surprise-intimate-in-conversation-fan-event-and-dj-afterparty-in-london",
-      "date": "May 31, 26",
-      "source": "NME",
+      "id": "dc6edd6c0f60",
+      "title": "Charli xcx Reveals New Album \u2018Music, Fashion, Film\u2019 Will Release in July \u2014 and Martin Scorsese Is on the Cover",
+      "summary": "Charli xcx&#8217;s new era is officially upon us. The &#8220;Brat&#8221; singer revealed on Monday that her seventh studio album is titled &#8220;Music, Fashion, Film&#8221; and releases July 24. Char",
+      "company": "Charli",
+      "link": "https://variety.com/2026/music/global/charli-xcx-new-album-title-release-date-scorsese-cover-1236763859/",
+      "date": "Jun 01, 26",
+      "source": "Variety Music",
       "layer": 1,
       "access": "pe",
       "score": 14,
@@ -172,36 +204,6 @@
       ]
     },
     {
-      "id": "2fce8710524e",
-      "title": "Bruce Springsteen, Foo Fighters, Dave Matthews to Headline \u2018Power to the People\u2019 Festival",
-      "summary": "Tom Morello has announced the inaugural \u201cPower to the People\u201d festival, a one-day event featuring performances from Bruce Springsteen, Foo... The post Bruce Springsteen, Foo Fighters, Dave Matthews to",
-      "company": "Bruce Springsteen Foo Fighters Dave Matthews",
-      "link": "https://www.ticketnews.com/2026/05/bruce-springsteen-foo-fighters-dave-matthews-to-headline-power-to-the-people-festival/",
-      "date": "May 29, 26",
-      "source": "Ticket News",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "9a50d8c72546",
-      "title": "Frankie Valli Cancels Remaining 2026 Tour Dates to \u2018Focus on My Health\u2019",
-      "summary": "Frankie Valli &#38; The Four Seasons have called off their Last Encores concert dates that were scheduled from June through November.",
-      "company": "Frankie Valli Cancels Remaining",
-      "link": "https://www.billboard.com/music/music-news/frankie-valli-cancels-2026-tour-dates-1236260867/",
-      "date": "May 31, 26",
-      "source": "Billboard",
-      "layer": 1,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "tour_announcement"
-      ]
-    },
-    {
       "id": "0d0d8a637cb4",
       "title": "Jay-Z Brings New York Flair to Philadelphia for Triumphant Roots Picnic Performance Featuring Jazmine Sullivan, Bilal and Meek Mill: Concert Review",
       "summary": "As it turned out, Jay-Z had been quietly setting the stage over the past few months for what we could expect during his headlining show at the Roots Picnic in Philadelphia. On streaming, he&#8217;d ch",
@@ -217,18 +219,18 @@
       ]
     },
     {
-      "id": "9d8152491240",
-      "title": "Kinderhook\u2019s Matt Bubis reveals Enhabit consolidation plans; AEA, Bridgepoint, Kohlberg eye oncology",
-      "summary": "A deep dive into Kinderhook Industries\u2019 entry into the hospice care segment; private equity interest in the oncology sector; a look at Align Capital Partners\u2019 investment in a mobile diagnostic imaging",
-      "company": "Kinderhook\u2019s Matt Bubis",
-      "link": "https://www.pehub.com/kinderhooks-matt-bubis-reveals-enhabit-consolidation-plans-aea-bridgepoint-kohlberg-eye-oncology/",
-      "date": "May 29, 26",
-      "source": "PE Hub",
-      "layer": 5,
+      "id": "095400616f98",
+      "title": "Every Big Rock + Metal Album Released Each Day in June History",
+      "summary": "Flip / Interscope, Roadrunner, Combat Records",
+      "company": "Every Big Rock",
+      "link": "https://loudwire.com/rock-metal-albums-released-june/",
+      "date": "Jun 01, 26",
+      "source": "Loudwire",
+      "layer": 1,
       "access": "pe",
       "score": 12,
       "moments": [
-        "pe_investment"
+        "album_announcement"
       ]
     },
     {
@@ -244,6 +246,21 @@
       "score": 12,
       "moments": [
         "valuation"
+      ]
+    },
+    {
+      "id": "15c5189975b9",
+      "title": "BCI targets growth in PE fund financing amid subdued deal activity",
+      "summary": "British Columbia Investment Management Corporation is expanding its involvement in the financing of private equity funds, positioning itself to take advantage of shifting dynamics in global private ma",
+      "company": "BCI",
+      "link": "https://www.privateequitywire.co.uk/bci-targets-growth-in-pe-fund-financing-amid-subdued-deal-activity/",
+      "date": "Jun 01, 26",
+      "source": "PE Wire",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "pe_investment"
       ]
     },
     {
@@ -277,63 +294,78 @@
       ]
     },
     {
-      "id": "a0bb26659533",
-      "title": "Axum Capital invests in nutrition brand VitaHustle",
-      "summary": "VitaHustle was founded in 2022 by Kevin Hart and Ron Everline. The post Axum Capital invests in nutrition brand VitaHustle appeared first on PE Hub.",
-      "company": "Axum Capital",
-      "link": "https://www.pehub.com/axum-capital-invests-in-nutrition-brand-vitahustle/",
-      "date": "May 29, 26",
-      "source": "PE Hub",
-      "layer": 5,
+      "id": "6002fa126b7f",
+      "title": "Nvidia's new world model helps robots navigate the world",
+      "summary": "Nvidia unveiled Cosmos 3, an open AI world model designed to help robots, autonomous vehicles and other physical systems better understand and predict real-world environments.Why it matters: Nvidia is",
+      "company": "Nvidia's",
+      "link": "https://www.axios.com/2026/06/01/nvidia-ai-push-cosmos-3-world-model",
+      "date": "Jun 01, 26",
+      "source": "Axios",
+      "layer": 2,
       "access": "pe",
-      "score": 9,
+      "score": 10,
       "moments": [
         "company_launch"
       ]
     },
     {
-      "id": "b73f2b452cb1",
-      "title": "Stoneshield Capital concludes oversubscribed fund at \u20ac1.5bn hard cap",
-      "summary": "Stoneshield Capital, a leading European investment firm, has announced the final close of its Stoneshield Opportunity Fund IV at its hard cap of \u20ac1.5bn. The fund surpassed its original \u20ac1bn target and",
-      "company": "Stoneshield Capital",
-      "link": "https://www.altassets.net/market-news/stoneshield-capital-concludes-oversubscribed-fund-at-e1-5bn-hard-cap.html",
-      "date": "May 28, 26",
-      "source": "AltAssets",
-      "layer": 5,
+      "id": "79e06e995098",
+      "title": "Bears $5B Domed Stadium Plan Hits Make-or-Break Day in Illinois",
+      "summary": "Political negotiations are going down to the final hours in Illinois.",
+      "company": "Bears",
+      "link": "https://frontofficesports.com/bears-5b-domed-stadium-plan-hits-make-or-break-day-in-illinois/",
+      "date": "May 31, 26",
+      "source": "Front Office Sports",
+      "layer": 2,
       "access": "pe",
       "score": 9,
       "moments": [
-        "fund_launch"
+        "venue_announcement"
       ]
     },
     {
-      "id": "a3f9021df5de",
-      "title": "Deal Roundup: CVC sells Naturgy stake worth about \u20ac4bn, Arsenal Capital buys into Velcro",
-      "summary": "CVC Capital Partners has sold its 13.8% stake in Spanish energy company Naturgy, worth about \u20ac4bn at current market prices. The post Deal Roundup: CVC sells Naturgy stake worth about \u20ac4bn, Arsenal Cap",
-      "company": "Deal Roundup",
-      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-cvc-sells-naturgy-stake-worth-about-e4bn-arsenal-capital-buys-into-velcro.html",
-      "date": "May 27, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "6b3413098efa",
-      "title": "Green Day Side Project Pinhead Gunpowder Reveals North American Tour Dates",
-      "summary": "Green Day\u2019s side project, Pinhead Gunpowder, revealed a round of fall 2026 tour dates. Th 12-date run kicks-off at Minneapolis\u2019... The post Green Day Side Project Pinhead Gunpowder Reveals North Ameri",
-      "company": "Green Day Side Project Pinhead Gunpowder",
-      "link": "https://www.ticketnews.com/2026/05/green-day-side-project-pinhead-gunpowder-tour-dates/",
-      "date": "May 29, 26",
-      "source": "Ticket News",
+      "id": "21393a5fcedf",
+      "title": "Graham Coxon announces extra 2026 UK tour dates",
+      "summary": "The new run of shows will see the Blur guitarist hit Edinburgh, Manchester, Bristol and Brighton later this year The post Graham Coxon announces extra 2026 UK tour dates appeared first on NME.",
+      "company": "Graham Coxon",
+      "link": "https://www.nme.com/news/music/graham-coxon-announces-extra-2026-uk-tour-dates-buy-tickets-3948638?utm_source=rss&utm_medium=rss&utm_campaign=graham-coxon-announces-extra-2026-uk-tour-dates-buy-tickets",
+      "date": "Jun 01, 26",
+      "source": "NME",
       "layer": 5,
       "access": "pe",
       "score": 9,
       "moments": [
         "tour_announcement"
+      ]
+    },
+    {
+      "id": "4a8bcae2609a",
+      "title": "Sixteen people arrested and 75 rescued from height during Arsenal bus parade",
+      "summary": "Fans estimated at hundreds of thousands fill north London streets to celebrate women\u2019s and men\u2019s teams\u2019 triumphsAbout 75 people had to be rescued from height and 16 people were arrested during Arsenal",
+      "company": "Sixteen",
+      "link": "https://www.theguardian.com/football/2026/may/31/people-arrested-and-rescued-from-height-during-arsenal-bus-parade",
+      "date": "May 31, 26",
+      "source": "Guardian Sport",
+      "layer": 2,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "de1fb93ce802",
+      "title": "26North Re to acquire Independent Life Insurance Group",
+      "summary": "The acquisition marks 26North Re's entry into the US insurance market and establishes its first onshore platform. The post 26North Re to acquire Independent Life Insurance Group appeared first on PE H",
+      "company": "Re",
+      "link": "https://www.pehub.com/26north-re-to-acquire-independent-life-insurance-group/",
+      "date": "Jun 01, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
       ]
     },
     {
@@ -380,42 +412,29 @@
       "moments": []
     },
     {
-      "id": "eb39b9a53350",
-      "title": "Q&A: As costs rise, AD Jennifer Cohen says USC is well-positioned amid college sports chaos",
-      "summary": "In the new era of revenue sharing, particularly because of NIL rights, student athletes have benefitted. USC's athletic director explains why.",
-      "company": "Q&A",
-      "link": "https://www.latimes.com/sports/usc/story/2026-05-31/as-costs-rise-ad-jennifer-cohen-says-usc-is-well-positioned",
-      "date": "May 31, 26",
-      "source": "LA Times Sports",
-      "layer": 2,
+      "id": "b14e6fcba422",
+      "title": "Live Nation Invests in Greek Promoter as Concert Demand Continues to Grow",
+      "summary": "Live Nation has expanded its presence in Greece through an investment in Athens-based High Priority Promotions (HPP), as new research... The post Live Nation Invests in Greek Promoter as Concert Deman",
+      "company": "Live Nation Invests",
+      "link": "https://www.ticketnews.com/2026/06/live-nation-invests-in-greek-promoter-as-concert-demand-continues-to-grow/",
+      "date": "Jun 01, 26",
+      "source": "Ticket News",
+      "layer": 3,
       "access": "pe",
-      "score": 10,
+      "score": 14,
       "moments": []
     },
     {
-      "id": "d5ab954e4aab",
-      "title": "Maximize Every Square Foot: Using Digital Authority to Win High-Value Venue Bookings",
-      "summary": "Source: ChatGPT Event organizers often struggle to secure premium venue bookings even when their content or services are strong. Limited visibility, unclear reputation, and weak online authority can r",
-      "company": "Maximize Every Square Foot",
-      "link": "https://venuestoday.com/maximize-every-square-foot-using-digital-authority-to-win-high-value-venue-bookings/?utm_source=rss&utm_medium=rss&utm_campaign=maximize-every-square-foot-using-digital-authority-to-win-high-value-venue-bookings",
-      "date": "Mar 04, 26",
-      "source": "Venues Today",
-      "layer": 2,
+      "id": "4274df3583c8",
+      "title": "\u2018Cape Fear\u2019 and 7 More Shows to Watch on TV This Week",
+      "summary": "A new Apple TV series premieres, and the 79th Tony Awards ceremony will be broadcast live.",
+      "company": "\u2018Cape Fear\u2019",
+      "link": "https://www.nytimes.com/2026/06/01/arts/television/cape-fear-tv-this-week.html",
+      "date": "Jun 01, 26",
+      "source": "NYT Arts",
+      "layer": 3,
       "access": "pe",
-      "score": 10,
-      "moments": []
-    },
-    {
-      "id": "3ac57b9333a7",
-      "title": "The $400 Million Showdown Between a Billionaire and a California Mayor",
-      "summary": "The owner of the Los Angeles Rams and the City of Inglewood are in a dispute over Hollywood Park and SoFi Stadium, which is about to host World Cup matches.",
-      "company": "The",
-      "link": "https://www.nytimes.com/2026/05/27/arts/music/inglewood-hollywood-park-sofi-stadium.html",
-      "date": "May 27, 26",
-      "source": "NYT Music",
-      "layer": 2,
-      "access": "pe",
-      "score": 8,
+      "score": 7,
       "moments": []
     },
     {
@@ -427,6 +446,19 @@
       "date": "May 28, 26",
       "source": "Variety Biz",
       "layer": 4,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "0b0a63443d4c",
+      "title": "USMNT 3-2 Senegal: Christian Pulisic leads to US to pre-World Cup win \u2013 as it happened",
+      "summary": "\u26bd Christian Pulisic ends goal drought in co-hosts\u2019 victory\u26bd Sadio Man\u00e9 scores twice to lead Senegal fightback\u26bd Read Pablo Iglesias Maurer\u2019s match report from CharlotteBased on the broadcast countdown,",
+      "company": "USMNT 3-2 Senegal",
+      "link": "https://www.theguardian.com/football/live/2026/may/31/usmnt-v-senegal-live-updates-analysis-lineups",
+      "date": "May 31, 26",
+      "source": "Guardian Sport",
+      "layer": 3,
       "access": "pe",
       "score": 5,
       "moments": []
@@ -471,19 +503,6 @@
       "moments": []
     },
     {
-      "id": "1ba7181fb95d",
-      "title": "La 4\u00aa CISCE ampl\u00eda la participaci\u00f3n internacional y el alcance global",
-      "summary": "Australia es nombrada pa\u00eds invitado de honor por primera vez; regiones francesas e italianas debutan como provincias invitadas internacionales. BEIJING, 31 de mayo de 2026 /PRNewswire/ -- Se espera qu",
-      "company": "La",
-      "link": "https://www.prnewswire.com/news-releases/la-4-cisce-amplia-la-participacion-internacional-y-el-alcance-global-302786381.html",
-      "date": "May 31, 26",
-      "source": "PR Newswire",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
       "id": "177f7a618fbf",
       "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
       "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
@@ -492,6 +511,19 @@
       "date": "May 09, 26",
       "source": "Venues Today",
       "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "fe100e46ada1",
+      "title": "Live Nation, Dale Play Team Up to Boost Spanish-Language Music in Argentina",
+      "summary": "Live Nation is turning up the volume in Argentina. Live Nation Entertainment and Dale Play have announced a new strategic... The post Live Nation, Dale Play Team Up to Boost Spanish-Language Music in ",
+      "company": "Live Nation Dale Play Team Up",
+      "link": "https://www.ticketnews.com/2026/06/live-nation-dale-play-team-up-boost-spanish-language-music/",
+      "date": "Jun 01, 26",
+      "source": "Ticket News",
+      "layer": 3,
       "access": "pe",
       "score": 4,
       "moments": []
