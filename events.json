@@ -1,18 +1,53 @@
 {
-  "generated": "2026-06-01T17:51:09.304894+00:00",
-  "total": 36,
+  "generated": "2026-06-02T16:42:35.254396+00:00",
+  "total": 33,
   "scraped": [
     {
-      "id": "fbb1d7e54112",
-      "title": "Gary Clark Jr. Plots 2026 U.S. Headlining Tour",
-      "summary": "Gary Clark Jr. has announced a new round of U.S. headlining tour dates for 2026, with concerts scheduled from August... The post Gary Clark Jr. Plots 2026 U.S. Headlining Tour appeared first on Ticket",
-      "company": "Gary Clark Jr Plots",
-      "link": "https://www.ticketnews.com/2026/06/gary-clark-jr-plots-2026-u-s-headlining-tour/",
-      "date": "Jun 01, 26",
-      "source": "Ticket News",
-      "layer": 1,
+      "id": "b8f462940840",
+      "title": "Ex-Meta CTO Mike Schroepfer raises $250m targeting deeptech startups \u2018rebuilding the physical economy\u2019",
+      "summary": "Gigascale Capital, the venture capital house founded by former Meta CTO Mike Schroepfer, has sealed a $250m final close for its debut institutional fund. The post Ex-Meta CTO Mike Schroepfer raises $2",
+      "company": "Ex-Meta CTO Mike Schroepfer",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/ex-meta-cto-mike-schroepfer-raises-250m-targeting-startups-rebuilding-the-physical-economy.html",
+      "date": "Jun 02, 26",
+      "source": "AltAssets",
+      "layer": 2,
       "access": "pe",
-      "score": 21,
+      "score": 29,
+      "moments": [
+        "funding_round",
+        "pe_investment",
+        "fund_launch",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "3823be9dbefe",
+      "title": "Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year",
+      "summary": "In a wild ride for 22-year-old founder and CEO Ethan Thornton, Mach Industries has raised another $300 million. It already has five autonomous vehicles in development and completed a major acquisition",
+      "company": "Defense",
+      "link": "https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/",
+      "date": "Jun 01, 26",
+      "source": "TechCrunch Startups",
+      "layer": 2,
+      "access": "pe",
+      "score": 20,
+      "moments": [
+        "acquisition",
+        "valuation",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "dd297234c999",
+      "title": "Quicksand, Bane Reveal 2026 Co-Headlining Tour Dates",
+      "summary": "Hardcore groups Quicksand and Bane are heading out on a summer tour across North America. The tour kicks-off in Norfolk,... The post Quicksand, Bane Reveal 2026 Co-Headlining Tour Dates appeared first",
+      "company": "Quicksand Bane Reveal",
+      "link": "https://www.ticketnews.com/2026/06/quicksand-bane-reveal-2026-co-headlining-tour-dates/",
+      "date": "Jun 02, 26",
+      "source": "Ticket News",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
       "moments": [
         "tour_announcement",
         "festival_headliner"
@@ -51,6 +86,22 @@
       ]
     },
     {
+      "id": "bc7ecea52588",
+      "title": "Blackstone smashes third Asia fund target to reach $13.1bn hard cap close",
+      "summary": "Blackstone has soared past its target for its latest mammoth Asia fundraise to reach a $13.1bn hard cap final close. The post Blackstone smashes third Asia fund target to reach $13.1bn hard cap close ",
+      "company": "Blackstone",
+      "link": "https://www.altassets.net/private-equity-news/by-region/asia-by-region/100208606.html",
+      "date": "Jun 02, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
       "id": "17e1d2708593",
       "title": "NextEnergy Capital seals $974m for international solar, energy storage infrastructure deals",
       "summary": "Solar-focused renewables manager NextEnergy Capital has raised $974m for its international strategy through the final close of its latest fund and related co-invest pots. The post NextEnergy Capital s",
@@ -64,22 +115,6 @@
       "moments": [
         "pe_investment",
         "fund_launch"
-      ]
-    },
-    {
-      "id": "fbe603e75ae6",
-      "title": "AHL Venture Partners confirms first close of fund at $30.5m",
-      "summary": "AHL Venture Partners has announced its initial close of its AHL Africa Credit Fund at $30.5m. Since 2007, AHL Venture Partners has advised the AHL Charitable Foundation on investments in African busin",
-      "company": "AHL Venture Partners confirms first",
-      "link": "https://www.altassets.net/market-news/ahl-venture-partners-confirms-first-close-of-fund-at-30-5m.html",
-      "date": "May 28, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "venture",
-      "score": 13,
-      "moments": [
-        "fund_launch",
-        "company_launch"
       ]
     },
     {
@@ -99,33 +134,33 @@
       ]
     },
     {
-      "id": "6ea6624a5ebd",
-      "title": "Kanye West and Travis Scott Concerts Canceled in Italy",
-      "summary": "Italian authorities have canceled upcoming concerts by Kanye West and Travis Scott that had been scheduled to take place in July in the northern city of Reggio Emilia, citing security concerns. West, ",
-      "company": "Kanye West",
-      "link": "https://variety.com/2026/music/global/kanye-west-travis-scott-concerts-banned-italy-1236763296/",
-      "date": "May 31, 26",
-      "source": "Variety Music",
+      "id": "5e841d9ca768",
+      "title": "Keznamdi Unveils U.S. Dates for Blxxd & Fyah Tour; Teases New Album: \u2018We\u2019re Going to Raise the Bar\u2019",
+      "summary": "The Grammy winner is gearing up to play the biggest stateside venues of his career.",
+      "company": "Keznamdi Unveils U.S Dates",
+      "link": "https://www.billboard.com/music/music-news/keznamdi-blxxd-fyah-tour-dates-new-album-tease-1236262108/",
+      "date": "Jun 02, 26",
+      "source": "Billboard",
       "layer": 1,
       "access": "pe",
-      "score": 27,
+      "score": 17,
       "moments": [
-        "festival_headliner"
+        "album_announcement"
       ]
     },
     {
-      "id": "0d77dc9a312f",
-      "title": "Add to playlist: the virtuoso prog-metal-folk of Brazil\u2019s Papangu and the week\u2019s best new tracks",
-      "summary": "The five-piece combine traditional musical styles with mountains of synths and hurried drums \u2013 rejecting computerised production in a pointed anti-AI statementFrom Jo\u00e3o Pessoa, BrazilRecommended if yo",
-      "company": "Add to playlist",
-      "link": "https://www.theguardian.com/music/2026/may/22/add-to-playlist-the-virtuoso-prog-metal-folk-of-brazils-papangu-and-the-weeks-best-new-tracks",
-      "date": "May 22, 26",
-      "source": "Guardian Music",
+      "id": "770a98b65129",
+      "title": "Goose Expands 2026 Schedule With New Fall Tour Dates Across North America",
+      "summary": "Goose has announced a new slate of fall tour dates as the band prepares to release its sixth studio album,... The post Goose Expands 2026 Schedule With New Fall Tour Dates Across North America appeare",
+      "company": "Goose Expands",
+      "link": "https://www.ticketnews.com/2026/06/goose-expands-2026-schedule-with-new-fall-tour-dates-across-north-america/",
+      "date": "Jun 02, 26",
+      "source": "Ticket News",
       "layer": 1,
       "access": "pe",
-      "score": 22,
+      "score": 17,
       "moments": [
-        "album_announcement"
+        "tour_announcement"
       ]
     },
     {
@@ -144,6 +179,21 @@
       ]
     },
     {
+      "id": "f7bd3076eaa3",
+      "title": "How Death Cab for Cutie Used the Past to Lock Back In: \u2018We\u2019re Not F-cking Around\u2019",
+      "summary": "Ben Gibbard and Dave Depper describe how the band\u2019s anniversary tour and return to an indie label helped shape their new album I Built You a Tower",
+      "company": "How Death Cab",
+      "link": "https://www.rollingstone.com/music/music-features/death-cab-for-cutie-new-album-i-built-you-a-tower-interview-1235559276/",
+      "date": "Jun 02, 26",
+      "source": "Rolling Stone Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
       "id": "d67a9882525a",
       "title": "ClickHouse triples annualized revenue to $250M, charting a path toward an IPO",
       "summary": "The database provider is eyeing a public debut within the next few years.",
@@ -151,6 +201,21 @@
       "link": "https://techcrunch.com/2026/05/27/clickhouse-triples-annualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
       "date": "May 27, 26",
       "source": "TechCrunch Venture",
+      "layer": 2,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "ipo"
+      ]
+    },
+    {
+      "id": "a216eba4d9d0",
+      "title": "Anthropic faces AI spending backlash before IPO",
+      "summary": "Anthropic filed paperwork to go public just as corporate America is entering its AI sticker shock phase.Why it matters: Companies are Anthropic's biggest customers. If they dial down their AI spend, t",
+      "company": "Anthropic",
+      "link": "https://www.axios.com/2026/06/02/anthropic-ipo-ai-sticker-shock-spending-usage",
+      "date": "Jun 02, 26",
+      "source": "Axios",
       "layer": 2,
       "access": "pe",
       "score": 15,
@@ -189,12 +254,12 @@
       ]
     },
     {
-      "id": "1508ed4bc8fc",
-      "title": "Post Malone, HARDY Set to Headline Salute 250 Concert in Columbus",
-      "summary": "America\u2019s 250th birthday celebration is getting a major soundtrack. Breakaway has announced Salute 250, a one-night-only concert event featuring Post... The post Post Malone, HARDY Set to Headline Sal",
-      "company": "Post Malone HARDY Set",
-      "link": "https://www.ticketnews.com/2026/05/post-malone-hardy-headline-salute-250-concert/",
-      "date": "May 29, 26",
+      "id": "d094ca20cb0d",
+      "title": "Trump to Headline Freedom 250 Festival After Half of the Musical Acts Drop Off Lineup",
+      "summary": "The Donald Trump-backed Freedom 250 festival lineup has dwindled down to a mere three acts, so to save the day,... The post Trump to Headline Freedom 250 Festival After Half of the Musical Acts Drop O",
+      "company": "Trump",
+      "link": "https://www.ticketnews.com/2026/06/trump-headline-freedom-250-festival-acts-drop-off-lineup/",
+      "date": "Jun 01, 26",
       "source": "Ticket News",
       "layer": 1,
       "access": "pe",
@@ -204,13 +269,28 @@
       ]
     },
     {
-      "id": "0d0d8a637cb4",
-      "title": "Jay-Z Brings New York Flair to Philadelphia for Triumphant Roots Picnic Performance Featuring Jazmine Sullivan, Bilal and Meek Mill: Concert Review",
-      "summary": "As it turned out, Jay-Z had been quietly setting the stage over the past few months for what we could expect during his headlining show at the Roots Picnic in Philadelphia. On streaming, he&#8217;d ch",
-      "company": "Jay-Z Brings New York Flair",
-      "link": "https://variety.com/2026/music/concert-reviews/jay-z-roots-picnic-philadelphia-concert-review-1236763295/",
-      "date": "May 31, 26",
-      "source": "Variety Music",
+      "id": "54a671c842e9",
+      "title": "\u201cWho the fuck is John Summit?\u201d Artist responds ahead of headlining Lollapalooza",
+      "summary": "\u201cI thought I was doing pretty well\u2019, but I still have a lot of heads to turn\u201d The post &#8220;Who the fuck is John Summit?&#8221; Artist responds ahead of headlining Lollapalooza appeared first on NME",
+      "company": "\u201cWho",
+      "link": "https://www.nme.com/news/music/who-the-fuck-is-john-summit-artist-responds-ahead-of-headlining-lollapalooza-3948828?utm_source=rss&utm_medium=rss&utm_campaign=who-the-fuck-is-john-summit-artist-responds-ahead-of-headlining-lollapalooza",
+      "date": "Jun 02, 26",
+      "source": "NME",
+      "layer": 1,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "787e4cf79177",
+      "title": "BTS to Take Over Las Vegas (Again) as iHeartRadio Festival Headliners",
+      "summary": "Cardi B, Lainey Wilson, Benson Boone, Zara Larsson, and more will also perform at the two-day event in September",
+      "company": "BTS",
+      "link": "https://www.rollingstone.com/music/music-news/bts-cardi-b-iheartradio-festival-2026-lineup-1235571090/",
+      "date": "Jun 02, 26",
+      "source": "Rolling Stone Music",
       "layer": 1,
       "access": "pe",
       "score": 12,
@@ -219,43 +299,43 @@
       ]
     },
     {
-      "id": "095400616f98",
-      "title": "Every Big Rock + Metal Album Released Each Day in June History",
-      "summary": "Flip / Interscope, Roadrunner, Combat Records",
-      "company": "Every Big Rock",
-      "link": "https://loudwire.com/rock-metal-albums-released-june/",
-      "date": "Jun 01, 26",
-      "source": "Loudwire",
-      "layer": 1,
+      "id": "edfc68c42321",
+      "title": "Static Dress announce 2026 UK and European tour",
+      "summary": "The Leeds band and recent NME Cover stars are playing the biggest headline shows of their career to date The post Static Dress announce 2026 UK and European tour appeared first on NME.",
+      "company": "Static Dress",
+      "link": "https://www.nme.com/news/music/static-dress-announce-2026-uk-and-european-tour-3948810?utm_source=rss&utm_medium=rss&utm_campaign=static-dress-announce-2026-uk-and-european-tour",
+      "date": "Jun 02, 26",
+      "source": "NME",
+      "layer": 5,
       "access": "pe",
       "score": 12,
       "moments": [
-        "album_announcement"
+        "festival_headliner"
       ]
     },
     {
-      "id": "c0c57f6850b3",
-      "title": "Anthropic overtakes OpenAI as the most valuable AI startup",
-      "summary": "Anthropic raised $65 billion in a Series H funding round, valuing the AI lab at $965 billion post-money, in one of the largest private funding rounds in tech history.Why it matters: With the round, An",
-      "company": "Anthropic",
-      "link": "https://www.axios.com/2026/05/28/anthropic-ai-fundraising-openai",
-      "date": "May 28, 26",
-      "source": "Axios",
+      "id": "e54c84790325",
+      "title": "Carlyle\u2019s Ian Fujiyama details mid-market ADG strategy; JMI Equity\u2019s Chase Thomet talks SewerAI investment",
+      "summary": "Drilling down on why Carlyle is creating a mid-market focused strategy, with insights from Ian Fujiyama, a managing director and the head of ADG services at the firm; Chase Thomet, a partner at JMI Eq",
+      "company": "Carlyle\u2019s Ian Fujiyama",
+      "link": "https://www.pehub.com/carlyles-ian-fujiyama-details-mid-market-adg-strategy-jmi-equitys-chase-thomet-talks-sewerai-investment/",
+      "date": "Jun 02, 26",
+      "source": "PE Hub",
       "layer": 5,
-      "access": "venture",
+      "access": "pe",
       "score": 12,
       "moments": [
-        "valuation"
+        "acquisition"
       ]
     },
     {
-      "id": "15c5189975b9",
-      "title": "BCI targets growth in PE fund financing amid subdued deal activity",
-      "summary": "British Columbia Investment Management Corporation is expanding its involvement in the financing of private equity funds, positioning itself to take advantage of shifting dynamics in global private ma",
-      "company": "BCI",
-      "link": "https://www.privateequitywire.co.uk/bci-targets-growth-in-pe-fund-financing-amid-subdued-deal-activity/",
-      "date": "Jun 01, 26",
-      "source": "PE Wire",
+      "id": "f7d7c7fe2d99",
+      "title": "EQT eyes \u20ac21bn for latest mammoth infrastructure fund",
+      "summary": "Global alternative investment major EQT has set a \u20ac21bn target for its seventh flagship infrastructure vehicle. The post EQT eyes \u20ac21bn for latest mammoth infrastructure fund appeared first on AltAsse",
+      "company": "EQT",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/sweden-western-europe-europe-by-region/eqt-eyes-e21bn-for-latest-mammoth-infrastructure-fund.html",
+      "date": "Jun 02, 26",
+      "source": "AltAssets",
       "layer": 5,
       "access": "pe",
       "score": 12,
@@ -264,12 +344,12 @@
       ]
     },
     {
-      "id": "852315391aa4",
-      "title": "CPP Investments sells portfolio of 33 fund interests to Blackstone, Ardian",
-      "summary": "The C$780.7bn-managing Canada Pension Plan Investment Board has completed the sale of a diversified portfolio of 33 LP fund interests to Blackstone Strategic Partners and Ardian. The post CPP Investme",
-      "company": "CPP Investments",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/canada-north-america-by-region/100208557.html",
-      "date": "May 27, 26",
+      "id": "8d1d1aa36f76",
+      "title": "Tikehau Capital promotes long-serving exec Guillaume Arnaud to deputy CEO of Tikehau Investment Management",
+      "summary": "The \u20ac53bn asset manager Tikehau Capital has named Guillaume Arnaud as head of France and deputy CEO of Tikehau Investment Management. The post Tikehau Capital promotes long-serving exec Guillaume Arna",
+      "company": "Tikehau Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/france-western-europe-europe-by-region/100208602.html",
+      "date": "Jun 02, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -309,81 +389,6 @@
       ]
     },
     {
-      "id": "79e06e995098",
-      "title": "Bears $5B Domed Stadium Plan Hits Make-or-Break Day in Illinois",
-      "summary": "Political negotiations are going down to the final hours in Illinois.",
-      "company": "Bears",
-      "link": "https://frontofficesports.com/bears-5b-domed-stadium-plan-hits-make-or-break-day-in-illinois/",
-      "date": "May 31, 26",
-      "source": "Front Office Sports",
-      "layer": 2,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "venue_announcement"
-      ]
-    },
-    {
-      "id": "21393a5fcedf",
-      "title": "Graham Coxon announces extra 2026 UK tour dates",
-      "summary": "The new run of shows will see the Blur guitarist hit Edinburgh, Manchester, Bristol and Brighton later this year The post Graham Coxon announces extra 2026 UK tour dates appeared first on NME.",
-      "company": "Graham Coxon",
-      "link": "https://www.nme.com/news/music/graham-coxon-announces-extra-2026-uk-tour-dates-buy-tickets-3948638?utm_source=rss&utm_medium=rss&utm_campaign=graham-coxon-announces-extra-2026-uk-tour-dates-buy-tickets",
-      "date": "Jun 01, 26",
-      "source": "NME",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "tour_announcement"
-      ]
-    },
-    {
-      "id": "4a8bcae2609a",
-      "title": "Sixteen people arrested and 75 rescued from height during Arsenal bus parade",
-      "summary": "Fans estimated at hundreds of thousands fill north London streets to celebrate women\u2019s and men\u2019s teams\u2019 triumphsAbout 75 people had to be rescued from height and 16 people were arrested during Arsenal",
-      "company": "Sixteen",
-      "link": "https://www.theguardian.com/football/2026/may/31/people-arrested-and-rescued-from-height-during-arsenal-bus-parade",
-      "date": "May 31, 26",
-      "source": "Guardian Sport",
-      "layer": 2,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "de1fb93ce802",
-      "title": "26North Re to acquire Independent Life Insurance Group",
-      "summary": "The acquisition marks 26North Re's entry into the US insurance market and establishes its first onshore platform. The post 26North Re to acquire Independent Life Insurance Group appeared first on PE H",
-      "company": "Re",
-      "link": "https://www.pehub.com/26north-re-to-acquire-independent-life-insurance-group/",
-      "date": "Jun 01, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "accf452a776f",
-      "title": "50 Years of Skateboarding at London\u2019s Southbank Undercroft",
-      "summary": "Skateboarders make pilgrimages from around the world to a \u201cfound\u201d London space that a grass-roots campaign saved from redevelopment.",
-      "company": "Years",
-      "link": "https://www.nytimes.com/2026/05/30/arts/london-southbank-undercroft-skate-park.html",
-      "date": "May 30, 26",
-      "source": "NYT Arts",
-      "layer": 2,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
       "id": "493fd25ac40c",
       "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
       "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
@@ -399,29 +404,16 @@
       ]
     },
     {
-      "id": "53bb80726fd1",
-      "title": "DOJ probe targets Reid Hoffman nonprofit tied to E. Jean Carroll case",
-      "summary": "The Department of Justice is investigating the nonprofit of billionaire Reid Hoffman, which made contributions that were partially used for E. Jean Carroll's legal expenses during her civil lawsuit ag",
-      "company": "DOJ",
-      "link": "https://www.axios.com/2026/05/28/doj-e-jean-carroll-funding-reid-hoffman-review",
-      "date": "May 28, 26",
-      "source": "Axios",
+      "id": "b49acf6d53fc",
+      "title": "Live Nation Breakup, Katy Perry Mansion Lawsuit, J. Cole-Cam\u2019ron Case & More Music Law News",
+      "summary": "In this week's Legal Beat newsletter, experts weigh a Ticketmaster split, Katy Perry gets $3M revenge, Cole and Cam settle their fight and much more.",
+      "company": "Live Nation Breakup Katy Perry Mansion",
+      "link": "https://www.billboard.com/pro/legal-beat-live-nation-breakup-katy-perry-mansion-lawsuit/",
+      "date": "Jun 02, 26",
+      "source": "Billboard",
       "layer": 3,
       "access": "pe",
-      "score": 14,
-      "moments": []
-    },
-    {
-      "id": "b14e6fcba422",
-      "title": "Live Nation Invests in Greek Promoter as Concert Demand Continues to Grow",
-      "summary": "Live Nation has expanded its presence in Greece through an investment in Athens-based High Priority Promotions (HPP), as new research... The post Live Nation Invests in Greek Promoter as Concert Deman",
-      "company": "Live Nation Invests",
-      "link": "https://www.ticketnews.com/2026/06/live-nation-invests-in-greek-promoter-as-concert-demand-continues-to-grow/",
-      "date": "Jun 01, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 14,
+      "score": 7,
       "moments": []
     },
     {
@@ -438,42 +430,16 @@
       "moments": []
     },
     {
-      "id": "18cf59e02c64",
-      "title": "Fox Creator Studios Sets Content Production Deal With Comedian Tom Segura\u2019s YMH Studios",
-      "summary": "Fox Creator Studios has set a production pact with comedian Tom Segura\u2019s YMH Studios for a slate of projects designed to be released on his existing digital and direct-to-consumer channels. The deal c",
-      "company": "Fox Creator Studios Sets Content Production",
-      "link": "https://variety.com/2026/biz/news/tom-segura-ymh-studios-fox-creator-studios-deal-billy-parks-1236759616/",
-      "date": "May 28, 26",
-      "source": "Variety Biz",
-      "layer": 4,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "0b0a63443d4c",
-      "title": "USMNT 3-2 Senegal: Christian Pulisic leads to US to pre-World Cup win \u2013 as it happened",
-      "summary": "\u26bd Christian Pulisic ends goal drought in co-hosts\u2019 victory\u26bd Sadio Man\u00e9 scores twice to lead Senegal fightback\u26bd Read Pablo Iglesias Maurer\u2019s match report from CharlotteBased on the broadcast countdown,",
-      "company": "USMNT 3-2 Senegal",
-      "link": "https://www.theguardian.com/football/live/2026/may/31/usmnt-v-senegal-live-updates-analysis-lineups",
-      "date": "May 31, 26",
-      "source": "Guardian Sport",
+      "id": "7bcfdc2a69e8",
+      "title": "Proposed Portland Music Hall Moves Forward Without Live Nation Partnership",
+      "summary": "Live Nation is no longer attached to the proposed Portland Music Hall, marking a major shift for one of Maine\u2019s... The post Proposed Portland Music Hall Moves Forward Without Live Nation Partnership a",
+      "company": "Proposed Portland Music Hall Moves Forward",
+      "link": "https://www.ticketnews.com/2026/06/proposed-portland-music-hall-moves-forward-without-live-nation-partnership/",
+      "date": "Jun 01, 26",
+      "source": "Ticket News",
       "layer": 3,
       "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "0668d999093d",
-      "title": "Sorsby Took Part in Illegal Bets in Texas, NCAA Says",
-      "summary": "The NCAA on Friday accused Texas Tech quarterback Brendan Sorsby of placing over $90,000 in bets while playing for Indiana, Cincinnati and Texas Tech from 2022 to 2026, and of transferring money to ot",
-      "company": "Sorsby Took Part",
-      "link": "https://www.sportico.com/law/analysis/2026/brendan-sorsby-alleged-llegal-betting-ncaa-1234901911/",
-      "date": "May 31, 26",
-      "source": "Sportico",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
+      "score": 7,
       "moments": []
     },
     {
@@ -482,7 +448,7 @@
       "summary": "An often unbridled actor gets to play a mutant in a mash-up of superheroes and film noir on Amazon Prime Video.",
       "company": "",
       "link": "https://www.nytimes.com/2026/05/30/arts/television/spider-noir-review.html",
-      "date": "May 30, 26",
+      "date": "Jun 02, 26",
       "source": "NYT Arts",
       "layer": 3,
       "access": "pe",
