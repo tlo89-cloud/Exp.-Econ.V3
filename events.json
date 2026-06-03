@@ -1,25 +1,7 @@
 {
-  "generated": "2026-06-02T16:42:35.254396+00:00",
-  "total": 33,
+  "generated": "2026-06-03T16:59:38.032050+00:00",
+  "total": 29,
   "scraped": [
-    {
-      "id": "b8f462940840",
-      "title": "Ex-Meta CTO Mike Schroepfer raises $250m targeting deeptech startups \u2018rebuilding the physical economy\u2019",
-      "summary": "Gigascale Capital, the venture capital house founded by former Meta CTO Mike Schroepfer, has sealed a $250m final close for its debut institutional fund. The post Ex-Meta CTO Mike Schroepfer raises $2",
-      "company": "Ex-Meta CTO Mike Schroepfer",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/ex-meta-cto-mike-schroepfer-raises-250m-targeting-startups-rebuilding-the-physical-economy.html",
-      "date": "Jun 02, 26",
-      "source": "AltAssets",
-      "layer": 2,
-      "access": "pe",
-      "score": 29,
-      "moments": [
-        "funding_round",
-        "pe_investment",
-        "fund_launch",
-        "company_launch"
-      ]
-    },
     {
       "id": "3823be9dbefe",
       "title": "Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year",
@@ -38,51 +20,83 @@
       ]
     },
     {
-      "id": "dd297234c999",
-      "title": "Quicksand, Bane Reveal 2026 Co-Headlining Tour Dates",
-      "summary": "Hardcore groups Quicksand and Bane are heading out on a summer tour across North America. The tour kicks-off in Norfolk,... The post Quicksand, Bane Reveal 2026 Co-Headlining Tour Dates appeared first",
-      "company": "Quicksand Bane Reveal",
-      "link": "https://www.ticketnews.com/2026/06/quicksand-bane-reveal-2026-co-headlining-tour-dates/",
-      "date": "Jun 02, 26",
-      "source": "Ticket News",
+      "id": "c35bf4be53c2",
+      "title": "JC Flowers completes acquisition of Monte dei Paschi\u2019s French banking unit",
+      "summary": "Private equity firm JC Flowers has finalised its acquisition of the French subsidiary of Italy\u2019s Monte dei Paschi di Siena, marking the completion of a long-planned divestment as the bank continues it",
+      "company": "JC Flowers",
+      "link": "https://www.privateequitywire.co.uk/jc-flowers-completes-acquisition-of-monte-dei-paschis-french-banking-unit/",
+      "date": "Jun 03, 26",
+      "source": "PE Wire",
       "layer": 5,
       "access": "pe",
       "score": 16,
       "moments": [
-        "tour_announcement",
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "142d9c55a74c",
-      "title": "Lion Real Estate Group finalises Marble Partners Fund I",
-      "summary": "Lion Real Estate Group has closed its first institutional fund with a 1.9X multiple to investors. Launched in 2017, LREG\u2019s Marble Partners Fund I raised $35m and leveraged co-investment equity to $200",
-      "company": "Lion Real Estate Group",
-      "link": "https://www.altassets.net/private-equity-news/lion-real-estate-group-finalises-marble-partners-fund-i.html",
-      "date": "May 29, 26",
-      "source": "AltAssets",
-      "layer": 2,
-      "access": "pe",
-      "score": 15,
-      "moments": [
         "acquisition",
-        "fund_launch"
+        "pe_investment"
       ]
     },
     {
-      "id": "bf5f21e46bb5",
-      "title": "Reichmann Segal forms Metatron Private Equity",
-      "summary": "In conjunction with the launch, Metatron has acquired Green Circuits Inc., a Silicon Valley-based electronics manufacturing services provider. The post Reichmann Segal forms Metatron Private Equity ap",
-      "company": "Reichmann Segal",
-      "link": "https://www.pehub.com/reichmann-segal-forms-metatron-private-equity/",
-      "date": "Jun 01, 26",
-      "source": "PE Hub",
+      "id": "60424aacf3b4",
+      "title": "Ex-Anduril engineer raises $42M to build the Amazon of composite parts",
+      "summary": "Layup Parts co-founder Zack Eakin has drawn on a motorsports background, and his experience working for Palmer Luckey and Elon Musk, to tackle making faster, cheaper, and better composites.",
+      "company": "Ex-Anduril engineer",
+      "link": "https://techcrunch.com/2026/06/02/ex-anduril-engineer-raises-42m-to-build-the-amazon-of-composite-parts/",
+      "date": "Jun 02, 26",
+      "source": "TechCrunch Startups",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "funding_round",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "f4788d13be53",
+      "title": "Deal Roundup: JC Flowers buys Monte Paschi Banque, Praesidian Capital exits Green Circuits",
+      "summary": "JC Flowers &#038; Co has acquired lender Monte Paschi Banque - formerly the French subsidiary of Monte dei Paschi di Siena. The post Deal Roundup: JC Flowers buys Monte Paschi Banque, Praesidian Capit",
+      "company": "Deal Roundup",
+      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-jc-flowers-buys-monte-paschi-banque-praesidian-capital-exits-green-circuits.html",
+      "date": "Jun 03, 26",
+      "source": "AltAssets",
       "layer": 5,
       "access": "pe",
       "score": 13,
       "moments": [
         "acquisition",
         "pe_investment"
+      ]
+    },
+    {
+      "id": "e1b1a9370d14",
+      "title": "AnaCap strikes \u20ac320m final close for oversubscribed buyout fundraise",
+      "summary": "Financial services-focused private equity investor AnaCap has closed its oversubscribed second dedicated buyout fund on more than \u20ac320m. The post AnaCap strikes \u20ac320m final close for oversubscribed bu",
+      "company": "AnaCap",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/100208641.html",
+      "date": "Jun 03, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "bc77842771c8",
+      "title": "Eurazeo beats target for latest European direct lending raise, reaches \u20ac3.9bn close",
+      "summary": "Eurazeo has raised \u20ac3.9bn at the final close of its latest direct lending fund, well above its initial \u20ac3bn target. The post Eurazeo beats target for latest European direct lending raise, reaches \u20ac3.9",
+      "company": "Eurazeo",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/france-western-europe-europe-by-region/100208635.html",
+      "date": "Jun 03, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
@@ -102,95 +116,33 @@
       ]
     },
     {
-      "id": "17e1d2708593",
-      "title": "NextEnergy Capital seals $974m for international solar, energy storage infrastructure deals",
-      "summary": "Solar-focused renewables manager NextEnergy Capital has raised $974m for its international strategy through the final close of its latest fund and related co-invest pots. The post NextEnergy Capital s",
-      "company": "NextEnergy Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/100208591.html",
-      "date": "Jun 01, 26",
+      "id": "bf63cc495a08",
+      "title": "Version One continues global expansion amid rise of AI, closes $108m double fundraise",
+      "summary": "Canadian pre-seed and seed investor Version One has raised $108m across a pair of new funds as it continues expanding its global investment capabilities. The post Version One continues global expansio",
+      "company": "Version One",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/canada-north-america-by-region/100208624.html",
+      "date": "Jun 03, 26",
       "source": "AltAssets",
-      "layer": 5,
+      "layer": 1,
       "access": "pe",
-      "score": 13,
+      "score": 20,
       "moments": [
-        "pe_investment",
-        "fund_launch"
+        "pe_investment"
       ]
     },
     {
-      "id": "8810db8e8600",
-      "title": "Alexis Smith of The Feminine Glow Emerges at the Center of the Feminine Energy Coaching Boom",
-      "summary": "DUBAI, UAE &#8211; &#160;The Feminine Glow, the fast-growing femininity and inner work platform founded by Alexis Smith, is gaining national attention as interest in coaching, self-development, and fe",
-      "company": "Alexis Smith",
-      "link": "https://venuestoday.com/alexis-smith-of-the-feminine-glow-emerges-at-the-center-of-the-feminine-energy-coaching-boom/?utm_source=rss&utm_medium=rss&utm_campaign=alexis-smith-of-the-feminine-glow-emerges-at-the-center-of-the-feminine-energy-coaching-boom",
-      "date": "Mar 29, 26",
-      "source": "Venues Today",
-      "layer": 2,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "acquisition",
-        "company_launch"
-      ]
-    },
-    {
-      "id": "5e841d9ca768",
-      "title": "Keznamdi Unveils U.S. Dates for Blxxd & Fyah Tour; Teases New Album: \u2018We\u2019re Going to Raise the Bar\u2019",
-      "summary": "The Grammy winner is gearing up to play the biggest stateside venues of his career.",
-      "company": "Keznamdi Unveils U.S Dates",
-      "link": "https://www.billboard.com/music/music-news/keznamdi-blxxd-fyah-tour-dates-new-album-tease-1236262108/",
-      "date": "Jun 02, 26",
-      "source": "Billboard",
+      "id": "6d3b89658e6c",
+      "title": "WOMAD Glasgow 2026 cancelled over low ticket sales after year off",
+      "summary": "The Glasgow edition was set to take place next month, and would be the first Scottish edition of the festival founded by Peter Gabriel The post WOMAD Glasgow 2026 cancelled over low ticket sales after",
+      "company": "WOMAD Glasgow",
+      "link": "https://www.nme.com/news/music/womad-glasgow-2026-cancelled-over-low-ticket-sales-after-year-off-3948981?utm_source=rss&utm_medium=rss&utm_campaign=womad-glasgow-2026-cancelled-over-low-ticket-sales-after-year-off",
+      "date": "Jun 03, 26",
+      "source": "NME",
       "layer": 1,
       "access": "pe",
       "score": 17,
       "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "770a98b65129",
-      "title": "Goose Expands 2026 Schedule With New Fall Tour Dates Across North America",
-      "summary": "Goose has announced a new slate of fall tour dates as the band prepares to release its sixth studio album,... The post Goose Expands 2026 Schedule With New Fall Tour Dates Across North America appeare",
-      "company": "Goose Expands",
-      "link": "https://www.ticketnews.com/2026/06/goose-expands-2026-schedule-with-new-fall-tour-dates-across-north-america/",
-      "date": "Jun 02, 26",
-      "source": "Ticket News",
-      "layer": 1,
-      "access": "pe",
-      "score": 17,
-      "moments": [
-        "tour_announcement"
-      ]
-    },
-    {
-      "id": "7a468132ba18",
-      "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
-      "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
-      "company": "Kiro Eid Built",
-      "link": "https://venuestoday.com/kiro-eid-built-8x6-design-studio-here-is-how-he-did-it-without-a-network-or-shortcuts/?utm_source=rss&utm_medium=rss&utm_campaign=kiro-eid-built-8x6-design-studio-here-is-how-he-did-it-without-a-network-or-shortcuts",
-      "date": "Mar 28, 26",
-      "source": "Venues Today",
-      "layer": 2,
-      "access": "pe",
-      "score": 16,
-      "moments": [
         "company_launch"
-      ]
-    },
-    {
-      "id": "f7bd3076eaa3",
-      "title": "How Death Cab for Cutie Used the Past to Lock Back In: \u2018We\u2019re Not F-cking Around\u2019",
-      "summary": "Ben Gibbard and Dave Depper describe how the band\u2019s anniversary tour and return to an indie label helped shape their new album I Built You a Tower",
-      "company": "How Death Cab",
-      "link": "https://www.rollingstone.com/music/music-features/death-cab-for-cutie-new-album-i-built-you-a-tower-interview-1235559276/",
-      "date": "Jun 02, 26",
-      "source": "Rolling Stone Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "album_announcement"
       ]
     },
     {
@@ -224,13 +176,13 @@
       ]
     },
     {
-      "id": "dc6edd6c0f60",
-      "title": "Charli xcx Reveals New Album \u2018Music, Fashion, Film\u2019 Will Release in July \u2014 and Martin Scorsese Is on the Cover",
-      "summary": "Charli xcx&#8217;s new era is officially upon us. The &#8220;Brat&#8221; singer revealed on Monday that her seventh studio album is titled &#8220;Music, Fashion, Film&#8221; and releases July 24. Char",
-      "company": "Charli",
-      "link": "https://variety.com/2026/music/global/charli-xcx-new-album-title-release-date-scorsese-cover-1236763859/",
-      "date": "Jun 01, 26",
-      "source": "Variety Music",
+      "id": "79e035d47421",
+      "title": "Taylor Swift Shows Love for Paul McCartney\u2019s New Album: \u2018Never Not Inspired\u2019",
+      "summary": "The former Beatle released his first album in six years, The Boys of Dungeon Lane, in May",
+      "company": "Taylor Swift Shows Love",
+      "link": "https://www.rollingstone.com/music/music-news/taylor-swift-paul-mccartney-the-boys-of-dungeon-lane-1235571508/",
+      "date": "Jun 03, 26",
+      "source": "Rolling Stone Music",
       "layer": 1,
       "access": "pe",
       "score": 14,
@@ -254,43 +206,28 @@
       ]
     },
     {
-      "id": "d094ca20cb0d",
-      "title": "Trump to Headline Freedom 250 Festival After Half of the Musical Acts Drop Off Lineup",
-      "summary": "The Donald Trump-backed Freedom 250 festival lineup has dwindled down to a mere three acts, so to save the day,... The post Trump to Headline Freedom 250 Festival After Half of the Musical Acts Drop O",
-      "company": "Trump",
-      "link": "https://www.ticketnews.com/2026/06/trump-headline-freedom-250-festival-acts-drop-off-lineup/",
+      "id": "095400616f98",
+      "title": "Every Big Rock + Metal Album Released Each Day in June History",
+      "summary": "Flip / Interscope, Roadrunner, Combat Records",
+      "company": "Every Big Rock",
+      "link": "https://loudwire.com/rock-metal-albums-released-june/",
       "date": "Jun 01, 26",
-      "source": "Ticket News",
+      "source": "Loudwire",
       "layer": 1,
       "access": "pe",
-      "score": 14,
+      "score": 12,
       "moments": [
-        "festival_headliner"
+        "album_announcement"
       ]
     },
     {
-      "id": "54a671c842e9",
-      "title": "\u201cWho the fuck is John Summit?\u201d Artist responds ahead of headlining Lollapalooza",
-      "summary": "\u201cI thought I was doing pretty well\u2019, but I still have a lot of heads to turn\u201d The post &#8220;Who the fuck is John Summit?&#8221; Artist responds ahead of headlining Lollapalooza appeared first on NME",
-      "company": "\u201cWho",
-      "link": "https://www.nme.com/news/music/who-the-fuck-is-john-summit-artist-responds-ahead-of-headlining-lollapalooza-3948828?utm_source=rss&utm_medium=rss&utm_campaign=who-the-fuck-is-john-summit-artist-responds-ahead-of-headlining-lollapalooza",
+      "id": "09d6cb023144",
+      "title": "Late Night Updates America on the Lineup for Its 250th Birthday Bash",
+      "summary": "\u201cInstead of music, the entertainment will be an 80-year-old man yelling about windmills,\u201d Jimmy Kimmel said after President Trump said he would headline a summer concert series.",
+      "company": "Late Night Updates America",
+      "link": "https://www.nytimes.com/2026/06/02/arts/television/late-night-trump-freedom-250-concerts.html",
       "date": "Jun 02, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "787e4cf79177",
-      "title": "BTS to Take Over Las Vegas (Again) as iHeartRadio Festival Headliners",
-      "summary": "Cardi B, Lainey Wilson, Benson Boone, Zara Larsson, and more will also perform at the two-day event in September",
-      "company": "BTS",
-      "link": "https://www.rollingstone.com/music/music-news/bts-cardi-b-iheartradio-festival-2026-lineup-1235571090/",
-      "date": "Jun 02, 26",
-      "source": "Rolling Stone Music",
+      "source": "NYT Arts",
       "layer": 1,
       "access": "pe",
       "score": 12,
@@ -299,33 +236,18 @@
       ]
     },
     {
-      "id": "edfc68c42321",
-      "title": "Static Dress announce 2026 UK and European tour",
-      "summary": "The Leeds band and recent NME Cover stars are playing the biggest headline shows of their career to date The post Static Dress announce 2026 UK and European tour appeared first on NME.",
-      "company": "Static Dress",
-      "link": "https://www.nme.com/news/music/static-dress-announce-2026-uk-and-european-tour-3948810?utm_source=rss&utm_medium=rss&utm_campaign=static-dress-announce-2026-uk-and-european-tour",
-      "date": "Jun 02, 26",
-      "source": "NME",
-      "layer": 5,
+      "id": "c46732bf9d23",
+      "title": "Tribeca Festival 25th Anniversary: An Interview With Robert De Niro, Jane Rosenthal, Rebecca Glashow",
+      "summary": "Robert De Niro and Jane Rosenthal, who founded the event, and Rebecca Glashow, the new leader of Tribeca Enterprises, reflected on the festival\u2019s legacy and ambitions.",
+      "company": "Tribeca Festival 25th Anniversary",
+      "link": "https://www.nytimes.com/2026/06/01/movies/tribeca-festival-25-deniro-rosenthal-glashow.html",
+      "date": "Jun 01, 26",
+      "source": "NYT Arts",
+      "layer": 1,
       "access": "pe",
       "score": 12,
       "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "e54c84790325",
-      "title": "Carlyle\u2019s Ian Fujiyama details mid-market ADG strategy; JMI Equity\u2019s Chase Thomet talks SewerAI investment",
-      "summary": "Drilling down on why Carlyle is creating a mid-market focused strategy, with insights from Ian Fujiyama, a managing director and the head of ADG services at the firm; Chase Thomet, a partner at JMI Eq",
-      "company": "Carlyle\u2019s Ian Fujiyama",
-      "link": "https://www.pehub.com/carlyles-ian-fujiyama-details-mid-market-adg-strategy-jmi-equitys-chase-thomet-talks-sewerai-investment/",
-      "date": "Jun 02, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "acquisition"
+        "company_launch"
       ]
     },
     {
@@ -359,6 +281,36 @@
       ]
     },
     {
+      "id": "ce2e4b84f753",
+      "title": "Stars Latest Dallas Team Trading Downtown for Sports-Centered District",
+      "summary": "Both the Stars and Mavericks are seeking to build new arenas.",
+      "company": "Stars Latest Dallas Team Trading Downtown",
+      "link": "https://frontofficesports.com/stars-latest-dallas-team-trading-downtown-for-sports-centered-district/",
+      "date": "Jun 03, 26",
+      "source": "Front Office Sports",
+      "layer": 2,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "venue_announcement"
+      ]
+    },
+    {
+      "id": "c8d3955d2d7a",
+      "title": "Ellie Goulding announces new album \u2018I Know Too Much\u2019",
+      "summary": "The single 'Black Prada Dress' is due to arrive later this week The post Ellie Goulding announces new album &#8216;I Know Too Much&#8217; appeared first on NME.",
+      "company": "Ellie Goulding",
+      "link": "https://www.nme.com/news/music/ellie-goulding-announces-new-album-i-know-too-much-3949021?utm_source=rss&utm_medium=rss&utm_campaign=ellie-goulding-announces-new-album-i-know-too-much",
+      "date": "Jun 03, 26",
+      "source": "NME",
+      "layer": 1,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
       "id": "00af166f62e2",
       "title": "After 30 years, young crowds still line up for punishment at L.A.'s harshest nightclub, Das Bunker",
       "summary": "It's impossible to imagine Los Angeles' electronic scene without Das Bunker, founded in 1996 to champion brutalist club music.",
@@ -389,106 +341,97 @@
       ]
     },
     {
-      "id": "493fd25ac40c",
-      "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
-      "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
-      "company": "Navigating",
-      "link": "https://venuestoday.com/navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026/?utm_source=rss&utm_medium=rss&utm_campaign=navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026",
-      "date": "Apr 22, 26",
-      "source": "Venues Today",
+      "id": "4a700804396d",
+      "title": "How \u2018Pluribus,\u2019 \u2018Murderbot\u2019 and \u2018Spider-Noir\u2019 Composers Found Innovative Ways to Score Emmy-Contending Shows",
+      "summary": "Composers working in longform TV continue to find fascinating and original ways to convey the essence of character and nuances of emotion over multiple hours of storytelling. This season&#8217;s stand",
+      "company": "How \u2018Pluribus,\u2019 \u2018Murderbot\u2019",
+      "link": "https://variety.com/2026/artisans/news/murderbot-spider-noir-pluribus-composers-emmys-1236761902/",
+      "date": "Jun 02, 26",
+      "source": "Variety Music",
+      "layer": 3,
+      "access": "pe",
+      "score": 8,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "3e4c7748cd51",
+      "title": "Will.i.am, Pitbull, Slash and More Join \u2018Mi Familia: Sen Dog and the American Dream\u2019 Doc About Cypress Hill\u2019s Senen Reyes (EXCLUSIVE)",
+      "summary": "Production is underway on the new documentary \u201cMi Familia: Sen Dog and the American Dream,\u201d which chronicles the life and career of Cypress Hill co-founder, Senen \u201cSen Dog\u201d Reyes. According to an offi",
+      "company": "Will.i.am Pitbull Slash",
+      "link": "https://variety.com/2026/film/news/sen-dog-cypress-hill-documentary-mi-famillia-1236764652/",
+      "date": "Jun 02, 26",
+      "source": "Variety Music",
+      "layer": 4,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "b4965c7e6b0c",
+      "title": "What\u2019s Next Now That Live Nation Has Been Found to Act as a Monopoly",
+      "summary": "The music industry may be significantly changed by the judicial rulings to come, but there is still a lot of lawyering left to do.",
+      "company": "What\u2019s Next Now That Live Nation",
+      "link": "https://www.nytimes.com/2026/06/03/arts/music/whats-next-now-that-live-nation-has-been-found-to-act-as-a-monopoly.html",
+      "date": "Jun 03, 26",
+      "source": "NYT Arts",
       "layer": 3,
       "access": "pe",
       "score": 6,
       "moments": [
-        "acquisition"
+        "company_launch"
       ]
     },
     {
-      "id": "b49acf6d53fc",
-      "title": "Live Nation Breakup, Katy Perry Mansion Lawsuit, J. Cole-Cam\u2019ron Case & More Music Law News",
-      "summary": "In this week's Legal Beat newsletter, experts weigh a Ticketmaster split, Katy Perry gets $3M revenge, Cole and Cam settle their fight and much more.",
-      "company": "Live Nation Breakup Katy Perry Mansion",
-      "link": "https://www.billboard.com/pro/legal-beat-live-nation-breakup-katy-perry-mansion-lawsuit/",
-      "date": "Jun 02, 26",
-      "source": "Billboard",
-      "layer": 3,
+      "id": "eb39b9a53350",
+      "title": "Q&A: As costs rise, AD Jennifer Cohen says USC is well-positioned amid college sports chaos",
+      "summary": "In the new era of revenue sharing, particularly because of NIL rights, student athletes have benefitted. USC's athletic director explains why.",
+      "company": "Q&A",
+      "link": "https://www.latimes.com/sports/usc/story/2026-05-31/as-costs-rise-ad-jennifer-cohen-says-usc-is-well-positioned",
+      "date": "May 31, 26",
+      "source": "LA Times Sports",
+      "layer": 2,
       "access": "pe",
-      "score": 7,
+      "score": 10,
       "moments": []
     },
     {
-      "id": "4274df3583c8",
-      "title": "\u2018Cape Fear\u2019 and 7 More Shows to Watch on TV This Week",
-      "summary": "A new Apple TV series premieres, and the 79th Tony Awards ceremony will be broadcast live.",
-      "company": "\u2018Cape Fear\u2019",
-      "link": "https://www.nytimes.com/2026/06/01/arts/television/cape-fear-tv-this-week.html",
-      "date": "Jun 01, 26",
-      "source": "NYT Arts",
-      "layer": 3,
-      "access": "pe",
-      "score": 7,
-      "moments": []
-    },
-    {
-      "id": "7bcfdc2a69e8",
-      "title": "Proposed Portland Music Hall Moves Forward Without Live Nation Partnership",
-      "summary": "Live Nation is no longer attached to the proposed Portland Music Hall, marking a major shift for one of Maine\u2019s... The post Proposed Portland Music Hall Moves Forward Without Live Nation Partnership a",
-      "company": "Proposed Portland Music Hall Moves Forward",
-      "link": "https://www.ticketnews.com/2026/06/proposed-portland-music-hall-moves-forward-without-live-nation-partnership/",
-      "date": "Jun 01, 26",
+      "id": "bf056ce39d8a",
+      "title": "AXS Backs Independent Venues With New, Renewed U.S. Partnerships",
+      "summary": "AXS is strengthening its position in the independent venue space with a new round of partnerships spanning some of the... The post AXS Backs Independent Venues With New, Renewed U.S. Partnerships appe",
+      "company": "AXS Backs Independent Venues With New",
+      "link": "https://www.ticketnews.com/2026/06/axs-backs-independent-venues-new-renewed-partnerships/",
+      "date": "Jun 03, 26",
       "source": "Ticket News",
-      "layer": 3,
+      "layer": 2,
       "access": "pe",
-      "score": 7,
+      "score": 10,
       "moments": []
     },
     {
-      "id": "1237aefc9792",
-      "title": "\u2018Spider-Noir\u2019 Review: Your Friendly Neighborhood Nicolas Cage",
-      "summary": "An often unbridled actor gets to play a mutant in a mash-up of superheroes and film noir on Amazon Prime Video.",
-      "company": "",
-      "link": "https://www.nytimes.com/2026/05/30/arts/television/spider-noir-review.html",
+      "id": "a3590bdb6bf1",
+      "title": "Gracie Abrams sets four-night Kia Forum homecoming for Look at My Life tour",
+      "summary": "Gracie Abrams is hitting arenas worldwide with her 64-date Look at My Life tour, including four homecoming nights in December at Inglewood's Kia Forum.",
+      "company": "Gracie Abrams",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-05-28/gracie-abrams-tour-look-at-my-life-l-a-concerts-kia-forum",
+      "date": "May 28, 26",
+      "source": "LA Times Music",
+      "layer": 2,
+      "access": "pe",
+      "score": 8,
+      "moments": []
+    },
+    {
+      "id": "1bc7689d825b",
+      "title": "Could Carlsbad Become the Omaha of College Golf? Momentum Is Building",
+      "summary": "The NCAA golf championships have reached a fever pitch.",
+      "company": "Could Carlsbad Become",
+      "link": "https://frontofficesports.com/could-carlsbad-become-the-omaha-of-college-golf-momentum-is-building/",
       "date": "Jun 02, 26",
-      "source": "NYT Arts",
-      "layer": 3,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "0e9a8f027159",
-      "title": "Deal Roundup: Siena Lending announce transaction closure, American Securities sells MW Components",
-      "summary": "Siena Lending Group, a leading provider of asset-based credit solutions, and Hilco, a diversified financial services company, today announced the closing of a $130 Million financing transaction, with ",
-      "company": "Deal Roundup",
-      "link": "https://www.altassets.net/premium/deal-roundup-siena-lending-announce-transaction-closure-american-securities-sells-mw-components.html",
-      "date": "May 29, 26",
-      "source": "AltAssets",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "177f7a618fbf",
-      "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
-      "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
-      "company": "Global Times",
-      "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/?utm_source=rss&utm_medium=rss&utm_campaign=global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression",
-      "date": "May 09, 26",
-      "source": "Venues Today",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "fe100e46ada1",
-      "title": "Live Nation, Dale Play Team Up to Boost Spanish-Language Music in Argentina",
-      "summary": "Live Nation is turning up the volume in Argentina. Live Nation Entertainment and Dale Play have announced a new strategic... The post Live Nation, Dale Play Team Up to Boost Spanish-Language Music in ",
-      "company": "Live Nation Dale Play Team Up",
-      "link": "https://www.ticketnews.com/2026/06/live-nation-dale-play-team-up-boost-spanish-language-music/",
-      "date": "Jun 01, 26",
-      "source": "Ticket News",
+      "source": "Front Office Sports",
       "layer": 3,
       "access": "pe",
       "score": 4,
