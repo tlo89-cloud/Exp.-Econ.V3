@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-03T16:59:38.032050+00:00",
-  "total": 29,
+  "generated": "2026-06-04T15:26:44.745258+00:00",
+  "total": 32,
   "scraped": [
     {
       "id": "3823be9dbefe",
@@ -20,12 +20,28 @@
       ]
     },
     {
-      "id": "c35bf4be53c2",
-      "title": "JC Flowers completes acquisition of Monte dei Paschi\u2019s French banking unit",
-      "summary": "Private equity firm JC Flowers has finalised its acquisition of the French subsidiary of Italy\u2019s Monte dei Paschi di Siena, marking the completion of a long-planned divestment as the bank continues it",
-      "company": "JC Flowers",
-      "link": "https://www.privateequitywire.co.uk/jc-flowers-completes-acquisition-of-monte-dei-paschis-french-banking-unit/",
-      "date": "Jun 03, 26",
+      "id": "98c18bffa70a",
+      "title": "Sixth Street acquires minority stake in PE-backed Kpler at $3.7bn-plus valuation",
+      "summary": "Sixth Street has agreed to acquire a minority stake in private equity-backed commodities data and analytics provider Kpler in a transaction valuing the business at more than $3.7bn, according to a rep",
+      "company": "Sixth Street",
+      "link": "https://www.privateequitywire.co.uk/sixth-street-acquires-minority-stake-in-pe-backed-kpler-at-3-7bn-plus-valuation/",
+      "date": "Jun 04, 26",
+      "source": "PE Wire",
+      "layer": 1,
+      "access": "pe",
+      "score": 19,
+      "moments": [
+        "acquisition",
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "34e376b56222",
+      "title": "Kone shareholders approve $34bn TK Elevator acquisition",
+      "summary": "Shareholders of Finnish elevator manufacturer Kone have approved the company\u2019s proposed $34bn acquisition of German rival TK Elevator, which is backed by private equity firms Advent International, Cin",
+      "company": "Kone",
+      "link": "https://www.privateequitywire.co.uk/kone-shareholders-approve-34bn-tk-elevator-acquisition/",
+      "date": "Jun 04, 26",
       "source": "PE Wire",
       "layer": 5,
       "access": "pe",
@@ -131,33 +147,18 @@
       ]
     },
     {
-      "id": "6d3b89658e6c",
-      "title": "WOMAD Glasgow 2026 cancelled over low ticket sales after year off",
-      "summary": "The Glasgow edition was set to take place next month, and would be the first Scottish edition of the festival founded by Peter Gabriel The post WOMAD Glasgow 2026 cancelled over low ticket sales after",
-      "company": "WOMAD Glasgow",
-      "link": "https://www.nme.com/news/music/womad-glasgow-2026-cancelled-over-low-ticket-sales-after-year-off-3948981?utm_source=rss&utm_medium=rss&utm_campaign=womad-glasgow-2026-cancelled-over-low-ticket-sales-after-year-off",
-      "date": "Jun 03, 26",
-      "source": "NME",
+      "id": "a6f25e52c177",
+      "title": "Jason Zhang Signs With Universal Music Greater China; UMG Also Invests in Thai Distributor Solution One",
+      "summary": "Universal Music Greater China has signed Jason Zhang, one of the most commercially successful artists in Chinese-language pop, in a wide-ranging deal spanning recorded music, artist management, live p",
+      "company": "Jason Zhang Signs With Universal Music",
+      "link": "https://variety.com/2026/music/news/jason-zhang-universal-music-greater-china-1236766491/",
+      "date": "Jun 04, 26",
+      "source": "Variety Music",
       "layer": 1,
       "access": "pe",
       "score": 17,
       "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "d67a9882525a",
-      "title": "ClickHouse triples annualized revenue to $250M, charting a path toward an IPO",
-      "summary": "The database provider is eyeing a public debut within the next few years.",
-      "company": "ClickHouse",
-      "link": "https://techcrunch.com/2026/05/27/clickhouse-triples-annualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
-      "date": "May 27, 26",
-      "source": "TechCrunch Venture",
-      "layer": 2,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "ipo"
+        "record_deal"
       ]
     },
     {
@@ -176,21 +177,6 @@
       ]
     },
     {
-      "id": "79e035d47421",
-      "title": "Taylor Swift Shows Love for Paul McCartney\u2019s New Album: \u2018Never Not Inspired\u2019",
-      "summary": "The former Beatle released his first album in six years, The Boys of Dungeon Lane, in May",
-      "company": "Taylor Swift Shows Love",
-      "link": "https://www.rollingstone.com/music/music-news/taylor-swift-paul-mccartney-the-boys-of-dungeon-lane-1235571508/",
-      "date": "Jun 03, 26",
-      "source": "Rolling Stone Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
       "id": "014b93132d20",
       "title": "Kraftwerk review \u2013 after more than half a century of techno supremacy, they still sound like the future",
       "summary": "Waterfront Hall, BelfastRalf H\u00fctter and his bandmates show how profound their influence has been on huge swathes of popular music \u2013 and they give a tender tribute to the late Ryuichi SakamotoForty-fiv",
@@ -203,6 +189,51 @@
       "score": 14,
       "moments": [
         "company_launch"
+      ]
+    },
+    {
+      "id": "4b551af348c9",
+      "title": "NFL Defends TV Deals as Goodell Declines to Testify Before Congress",
+      "summary": "The league continues to tout its commitment to broadcast television.",
+      "company": "NFL Defends TV Deals",
+      "link": "https://frontofficesports.com/nfl-defends-tv-deals-as-goodell-declines-to-testify-before-congress/",
+      "date": "Jun 04, 26",
+      "source": "Front Office Sports",
+      "layer": 1,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "rights_deal"
+      ]
+    },
+    {
+      "id": "e9d9a99273a0",
+      "title": "Music Industry Moves: Mexico\u2019s Intocable Partners With Primary Wave; Julia Jacklin Signs With 4AD",
+      "summary": "Primary Wave Music has announced a partnership with the Grammy-winning Mexican outfit Intocable. Terms of the deal will see the publisher partner with the veteran group on their catalog of music, as w",
+      "company": "Music Industry Moves",
+      "link": "https://variety.com/2026/music/news/intocable-primary-wave-music-1236766236/",
+      "date": "Jun 03, 26",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "record_deal"
+      ]
+    },
+    {
+      "id": "82d0cfd719f5",
+      "title": "Hermanos Guti\u00e9rrez Take Their Guitar History to the Andes on New Song \u2018Canto Andino\u2019",
+      "summary": "The sibling instrumental duo will release their new album Los Ojos del C\u00f3ndor via Easy Eye Sound in September",
+      "company": "Hermanos Guti\u00e9rrez Take Their Guitar History",
+      "link": "https://www.rollingstone.com/music/music-news/hermanos-gutierrez-announce-new-album-los-ojos-del-condor-1235571904/",
+      "date": "Jun 04, 26",
+      "source": "Rolling Stone Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "album_announcement"
       ]
     },
     {
@@ -221,33 +252,18 @@
       ]
     },
     {
-      "id": "09d6cb023144",
-      "title": "Late Night Updates America on the Lineup for Its 250th Birthday Bash",
-      "summary": "\u201cInstead of music, the entertainment will be an 80-year-old man yelling about windmills,\u201d Jimmy Kimmel said after President Trump said he would headline a summer concert series.",
-      "company": "Late Night Updates America",
-      "link": "https://www.nytimes.com/2026/06/02/arts/television/late-night-trump-freedom-250-concerts.html",
-      "date": "Jun 02, 26",
-      "source": "NYT Arts",
-      "layer": 1,
+      "id": "f8be4576f791",
+      "title": "Hidden River backs Northstar Senior Living",
+      "summary": "The investment supports Northstar\u2019s merger with North Palm Beach, Florida-based Alta Senior Living. The post Hidden River backs Northstar Senior Living appeared first on PE Hub.",
+      "company": "Hidden River",
+      "link": "https://www.pehub.com/hidden-river-backs-northstar-senior-living/",
+      "date": "Jun 03, 26",
+      "source": "PE Hub",
+      "layer": 5,
       "access": "pe",
       "score": 12,
       "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "c46732bf9d23",
-      "title": "Tribeca Festival 25th Anniversary: An Interview With Robert De Niro, Jane Rosenthal, Rebecca Glashow",
-      "summary": "Robert De Niro and Jane Rosenthal, who founded the event, and Rebecca Glashow, the new leader of Tribeca Enterprises, reflected on the festival\u2019s legacy and ambitions.",
-      "company": "Tribeca Festival 25th Anniversary",
-      "link": "https://www.nytimes.com/2026/06/01/movies/tribeca-festival-25-deniro-rosenthal-glashow.html",
-      "date": "Jun 01, 26",
-      "source": "NYT Arts",
-      "layer": 1,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "company_launch"
+        "acquisition"
       ]
     },
     {
@@ -256,21 +272,6 @@
       "summary": "Global alternative investment major EQT has set a \u20ac21bn target for its seventh flagship infrastructure vehicle. The post EQT eyes \u20ac21bn for latest mammoth infrastructure fund appeared first on AltAsse",
       "company": "EQT",
       "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/sweden-western-europe-europe-by-region/eqt-eyes-e21bn-for-latest-mammoth-infrastructure-fund.html",
-      "date": "Jun 02, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "8d1d1aa36f76",
-      "title": "Tikehau Capital promotes long-serving exec Guillaume Arnaud to deputy CEO of Tikehau Investment Management",
-      "summary": "The \u20ac53bn asset manager Tikehau Capital has named Guillaume Arnaud as head of France and deputy CEO of Tikehau Investment Management. The post Tikehau Capital promotes long-serving exec Guillaume Arna",
-      "company": "Tikehau Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/france-western-europe-europe-by-region/100208602.html",
       "date": "Jun 02, 26",
       "source": "AltAssets",
       "layer": 5,
@@ -296,21 +297,6 @@
       ]
     },
     {
-      "id": "c8d3955d2d7a",
-      "title": "Ellie Goulding announces new album \u2018I Know Too Much\u2019",
-      "summary": "The single 'Black Prada Dress' is due to arrive later this week The post Ellie Goulding announces new album &#8216;I Know Too Much&#8217; appeared first on NME.",
-      "company": "Ellie Goulding",
-      "link": "https://www.nme.com/news/music/ellie-goulding-announces-new-album-i-know-too-much-3949021?utm_source=rss&utm_medium=rss&utm_campaign=ellie-goulding-announces-new-album-i-know-too-much",
-      "date": "Jun 03, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
       "id": "00af166f62e2",
       "title": "After 30 years, young crowds still line up for punishment at L.A.'s harshest nightclub, Das Bunker",
       "summary": "It's impossible to imagine Los Angeles' electronic scene without Das Bunker, founded in 1996 to champion brutalist club music.",
@@ -326,48 +312,33 @@
       ]
     },
     {
-      "id": "6002fa126b7f",
-      "title": "Nvidia's new world model helps robots navigate the world",
-      "summary": "Nvidia unveiled Cosmos 3, an open AI world model designed to help robots, autonomous vehicles and other physical systems better understand and predict real-world environments.Why it matters: Nvidia is",
-      "company": "Nvidia's",
-      "link": "https://www.axios.com/2026/06/01/nvidia-ai-push-cosmos-3-world-model",
-      "date": "Jun 01, 26",
-      "source": "Axios",
-      "layer": 2,
-      "access": "pe",
-      "score": 10,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "4a700804396d",
-      "title": "How \u2018Pluribus,\u2019 \u2018Murderbot\u2019 and \u2018Spider-Noir\u2019 Composers Found Innovative Ways to Score Emmy-Contending Shows",
-      "summary": "Composers working in longform TV continue to find fascinating and original ways to convey the essence of character and nuances of emotion over multiple hours of storytelling. This season&#8217;s stand",
-      "company": "How \u2018Pluribus,\u2019 \u2018Murderbot\u2019",
-      "link": "https://variety.com/2026/artisans/news/murderbot-spider-noir-pluribus-composers-emmys-1236761902/",
-      "date": "Jun 02, 26",
-      "source": "Variety Music",
-      "layer": 3,
-      "access": "pe",
-      "score": 8,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "3e4c7748cd51",
-      "title": "Will.i.am, Pitbull, Slash and More Join \u2018Mi Familia: Sen Dog and the American Dream\u2019 Doc About Cypress Hill\u2019s Senen Reyes (EXCLUSIVE)",
-      "summary": "Production is underway on the new documentary \u201cMi Familia: Sen Dog and the American Dream,\u201d which chronicles the life and career of Cypress Hill co-founder, Senen \u201cSen Dog\u201d Reyes. According to an offi",
-      "company": "Will.i.am Pitbull Slash",
-      "link": "https://variety.com/2026/film/news/sen-dog-cypress-hill-documentary-mi-famillia-1236764652/",
-      "date": "Jun 02, 26",
-      "source": "Variety Music",
+      "id": "f96c14a4a47b",
+      "title": "Dwayne Johnson's Teremana\u00ae Tequila Introduces The Craft Editions, Limited-Edition Bottle Designs Inspired by the Brand's Small-Batch Production...",
+      "summary": "Inspired by the journey from agave field to copper pot still, the new Blanco and Reposado bottle designs celebrate the brand's high craft process NEW YORK, June 4, 2026 /PRNewswire/ -- Teremana\u00ae Tequi",
+      "company": "",
+      "link": "https://www.prnewswire.com/news-releases/dwayne-johnsons-teremana-tequila-introduces-the-craft-editions-limited-edition-bottle-designs-inspired-by-the-brands-small-batch-production-process-302791747.html",
+      "date": "Jun 04, 26",
+      "source": "PR Newswire",
       "layer": 4,
       "access": "pe",
-      "score": 6,
+      "score": 11,
       "moments": [
         "company_launch"
+      ]
+    },
+    {
+      "id": "d0391193c905",
+      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+      "summary": "Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their behavior, troubleshoot failures, and prov",
+      "company": "Coralogix",
+      "link": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+      "date": "Jun 03, 26",
+      "source": "TechCrunch Startups",
+      "layer": 4,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "funding_round"
       ]
     },
     {
@@ -384,6 +355,45 @@
       "moments": [
         "company_launch"
       ]
+    },
+    {
+      "id": "b1d0f6b6d200",
+      "title": "\u2018A real health risk\u2019: Fifa ban on reusable water bottles sparks anger among fans",
+      "summary": "Supporters groups condemn \u2018immoral\u2019 u-turnFifa says policy a safety measure to prevent injuryFifa has been accused of putting revenue ahead of fans\u2019 health after banning reusable water bottles from be",
+      "company": "Fifa",
+      "link": "https://www.theguardian.com/football/2026/jun/04/fifa-bans-reusable-water-bottles-world-cup-stadiums",
+      "date": "Jun 04, 26",
+      "source": "Guardian Sport",
+      "layer": 2,
+      "access": "pe",
+      "score": 13,
+      "moments": []
+    },
+    {
+      "id": "cad2d1e530aa",
+      "title": "Live Nation Wins Pause on Breakup Discovery While It Tries to Undo Monopoly Verdict",
+      "summary": "Live Nation and Ticketmaster have won a temporary pause in breakup-related discovery while they try to undo the landmark antitrust... The post Live Nation Wins Pause on Breakup Discovery While It Trie",
+      "company": "Live Nation Wins Pause",
+      "link": "https://www.ticketnews.com/2026/06/live-nation-wins-pause-on-breakup-discovery-while-it-tries-to-undo-monopoly-verdict/",
+      "date": "Jun 03, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 13,
+      "moments": []
+    },
+    {
+      "id": "705a01610a33",
+      "title": "Doja Cat Slams Elon Musk as a \u2018Barrel Chested Ewok\u2019 While Requesting Changes to X: \u2018You Look Like You Eat Sand\u2019",
+      "summary": "Doja Cat took to X on Wednesday to request that the platform\u2019s billionaire owner, Elon Musk, reinstate the \u201caudio post\u201d feature. It\u2019s not likely the Grammy winner will get her way, however, because sh",
+      "company": "Doja Cat Slams Elon Musk",
+      "link": "https://variety.com/2026/music/news/doja-cat-elon-musk-barrel-chested-ewok-x-twitter-1236766362/",
+      "date": "Jun 04, 26",
+      "source": "Variety Music",
+      "layer": 3,
+      "access": "pe",
+      "score": 10,
+      "moments": []
     },
     {
       "id": "eb39b9a53350",
@@ -425,16 +435,42 @@
       "moments": []
     },
     {
-      "id": "1bc7689d825b",
-      "title": "Could Carlsbad Become the Omaha of College Golf? Momentum Is Building",
-      "summary": "The NCAA golf championships have reached a fever pitch.",
-      "company": "Could Carlsbad Become",
-      "link": "https://frontofficesports.com/could-carlsbad-become-the-omaha-of-college-golf-momentum-is-building/",
-      "date": "Jun 02, 26",
-      "source": "Front Office Sports",
+      "id": "02bb0e2f121d",
+      "title": "Take That review \u2013 stadium redux of Circus tour has maximal razzle-dazzle",
+      "summary": "St Mary\u2019s Stadium, SouthamptonElephants, clowns, aerialists hanging by their hair \u2026 the Big Top concept doesn\u2019t let up at this hugely enjoyable outing for a boy band with hits to spareTake That have n",
+      "company": "Take That",
+      "link": "https://www.theguardian.com/music/2026/may/30/take-that-review-stadium-redux-of-circus-tour-has-maximal-razzle-dazzle",
+      "date": "May 30, 26",
+      "source": "Guardian Music",
+      "layer": 2,
+      "access": "pe",
+      "score": 8,
+      "moments": []
+    },
+    {
+      "id": "40cf35155bf9",
+      "title": "TUMS Takes Soccer Fandom on a Flavor Tour With Food Match Cup",
+      "summary": "TUMS is leaning into soccer fever with a new campaign built around two match-day essentials: global fandom and bold food.... The post TUMS Takes Soccer Fandom on a Flavor Tour With Food Match Cup appe",
+      "company": "TUMS Takes Soccer Fandom",
+      "link": "https://www.ticketnews.com/2026/06/tums-soccer-fans-flavor-tour-food-match-world-cup/",
+      "date": "Jun 03, 26",
+      "source": "Ticket News",
       "layer": 3,
       "access": "pe",
-      "score": 4,
+      "score": 7,
+      "moments": []
+    },
+    {
+      "id": "8bc901bf7043",
+      "title": "Liberty Service Partners Welcomes DB's Plumbing and Drain, a Family-Owned Northern Virginia Plumber with a 4.9-Star Reputation",
+      "summary": "DALLAS, June 4, 2026 /PRNewswire/ -- Liberty Service Partners, a leading provider of residential home services, is pleased to announce its partnership with DB's Plumbing and Drain, a family-owned and ",
+      "company": "",
+      "link": "https://www.prnewswire.com/news-releases/liberty-service-partners-welcomes-dbs-plumbing-and-drain-a-family-owned-northern-virginia-plumber-with-a-4-9-star-reputation-302791315.html",
+      "date": "Jun 04, 26",
+      "source": "PR Newswire",
+      "layer": 4,
+      "access": "pe",
+      "score": 5,
       "moments": []
     }
   ]
