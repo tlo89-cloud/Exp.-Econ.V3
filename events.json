@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-04T15:26:44.745258+00:00",
-  "total": 32,
+  "generated": "2026-06-05T15:14:42.962185+00:00",
+  "total": 39,
   "scraped": [
     {
       "id": "3823be9dbefe",
@@ -20,6 +20,22 @@
       ]
     },
     {
+      "id": "2e3c39cce843",
+      "title": "Benchmark breaks long fund size tradition with $2bn double fund close amid AI boom",
+      "summary": "Silicon Valley VC veteran Benchmark Capital has reportedly reached a $2bn final close across a pair of new funds - breaking a long tradition of sticking to smaller fund sizes. The post Benchmark break",
+      "company": "Benchmark",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/benchmark-capital-breaks-long-fund-size-tradition-with-2bn-double-fund-close-amid-ai-boom.html",
+      "date": "Jun 05, 26",
+      "source": "AltAssets",
+      "layer": 1,
+      "access": "pe",
+      "score": 23,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
       "id": "98c18bffa70a",
       "title": "Sixth Street acquires minority stake in PE-backed Kpler at $3.7bn-plus valuation",
       "summary": "Sixth Street has agreed to acquire a minority stake in private equity-backed commodities data and analytics provider Kpler in a transaction valuing the business at more than $3.7bn, according to a rep",
@@ -36,13 +52,29 @@
       ]
     },
     {
-      "id": "34e376b56222",
-      "title": "Kone shareholders approve $34bn TK Elevator acquisition",
-      "summary": "Shareholders of Finnish elevator manufacturer Kone have approved the company\u2019s proposed $34bn acquisition of German rival TK Elevator, which is backed by private equity firms Advent International, Cin",
-      "company": "Kone",
-      "link": "https://www.privateequitywire.co.uk/kone-shareholders-approve-34bn-tk-elevator-acquisition/",
+      "id": "cac245839a72",
+      "title": "Music Industry Moves: Seeker Acquires Cocteau Twin Simon Raymonde\u2019s Publishing Catalog; 10K Projects Strikes JV With Runway Records; Daniel Glass...",
+      "summary": "Evan Bogart\u2019s Seeker Music has acquired the music publishing catalog of songwriter-producer-instrumentalist Simon Raymonde, which includes his work as a longtime member of Cocteau Twins. Raymonde is a",
+      "company": "Music Industry Moves",
+      "link": "https://variety.com/2026/music/news/intocable-primary-wave-music-1236766236/",
       "date": "Jun 04, 26",
-      "source": "PE Wire",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "acquisition",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "f36e834646da",
+      "title": "LPs to increase US mid-market focus as liquidity pressures reshape private equity strategies",
+      "summary": "Nearly three-quarters of LPs plan to increase allocations to the US middle market over the next two years, compared with 48% that intend to increase commitments to large and mega-cap private equity fu",
+      "company": "LPs",
+      "link": "https://www.altassets.net/featured/lps-to-increase-us-mid-market-focus-as-liquidity-pressures-reshape-private-equity-strategies.html",
+      "date": "Jun 05, 26",
+      "source": "AltAssets",
       "layer": 5,
       "access": "pe",
       "score": 16,
@@ -68,6 +100,54 @@
       ]
     },
     {
+      "id": "3363e605f635",
+      "title": "Norvestor hits \u20ac2bn hard cap for tenth flagship buyout fund",
+      "summary": "Nordic private equity firm Norvestor has taken just three months to reach a \u20ac2bn hard cap close for its tenth flagship fund. The post Norvestor hits \u20ac2bn hard cap for tenth flagship buyout fund appear",
+      "company": "Norvestor",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/norway-western-europe-europe-by-region/norvestor-hits-e2bn-hard-cap-for-tenth-flagship-buyout-fund.html",
+      "date": "Jun 05, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "5d38195698a4",
+      "title": "HSBC AM beats target with $2bn sophomore UK direct lending fundraise",
+      "summary": "HSBC Asset Management has held an above-target final close for its second UK direct lending fund, securing $2bn from institutional investors across the vehicle and associated mandates. The post HSBC A",
+      "company": "HSBC AM",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/hsbc-am-beats-target-with-2bn-sophomore-uk-direct-lending-fundraise.html",
+      "date": "Jun 05, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "8006ba0b39c7",
+      "title": "Merantix Capital closes \u20ac103m AI fund to back early-stage European startups",
+      "summary": "Berlin-based venture capital firm Merantix Capital has closed a \u20ac103m fund focused on backing early-stage artificial intelligence startups across Europe. The post Merantix Capital closes \u20ac103m AI fund",
+      "company": "Merantix Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/germany-western-europe-europe-by-region/merantix-capital-closes-e103m-ai-fund-to-back-early-stage-european-startups.html",
+      "date": "Jun 05, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
       "id": "f4788d13be53",
       "title": "Deal Roundup: JC Flowers buys Monte Paschi Banque, Praesidian Capital exits Green Circuits",
       "summary": "JC Flowers &#038; Co has acquired lender Monte Paschi Banque - formerly the French subsidiary of Monte dei Paschi di Siena. The post Deal Roundup: JC Flowers buys Monte Paschi Banque, Praesidian Capit",
@@ -84,96 +164,109 @@
       ]
     },
     {
-      "id": "e1b1a9370d14",
-      "title": "AnaCap strikes \u20ac320m final close for oversubscribed buyout fundraise",
-      "summary": "Financial services-focused private equity investor AnaCap has closed its oversubscribed second dedicated buyout fund on more than \u20ac320m. The post AnaCap strikes \u20ac320m final close for oversubscribed bu",
-      "company": "AnaCap",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/100208641.html",
-      "date": "Jun 03, 26",
-      "source": "AltAssets",
-      "layer": 5,
+      "id": "8810db8e8600",
+      "title": "Alexis Smith of The Feminine Glow Emerges at the Center of the Feminine Energy Coaching Boom",
+      "summary": "DUBAI, UAE &#8211; &#160;The Feminine Glow, the fast-growing femininity and inner work platform founded by Alexis Smith, is gaining national attention as interest in coaching, self-development, and fe",
+      "company": "Alexis Smith",
+      "link": "https://venuestoday.com/alexis-smith-of-the-feminine-glow-emerges-at-the-center-of-the-feminine-energy-coaching-boom/?utm_source=rss&utm_medium=rss&utm_campaign=alexis-smith-of-the-feminine-glow-emerges-at-the-center-of-the-feminine-energy-coaching-boom",
+      "date": "Mar 29, 26",
+      "source": "Venues Today",
+      "layer": 2,
       "access": "pe",
       "score": 13,
       "moments": [
-        "pe_investment",
-        "fund_launch"
+        "acquisition",
+        "company_launch"
       ]
     },
     {
-      "id": "bc77842771c8",
-      "title": "Eurazeo beats target for latest European direct lending raise, reaches \u20ac3.9bn close",
-      "summary": "Eurazeo has raised \u20ac3.9bn at the final close of its latest direct lending fund, well above its initial \u20ac3bn target. The post Eurazeo beats target for latest European direct lending raise, reaches \u20ac3.9",
-      "company": "Eurazeo",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/france-western-europe-europe-by-region/100208635.html",
-      "date": "Jun 03, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "bc7ecea52588",
-      "title": "Blackstone smashes third Asia fund target to reach $13.1bn hard cap close",
-      "summary": "Blackstone has soared past its target for its latest mammoth Asia fundraise to reach a $13.1bn hard cap final close. The post Blackstone smashes third Asia fund target to reach $13.1bn hard cap close ",
-      "company": "Blackstone",
-      "link": "https://www.altassets.net/private-equity-news/by-region/asia-by-region/100208606.html",
-      "date": "Jun 02, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "bf63cc495a08",
-      "title": "Version One continues global expansion amid rise of AI, closes $108m double fundraise",
-      "summary": "Canadian pre-seed and seed investor Version One has raised $108m across a pair of new funds as it continues expanding its global investment capabilities. The post Version One continues global expansio",
-      "company": "Version One",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/canada-north-america-by-region/100208624.html",
-      "date": "Jun 03, 26",
-      "source": "AltAssets",
-      "layer": 1,
+      "id": "4a5527cc03f8",
+      "title": "Paramount Wants Lawsuit Seeking to Block Warner Bros. Deal Tossed: \u2018Clumsy Attempt to Politicize Antitrust Litigation\u2019",
+      "summary": "In April, five streaming subscribers filed a federal lawsuit seeking to block Paramount Skydance&#8217;s $111 billion deal to swallow up Warner Bros. Discovery on antitrust grounds. Paramount on Thurs",
+      "company": "Paramount Wants Lawsuit Seeking",
+      "link": "https://variety.com/2026/tv/news/paramount-antitrust-lawsuit-block-warner-bros-deal-dismiss-reply-1236766853/",
+      "date": "Jun 04, 26",
+      "source": "Variety Biz",
+      "layer": 3,
       "access": "pe",
       "score": 20,
       "moments": [
-        "pe_investment"
+        "acquisition"
       ]
     },
     {
-      "id": "a6f25e52c177",
-      "title": "Jason Zhang Signs With Universal Music Greater China; UMG Also Invests in Thai Distributor Solution One",
-      "summary": "Universal Music Greater China has signed Jason Zhang, one of the most commercially successful artists in Chinese-language pop, in a wide-ranging deal spanning recorded music, artist management, live p",
-      "company": "Jason Zhang Signs With Universal Music",
-      "link": "https://variety.com/2026/music/news/jason-zhang-universal-music-greater-china-1236766491/",
+      "id": "7e3c01338b10",
+      "title": "Modest Mouse on gnarly new album \u2018An Eraser and a Maze\u2019 and the \u201cincredibly shocking\u201d death of drummer Jeremiah Green",
+      "summary": "Frontman Isaac Brock also opened up about reviving his cult side project Ugly Casanova, his love of magic mushrooms, and potentially touring landmark album \u2018We Were Dead Before the Ship Even Sank\u2019 wit",
+      "company": "Modest Mouse",
+      "link": "https://www.nme.com/news/music/modest-mouse-interview-an-eraser-and-a-maze-johnny-marr-jeremiah-green-3949323?utm_source=rss&utm_medium=rss&utm_campaign=modest-mouse-interview-an-eraser-and-a-maze-johnny-marr-jeremiah-green",
+      "date": "Jun 05, 26",
+      "source": "NME",
+      "layer": 1,
+      "access": "pe",
+      "score": 19,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "7a468132ba18",
+      "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
+      "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
+      "company": "Kiro Eid Built",
+      "link": "https://venuestoday.com/kiro-eid-built-8x6-design-studio-here-is-how-he-did-it-without-a-network-or-shortcuts/?utm_source=rss&utm_medium=rss&utm_campaign=kiro-eid-built-8x6-design-studio-here-is-how-he-did-it-without-a-network-or-shortcuts",
+      "date": "Mar 28, 26",
+      "source": "Venues Today",
+      "layer": 2,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "3e2cb9225fe2",
+      "title": "Bill Ackman to Sell $290.5 Million in Stock Back to Universal Music After Rejected Takeover Offer",
+      "summary": "Fresh off of rejecting a takeover proposal from capital fund Pershing Square, Universal Music has announced it is repurchasing a sizable portion of its stock back from the company founded and operated",
+      "company": "Bill Ackman",
+      "link": "https://variety.com/2026/music/news/bill-ackman-sell-290-5-million-stock-back-universal-music-1236767087/",
       "date": "Jun 04, 26",
       "source": "Variety Music",
       "layer": 1,
-      "access": "pe",
-      "score": 17,
+      "access": "public",
+      "score": 14,
       "moments": [
-        "record_deal"
+        "company_launch"
       ]
     },
     {
-      "id": "a216eba4d9d0",
-      "title": "Anthropic faces AI spending backlash before IPO",
-      "summary": "Anthropic filed paperwork to go public just as corporate America is entering its AI sticker shock phase.Why it matters: Companies are Anthropic's biggest customers. If they dial down their AI spend, t",
-      "company": "Anthropic",
-      "link": "https://www.axios.com/2026/06/02/anthropic-ipo-ai-sticker-shock-spending-usage",
-      "date": "Jun 02, 26",
-      "source": "Axios",
-      "layer": 2,
+      "id": "88a7bbf249e9",
+      "title": "LISTEN: Credit Risks: Top S&P Global Analyst Breaks Down the Paramount-Warner Bros. Discovery Deal",
+      "summary": "The proposed $111 billion merger between Paramount and Warner Bros. Discovery is approaching completion, but concerns around debt, execution risk, and long-term industry volatility loom large.&#160; O",
+      "company": "LISTEN",
+      "link": "https://variety.com/2026/biz/news/naveen-sarma-sp-global-credit-risk-warner-bros-paramount-1236766682/",
+      "date": "Jun 05, 26",
+      "source": "Variety Biz",
+      "layer": 3,
       "access": "pe",
-      "score": 15,
+      "score": 14,
       "moments": [
-        "ipo"
+        "acquisition"
+      ]
+    },
+    {
+      "id": "417cf3a445c4",
+      "title": "Trump Scraps Failed Freedom 250 Concerts, Makes Himself Headliner of \u2018Greatest Rally, EVER\u2019",
+      "summary": "The president also installed country singer Lee Greenwood as a replacement performer after several artists dropped out",
+      "company": "Trump Scraps Failed Freedom",
+      "link": "https://www.rollingstone.com/music/music-news/trump-cancels-freedom-250-concerts-lee-greenwood-rally-1235572815/",
+      "date": "Jun 05, 26",
+      "source": "Rolling Stone News",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "festival_headliner"
       ]
     },
     {
@@ -192,108 +285,33 @@
       ]
     },
     {
-      "id": "4b551af348c9",
-      "title": "NFL Defends TV Deals as Goodell Declines to Testify Before Congress",
-      "summary": "The league continues to tout its commitment to broadcast television.",
-      "company": "NFL Defends TV Deals",
-      "link": "https://frontofficesports.com/nfl-defends-tv-deals-as-goodell-declines-to-testify-before-congress/",
+      "id": "c41cb3e041f4",
+      "title": "Jeff Goldblum and The Mildred Snitzer Orchestra Set 2026 Tour Dates",
+      "summary": "Jeff Goldblum has announced a 2026 North American tour with The Mildred Snitzer Orchestra in support of his upcoming album,... The post Jeff Goldblum and The Mildred Snitzer Orchestra Set 2026 Tour Da",
+      "company": "Jeff Goldblum",
+      "link": "https://www.ticketnews.com/2026/06/jeff-goldblum-and-the-mildred-snitzer-orchestra-set-2026-tour-dates/",
       "date": "Jun 04, 26",
-      "source": "Front Office Sports",
+      "source": "Ticket News",
       "layer": 1,
       "access": "pe",
-      "score": 13,
+      "score": 14,
       "moments": [
-        "rights_deal"
+        "tour_announcement"
       ]
     },
     {
-      "id": "e9d9a99273a0",
-      "title": "Music Industry Moves: Mexico\u2019s Intocable Partners With Primary Wave; Julia Jacklin Signs With 4AD",
-      "summary": "Primary Wave Music has announced a partnership with the Grammy-winning Mexican outfit Intocable. Terms of the deal will see the publisher partner with the veteran group on their catalog of music, as w",
-      "company": "Music Industry Moves",
-      "link": "https://variety.com/2026/music/news/intocable-primary-wave-music-1236766236/",
-      "date": "Jun 03, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "record_deal"
-      ]
-    },
-    {
-      "id": "82d0cfd719f5",
-      "title": "Hermanos Guti\u00e9rrez Take Their Guitar History to the Andes on New Song \u2018Canto Andino\u2019",
-      "summary": "The sibling instrumental duo will release their new album Los Ojos del C\u00f3ndor via Easy Eye Sound in September",
-      "company": "Hermanos Guti\u00e9rrez Take Their Guitar History",
-      "link": "https://www.rollingstone.com/music/music-news/hermanos-gutierrez-announce-new-album-los-ojos-del-condor-1235571904/",
-      "date": "Jun 04, 26",
+      "id": "6e4fcd02ca30",
+      "title": "Primavera Sound: Severe Weather Cancels Doja Cat\u2019s Headlining Set",
+      "summary": "\"I don\u2019t think anybody really, truly knew how bad it was gonna get, but it got bad,\" singer says after heavy rain and wind gusts hit Barcelona fest",
+      "company": "Primavera Sound",
+      "link": "https://www.rollingstone.com/music/music-news/primavera-sound-severe-weather-cancels-doja-cat-set-1235572924/",
+      "date": "Jun 05, 26",
       "source": "Rolling Stone Music",
-      "layer": 1,
+      "layer": 3,
       "access": "pe",
       "score": 12,
       "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "095400616f98",
-      "title": "Every Big Rock + Metal Album Released Each Day in June History",
-      "summary": "Flip / Interscope, Roadrunner, Combat Records",
-      "company": "Every Big Rock",
-      "link": "https://loudwire.com/rock-metal-albums-released-june/",
-      "date": "Jun 01, 26",
-      "source": "Loudwire",
-      "layer": 1,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "f8be4576f791",
-      "title": "Hidden River backs Northstar Senior Living",
-      "summary": "The investment supports Northstar\u2019s merger with North Palm Beach, Florida-based Alta Senior Living. The post Hidden River backs Northstar Senior Living appeared first on PE Hub.",
-      "company": "Hidden River",
-      "link": "https://www.pehub.com/hidden-river-backs-northstar-senior-living/",
-      "date": "Jun 03, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "f7d7c7fe2d99",
-      "title": "EQT eyes \u20ac21bn for latest mammoth infrastructure fund",
-      "summary": "Global alternative investment major EQT has set a \u20ac21bn target for its seventh flagship infrastructure vehicle. The post EQT eyes \u20ac21bn for latest mammoth infrastructure fund appeared first on AltAsse",
-      "company": "EQT",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/sweden-western-europe-europe-by-region/eqt-eyes-e21bn-for-latest-mammoth-infrastructure-fund.html",
-      "date": "Jun 02, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "ce2e4b84f753",
-      "title": "Stars Latest Dallas Team Trading Downtown for Sports-Centered District",
-      "summary": "Both the Stars and Mavericks are seeking to build new arenas.",
-      "company": "Stars Latest Dallas Team Trading Downtown",
-      "link": "https://frontofficesports.com/stars-latest-dallas-team-trading-downtown-for-sports-centered-district/",
-      "date": "Jun 03, 26",
-      "source": "Front Office Sports",
-      "layer": 2,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "venue_announcement"
+        "festival_headliner"
       ]
     },
     {
@@ -312,18 +330,18 @@
       ]
     },
     {
-      "id": "f96c14a4a47b",
-      "title": "Dwayne Johnson's Teremana\u00ae Tequila Introduces The Craft Editions, Limited-Edition Bottle Designs Inspired by the Brand's Small-Batch Production...",
-      "summary": "Inspired by the journey from agave field to copper pot still, the new Blanco and Reposado bottle designs celebrate the brand's high craft process NEW YORK, June 4, 2026 /PRNewswire/ -- Teremana\u00ae Tequi",
-      "company": "",
-      "link": "https://www.prnewswire.com/news-releases/dwayne-johnsons-teremana-tequila-introduces-the-craft-editions-limited-edition-bottle-designs-inspired-by-the-brands-small-batch-production-process-302791747.html",
-      "date": "Jun 04, 26",
-      "source": "PR Newswire",
-      "layer": 4,
+      "id": "d80440a65765",
+      "title": "Anthropic Files Confidentially For IPO",
+      "summary": "Anthropic said Monday that it has submitted a confidential filing for a proposed IPO, marking an escalation in the race among generative AI behemoths to make it first to the public market.",
+      "company": "Anthropic Files Confidentially For IPO",
+      "link": "https://news.crunchbase.com/public/ai-unicorn-anthropic-files-confidentially-for-ipo/",
+      "date": "Jun 01, 26",
+      "source": "Crunchbase News",
+      "layer": 5,
       "access": "pe",
-      "score": 11,
+      "score": 9,
       "moments": [
-        "company_launch"
+        "ipo"
       ]
     },
     {
@@ -342,13 +360,28 @@
       ]
     },
     {
+      "id": "38689d0974cf",
+      "title": "Deal Roundup: Palantir and Kirkland launch PE fundraising platform, PSG backs Dockwa",
+      "summary": "Palantir Technologies and Kirkland &#038; Ellis have launched an AI-powered platform designed to support private equity fundraising and fund operations. The post Deal Roundup: Palantir and Kirkland la",
+      "company": "Deal Roundup",
+      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-palantir-and-kirkland-launch-pe-fundraising-platform-psg-backs-dockwa.html",
+      "date": "Jun 05, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
       "id": "b4965c7e6b0c",
       "title": "What\u2019s Next Now That Live Nation Has Been Found to Act as a Monopoly",
       "summary": "The music industry may be significantly changed by the judicial rulings to come, but there is still a lot of lawyering left to do.",
       "company": "What\u2019s Next Now That Live Nation",
       "link": "https://www.nytimes.com/2026/06/03/arts/music/whats-next-now-that-live-nation-has-been-found-to-act-as-a-monopoly.html",
       "date": "Jun 03, 26",
-      "source": "NYT Arts",
+      "source": "NYT Music",
       "layer": 3,
       "access": "pe",
       "score": 6,
@@ -357,68 +390,44 @@
       ]
     },
     {
-      "id": "b1d0f6b6d200",
-      "title": "\u2018A real health risk\u2019: Fifa ban on reusable water bottles sparks anger among fans",
-      "summary": "Supporters groups condemn \u2018immoral\u2019 u-turnFifa says policy a safety measure to prevent injuryFifa has been accused of putting revenue ahead of fans\u2019 health after banning reusable water bottles from be",
-      "company": "Fifa",
-      "link": "https://www.theguardian.com/football/2026/jun/04/fifa-bans-reusable-water-bottles-world-cup-stadiums",
-      "date": "Jun 04, 26",
-      "source": "Guardian Sport",
-      "layer": 2,
-      "access": "pe",
-      "score": 13,
-      "moments": []
-    },
-    {
-      "id": "cad2d1e530aa",
-      "title": "Live Nation Wins Pause on Breakup Discovery While It Tries to Undo Monopoly Verdict",
-      "summary": "Live Nation and Ticketmaster have won a temporary pause in breakup-related discovery while they try to undo the landmark antitrust... The post Live Nation Wins Pause on Breakup Discovery While It Trie",
-      "company": "Live Nation Wins Pause",
-      "link": "https://www.ticketnews.com/2026/06/live-nation-wins-pause-on-breakup-discovery-while-it-tries-to-undo-monopoly-verdict/",
-      "date": "Jun 03, 26",
-      "source": "Ticket News",
+      "id": "493fd25ac40c",
+      "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
+      "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
+      "company": "Navigating",
+      "link": "https://venuestoday.com/navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026/?utm_source=rss&utm_medium=rss&utm_campaign=navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026",
+      "date": "Apr 22, 26",
+      "source": "Venues Today",
       "layer": 3,
       "access": "pe",
-      "score": 13,
-      "moments": []
+      "score": 6,
+      "moments": [
+        "acquisition"
+      ]
     },
     {
-      "id": "705a01610a33",
-      "title": "Doja Cat Slams Elon Musk as a \u2018Barrel Chested Ewok\u2019 While Requesting Changes to X: \u2018You Look Like You Eat Sand\u2019",
-      "summary": "Doja Cat took to X on Wednesday to request that the platform\u2019s billionaire owner, Elon Musk, reinstate the \u201caudio post\u201d feature. It\u2019s not likely the Grammy winner will get her way, however, because sh",
-      "company": "Doja Cat Slams Elon Musk",
-      "link": "https://variety.com/2026/music/news/doja-cat-elon-musk-barrel-chested-ewok-x-twitter-1236766362/",
-      "date": "Jun 04, 26",
-      "source": "Variety Music",
-      "layer": 3,
-      "access": "pe",
-      "score": 10,
-      "moments": []
-    },
-    {
-      "id": "eb39b9a53350",
-      "title": "Q&A: As costs rise, AD Jennifer Cohen says USC is well-positioned amid college sports chaos",
-      "summary": "In the new era of revenue sharing, particularly because of NIL rights, student athletes have benefitted. USC's athletic director explains why.",
-      "company": "Q&A",
-      "link": "https://www.latimes.com/sports/usc/story/2026-05-31/as-costs-rise-ad-jennifer-cohen-says-usc-is-well-positioned",
-      "date": "May 31, 26",
-      "source": "LA Times Sports",
+      "id": "d5ab954e4aab",
+      "title": "Maximize Every Square Foot: Using Digital Authority to Win High-Value Venue Bookings",
+      "summary": "Source: ChatGPT Event organizers often struggle to secure premium venue bookings even when their content or services are strong. Limited visibility, unclear reputation, and weak online authority can r",
+      "company": "Maximize Every Square Foot",
+      "link": "https://venuestoday.com/maximize-every-square-foot-using-digital-authority-to-win-high-value-venue-bookings/?utm_source=rss&utm_medium=rss&utm_campaign=maximize-every-square-foot-using-digital-authority-to-win-high-value-venue-bookings",
+      "date": "Mar 04, 26",
+      "source": "Venues Today",
       "layer": 2,
       "access": "pe",
       "score": 10,
       "moments": []
     },
     {
-      "id": "bf056ce39d8a",
-      "title": "AXS Backs Independent Venues With New, Renewed U.S. Partnerships",
-      "summary": "AXS is strengthening its position in the independent venue space with a new round of partnerships spanning some of the... The post AXS Backs Independent Venues With New, Renewed U.S. Partnerships appe",
-      "company": "AXS Backs Independent Venues With New",
-      "link": "https://www.ticketnews.com/2026/06/axs-backs-independent-venues-new-renewed-partnerships/",
-      "date": "Jun 03, 26",
-      "source": "Ticket News",
+      "id": "4d4196e6a2b6",
+      "title": "Phoebe Bridgers Announces Phone-Free 2026 Arena Tour",
+      "summary": "After performing intimate pop-up shows across the country \u2014 and one set at Madison Square Garden \u2014 the singer-songwriter will embark on her first solo tour in three years this fall",
+      "company": "Phoebe Bridgers Announces Phone-Free",
+      "link": "https://www.rollingstone.com/music/music-news/phoebe-bridgers-2026-tour-dates-1235571770/",
+      "date": "Jun 05, 26",
+      "source": "Rolling Stone Music",
       "layer": 2,
       "access": "pe",
-      "score": 10,
+      "score": 8,
       "moments": []
     },
     {
@@ -448,12 +457,38 @@
       "moments": []
     },
     {
-      "id": "40cf35155bf9",
-      "title": "TUMS Takes Soccer Fandom on a Flavor Tour With Food Match Cup",
-      "summary": "TUMS is leaning into soccer fever with a new campaign built around two match-day essentials: global fandom and bold food.... The post TUMS Takes Soccer Fandom on a Flavor Tour With Food Match Cup appe",
-      "company": "TUMS Takes Soccer Fandom",
-      "link": "https://www.ticketnews.com/2026/06/tums-soccer-fans-flavor-tour-food-match-world-cup/",
-      "date": "Jun 03, 26",
+      "id": "8f21bc895b08",
+      "title": "No Sleep Till\u2026 North Shields: Beastie Boys\u2019 Mike D talks going solo and keeping weird venues alive",
+      "summary": "The rap icon meets NME in a bingo hall up north to tell us about the battle for the grassroots, and being the first Beastie Boy to go solo after the death of Adam Yauch: \"I had to learn how to feel al",
+      "company": "No Sleep Till\u2026 North Shields: Beastie",
+      "link": "https://www.nme.com/news/music/mike-d-interview-beastie-boys-solo-album-venues-north-shields-3949223?utm_source=rss&utm_medium=rss&utm_campaign=mike-d-interview-beastie-boys-solo-album-venues-north-shields",
+      "date": "Jun 05, 26",
+      "source": "NME",
+      "layer": 2,
+      "access": "pe",
+      "score": 7,
+      "moments": []
+    },
+    {
+      "id": "ce4a27d0908b",
+      "title": "Massive Attack, Bad Gyal, and Doja Cat added to Primavera Sound cancellations as fans criticise organisation",
+      "summary": "\u201cEven my ex had better communication skills\u201d The post Massive Attack, Bad Gyal, and Doja Cat added to Primavera Sound cancellations as fans criticise organisation appeared first on NME.",
+      "company": "Massive Attack Bad Gyal",
+      "link": "https://www.nme.com/news/music/massive-attack-bad-gyal-and-doja-cat-added-to-primavera-sound-cancellations-as-fans-criticise-organisation-3949279?utm_source=rss&utm_medium=rss&utm_campaign=massive-attack-bad-gyal-and-doja-cat-added-to-primavera-sound-cancellations-as-fans-criticise-organisation",
+      "date": "Jun 05, 26",
+      "source": "NME",
+      "layer": 3,
+      "access": "pe",
+      "score": 7,
+      "moments": []
+    },
+    {
+      "id": "e98b013faa38",
+      "title": "Ticketmaster Pauses Celine Dion Sale Amid \u2018Suspicious Activity\u2019",
+      "summary": "Ticketmaster France has paused and postponed ticket sales for Celine Dion\u2019s residency in Paris after identifying \u201cbots\u201d that \u201cdisrupted the... The post Ticketmaster Pauses Celine Dion Sale Amid \u2018Suspi",
+      "company": "Ticketmaster Pauses Celine Dion Sale Amid",
+      "link": "https://www.ticketnews.com/2026/06/ticketmaster-pauses-celine-dion-sale-amid-suspicious-activity/",
+      "date": "Jun 04, 26",
       "source": "Ticket News",
       "layer": 3,
       "access": "pe",
@@ -461,16 +496,81 @@
       "moments": []
     },
     {
-      "id": "8bc901bf7043",
-      "title": "Liberty Service Partners Welcomes DB's Plumbing and Drain, a Family-Owned Northern Virginia Plumber with a 4.9-Star Reputation",
-      "summary": "DALLAS, June 4, 2026 /PRNewswire/ -- Liberty Service Partners, a leading provider of residential home services, is pleased to announce its partnership with DB's Plumbing and Drain, a family-owned and ",
+      "id": "582c7bd35869",
+      "title": "Vinyl records are back, but they're polluting the planet. These labels are trying to help",
+      "summary": "The resurgence of vinyl records has taken a toll on the environment. Labels are banding together to help alleviate production effects.",
+      "company": "Vinyl",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-06-05/vinyl-records-are-hurting-environment-these-labels-are-helping",
+      "date": "Jun 05, 26",
+      "source": "LA Times Music",
+      "layer": 4,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "bb6d4154b7f0",
+      "title": "Planted Provisioning Grows Its Community Roots with The Mamas Network Partnership",
+      "summary": "Mother's Day Weekend giving, Smoke & Flow sponsorship, and local event support highlight Planted's ongoing role as a community-first cannabis retailer WHITMORE LAKE, Mich., June 5, 2026 /PRNewswire/ -",
       "company": "",
-      "link": "https://www.prnewswire.com/news-releases/liberty-service-partners-welcomes-dbs-plumbing-and-drain-a-family-owned-northern-virginia-plumber-with-a-4-9-star-reputation-302791315.html",
-      "date": "Jun 04, 26",
+      "link": "https://www.prnewswire.com/news-releases/planted-provisioning-grows-its-community-roots-with-the-mamas-network-partnership-302792765.html",
+      "date": "Jun 05, 26",
       "source": "PR Newswire",
       "layer": 4,
       "access": "pe",
       "score": 5,
+      "moments": []
+    },
+    {
+      "id": "0ef4e76040da",
+      "title": "BOOKS BEAT BILLIONS -- SIMONS, KLARMAN, DALIO, DRUCKENMILLER, GRIFFIN TOP 5W AI HEDGE FUND INDEX",
+      "summary": "5W Reputation Index, Finance Phase: 20 hedge fund principals scored across five AI engines. Narrative density beats AUM. The top-rated principal authored the canonical text. The #2 wrote 'Margin of Sa",
+      "company": "BOOKS BEAT BILLIONS",
+      "link": "https://www.prnewswire.com/news-releases/books-beat-billions--simons-klarman-dalio-druckenmiller-griffin-top-5w-ai-hedge-fund-index-302785170.html",
+      "date": "Jun 05, 26",
+      "source": "PR Newswire",
+      "layer": 4,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "ad2f81aed4ea",
+      "title": "Mister Rogers: Now on YouTube",
+      "summary": "On Thursday, Fred Rogers Productions started a channel dedicated to the beloved children\u2019s host. Eventually it will be a repository for full episodes, behind-the-scenes footage and compilations.",
+      "company": "Mister Rogers",
+      "link": "https://www.nytimes.com/2026/06/04/arts/television/mister-rogers-neighborhood-youtube.html",
+      "date": "Jun 04, 26",
+      "source": "NYT Arts",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "331d98eda108",
+      "title": "HPS to assume majority control of Discovery Behavioral Health",
+      "summary": "DBH is focused on treatment of mental health, eating disorders, and substance use disorder in children, adolescents, and adults. The post HPS to assume majority control of Discovery Behavioral Health ",
+      "company": "HPS",
+      "link": "https://www.pehub.com/hps-to-assume-majority-control-of-discovery-behavioral-health/",
+      "date": "Jun 04, 26",
+      "source": "PE Hub",
+      "layer": 3,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "177f7a618fbf",
+      "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
+      "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
+      "company": "Global Times",
+      "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/?utm_source=rss&utm_medium=rss&utm_campaign=global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression",
+      "date": "May 09, 26",
+      "source": "Venues Today",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
       "moments": []
     }
   ]
