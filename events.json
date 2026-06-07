@@ -1,7 +1,23 @@
 {
-  "generated": "2026-06-06T13:53:47.503125+00:00",
-  "total": 35,
+  "generated": "2026-06-07T14:04:08.409481+00:00",
+  "total": 36,
   "scraped": [
+    {
+      "id": "2e3c39cce843",
+      "title": "Benchmark breaks long fund size tradition with $2bn double fund close amid AI boom",
+      "summary": "Silicon Valley VC veteran Benchmark Capital has reportedly reached a $2bn final close across a pair of new funds - breaking a long tradition of sticking to smaller fund sizes. The post Benchmark break",
+      "company": "Benchmark",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/benchmark-capital-breaks-long-fund-size-tradition-with-2bn-double-fund-close-amid-ai-boom.html",
+      "date": "Jun 05, 26",
+      "source": "AltAssets",
+      "layer": 1,
+      "access": "pe",
+      "score": 23,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
     {
       "id": "98c18bffa70a",
       "title": "Sixth Street acquires minority stake in PE-backed Kpler at $3.7bn-plus valuation",
@@ -13,6 +29,22 @@
       "layer": 1,
       "access": "pe",
       "score": 19,
+      "moments": [
+        "acquisition",
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "f36e834646da",
+      "title": "LPs to increase US mid-market focus as liquidity pressures reshape private equity strategies",
+      "summary": "Nearly three-quarters of LPs plan to increase allocations to the US middle market over the next two years, compared with 48% that intend to increase commitments to large and mega-cap private equity fu",
+      "company": "LPs",
+      "link": "https://www.altassets.net/featured/lps-to-increase-us-mid-market-focus-as-liquidity-pressures-reshape-private-equity-strategies.html",
+      "date": "Jun 05, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
       "moments": [
         "acquisition",
         "pe_investment"
@@ -32,6 +64,70 @@
       "moments": [
         "funding_round",
         "company_launch"
+      ]
+    },
+    {
+      "id": "3363e605f635",
+      "title": "Norvestor hits \u20ac2bn hard cap for tenth flagship buyout fund",
+      "summary": "Nordic private equity firm Norvestor has taken just three months to reach a \u20ac2bn hard cap close for its tenth flagship fund. The post Norvestor hits \u20ac2bn hard cap for tenth flagship buyout fund appear",
+      "company": "Norvestor",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/norway-western-europe-europe-by-region/norvestor-hits-e2bn-hard-cap-for-tenth-flagship-buyout-fund.html",
+      "date": "Jun 05, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "5d38195698a4",
+      "title": "HSBC AM beats target with $2bn sophomore UK direct lending fundraise",
+      "summary": "HSBC Asset Management has held an above-target final close for its second UK direct lending fund, securing $2bn from institutional investors across the vehicle and associated mandates. The post HSBC A",
+      "company": "HSBC AM",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/hsbc-am-beats-target-with-2bn-sophomore-uk-direct-lending-fundraise.html",
+      "date": "Jun 05, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "8006ba0b39c7",
+      "title": "Merantix Capital closes \u20ac103m AI fund to back early-stage European startups",
+      "summary": "Berlin-based venture capital firm Merantix Capital has closed a \u20ac103m fund focused on backing early-stage artificial intelligence startups across Europe. The post Merantix Capital closes \u20ac103m AI fund",
+      "company": "Merantix Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/germany-western-europe-europe-by-region/merantix-capital-closes-e103m-ai-fund-to-back-early-stage-european-startups.html",
+      "date": "Jun 05, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "f4788d13be53",
+      "title": "Deal Roundup: JC Flowers buys Monte Paschi Banque, Praesidian Capital exits Green Circuits",
+      "summary": "JC Flowers &#038; Co has acquired lender Monte Paschi Banque - formerly the French subsidiary of Monte dei Paschi di Siena. The post Deal Roundup: JC Flowers buys Monte Paschi Banque, Praesidian Capit",
+      "company": "Deal Roundup",
+      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-jc-flowers-buys-monte-paschi-banque-praesidian-capital-exits-green-circuits.html",
+      "date": "Jun 03, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "acquisition",
+        "pe_investment"
       ]
     },
     {
@@ -66,6 +162,21 @@
       ]
     },
     {
+      "id": "c887e1e34e64",
+      "title": "Olivia Rodrigo Reveals New Album Has Duet With the Cure\u2019s Robert Smith Via Surprise Premiere for \u2018What\u2019s Wrong With Me\u2019 at Primavera Sound",
+      "summary": "One of pop&#8217;s best-kept secrets of 2026 out, as the news is out that Olivia Rodrigo and the Cure&#8217;s Robert Smith have a full-on duet on her forthcoming album, which is less than a week away ",
+      "company": "Olivia Rodrigo Reveals New Album Has",
+      "link": "https://variety.com/2026/music/news/olivia-rodrigo-robert-smith-duet-whats-wrong-with-me-cure-1236768701/",
+      "date": "Jun 06, 26",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 17,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
       "id": "7a468132ba18",
       "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
       "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
@@ -81,13 +192,13 @@
       ]
     },
     {
-      "id": "6e953e833af2",
-      "title": "\u2018Don\u2019t Look for Me, I\u2019m Gone\u2019: Lorde Premieres Unreleased Song, Puts Personal Spin on \u2018Girl, So Confusing\u2019 & More at Gov Ball 2026",
-      "summary": "\"This is the most nervous I've been for a show in a while,\" the festival headliner confessed.",
-      "company": "\u2018Don\u2019t Look",
-      "link": "https://www.billboard.com/music/music-news/lorde-gov-ball-2026-setlist-new-song-girl-so-confusing-1236265732/",
-      "date": "Jun 06, 26",
-      "source": "Billboard",
+      "id": "3dd274a4241d",
+      "title": "Ariana Grande Isn\u2019t Concerned With Making Up for Lost Time at \u2018Eternal Sunshine\u2019 Tour Opener",
+      "summary": "During her first headlining concert performance since 2019, the pop veteran ditched the greatest hits format for a pointed setlist that creates an essential conversation between herself and her fans",
+      "company": "Ariana Grande Isn\u2019t Concerned With Making",
+      "link": "https://www.rollingstone.com/music/music-live-reviews/ariana-grande-eternal-sunshine-tour-opener-1235572003/",
+      "date": "Jun 07, 26",
+      "source": "Rolling Stone Music",
       "layer": 1,
       "access": "pe",
       "score": 15,
@@ -111,12 +222,12 @@
       ]
     },
     {
-      "id": "31030a4ec050",
-      "title": "With 2026 Edition, Italy\u2019s Nameless Festival Scaled Up Without Losing Its Soul",
-      "summary": "Billboard Italy got an up-close look at the event that brought tens of thousands of people to the shores of Lake Como to see headliners Calvin Harris, John Summit and Fisher.",
-      "company": "With",
-      "link": "https://www.billboard.com/music/music-news/billboard-italy-nameless-festival-calvin-harris-john-summit-1236265838/",
-      "date": "Jun 05, 26",
+      "id": "08ea5b54c9f4",
+      "title": "The 10 Best Moments From Primavera Sound Festival 2026",
+      "summary": "From legendary late-night headliners to exciting early-day up-and-comers, the best things we saw from a weekend by the water in Barcelona.",
+      "company": "The",
+      "link": "https://www.billboard.com/lists/primavera-sound-barcelona-2026-best-moments-olivia-cure/",
+      "date": "Jun 07, 26",
       "source": "Billboard",
       "layer": 1,
       "access": "pe",
@@ -126,14 +237,29 @@
       ]
     },
     {
-      "id": "6e4fcd02ca30",
-      "title": "Primavera Sound: Severe Weather Cancels Doja Cat\u2019s Headlining Set",
-      "summary": "\u201cI don\u2019t think anybody really, truly knew how bad it was gonna get, but it got bad,\u201d singer says after heavy rain and wind gusts hit Barcelona fest",
-      "company": "Primavera Sound",
-      "link": "https://www.rollingstone.com/music/music-news/primavera-sound-severe-weather-cancels-doja-cat-set-1235572924/",
-      "date": "Jun 05, 26",
-      "source": "Rolling Stone News",
-      "layer": 3,
+      "id": "e1531b02d71f",
+      "title": "See the Cure Unearth Deep Cuts at Primavera Sound Headlining Set",
+      "summary": "\"2 Late,\" \"Wrong Number,\" and \"Mint Car\" among the rarities at Robert Smith and company's first concert since Nov. 2024",
+      "company": "See",
+      "link": "https://www.rollingstone.com/music/music-news/the-cure-deep-cuts-primavera-sound-1235573435/",
+      "date": "Jun 06, 26",
+      "source": "Rolling Stone Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "52008f8f696b",
+      "title": "The Best Moments From Gov Ball 2026",
+      "summary": "Lorde, Stray Kids, and A$AP Rocky are headlining the New York festival this year",
+      "company": "The Best Moments From Gov Ball",
+      "link": "https://www.rollingstone.com/music/music-pictures/gov-ball-2026-photos-1235573331/",
+      "date": "Jun 06, 26",
+      "source": "Rolling Stone Music",
+      "layer": 1,
       "access": "pe",
       "score": 12,
       "moments": [
@@ -171,33 +297,33 @@
       ]
     },
     {
-      "id": "1b4b4e0bdb69",
-      "title": "Add to playlist: the introspective \u2018Afromood\u2019 of Nigerian star Strei and the week\u2019s best new tracks",
-      "summary": "Less interested in spectacle than vibe, the Delta State artist\u2019s subtle atmospheric projects are carving a quietly distinctive pathFrom Delta State, NigeriaRecommended if you like Omah Lay, Rema, XXXT",
-      "company": "Add to playlist",
-      "link": "https://www.theguardian.com/music/2026/jun/05/add-to-playlist-nigerian-star-strei-and-the-weeks-best-new-tracks",
-      "date": "Jun 05, 26",
-      "source": "Guardian Music",
-      "layer": 1,
+      "id": "223800f622d8",
+      "title": "Watch Shania Twain play intimate, 200-capacity show at The Shacklewell Arms in London",
+      "summary": "It comes ahead of her opening for Harry Styles on his record-breaking 12-night run at Wembley Stadium next week The post Watch Shania Twain play intimate, 200-capacity show at The Shacklewell Arms in ",
+      "company": "Watch Shania Twain",
+      "link": "https://www.nme.com/news/music/watch-shania-twain-play-intimate-200-capacity-show-at-the-shacklewell-arms-in-london-3949521?utm_source=rss&utm_medium=rss&utm_campaign=watch-shania-twain-play-intimate-200-capacity-show-at-the-shacklewell-arms-in-london",
+      "date": "Jun 07, 26",
+      "source": "NME",
+      "layer": 2,
       "access": "pe",
       "score": 11,
       "moments": [
-        "festival_headliner"
+        "record_breaking"
       ]
     },
     {
-      "id": "519c7c84fdb3",
-      "title": "\u2018We\u2019re really good. I don\u2019t mean that arrogantly\u2019: Yard Act on bullying, imposter syndrome and their heavy new album",
-      "summary": "The Leeds group arrived in a frenzy of post-punk energy, picking at the scabs of society \u2013 then started questioning their instant success. They talk about dodging \u2018the megaband treadmill\u2019 to make thei",
-      "company": "\u2018We\u2019re",
-      "link": "https://www.theguardian.com/music/2026/jun/01/yard-act-new-album-leeds",
-      "date": "Jun 01, 26",
-      "source": "Guardian Music",
-      "layer": 1,
+      "id": "00af166f62e2",
+      "title": "After 30 years, young crowds still line up for punishment at L.A.'s harshest nightclub, Das Bunker",
+      "summary": "It's impossible to imagine Los Angeles' electronic scene without Das Bunker, founded in 1996 to champion brutalist club music.",
+      "company": "After",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-05-20/das-bunker-los-angeles-nightlife-dance-music-history",
+      "date": "May 20, 26",
+      "source": "LA Times Music",
+      "layer": 4,
       "access": "pe",
       "score": 11,
       "moments": [
-        "album_announcement"
+        "company_launch"
       ]
     },
     {
@@ -216,48 +342,18 @@
       ]
     },
     {
-      "id": "4de923e9404c",
-      "title": "Sen. Schmitt on Fixing College Sports in Congress",
-      "summary": "Senator Schmitt on the college sports bill, media rights pooling, SEC pushback, and the path to passage.",
-      "company": "Sen Schmitt",
-      "link": "https://frontofficesports.com/videos/sen-schmitt-on-fixing-college-sports-in-congress/",
-      "date": "Jun 04, 26",
-      "source": "Front Office Sports",
-      "layer": 1,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "rights_deal"
-      ]
-    },
-    {
-      "id": "8d4ae7cd3fac",
-      "title": "The Red Clay Strays Want You All to Get Along",
-      "summary": "Alabama country-rockers ask fans to come together on new album Grateful: \u201cEverybody in the band has different opinions, and we\u2019ve managed to do it for 10 years. What\u2019s stopping humanity from doing tha",
-      "company": "The Red Clay Strays Want You",
-      "link": "https://www.rollingstone.com/music/music-features/the-red-clay-strays-faith-god-politics-interview-1235573001/",
-      "date": "Jun 05, 26",
-      "source": "Rolling Stone Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "d80440a65765",
-      "title": "Anthropic Files Confidentially For IPO",
-      "summary": "Anthropic said Monday that it has submitted a confidential filing for a proposed IPO, marking an escalation in the race among generative AI behemoths to make it first to the public market.",
-      "company": "Anthropic Files Confidentially For IPO",
-      "link": "https://news.crunchbase.com/public/ai-unicorn-anthropic-files-confidentially-for-ipo/",
-      "date": "Jun 01, 26",
-      "source": "Crunchbase News",
+      "id": "7f261133631e",
+      "title": "Blink-182 just announced their first huge shows of 2027, headlining Rock Am Ring and Rock Im Park",
+      "summary": "\u201cTHEY ARE COMING\u2026\u201d The post Blink-182 just announced their first huge shows of 2027, headlining Rock Am Ring and Rock Im Park appeared first on NME.",
+      "company": "Blink-182 just",
+      "link": "https://www.nme.com/news/music/blink-182-just-announced-their-first-huge-shows-of-2027-headlining-rock-am-ring-and-rock-im-park-3949450?utm_source=rss&utm_medium=rss&utm_campaign=blink-182-just-announced-their-first-huge-shows-of-2027-headlining-rock-am-ring-and-rock-im-park",
+      "date": "Jun 06, 26",
+      "source": "NME",
       "layer": 5,
       "access": "pe",
       "score": 9,
       "moments": [
-        "ipo"
+        "festival_headliner"
       ]
     },
     {
@@ -273,21 +369,6 @@
       "score": 9,
       "moments": [
         "funding_round"
-      ]
-    },
-    {
-      "id": "c5cfcf90215e",
-      "title": "How Big Ten and SEC Found Themselves on the Opposite Side of Trump",
-      "summary": "The bill is considered dead if it doesn\u2019t pass the Senate before August.",
-      "company": "How Big Ten",
-      "link": "https://frontofficesports.com/how-big-ten-and-sec-found-themselves-on-the-opposite-side-of-trump/",
-      "date": "Jun 05, 26",
-      "source": "Front Office Sports",
-      "layer": 5,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "company_launch"
       ]
     },
     {
@@ -321,51 +402,6 @@
       ]
     },
     {
-      "id": "2c9aeb4c840f",
-      "title": "Power and glory: World Cup promises a spectacle impossible to ignore",
-      "summary": "Ten years in the making, the greatest show on earth is set for a six-week sprint through Trump\u2019s AmericaThis is the end, of our elaborate plans, the end. Of everything that stands, the end. It seems f",
-      "company": "Power and glory",
-      "link": "https://www.theguardian.com/football/ng-interactive/2026/jun/06/power-and-glory-world-cup-promises-a-spectacle-impossible-to-ignore",
-      "date": "Jun 06, 26",
-      "source": "Guardian Sport",
-      "layer": 5,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "34319074c18f",
-      "title": "Mill Point to acquire industrial products distributor Total Safety Supplies & Solutions Inc",
-      "summary": "TSSS is a division of Total Safety US, Inc. The post Mill Point to acquire industrial products distributor Total Safety Supplies &#038; Solutions Inc appeared first on PE Hub.",
-      "company": "Mill Point to",
-      "link": "https://www.pehub.com/mill-point-to-acquire-industrial-products-distributor-total-safety-supplies-solutions-inc/",
-      "date": "Jun 05, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "731079cb017b",
-      "title": "PE targets substance use care: 5 deals",
-      "summary": "Warburg Pincus, Frazier Healthcare Partners, Lee Equity and Sheridan are among the PE firms investing in the substance use care assets. The post PE targets substance use care: 5 deals appeared first o",
-      "company": "PE targets substance use care",
-      "link": "https://www.pehub.com/pe-targets-substance-use-care-5-deals/",
-      "date": "Jun 05, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
       "id": "18d07295e7f7",
       "title": "Reid Hoffman is leaving Microsoft\u2019s board to go \u2018founder mode\u2019 with startup Manus",
       "summary": "After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus.",
@@ -375,6 +411,21 @@
       "source": "TechCrunch Venture",
       "layer": 3,
       "access": "venture",
+      "score": 6,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "ab56a656f6f1",
+      "title": "\"Tides &amp; Voices\" Salon: Consolidating the Foundation for Peace and Development in the South China Sea Through Dialogue and Cooperation",
+      "summary": "BEIJING, June 6, 2026 /PRNewswire/ -- On June 5, the \"Tides & Voices\" salon convened at China Media Group's Sanya Studio. Hosted by the CMG Chinese Language Programming Center, this event brought toge",
+      "company": "\"Tides",
+      "link": "https://www.prnewswire.com/news-releases/tides--voices-salon-consolidating-the-foundation-for-peace-and-development-in-the-south-china-sea-through-dialogue-and-cooperation-302793345.html",
+      "date": "Jun 07, 26",
+      "source": "PR Newswire",
+      "layer": 2,
+      "access": "pe",
       "score": 6,
       "moments": [
         "company_launch"
@@ -396,6 +447,32 @@
       ]
     },
     {
+      "id": "6d98b9952fb3",
+      "title": "Unlocking the Americas: Air Canada and Abra Group Sign Memorandum to Expand Travel and Connectivity between Canada, Latin America and Beyond",
+      "summary": "Establishes pathway to strategic partnership of Air Canada and Abra Group and a joint business agreement Customers will benefit from an improved travel experience, expanded loyalty benefits, and enhan",
+      "company": "Unlocking the Americas",
+      "link": "https://www.prnewswire.com/news-releases/unlocking-the-americas-air-canada-and-abra-group-sign-memorandum-to-expand-travel-and-connectivity-between-canada-latin-america-and-beyond-302793350.html",
+      "date": "Jun 07, 26",
+      "source": "PR Newswire",
+      "layer": 2,
+      "access": "pe",
+      "score": 11,
+      "moments": []
+    },
+    {
+      "id": "b6894020a5c3",
+      "title": "SoFi Stadium workers vote to authorize strike with World Cup days away",
+      "summary": "Unite Here Local 11, the union representing SoFi Stadium workers, votes to authorize a strike less than a week before the venue will host a World Cup game.",
+      "company": "SoFi Stadium",
+      "link": "https://www.latimes.com/sports/soccer/story/2026-06-05/sofi-stadium-workers-vote-to-authorize-strike-world-cup",
+      "date": "Jun 06, 26",
+      "source": "LA Times Sports",
+      "layer": 2,
+      "access": "pe",
+      "score": 10,
+      "moments": []
+    },
+    {
       "id": "d5ab954e4aab",
       "title": "Maximize Every Square Foot: Using Digital Authority to Win High-Value Venue Bookings",
       "summary": "Source: ChatGPT Event organizers often struggle to secure premium venue bookings even when their content or services are strong. Limited visibility, unclear reputation, and weak online authority can r",
@@ -406,19 +483,6 @@
       "layer": 2,
       "access": "pe",
       "score": 10,
-      "moments": []
-    },
-    {
-      "id": "c8d1e3bf40ba",
-      "title": "Why the Bears\u2019 Indiana Move Isn\u2019t Final Despite State Celebrations",
-      "summary": "The Chicago Bears appeared to take another step toward leaving Chicago on Friday, announcing that their board of directors met and voted to advance a stadium development project in Hammond, Ind. The p",
-      "company": "Why",
-      "link": "https://www.sportico.com/law/analysis/2026/chicago-bears-stadium-relocation-nfl-approval-process-1234902577/",
-      "date": "Jun 06, 26",
-      "source": "Sportico",
-      "layer": 2,
-      "access": "pe",
-      "score": 9,
       "moments": []
     },
     {
@@ -435,66 +499,27 @@
       "moments": []
     },
     {
-      "id": "4d4196e6a2b6",
-      "title": "Phoebe Bridgers Announces Phone-Free 2026 Arena Tour",
-      "summary": "After performing intimate pop-up shows across the country \u2014 and one set at Madison Square Garden \u2014 the singer-songwriter will embark on her first solo tour in three years this fall",
-      "company": "Phoebe Bridgers Announces Phone-Free",
-      "link": "https://www.rollingstone.com/music/music-news/phoebe-bridgers-2026-tour-dates-1235571770/",
+      "id": "582c7bd35869",
+      "title": "Vinyl records are back, but they're polluting the planet. These labels are trying to help",
+      "summary": "The resurgence of vinyl records has taken a toll on the environment. Labels are banding together to help alleviate production effects.",
+      "company": "Vinyl",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-06-05/vinyl-records-are-hurting-environment-these-labels-are-helping",
       "date": "Jun 05, 26",
-      "source": "Rolling Stone News",
-      "layer": 2,
-      "access": "pe",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "02bb0e2f121d",
-      "title": "Take That review \u2013 stadium redux of Circus tour has maximal razzle-dazzle",
-      "summary": "St Mary\u2019s Stadium, SouthamptonElephants, clowns, aerialists hanging by their hair \u2026 the Big Top concept doesn\u2019t let up at this hugely enjoyable outing for a boy band with hits to spareTake That have n",
-      "company": "Take That",
-      "link": "https://www.theguardian.com/music/2026/may/30/take-that-review-stadium-redux-of-circus-tour-has-maximal-razzle-dazzle",
-      "date": "May 30, 26",
-      "source": "Guardian Music",
-      "layer": 2,
-      "access": "pe",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "f6e0dfae9d2f",
-      "title": "SES AI Corporation Securities Fraud Class Action Result of Weak Revenue Guidance and 37% Stock Decline - Investors may Contact Lewis Kahn, Esq, at...",
-      "summary": "NEW YORK and NEW ORLEANS, June 5, 2026 /PRNewswire/ -- Kahn Swick & Foti, LLC (\"KSF\") and KSF partner, former Attorney General of Louisiana, Charles C. Foti, Jr., remind investors with substantial los",
-      "company": "SES AI Corporation Securities Fraud Class",
-      "link": "https://www.prnewswire.com/news-releases/ses-ai-corporation-securities-fraud-class-action-result-of-weak-revenue-guidance-and-37-stock-decline---investors-may-contact-lewis-kahn-esq-at-kahn-swick--foti-llc-302793126.html",
-      "date": "Jun 06, 26",
-      "source": "PR Newswire",
-      "layer": 2,
-      "access": "public",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "35b22b145f50",
-      "title": "Roger Duthie of BearFish Sports Marketing Reveals the Trends Driving the Soon to Be $1.3 Trillion Sports Travel Industry",
-      "summary": "Sports marketing is a surging global industry that is reshaping travel, tourism, media, and brand strategy with skyrocketing year over year growth. Sports tourism surpassed $560 billion globally in 20",
-      "company": "Roger Duthie",
-      "link": "https://venuestoday.com/roger-duthie-of-bearfish-sports-marketing-reveals-the-trends-driving-the-soon-to-be-1-3-trillion-sports-travel-industry/?utm_source=rss&utm_medium=rss&utm_campaign=roger-duthie-of-bearfish-sports-marketing-reveals-the-trends-driving-the-soon-to-be-1-3-trillion-sports-travel-industry",
-      "date": "Apr 10, 26",
-      "source": "Venues Today",
-      "layer": 5,
-      "access": "pe",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "ad2f81aed4ea",
-      "title": "Mister Rogers: Now on YouTube",
-      "summary": "On Thursday, Fred Rogers Productions started a channel dedicated to the beloved children\u2019s host. Eventually it will be a repository for full episodes, behind-the-scenes footage and compilations.",
-      "company": "Mister Rogers",
-      "link": "https://www.nytimes.com/2026/06/04/arts/television/mister-rogers-neighborhood-youtube.html",
-      "date": "Jun 04, 26",
-      "source": "NYT Arts",
+      "source": "LA Times Music",
       "layer": 4,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "331d98eda108",
+      "title": "HPS to assume majority control of Discovery Behavioral Health",
+      "summary": "DBH is focused on treatment of mental health, eating disorders, and substance use disorder in children, adolescents, and adults. The post HPS to assume majority control of Discovery Behavioral Health ",
+      "company": "HPS",
+      "link": "https://www.pehub.com/hps-to-assume-majority-control-of-discovery-behavioral-health/",
+      "date": "Jun 04, 26",
+      "source": "PE Hub",
+      "layer": 3,
       "access": "pe",
       "score": 4,
       "moments": []
