@@ -1,34 +1,66 @@
 {
-  "generated": "2026-06-07T14:04:08.409481+00:00",
+  "generated": "2026-06-08T16:02:15.005291+00:00",
   "total": 36,
   "scraped": [
     {
-      "id": "2e3c39cce843",
-      "title": "Benchmark breaks long fund size tradition with $2bn double fund close amid AI boom",
-      "summary": "Silicon Valley VC veteran Benchmark Capital has reportedly reached a $2bn final close across a pair of new funds - breaking a long tradition of sticking to smaller fund sizes. The post Benchmark break",
-      "company": "Benchmark",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/benchmark-capital-breaks-long-fund-size-tradition-with-2bn-double-fund-close-amid-ai-boom.html",
-      "date": "Jun 05, 26",
-      "source": "AltAssets",
-      "layer": 1,
+      "id": "60e70ee4cc8b",
+      "title": "Pictet closes $1.53bn Monte Rosa Co-Investments VI fund, exceeding target",
+      "summary": "Pictet Alternative Advisors has raised $1.53bn for its sixth private equity co-investment vehicle, marking the largest fund in its Monte Rosa series and surpassing an initial target of $1bn amid stron",
+      "company": "Pictet",
+      "link": "https://www.privateequitywire.co.uk/pictet-closes-1-53bn-monte-rosa-co-investments-vi-fund-exceeding-target/",
+      "date": "Jun 08, 26",
+      "source": "PE Wire",
+      "layer": 5,
       "access": "pe",
-      "score": 23,
+      "score": 19,
       "moments": [
         "pe_investment",
         "fund_launch"
       ]
     },
     {
-      "id": "98c18bffa70a",
-      "title": "Sixth Street acquires minority stake in PE-backed Kpler at $3.7bn-plus valuation",
-      "summary": "Sixth Street has agreed to acquire a minority stake in private equity-backed commodities data and analytics provider Kpler in a transaction valuing the business at more than $3.7bn, according to a rep",
-      "company": "Sixth Street",
-      "link": "https://www.privateequitywire.co.uk/sixth-street-acquires-minority-stake-in-pe-backed-kpler-at-3-7bn-plus-valuation/",
-      "date": "Jun 04, 26",
-      "source": "PE Wire",
-      "layer": 1,
+      "id": "9941ed5e5190",
+      "title": "Deal Roundup: Carlyle completes MAI Capital buyout, Arcline agrees $535m Continental Aerospace acquisition",
+      "summary": "Carlyle has completed its purchase of a majority stake in registered investment advisor MAI Capital Management. The post Deal Roundup: Carlyle completes MAI Capital buyout, Arcline agrees $535m Contin",
+      "company": "Deal Roundup",
+      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-45.html",
+      "date": "Jun 08, 26",
+      "source": "AltAssets",
+      "layer": 5,
       "access": "pe",
       "score": 19,
+      "moments": [
+        "acquisition",
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "e93acdc15bea",
+      "title": "Hunter Point hits $4.3bn across debut NAV lending, preferred financing fund closes",
+      "summary": "Hunter Point Capital has raised $4.3bn across the inaugural vintages of its NAV Lending and Preferred Solutions strategies. The post Hunter Point hits $4.3bn across debut NAV lending, preferred financ",
+      "company": "Hunter Point",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208720.html",
+      "date": "Jun 08, 26",
+      "source": "AltAssets",
+      "layer": 1,
+      "access": "pe",
+      "score": 18,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "edc1aa02ee0f",
+      "title": "Thoma Bravo eyes cross-sell opportunities with HCSS and Nemetschek combo; Brand Velocity\u2019s acquisition of RCX Sports highlights PE\u2019s interest in...",
+      "summary": "With Thoma Bravo agreeing in April to combine HCSS with Nemetschek\u2019s build and construct segment, we\u2019ll look at how the combined entity can help HCSS going forward; also: exploring private equity\u2019s in",
+      "company": "Thoma Bravo",
+      "link": "https://www.pehub.com/thoma-bravo-eyes-cross-sell-opportunities-with-hcss-and-nemetschek-combo-brand-velocitys-acquisition-of-rcx-sports-highlights-pes-interest-in-youth-sports/",
+      "date": "Jun 08, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
       "moments": [
         "acquisition",
         "pe_investment"
@@ -67,12 +99,12 @@
       ]
     },
     {
-      "id": "3363e605f635",
-      "title": "Norvestor hits \u20ac2bn hard cap for tenth flagship buyout fund",
-      "summary": "Nordic private equity firm Norvestor has taken just three months to reach a \u20ac2bn hard cap close for its tenth flagship fund. The post Norvestor hits \u20ac2bn hard cap for tenth flagship buyout fund appear",
-      "company": "Norvestor",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/norway-western-europe-europe-by-region/norvestor-hits-e2bn-hard-cap-for-tenth-flagship-buyout-fund.html",
-      "date": "Jun 05, 26",
+      "id": "8401a32bfb47",
+      "title": "Estancia Capital clears target for latest financial services fund, closes on $367m",
+      "summary": "Financial services-focused investor Estancia Capital Management has beaten its target for its third buyout fund through a $367m final close. The post Estancia Capital clears target for latest financia",
+      "company": "Estancia Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-news-type/fund-news/funds-closed/100208705.html",
+      "date": "Jun 08, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -83,12 +115,12 @@
       ]
     },
     {
-      "id": "5d38195698a4",
-      "title": "HSBC AM beats target with $2bn sophomore UK direct lending fundraise",
-      "summary": "HSBC Asset Management has held an above-target final close for its second UK direct lending fund, securing $2bn from institutional investors across the vehicle and associated mandates. The post HSBC A",
-      "company": "HSBC AM",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/hsbc-am-beats-target-with-2bn-sophomore-uk-direct-lending-fundraise.html",
-      "date": "Jun 05, 26",
+      "id": "40a1cc139e99",
+      "title": "German wealth manager Liqid scores over \u20ac100m for new VC fund of funds",
+      "summary": "German digital wealth manager Liqid has raised more than \u20ac100m at the final close of its third venture capital fund of funds. The post German wealth manager Liqid scores over \u20ac100m for new VC fund of ",
+      "company": "German",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/germany-western-europe-europe-by-region/german-wealth-manager-liqid-scores-over-e100m-for-new-vc-fund-of-funds.html",
+      "date": "Jun 08, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -96,38 +128,6 @@
       "moments": [
         "pe_investment",
         "fund_launch"
-      ]
-    },
-    {
-      "id": "8006ba0b39c7",
-      "title": "Merantix Capital closes \u20ac103m AI fund to back early-stage European startups",
-      "summary": "Berlin-based venture capital firm Merantix Capital has closed a \u20ac103m fund focused on backing early-stage artificial intelligence startups across Europe. The post Merantix Capital closes \u20ac103m AI fund",
-      "company": "Merantix Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/germany-western-europe-europe-by-region/merantix-capital-closes-e103m-ai-fund-to-back-early-stage-european-startups.html",
-      "date": "Jun 05, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "f4788d13be53",
-      "title": "Deal Roundup: JC Flowers buys Monte Paschi Banque, Praesidian Capital exits Green Circuits",
-      "summary": "JC Flowers &#038; Co has acquired lender Monte Paschi Banque - formerly the French subsidiary of Monte dei Paschi di Siena. The post Deal Roundup: JC Flowers buys Monte Paschi Banque, Praesidian Capit",
-      "company": "Deal Roundup",
-      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-jc-flowers-buys-monte-paschi-banque-praesidian-capital-exits-green-circuits.html",
-      "date": "Jun 03, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "acquisition",
-        "pe_investment"
       ]
     },
     {
@@ -192,18 +192,33 @@
       ]
     },
     {
-      "id": "3dd274a4241d",
-      "title": "Ariana Grande Isn\u2019t Concerned With Making Up for Lost Time at \u2018Eternal Sunshine\u2019 Tour Opener",
-      "summary": "During her first headlining concert performance since 2019, the pop veteran ditched the greatest hits format for a pointed setlist that creates an essential conversation between herself and her fans",
-      "company": "Ariana Grande Isn\u2019t Concerned With Making",
-      "link": "https://www.rollingstone.com/music/music-live-reviews/ariana-grande-eternal-sunshine-tour-opener-1235572003/",
-      "date": "Jun 07, 26",
-      "source": "Rolling Stone Music",
-      "layer": 1,
-      "access": "pe",
+      "id": "49d036dfe6ca",
+      "title": "Software buyout market slumps to post-pandemic low as AI disruption weighs on valuations",
+      "summary": "Private equity investment in software companies has fallen sharply in 2026, hitting its weakest level since the Covid-19 pandemic, as concerns over AI reshape expectations for the sector\u2019s long-term e",
+      "company": "Software",
+      "link": "https://www.privateequitywire.co.uk/software-buyout-market-slumps-to-post-pandemic-low-as-ai-disruption-weighs-on-valuations/",
+      "date": "Jun 08, 26",
+      "source": "PE Wire",
+      "layer": 5,
+      "access": "public",
       "score": 15,
       "moments": [
-        "festival_headliner"
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "87ad6e64a538",
+      "title": "Samuel Releases \u2018Samuelito,\u2019 Blending Latin, Reggaeton and K-Pop",
+      "summary": "International artist Samuel has released &#8220;Samuelito,&#8221; a four-track album merging Latin rhythm, reggaeton energy, and the performance-driven aesthetic he developed during his career in Kore",
+      "company": "",
+      "link": "https://variety.com/2026/music/news/samuel-samuelito-latin-reggaeton-kpop-album-1236769094/",
+      "date": "Jun 08, 26",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "company_launch"
       ]
     },
     {
@@ -222,18 +237,33 @@
       ]
     },
     {
-      "id": "08ea5b54c9f4",
-      "title": "The 10 Best Moments From Primavera Sound Festival 2026",
-      "summary": "From legendary late-night headliners to exciting early-day up-and-comers, the best things we saw from a weekend by the water in Barcelona.",
-      "company": "The",
-      "link": "https://www.billboard.com/lists/primavera-sound-barcelona-2026-best-moments-olivia-cure/",
-      "date": "Jun 07, 26",
-      "source": "Billboard",
+      "id": "6f2063e85d58",
+      "title": "Watch Lorde put personal spin on Charli XCX collab \u2018Girl, So Confusing\u2019 at Governor\u2019s Ball 2026",
+      "summary": "The New Zealand singer hasn\u2019t been playing the track often at her \u2018Ultrasound\u2019 tour dates, but broke it out for the New York festival The post Watch Lorde put personal spin on Charli XCX collab \u2018Girl,",
+      "company": "Watch Lorde",
+      "link": "https://www.nme.com/news/music/watch-lorde-put-personal-spin-on-charli-xcx-collab-girl-so-confusing-at-governors-ball-2026-3949681?utm_source=rss&utm_medium=rss&utm_campaign=watch-lorde-put-personal-spin-on-charli-xcx-collab-girl-so-confusing-at-governors-ball-2026",
+      "date": "Jun 08, 26",
+      "source": "NME",
       "layer": 1,
       "access": "pe",
-      "score": 12,
+      "score": 14,
       "moments": [
-        "festival_headliner"
+        "tour_announcement"
+      ]
+    },
+    {
+      "id": "2762be1f636c",
+      "title": "Post your questions for David Byrne",
+      "summary": "As the former Talking Heads frontman releases his concert film American Utopia in 4K, he will join us to answer your questionsThe big suit is what you think of first when you think of David Byrne on s",
+      "company": "Post",
+      "link": "https://www.theguardian.com/music/2026/jun/08/post-your-questions-for-david-byrne",
+      "date": "Jun 08, 26",
+      "source": "Guardian Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "surprise_appearance"
       ]
     },
     {
@@ -243,7 +273,7 @@
       "company": "See",
       "link": "https://www.rollingstone.com/music/music-news/the-cure-deep-cuts-primavera-sound-1235573435/",
       "date": "Jun 06, 26",
-      "source": "Rolling Stone Music",
+      "source": "Rolling Stone News",
       "layer": 1,
       "access": "pe",
       "score": 12,
@@ -252,63 +282,18 @@
       ]
     },
     {
-      "id": "52008f8f696b",
-      "title": "The Best Moments From Gov Ball 2026",
-      "summary": "Lorde, Stray Kids, and A$AP Rocky are headlining the New York festival this year",
-      "company": "The Best Moments From Gov Ball",
-      "link": "https://www.rollingstone.com/music/music-pictures/gov-ball-2026-photos-1235573331/",
-      "date": "Jun 06, 26",
-      "source": "Rolling Stone Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "3b04f910ad41",
-      "title": "Snail Mail, Soccer Mommy Ploy 2026 Co-Headlining Run",
-      "summary": "The indie-rockers of Snail Mail and Soccer Mommy are teaming-up for a co-headlining a tour across the U.S. this fall.... The post Snail Mail, Soccer Mommy Ploy 2026 Co-Headlining Run appeared first on",
-      "company": "Snail Mail Soccer Mommy Ploy",
-      "link": "https://www.ticketnews.com/2026/06/snail-mail-soccer-mommy-ploy-2026-co-headlining-run/",
-      "date": "Jun 05, 26",
-      "source": "Ticket News",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "d65875864bb6",
-      "title": "MLB\u2019s Long-Stalled Stadium Plans\u2014Rays and A\u2019s\u2014Show Progress",
-      "summary": "The A\u2019s and Rays both are drawing closer to getting new ballparks.",
-      "company": "MLB\u2019s Long-Stalled Stadium Plans\u2014Rays",
-      "link": "https://frontofficesports.com/mlbs-long-stalled-stadium-plans-rays-and-as-show-progress/",
+      "id": "4146bcce91fa",
+      "title": "The Tao of RaiNao",
+      "summary": "An alchemist of reggaeton, jazz and alternative, RaiNao has graced both NPR's Tiny Desk and Bad Bunny's residency shows. The Puerto Rican artist continues the momentum with her new album, 'Marcri\u00e1.'",
+      "company": "The Tao",
+      "link": "https://www.latimes.com/delos/story/2026-06-04/rainao-interview-new-album-marcria-puerto-rico-cuba-omara-portuondo",
       "date": "Jun 04, 26",
-      "source": "Front Office Sports",
+      "source": "LA Times Music",
       "layer": 1,
       "access": "pe",
       "score": 11,
       "moments": [
-        "venue_announcement"
-      ]
-    },
-    {
-      "id": "223800f622d8",
-      "title": "Watch Shania Twain play intimate, 200-capacity show at The Shacklewell Arms in London",
-      "summary": "It comes ahead of her opening for Harry Styles on his record-breaking 12-night run at Wembley Stadium next week The post Watch Shania Twain play intimate, 200-capacity show at The Shacklewell Arms in ",
-      "company": "Watch Shania Twain",
-      "link": "https://www.nme.com/news/music/watch-shania-twain-play-intimate-200-capacity-show-at-the-shacklewell-arms-in-london-3949521?utm_source=rss&utm_medium=rss&utm_campaign=watch-shania-twain-play-intimate-200-capacity-show-at-the-shacklewell-arms-in-london",
-      "date": "Jun 07, 26",
-      "source": "NME",
-      "layer": 2,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "record_breaking"
+        "album_announcement"
       ]
     },
     {
@@ -327,6 +312,21 @@
       ]
     },
     {
+      "id": "519c7c84fdb3",
+      "title": "\u2018We\u2019re really good. I don\u2019t mean that arrogantly\u2019: Yard Act on bullying, imposter syndrome and their heavy new album",
+      "summary": "The Leeds group arrived in a frenzy of post-punk energy, picking at the scabs of society \u2013 then started questioning their instant success. They talk about dodging \u2018the megaband treadmill\u2019 to make thei",
+      "company": "\u2018We\u2019re",
+      "link": "https://www.theguardian.com/music/2026/jun/01/yard-act-new-album-leeds",
+      "date": "Jun 01, 26",
+      "source": "Guardian Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
       "id": "52815687d162",
       "title": "Bears Taking New $5B Stadium Plans Across State Line to Indiana",
       "summary": "The decision arrived just four days after political inaction by Illinois leaders.",
@@ -339,21 +339,6 @@
       "score": 9,
       "moments": [
         "venue_announcement"
-      ]
-    },
-    {
-      "id": "7f261133631e",
-      "title": "Blink-182 just announced their first huge shows of 2027, headlining Rock Am Ring and Rock Im Park",
-      "summary": "\u201cTHEY ARE COMING\u2026\u201d The post Blink-182 just announced their first huge shows of 2027, headlining Rock Am Ring and Rock Im Park appeared first on NME.",
-      "company": "Blink-182 just",
-      "link": "https://www.nme.com/news/music/blink-182-just-announced-their-first-huge-shows-of-2027-headlining-rock-am-ring-and-rock-im-park-3949450?utm_source=rss&utm_medium=rss&utm_campaign=blink-182-just-announced-their-first-huge-shows-of-2027-headlining-rock-am-ring-and-rock-im-park",
-      "date": "Jun 06, 26",
-      "source": "NME",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "festival_headliner"
       ]
     },
     {
@@ -402,8 +387,8 @@
       ]
     },
     {
-      "id": "18d07295e7f7",
-      "title": "Reid Hoffman is leaving Microsoft\u2019s board to go \u2018founder mode\u2019 with startup Manus",
+      "id": "fe56ffd350bd",
+      "title": "Reid Hoffman is leaving Microsoft\u2019s board to go \u2018founder mode\u2019 with startup Manas",
       "summary": "After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus.",
       "company": "Reid Hoffman",
       "link": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
@@ -411,21 +396,6 @@
       "source": "TechCrunch Venture",
       "layer": 3,
       "access": "venture",
-      "score": 6,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "ab56a656f6f1",
-      "title": "\"Tides &amp; Voices\" Salon: Consolidating the Foundation for Peace and Development in the South China Sea Through Dialogue and Cooperation",
-      "summary": "BEIJING, June 6, 2026 /PRNewswire/ -- On June 5, the \"Tides & Voices\" salon convened at China Media Group's Sanya Studio. Hosted by the CMG Chinese Language Programming Center, this event brought toge",
-      "company": "\"Tides",
-      "link": "https://www.prnewswire.com/news-releases/tides--voices-salon-consolidating-the-foundation-for-peace-and-development-in-the-south-china-sea-through-dialogue-and-cooperation-302793345.html",
-      "date": "Jun 07, 26",
-      "source": "PR Newswire",
-      "layer": 2,
-      "access": "pe",
       "score": 6,
       "moments": [
         "company_launch"
@@ -445,19 +415,6 @@
       "moments": [
         "acquisition"
       ]
-    },
-    {
-      "id": "6d98b9952fb3",
-      "title": "Unlocking the Americas: Air Canada and Abra Group Sign Memorandum to Expand Travel and Connectivity between Canada, Latin America and Beyond",
-      "summary": "Establishes pathway to strategic partnership of Air Canada and Abra Group and a joint business agreement Customers will benefit from an improved travel experience, expanded loyalty benefits, and enhan",
-      "company": "Unlocking the Americas",
-      "link": "https://www.prnewswire.com/news-releases/unlocking-the-americas-air-canada-and-abra-group-sign-memorandum-to-expand-travel-and-connectivity-between-canada-latin-america-and-beyond-302793350.html",
-      "date": "Jun 07, 26",
-      "source": "PR Newswire",
-      "layer": 2,
-      "access": "pe",
-      "score": 11,
-      "moments": []
     },
     {
       "id": "b6894020a5c3",
@@ -486,6 +443,19 @@
       "moments": []
     },
     {
+      "id": "c8d1e3bf40ba",
+      "title": "Why the Bears\u2019 Indiana Move Isn\u2019t Final Despite State Celebrations",
+      "summary": "The Chicago Bears appeared to take another step toward leaving Chicago on Friday, announcing that their board of directors met and voted to advance a stadium development project in Hammond, Ind. The p",
+      "company": "Why",
+      "link": "https://www.sportico.com/law/analysis/2026/chicago-bears-stadium-relocation-nfl-approval-process-1234902577/",
+      "date": "Jun 06, 26",
+      "source": "Sportico",
+      "layer": 2,
+      "access": "pe",
+      "score": 9,
+      "moments": []
+    },
+    {
       "id": "e7a33a5c5def",
       "title": "ESPN\u2019s Tim Legler: \u2018I Don\u2019t Think About Coaching Anymore\u2019",
       "summary": "Legler is making his NBA Finals broadcasting debut.",
@@ -496,6 +466,32 @@
       "layer": 3,
       "access": "pe",
       "score": 9,
+      "moments": []
+    },
+    {
+      "id": "a3590bdb6bf1",
+      "title": "Gracie Abrams sets four-night Kia Forum homecoming for Look at My Life tour",
+      "summary": "Gracie Abrams is hitting arenas worldwide with her 64-date Look at My Life tour, including four homecoming nights in December at Inglewood's Kia Forum.",
+      "company": "Gracie Abrams",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-05-28/gracie-abrams-tour-look-at-my-life-l-a-concerts-kia-forum",
+      "date": "May 28, 26",
+      "source": "LA Times Music",
+      "layer": 2,
+      "access": "pe",
+      "score": 8,
+      "moments": []
+    },
+    {
+      "id": "02bb0e2f121d",
+      "title": "Take That review \u2013 stadium redux of Circus tour has maximal razzle-dazzle",
+      "summary": "St Mary\u2019s Stadium, SouthamptonElephants, clowns, aerialists hanging by their hair \u2026 the Big Top concept doesn\u2019t let up at this hugely enjoyable outing for a boy band with hits to spareTake That have n",
+      "company": "Take That",
+      "link": "https://www.theguardian.com/music/2026/may/30/take-that-review-stadium-redux-of-circus-tour-has-maximal-razzle-dazzle",
+      "date": "May 30, 26",
+      "source": "Guardian Music",
+      "layer": 2,
+      "access": "pe",
+      "score": 8,
       "moments": []
     },
     {
@@ -512,19 +508,6 @@
       "moments": []
     },
     {
-      "id": "331d98eda108",
-      "title": "HPS to assume majority control of Discovery Behavioral Health",
-      "summary": "DBH is focused on treatment of mental health, eating disorders, and substance use disorder in children, adolescents, and adults. The post HPS to assume majority control of Discovery Behavioral Health ",
-      "company": "HPS",
-      "link": "https://www.pehub.com/hps-to-assume-majority-control-of-discovery-behavioral-health/",
-      "date": "Jun 04, 26",
-      "source": "PE Hub",
-      "layer": 3,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
       "id": "177f7a618fbf",
       "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
       "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
@@ -533,6 +516,19 @@
       "date": "May 09, 26",
       "source": "Venues Today",
       "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "27133a7f56ec",
+      "title": "NC Attorney General Presses Ticketmaster After Stanley Cup Queue Failures",
+      "summary": "North Carolina Attorney General Jeff Jackson is demanding answers from Ticketmaster after Carolina Hurricanes season ticket holders said they were... The post NC Attorney General Presses Ticketmaster ",
+      "company": "",
+      "link": "https://www.ticketnews.com/2026/06/nc-attorney-general-presses-ticketmaster-after-stanley-cup-queue-failures/",
+      "date": "Jun 05, 26",
+      "source": "Ticket News",
+      "layer": 3,
       "access": "pe",
       "score": 4,
       "moments": []
