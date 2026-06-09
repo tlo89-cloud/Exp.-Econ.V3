@@ -1,23 +1,7 @@
 {
-  "generated": "2026-06-08T16:02:15.005291+00:00",
-  "total": 36,
+  "generated": "2026-06-09T15:14:49.152849+00:00",
+  "total": 38,
   "scraped": [
-    {
-      "id": "60e70ee4cc8b",
-      "title": "Pictet closes $1.53bn Monte Rosa Co-Investments VI fund, exceeding target",
-      "summary": "Pictet Alternative Advisors has raised $1.53bn for its sixth private equity co-investment vehicle, marking the largest fund in its Monte Rosa series and surpassing an initial target of $1bn amid stron",
-      "company": "Pictet",
-      "link": "https://www.privateequitywire.co.uk/pictet-closes-1-53bn-monte-rosa-co-investments-vi-fund-exceeding-target/",
-      "date": "Jun 08, 26",
-      "source": "PE Wire",
-      "layer": 5,
-      "access": "pe",
-      "score": 19,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
     {
       "id": "9941ed5e5190",
       "title": "Deal Roundup: Carlyle completes MAI Capital buyout, Arcline agrees $535m Continental Aerospace acquisition",
@@ -51,35 +35,35 @@
       ]
     },
     {
-      "id": "edc1aa02ee0f",
-      "title": "Thoma Bravo eyes cross-sell opportunities with HCSS and Nemetschek combo; Brand Velocity\u2019s acquisition of RCX Sports highlights PE\u2019s interest in...",
-      "summary": "With Thoma Bravo agreeing in April to combine HCSS with Nemetschek\u2019s build and construct segment, we\u2019ll look at how the combined entity can help HCSS going forward; also: exploring private equity\u2019s in",
-      "company": "Thoma Bravo",
-      "link": "https://www.pehub.com/thoma-bravo-eyes-cross-sell-opportunities-with-hcss-and-nemetschek-combo-brand-velocitys-acquisition-of-rcx-sports-highlights-pes-interest-in-youth-sports/",
-      "date": "Jun 08, 26",
+      "id": "f8743b34c677",
+      "title": "Archimed acquires PET radiopharmaceuticals company IRAB",
+      "summary": "IRAB, founded in 2016 and headquartered in Barcelona, develops and produces PET radiopharmaceuticals for clinical diagnosis, clinical trials and biomedical research. The post Archimed acquires PET rad",
+      "company": "Archimed",
+      "link": "https://www.pehub.com/archimed-acquires-pet-radiopharmaceuticals-company-irab/",
+      "date": "Jun 09, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
       "score": 16,
       "moments": [
         "acquisition",
-        "pe_investment"
+        "company_launch"
       ]
     },
     {
-      "id": "f36e834646da",
-      "title": "LPs to increase US mid-market focus as liquidity pressures reshape private equity strategies",
-      "summary": "Nearly three-quarters of LPs plan to increase allocations to the US middle market over the next two years, compared with 48% that intend to increase commitments to large and mega-cap private equity fu",
-      "company": "LPs",
-      "link": "https://www.altassets.net/featured/lps-to-increase-us-mid-market-focus-as-liquidity-pressures-reshape-private-equity-strategies.html",
-      "date": "Jun 05, 26",
-      "source": "AltAssets",
+      "id": "e7a0372185e2",
+      "title": "Platte River Equity scoops up electrical equipment supplier Tallman Equipment Company",
+      "summary": "This deal marks Platte River\u2019s 100th acquisition since its founding in 2006. The post Platte River Equity scoops up electrical equipment supplier Tallman Equipment Company appeared first on PE Hub.",
+      "company": "Platte River Equity",
+      "link": "https://www.pehub.com/platte-river-equity-scoops-up-electrical-equipment-supplier-tallman-equipment-company/",
+      "date": "Jun 09, 26",
+      "source": "PE Hub",
       "layer": 5,
       "access": "pe",
-      "score": 16,
+      "score": 13,
       "moments": [
         "acquisition",
-        "pe_investment"
+        "company_launch"
       ]
     },
     {
@@ -95,6 +79,22 @@
       "score": 13,
       "moments": [
         "funding_round",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "4e5f0161f360",
+      "title": "Banner Capital strengthens team with principal hire",
+      "summary": "Banner Capital, a lower middle market private equity firm specialising in founder-led and family-owned businesses across the western United States, has appointed McKay Potter as principal. Potter join",
+      "company": "Banner Capital",
+      "link": "https://www.altassets.net/market-news/banner-capital-strengthens-team-with-principal-hire.html",
+      "date": "Jun 09, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
         "company_launch"
       ]
     },
@@ -115,27 +115,11 @@
       ]
     },
     {
-      "id": "40a1cc139e99",
-      "title": "German wealth manager Liqid scores over \u20ac100m for new VC fund of funds",
-      "summary": "German digital wealth manager Liqid has raised more than \u20ac100m at the final close of its third venture capital fund of funds. The post German wealth manager Liqid scores over \u20ac100m for new VC fund of ",
-      "company": "German",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/germany-western-europe-europe-by-region/german-wealth-manager-liqid-scores-over-e100m-for-new-vc-fund-of-funds.html",
-      "date": "Jun 08, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "8810db8e8600",
+      "id": "d468645b4458",
       "title": "Alexis Smith of The Feminine Glow Emerges at the Center of the Feminine Energy Coaching Boom",
       "summary": "DUBAI, UAE &#8211; &#160;The Feminine Glow, the fast-growing femininity and inner work platform founded by Alexis Smith, is gaining national attention as interest in coaching, self-development, and fe",
       "company": "Alexis Smith",
-      "link": "https://venuestoday.com/alexis-smith-of-the-feminine-glow-emerges-at-the-center-of-the-feminine-energy-coaching-boom/?utm_source=rss&utm_medium=rss&utm_campaign=alexis-smith-of-the-feminine-glow-emerges-at-the-center-of-the-feminine-energy-coaching-boom",
+      "link": "https://venuestoday.com/alexis-smith-of-the-feminine-glow-emerges-at-the-center-of-the-feminine-energy-coaching-boom/",
       "date": "Mar 29, 26",
       "source": "Venues Today",
       "layer": 2,
@@ -162,26 +146,41 @@
       ]
     },
     {
-      "id": "c887e1e34e64",
-      "title": "Olivia Rodrigo Reveals New Album Has Duet With the Cure\u2019s Robert Smith Via Surprise Premiere for \u2018What\u2019s Wrong With Me\u2019 at Primavera Sound",
-      "summary": "One of pop&#8217;s best-kept secrets of 2026 out, as the news is out that Olivia Rodrigo and the Cure&#8217;s Robert Smith have a full-on duet on her forthcoming album, which is less than a week away ",
-      "company": "Olivia Rodrigo Reveals New Album Has",
-      "link": "https://variety.com/2026/music/news/olivia-rodrigo-robert-smith-duet-whats-wrong-with-me-cure-1236768701/",
-      "date": "Jun 06, 26",
-      "source": "Variety Music",
+      "id": "cdde573d085b",
+      "title": "Zepto\u2019s IPO filing reveals fast growth, bigger losses, and a valuation question nobody\u2019s answered yet",
+      "summary": "Zepto's advertising revenue jumped 151%, outpacing the company's 104% growth in operating revenue.",
+      "company": "Zepto\u2019s IPO",
+      "link": "https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/",
+      "date": "Jun 09, 26",
+      "source": "TechCrunch Startups",
+      "layer": 2,
+      "access": "pe",
+      "score": 18,
+      "moments": [
+        "ipo"
+      ]
+    },
+    {
+      "id": "4da665c2fe55",
+      "title": "Sara Bareilles Announces North American \u2018Good Grief Tour\u2019",
+      "summary": "Sara Bareilles will return to the stage this fall with a North American headlining tour supporting her upcoming album Good... The post Sara Bareilles Announces North American \u2018Good Grief Tour\u2019 appeare",
+      "company": "",
+      "link": "https://www.ticketnews.com/2026/06/sara-bareilles-announces-north-american-good-grief-tour/",
+      "date": "Jun 08, 26",
+      "source": "Ticket News",
       "layer": 1,
       "access": "pe",
       "score": 17,
       "moments": [
-        "album_announcement"
+        "festival_headliner"
       ]
     },
     {
-      "id": "7a468132ba18",
+      "id": "6c250e94b064",
       "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
       "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
       "company": "Kiro Eid Built",
-      "link": "https://venuestoday.com/kiro-eid-built-8x6-design-studio-here-is-how-he-did-it-without-a-network-or-shortcuts/?utm_source=rss&utm_medium=rss&utm_campaign=kiro-eid-built-8x6-design-studio-here-is-how-he-did-it-without-a-network-or-shortcuts",
+      "link": "https://venuestoday.com/kiro-eid-built-8x6-design-studio-here-is-how-he-did-it-without-a-network-or-shortcuts/",
       "date": "Mar 28, 26",
       "source": "Venues Today",
       "layer": 2,
@@ -192,18 +191,18 @@
       ]
     },
     {
-      "id": "49d036dfe6ca",
-      "title": "Software buyout market slumps to post-pandemic low as AI disruption weighs on valuations",
-      "summary": "Private equity investment in software companies has fallen sharply in 2026, hitting its weakest level since the Covid-19 pandemic, as concerns over AI reshape expectations for the sector\u2019s long-term e",
-      "company": "Software",
-      "link": "https://www.privateequitywire.co.uk/software-buyout-market-slumps-to-post-pandemic-low-as-ai-disruption-weighs-on-valuations/",
+      "id": "276e97e89aa1",
+      "title": "Zach Top Adds New Arena Dates to \u2018Cold Beer & Country Music Tour\u2019",
+      "summary": "Zach Top has announced additional dates for his \u201cCold Beer &#38; Country Music Tour,\u201d extending the run into the fall... The post Zach Top Adds New Arena Dates to \u2018Cold Beer &amp; Country Music Tour\u2019 ",
+      "company": "Zach Top Adds New Arena Dates",
+      "link": "https://www.ticketnews.com/2026/06/zach-top-adds-new-arena-dates-to-cold-beer-country-music-tour/",
       "date": "Jun 08, 26",
-      "source": "PE Wire",
-      "layer": 5,
-      "access": "public",
-      "score": 15,
+      "source": "Ticket News",
+      "layer": 2,
+      "access": "pe",
+      "score": 16,
       "moments": [
-        "pe_investment"
+        "venue_announcement"
       ]
     },
     {
@@ -237,21 +236,6 @@
       ]
     },
     {
-      "id": "6f2063e85d58",
-      "title": "Watch Lorde put personal spin on Charli XCX collab \u2018Girl, So Confusing\u2019 at Governor\u2019s Ball 2026",
-      "summary": "The New Zealand singer hasn\u2019t been playing the track often at her \u2018Ultrasound\u2019 tour dates, but broke it out for the New York festival The post Watch Lorde put personal spin on Charli XCX collab \u2018Girl,",
-      "company": "Watch Lorde",
-      "link": "https://www.nme.com/news/music/watch-lorde-put-personal-spin-on-charli-xcx-collab-girl-so-confusing-at-governors-ball-2026-3949681?utm_source=rss&utm_medium=rss&utm_campaign=watch-lorde-put-personal-spin-on-charli-xcx-collab-girl-so-confusing-at-governors-ball-2026",
-      "date": "Jun 08, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "tour_announcement"
-      ]
-    },
-    {
       "id": "2762be1f636c",
       "title": "Post your questions for David Byrne",
       "summary": "As the former Talking Heads frontman releases his concert film American Utopia in 4K, he will join us to answer your questionsThe big suit is what you think of first when you think of David Byrne on s",
@@ -267,18 +251,78 @@
       ]
     },
     {
-      "id": "e1531b02d71f",
-      "title": "See the Cure Unearth Deep Cuts at Primavera Sound Headlining Set",
-      "summary": "\"2 Late,\" \"Wrong Number,\" and \"Mint Car\" among the rarities at Robert Smith and company's first concert since Nov. 2024",
-      "company": "See",
-      "link": "https://www.rollingstone.com/music/music-news/the-cure-deep-cuts-primavera-sound-1235573435/",
-      "date": "Jun 06, 26",
-      "source": "Rolling Stone News",
+      "id": "4a0f8dadc0a4",
+      "title": "Future Standard locks in largest private fund to date at $3bn",
+      "summary": "Future Standard, a global alternative asset manager, has announced its successful final close of its PA Secondary Fund V. The fund closed with approximately $3bn in total committed capital, which make",
+      "company": "Future Standard",
+      "link": "https://www.altassets.net/market-news/future-standard-locks-in-largest-private-fund-to-date-at-3bn.html",
+      "date": "Jun 09, 26",
+      "source": "AltAssets",
       "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "0242f1dc5343",
+      "title": "ROSAL\u00cdA Cancels Florida Concerts Last-Minute Amid Family Emergency",
+      "summary": "Pop star ROSAL\u00cdA called-off three gigs in Florida on her LUX Tour. The first shows were set to take place... The post ROSAL\u00cdA Cancels Florida Concerts Last-Minute Amid Family Emergency appeared first ",
+      "company": "",
+      "link": "https://www.ticketnews.com/2026/06/rosalia-cancels-florida-concerts-last-minute-emergency/",
+      "date": "Jun 08, 26",
+      "source": "Ticket News",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "479e596ed99f",
+      "title": "3IF Ventures concludes first tranche of African Inclusive Insurance Fund at $12m",
+      "summary": "3IF Ventures, an impact venture capital fund dedicated to Africa\u2019s insurance start-up market, has made its first close of its III Fund at $12m. According to AfricaGlobalFunds, the Inclusive Insurance ",
+      "company": "Ventures",
+      "link": "https://www.altassets.net/premium/3if-ventures-concludes-first-tranche-of-african-inclusive-insurance-fund-at-12m.html",
+      "date": "Jun 09, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "venture",
+      "score": 12,
+      "moments": [
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "9d750ca1c63b",
+      "title": "Wealth manager Simon Quick raises initial $60m for debut private equity FoF",
+      "summary": "Wealth management and multi-family office firm Simon Quick Advisors has raised about $60m at the first close of its first dedicated private equity vehicle. The post Wealth manager Simon Quick raises i",
+      "company": "Wealth manager Simon Quick",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208698.html",
+      "date": "Jun 08, 26",
+      "source": "AltAssets",
+      "layer": 5,
       "access": "pe",
       "score": 12,
       "moments": [
-        "festival_headliner"
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "fb1899f40b45",
+      "title": "Interpol tell us about new album \u2018This Mirror Weighs A Ton\u2019: \u201cWe just felt, \u2018Let\u2019s make this one count'\u201d",
+      "summary": "Check out the Massive Attack-inspired title track and \"classic Interpol\" 'See Out Loud' as frontman Paul Banks explains how fatherhood, improved band chemistry and becoming a five-piece helped create ",
+      "company": "Interpol",
+      "link": "https://www.nme.com/news/music/interpol-interview-this-mirror-weights-a-ton-paul-banks-new-album-see-out-loud-3949830?utm_source=rss&utm_medium=rss&utm_campaign=interpol-interview-this-mirror-weights-a-ton-paul-banks-new-album-see-out-loud",
+      "date": "Jun 09, 26",
+      "source": "NME",
+      "layer": 1,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "album_announcement"
       ]
     },
     {
@@ -312,33 +356,33 @@
       ]
     },
     {
-      "id": "519c7c84fdb3",
-      "title": "\u2018We\u2019re really good. I don\u2019t mean that arrogantly\u2019: Yard Act on bullying, imposter syndrome and their heavy new album",
-      "summary": "The Leeds group arrived in a frenzy of post-punk energy, picking at the scabs of society \u2013 then started questioning their instant success. They talk about dodging \u2018the megaband treadmill\u2019 to make thei",
-      "company": "\u2018We\u2019re",
-      "link": "https://www.theguardian.com/music/2026/jun/01/yard-act-new-album-leeds",
-      "date": "Jun 01, 26",
-      "source": "Guardian Music",
-      "layer": 1,
+      "id": "722cc109aa8d",
+      "title": "P&C insurers expand private markets exposure as other allocators reassess illiquidity",
+      "summary": "A growing cohort of property and casualty insurers is increasing allocations to private markets \u2013 including private equity, real estate and hedge fund strategies \u2013 even as some traditional institution",
+      "company": "P&C",
+      "link": "https://www.privateequitywire.co.uk/pc-insurers-expand-private-markets-exposure-as-other-allocators-reassess-illiquidity/",
+      "date": "Jun 09, 26",
+      "source": "PE Wire",
+      "layer": 2,
       "access": "pe",
       "score": 11,
       "moments": [
-        "album_announcement"
+        "pe_investment"
       ]
     },
     {
-      "id": "52815687d162",
-      "title": "Bears Taking New $5B Stadium Plans Across State Line to Indiana",
-      "summary": "The decision arrived just four days after political inaction by Illinois leaders.",
-      "company": "Bears Taking New",
-      "link": "https://frontofficesports.com/bears-taking-new-5b-stadium-plans-across-state-line-to-indiana/",
-      "date": "Jun 05, 26",
-      "source": "Front Office Sports",
-      "layer": 2,
+      "id": "ed24e331be68",
+      "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
+      "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
+      "company": "Niloufar Banisaied",
+      "link": "https://venuestoday.com/niloufar-banisaied-is-bringing-timeless-design-and-the-guest-experience-at-the-forefront/",
+      "date": "Jun 09, 26",
+      "source": "Venues Today",
+      "layer": 4,
       "access": "pe",
-      "score": 9,
+      "score": 11,
       "moments": [
-        "venue_announcement"
+        "company_launch"
       ]
     },
     {
@@ -402,11 +446,26 @@
       ]
     },
     {
-      "id": "493fd25ac40c",
+      "id": "ae02061c822e",
+      "title": "Academy of Emergency Nursing to Induct Eight Fellows",
+      "summary": "Nurses recognized for expertise in pediatrics, research, education, leadership development SCHAUMBURG, Ill., June 9, 2026 /PRNewswire/ -- The Emergency Nurses Association and Academy of Emergency Nurs",
+      "company": "Academy",
+      "link": "https://www.prnewswire.com/news-releases/academy-of-emergency-nursing-to-induct-eight-fellows-302795347.html",
+      "date": "Jun 09, 26",
+      "source": "PR Newswire",
+      "layer": 2,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "f3a1d1554548",
       "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
       "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
       "company": "Navigating",
-      "link": "https://venuestoday.com/navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026/?utm_source=rss&utm_medium=rss&utm_campaign=navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026",
+      "link": "https://venuestoday.com/navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026/",
       "date": "Apr 22, 26",
       "source": "Venues Today",
       "layer": 3,
@@ -417,81 +476,42 @@
       ]
     },
     {
-      "id": "b6894020a5c3",
-      "title": "SoFi Stadium workers vote to authorize strike with World Cup days away",
-      "summary": "Unite Here Local 11, the union representing SoFi Stadium workers, votes to authorize a strike less than a week before the venue will host a World Cup game.",
-      "company": "SoFi Stadium",
-      "link": "https://www.latimes.com/sports/soccer/story/2026-06-05/sofi-stadium-workers-vote-to-authorize-strike-world-cup",
-      "date": "Jun 06, 26",
-      "source": "LA Times Sports",
-      "layer": 2,
+      "id": "819cd230ff63",
+      "title": "Former DoJ Antitrust Attorneys Slam Live Nation-Ticketmaster Settlement: \u2018It Is Deeply Troubling That the Antitrust Division Is Engaged in Selective...",
+      "summary": "Two former top antitrust attorneys at the U.S. Department of Justice who were central to its case against Live Nation and Ticketmaster had strong words for the department following its abrupt settleme",
+      "company": "Former DoJ Antitrust Attorneys Slam Live",
+      "link": "https://variety.com/2026/music/news/doj-antitrust-attorneys-slam-live-nation-ticketmaster-settlement-1236769787/",
+      "date": "Jun 08, 26",
+      "source": "Variety Music",
+      "layer": 3,
       "access": "pe",
-      "score": 10,
+      "score": 14,
       "moments": []
     },
     {
-      "id": "d5ab954e4aab",
-      "title": "Maximize Every Square Foot: Using Digital Authority to Win High-Value Venue Bookings",
-      "summary": "Source: ChatGPT Event organizers often struggle to secure premium venue bookings even when their content or services are strong. Limited visibility, unclear reputation, and weak online authority can r",
-      "company": "Maximize Every Square Foot",
-      "link": "https://venuestoday.com/maximize-every-square-foot-using-digital-authority-to-win-high-value-venue-bookings/?utm_source=rss&utm_medium=rss&utm_campaign=maximize-every-square-foot-using-digital-authority-to-win-high-value-venue-bookings",
-      "date": "Mar 04, 26",
-      "source": "Venues Today",
+      "id": "6d1401ee35b9",
+      "title": "US stadium and hotel workers threaten strikes \u2018to make things fair\u2019 during World Cup",
+      "summary": "Low wages and fears of ICE crackdowns have set workers on edge of strike as thousands set to arrive during World CupHospitality and food service workers in several US cities hosting World Cup games ar",
+      "company": "US",
+      "link": "https://www.theguardian.com/football/2026/jun/09/stadium-hotel-workers-strike-world-cup",
+      "date": "Jun 09, 26",
+      "source": "Guardian Sport",
       "layer": 2,
       "access": "pe",
-      "score": 10,
+      "score": 12,
       "moments": []
     },
     {
-      "id": "c8d1e3bf40ba",
-      "title": "Why the Bears\u2019 Indiana Move Isn\u2019t Final Despite State Celebrations",
-      "summary": "The Chicago Bears appeared to take another step toward leaving Chicago on Friday, announcing that their board of directors met and voted to advance a stadium development project in Hammond, Ind. The p",
-      "company": "Why",
-      "link": "https://www.sportico.com/law/analysis/2026/chicago-bears-stadium-relocation-nfl-approval-process-1234902577/",
-      "date": "Jun 06, 26",
+      "id": "349536586264",
+      "title": "Sorsby Injunction: A Jump-the-Shark Moment for College Sports?",
+      "summary": "The&#160;ruling&#160;on Monday that Texas Tech quarterback&#160;Brendan Sorsby&#160;can play NCAA football despite having bet on his own team is a sports law earthquake. It\u2019s occurring at the intersec",
+      "company": "Sorsby Injunction",
+      "link": "https://www.sportico.com/law/analysis/2026/brendan-sorsby-injunction-betting-ncaa-takeaway-1234902706/",
+      "date": "Jun 09, 26",
       "source": "Sportico",
       "layer": 2,
       "access": "pe",
-      "score": 9,
-      "moments": []
-    },
-    {
-      "id": "e7a33a5c5def",
-      "title": "ESPN\u2019s Tim Legler: \u2018I Don\u2019t Think About Coaching Anymore\u2019",
-      "summary": "Legler is making his NBA Finals broadcasting debut.",
-      "company": "ESPN\u2019s Tim Legler:",
-      "link": "https://frontofficesports.com/espns-tim-legler-i-dont-think-about-coaching-anymore/",
-      "date": "Jun 05, 26",
-      "source": "Front Office Sports",
-      "layer": 3,
-      "access": "pe",
-      "score": 9,
-      "moments": []
-    },
-    {
-      "id": "a3590bdb6bf1",
-      "title": "Gracie Abrams sets four-night Kia Forum homecoming for Look at My Life tour",
-      "summary": "Gracie Abrams is hitting arenas worldwide with her 64-date Look at My Life tour, including four homecoming nights in December at Inglewood's Kia Forum.",
-      "company": "Gracie Abrams",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-05-28/gracie-abrams-tour-look-at-my-life-l-a-concerts-kia-forum",
-      "date": "May 28, 26",
-      "source": "LA Times Music",
-      "layer": 2,
-      "access": "pe",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "02bb0e2f121d",
-      "title": "Take That review \u2013 stadium redux of Circus tour has maximal razzle-dazzle",
-      "summary": "St Mary\u2019s Stadium, SouthamptonElephants, clowns, aerialists hanging by their hair \u2026 the Big Top concept doesn\u2019t let up at this hugely enjoyable outing for a boy band with hits to spareTake That have n",
-      "company": "Take That",
-      "link": "https://www.theguardian.com/music/2026/may/30/take-that-review-stadium-redux-of-circus-tour-has-maximal-razzle-dazzle",
-      "date": "May 30, 26",
-      "source": "Guardian Music",
-      "layer": 2,
-      "access": "pe",
-      "score": 8,
+      "score": 10,
       "moments": []
     },
     {
@@ -508,27 +528,40 @@
       "moments": []
     },
     {
-      "id": "177f7a618fbf",
-      "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
-      "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
-      "company": "Global Times",
-      "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/?utm_source=rss&utm_medium=rss&utm_campaign=global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression",
-      "date": "May 09, 26",
-      "source": "Venues Today",
+      "id": "d65a8c838b09",
+      "title": "DOD removes \"Christian\" label from recognized religions after fury over Mormonism's exclusion",
+      "summary": "The Department of Defense has revised its new, shortened list of recognized religions after fury from Utah political leaders over not classifying Mormonism as a \"Christian\" faith.Why it matters: The o",
+      "company": "DOD",
+      "link": "https://www.axios.com/local/salt-lake-city/2026/06/08/mormon-defense-dod-religions-christian-evangelicals",
+      "date": "Jun 08, 26",
+      "source": "Axios",
       "layer": 4,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "f14788394513",
+      "title": "At City Ballet, Spring Fever Hit, With Ups and Some Dispiriting Downs",
+      "summary": "New York City Ballet ended its season on a positive note with \u201cCopp\u00e9lia,\u201d but the repertory tipped too heavily into unimportant ballets.",
+      "company": "At City Ballet Spring Fever Hit",
+      "link": "https://www.nytimes.com/2026/06/09/arts/dance/new-york-city-ballet-spring-season.html",
+      "date": "Jun 09, 26",
+      "source": "NYT Arts",
+      "layer": 3,
       "access": "pe",
       "score": 4,
       "moments": []
     },
     {
-      "id": "27133a7f56ec",
-      "title": "NC Attorney General Presses Ticketmaster After Stanley Cup Queue Failures",
-      "summary": "North Carolina Attorney General Jeff Jackson is demanding answers from Ticketmaster after Carolina Hurricanes season ticket holders said they were... The post NC Attorney General Presses Ticketmaster ",
-      "company": "",
-      "link": "https://www.ticketnews.com/2026/06/nc-attorney-general-presses-ticketmaster-after-stanley-cup-queue-failures/",
-      "date": "Jun 05, 26",
-      "source": "Ticket News",
-      "layer": 3,
+      "id": "8f95fdb4c719",
+      "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
+      "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
+      "company": "Global Times",
+      "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/",
+      "date": "May 09, 26",
+      "source": "Venues Today",
+      "layer": 4,
       "access": "pe",
       "score": 4,
       "moments": []
