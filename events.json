@@ -1,85 +1,21 @@
 {
-  "generated": "2026-06-09T15:14:49.152849+00:00",
-  "total": 38,
+  "generated": "2026-06-10T15:48:48.663834+00:00",
+  "total": 35,
   "scraped": [
     {
-      "id": "9941ed5e5190",
-      "title": "Deal Roundup: Carlyle completes MAI Capital buyout, Arcline agrees $535m Continental Aerospace acquisition",
-      "summary": "Carlyle has completed its purchase of a majority stake in registered investment advisor MAI Capital Management. The post Deal Roundup: Carlyle completes MAI Capital buyout, Arcline agrees $535m Contin",
-      "company": "Deal Roundup",
-      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-45.html",
-      "date": "Jun 08, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 19,
-      "moments": [
-        "acquisition",
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "e93acdc15bea",
-      "title": "Hunter Point hits $4.3bn across debut NAV lending, preferred financing fund closes",
-      "summary": "Hunter Point Capital has raised $4.3bn across the inaugural vintages of its NAV Lending and Preferred Solutions strategies. The post Hunter Point hits $4.3bn across debut NAV lending, preferred financ",
-      "company": "Hunter Point",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208720.html",
-      "date": "Jun 08, 26",
-      "source": "AltAssets",
-      "layer": 1,
-      "access": "pe",
-      "score": 18,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "f8743b34c677",
-      "title": "Archimed acquires PET radiopharmaceuticals company IRAB",
-      "summary": "IRAB, founded in 2016 and headquartered in Barcelona, develops and produces PET radiopharmaceuticals for clinical diagnosis, clinical trials and biomedical research. The post Archimed acquires PET rad",
-      "company": "Archimed",
-      "link": "https://www.pehub.com/archimed-acquires-pet-radiopharmaceuticals-company-irab/",
+      "id": "e17f7e51d9f4",
+      "title": "The bull and bear cases for SpaceX",
+      "summary": "It's a foregone conclusion that SpaceX will raise at least $85 billion in its record-wrecking IPO, with pricing set for Thursday and first trades for Friday.The question, therefore, is what happens ne",
+      "company": "The",
+      "link": "https://www.axios.com/2026/06/09/spacex-ipo-bull-bear-elon-musk",
       "date": "Jun 09, 26",
-      "source": "PE Hub",
-      "layer": 5,
+      "source": "Axios",
+      "layer": 2,
       "access": "pe",
-      "score": 16,
-      "moments": [
-        "acquisition",
-        "company_launch"
-      ]
-    },
-    {
-      "id": "e7a0372185e2",
-      "title": "Platte River Equity scoops up electrical equipment supplier Tallman Equipment Company",
-      "summary": "This deal marks Platte River\u2019s 100th acquisition since its founding in 2006. The post Platte River Equity scoops up electrical equipment supplier Tallman Equipment Company appeared first on PE Hub.",
-      "company": "Platte River Equity",
-      "link": "https://www.pehub.com/platte-river-equity-scoops-up-electrical-equipment-supplier-tallman-equipment-company/",
-      "date": "Jun 09, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "acquisition",
-        "company_launch"
-      ]
-    },
-    {
-      "id": "60424aacf3b4",
-      "title": "Ex-Anduril engineer raises $42M to build the Amazon of composite parts",
-      "summary": "Layup Parts co-founder Zack Eakin has drawn on a motorsports background, and his experience working for Palmer Luckey and Elon Musk, to tackle making faster, cheaper, and better composites.",
-      "company": "Ex-Anduril engineer",
-      "link": "https://techcrunch.com/2026/06/02/ex-anduril-engineer-raises-42m-to-build-the-amazon-of-composite-parts/",
-      "date": "Jun 02, 26",
-      "source": "TechCrunch Startups",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
+      "score": 22,
       "moments": [
         "funding_round",
-        "company_launch"
+        "ipo"
       ]
     },
     {
@@ -99,22 +35,6 @@
       ]
     },
     {
-      "id": "8401a32bfb47",
-      "title": "Estancia Capital clears target for latest financial services fund, closes on $367m",
-      "summary": "Financial services-focused investor Estancia Capital Management has beaten its target for its third buyout fund through a $367m final close. The post Estancia Capital clears target for latest financia",
-      "company": "Estancia Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-news-type/fund-news/funds-closed/100208705.html",
-      "date": "Jun 08, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
       "id": "d468645b4458",
       "title": "Alexis Smith of The Feminine Glow Emerges at the Center of the Feminine Energy Coaching Boom",
       "summary": "DUBAI, UAE &#8211; &#160;The Feminine Glow, the fast-growing femininity and inner work platform founded by Alexis Smith, is gaining national attention as interest in coaching, self-development, and fe",
@@ -131,14 +51,14 @@
       ]
     },
     {
-      "id": "4a5527cc03f8",
-      "title": "Paramount Wants Lawsuit Seeking to Block Warner Bros. Deal Tossed: \u2018Clumsy Attempt to Politicize Antitrust Litigation\u2019",
-      "summary": "In April, five streaming subscribers filed a federal lawsuit seeking to block Paramount Skydance&#8217;s $111 billion deal to swallow up Warner Bros. Discovery on antitrust grounds. Paramount on Thurs",
-      "company": "Paramount Wants Lawsuit Seeking",
-      "link": "https://variety.com/2026/tv/news/paramount-antitrust-lawsuit-block-warner-bros-deal-dismiss-reply-1236766853/",
-      "date": "Jun 04, 26",
+      "id": "bd16c9aef088",
+      "title": "Radial Entertainment Hires Former Paramount Global Exec Brendon Thomas as Chief Revenue Officer",
+      "summary": "Former Paramount Global exec Brendon Thomas has joined Radial Entertainment as the company&#8217;s new chief revenue officer. At Radial he&#8217;ll handle revenue generation through the company&#8217;",
+      "company": "",
+      "link": "https://variety.com/2026/tv/news/radial-entertainment-brendon-thomas-chief-revenue-officer-1236771053/",
+      "date": "Jun 10, 26",
       "source": "Variety Biz",
-      "layer": 3,
+      "layer": 2,
       "access": "pe",
       "score": 20,
       "moments": [
@@ -161,18 +81,18 @@
       ]
     },
     {
-      "id": "4da665c2fe55",
-      "title": "Sara Bareilles Announces North American \u2018Good Grief Tour\u2019",
-      "summary": "Sara Bareilles will return to the stage this fall with a North American headlining tour supporting her upcoming album Good... The post Sara Bareilles Announces North American \u2018Good Grief Tour\u2019 appeare",
-      "company": "",
-      "link": "https://www.ticketnews.com/2026/06/sara-bareilles-announces-north-american-good-grief-tour/",
-      "date": "Jun 08, 26",
-      "source": "Ticket News",
-      "layer": 1,
+      "id": "64500697fac4",
+      "title": "EU Kicks Off Probe of Paramount\u2019s $24 Billion in Middle Eastern Funding for Warner Bros. Deal",
+      "summary": "The European Union\u2019s regulatory arm is investigating Paramount Skydance\u2019s proposed Warner Bros. Discovery megamerger over the financial backing of three Middle Eastern sovereign wealth funds. The Euro",
+      "company": "EU Kicks Off Probe",
+      "link": "https://variety.com/2026/film/news/eu-probe-paramount-warner-bros-middle-eastern-funding-1236771268/",
+      "date": "Jun 10, 26",
+      "source": "Variety Biz",
+      "layer": 3,
       "access": "pe",
       "score": 17,
       "moments": [
-        "festival_headliner"
+        "acquisition"
       ]
     },
     {
@@ -191,63 +111,33 @@
       ]
     },
     {
-      "id": "276e97e89aa1",
-      "title": "Zach Top Adds New Arena Dates to \u2018Cold Beer & Country Music Tour\u2019",
-      "summary": "Zach Top has announced additional dates for his \u201cCold Beer &#38; Country Music Tour,\u201d extending the run into the fall... The post Zach Top Adds New Arena Dates to \u2018Cold Beer &amp; Country Music Tour\u2019 ",
-      "company": "Zach Top Adds New Arena Dates",
-      "link": "https://www.ticketnews.com/2026/06/zach-top-adds-new-arena-dates-to-cold-beer-country-music-tour/",
-      "date": "Jun 08, 26",
-      "source": "Ticket News",
-      "layer": 2,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "venue_announcement"
-      ]
-    },
-    {
-      "id": "87ad6e64a538",
-      "title": "Samuel Releases \u2018Samuelito,\u2019 Blending Latin, Reggaeton and K-Pop",
-      "summary": "International artist Samuel has released &#8220;Samuelito,&#8221; a four-track album merging Latin rhythm, reggaeton energy, and the performance-driven aesthetic he developed during his career in Kore",
-      "company": "",
-      "link": "https://variety.com/2026/music/news/samuel-samuelito-latin-reggaeton-kpop-album-1236769094/",
-      "date": "Jun 08, 26",
-      "source": "Variety Music",
+      "id": "16b012063389",
+      "title": "Queen\u2019s Roger Taylor announces new album \u2018Violence Insane In A Beautiful World\u2019 along with 2026 UK tour",
+      "summary": "He has also shared rousing new single 'Come On Summer (It's Party Time)' featuring The Ndlovu Youth Choir The post Queen&#8217;s Roger Taylor announces new album &#8216;Violence Insane In A Beautiful ",
+      "company": "Queen\u2019s Roger Taylor",
+      "link": "https://www.nme.com/news/music/queens-roger-taylor-announces-new-album-violence-insane-in-a-beautiful-world-along-with-2026-uk-tour-3950104?utm_source=rss&utm_medium=rss&utm_campaign=queens-roger-taylor-announces-new-album-violence-insane-in-a-beautiful-world-along-with-2026-uk-tour",
+      "date": "Jun 10, 26",
+      "source": "NME",
       "layer": 1,
       "access": "pe",
       "score": 14,
       "moments": [
-        "company_launch"
+        "album_announcement"
       ]
     },
     {
-      "id": "88a7bbf249e9",
-      "title": "LISTEN: Credit Risks: Top S&P Global Analyst Breaks Down the Paramount-Warner Bros. Discovery Deal",
-      "summary": "The proposed $111 billion merger between Paramount and Warner Bros. Discovery is approaching completion, but concerns around debt, execution risk, and long-term industry volatility loom large.&#160; O",
-      "company": "LISTEN",
-      "link": "https://variety.com/2026/biz/news/naveen-sarma-sp-global-credit-risk-warner-bros-paramount-1236766682/",
-      "date": "Jun 05, 26",
-      "source": "Variety Biz",
-      "layer": 3,
+      "id": "f42aa5b64835",
+      "title": "Warner Music acquires AI attribution startup Sureel AI",
+      "summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
+      "company": "Warner Music",
+      "link": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+      "date": "Jun 10, 26",
+      "source": "TechCrunch Startups",
+      "layer": 1,
       "access": "pe",
       "score": 14,
       "moments": [
         "acquisition"
-      ]
-    },
-    {
-      "id": "2762be1f636c",
-      "title": "Post your questions for David Byrne",
-      "summary": "As the former Talking Heads frontman releases his concert film American Utopia in 4K, he will join us to answer your questionsThe big suit is what you think of first when you think of David Byrne on s",
-      "company": "Post",
-      "link": "https://www.theguardian.com/music/2026/jun/08/post-your-questions-for-david-byrne",
-      "date": "Jun 08, 26",
-      "source": "Guardian Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "surprise_appearance"
       ]
     },
     {
@@ -266,18 +156,48 @@
       ]
     },
     {
-      "id": "0242f1dc5343",
-      "title": "ROSAL\u00cdA Cancels Florida Concerts Last-Minute Amid Family Emergency",
-      "summary": "Pop star ROSAL\u00cdA called-off three gigs in Florida on her LUX Tour. The first shows were set to take place... The post ROSAL\u00cdA Cancels Florida Concerts Last-Minute Amid Family Emergency appeared first ",
-      "company": "",
-      "link": "https://www.ticketnews.com/2026/06/rosalia-cancels-florida-concerts-last-minute-emergency/",
-      "date": "Jun 08, 26",
-      "source": "Ticket News",
+      "id": "a1c9f1a85ed9",
+      "title": "Jack White Quietly Reveals New Album, \u2018Frozen Charlotte,\u2019 Via Webstore Presale",
+      "summary": "Jack White has a followup album to the acclaimed &#8220;No Name&#8221; coming this summer, titled &#8220;Frozen Charlotte&#8221;&#8230; and it&#8217;s already quietly gone on sale for pre-order on his",
+      "company": "Jack White Quietly Reveals New Album",
+      "link": "https://variety.com/2026/music/news/jack-white-frozen-charlotte-reveals-new-album-vinyl-1236770683/",
+      "date": "Jun 09, 26",
+      "source": "Variety Music",
       "layer": 1,
       "access": "pe",
-      "score": 14,
+      "score": 12,
       "moments": [
-        "acquisition"
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "42c46651573f",
+      "title": "The Best Beatles Books and Merch to Gift the Beatlemaniac Dad This Father\u2019s Day",
+      "summary": "The Beatlemaniac might be the easiest category of father to shop for. Nearly 60 years since the band&#8217;s peak, there&#8217;s no shortage of new photo books, biographies and collectible merch to ce",
+      "company": "The Best Beatles Books",
+      "link": "https://variety.com/shop/best-beatles-merch-books-1235020665/",
+      "date": "Jun 09, 26",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "9fd7c921861e",
+      "title": "China\u2019s chip giants launch $577m deep-tech fund",
+      "summary": "ChangXin Memory Technologies and Alibaba Group Holding have joined a coalition of domestic technology firms to launch a 3.91bn yuan ($577m) private equity fund focused on targeting China&#8217;s hard ",
+      "company": "China\u2019s",
+      "link": "https://www.altassets.net/premium/chinas-chip-giants-launch-577m-deep-tech-fund.html",
+      "date": "Jun 10, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "pe_investment"
       ]
     },
     {
@@ -296,27 +216,27 @@
       ]
     },
     {
-      "id": "9d750ca1c63b",
-      "title": "Wealth manager Simon Quick raises initial $60m for debut private equity FoF",
-      "summary": "Wealth management and multi-family office firm Simon Quick Advisors has raised about $60m at the first close of its first dedicated private equity vehicle. The post Wealth manager Simon Quick raises i",
-      "company": "Wealth manager Simon Quick",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100208698.html",
-      "date": "Jun 08, 26",
-      "source": "AltAssets",
-      "layer": 5,
+      "id": "2045f6c8758a",
+      "title": "Music Industry Moves:\u034f Interpol Signs With Partisan Records; Universal Music Publishing Unveils New Logo",
+      "summary": "Long-running New York City band Interpol have announced their first album in four years, \u201cThis Mirror Weighs a Ton,\u201d which arrives Aug. 28 and also will be their first for Partisan Records, the Brookl",
+      "company": "Music Industry Moves",
+      "link": "https://variety.com/2026/music/news/interpol-signs-with-partisan-universal-publishing-new-logo-1236770805/",
+      "date": "Jun 09, 26",
+      "source": "Variety Music",
+      "layer": 1,
       "access": "pe",
-      "score": 12,
+      "score": 11,
       "moments": [
-        "pe_investment"
+        "record_deal"
       ]
     },
     {
-      "id": "fb1899f40b45",
-      "title": "Interpol tell us about new album \u2018This Mirror Weighs A Ton\u2019: \u201cWe just felt, \u2018Let\u2019s make this one count'\u201d",
-      "summary": "Check out the Massive Attack-inspired title track and \"classic Interpol\" 'See Out Loud' as frontman Paul Banks explains how fatherhood, improved band chemistry and becoming a five-piece helped create ",
-      "company": "Interpol",
-      "link": "https://www.nme.com/news/music/interpol-interview-this-mirror-weights-a-ton-paul-banks-new-album-see-out-loud-3949830?utm_source=rss&utm_medium=rss&utm_campaign=interpol-interview-this-mirror-weights-a-ton-paul-banks-new-album-see-out-loud",
-      "date": "Jun 09, 26",
+      "id": "e23b43c11171",
+      "title": "Steve Lacy announces new album \u2018Oh Yeah?\u2019 with moody single \u2018The Feeling\u2019",
+      "summary": "It is set to drop on July 17 The post Steve Lacy announces new album &#8216;Oh Yeah?&#8217; with moody single &#8216;The Feeling&#8217; appeared first on NME.",
+      "company": "Steve Lacy",
+      "link": "https://www.nme.com/news/music/steve-lacy-announces-new-album-oh-yeah-with-moody-single-the-feeling-3950074?utm_source=rss&utm_medium=rss&utm_campaign=steve-lacy-announces-new-album-oh-yeah-with-moody-single-the-feeling",
+      "date": "Jun 10, 26",
       "source": "NME",
       "layer": 1,
       "access": "pe",
@@ -326,48 +246,18 @@
       ]
     },
     {
-      "id": "4146bcce91fa",
-      "title": "The Tao of RaiNao",
-      "summary": "An alchemist of reggaeton, jazz and alternative, RaiNao has graced both NPR's Tiny Desk and Bad Bunny's residency shows. The Puerto Rican artist continues the momentum with her new album, 'Marcri\u00e1.'",
-      "company": "The Tao",
-      "link": "https://www.latimes.com/delos/story/2026-06-04/rainao-interview-new-album-marcria-puerto-rico-cuba-omara-portuondo",
-      "date": "Jun 04, 26",
+      "id": "0eb7413cb51d",
+      "title": "Spotify accused of using new streaming policy to reduce indie artist's royalties",
+      "summary": "Mark Kratter, a Connecticut-based musician, is suing Spotify for engaging in what he alleges are \"unfair business practices.\" The complaint claims that streaming metrics have been altered to prioritiz",
+      "company": "Spotify",
+      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-06-09/spotify-accused-of-reducing-indie-artists-compensation-in-new-lawsuit",
+      "date": "Jun 09, 26",
       "source": "LA Times Music",
       "layer": 1,
       "access": "pe",
       "score": 11,
       "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "00af166f62e2",
-      "title": "After 30 years, young crowds still line up for punishment at L.A.'s harshest nightclub, Das Bunker",
-      "summary": "It's impossible to imagine Los Angeles' electronic scene without Das Bunker, founded in 1996 to champion brutalist club music.",
-      "company": "After",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-05-20/das-bunker-los-angeles-nightlife-dance-music-history",
-      "date": "May 20, 26",
-      "source": "LA Times Music",
-      "layer": 4,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "722cc109aa8d",
-      "title": "P&C insurers expand private markets exposure as other allocators reassess illiquidity",
-      "summary": "A growing cohort of property and casualty insurers is increasing allocations to private markets \u2013 including private equity, real estate and hedge fund strategies \u2013 even as some traditional institution",
-      "company": "P&C",
-      "link": "https://www.privateequitywire.co.uk/pc-insurers-expand-private-markets-exposure-as-other-allocators-reassess-illiquidity/",
-      "date": "Jun 09, 26",
-      "source": "PE Wire",
-      "layer": 2,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "pe_investment"
+        "streaming_milestone"
       ]
     },
     {
@@ -386,48 +276,93 @@
       ]
     },
     {
-      "id": "d0391193c905",
-      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
-      "summary": "Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their behavior, troubleshoot failures, and prov",
-      "company": "Coralogix",
-      "link": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
-      "date": "Jun 03, 26",
-      "source": "TechCrunch Startups",
-      "layer": 4,
+      "id": "0e93459246ab",
+      "title": "End Of The Road 2026: Geese announced as final headliner",
+      "summary": "They join previously announced headliners Pulp, CMAT and Mac DeMarco The post End Of The Road 2026: Geese announced as final headliner appeared first on NME.",
+      "company": "End Of The Road 2026",
+      "link": "https://www.nme.com/news/music/end-of-the-road-2026-geese-announced-as-final-headliner-3950117?utm_source=rss&utm_medium=rss&utm_campaign=end-of-the-road-2026-geese-announced-as-final-headliner",
+      "date": "Jun 10, 26",
+      "source": "NME",
+      "layer": 5,
       "access": "pe",
       "score": 9,
       "moments": [
-        "funding_round"
+        "festival_headliner"
       ]
     },
     {
-      "id": "de37ed17b99b",
-      "title": "Reed Hastings Officially Leaves Netflix Board, Jay Hoag Becomes Chairman",
-      "summary": "It&#8217;s a changing for the guard at the top of Netflix&#8217;s board. Executive chairman Reed Hastings, the company&#8217;s co-founder who served as CEO for 25 years and drove it to become the worl",
-      "company": "",
-      "link": "https://variety.com/2026/tv/news/netflix-board-reed-hastings-jay-hoag-chairman-1236768093/",
-      "date": "Jun 05, 26",
-      "source": "Variety Biz",
+      "id": "176deb66f391",
+      "title": "Will the BBC score an own goal by broadcasting the World Cup from Salford?",
+      "summary": "Football\u2019s staying home for the belt-tightening Beeb, while ITV and Gary Lineker\u2019s popular podcast present from glitzy studios in New YorkIt is the biggest World Cup in history, and perhaps the most u",
+      "company": "Will",
+      "link": "https://www.theguardian.com/football/2026/jun/10/will-bbc-score-own-goal-broadcasting-fifa-world-cup-from-salford",
+      "date": "Jun 10, 26",
+      "source": "Guardian Sport",
       "layer": 3,
       "access": "pe",
-      "score": 6,
+      "score": 9,
       "moments": [
-        "company_launch"
+        "festival_headliner"
       ]
     },
     {
-      "id": "b4965c7e6b0c",
-      "title": "What\u2019s Next Now That Live Nation Has Been Found to Act as a Monopoly",
-      "summary": "The music industry may be significantly changed by the judicial rulings to come, but there is still a lot of lawyering left to do.",
-      "company": "What\u2019s Next Now That Live Nation",
-      "link": "https://www.nytimes.com/2026/06/03/arts/music/whats-next-now-that-live-nation-has-been-found-to-act-as-a-monopoly.html",
-      "date": "Jun 03, 26",
-      "source": "NYT Music",
-      "layer": 3,
+      "id": "e0e73fc572ca",
+      "title": "OceanSound taps Kenneth Wolff as partner and chief legal officer",
+      "summary": "Previously, he worked at Skadden, Arps, Slate, Meagher &#038; Flom, where he served as a partner and co-head of the firm's private equity group. The post OceanSound taps Kenneth Wolff as partner and c",
+      "company": "OceanSound",
+      "link": "https://www.pehub.com/oceansound-taps-kenneth-wolff-as-partner-and-chief-legal-officer/",
+      "date": "Jun 10, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "261477180f0f",
+      "title": "Kainos Capital acquires sod and grass seed supplier Super-Sod from Heartwood",
+      "summary": "Partners Capital participated as a lead co-investor on the transaction. The post Kainos Capital acquires sod and grass seed supplier Super-Sod from Heartwood appeared first on PE Hub.",
+      "company": "Kainos Capital",
+      "link": "https://www.pehub.com/kainos-capital-acquires-sod-and-grass-seed-supplier-super-sod-from-heartwood/",
+      "date": "Jun 10, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "7ab6fdfa2137",
+      "title": "ARM-Harith hits $76m first close for Africa climate fund",
+      "summary": "ARM-Harith Infrastructure Investments has reached a first close of approximately $76m for its Climate Transition Fund. The fund is targeting a final close of $200m and is structured to accept capital ",
+      "company": "ARM-Harith",
+      "link": "https://www.altassets.net/market-news/arm-harith-hits-76m-first-close-for-africa-climate-fund.html",
+      "date": "Jun 09, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "f62453df213a",
+      "title": "Astorg-backed IPCOM to acquire a majority stake in Le Froid Pecomark",
+      "summary": "Le Froid Pecomark is a French distributor of refrigeration, heat pump and ventilation equipment serving installers, contractors and OEMs. The post Astorg-backed IPCOM to acquire a majority stake in Le",
+      "company": "Astorg-backed IPCOM to",
+      "link": "https://www.pehub.com/astorg-backed-ipcom-to-acquire-a-majority-stake-in-le-froid-pecomark/",
+      "date": "Jun 10, 26",
+      "source": "PE Hub",
+      "layer": 5,
       "access": "pe",
       "score": 6,
       "moments": [
-        "company_launch"
+        "acquisition"
       ]
     },
     {
@@ -446,12 +381,12 @@
       ]
     },
     {
-      "id": "ae02061c822e",
-      "title": "Academy of Emergency Nursing to Induct Eight Fellows",
-      "summary": "Nurses recognized for expertise in pediatrics, research, education, leadership development SCHAUMBURG, Ill., June 9, 2026 /PRNewswire/ -- The Emergency Nurses Association and Academy of Emergency Nurs",
-      "company": "Academy",
-      "link": "https://www.prnewswire.com/news-releases/academy-of-emergency-nursing-to-induct-eight-fellows-302795347.html",
-      "date": "Jun 09, 26",
+      "id": "35ddde27d04c",
+      "title": "Genstone Companies Launches New Website Connecting Homeowners and Investors with Integrated Real Estate Solutions",
+      "summary": "Helping clients acquire, finance, protect, improve, maintain, manage, and optimize real estate through integrated solutions. TAMPA, Fla., June 10, 2026 /PRNewswire/ -- Genstone Companies today announc",
+      "company": "",
+      "link": "https://www.prnewswire.com/news-releases/genstone-companies-launches-new-website-connecting-homeowners-and-investors-with-integrated-real-estate-solutions-302796954.html",
+      "date": "Jun 10, 26",
       "source": "PR Newswire",
       "layer": 2,
       "access": "pe",
@@ -476,42 +411,42 @@
       ]
     },
     {
-      "id": "819cd230ff63",
-      "title": "Former DoJ Antitrust Attorneys Slam Live Nation-Ticketmaster Settlement: \u2018It Is Deeply Troubling That the Antitrust Division Is Engaged in Selective...",
-      "summary": "Two former top antitrust attorneys at the U.S. Department of Justice who were central to its case against Live Nation and Ticketmaster had strong words for the department following its abrupt settleme",
-      "company": "Former DoJ Antitrust Attorneys Slam Live",
-      "link": "https://variety.com/2026/music/news/doj-antitrust-attorneys-slam-live-nation-ticketmaster-settlement-1236769787/",
-      "date": "Jun 08, 26",
-      "source": "Variety Music",
+      "id": "176cce418eb3",
+      "title": "Former DOJ Antitrust Attorneys Slam Live Nation Settlement as Remedies Fight Intensifies",
+      "summary": "Two former senior Department of Justice antitrust attorneys who helped build the government\u2019s case against Live Nation and Ticketmaster are... The post Former DOJ Antitrust Attorneys Slam Live Nation ",
+      "company": "Former DOJ Antitrust Attorneys Slam Live",
+      "link": "https://www.ticketnews.com/2026/06/former-doj-antitrust-attorneys-slam-live-nation-settlement-as-remedies-fight-intensifies/",
+      "date": "Jun 09, 26",
+      "source": "Ticket News",
       "layer": 3,
       "access": "pe",
-      "score": 14,
+      "score": 16,
       "moments": []
     },
     {
-      "id": "6d1401ee35b9",
-      "title": "US stadium and hotel workers threaten strikes \u2018to make things fair\u2019 during World Cup",
-      "summary": "Low wages and fears of ICE crackdowns have set workers on edge of strike as thousands set to arrive during World CupHospitality and food service workers in several US cities hosting World Cup games ar",
-      "company": "US",
-      "link": "https://www.theguardian.com/football/2026/jun/09/stadium-hotel-workers-strike-world-cup",
+      "id": "3cb902e3afaa",
+      "title": "Chris Brown Settles \u2018Monalisa\u2019 and \u2018Sensational\u2019 Lawsuit from Lyricist",
+      "summary": "The R&#38;B star was accused of denying credit and cutting the plaintiff out of millions in revenue",
+      "company": "Chris Brown Settles \u2018Monalisa\u2019",
+      "link": "https://www.rollingstone.com/music/music-news/chris-brown-sensational-monalisa-lawsuit-sean-kingston-1235574975/",
       "date": "Jun 09, 26",
-      "source": "Guardian Sport",
+      "source": "Rolling Stone News",
       "layer": 2,
       "access": "pe",
-      "score": 12,
+      "score": 11,
       "moments": []
     },
     {
-      "id": "349536586264",
-      "title": "Sorsby Injunction: A Jump-the-Shark Moment for College Sports?",
-      "summary": "The&#160;ruling&#160;on Monday that Texas Tech quarterback&#160;Brendan Sorsby&#160;can play NCAA football despite having bet on his own team is a sports law earthquake. It\u2019s occurring at the intersec",
-      "company": "Sorsby Injunction",
-      "link": "https://www.sportico.com/law/analysis/2026/brendan-sorsby-injunction-betting-ncaa-takeaway-1234902706/",
-      "date": "Jun 09, 26",
-      "source": "Sportico",
+      "id": "315b70702400",
+      "title": "Smart Electricity Meter Market: $23.46 Billion by 2031 with Single-Phase Meters Holding 63.25% Revenue Share, Reports Mordor Intelligence",
+      "summary": "HYDERABAD, India, June 10, 2026 /PRNewswire/ -- According to a recent study published by Mordor Intelligence, the smart electricity meter market is projected to grow from USD 15.02 billion in 2026 to ",
+      "company": "Smart Electricity Meter Market",
+      "link": "https://www.prnewswire.com/news-releases/smart-electricity-meter-market-23-46-billion-by-2031-with-single-phase-meters-holding-63-25-revenue-share-reports-mordor-intelligence-302796957.html",
+      "date": "Jun 10, 26",
+      "source": "PR Newswire",
       "layer": 2,
       "access": "pe",
-      "score": 10,
+      "score": 11,
       "moments": []
     },
     {
@@ -549,6 +484,19 @@
       "date": "Jun 09, 26",
       "source": "NYT Arts",
       "layer": 3,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "5e0093a64d92",
+      "title": "In a Timely \u201cUnder the Shadow\u201d Staging, a Ghost Haunts War-Torn Iran",
+      "summary": "The supernatural mixes with secular modernity, family dynamics and feminism in a new London production of \u201cUnder the Shadow.\u201d",
+      "company": "In",
+      "link": "https://www.nytimes.com/2026/06/10/theater/under-the-shadow-almeida-theater-london.html",
+      "date": "Jun 10, 26",
+      "source": "NYT Arts",
+      "layer": 4,
       "access": "pe",
       "score": 4,
       "moments": []
