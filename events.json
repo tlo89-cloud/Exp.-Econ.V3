@@ -1,7 +1,40 @@
 {
-  "generated": "2026-06-10T15:48:48.663834+00:00",
-  "total": 35,
+  "generated": "2026-06-11T16:11:19.960202+00:00",
+  "total": 38,
   "scraped": [
+    {
+      "id": "2ae6703884f2",
+      "title": "Wage War Plot \u2018Emergency Broadcast\u2019 Fall North American Tour Dates",
+      "summary": "Metalcore group Wage War announced a headlining tour across North America this fall in support of their new EP. The... The post Wage War Plot &#8216;Emergency Broadcast&#8217; Fall North American Tour",
+      "company": "Wage War Plot \u2018Emergency Broadcast\u2019 Fall",
+      "link": "https://www.ticketnews.com/2026/06/wage-war-plot-emergency-broadcast-north-american-tour-dates/",
+      "date": "Jun 11, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 25,
+      "moments": [
+        "tour_announcement",
+        "acquisition",
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "cabe9333907f",
+      "title": "Deal Roundup: GPS Renewables raises Series C investment, Med-Metrix enters deal to acquire CanAide",
+      "summary": "GPS Renewables (GPSR), a leading full-stack renewable oil and gas company, has raised \u20b9635 crore in Series C Funding. The Series C round comprises \u20b9125 crore in equity funding led by PixelSky Capital,",
+      "company": "Deal Roundup",
+      "link": "https://www.altassets.net/private-equity-news/by-news-type/deal-news/deal-roundup-gps-renewables-raises-series-c-investment-med-metrix-enters-deal-to-acquire-canaide.html",
+      "date": "Jun 11, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 25,
+      "moments": [
+        "acquisition",
+        "funding_round"
+      ]
+    },
     {
       "id": "e17f7e51d9f4",
       "title": "The bull and bear cases for SpaceX",
@@ -19,19 +52,35 @@
       ]
     },
     {
-      "id": "4e5f0161f360",
-      "title": "Banner Capital strengthens team with principal hire",
-      "summary": "Banner Capital, a lower middle market private equity firm specialising in founder-led and family-owned businesses across the western United States, has appointed McKay Potter as principal. Potter join",
-      "company": "Banner Capital",
-      "link": "https://www.altassets.net/market-news/banner-capital-strengthens-team-with-principal-hire.html",
-      "date": "Jun 09, 26",
-      "source": "AltAssets",
+      "id": "c510aa5c6cf2",
+      "title": "DCC signals conditional backing for enhanced \u00a35.7bn takeover bid from KKR consortium",
+      "summary": "Ireland-based energy distributor DCC has indicated it would support a revised \u00a35.7bn ($7.63bn) acquisition proposal from a consortium led by KKR &#038; Co Inc and Energy Capital Partners, provided the",
+      "company": "DCC",
+      "link": "https://www.privateequitywire.co.uk/dcc-signals-conditional-backing-for-enhanced-5-7bn-takeover-bid-from-kkr-consortium/",
+      "date": "Jun 11, 26",
+      "source": "PE Wire",
       "layer": 5,
       "access": "pe",
-      "score": 13,
+      "score": 16,
       "moments": [
-        "pe_investment",
-        "company_launch"
+        "acquisition",
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "d20b3122f200",
+      "title": "Ares wraps up Pathfinder funds and raises $12.7bn",
+      "summary": "Ares Management Corporation has confirmed the final close of its Ares Pathfinder Fund III, L.P and its offshore Ares Pathfinder Fund III at a total of $12.7bn. According to Ares, the Fund was oversubs",
+      "company": "Ares wraps up Pathfinder funds and",
+      "link": "https://www.altassets.net/premium/ares-wraps-up-pathfinder-funds-and-raises-12-7bn.html",
+      "date": "Jun 11, 26",
+      "source": "AltAssets",
+      "layer": 1,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "funding_round",
+        "fund_launch"
       ]
     },
     {
@@ -81,18 +130,18 @@
       ]
     },
     {
-      "id": "64500697fac4",
-      "title": "EU Kicks Off Probe of Paramount\u2019s $24 Billion in Middle Eastern Funding for Warner Bros. Deal",
-      "summary": "The European Union\u2019s regulatory arm is investigating Paramount Skydance\u2019s proposed Warner Bros. Discovery megamerger over the financial backing of three Middle Eastern sovereign wealth funds. The Euro",
-      "company": "EU Kicks Off Probe",
-      "link": "https://variety.com/2026/film/news/eu-probe-paramount-warner-bros-middle-eastern-funding-1236771268/",
+      "id": "cca476b19af3",
+      "title": "Mel Robbins, Ludacris, Paris Hilton, Priyanka Chopra Jonas and More Than 70 Creators Set for UTA\u2019s Cannes Lions Slate",
+      "summary": "UTA has enlisted a broad slate of stars, clients, brands and creators to take part in its expansive Cannes Lions activations, including the return of its UTA Beach facility in the heart of the festiva",
+      "company": "Mel Robbins Ludacris Paris Hilton Priyanka",
+      "link": "https://variety.com/2026/biz/news/priyanka-chopra-jonas-mel-robbins-uta-cannes-lions-1236771081/",
       "date": "Jun 10, 26",
       "source": "Variety Biz",
-      "layer": 3,
+      "layer": 4,
       "access": "pe",
-      "score": 17,
+      "score": 16,
       "moments": [
-        "acquisition"
+        "festival_headliner"
       ]
     },
     {
@@ -111,18 +160,33 @@
       ]
     },
     {
-      "id": "16b012063389",
-      "title": "Queen\u2019s Roger Taylor announces new album \u2018Violence Insane In A Beautiful World\u2019 along with 2026 UK tour",
-      "summary": "He has also shared rousing new single 'Come On Summer (It's Party Time)' featuring The Ndlovu Youth Choir The post Queen&#8217;s Roger Taylor announces new album &#8216;Violence Insane In A Beautiful ",
-      "company": "Queen\u2019s Roger Taylor",
-      "link": "https://www.nme.com/news/music/queens-roger-taylor-announces-new-album-violence-insane-in-a-beautiful-world-along-with-2026-uk-tour-3950104?utm_source=rss&utm_medium=rss&utm_campaign=queens-roger-taylor-announces-new-album-violence-insane-in-a-beautiful-world-along-with-2026-uk-tour",
-      "date": "Jun 10, 26",
-      "source": "NME",
-      "layer": 1,
+      "id": "5035a807f0df",
+      "title": "New Chiefs Stadium Will Star Mahomes Under Reworked Contract",
+      "summary": "The star quarterback is set to play at least three years in the new venue.",
+      "company": "New Chiefs Stadium Will Star Mahomes",
+      "link": "https://frontofficesports.com/new-chiefs-stadium-will-star-mahomes-under-reworked-contract/",
+      "date": "Jun 11, 26",
+      "source": "Front Office Sports",
+      "layer": 2,
       "access": "pe",
       "score": 14,
       "moments": [
-        "album_announcement"
+        "venue_announcement"
+      ]
+    },
+    {
+      "id": "2604bb613f6a",
+      "title": "Football Daily | World Cup day is upon us: chill, relax and revel in the euphoria and despair",
+      "summary": "Sign up now! Sign up now! Sign up now? Sign up now!Happy GWC Day everyone! Sure, Bigger Cup may have become the pinnacle of football in the 21st century, but nothing stirs the child within like the be",
+      "company": "Football Daily",
+      "link": "https://www.theguardian.com/football/2026/jun/11/football-daily-world-cup-day-chill-relax-euphoria-despair",
+      "date": "Jun 11, 26",
+      "source": "Guardian Sport",
+      "layer": 2,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "festival_headliner"
       ]
     },
     {
@@ -141,28 +205,13 @@
       ]
     },
     {
-      "id": "4a0f8dadc0a4",
-      "title": "Future Standard locks in largest private fund to date at $3bn",
-      "summary": "Future Standard, a global alternative asset manager, has announced its successful final close of its PA Secondary Fund V. The fund closed with approximately $3bn in total committed capital, which make",
-      "company": "Future Standard",
-      "link": "https://www.altassets.net/market-news/future-standard-locks-in-largest-private-fund-to-date-at-3bn.html",
-      "date": "Jun 09, 26",
-      "source": "AltAssets",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "a1c9f1a85ed9",
-      "title": "Jack White Quietly Reveals New Album, \u2018Frozen Charlotte,\u2019 Via Webstore Presale",
-      "summary": "Jack White has a followup album to the acclaimed &#8220;No Name&#8221; coming this summer, titled &#8220;Frozen Charlotte&#8221;&#8230; and it&#8217;s already quietly gone on sale for pre-order on his",
-      "company": "Jack White Quietly Reveals New Album",
-      "link": "https://variety.com/2026/music/news/jack-white-frozen-charlotte-reveals-new-album-vinyl-1236770683/",
-      "date": "Jun 09, 26",
-      "source": "Variety Music",
+      "id": "3ee093023f89",
+      "title": "Shaboozey on When He Realized \u2018A Bar Song (Tipsy)\u2019 Was Blowing Up",
+      "summary": "\"It just kind of just kept climbing, and I just rode the wave,\" says the country star, who will release the new album The Outlaw Cherie Lee &#38; Other Western Tales in July",
+      "company": "Shaboozey",
+      "link": "https://www.rollingstone.com/music/music-features/a-bar-song-tipsy-shaboozey-when-it-became-a-hit-1235576028/",
+      "date": "Jun 11, 26",
+      "source": "Rolling Stone Music",
       "layer": 1,
       "access": "pe",
       "score": 12,
@@ -171,13 +220,13 @@
       ]
     },
     {
-      "id": "42c46651573f",
-      "title": "The Best Beatles Books and Merch to Gift the Beatlemaniac Dad This Father\u2019s Day",
-      "summary": "The Beatlemaniac might be the easiest category of father to shop for. Nearly 60 years since the band&#8217;s peak, there&#8217;s no shortage of new photo books, biographies and collectible merch to ce",
-      "company": "The Best Beatles Books",
-      "link": "https://variety.com/shop/best-beatles-merch-books-1235020665/",
-      "date": "Jun 09, 26",
-      "source": "Variety Music",
+      "id": "a487827b1847",
+      "title": "Jakob Nowell used to call Sublime 'his dad's band.' But new album proves 'Now it's our band. It's us'",
+      "summary": "With the release of \"Until the Sun Explodes\" their first album as Sublime in 30 years, the band members talk about recapturing the effortless essence of their timeless sound and looking forward to fut",
+      "company": "Jakob Nowell",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-06-11/sublime-until-the-sun-explodes-new-album-interview-bud-gaugh-eric-wilson",
+      "date": "Jun 11, 26",
+      "source": "LA Times Music",
       "layer": 1,
       "access": "pe",
       "score": 12,
@@ -201,42 +250,12 @@
       ]
     },
     {
-      "id": "479e596ed99f",
-      "title": "3IF Ventures concludes first tranche of African Inclusive Insurance Fund at $12m",
-      "summary": "3IF Ventures, an impact venture capital fund dedicated to Africa\u2019s insurance start-up market, has made its first close of its III Fund at $12m. According to AfricaGlobalFunds, the Inclusive Insurance ",
-      "company": "Ventures",
-      "link": "https://www.altassets.net/premium/3if-ventures-concludes-first-tranche-of-african-inclusive-insurance-fund-at-12m.html",
-      "date": "Jun 09, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "venture",
-      "score": 12,
-      "moments": [
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "2045f6c8758a",
-      "title": "Music Industry Moves:\u034f Interpol Signs With Partisan Records; Universal Music Publishing Unveils New Logo",
-      "summary": "Long-running New York City band Interpol have announced their first album in four years, \u201cThis Mirror Weighs a Ton,\u201d which arrives Aug. 28 and also will be their first for Partisan Records, the Brookl",
-      "company": "Music Industry Moves",
-      "link": "https://variety.com/2026/music/news/interpol-signs-with-partisan-universal-publishing-new-logo-1236770805/",
-      "date": "Jun 09, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "record_deal"
-      ]
-    },
-    {
-      "id": "e23b43c11171",
-      "title": "Steve Lacy announces new album \u2018Oh Yeah?\u2019 with moody single \u2018The Feeling\u2019",
-      "summary": "It is set to drop on July 17 The post Steve Lacy announces new album &#8216;Oh Yeah?&#8217; with moody single &#8216;The Feeling&#8217; appeared first on NME.",
-      "company": "Steve Lacy",
-      "link": "https://www.nme.com/news/music/steve-lacy-announces-new-album-oh-yeah-with-moody-single-the-feeling-3950074?utm_source=rss&utm_medium=rss&utm_campaign=steve-lacy-announces-new-album-oh-yeah-with-moody-single-the-feeling",
-      "date": "Jun 10, 26",
+      "id": "174ccc5fa931",
+      "title": "The Strokes delay new album \u2018Reality Awaits\u2019 and announce huge homecoming New York show with Beach House and Fcukers",
+      "summary": "Their seventh album was originally set to drop this month, but will now be arriving later in the summer The post The Strokes delay new album &#8216;Reality Awaits&#8217; and announce huge homecoming N",
+      "company": "The Strokes",
+      "link": "https://www.nme.com/news/music/the-strokes-delay-new-album-reality-awaits-announce-homecoming-new-york-show-beach-house-fcukers-3950329?utm_source=rss&utm_medium=rss&utm_campaign=the-strokes-delay-new-album-reality-awaits-announce-homecoming-new-york-show-beach-house-fcukers",
+      "date": "Jun 11, 26",
       "source": "NME",
       "layer": 1,
       "access": "pe",
@@ -261,6 +280,36 @@
       ]
     },
     {
+      "id": "4146bcce91fa",
+      "title": "The Tao of RaiNao",
+      "summary": "An alchemist of reggaeton, jazz and alternative, RaiNao has graced both NPR's Tiny Desk and Bad Bunny's residency shows. The Puerto Rican artist continues the momentum with her new album, 'Marcri\u00e1.'",
+      "company": "The Tao",
+      "link": "https://www.latimes.com/delos/story/2026-06-04/rainao-interview-new-album-marcria-puerto-rico-cuba-omara-portuondo",
+      "date": "Jun 04, 26",
+      "source": "LA Times Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "8580fa187bee",
+      "title": "The best albums of 2026 so far",
+      "summary": "From Thundercat\u2019s all-star funk to Kacey Musgraves\u2019 hymns to solitude, we look at some of our favourite music of the last six months from across the pop spectrum\u2022 Listen to a Spotify playlist of every",
+      "company": "The",
+      "link": "https://www.theguardian.com/music/ng-interactive/2026/jun/09/the-best-albums-of-2026-so-far",
+      "date": "Jun 09, 26",
+      "source": "Guardian Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "streaming_milestone"
+      ]
+    },
+    {
       "id": "ed24e331be68",
       "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
       "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
@@ -276,42 +325,27 @@
       ]
     },
     {
-      "id": "0e93459246ab",
-      "title": "End Of The Road 2026: Geese announced as final headliner",
-      "summary": "They join previously announced headliners Pulp, CMAT and Mac DeMarco The post End Of The Road 2026: Geese announced as final headliner appeared first on NME.",
-      "company": "End Of The Road 2026",
-      "link": "https://www.nme.com/news/music/end-of-the-road-2026-geese-announced-as-final-headliner-3950117?utm_source=rss&utm_medium=rss&utm_campaign=end-of-the-road-2026-geese-announced-as-final-headliner",
+      "id": "6f357109d405",
+      "title": "Color TV, Morning News and Late-Night: NBC Has a History of Firsts in Broadcasting",
+      "summary": "The first-to-market advantage is built right into the name: the National Broadcasting Company. NBC was created a century ago amid the maelstrom of a mid-1920s gold rush that emerged around the cutting",
+      "company": "Color TV Morning News",
+      "link": "https://variety.com/2026/tv/news/nbc-firsts-broadcasting-color-late-night-garroway-nbc100-1236770818/",
       "date": "Jun 10, 26",
-      "source": "NME",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "176deb66f391",
-      "title": "Will the BBC score an own goal by broadcasting the World Cup from Salford?",
-      "summary": "Football\u2019s staying home for the belt-tightening Beeb, while ITV and Gary Lineker\u2019s popular podcast present from glitzy studios in New YorkIt is the biggest World Cup in history, and perhaps the most u",
-      "company": "Will",
-      "link": "https://www.theguardian.com/football/2026/jun/10/will-bbc-score-own-goal-broadcasting-fifa-world-cup-from-salford",
-      "date": "Jun 10, 26",
-      "source": "Guardian Sport",
+      "source": "Variety Biz",
       "layer": 3,
       "access": "pe",
       "score": 9,
       "moments": [
-        "festival_headliner"
+        "acquisition"
       ]
     },
     {
-      "id": "e0e73fc572ca",
-      "title": "OceanSound taps Kenneth Wolff as partner and chief legal officer",
-      "summary": "Previously, he worked at Skadden, Arps, Slate, Meagher &#038; Flom, where he served as a partner and co-head of the firm's private equity group. The post OceanSound taps Kenneth Wolff as partner and c",
-      "company": "OceanSound",
-      "link": "https://www.pehub.com/oceansound-taps-kenneth-wolff-as-partner-and-chief-legal-officer/",
-      "date": "Jun 10, 26",
+      "id": "2216c84ddeea",
+      "title": "Baird, Harvest, Olympus said to line up business services companies for sale; Littlejohn-backed Total Safety sells industrial business to Mill Point",
+      "summary": "A look at three business services companies being lined up for sale by private equity owners; highlighting Littlejohn &#038; Co\u2019s sale of the industrials business of Total Safety US to Mill Point. The",
+      "company": "Baird Harvest Olympus",
+      "link": "https://www.pehub.com/baird-harvest-olympus-said-to-line-up-business-services-companies-for-sale-littlejohn-backed-total-safety-sells-industrial-business-to-mill-point/",
+      "date": "Jun 11, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
@@ -321,12 +355,12 @@
       ]
     },
     {
-      "id": "261477180f0f",
-      "title": "Kainos Capital acquires sod and grass seed supplier Super-Sod from Heartwood",
-      "summary": "Partners Capital participated as a lead co-investor on the transaction. The post Kainos Capital acquires sod and grass seed supplier Super-Sod from Heartwood appeared first on PE Hub.",
-      "company": "Kainos Capital",
-      "link": "https://www.pehub.com/kainos-capital-acquires-sod-and-grass-seed-supplier-super-sod-from-heartwood/",
-      "date": "Jun 10, 26",
+      "id": "217e9d5eb96b",
+      "title": "Falfurrias-backed Woven Solutions acquires cybersecurity software developer Insignis",
+      "summary": "Woven is a provider of AI-enabled mission software for the national security community. The post Falfurrias-backed Woven Solutions acquires cybersecurity software developer Insignis appeared first on ",
+      "company": "Falfurrias-backed Woven Solutions",
+      "link": "https://www.pehub.com/falfurrias-backed-woven-solutions-acquires-cybersecurity-software-developer-insignis/",
+      "date": "Jun 11, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
@@ -336,27 +370,57 @@
       ]
     },
     {
-      "id": "7ab6fdfa2137",
-      "title": "ARM-Harith hits $76m first close for Africa climate fund",
-      "summary": "ARM-Harith Infrastructure Investments has reached a first close of approximately $76m for its Climate Transition Fund. The fund is targeting a final close of $200m and is structured to accept capital ",
-      "company": "ARM-Harith",
-      "link": "https://www.altassets.net/market-news/arm-harith-hits-76m-first-close-for-africa-climate-fund.html",
-      "date": "Jun 09, 26",
-      "source": "AltAssets",
-      "layer": 5,
+      "id": "0d38abbca029",
+      "title": "LA28 Opens Second Olympic Ticket Drop After Record-Breaking First Sale",
+      "summary": "The road to the Los Angeles 2028 Olympic Games is getting another major ticketing milestone. LA28 announced Wednesday that its... The post LA28 Opens Second Olympic Ticket Drop After Record-Breaking F",
+      "company": "LA28 Opens Second Olympic Ticket Drop",
+      "link": "https://www.ticketnews.com/2026/06/la28-opens-second-olympic-rocky-drop-record-breaking-sale/",
+      "date": "Jun 10, 26",
+      "source": "Ticket News",
+      "layer": 3,
       "access": "pe",
-      "score": 9,
+      "score": 8,
       "moments": [
-        "fund_launch"
+        "record_breaking"
       ]
     },
     {
-      "id": "f62453df213a",
-      "title": "Astorg-backed IPCOM to acquire a majority stake in Le Froid Pecomark",
-      "summary": "Le Froid Pecomark is a French distributor of refrigeration, heat pump and ventilation equipment serving installers, contractors and OEMs. The post Astorg-backed IPCOM to acquire a majority stake in Le",
-      "company": "Astorg-backed IPCOM to",
-      "link": "https://www.pehub.com/astorg-backed-ipcom-to-acquire-a-majority-stake-in-le-froid-pecomark/",
+      "id": "20017cedc52b",
+      "title": "CAA, TPG Form $250 Million Holding Company to Acquire Businesses Led by YouTubers and Other Creators",
+      "summary": "CAA is back in business with its former majority owner, private-equity giant TPG &#8212; with the two companies teaming up on plans to buy creator-led companies. CAA and TPG&#8217;s Integrated Media C",
+      "company": "CAA TPG Form",
+      "link": "https://variety.com/2026/digital/news/caa-tpg-250-million-compound-creative-holding-company-acquire-creator-businesses-1236771598/",
       "date": "Jun 10, 26",
+      "source": "Variety Biz",
+      "layer": 4,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "cfc11400c41e",
+      "title": "From HVAC to garage doors, more industrial service providers on the block",
+      "summary": "Audax, Harvest, MSouth, Olympus and Snowdon are among the PE firms expecting to test the market. The post From HVAC to garage doors, more industrial service providers on the block appeared first on PE",
+      "company": "From HVAC",
+      "link": "https://www.pehub.com/from-hvac-to-garage-doors-more-industrial-service-providers-on-the-block/",
+      "date": "Jun 11, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "c98a05743546",
+      "title": "Stonepeak, Energy Equation Partners to acquire Poland\u2019s Anwim",
+      "summary": "Anwim operates the MOYA station network, the Poland's third-largest fuel station chain. The post Stonepeak, Energy Equation Partners to acquire Poland&#8217;s Anwim appeared first on PE Hub.",
+      "company": "Stonepeak Energy Equation Partners",
+      "link": "https://www.pehub.com/stonepeak-energy-equation-partners-to-acquire-polands-anwim/",
+      "date": "Jun 11, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
@@ -381,18 +445,18 @@
       ]
     },
     {
-      "id": "35ddde27d04c",
-      "title": "Genstone Companies Launches New Website Connecting Homeowners and Investors with Integrated Real Estate Solutions",
-      "summary": "Helping clients acquire, finance, protect, improve, maintain, manage, and optimize real estate through integrated solutions. TAMPA, Fla., June 10, 2026 /PRNewswire/ -- Genstone Companies today announc",
-      "company": "",
-      "link": "https://www.prnewswire.com/news-releases/genstone-companies-launches-new-website-connecting-homeowners-and-investors-with-integrated-real-estate-solutions-302796954.html",
-      "date": "Jun 10, 26",
-      "source": "PR Newswire",
-      "layer": 2,
+      "id": "c187159cfbae",
+      "title": "Carlyle targets $15bn for ninth flagship PE fund",
+      "summary": "Carlyle Group has launched fundraising for its ninth flagship buyout fund with a target of approximately $15bn, matching the $14.8bn secured by its predecessor vehicle. According to Bloomberg, the fir",
+      "company": "Carlyle",
+      "link": "https://www.altassets.net/premium/carlyle-targets-15bn-for-ninth-flagship-pe-fund.html",
+      "date": "Jun 11, 26",
+      "source": "AltAssets",
+      "layer": 5,
       "access": "pe",
       "score": 6,
       "moments": [
-        "acquisition"
+        "pe_investment"
       ]
     },
     {
@@ -411,42 +475,55 @@
       ]
     },
     {
-      "id": "176cce418eb3",
-      "title": "Former DOJ Antitrust Attorneys Slam Live Nation Settlement as Remedies Fight Intensifies",
-      "summary": "Two former senior Department of Justice antitrust attorneys who helped build the government\u2019s case against Live Nation and Ticketmaster are... The post Former DOJ Antitrust Attorneys Slam Live Nation ",
-      "company": "Former DOJ Antitrust Attorneys Slam Live",
-      "link": "https://www.ticketnews.com/2026/06/former-doj-antitrust-attorneys-slam-live-nation-settlement-as-remedies-fight-intensifies/",
-      "date": "Jun 09, 26",
+      "id": "29fa95bdab9e",
+      "title": "NFLPA Calls Out Owners As Stadiums Swap Turf for World Cup Grass",
+      "summary": "Eleven NFL venues will host matches during the World Cup.",
+      "company": "NFLPA Calls Out Owners As Stadiums",
+      "link": "https://frontofficesports.com/nflpa-calls-out-owners-as-stadiums-swap-turf-for-world-cup-grass/",
+      "date": "Jun 11, 26",
+      "source": "Front Office Sports",
+      "layer": 2,
+      "access": "pe",
+      "score": 12,
+      "moments": []
+    },
+    {
+      "id": "718f1aea9fd9",
+      "title": "Olympia Events and Ticketmaster Launch New Ticketing Partnership in London",
+      "summary": "Olympia Events has announced a new partnership with Ticketmaster, naming the company as the official ticketing provider for live events... The post Olympia Events and Ticketmaster Launch New Ticketing",
+      "company": "Olympia Events",
+      "link": "https://www.ticketnews.com/2026/06/olympia-events-and-ticketmaster-launch-new-ticketing-partnership-in-london/",
+      "date": "Jun 11, 26",
       "source": "Ticket News",
       "layer": 3,
       "access": "pe",
-      "score": 16,
+      "score": 9,
       "moments": []
     },
     {
-      "id": "3cb902e3afaa",
-      "title": "Chris Brown Settles \u2018Monalisa\u2019 and \u2018Sensational\u2019 Lawsuit from Lyricist",
-      "summary": "The R&#38;B star was accused of denying credit and cutting the plaintiff out of millions in revenue",
-      "company": "Chris Brown Settles \u2018Monalisa\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/chris-brown-sensational-monalisa-lawsuit-sean-kingston-1235574975/",
-      "date": "Jun 09, 26",
-      "source": "Rolling Stone News",
-      "layer": 2,
-      "access": "pe",
-      "score": 11,
-      "moments": []
-    },
-    {
-      "id": "315b70702400",
-      "title": "Smart Electricity Meter Market: $23.46 Billion by 2031 with Single-Phase Meters Holding 63.25% Revenue Share, Reports Mordor Intelligence",
-      "summary": "HYDERABAD, India, June 10, 2026 /PRNewswire/ -- According to a recent study published by Mordor Intelligence, the smart electricity meter market is projected to grow from USD 15.02 billion in 2026 to ",
-      "company": "Smart Electricity Meter Market",
-      "link": "https://www.prnewswire.com/news-releases/smart-electricity-meter-market-23-46-billion-by-2031-with-single-phase-meters-holding-63-25-revenue-share-reports-mordor-intelligence-302796957.html",
+      "id": "f9b375c7bfef",
+      "title": "Texas AG Joins Scrutiny of FIFA World Cup Ticket Sales After Seat Map, Pricing Complaints",
+      "summary": "Texas Attorney General Ken Paxton has opened an investigation into FIFA\u2019s 2026 World Cup ticketing practices, making Texas the latest... The post Texas AG Joins Scrutiny of FIFA World Cup Ticket Sales",
+      "company": "Texas AG Joins Scrutiny",
+      "link": "https://www.ticketnews.com/2026/06/texas-ag-joins-scrutiny-of-fifa-world-cup-ticket-sales-after-seat-map-pricing-complaints/",
       "date": "Jun 10, 26",
-      "source": "PR Newswire",
-      "layer": 2,
+      "source": "Ticket News",
+      "layer": 3,
       "access": "pe",
-      "score": 11,
+      "score": 7,
+      "moments": []
+    },
+    {
+      "id": "27c238f2911f",
+      "title": "LISTEN: How NBC Created the Broadcast Network Paradigm and Other Firsts; Andy Cohen Reflects on 20 Years of \u2018Real Housewives\u2019",
+      "summary": "On today\u2019s episode of &#8220;Daily Variety&#8221; podcast, Variety&#8216;s Michael Schneider discusses Variety\u2019s plans to take a long look at NBC&#8217;s centennial and its role in advancing mass medi",
+      "company": "LISTEN",
+      "link": "https://variety.com/2026/tv/news/nbc-100-sarnoff-andy-cohen-real-housewives-daily-variety-1236771619/",
+      "date": "Jun 10, 26",
+      "source": "Variety Biz",
+      "layer": 3,
+      "access": "pe",
+      "score": 5,
       "moments": []
     },
     {
@@ -460,32 +537,6 @@
       "layer": 4,
       "access": "pe",
       "score": 5,
-      "moments": []
-    },
-    {
-      "id": "d65a8c838b09",
-      "title": "DOD removes \"Christian\" label from recognized religions after fury over Mormonism's exclusion",
-      "summary": "The Department of Defense has revised its new, shortened list of recognized religions after fury from Utah political leaders over not classifying Mormonism as a \"Christian\" faith.Why it matters: The o",
-      "company": "DOD",
-      "link": "https://www.axios.com/local/salt-lake-city/2026/06/08/mormon-defense-dod-religions-christian-evangelicals",
-      "date": "Jun 08, 26",
-      "source": "Axios",
-      "layer": 4,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "f14788394513",
-      "title": "At City Ballet, Spring Fever Hit, With Ups and Some Dispiriting Downs",
-      "summary": "New York City Ballet ended its season on a positive note with \u201cCopp\u00e9lia,\u201d but the repertory tipped too heavily into unimportant ballets.",
-      "company": "At City Ballet Spring Fever Hit",
-      "link": "https://www.nytimes.com/2026/06/09/arts/dance/new-york-city-ballet-spring-season.html",
-      "date": "Jun 09, 26",
-      "source": "NYT Arts",
-      "layer": 3,
-      "access": "pe",
-      "score": 4,
       "moments": []
     },
     {
