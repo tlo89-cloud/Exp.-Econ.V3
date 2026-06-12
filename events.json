@@ -1,22 +1,22 @@
 {
-  "generated": "2026-06-11T16:11:19.960202+00:00",
-  "total": 38,
+  "generated": "2026-06-12T15:25:46.020059+00:00",
+  "total": 40,
   "scraped": [
     {
-      "id": "2ae6703884f2",
-      "title": "Wage War Plot \u2018Emergency Broadcast\u2019 Fall North American Tour Dates",
-      "summary": "Metalcore group Wage War announced a headlining tour across North America this fall in support of their new EP. The... The post Wage War Plot &#8216;Emergency Broadcast&#8217; Fall North American Tour",
-      "company": "Wage War Plot \u2018Emergency Broadcast\u2019 Fall",
-      "link": "https://www.ticketnews.com/2026/06/wage-war-plot-emergency-broadcast-north-american-tour-dates/",
+      "id": "8375320b19f7",
+      "title": "Before You Cheer The IPO Window, Watch Where The Money Goes",
+      "summary": "A public SpaceX, OpenAI and Anthropic would become some of the best-capitalized acquirers on the planet, writes MGV's Marc Schr\u00f6der, who explains that the bigger impact for startups is likely to be st",
+      "company": "Before You Cheer The IPO Window",
+      "link": "https://news.crunchbase.com/public/ipo-window-liquid-money-ma-schroder-mgv/",
       "date": "Jun 11, 26",
-      "source": "Ticket News",
-      "layer": 3,
+      "source": "Crunchbase News",
+      "layer": 5,
       "access": "pe",
-      "score": 25,
+      "score": 20,
       "moments": [
-        "tour_announcement",
         "acquisition",
-        "festival_headliner"
+        "ipo",
+        "company_launch"
       ]
     },
     {
@@ -36,19 +36,19 @@
       ]
     },
     {
-      "id": "e17f7e51d9f4",
-      "title": "The bull and bear cases for SpaceX",
-      "summary": "It's a foregone conclusion that SpaceX will raise at least $85 billion in its record-wrecking IPO, with pricing set for Thursday and first trades for Friday.The question, therefore, is what happens ne",
-      "company": "The",
-      "link": "https://www.axios.com/2026/06/09/spacex-ipo-bull-bear-elon-musk",
-      "date": "Jun 09, 26",
-      "source": "Axios",
-      "layer": 2,
-      "access": "pe",
-      "score": 22,
+      "id": "49dd5bf39de7",
+      "title": "General Atlantic, Aquitaine, Avesi, PPC Enterprises target speech therapy; Stable pharmaceutical demand leads SK Capital-backed Apotex to C$1.3bn IPO",
+      "summary": "Early intervention is leading to more diagnoses in children of conditions that require speech therapy, fueling demand in the segment and catching the eye of private equity; discussing the largest life",
+      "company": "",
+      "link": "https://www.pehub.com/general-atlantic-aquitaine-avesi-ppc-enterprises-target-speech-therapy-stable-pharmaceutical-demand-leads-sk-capital-backed-apotex-to-c1-3bn-ipo/",
+      "date": "Jun 12, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "public",
+      "score": 16,
       "moments": [
-        "funding_round",
-        "ipo"
+        "ipo",
+        "pe_investment"
       ]
     },
     {
@@ -100,21 +100,6 @@
       ]
     },
     {
-      "id": "bd16c9aef088",
-      "title": "Radial Entertainment Hires Former Paramount Global Exec Brendon Thomas as Chief Revenue Officer",
-      "summary": "Former Paramount Global exec Brendon Thomas has joined Radial Entertainment as the company&#8217;s new chief revenue officer. At Radial he&#8217;ll handle revenue generation through the company&#8217;",
-      "company": "",
-      "link": "https://variety.com/2026/tv/news/radial-entertainment-brendon-thomas-chief-revenue-officer-1236771053/",
-      "date": "Jun 10, 26",
-      "source": "Variety Biz",
-      "layer": 2,
-      "access": "pe",
-      "score": 20,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
       "id": "cdde573d085b",
       "title": "Zepto\u2019s IPO filing reveals fast growth, bigger losses, and a valuation question nobody\u2019s answered yet",
       "summary": "Zepto's advertising revenue jumped 151%, outpacing the company's 104% growth in operating revenue.",
@@ -127,6 +112,51 @@
       "score": 18,
       "moments": [
         "ipo"
+      ]
+    },
+    {
+      "id": "2ccb2e0a9d05",
+      "title": "BTS Officially Release \u2018ARIRANG\u2019 Bonus Track \u2018Come Over\u2019 on Streaming Ahead of 2026 Festa Fan Festival",
+      "summary": "The song co-produced by Suga, RM and j-hope was originally only available on the deluxe vinyl edition of the group's new album.",
+      "company": "BTS Officially Release \u2018ARIRANG\u2019 Bonus Track",
+      "link": "https://www.billboard.com/music/pop/bts-release-arirang-bonus-track-come-over-streaming-festa-1236271274/",
+      "date": "Jun 12, 26",
+      "source": "Billboard",
+      "layer": 1,
+      "access": "pe",
+      "score": 17,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "cb0ec325824c",
+      "title": "Chloe Slater tells us about her debut album \u2018Riot Youth\u2019 and \u201cencapsulating that feeling where it feels like anything could change\u201d",
+      "summary": "The former star of NME\u2019s The Cover has also shared her latest single \u2018Southern Youth\u2019 and announced a new UK headline tour, including her biggest show to date The post Chloe Slater tells us about her ",
+      "company": "Chloe Slater",
+      "link": "https://www.nme.com/news/music/chloe-slater-debut-album-riot-youth-interview-3950365?utm_source=rss&utm_medium=rss&utm_campaign=chloe-slater-debut-album-riot-youth-interview",
+      "date": "Jun 12, 26",
+      "source": "NME",
+      "layer": 1,
+      "access": "pe",
+      "score": 17,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "44d6c1d578f7",
+      "title": "Bonnaroo Will Stream Live on Hulu This Weekend: Check Out the Fest\u2019s Full Livestream Schedule Here",
+      "summary": "Lollapalooza, Bonnaroo and Austin City Limits will stream live on Disney+ and Hulu for the first time this year. Previously, the festivals were available to stream on Hulu and only in the U.S., but th",
+      "company": "Bonnaroo Will Stream Live",
+      "link": "https://variety.com/2026/music/news/bonnaroo-livestream-hulu-1202893515/",
+      "date": "Jun 11, 26",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "festival_headliner"
       ]
     },
     {
@@ -160,6 +190,21 @@
       ]
     },
     {
+      "id": "328315365843",
+      "title": "The Pianist Igor Levit Bets Big on Recordings With His Own Label",
+      "summary": "Despite woes in the recording industry, Levit announced the founding of No Silence, which will release three albums this fall.",
+      "company": "The Pianist Igor Levit Bets Big",
+      "link": "https://www.nytimes.com/2026/06/12/arts/music/igor-levit-no-silence.html",
+      "date": "Jun 12, 26",
+      "source": "NYT Arts",
+      "layer": 1,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
       "id": "5035a807f0df",
       "title": "New Chiefs Stadium Will Star Mahomes Under Reworked Contract",
       "summary": "The star quarterback is set to play at least three years in the new venue.",
@@ -175,18 +220,18 @@
       ]
     },
     {
-      "id": "2604bb613f6a",
-      "title": "Football Daily | World Cup day is upon us: chill, relax and revel in the euphoria and despair",
-      "summary": "Sign up now! Sign up now! Sign up now? Sign up now!Happy GWC Day everyone! Sure, Bigger Cup may have become the pinnacle of football in the 21st century, but nothing stirs the child within like the be",
-      "company": "Football Daily",
-      "link": "https://www.theguardian.com/football/2026/jun/11/football-daily-world-cup-day-chill-relax-euphoria-despair",
-      "date": "Jun 11, 26",
-      "source": "Guardian Sport",
+      "id": "a6d3d0f0c909",
+      "title": "High revenues, long-term prospects draw PE to industrials; Thoma Bravo featured in They Said It",
+      "summary": "Astorg-backed IPCOM announcing its intention to acquire a majority stake in Le Froid Pecomark is among the several industrials deals of the week. The post High revenues, long-term prospects draw PE to",
+      "company": "High",
+      "link": "https://www.pehub.com/high-revenues-long-term-prospects-draw-pe-to-industrials-thoma-bravo-featured-in-they-said-it/",
+      "date": "Jun 12, 26",
+      "source": "PE Hub",
       "layer": 2,
       "access": "pe",
       "score": 14,
       "moments": [
-        "festival_headliner"
+        "acquisition"
       ]
     },
     {
@@ -205,33 +250,33 @@
       ]
     },
     {
-      "id": "3ee093023f89",
-      "title": "Shaboozey on When He Realized \u2018A Bar Song (Tipsy)\u2019 Was Blowing Up",
-      "summary": "\"It just kind of just kept climbing, and I just rode the wave,\" says the country star, who will release the new album The Outlaw Cherie Lee &#38; Other Western Tales in July",
-      "company": "Shaboozey",
-      "link": "https://www.rollingstone.com/music/music-features/a-bar-song-tipsy-shaboozey-when-it-became-a-hit-1235576028/",
-      "date": "Jun 11, 26",
-      "source": "Rolling Stone Music",
+      "id": "0b127167fc6a",
+      "title": "The Strokes Announce Headline Concert at Queens\u2019 Flushing Meadows Corona Park",
+      "summary": "The Strokes have announced a hometown concert at Flushing Meadows Corona Park in Queens on October 2, adding a New... The post The Strokes Announce Headline Concert at Queens\u2019 Flushing Meadows Corona ",
+      "company": "The Strokes Announce Headline Concert",
+      "link": "https://www.ticketnews.com/2026/06/the-strokes-announce-headline-concert-at-queens-flushing-meadows-corona-park/",
+      "date": "Jun 12, 26",
+      "source": "Ticket News",
       "layer": 1,
       "access": "pe",
-      "score": 12,
+      "score": 14,
       "moments": [
-        "album_announcement"
+        "festival_headliner"
       ]
     },
     {
-      "id": "a487827b1847",
-      "title": "Jakob Nowell used to call Sublime 'his dad's band.' But new album proves 'Now it's our band. It's us'",
-      "summary": "With the release of \"Until the Sun Explodes\" their first album as Sublime in 30 years, the band members talk about recapturing the effortless essence of their timeless sound and looking forward to fut",
-      "company": "Jakob Nowell",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-06-11/sublime-until-the-sun-explodes-new-album-interview-bud-gaugh-eric-wilson",
-      "date": "Jun 11, 26",
-      "source": "LA Times Music",
+      "id": "23e9f15df512",
+      "title": "Nicole Kidman Didn\u2019t Make It to That Bonkers Playoff Game, But She Sure Loved Este Haim\u2019s Custom \u2018Knickole Kidman\u2019 Knicks T-shirt",
+      "summary": "The Haim sisters and Taylor Swift made almost as many headlines for their home-brewed tops as the home team did for staging the greatest comeback in NBA history.",
+      "company": "Nicole Kidman Didn\u2019t Make It",
+      "link": "https://www.billboard.com/culture/lifestyle/nicole-kidman-loved-este-haim-taylor-swift-custom-knicks-shirt-1236271270/",
+      "date": "Jun 12, 26",
+      "source": "Billboard",
       "layer": 1,
       "access": "pe",
-      "score": 12,
+      "score": 13,
       "moments": [
-        "album_announcement"
+        "festival_headliner"
       ]
     },
     {
@@ -250,66 +295,6 @@
       ]
     },
     {
-      "id": "174ccc5fa931",
-      "title": "The Strokes delay new album \u2018Reality Awaits\u2019 and announce huge homecoming New York show with Beach House and Fcukers",
-      "summary": "Their seventh album was originally set to drop this month, but will now be arriving later in the summer The post The Strokes delay new album &#8216;Reality Awaits&#8217; and announce huge homecoming N",
-      "company": "The Strokes",
-      "link": "https://www.nme.com/news/music/the-strokes-delay-new-album-reality-awaits-announce-homecoming-new-york-show-beach-house-fcukers-3950329?utm_source=rss&utm_medium=rss&utm_campaign=the-strokes-delay-new-album-reality-awaits-announce-homecoming-new-york-show-beach-house-fcukers",
-      "date": "Jun 11, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "0eb7413cb51d",
-      "title": "Spotify accused of using new streaming policy to reduce indie artist's royalties",
-      "summary": "Mark Kratter, a Connecticut-based musician, is suing Spotify for engaging in what he alleges are \"unfair business practices.\" The complaint claims that streaming metrics have been altered to prioritiz",
-      "company": "Spotify",
-      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-06-09/spotify-accused-of-reducing-indie-artists-compensation-in-new-lawsuit",
-      "date": "Jun 09, 26",
-      "source": "LA Times Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "streaming_milestone"
-      ]
-    },
-    {
-      "id": "4146bcce91fa",
-      "title": "The Tao of RaiNao",
-      "summary": "An alchemist of reggaeton, jazz and alternative, RaiNao has graced both NPR's Tiny Desk and Bad Bunny's residency shows. The Puerto Rican artist continues the momentum with her new album, 'Marcri\u00e1.'",
-      "company": "The Tao",
-      "link": "https://www.latimes.com/delos/story/2026-06-04/rainao-interview-new-album-marcria-puerto-rico-cuba-omara-portuondo",
-      "date": "Jun 04, 26",
-      "source": "LA Times Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "8580fa187bee",
-      "title": "The best albums of 2026 so far",
-      "summary": "From Thundercat\u2019s all-star funk to Kacey Musgraves\u2019 hymns to solitude, we look at some of our favourite music of the last six months from across the pop spectrum\u2022 Listen to a Spotify playlist of every",
-      "company": "The",
-      "link": "https://www.theguardian.com/music/ng-interactive/2026/jun/09/the-best-albums-of-2026-so-far",
-      "date": "Jun 09, 26",
-      "source": "Guardian Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "streaming_milestone"
-      ]
-    },
-    {
       "id": "ed24e331be68",
       "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
       "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
@@ -325,6 +310,36 @@
       ]
     },
     {
+      "id": "c77f1aada39a",
+      "title": "University of Utah Finalizes Private Equity Deal With Otro Capital",
+      "summary": "Utah is the first athletic department to sign a private equity deal.",
+      "company": "University",
+      "link": "https://frontofficesports.com/utah-private-equity-deal-otro-capital/",
+      "date": "Jun 12, 26",
+      "source": "Front Office Sports",
+      "layer": 4,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "43839d07c332",
+      "title": "Rosal\u00eda Returns to Stage After Family Emergency, Tells Boston Crowd \u2018Loved Ones Need to Come First\u2019",
+      "summary": "The Spanish star's next stop is Toronto, where she\u2019s scheduled to perform June 13 at Scotiabank Arena.",
+      "company": "Rosal\u00eda Returns",
+      "link": "https://www.billboard.com/music/latin/rosalia-resumes-tour-family-emergency-emotional-message-1236271357/",
+      "date": "Jun 12, 26",
+      "source": "Billboard",
+      "layer": 2,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
       "id": "6f357109d405",
       "title": "Color TV, Morning News and Late-Night: NBC Has a History of Firsts in Broadcasting",
       "summary": "The first-to-market advantage is built right into the name: the National Broadcasting Company. NBC was created a century ago amid the maelstrom of a mid-1920s gold rush that emerged around the cutting",
@@ -333,6 +348,21 @@
       "date": "Jun 10, 26",
       "source": "Variety Biz",
       "layer": 3,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "80c2d6416406",
+      "title": "KKA, Winterberg-backed Healthcare Holding Schweiz acquires Compet Medical",
+      "summary": "Compet Medical supplies harm reduction and prevention products to professional organizations, public institutions and counseling centers. The post KKA, Winterberg-backed Healthcare Holding Schweiz acq",
+      "company": "",
+      "link": "https://www.pehub.com/kka-winterberg-backed-healthcare-holding-schweiz-acquires-compet-medical/",
+      "date": "Jun 12, 26",
+      "source": "PE Hub",
+      "layer": 5,
       "access": "pe",
       "score": 9,
       "moments": [
@@ -355,33 +385,18 @@
       ]
     },
     {
-      "id": "217e9d5eb96b",
-      "title": "Falfurrias-backed Woven Solutions acquires cybersecurity software developer Insignis",
-      "summary": "Woven is a provider of AI-enabled mission software for the national security community. The post Falfurrias-backed Woven Solutions acquires cybersecurity software developer Insignis appeared first on ",
-      "company": "Falfurrias-backed Woven Solutions",
-      "link": "https://www.pehub.com/falfurrias-backed-woven-solutions-acquires-cybersecurity-software-developer-insignis/",
-      "date": "Jun 11, 26",
-      "source": "PE Hub",
-      "layer": 5,
+      "id": "ae8259ee716f",
+      "title": "University of Utah and its foundation finalize deal to form Crimson Brand Partners",
+      "summary": "New college athletics partnership advanced by world-class executive team, led by Matt Webb SALT LAKE CITY, June 12, 2026 /PRNewswire/ -- The University of Utah and its foundation (University of Utah G",
+      "company": "University",
+      "link": "https://www.prnewswire.com/news-releases/university-of-utah-and-its-foundation-finalize-deal-to-form-crimson-brand-partners-302799152.html",
+      "date": "Jun 12, 26",
+      "source": "PR Newswire",
+      "layer": 4,
       "access": "pe",
       "score": 9,
       "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "0d38abbca029",
-      "title": "LA28 Opens Second Olympic Ticket Drop After Record-Breaking First Sale",
-      "summary": "The road to the Los Angeles 2028 Olympic Games is getting another major ticketing milestone. LA28 announced Wednesday that its... The post LA28 Opens Second Olympic Ticket Drop After Record-Breaking F",
-      "company": "LA28 Opens Second Olympic Ticket Drop",
-      "link": "https://www.ticketnews.com/2026/06/la28-opens-second-olympic-rocky-drop-record-breaking-sale/",
-      "date": "Jun 10, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 8,
-      "moments": [
-        "record_breaking"
+        "company_launch"
       ]
     },
     {
@@ -400,33 +415,18 @@
       ]
     },
     {
-      "id": "cfc11400c41e",
-      "title": "From HVAC to garage doors, more industrial service providers on the block",
-      "summary": "Audax, Harvest, MSouth, Olympus and Snowdon are among the PE firms expecting to test the market. The post From HVAC to garage doors, more industrial service providers on the block appeared first on PE",
-      "company": "From HVAC",
-      "link": "https://www.pehub.com/from-hvac-to-garage-doors-more-industrial-service-providers-on-the-block/",
-      "date": "Jun 11, 26",
+      "id": "2eee55d3ceac",
+      "title": "PE pursues pediatric speech therapy assets: 5 deals",
+      "summary": "General Atlantic, Aquitaine Capital, Avesi Partners and PPC Enterprises are among the PE firms investing in pediatric speech therapy. The post PE pursues pediatric speech therapy assets: 5 deals appea",
+      "company": "PE pursues pediatric speech therapy assets",
+      "link": "https://www.pehub.com/pe-pursues-pediatric-speech-therapy-assets-5-deals/",
+      "date": "Jun 12, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
       "score": 6,
       "moments": [
         "pe_investment"
-      ]
-    },
-    {
-      "id": "c98a05743546",
-      "title": "Stonepeak, Energy Equation Partners to acquire Poland\u2019s Anwim",
-      "summary": "Anwim operates the MOYA station network, the Poland's third-largest fuel station chain. The post Stonepeak, Energy Equation Partners to acquire Poland&#8217;s Anwim appeared first on PE Hub.",
-      "company": "Stonepeak Energy Equation Partners",
-      "link": "https://www.pehub.com/stonepeak-energy-equation-partners-to-acquire-polands-anwim/",
-      "date": "Jun 11, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "acquisition"
       ]
     },
     {
@@ -445,21 +445,6 @@
       ]
     },
     {
-      "id": "c187159cfbae",
-      "title": "Carlyle targets $15bn for ninth flagship PE fund",
-      "summary": "Carlyle Group has launched fundraising for its ninth flagship buyout fund with a target of approximately $15bn, matching the $14.8bn secured by its predecessor vehicle. According to Bloomberg, the fir",
-      "company": "Carlyle",
-      "link": "https://www.altassets.net/premium/carlyle-targets-15bn-for-ninth-flagship-pe-fund.html",
-      "date": "Jun 11, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
       "id": "f3a1d1554548",
       "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
       "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
@@ -473,6 +458,32 @@
       "moments": [
         "acquisition"
       ]
+    },
+    {
+      "id": "38a9f631a2f6",
+      "title": "How ESPN Captured the Mayhem at Madison Square Garden",
+      "summary": "ESPN has more than 50 cameras set up around the arena during NBA Finals broadcasts, but only one of those angles is unofficially named after a New York Knicks legend. And moments after OG Anunoby tipp",
+      "company": "How ESPN Captured",
+      "link": "https://www.sportico.com/business/media/2026/knicks-comeback-anunoby-highlight-tv-espn-nba-finals-fans-1234903113/",
+      "date": "Jun 11, 26",
+      "source": "Sportico",
+      "layer": 3,
+      "access": "pe",
+      "score": 14,
+      "moments": []
+    },
+    {
+      "id": "af6953b8ba92",
+      "title": "The Weeknd Tops 3 Million Tickets Sold in 2026 Alone as \u2018After Hours Til Dawn\u2019 Tour Kicks Off U.K. and European Legs",
+      "summary": "As the Weeknd kicked off the 2026 Europe and U.K. leg of his years-long \u201cAfter Hours Til Dawn\u201d stadium tour with a sold-out performance at Etihad Stadium in Manchester on Thursday night, he celebrated",
+      "company": "The Weeknd Tops",
+      "link": "https://variety.com/2026/music/news/the-weeknd-3-million-tickets-sold-in-2026-alone-1236778902/",
+      "date": "Jun 12, 26",
+      "source": "Variety Music",
+      "layer": 2,
+      "access": "pe",
+      "score": 14,
+      "moments": []
     },
     {
       "id": "29fa95bdab9e",
@@ -498,19 +509,6 @@
       "layer": 3,
       "access": "pe",
       "score": 9,
-      "moments": []
-    },
-    {
-      "id": "f9b375c7bfef",
-      "title": "Texas AG Joins Scrutiny of FIFA World Cup Ticket Sales After Seat Map, Pricing Complaints",
-      "summary": "Texas Attorney General Ken Paxton has opened an investigation into FIFA\u2019s 2026 World Cup ticketing practices, making Texas the latest... The post Texas AG Joins Scrutiny of FIFA World Cup Ticket Sales",
-      "company": "Texas AG Joins Scrutiny",
-      "link": "https://www.ticketnews.com/2026/06/texas-ag-joins-scrutiny-of-fifa-world-cup-ticket-sales-after-seat-map-pricing-complaints/",
-      "date": "Jun 10, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 7,
       "moments": []
     },
     {
@@ -540,13 +538,26 @@
       "moments": []
     },
     {
-      "id": "5e0093a64d92",
-      "title": "In a Timely \u201cUnder the Shadow\u201d Staging, a Ghost Haunts War-Torn Iran",
-      "summary": "The supernatural mixes with secular modernity, family dynamics and feminism in a new London production of \u201cUnder the Shadow.\u201d",
-      "company": "In",
-      "link": "https://www.nytimes.com/2026/06/10/theater/under-the-shadow-almeida-theater-london.html",
-      "date": "Jun 10, 26",
-      "source": "NYT Arts",
+      "id": "91b243566422",
+      "title": "Fox\u2019s full-screen ads during World Cup hydration breaks cause dismay in US: \u2018Absolute nonsense\u2019",
+      "summary": "Breaks have been added at World Cup for player safetyFox missed small amount of action during breakFox is facing criticism from fans in the US after introducing full-screen adverts while players take ",
+      "company": "Fox\u2019s",
+      "link": "https://www.theguardian.com/football/2026/jun/12/hydration-breaks-adverts-fox-world-cup",
+      "date": "Jun 12, 26",
+      "source": "Guardian Sport",
+      "layer": 3,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "0568b244a3fe",
+      "title": "Bring Me The Horizon share \u20182026 Repented\u2019 version of \u2018Black & Blue\u2019 from re-recorded \u2018Count Your Blessings\u2019",
+      "summary": "The 2026 version keeps the same grit as the original, but now comes with more expansive, modern production The post Bring Me The Horizon share &#8216;2026 Repented&#8217; version of \u2018Black &#038; Blue",
+      "company": "Bring Me The Horizon",
+      "link": "https://www.nme.com/news/music/bring-me-the-horizon-share-2026-repented-version-of-black-blue-from-re-recorded-count-your-blessings-3950487?utm_source=rss&utm_medium=rss&utm_campaign=bring-me-the-horizon-share-2026-repented-version-of-black-blue-from-re-recorded-count-your-blessings",
+      "date": "Jun 12, 26",
+      "source": "NME",
       "layer": 4,
       "access": "pe",
       "score": 4,
@@ -561,6 +572,19 @@
       "date": "May 09, 26",
       "source": "Venues Today",
       "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "8e5f935e5b8f",
+      "title": "New York Poised to Extend Ticket Laws After Broader Resale Crackdown Fails Again",
+      "summary": "New York lawmakers have again opted for continuity over a sweeping rewrite of the state\u2019s live-event ticketing laws, passing a... The post New York Poised to Extend Ticket Laws After Broader Resale Cr",
+      "company": "New York Poised",
+      "link": "https://www.ticketnews.com/2026/06/new-york-extends-ticket-laws-after-broader-resale-crackdown-fails-again/",
+      "date": "Jun 11, 26",
+      "source": "Ticket News",
+      "layer": 3,
       "access": "pe",
       "score": 4,
       "moments": []
