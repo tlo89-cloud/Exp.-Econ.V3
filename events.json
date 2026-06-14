@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-13T14:10:15.799421+00:00",
-  "total": 34,
+  "generated": "2026-06-14T14:13:02.667742+00:00",
+  "total": 39,
   "scraped": [
     {
       "id": "8375320b19f7",
@@ -36,16 +36,16 @@
       ]
     },
     {
-      "id": "e2f7fd29361f",
-      "title": "The Strokes play \u2018Falling Out Of Love\u2019 live in full for first time and bring back \u2018Killing Lies\u2019 as they headline Bonnaroo 2026",
-      "summary": "Their new album 'Reality Awaits' is due for release on July 24 The post The Strokes play &#8216;Falling Out Of Love&#8217; live in full for first time and bring back &#8216;Killing Lies&#8217; as they",
-      "company": "The Strokes",
-      "link": "https://www.nme.com/news/music/the-strokes-play-falling-out-of-love-live-in-full-for-first-time-and-bring-back-killing-lies-as-they-headline-bonnaroo-2026-3950721?utm_source=rss&utm_medium=rss&utm_campaign=the-strokes-play-falling-out-of-love-live-in-full-for-first-time-and-bring-back-killing-lies-as-they-headline-bonnaroo-2026",
+      "id": "e58dd23b0244",
+      "title": "Lil Uzi Vert Proves They Can\u2019t Be Duplicated With Frenetic Headlining Performance at Summer Smash 2026: \u2018New Album on the Way\u2019",
+      "summary": "Uzi teased a new album, played unreleased music and shouted-out North West during the 45-minute set.",
+      "company": "Lil Uzi Vert Proves They Can\u2019t",
+      "link": "https://www.billboard.com/music/rb-hip-hop/lil-uzi-summer-smash-2026-recap-1236272327/",
       "date": "Jun 13, 26",
-      "source": "NME",
+      "source": "Billboard",
       "layer": 1,
       "access": "pe",
-      "score": 23,
+      "score": 19,
       "moments": [
         "album_announcement",
         "festival_headliner"
@@ -84,6 +84,22 @@
       ]
     },
     {
+      "id": "51bcda92c48a",
+      "title": "Jim Ward on \u201cthe end of Sparta\u2019s second act\u201d, his connection to Turnstile and bond to At The Drive-In",
+      "summary": "The rock veteran talks to NME about new album \u2018Cut A Silhouette\u2019, his eternal unity with old band, seeing himself in Turnstile, why he has \"a ton of respect\" for Kneecap, and how for Sparta \"all the o",
+      "company": "Jim Ward",
+      "link": "https://www.nme.com/news/music/sparta-interview-jim-ward-cut-a-silhouette-at-the-drive-in-turnstile-tour-3950787?utm_source=rss&utm_medium=rss&utm_campaign=sparta-interview-jim-ward-cut-a-silhouette-at-the-drive-in-turnstile-tour",
+      "date": "Jun 14, 26",
+      "source": "NME",
+      "layer": 1,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "album_announcement",
+        "festival_headliner"
+      ]
+    },
+    {
       "id": "170883e5068b",
       "title": "A night out with Cuban jazz maestro, Arturo Sandoval",
       "summary": "Hot on the heels of his new album, \"Sang\u00fa,\" the Cuban jazz legend talks playing Coachella with Karol G, being knighted by the king of Spain and honored by former President Obama",
@@ -116,34 +132,34 @@
       ]
     },
     {
-      "id": "639d74346bc6",
-      "title": "Rosal\u00eda Thanks Fans for \u2018Understanding\u2019 Postponed Tour Dates: \u2018Loved Ones Need to Come First\u2019",
-      "summary": "The Spanish singer's show in Boston marked her official U.S. tour opener after she was forced to cancel three dates in Florida due to a family emergency",
-      "company": "Rosal\u00eda Thanks Fans",
-      "link": "https://www.rollingstone.com/music/music-latin/rosalia-us-lux-tour-cancellation-comments-1235576865/",
-      "date": "Jun 12, 26",
-      "source": "Rolling Stone Music",
-      "layer": 5,
+      "id": "d468645b4458",
+      "title": "Alexis Smith of The Feminine Glow Emerges at the Center of the Feminine Energy Coaching Boom",
+      "summary": "DUBAI, UAE &#8211; &#160;The Feminine Glow, the fast-growing femininity and inner work platform founded by Alexis Smith, is gaining national attention as interest in coaching, self-development, and fe",
+      "company": "Alexis Smith",
+      "link": "https://venuestoday.com/alexis-smith-of-the-feminine-glow-emerges-at-the-center-of-the-feminine-energy-coaching-boom/",
+      "date": "Mar 29, 26",
+      "source": "Venues Today",
+      "layer": 2,
       "access": "pe",
       "score": 13,
       "moments": [
-        "tour_announcement",
-        "acquisition"
+        "acquisition",
+        "company_launch"
       ]
     },
     {
-      "id": "cdde573d085b",
-      "title": "Zepto\u2019s IPO filing reveals fast growth, bigger losses, and a valuation question nobody\u2019s answered yet",
-      "summary": "Zepto's advertising revenue jumped 151%, outpacing the company's 104% growth in operating revenue.",
-      "company": "Zepto\u2019s IPO",
-      "link": "https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/",
-      "date": "Jun 09, 26",
-      "source": "TechCrunch Startups",
+      "id": "6f31f5d263a7",
+      "title": "High hoops: Netball bids for reach, revenue and relevance",
+      "summary": "This week on The SportBusiness Podcast, co-hosts Jonathan Rest and Martin Ross discuss some major developments in European football, a crucial media rights deal for a challenger sport and the week\u2019s i",
+      "company": "High hoops",
+      "link": "https://www.sportbusiness.com/2026/05/high-hoops-netball-bids-for-reach-revenue-and-relevance/?utm_source=rss&utm_medium=rss&utm_campaign=high-hoops-netball-bids-for-reach-revenue-and-relevance",
+      "date": "May 21, 26",
+      "source": "Sport Business",
       "layer": 2,
       "access": "pe",
-      "score": 18,
+      "score": 22,
       "moments": [
-        "ipo"
+        "rights_deal"
       ]
     },
     {
@@ -162,18 +178,18 @@
       ]
     },
     {
-      "id": "0152de5e4311",
-      "title": "SpaceX perpetual futures become Binance's No. 2 traded product; Binance captures over 60% market share across CEX and DEX venues",
-      "summary": "Binance exceeded $5.6 billion in SPCXUSDT trading volume over last 24 hours, with over $9 billion in accumulated trading volume across SpaceX's Pre-IPO and post-public listing ABU DHABI, UAE, June 13,",
-      "company": "SpaceX",
-      "link": "https://www.prnewswire.com/news-releases/spacex-perpetual-futures-become-binances-no-2-traded-product-binance-captures-over-60-market-share-across-cex-and-dex-venues-302799600.html",
-      "date": "Jun 13, 26",
-      "source": "PR Newswire",
+      "id": "6c250e94b064",
+      "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
+      "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
+      "company": "Kiro Eid Built",
+      "link": "https://venuestoday.com/kiro-eid-built-8x6-design-studio-here-is-how-he-did-it-without-a-network-or-shortcuts/",
+      "date": "Mar 28, 26",
+      "source": "Venues Today",
       "layer": 2,
       "access": "pe",
-      "score": 17,
+      "score": 16,
       "moments": [
-        "ipo"
+        "company_launch"
       ]
     },
     {
@@ -207,18 +223,18 @@
       ]
     },
     {
-      "id": "9e681fcc3b22",
-      "title": "Limp Bizkit headline Download with triumphant set, 23 years after pulling out of inaugural festival",
-      "summary": "The nu-metal band were supposed to headliner back in 2003, but were replaced by Audioslave after dropping out The post Limp Bizkit headline Download with triumphant set, 23 years after pulling out of ",
-      "company": "Limp Bizkit",
-      "link": "https://www.nme.com/news/music/limp-bizkit-headline-download-with-triumphant-set-23-years-after-pulling-out-of-inaugural-festival-3950693?utm_source=rss&utm_medium=rss&utm_campaign=limp-bizkit-headline-download-with-triumphant-set-23-years-after-pulling-out-of-inaugural-festival",
-      "date": "Jun 13, 26",
+      "id": "df3156027a87",
+      "title": "Alice Cooper thanks man who found his lost credit card with signed copy of his latest album",
+      "summary": "It was returned to Cooper right before he set off on his European tour The post Alice Cooper thanks man who found his lost credit card with signed copy of his latest album appeared first on NME.",
+      "company": "Alice Cooper",
+      "link": "https://www.nme.com/news/music/alice-cooper-thanks-man-who-found-his-lost-credit-card-with-signed-copy-of-his-latest-album-3950861?utm_source=rss&utm_medium=rss&utm_campaign=alice-cooper-thanks-man-who-found-his-lost-credit-card-with-signed-copy-of-his-latest-album",
+      "date": "Jun 14, 26",
       "source": "NME",
       "layer": 1,
       "access": "pe",
       "score": 14,
       "moments": [
-        "festival_headliner"
+        "company_launch"
       ]
     },
     {
@@ -282,36 +298,6 @@
       ]
     },
     {
-      "id": "6fb0ac837b86",
-      "title": "DEVO and The B-52s on their joint tour and inspiring Nirvana: \u201cBoth bands are totally unique\u201d",
-      "summary": "Ahead of their UK co-headline dates, DEVO\u2019s Mark Mothersbaugh and The B-52s' Kate Pierson talk to NME about what they have in common, inspiring Kurt Cobain and John Lennon, the state of the world and ",
-      "company": "DEVO and The B-52s on their",
-      "link": "https://www.nme.com/news/music/devo-the-b52s-interview-joint-uk-tour-nirvana-michael-jackson-john-lennon-3948036?utm_source=rss&utm_medium=rss&utm_campaign=devo-the-b52s-interview-joint-uk-tour-nirvana-michael-jackson-john-lennon",
-      "date": "Jun 13, 26",
-      "source": "NME",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "a487827b1847",
-      "title": "Jakob Nowell used to call Sublime 'his dad's band.' But new album proves 'Now it's our band. It's us'",
-      "summary": "With the release of \"Until the Sun Explodes\" their first album as Sublime in 30 years, the band members talk about recapturing the effortless essence of their timeless sound and looking forward to fut",
-      "company": "Jakob Nowell",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-06-11/sublime-until-the-sun-explodes-new-album-interview-bud-gaugh-eric-wilson",
-      "date": "Jun 11, 26",
-      "source": "LA Times Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
       "id": "9fd7c921861e",
       "title": "China\u2019s chip giants launch $577m deep-tech fund",
       "summary": "ChangXin Memory Technologies and Alibaba Group Holding have joined a coalition of domestic technology firms to launch a 3.91bn yuan ($577m) private equity fund focused on targeting China&#8217;s hard ",
@@ -342,33 +328,18 @@
       ]
     },
     {
-      "id": "ce9fd6fb5c2a",
-      "title": "Harry Styles pays tribute to David Hockney and reflects on One Direction days as he kicks off record-breaking Wembley run",
-      "summary": "https://www.nme.com/news/music/harry-styles-london-wembley-stadium-shows-doors-stage-times-revealed-3950402 The post Harry Styles pays tribute to David Hockney and reflects on One Direction days as he",
-      "company": "Harry Styles",
-      "link": "https://www.nme.com/news/music/harry-styles-david-hockney-one-direction-wembley-stadium-setlist-photos-3950716?utm_source=rss&utm_medium=rss&utm_campaign=harry-styles-david-hockney-one-direction-wembley-stadium-setlist-photos",
-      "date": "Jun 13, 26",
-      "source": "NME",
-      "layer": 2,
+      "id": "ed24e331be68",
+      "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
+      "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
+      "company": "Niloufar Banisaied",
+      "link": "https://venuestoday.com/niloufar-banisaied-is-bringing-timeless-design-and-the-guest-experience-at-the-forefront/",
+      "date": "Jun 09, 26",
+      "source": "Venues Today",
+      "layer": 4,
       "access": "pe",
       "score": 11,
       "moments": [
-        "record_breaking"
-      ]
-    },
-    {
-      "id": "db0926ef58e8",
-      "title": "College Sports PE Takes Next Step With $100M Utah-Otro Deal",
-      "summary": "The University of Utah has finalized an agreement with private equity firm Otro Capital to create a new for-profit entity, Crimson Brand Partners, the school announced Friday morning. No financial det",
-      "company": "College Sports PE Takes Next Step",
-      "link": "https://www.sportico.com/leagues/college-sports/2026/utah-otro-college-sports-private-equity-1234903208/",
-      "date": "Jun 12, 26",
-      "source": "Sportico",
-      "layer": 4,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "pe_investment"
+        "company_launch"
       ]
     },
     {
@@ -384,6 +355,51 @@
       "score": 9,
       "moments": [
         "acquisition"
+      ]
+    },
+    {
+      "id": "3e3c1370f9b8",
+      "title": "Here\u2019s what Guns N\u2019 Roses played as they headlined Download 2026",
+      "summary": "Their three hour set saw them play covers of Wings, Bob Dylan, Sex Pistols and more The post Here&#8217;s what Guns N&#8217; Roses played as they headlined Download 2026 appeared first on NME.",
+      "company": "Here\u2019s",
+      "link": "https://www.nme.com/news/music/heres-what-guns-n-roses-played-as-they-headlined-download-2026-3950796?utm_source=rss&utm_medium=rss&utm_campaign=heres-what-guns-n-roses-played-as-they-headlined-download-2026",
+      "date": "Jun 14, 26",
+      "source": "NME",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "80c2d6416406",
+      "title": "KKA, Winterberg-backed Healthcare Holding Schweiz acquires Compet Medical",
+      "summary": "Compet Medical supplies harm reduction and prevention products to professional organizations, public institutions and counseling centers. The post KKA, Winterberg-backed Healthcare Holding Schweiz acq",
+      "company": "",
+      "link": "https://www.pehub.com/kka-winterberg-backed-healthcare-holding-schweiz-acquires-compet-medical/",
+      "date": "Jun 12, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "b2b6dea20713",
+      "title": "YOG days are over?",
+      "summary": "This week on The SportBusiness Podcast, co-hosts Jonathan Rest and Martin Ross are back to delve into the headline stories of the week and take a look at a big-ticket football sponsorship.",
+      "company": "YOG",
+      "link": "https://www.sportbusiness.com/2026/05/yog-days-are-over/?utm_source=rss&utm_medium=rss&utm_campaign=yog-days-are-over",
+      "date": "May 15, 26",
+      "source": "Sport Business",
+      "layer": 4,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "festival_headliner"
       ]
     },
     {
@@ -417,17 +433,19 @@
       ]
     },
     {
-      "id": "af6953b8ba92",
-      "title": "The Weeknd Tops 3 Million Tickets Sold in 2026 Alone as \u2018After Hours Til Dawn\u2019 Tour Kicks Off U.K. and European Legs",
-      "summary": "As the Weeknd kicked off the 2026 Europe and U.K. leg of his years-long \u201cAfter Hours Til Dawn\u201d stadium tour with a sold-out performance at Etihad Stadium in Manchester on Thursday night, he celebrated",
-      "company": "The Weeknd Tops",
-      "link": "https://variety.com/2026/music/news/the-weeknd-3-million-tickets-sold-in-2026-alone-1236778902/",
-      "date": "Jun 12, 26",
-      "source": "Variety Music",
-      "layer": 2,
+      "id": "f3a1d1554548",
+      "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
+      "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
+      "company": "Navigating",
+      "link": "https://venuestoday.com/navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026/",
+      "date": "Apr 22, 26",
+      "source": "Venues Today",
+      "layer": 3,
       "access": "pe",
-      "score": 14,
-      "moments": []
+      "score": 6,
+      "moments": [
+        "acquisition"
+      ]
     },
     {
       "id": "29fa95bdab9e",
@@ -443,6 +461,19 @@
       "moments": []
     },
     {
+      "id": "604ffa454c63",
+      "title": "Maximize Every Square Foot: Using Digital Authority to Win High-Value Venue Bookings",
+      "summary": "Source: ChatGPT Event organizers often struggle to secure premium venue bookings even when their content or services are strong. Limited visibility, unclear reputation, and weak online authority can r",
+      "company": "Maximize Every Square Foot",
+      "link": "https://venuestoday.com/maximize-every-square-foot-using-digital-authority-to-win-high-value-venue-bookings/",
+      "date": "Mar 04, 26",
+      "source": "Venues Today",
+      "layer": 2,
+      "access": "pe",
+      "score": 10,
+      "moments": []
+    },
+    {
       "id": "6fee239d5e56",
       "title": "Wimbledon Increases Purse by 20%, Remains Short of Player Demands",
       "summary": "Players are seeking 22% of revenue at Grand Slams by 2030.",
@@ -453,6 +484,19 @@
       "layer": 2,
       "access": "pe",
       "score": 8,
+      "moments": []
+    },
+    {
+      "id": "376dd64cf62b",
+      "title": "DR Congo bring style and pride to the World Cup after wholesome welcome",
+      "summary": "Brutally tough return to tournament awaits, but the stature of opposition feels less important than the fact of being here at allIt was an arrival worth more than half a century of waiting. The Democr",
+      "company": "DR Congo",
+      "link": "https://www.theguardian.com/football/2026/jun/14/dr-congo-world-cup-houston",
+      "date": "Jun 14, 26",
+      "source": "Guardian Sport",
+      "layer": 4,
+      "access": "pe",
+      "score": 7,
       "moments": []
     },
     {
@@ -492,6 +536,32 @@
       "layer": 4,
       "access": "pe",
       "score": 5,
+      "moments": []
+    },
+    {
+      "id": "9428fe4fcc0d",
+      "title": "ABC's FCC fight could redefine press freedom",
+      "summary": "The outcome of ABC's legal battle with the Federal Communications Commission could set a landmark precedent around press freedom and the role businesses play in supporting American democracy. Why it m",
+      "company": "ABC's FCC",
+      "link": "https://www.axios.com/2026/06/13/press-freedom-battles-fcc-abc",
+      "date": "Jun 13, 26",
+      "source": "Axios",
+      "layer": 3,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "8f95fdb4c719",
+      "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
+      "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
+      "company": "Global Times",
+      "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/",
+      "date": "May 09, 26",
+      "source": "Venues Today",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
       "moments": []
     },
     {
