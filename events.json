@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T14:13:02.667742+00:00",
-  "total": 39,
+  "generated": "2026-06-15T17:20:36.005031+00:00",
+  "total": 38,
   "scraped": [
     {
       "id": "8375320b19f7",
@@ -36,70 +36,6 @@
       ]
     },
     {
-      "id": "e58dd23b0244",
-      "title": "Lil Uzi Vert Proves They Can\u2019t Be Duplicated With Frenetic Headlining Performance at Summer Smash 2026: \u2018New Album on the Way\u2019",
-      "summary": "Uzi teased a new album, played unreleased music and shouted-out North West during the 45-minute set.",
-      "company": "Lil Uzi Vert Proves They Can\u2019t",
-      "link": "https://www.billboard.com/music/rb-hip-hop/lil-uzi-summer-smash-2026-recap-1236272327/",
-      "date": "Jun 13, 26",
-      "source": "Billboard",
-      "layer": 1,
-      "access": "pe",
-      "score": 19,
-      "moments": [
-        "album_announcement",
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "49dd5bf39de7",
-      "title": "General Atlantic, Aquitaine, Avesi, PPC Enterprises target speech therapy; Stable pharmaceutical demand leads SK Capital-backed Apotex to C$1.3bn IPO",
-      "summary": "Early intervention is leading to more diagnoses in children of conditions that require speech therapy, fueling demand in the segment and catching the eye of private equity; discussing the largest life",
-      "company": "",
-      "link": "https://www.pehub.com/general-atlantic-aquitaine-avesi-ppc-enterprises-target-speech-therapy-stable-pharmaceutical-demand-leads-sk-capital-backed-apotex-to-c1-3bn-ipo/",
-      "date": "Jun 12, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "public",
-      "score": 16,
-      "moments": [
-        "ipo",
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "c510aa5c6cf2",
-      "title": "DCC signals conditional backing for enhanced \u00a35.7bn takeover bid from KKR consortium",
-      "summary": "Ireland-based energy distributor DCC has indicated it would support a revised \u00a35.7bn ($7.63bn) acquisition proposal from a consortium led by KKR &#038; Co Inc and Energy Capital Partners, provided the",
-      "company": "DCC",
-      "link": "https://www.privateequitywire.co.uk/dcc-signals-conditional-backing-for-enhanced-5-7bn-takeover-bid-from-kkr-consortium/",
-      "date": "Jun 11, 26",
-      "source": "PE Wire",
-      "layer": 5,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "acquisition",
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "51bcda92c48a",
-      "title": "Jim Ward on \u201cthe end of Sparta\u2019s second act\u201d, his connection to Turnstile and bond to At The Drive-In",
-      "summary": "The rock veteran talks to NME about new album \u2018Cut A Silhouette\u2019, his eternal unity with old band, seeing himself in Turnstile, why he has \"a ton of respect\" for Kneecap, and how for Sparta \"all the o",
-      "company": "Jim Ward",
-      "link": "https://www.nme.com/news/music/sparta-interview-jim-ward-cut-a-silhouette-at-the-drive-in-turnstile-tour-3950787?utm_source=rss&utm_medium=rss&utm_campaign=sparta-interview-jim-ward-cut-a-silhouette-at-the-drive-in-turnstile-tour",
-      "date": "Jun 14, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "album_announcement",
-        "festival_headliner"
-      ]
-    },
-    {
       "id": "170883e5068b",
       "title": "A night out with Cuban jazz maestro, Arturo Sandoval",
       "summary": "Hot on the heels of his new album, \"Sang\u00fa,\" the Cuban jazz legend talks playing Coachella with Karol G, being knighted by the king of Spain and honored by former President Obama",
@@ -132,6 +68,38 @@
       ]
     },
     {
+      "id": "985fa5baa306",
+      "title": "Advent International closes in on $26bn mega buyout fund",
+      "summary": "Advent International is nearing a final close on a $26bn flagship buyout fund, positioning it among the largest private equity vehicles raised globally in recent years, according to a report by Bloomb",
+      "company": "Advent International",
+      "link": "https://www.privateequitywire.co.uk/advent-international-closes-in-on-26bn-mega-buyout-fund/",
+      "date": "Jun 15, 26",
+      "source": "PE Wire",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "cb49e9093607",
+      "title": "Kos Biotechnology Partners confirms third close of fund at $123m",
+      "summary": "Kos Biotechnology Partners, a global life sciences investment company, has made its third closing of its first life sciences fund at $123m. The fund \u2013 which initially launched in December 2025 \u2013 secur",
+      "company": "Kos Biotechnology Partners confirms third",
+      "link": "https://www.altassets.net/market-news/kos-biotechnology-partners-confirms-third-close-of-fund-at-123m.html",
+      "date": "Jun 15, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
       "id": "d468645b4458",
       "title": "Alexis Smith of The Feminine Glow Emerges at the Center of the Feminine Energy Coaching Boom",
       "summary": "DUBAI, UAE &#8211; &#160;The Feminine Glow, the fast-growing femininity and inner work platform founded by Alexis Smith, is gaining national attention as interest in coaching, self-development, and fe",
@@ -160,6 +128,21 @@
       "score": 22,
       "moments": [
         "rights_deal"
+      ]
+    },
+    {
+      "id": "50565496e431",
+      "title": "Thoreau Group nears $12bn acquisition of Ensemble Health Partners",
+      "summary": "TOP STORY: Matt Holt\u2019s private investment firm Thoreau Group is in advanced discussions to acquire US revenue cycle management company Ensemble Health Partners in a transaction valued at around $12bn,",
+      "company": "Thoreau Group",
+      "link": "https://www.privateequitywire.co.uk/thoreau-group-nears-12bn-acquisition-of-ensemble-health-partners/",
+      "date": "Jun 15, 26",
+      "source": "PE Wire",
+      "layer": 2,
+      "access": "pe",
+      "score": 18,
+      "moments": [
+        "acquisition"
       ]
     },
     {
@@ -199,7 +182,7 @@
       "company": "The Pianist Igor Levit Bets Big",
       "link": "https://www.nytimes.com/2026/06/12/arts/music/igor-levit-no-silence.html",
       "date": "Jun 12, 26",
-      "source": "NYT Arts",
+      "source": "NYT Music",
       "layer": 1,
       "access": "pe",
       "score": 15,
@@ -208,48 +191,18 @@
       ]
     },
     {
-      "id": "5035a807f0df",
-      "title": "New Chiefs Stadium Will Star Mahomes Under Reworked Contract",
-      "summary": "The star quarterback is set to play at least three years in the new venue.",
-      "company": "New Chiefs Stadium Will Star Mahomes",
-      "link": "https://frontofficesports.com/new-chiefs-stadium-will-star-mahomes-under-reworked-contract/",
-      "date": "Jun 11, 26",
-      "source": "Front Office Sports",
-      "layer": 2,
+      "id": "d18e94e46920",
+      "title": "Banca March reaches secondary fund target size at \u20ac60m",
+      "summary": "Banca March has hit the target size of its March PE Secundarios I FCR investment vehicle at \u20ac60m. According to Dem\u00f3crata, Banca March, through its venture capital manager March Private Equity has clos",
+      "company": "Banca March",
+      "link": "https://www.altassets.net/premium/banca-march-reaches-secondary-fund-target-size-at-e60m.html",
+      "date": "Jun 15, 26",
+      "source": "AltAssets",
+      "layer": 5,
       "access": "pe",
-      "score": 14,
+      "score": 15,
       "moments": [
-        "venue_announcement"
-      ]
-    },
-    {
-      "id": "df3156027a87",
-      "title": "Alice Cooper thanks man who found his lost credit card with signed copy of his latest album",
-      "summary": "It was returned to Cooper right before he set off on his European tour The post Alice Cooper thanks man who found his lost credit card with signed copy of his latest album appeared first on NME.",
-      "company": "Alice Cooper",
-      "link": "https://www.nme.com/news/music/alice-cooper-thanks-man-who-found-his-lost-credit-card-with-signed-copy-of-his-latest-album-3950861?utm_source=rss&utm_medium=rss&utm_campaign=alice-cooper-thanks-man-who-found-his-lost-credit-card-with-signed-copy-of-his-latest-album",
-      "date": "Jun 14, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "a6d3d0f0c909",
-      "title": "High revenues, long-term prospects draw PE to industrials; Thoma Bravo featured in They Said It",
-      "summary": "Astorg-backed IPCOM announcing its intention to acquire a majority stake in Le Froid Pecomark is among the several industrials deals of the week. The post High revenues, long-term prospects draw PE to",
-      "company": "High",
-      "link": "https://www.pehub.com/high-revenues-long-term-prospects-draw-pe-to-industrials-thoma-bravo-featured-in-they-said-it/",
-      "date": "Jun 12, 26",
-      "source": "PE Hub",
-      "layer": 2,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "acquisition"
+        "pe_investment"
       ]
     },
     {
@@ -268,21 +221,6 @@
       ]
     },
     {
-      "id": "0b127167fc6a",
-      "title": "The Strokes Announce Headline Concert at Queens\u2019 Flushing Meadows Corona Park",
-      "summary": "The Strokes have announced a hometown concert at Flushing Meadows Corona Park in Queens on October 2, adding a New... The post The Strokes Announce Headline Concert at Queens\u2019 Flushing Meadows Corona ",
-      "company": "The Strokes Announce Headline Concert",
-      "link": "https://www.ticketnews.com/2026/06/the-strokes-announce-headline-concert-at-queens-flushing-meadows-corona-park/",
-      "date": "Jun 12, 26",
-      "source": "Ticket News",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
       "id": "e01ff21500a8",
       "title": "Trump Administration Signs Off on Paramount-WBD Merger",
       "summary": "The DOJ blessed the highly controversial pact Friday.",
@@ -298,33 +236,63 @@
       ]
     },
     {
-      "id": "9fd7c921861e",
-      "title": "China\u2019s chip giants launch $577m deep-tech fund",
-      "summary": "ChangXin Memory Technologies and Alibaba Group Holding have joined a coalition of domestic technology firms to launch a 3.91bn yuan ($577m) private equity fund focused on targeting China&#8217;s hard ",
-      "company": "China\u2019s",
-      "link": "https://www.altassets.net/premium/chinas-chip-giants-launch-577m-deep-tech-fund.html",
-      "date": "Jun 10, 26",
-      "source": "AltAssets",
-      "layer": 5,
+      "id": "02bf5c3603a1",
+      "title": "Bruce Springsteen Apologizes for Refusing to Allow His Song in Bono\u2019s Gap Commercial, Tells U2 Frontman: \u2018I Should Have F\u2014ing Done It!\u2019",
+      "summary": "Bono gave Bruce Springsteen a hard time for refusing to license his song &#8220;Girls in Their Summer Clothes&#8221; for a commercial for the clothing brand Gap in partnership with Bono&#8217;s AIDS f",
+      "company": "Bruce Springsteen Apologizes",
+      "link": "https://variety.com/2026/music/news/bruce-springsteen-apologizes-to-bono-refusing-commercial-1236780748/",
+      "date": "Jun 13, 26",
+      "source": "Variety Music",
+      "layer": 1,
       "access": "pe",
       "score": 12,
       "moments": [
-        "pe_investment"
+        "company_launch"
       ]
     },
     {
-      "id": "b83f380fe966",
-      "title": "Eslabon Armado Announces 2026 \u2018Amor Nocturno Tour\u2019 Across North America and Mexico",
-      "summary": "Eslabon Armado has announced its 2026 &#8220;Amor Nocturno Tour,&#8221; a North American headlining run that will begin July 24 in... The post Eslabon Armado Announces 2026 \u2018Amor Nocturno Tour\u2019 Across",
-      "company": "Eslabon Armado Announces",
-      "link": "https://www.ticketnews.com/2026/06/eslabon-armado-announces-2026-amor-nocturno-tour-across-north-america-and-mexico/",
-      "date": "Jun 12, 26",
-      "source": "Ticket News",
-      "layer": 5,
+      "id": "a487827b1847",
+      "title": "Jakob Nowell used to call Sublime 'his dad's band.' But new album proves 'Now it's our band. It's us'",
+      "summary": "With the release of \"Until the Sun Explodes\" their first album as Sublime in 30 years, the band members talk about recapturing the effortless essence of their timeless sound and looking forward to fut",
+      "company": "Jakob Nowell",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-06-11/sublime-until-the-sun-explodes-new-album-interview-bud-gaugh-eric-wilson",
+      "date": "Jun 11, 26",
+      "source": "LA Times Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "a4e972cd4d24",
+      "title": "Download festival review \u2013 Guns N\u2019 Roses flop and Letlive thrive as metal\u2019s biggest fest enters the future",
+      "summary": "Donington Park, LeicestershireOften criticised for booking the same old legends, the festival hosts a broad span of music\u2019s heaviest genre, plus hip-hop, Indian folk \u2013 and, finally, its first female h",
+      "company": "Download",
+      "link": "https://www.theguardian.com/music/2026/jun/15/download-festival-review-guns-n-roses-flop-and-letlive-thrive-as-metals-biggest-fest-enters-the-future",
+      "date": "Jun 15, 26",
+      "source": "Guardian Music",
+      "layer": 1,
       "access": "pe",
       "score": 12,
       "moments": [
         "festival_headliner"
+      ]
+    },
+    {
+      "id": "0eb7413cb51d",
+      "title": "Spotify accused of using new streaming policy to reduce indie artist's royalties",
+      "summary": "Mark Kratter, a Connecticut-based musician, is suing Spotify for engaging in what he alleges are \"unfair business practices.\" The complaint claims that streaming metrics have been altered to prioritiz",
+      "company": "Spotify",
+      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-06-09/spotify-accused-of-reducing-indie-artists-compensation-in-new-lawsuit",
+      "date": "Jun 09, 26",
+      "source": "LA Times Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "streaming_milestone"
       ]
     },
     {
@@ -343,27 +311,12 @@
       ]
     },
     {
-      "id": "6f357109d405",
-      "title": "Color TV, Morning News and Late-Night: NBC Has a History of Firsts in Broadcasting",
-      "summary": "The first-to-market advantage is built right into the name: the National Broadcasting Company. NBC was created a century ago amid the maelstrom of a mid-1920s gold rush that emerged around the cutting",
-      "company": "Color TV Morning News",
-      "link": "https://variety.com/2026/tv/news/nbc-firsts-broadcasting-color-late-night-garroway-nbc100-1236770818/",
-      "date": "Jun 10, 26",
-      "source": "Variety Biz",
-      "layer": 3,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "3e3c1370f9b8",
-      "title": "Here\u2019s what Guns N\u2019 Roses played as they headlined Download 2026",
-      "summary": "Their three hour set saw them play covers of Wings, Bob Dylan, Sex Pistols and more The post Here&#8217;s what Guns N&#8217; Roses played as they headlined Download 2026 appeared first on NME.",
+      "id": "83588fe09dab",
+      "title": "Here\u2019s what Linkin Park played when they made history headlining Download 2026",
+      "summary": "The band last performed at Donington Park in 2014, when they were fronted by the late Chester Bennington The post Here&#8217;s what Linkin Park played when they made history headlining Download 2026 a",
       "company": "Here\u2019s",
-      "link": "https://www.nme.com/news/music/heres-what-guns-n-roses-played-as-they-headlined-download-2026-3950796?utm_source=rss&utm_medium=rss&utm_campaign=heres-what-guns-n-roses-played-as-they-headlined-download-2026",
-      "date": "Jun 14, 26",
+      "link": "https://www.nme.com/news/music/heres-what-linkin-park-played-when-they-made-history-headlining-download-2026-3950992?utm_source=rss&utm_medium=rss&utm_campaign=heres-what-linkin-park-played-when-they-made-history-headlining-download-2026",
+      "date": "Jun 15, 26",
       "source": "NME",
       "layer": 5,
       "access": "pe",
@@ -373,14 +326,44 @@
       ]
     },
     {
-      "id": "80c2d6416406",
-      "title": "KKA, Winterberg-backed Healthcare Holding Schweiz acquires Compet Medical",
-      "summary": "Compet Medical supplies harm reduction and prevention products to professional organizations, public institutions and counseling centers. The post KKA, Winterberg-backed Healthcare Holding Schweiz acq",
-      "company": "",
-      "link": "https://www.pehub.com/kka-winterberg-backed-healthcare-holding-schweiz-acquires-compet-medical/",
-      "date": "Jun 12, 26",
+      "id": "c7c2b1b139b8",
+      "title": "Advent-backed Nuvei acquires Payoneer in $2.75bn take-private deal",
+      "summary": "Headquartered in New York, Payoneer is a financial services and global payments business. The post Advent-backed Nuvei acquires Payoneer in $2.75bn take-private deal appeared first on PE Hub.",
+      "company": "Advent-backed Nuvei",
+      "link": "https://www.pehub.com/advent-backed-nuvei-acquires-payoneer-in-2-75-bn-take-private-deal/",
+      "date": "Jun 15, 26",
       "source": "PE Hub",
       "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "45966175bfde",
+      "title": "Sector Spotlight: Healthcare investors seek winners amid tech transformation and reimbursement shake-up",
+      "summary": "PE Hub spoke with senior private equity dealmakers from Arlington Capital Partners, Bain Capital, EQT, HIG Capital, M\u00e9rieux Equity Partners, One Equity Partners, Permira, the Vistria Group and WindRos",
+      "company": "Sector Spotlight",
+      "link": "https://www.pehub.com/sector-spotlight-healthcare-investors-seek-winners-amid-tech-transformation-and-reimbursement-shake-up/",
+      "date": "Jun 15, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "ba8421f98872",
+      "title": "Warburg Pincus agrees $1.2bn takeover of Japan student housing group JSB",
+      "summary": "Warburg Pincus has announced plans to acquire Japanese student accommodation provider JSB in a deal valued at around $1.2bn, marking a significant step in the firm\u2019s expansion in Japan\u2019s real estate s",
+      "company": "Warburg Pincus",
+      "link": "https://www.privateequitywire.co.uk/warburg-pincus-agrees-1-2bn-takeover-of-japan-student-housing-group-jsb/",
+      "date": "Jun 15, 26",
+      "source": "PE Wire",
+      "layer": 2,
       "access": "pe",
       "score": 9,
       "moments": [
@@ -400,21 +383,6 @@
       "score": 9,
       "moments": [
         "festival_headliner"
-      ]
-    },
-    {
-      "id": "20017cedc52b",
-      "title": "CAA, TPG Form $250 Million Holding Company to Acquire Businesses Led by YouTubers and Other Creators",
-      "summary": "CAA is back in business with its former majority owner, private-equity giant TPG &#8212; with the two companies teaming up on plans to buy creator-led companies. CAA and TPG&#8217;s Integrated Media C",
-      "company": "CAA TPG Form",
-      "link": "https://variety.com/2026/digital/news/caa-tpg-250-million-compound-creative-holding-company-acquire-creator-businesses-1236771598/",
-      "date": "Jun 10, 26",
-      "source": "Variety Biz",
-      "layer": 4,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "acquisition"
       ]
     },
     {
@@ -448,19 +416,6 @@
       ]
     },
     {
-      "id": "29fa95bdab9e",
-      "title": "NFLPA Calls Out Owners As Stadiums Swap Turf for World Cup Grass",
-      "summary": "Eleven NFL venues will host matches during the World Cup.",
-      "company": "NFLPA Calls Out Owners As Stadiums",
-      "link": "https://frontofficesports.com/nflpa-calls-out-owners-as-stadiums-swap-turf-for-world-cup-grass/",
-      "date": "Jun 11, 26",
-      "source": "Front Office Sports",
-      "layer": 2,
-      "access": "pe",
-      "score": 12,
-      "moments": []
-    },
-    {
       "id": "604ffa454c63",
       "title": "Maximize Every Square Foot: Using Digital Authority to Win High-Value Venue Bookings",
       "summary": "Source: ChatGPT Event organizers often struggle to secure premium venue bookings even when their content or services are strong. Limited visibility, unclear reputation, and weak online authority can r",
@@ -474,42 +429,68 @@
       "moments": []
     },
     {
-      "id": "6fee239d5e56",
-      "title": "Wimbledon Increases Purse by 20%, Remains Short of Player Demands",
-      "summary": "Players are seeking 22% of revenue at Grand Slams by 2030.",
-      "company": "Wimbledon Increases Purse",
-      "link": "https://frontofficesports.com/wimbeldon-tennis-prize-money/",
-      "date": "Jun 11, 26",
-      "source": "Front Office Sports",
+      "id": "eb5199df47c0",
+      "title": "What Happens When \u2018Star Wars\u2019 Replaces Mozart?",
+      "summary": "Across the United States, orchestras are programming more live performances of movie soundtracks in a bid for box office revenue.",
+      "company": "What Happens When \u2018Star Wars\u2019 Replaces",
+      "link": "https://www.nytimes.com/2026/06/09/arts/music/movie-soundtracks-symphony-orchestra.html",
+      "date": "Jun 09, 26",
+      "source": "NYT Music",
       "layer": 2,
       "access": "pe",
       "score": 8,
       "moments": []
     },
     {
-      "id": "376dd64cf62b",
-      "title": "DR Congo bring style and pride to the World Cup after wholesome welcome",
-      "summary": "Brutally tough return to tournament awaits, but the stature of opposition feels less important than the fact of being here at allIt was an arrival worth more than half a century of waiting. The Democr",
-      "company": "DR Congo",
-      "link": "https://www.theguardian.com/football/2026/jun/14/dr-congo-world-cup-houston",
-      "date": "Jun 14, 26",
-      "source": "Guardian Sport",
-      "layer": 4,
+      "id": "a3590bdb6bf1",
+      "title": "Gracie Abrams sets four-night Kia Forum homecoming for Look at My Life tour",
+      "summary": "Gracie Abrams is hitting arenas worldwide with her 64-date Look at My Life tour, including four homecoming nights in December at Inglewood's Kia Forum.",
+      "company": "Gracie Abrams",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-05-28/gracie-abrams-tour-look-at-my-life-l-a-concerts-kia-forum",
+      "date": "May 28, 26",
+      "source": "LA Times Music",
+      "layer": 2,
+      "access": "pe",
+      "score": 8,
+      "moments": []
+    },
+    {
+      "id": "5afbd0b43145",
+      "title": "Live Nation, Academy Music Group Commit $12.7 Million to Brighton Hippodrome Revival",
+      "summary": "Live Nation Entertainment and Academy Music Group (AMG) have announced a $12.7 million (\u00a39.5 million) investment in the restoration of... The post Live Nation, Academy Music Group Commit $12.7 Million",
+      "company": "Live Nation Academy Music Group Commit",
+      "link": "https://www.ticketnews.com/2026/06/live-nation-academy-music-group-commit-12-7-million-to-brighton-hippodrome-revival/",
+      "date": "Jun 15, 26",
+      "source": "Ticket News",
+      "layer": 3,
       "access": "pe",
       "score": 7,
       "moments": []
     },
     {
-      "id": "bea09be2cdb6",
-      "title": "StubHub, SeatGeek Push Back After Ontario Names Them in Ticket Resale Crackdown",
-      "summary": "The two major resale marketplaces were added to Ontario\u2019s Consumer Beware List this week after the province alleged violations of... The post StubHub, SeatGeek Push Back After Ontario Names Them in Ti",
-      "company": "StubHub SeatGeek Push Back After Ontario",
-      "link": "https://www.ticketnews.com/2026/06/stubhub-seatgeek-push-back-after-ontario-names-them-in-ticket-resale-crackdown/",
-      "date": "Jun 12, 26",
-      "source": "Ticket News",
+      "id": "ca4462c81ca2",
+      "title": "Big 12 Sues Texas Tech, Ken Paxton as Sorsby Legal Battle Expands",
+      "summary": "The Big 12 on Sunday sued Texas Attorney General Ken Paxton, Texas Tech University and several Texas Tech officials, arguing that Paxton and Texas Tech\u2019s threats to sue the conference if it punishes t",
+      "company": "Big",
+      "link": "https://www.sportico.com/law/analysis/2026/big-12-sues-texas-tech-ken-paxton-brendan-sorsby-1234909739/",
+      "date": "Jun 15, 26",
+      "source": "Sportico",
       "layer": 3,
       "access": "pe",
-      "score": 6,
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "d80d14efde9b",
+      "title": "\u2018KPop Demon Hunters\u2019: Lego Releases New Sets Inspired by Derpy and Sussie Bird",
+      "summary": "&#8220;KPop Demon Hunters&#8221; fans rejoice. Ahead of the film&#8217;s one-year anniversary, Lego will release a 825-piece set inspired by Derpy and Sussie Bird. The set will be available for pre-sa",
+      "company": "\u2018KPop Demon Hunters\u2019: Lego Releases New",
+      "link": "https://variety.com/2026/film/news/kpop-demon-hunters-lego-derpy-sussie-bird-1236780295/",
+      "date": "Jun 15, 26",
+      "source": "Variety Music",
+      "layer": 3,
+      "access": "pe",
+      "score": 5,
       "moments": []
     },
     {
@@ -539,16 +520,29 @@
       "moments": []
     },
     {
-      "id": "9428fe4fcc0d",
-      "title": "ABC's FCC fight could redefine press freedom",
-      "summary": "The outcome of ABC's legal battle with the Federal Communications Commission could set a landmark precedent around press freedom and the role businesses play in supporting American democracy. Why it m",
-      "company": "ABC's FCC",
-      "link": "https://www.axios.com/2026/06/13/press-freedom-battles-fcc-abc",
-      "date": "Jun 13, 26",
-      "source": "Axios",
-      "layer": 3,
+      "id": "44692ed4df4f",
+      "title": "University of Utah inks first-of-its-kind athletics PE partnership",
+      "summary": "The University of Utah has completed what is being described as the first PE-backed partnership in US collegiate athletics, entering into an agreement with New York-based Otro Capital to help finance ",
+      "company": "University",
+      "link": "https://www.privateequitywire.co.uk/university-of-utah-inks-first-of-its-kind-athletics-pe-partnership/",
+      "date": "Jun 15, 26",
+      "source": "PE Wire",
+      "layer": 4,
       "access": "pe",
       "score": 5,
+      "moments": []
+    },
+    {
+      "id": "239f764a4cf0",
+      "title": "Otro Capital invests in University of Utah\u2019s Crimson Brand Partners",
+      "summary": "Crimson Brand Partners will manage commercial operations across Utah Athletics and the broader university. The post Otro Capital invests in University of Utah&#8217;s Crimson Brand Partners appeared f",
+      "company": "Otro Capital",
+      "link": "https://www.pehub.com/otro-capital-invests-in-university-of-utahs-crimson-brand-partners/",
+      "date": "Jun 15, 26",
+      "source": "PE Hub",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
       "moments": []
     },
     {
@@ -559,19 +553,6 @@
       "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/",
       "date": "May 09, 26",
       "source": "Venues Today",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "371697479d4b",
-      "title": "Jinkx Monsoon Returns to \u2018Oh, Mary!\u2019 for West End Engagement",
-      "summary": "Jinkx Monsoon is set to return to the role of Mary Todd Lincoln in the West End production of &#8220;Oh,... The post Jinkx Monsoon Returns to \u2018Oh, Mary!\u2019 for West End Engagement appeared first on Tick",
-      "company": "Jinkx Monsoon Returns",
-      "link": "https://www.ticketnews.com/2026/06/jinkx-monsoon-returns-to-oh-mary-for-west-end-engagement/",
-      "date": "Jun 12, 26",
-      "source": "Ticket News",
       "layer": 4,
       "access": "pe",
       "score": 4,
