@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-15T17:20:36.005031+00:00",
+  "generated": "2026-06-16T17:04:11.900946+00:00",
   "total": 38,
   "scraped": [
     {
@@ -20,19 +20,35 @@
       ]
     },
     {
-      "id": "cabe9333907f",
-      "title": "Deal Roundup: GPS Renewables raises Series C investment, Med-Metrix enters deal to acquire CanAide",
-      "summary": "GPS Renewables (GPSR), a leading full-stack renewable oil and gas company, has raised \u20b9635 crore in Series C Funding. The Series C round comprises \u20b9125 crore in equity funding led by PixelSky Capital,",
-      "company": "Deal Roundup",
-      "link": "https://www.altassets.net/private-equity-news/by-news-type/deal-news/deal-roundup-gps-renewables-raises-series-c-investment-med-metrix-enters-deal-to-acquire-canaide.html",
-      "date": "Jun 11, 26",
+      "id": "1476eaa97ac3",
+      "title": "Stone Point Capital secures $610.5m in Insurance Solutions Fund first close",
+      "summary": "Private equity and credit investment firm Stone Point Capital has raised $610.5m in the first close of its Stone Point Insurance Solutions Fund strategy. According to Artemis, whilst details are still",
+      "company": "Stone Point Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-news-type/fund-news/stone-point-capital-secures-610-5m-in-insurance-solutions-fund-first-close.html",
+      "date": "Jun 16, 26",
       "source": "AltAssets",
+      "layer": 1,
+      "access": "pe",
+      "score": 21,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "13f0b3503346",
+      "title": "Apax preps Oncourse for sale, sources say; Lead Edge Capital acquires Elektrik; A look at PE\u2019s bet on data center build-out",
+      "summary": "Apax Partners\u2019 portfolio company that provides residential home warranty and repair claims services is expected to come up for sale this year; insights from Aaron Darr, a principal at Lead Edge Capita",
+      "company": "Apax",
+      "link": "https://www.pehub.com/apax-preps-oncourse-for-sale-sources-say-lead-edge-capital-acquires-elektrik-a-look-at-pes-bet-on-data-center-build-out/",
+      "date": "Jun 16, 26",
+      "source": "PE Hub",
       "layer": 5,
       "access": "pe",
-      "score": 25,
+      "score": 16,
       "moments": [
         "acquisition",
-        "funding_round"
+        "pe_investment"
       ]
     },
     {
@@ -52,38 +68,6 @@
       ]
     },
     {
-      "id": "d20b3122f200",
-      "title": "Ares wraps up Pathfinder funds and raises $12.7bn",
-      "summary": "Ares Management Corporation has confirmed the final close of its Ares Pathfinder Fund III, L.P and its offshore Ares Pathfinder Fund III at a total of $12.7bn. According to Ares, the Fund was oversubs",
-      "company": "Ares wraps up Pathfinder funds and",
-      "link": "https://www.altassets.net/premium/ares-wraps-up-pathfinder-funds-and-raises-12-7bn.html",
-      "date": "Jun 11, 26",
-      "source": "AltAssets",
-      "layer": 1,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "funding_round",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "985fa5baa306",
-      "title": "Advent International closes in on $26bn mega buyout fund",
-      "summary": "Advent International is nearing a final close on a $26bn flagship buyout fund, positioning it among the largest private equity vehicles raised globally in recent years, according to a report by Bloomb",
-      "company": "Advent International",
-      "link": "https://www.privateequitywire.co.uk/advent-international-closes-in-on-26bn-mega-buyout-fund/",
-      "date": "Jun 15, 26",
-      "source": "PE Wire",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
       "id": "cb49e9093607",
       "title": "Kos Biotechnology Partners confirms third close of fund at $123m",
       "summary": "Kos Biotechnology Partners, a global life sciences investment company, has made its third closing of its first life sciences fund at $123m. The fund \u2013 which initially launched in December 2025 \u2013 secur",
@@ -100,19 +84,18 @@
       ]
     },
     {
-      "id": "d468645b4458",
-      "title": "Alexis Smith of The Feminine Glow Emerges at the Center of the Feminine Energy Coaching Boom",
-      "summary": "DUBAI, UAE &#8211; &#160;The Feminine Glow, the fast-growing femininity and inner work platform founded by Alexis Smith, is gaining national attention as interest in coaching, self-development, and fe",
-      "company": "Alexis Smith",
-      "link": "https://venuestoday.com/alexis-smith-of-the-feminine-glow-emerges-at-the-center-of-the-feminine-energy-coaching-boom/",
-      "date": "Mar 29, 26",
-      "source": "Venues Today",
-      "layer": 2,
+      "id": "0eb8db5a9ec9",
+      "title": "\u2018Reeks of Corruption\u2019: Top DOJ Officials Reportedly Cleared Paramount-Warner Bros. Merger Before Staff Lawyers, Who Were \u2018Leaning\u2019 Toward Antitrust...",
+      "summary": "Senior officials at the Justice Department moved to close out the antitrust investigation into Paramount&#8217;s $111 billion takeover of Warner Bros. Discovery before the team of lawyers investigatin",
+      "company": "\u2018Reeks",
+      "link": "https://variety.com/2026/film/news/trump-doj-officials-cleared-paramount-warner-bros-merger-lawyers-object-1236782486/",
+      "date": "Jun 16, 26",
+      "source": "Variety Biz",
+      "layer": 3,
       "access": "pe",
-      "score": 13,
+      "score": 22,
       "moments": [
-        "acquisition",
-        "company_launch"
+        "acquisition"
       ]
     },
     {
@@ -131,14 +114,29 @@
       ]
     },
     {
-      "id": "50565496e431",
-      "title": "Thoreau Group nears $12bn acquisition of Ensemble Health Partners",
-      "summary": "TOP STORY: Matt Holt\u2019s private investment firm Thoreau Group is in advanced discussions to acquire US revenue cycle management company Ensemble Health Partners in a transaction valued at around $12bn,",
-      "company": "Thoreau Group",
-      "link": "https://www.privateequitywire.co.uk/thoreau-group-nears-12bn-acquisition-of-ensemble-health-partners/",
-      "date": "Jun 15, 26",
-      "source": "PE Wire",
-      "layer": 2,
+      "id": "fed1b297f34e",
+      "title": "Deal Roundup: Chronograph secures Sixth Street Growth investment, Prime Radiant backs Cellares",
+      "summary": "Chronograph, the leading global provider of portfolio monitoring, valuations, and analytics technology for institutional private capital limited partners and general partners, today announced a strate",
+      "company": "Deal Roundup",
+      "link": "https://www.altassets.net/premium/deal-roundup-chronograph-secures-sixth-street-growth-investment-prime-radiant-backs-cellares.html",
+      "date": "Jun 16, 26",
+      "source": "AltAssets",
+      "layer": 1,
+      "access": "pe",
+      "score": 18,
+      "moments": [
+        "lp_commitment"
+      ]
+    },
+    {
+      "id": "038a4c299b39",
+      "title": "Live Nation Takes Controlling Interest in Movistar Arena Buenos Aires",
+      "summary": "Live Nation Entertainment has acquired a majority stake in Movistar Arena Buenos Aires, the companies announced, giving the global concert... The post Live Nation Takes Controlling Interest in Movista",
+      "company": "Live Nation Takes Controlling Interest",
+      "link": "https://www.ticketnews.com/2026/06/live-nation-takes-controlling-interest-in-movistar-arena-buenos-aires/",
+      "date": "Jun 16, 26",
+      "source": "Ticket News",
+      "layer": 1,
       "access": "pe",
       "score": 18,
       "moments": [
@@ -158,21 +156,6 @@
       "score": 17,
       "moments": [
         "acquisition"
-      ]
-    },
-    {
-      "id": "6c250e94b064",
-      "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
-      "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
-      "company": "Kiro Eid Built",
-      "link": "https://venuestoday.com/kiro-eid-built-8x6-design-studio-here-is-how-he-did-it-without-a-network-or-shortcuts/",
-      "date": "Mar 28, 26",
-      "source": "Venues Today",
-      "layer": 2,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "company_launch"
       ]
     },
     {
@@ -206,18 +189,18 @@
       ]
     },
     {
-      "id": "f42aa5b64835",
-      "title": "Warner Music acquires AI attribution startup Sureel AI",
-      "summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
-      "company": "Warner Music",
-      "link": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
-      "date": "Jun 10, 26",
-      "source": "TechCrunch Startups",
+      "id": "96bdf43e34e5",
+      "title": "Smashing Pumpkins, Chris Stapleton to Headline Bipartisan America250 Concert",
+      "summary": "Following the backlash with the President Trump-backed Great American State Fair \u2014 where nearly all the acts dropped-off the lineup... The post Smashing Pumpkins, Chris Stapleton to Headline Bipartisa",
+      "company": "Smashing Pumpkins Chris Stapleton",
+      "link": "https://www.ticketnews.com/2026/06/smashing-pumpkins-chris-stapleton-headline-america250/",
+      "date": "Jun 16, 26",
+      "source": "Ticket News",
       "layer": 1,
       "access": "pe",
       "score": 14,
       "moments": [
-        "acquisition"
+        "festival_headliner"
       ]
     },
     {
@@ -236,18 +219,18 @@
       ]
     },
     {
-      "id": "02bf5c3603a1",
-      "title": "Bruce Springsteen Apologizes for Refusing to Allow His Song in Bono\u2019s Gap Commercial, Tells U2 Frontman: \u2018I Should Have F\u2014ing Done It!\u2019",
-      "summary": "Bono gave Bruce Springsteen a hard time for refusing to license his song &#8220;Girls in Their Summer Clothes&#8221; for a commercial for the clothing brand Gap in partnership with Bono&#8217;s AIDS f",
-      "company": "Bruce Springsteen Apologizes",
-      "link": "https://variety.com/2026/music/news/bruce-springsteen-apologizes-to-bono-refusing-commercial-1236780748/",
-      "date": "Jun 13, 26",
+      "id": "7eb3abb6f468",
+      "title": "Music Industry Moves: The Linda Lindas Sign With Reprise-Warner; Motown Announces HBCU Internship Program; Republic and Ziza Launch Label",
+      "summary": "Los Angeles quartet the Linda Lindas, who first captured national attention as teenagers (or pre-teenagers) in 2018, have signed with Reprise-Warner Records and celebrated by releasing the new single ",
+      "company": "Music Industry Moves",
+      "link": "https://variety.com/2026/music/news/linda-lindas-sign-with-reprise-warner-records-1236782104/",
+      "date": "Jun 15, 26",
       "source": "Variety Music",
       "layer": 1,
       "access": "pe",
       "score": 12,
       "moments": [
-        "company_launch"
+        "record_deal"
       ]
     },
     {
@@ -266,44 +249,29 @@
       ]
     },
     {
-      "id": "a4e972cd4d24",
-      "title": "Download festival review \u2013 Guns N\u2019 Roses flop and Letlive thrive as metal\u2019s biggest fest enters the future",
-      "summary": "Donington Park, LeicestershireOften criticised for booking the same old legends, the festival hosts a broad span of music\u2019s heaviest genre, plus hip-hop, Indian folk \u2013 and, finally, its first female h",
-      "company": "Download",
-      "link": "https://www.theguardian.com/music/2026/jun/15/download-festival-review-guns-n-roses-flop-and-letlive-thrive-as-metals-biggest-fest-enters-the-future",
-      "date": "Jun 15, 26",
-      "source": "Guardian Music",
-      "layer": 1,
+      "id": "5742a723e2c4",
+      "title": "LGP acquires advisor Cumming Group from New Mountain",
+      "summary": "Cumming serves over 4,000 clients, including 41 Fortune 100 companies. The post LGP acquires advisor Cumming Group from New Mountain appeared first on PE Hub.",
+      "company": "LGP",
+      "link": "https://www.pehub.com/lgp-acquires-advisor-cumming-group-from-new-mountain/",
+      "date": "Jun 16, 26",
+      "source": "PE Hub",
+      "layer": 5,
       "access": "pe",
       "score": 12,
       "moments": [
-        "festival_headliner"
+        "acquisition"
       ]
     },
     {
-      "id": "0eb7413cb51d",
-      "title": "Spotify accused of using new streaming policy to reduce indie artist's royalties",
-      "summary": "Mark Kratter, a Connecticut-based musician, is suing Spotify for engaging in what he alleges are \"unfair business practices.\" The complaint claims that streaming metrics have been altered to prioritiz",
-      "company": "Spotify",
-      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-06-09/spotify-accused-of-reducing-indie-artists-compensation-in-new-lawsuit",
-      "date": "Jun 09, 26",
-      "source": "LA Times Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "streaming_milestone"
-      ]
-    },
-    {
-      "id": "ed24e331be68",
-      "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
-      "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
-      "company": "Niloufar Banisaied",
-      "link": "https://venuestoday.com/niloufar-banisaied-is-bringing-timeless-design-and-the-guest-experience-at-the-forefront/",
-      "date": "Jun 09, 26",
-      "source": "Venues Today",
-      "layer": 4,
+      "id": "f5eca094ae35",
+      "title": "Baby\u2019s All Right Co-Founder Billy Jones to Be Honored With Memorial Foundation Benefitting Young Music Professionals",
+      "summary": "The late Billy Jones, co-founder of the long-running Brooklyn venue Baby\u2019s All Right, was one of the most familiar faces on New York City\u2019s music scene, having worked as a musician, promoter, club own",
+      "company": "Baby\u2019s All Right Co-Founder Billy Jones",
+      "link": "https://variety.com/2026/music/news/babys-all-right-billy-jones-memorial-foundation-1236782041/",
+      "date": "Jun 16, 26",
+      "source": "Variety Music",
+      "layer": 2,
       "access": "pe",
       "score": 11,
       "moments": [
@@ -311,12 +279,27 @@
       ]
     },
     {
-      "id": "83588fe09dab",
-      "title": "Here\u2019s what Linkin Park played when they made history headlining Download 2026",
-      "summary": "The band last performed at Donington Park in 2014, when they were fronted by the late Chester Bennington The post Here&#8217;s what Linkin Park played when they made history headlining Download 2026 a",
-      "company": "Here\u2019s",
-      "link": "https://www.nme.com/news/music/heres-what-linkin-park-played-when-they-made-history-headlining-download-2026-3950992?utm_source=rss&utm_medium=rss&utm_campaign=heres-what-linkin-park-played-when-they-made-history-headlining-download-2026",
-      "date": "Jun 15, 26",
+      "id": "eec09e4aabec",
+      "title": "A Baroque Opera Written By a Female Composer Feels Ripped From the Headlines",
+      "summary": "The Paris Opera production of \u201cErcole Amante\u201d (\u201cHercules in Love\u201d), a rediscovered 1707 work by the female composer Antonia Bembo, leans into contemporary themes of coercion and consent.",
+      "company": "Baroque Opera Written By",
+      "link": "https://www.nytimes.com/2026/06/16/arts/music/ercole-amante-antonia-bembo-paris-opera.html",
+      "date": "Jun 16, 26",
+      "source": "NYT Arts",
+      "layer": 4,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "af1f68ce8c9c",
+      "title": "Ice Nine Kills announce biggest ever headline show at The O2 in London",
+      "summary": "\u201cCan\u2019t wait to soak the prestigious O2 in stage blood and scream along with our British Psychos\u201d The post Ice Nine Kills announce biggest ever headline show at The O2 in London appeared first on NME.",
+      "company": "Ice Nine Kills",
+      "link": "https://www.nme.com/news/music/ice-nine-kills-announce-biggest-ever-headline-show-at-the-o2-in-london-3951248?utm_source=rss&utm_medium=rss&utm_campaign=ice-nine-kills-announce-biggest-ever-headline-show-at-the-o2-in-london",
+      "date": "Jun 16, 26",
       "source": "NME",
       "layer": 5,
       "access": "pe",
@@ -326,12 +309,12 @@
       ]
     },
     {
-      "id": "c7c2b1b139b8",
-      "title": "Advent-backed Nuvei acquires Payoneer in $2.75bn take-private deal",
-      "summary": "Headquartered in New York, Payoneer is a financial services and global payments business. The post Advent-backed Nuvei acquires Payoneer in $2.75bn take-private deal appeared first on PE Hub.",
-      "company": "Advent-backed Nuvei",
-      "link": "https://www.pehub.com/advent-backed-nuvei-acquires-payoneer-in-2-75-bn-take-private-deal/",
-      "date": "Jun 15, 26",
+      "id": "78c499e10947",
+      "title": "DelCam-backed Space Age Electronics acquires manufacturer SprinkGuard",
+      "summary": "Headquartered in Sterling, Massachusetts, Space Age Electronics is a manufacturer of fire and life safety equipment. The post DelCam-backed Space Age Electronics acquires manufacturer SprinkGuard appe",
+      "company": "DelCam-backed Space Age Electronics",
+      "link": "https://www.pehub.com/delcam-backed-space-age-electronics-acquires-manufacturer-sprinkguard/",
+      "date": "Jun 16, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
@@ -341,48 +324,63 @@
       ]
     },
     {
-      "id": "45966175bfde",
-      "title": "Sector Spotlight: Healthcare investors seek winners amid tech transformation and reimbursement shake-up",
-      "summary": "PE Hub spoke with senior private equity dealmakers from Arlington Capital Partners, Bain Capital, EQT, HIG Capital, M\u00e9rieux Equity Partners, One Equity Partners, Permira, the Vistria Group and WindRos",
-      "company": "Sector Spotlight",
-      "link": "https://www.pehub.com/sector-spotlight-healthcare-investors-seek-winners-amid-tech-transformation-and-reimbursement-shake-up/",
-      "date": "Jun 15, 26",
+      "id": "7744a6410dc9",
+      "title": "HIG Capital exits investment in retail commerce agency Bluebird",
+      "summary": "The sale is in conjunction with a recapitalization of the company by Bluebird's founders and Bertram Capital. The post HIG Capital exits investment in retail commerce agency Bluebird appeared first on",
+      "company": "HIG Capital",
+      "link": "https://www.pehub.com/hig-capital-exits-investment-in-retail-commerce-agency-bluebird/",
+      "date": "Jun 16, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
       "score": 9,
       "moments": [
-        "pe_investment"
+        "company_launch"
       ]
     },
     {
-      "id": "ba8421f98872",
-      "title": "Warburg Pincus agrees $1.2bn takeover of Japan student housing group JSB",
-      "summary": "Warburg Pincus has announced plans to acquire Japanese student accommodation provider JSB in a deal valued at around $1.2bn, marking a significant step in the firm\u2019s expansion in Japan\u2019s real estate s",
-      "company": "Warburg Pincus",
-      "link": "https://www.privateequitywire.co.uk/warburg-pincus-agrees-1-2bn-takeover-of-japan-student-housing-group-jsb/",
+      "id": "22b5a06bf640",
+      "title": "NCAA Looks to Halt Sorsby Injunction in Emergency Motion",
+      "summary": "In an emergency motion, the NCAA on Monday petitioned the Court of Appeals for the 7th District of Texas to stay a trial judge\u2019s ruling&#160;that allows Texas Tech quarterback Brendan Sorsby to play i",
+      "company": "NCAA Looks",
+      "link": "https://www.sportico.com/law/analysis/2026/ncaa-seeks-stay-expedited-appeal-sorsby-injunction-1234909774/",
       "date": "Jun 15, 26",
-      "source": "PE Wire",
-      "layer": 2,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "b2b6dea20713",
-      "title": "YOG days are over?",
-      "summary": "This week on The SportBusiness Podcast, co-hosts Jonathan Rest and Martin Ross are back to delve into the headline stories of the week and take a look at a big-ticket football sponsorship.",
-      "company": "YOG",
-      "link": "https://www.sportbusiness.com/2026/05/yog-days-are-over/?utm_source=rss&utm_medium=rss&utm_campaign=yog-days-are-over",
-      "date": "May 15, 26",
-      "source": "Sport Business",
+      "source": "Sportico",
       "layer": 4,
       "access": "pe",
-      "score": 9,
+      "score": 6,
       "moments": [
-        "festival_headliner"
+        "acquisition"
+      ]
+    },
+    {
+      "id": "06d4601757c1",
+      "title": "Disney\u2019s Imagineering Arm Using Adobe\u2019s Firefly AI Models for Park Designs",
+      "summary": "Months after its OpenAI deal fell through, Disney has found a new way to make use of AI. The company\u2019s Imagineering Research &#38; Development unit is using Adobe\u2019s Firefly Foundry, the commercial ver",
+      "company": "",
+      "link": "https://variety.com/2026/digital/news/disney-imagineering-parks-adobe-firefly-ai-models-1236782627/",
+      "date": "Jun 16, 26",
+      "source": "Variety Biz",
+      "layer": 2,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "63305d18bd4f",
+      "title": "This startup\u2019s super metals could soon be in military drones, luxury watches, and chef\u2019s knives",
+      "summary": "Instead of heating metals, Foundation Alloy beats them into submission. The startup has raised $22 million to scale up production of its alloys.",
+      "company": "This",
+      "link": "https://techcrunch.com/2026/06/16/this-startups-super-metals-could-soon-be-in-military-drones-luxury-watches-and-chefs-knives/",
+      "date": "Jun 16, 26",
+      "source": "TechCrunch Startups",
+      "layer": 4,
+      "access": "venture",
+      "score": 6,
+      "moments": [
+        "company_launch"
       ]
     },
     {
@@ -401,70 +399,120 @@
       ]
     },
     {
-      "id": "f3a1d1554548",
-      "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
-      "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
-      "company": "Navigating",
-      "link": "https://venuestoday.com/navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026/",
-      "date": "Apr 22, 26",
-      "source": "Venues Today",
+      "id": "2e08b4a00ecc",
+      "title": "DOJ\u2019s Live Nation Settlement Fine Print Leaves Ticketmaster at Center of Ticketing System",
+      "summary": "The Department of Justice has released the fine print of its proposed Live Nation\u2013Ticketmaster settlement, detailing a no-breakup agreement that... The post DOJ\u2019s Live Nation Settlement Fine Print Lea",
+      "company": "DOJ\u2019s Live Nation Settlement Fine Print",
+      "link": "https://www.ticketnews.com/2026/06/dojs-live-nation-settlement-fine-print-leaves-ticketmaster-at-center-of-ticketing-system/",
+      "date": "Jun 16, 26",
+      "source": "Ticket News",
       "layer": 3,
       "access": "pe",
-      "score": 6,
-      "moments": [
-        "acquisition"
-      ]
+      "score": 16,
+      "moments": []
     },
     {
-      "id": "604ffa454c63",
-      "title": "Maximize Every Square Foot: Using Digital Authority to Win High-Value Venue Bookings",
-      "summary": "Source: ChatGPT Event organizers often struggle to secure premium venue bookings even when their content or services are strong. Limited visibility, unclear reputation, and weak online authority can r",
-      "company": "Maximize Every Square Foot",
-      "link": "https://venuestoday.com/maximize-every-square-foot-using-digital-authority-to-win-high-value-venue-bookings/",
-      "date": "Mar 04, 26",
-      "source": "Venues Today",
+      "id": "506889e6832d",
+      "title": "Cash Money and No Limit Records Team Up for Arena Tour: Master P, Birdman, Juvenile and More (EXCLUSIVE)",
+      "summary": "New Orleans icons Cash Money Records and No Limit Records \u2014 two of the most legendary labels in hip-hop history \u2014 are taking their Verzuz battle last year to arenas nationwide later this year with a t",
+      "company": "Cash Money",
+      "link": "https://variety.com/2026/music/news/cash-money-no-limit-records-2026-arena-tour-master-p-birdman-1236781867/",
+      "date": "Jun 15, 26",
+      "source": "Variety Music",
+      "layer": 2,
+      "access": "pe",
+      "score": 11,
+      "moments": []
+    },
+    {
+      "id": "b167cb323b26",
+      "title": "Content Partners Secures Fresh Round of Funding From Carlyle Global Credit",
+      "summary": "Content Partners has struck a new deal with Carlyle Global Credit to facilitate fresh investment capital for the company that has been a pioneer in buying out ownership stakes and profit participation",
+      "company": "Content Partners Secures Fresh Round",
+      "link": "https://variety.com/2026/tv/news/content-partners-carlyle-global-credit-steve-kram-john-mass-1236782183/",
+      "date": "Jun 16, 26",
+      "source": "Variety Biz",
+      "layer": 4,
+      "access": "pe",
+      "score": 11,
+      "moments": []
+    },
+    {
+      "id": "0d9b1a11f2fa",
+      "title": "Mick Jagger says he\u2019s \u201cready to go\u201d on tour with The Rolling Stones and \u201chopefully we\u2019ll do shows next year\u201d",
+      "summary": "The band revealed last year they had scrapped plans for a UK and European stadium tour as Keith Richards was unable to \u201ccommit\u201d to it The post Mick Jagger says he&#8217;s &#8220;ready to go&#8221; on ",
+      "company": "Mick Jagger",
+      "link": "https://www.nme.com/news/music/mick-jagger-says-hes-ready-to-go-on-tour-with-the-rolling-stones-and-hopefully-well-do-shows-next-year-3951203?utm_source=rss&utm_medium=rss&utm_campaign=mick-jagger-says-hes-ready-to-go-on-tour-with-the-rolling-stones-and-hopefully-well-do-shows-next-year",
+      "date": "Jun 16, 26",
+      "source": "NME",
       "layer": 2,
       "access": "pe",
       "score": 10,
       "moments": []
     },
     {
-      "id": "eb5199df47c0",
-      "title": "What Happens When \u2018Star Wars\u2019 Replaces Mozart?",
-      "summary": "Across the United States, orchestras are programming more live performances of movie soundtracks in a bid for box office revenue.",
-      "company": "What Happens When \u2018Star Wars\u2019 Replaces",
-      "link": "https://www.nytimes.com/2026/06/09/arts/music/movie-soundtracks-symphony-orchestra.html",
-      "date": "Jun 09, 26",
-      "source": "NYT Music",
+      "id": "2cca61d0663d",
+      "title": "Ariana Grande review - glittering hits and powerhouse vocals in stunning return to stage",
+      "summary": "Crypto.com Arena, Los AngelesThe pop star\u2019s first tour in seven years brought the house down with emotive ballads and clubby bangers delivered with saucy witIf faced with the choice to erase one\u2019s mos",
+      "company": "Ariana Grande",
+      "link": "https://www.theguardian.com/music/2026/jun/14/ariana-grande-eternal-sunshine-tour-review-la",
+      "date": "Jun 14, 26",
+      "source": "Guardian Music",
       "layer": 2,
       "access": "pe",
       "score": 8,
       "moments": []
     },
     {
-      "id": "a3590bdb6bf1",
-      "title": "Gracie Abrams sets four-night Kia Forum homecoming for Look at My Life tour",
-      "summary": "Gracie Abrams is hitting arenas worldwide with her 64-date Look at My Life tour, including four homecoming nights in December at Inglewood's Kia Forum.",
-      "company": "Gracie Abrams",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-05-28/gracie-abrams-tour-look-at-my-life-l-a-concerts-kia-forum",
-      "date": "May 28, 26",
-      "source": "LA Times Music",
+      "id": "02bb0e2f121d",
+      "title": "Take That review \u2013 stadium redux of Circus tour has maximal razzle-dazzle",
+      "summary": "St Mary\u2019s Stadium, SouthamptonElephants, clowns, aerialists hanging by their hair \u2026 the Big Top concept doesn\u2019t let up at this hugely enjoyable outing for a boy band with hits to spareTake That have n",
+      "company": "Take That",
+      "link": "https://www.theguardian.com/music/2026/may/30/take-that-review-stadium-redux-of-circus-tour-has-maximal-razzle-dazzle",
+      "date": "May 30, 26",
+      "source": "Guardian Music",
       "layer": 2,
       "access": "pe",
       "score": 8,
       "moments": []
     },
     {
-      "id": "5afbd0b43145",
-      "title": "Live Nation, Academy Music Group Commit $12.7 Million to Brighton Hippodrome Revival",
-      "summary": "Live Nation Entertainment and Academy Music Group (AMG) have announced a $12.7 million (\u00a39.5 million) investment in the restoration of... The post Live Nation, Academy Music Group Commit $12.7 Million",
-      "company": "Live Nation Academy Music Group Commit",
-      "link": "https://www.ticketnews.com/2026/06/live-nation-academy-music-group-commit-12-7-million-to-brighton-hippodrome-revival/",
-      "date": "Jun 15, 26",
+      "id": "53f59afff2de",
+      "title": "Infantino using private jet in attempt to watch two World Cup matches per day",
+      "summary": "Fifa president sets gruelling itinerary across tournamentWorld Cup to generate about 9m tons of carbon dioxideGianni Infantino is planning to attend two World Cup games each day where possible for the",
+      "company": "Infantino",
+      "link": "https://www.theguardian.com/football/2026/jun/16/infantino-private-jet-world-cup-matches",
+      "date": "Jun 16, 26",
+      "source": "Guardian Sport",
+      "layer": 4,
+      "access": "pe",
+      "score": 7,
+      "moments": []
+    },
+    {
+      "id": "8aa37af9181e",
+      "title": "Formula 1 Taps Fever for New Global Ticketing Platform",
+      "summary": "Formula 1 is making a major ticketing move, announcing Fever as a new Official Supplier in a five-year global strategic... The post Formula 1 Taps Fever for New Global Ticketing Platform appeared firs",
+      "company": "Formula",
+      "link": "https://www.ticketnews.com/2026/06/formula-1-taps-fever-global-ticketing-platform/",
+      "date": "Jun 16, 26",
       "source": "Ticket News",
       "layer": 3,
       "access": "pe",
-      "score": 7,
+      "score": 6,
+      "moments": []
+    },
+    {
+      "id": "c4cb72fd307b",
+      "title": "Missouri Set Aside $42.5M for World Cup Fix-Up of Lame Duck Arrowhead",
+      "summary": "When Lionel Messi and the Argentinian Men&#8217;s National Team kick off their quest for World Cup glory against Algeria in Kansas City on Tuesday, Arrowhead Stadium will look a bit different than Chi",
+      "company": "Missouri Set Aside",
+      "link": "https://www.sportico.com/leagues/soccer/2026/missouri-allocated-millions-to-renovate-soon-to-be-dormant-arrowhead-stadium-1234909794/",
+      "date": "Jun 16, 26",
+      "source": "Sportico",
+      "layer": 2,
+      "access": "pe",
+      "score": 5,
       "moments": []
     },
     {
@@ -494,19 +542,6 @@
       "moments": []
     },
     {
-      "id": "27c238f2911f",
-      "title": "LISTEN: How NBC Created the Broadcast Network Paradigm and Other Firsts; Andy Cohen Reflects on 20 Years of \u2018Real Housewives\u2019",
-      "summary": "On today\u2019s episode of &#8220;Daily Variety&#8221; podcast, Variety&#8216;s Michael Schneider discusses Variety\u2019s plans to take a long look at NBC&#8217;s centennial and its role in advancing mass medi",
-      "company": "LISTEN",
-      "link": "https://variety.com/2026/tv/news/nbc-100-sarnoff-andy-cohen-real-housewives-daily-variety-1236771619/",
-      "date": "Jun 10, 26",
-      "source": "Variety Biz",
-      "layer": 3,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
       "id": "582c7bd35869",
       "title": "Vinyl records are back, but they're polluting the planet. These labels are trying to help",
       "summary": "The resurgence of vinyl records has taken a toll on the environment. Labels are banding together to help alleviate production effects.",
@@ -517,45 +552,6 @@
       "layer": 4,
       "access": "pe",
       "score": 5,
-      "moments": []
-    },
-    {
-      "id": "44692ed4df4f",
-      "title": "University of Utah inks first-of-its-kind athletics PE partnership",
-      "summary": "The University of Utah has completed what is being described as the first PE-backed partnership in US collegiate athletics, entering into an agreement with New York-based Otro Capital to help finance ",
-      "company": "University",
-      "link": "https://www.privateequitywire.co.uk/university-of-utah-inks-first-of-its-kind-athletics-pe-partnership/",
-      "date": "Jun 15, 26",
-      "source": "PE Wire",
-      "layer": 4,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "239f764a4cf0",
-      "title": "Otro Capital invests in University of Utah\u2019s Crimson Brand Partners",
-      "summary": "Crimson Brand Partners will manage commercial operations across Utah Athletics and the broader university. The post Otro Capital invests in University of Utah&#8217;s Crimson Brand Partners appeared f",
-      "company": "Otro Capital",
-      "link": "https://www.pehub.com/otro-capital-invests-in-university-of-utahs-crimson-brand-partners/",
-      "date": "Jun 15, 26",
-      "source": "PE Hub",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "8f95fdb4c719",
-      "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
-      "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
-      "company": "Global Times",
-      "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/",
-      "date": "May 09, 26",
-      "source": "Venues Today",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
       "moments": []
     }
   ]
