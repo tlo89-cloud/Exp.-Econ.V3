@@ -1,7 +1,25 @@
 {
-  "generated": "2026-06-16T17:04:11.900946+00:00",
-  "total": 38,
+  "generated": "2026-06-17T15:45:43.616880+00:00",
+  "total": 40,
   "scraped": [
+    {
+      "id": "1fc5f01c2ef3",
+      "title": "Conifer raises $900m in oversubscribed debut fund close",
+      "summary": "Conifer Infrastructure Partners has closed its debut fund at its hard cap of $900m, exceeding its original $500m target by $400m. The firm completed the raise for Conifer Infrastructure Partners I, LP",
+      "company": "Conifer",
+      "link": "https://www.altassets.net/premium/conifer-raises-900m-in-oversubscribed-debut-fund-close.html",
+      "date": "Jun 17, 26",
+      "source": "AltAssets",
+      "layer": 1,
+      "access": "pe",
+      "score": 26,
+      "moments": [
+        "funding_round",
+        "pe_investment",
+        "fund_launch",
+        "company_launch"
+      ]
+    },
     {
       "id": "8375320b19f7",
       "title": "Before You Cheer The IPO Window, Watch Where The Money Goes",
@@ -17,6 +35,22 @@
         "acquisition",
         "ipo",
         "company_launch"
+      ]
+    },
+    {
+      "id": "ba1da5453801",
+      "title": "General Atlantic in talks to take lead role in Kling AI funding round",
+      "summary": "Private equity firm General Atlantic is in discussions to lead a major new funding round for Kling AI, the generative video unit of China\u2019s Kuaishou Technology, one of China\u2019s fastest-growing AI busin",
+      "company": "General Atlantic",
+      "link": "https://www.privateequitywire.co.uk/general-atlantic-in-talks-to-take-lead-role-in-kling-ai-funding-round/",
+      "date": "Jun 17, 26",
+      "source": "PE Wire",
+      "layer": 1,
+      "access": "pe",
+      "score": 22,
+      "moments": [
+        "ipo",
+        "pe_investment"
       ]
     },
     {
@@ -36,19 +70,19 @@
       ]
     },
     {
-      "id": "13f0b3503346",
-      "title": "Apax preps Oncourse for sale, sources say; Lead Edge Capital acquires Elektrik; A look at PE\u2019s bet on data center build-out",
-      "summary": "Apax Partners\u2019 portfolio company that provides residential home warranty and repair claims services is expected to come up for sale this year; insights from Aaron Darr, a principal at Lead Edge Capita",
-      "company": "Apax",
-      "link": "https://www.pehub.com/apax-preps-oncourse-for-sale-sources-say-lead-edge-capital-acquires-elektrik-a-look-at-pes-bet-on-data-center-build-out/",
-      "date": "Jun 16, 26",
-      "source": "PE Hub",
-      "layer": 5,
+      "id": "7d9083bda959",
+      "title": "CLASH OF CLANS TEAMS UP WITH FOOTBALLING LEGENDS TO DEBATE TACTICS AND STRATEGY IN A WHOLE NEW ARENA",
+      "summary": "Thierry Henry, Kak\u00e1 and Bastian Schweinsteiger join forces to headline a football themed campaign that brings back the video game's most requested community feature As Global Chat returns better than ",
+      "company": "CLASH OF CLANS TEAMS UP WITH",
+      "link": "https://www.prnewswire.com/news-releases/clash-of-clans-teams-up-with-footballing-legends-to-debate-tactics-and-strategy-in-a-whole-new-arena-302803289.html",
+      "date": "Jun 17, 26",
+      "source": "PR Newswire",
+      "layer": 2,
       "access": "pe",
-      "score": 16,
+      "score": 18,
       "moments": [
-        "acquisition",
-        "pe_investment"
+        "venue_announcement",
+        "festival_headliner"
       ]
     },
     {
@@ -68,19 +102,19 @@
       ]
     },
     {
-      "id": "cb49e9093607",
-      "title": "Kos Biotechnology Partners confirms third close of fund at $123m",
-      "summary": "Kos Biotechnology Partners, a global life sciences investment company, has made its third closing of its first life sciences fund at $123m. The fund \u2013 which initially launched in December 2025 \u2013 secur",
-      "company": "Kos Biotechnology Partners confirms third",
-      "link": "https://www.altassets.net/market-news/kos-biotechnology-partners-confirms-third-close-of-fund-at-123m.html",
-      "date": "Jun 15, 26",
-      "source": "AltAssets",
-      "layer": 5,
+      "id": "d468645b4458",
+      "title": "Alexis Smith of The Feminine Glow Emerges at the Center of the Feminine Energy Coaching Boom",
+      "summary": "DUBAI, UAE &#8211; &#160;The Feminine Glow, the fast-growing femininity and inner work platform founded by Alexis Smith, is gaining national attention as interest in coaching, self-development, and fe",
+      "company": "Alexis Smith",
+      "link": "https://venuestoday.com/alexis-smith-of-the-feminine-glow-emerges-at-the-center-of-the-feminine-energy-coaching-boom/",
+      "date": "Mar 29, 26",
+      "source": "Venues Today",
+      "layer": 2,
       "access": "pe",
       "score": 13,
       "moments": [
-        "pe_investment",
-        "fund_launch"
+        "acquisition",
+        "company_launch"
       ]
     },
     {
@@ -129,33 +163,18 @@
       ]
     },
     {
-      "id": "038a4c299b39",
-      "title": "Live Nation Takes Controlling Interest in Movistar Arena Buenos Aires",
-      "summary": "Live Nation Entertainment has acquired a majority stake in Movistar Arena Buenos Aires, the companies announced, giving the global concert... The post Live Nation Takes Controlling Interest in Movista",
-      "company": "Live Nation Takes Controlling Interest",
-      "link": "https://www.ticketnews.com/2026/06/live-nation-takes-controlling-interest-in-movistar-arena-buenos-aires/",
-      "date": "Jun 16, 26",
-      "source": "Ticket News",
-      "layer": 1,
+      "id": "6c250e94b064",
+      "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
+      "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
+      "company": "Kiro Eid Built",
+      "link": "https://venuestoday.com/kiro-eid-built-8x6-design-studio-here-is-how-he-did-it-without-a-network-or-shortcuts/",
+      "date": "Mar 28, 26",
+      "source": "Venues Today",
+      "layer": 2,
       "access": "pe",
-      "score": 18,
+      "score": 16,
       "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "58a17d9b14de",
-      "title": "Justice Department Approves Paramount\u2019s Warner Bros. Discovery Takeover Without Any Strings Attached",
-      "summary": "David Ellison&#8217;s Paramount Skydance has cleared a big regulatory hurdle in advancing toward completing its $111 billion merger with Warner Bros. Discovery &#8212; although it&#8217;s still not a ",
-      "company": "",
-      "link": "https://variety.com/2026/tv/news/doj-approves-paramount-warner-bros-discovery-merger-1236780234/",
-      "date": "Jun 12, 26",
-      "source": "Variety Biz",
-      "layer": 3,
-      "access": "pe",
-      "score": 17,
-      "moments": [
-        "acquisition"
+        "company_launch"
       ]
     },
     {
@@ -174,48 +193,18 @@
       ]
     },
     {
-      "id": "d18e94e46920",
-      "title": "Banca March reaches secondary fund target size at \u20ac60m",
-      "summary": "Banca March has hit the target size of its March PE Secundarios I FCR investment vehicle at \u20ac60m. According to Dem\u00f3crata, Banca March, through its venture capital manager March Private Equity has clos",
-      "company": "Banca March",
-      "link": "https://www.altassets.net/premium/banca-march-reaches-secondary-fund-target-size-at-e60m.html",
-      "date": "Jun 15, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "96bdf43e34e5",
-      "title": "Smashing Pumpkins, Chris Stapleton to Headline Bipartisan America250 Concert",
-      "summary": "Following the backlash with the President Trump-backed Great American State Fair \u2014 where nearly all the acts dropped-off the lineup... The post Smashing Pumpkins, Chris Stapleton to Headline Bipartisa",
-      "company": "Smashing Pumpkins Chris Stapleton",
-      "link": "https://www.ticketnews.com/2026/06/smashing-pumpkins-chris-stapleton-headline-america250/",
-      "date": "Jun 16, 26",
-      "source": "Ticket News",
+      "id": "b15a91633c8a",
+      "title": "Take a look at what the weather would have been like if there was a Glastonbury 2026",
+      "summary": "This summer is a fallow year for the Worthy Farm festival, but would it have been rain or shine had it gone ahead? The post Take a look at what the weather would have been like if there was a Glastonb",
+      "company": "Take",
+      "link": "https://www.nme.com/news/music/take-a-look-at-what-the-weather-would-have-been-like-if-there-was-a-glastonbury-2026-3951422?utm_source=rss&utm_medium=rss&utm_campaign=take-a-look-at-what-the-weather-would-have-been-like-if-there-was-a-glastonbury-2026",
+      "date": "Jun 17, 26",
+      "source": "NME",
       "layer": 1,
       "access": "pe",
-      "score": 14,
+      "score": 13,
       "moments": [
         "festival_headliner"
-      ]
-    },
-    {
-      "id": "e01ff21500a8",
-      "title": "Trump Administration Signs Off on Paramount-WBD Merger",
-      "summary": "The DOJ blessed the highly controversial pact Friday.",
-      "company": "Trump Administration Signs Off",
-      "link": "https://frontofficesports.com/trump-doj-ellisons-paramount-wbd/",
-      "date": "Jun 12, 26",
-      "source": "Front Office Sports",
-      "layer": 3,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "acquisition"
       ]
     },
     {
@@ -234,29 +223,29 @@
       ]
     },
     {
-      "id": "a487827b1847",
-      "title": "Jakob Nowell used to call Sublime 'his dad's band.' But new album proves 'Now it's our band. It's us'",
-      "summary": "With the release of \"Until the Sun Explodes\" their first album as Sublime in 30 years, the band members talk about recapturing the effortless essence of their timeless sound and looking forward to fut",
-      "company": "Jakob Nowell",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-06-11/sublime-until-the-sun-explodes-new-album-interview-bud-gaugh-eric-wilson",
-      "date": "Jun 11, 26",
-      "source": "LA Times Music",
-      "layer": 1,
-      "access": "pe",
+      "id": "98a8d262e848",
+      "title": "I Sold My AI Startup Before Revenue: Here\u2019s What Investors Missed \u2014 And Founders Shouldn\u2019t",
+      "summary": "The greatest long-term value in AI will come from companies solving deep technical challenges at the model and infrastructure level rather than application-layer products built on existing AI platform",
+      "company": "I Sold My AI Startup Before Revenue",
+      "link": "https://news.crunchbase.com/venture/foundational-ai-startup-investment-kardos-nyheim-thomson/",
+      "date": "Jun 17, 26",
+      "source": "Crunchbase News",
+      "layer": 2,
+      "access": "public",
       "score": 12,
       "moments": [
-        "album_announcement"
+        "company_launch"
       ]
     },
     {
-      "id": "5742a723e2c4",
-      "title": "LGP acquires advisor Cumming Group from New Mountain",
-      "summary": "Cumming serves over 4,000 clients, including 41 Fortune 100 companies. The post LGP acquires advisor Cumming Group from New Mountain appeared first on PE Hub.",
-      "company": "LGP",
-      "link": "https://www.pehub.com/lgp-acquires-advisor-cumming-group-from-new-mountain/",
+      "id": "f7d97e774bb3",
+      "title": "SpaceX Acquires AI Coding Tool Cursor For $60B In Year\u2019s Largest Startup M&A Deal",
+      "summary": "The acquisition of Cursor gives SpaceX a foothold into the enterprise software development market, where AI-assisted coding has taken off and led large companies to significantly pare back their relia",
+      "company": "SpaceX Acquires AI Coding Tool Cursor",
+      "link": "https://news.crunchbase.com/ma/spcx-acquires-ai-coding-cursor-largest-startup-ma-deal-2026/",
       "date": "Jun 16, 26",
-      "source": "PE Hub",
-      "layer": 5,
+      "source": "Crunchbase News",
+      "layer": 2,
       "access": "pe",
       "score": 12,
       "moments": [
@@ -294,78 +283,168 @@
       ]
     },
     {
-      "id": "af1f68ce8c9c",
-      "title": "Ice Nine Kills announce biggest ever headline show at The O2 in London",
-      "summary": "\u201cCan\u2019t wait to soak the prestigious O2 in stage blood and scream along with our British Psychos\u201d The post Ice Nine Kills announce biggest ever headline show at The O2 in London appeared first on NME.",
-      "company": "Ice Nine Kills",
-      "link": "https://www.nme.com/news/music/ice-nine-kills-announce-biggest-ever-headline-show-at-the-o2-in-london-3951248?utm_source=rss&utm_medium=rss&utm_campaign=ice-nine-kills-announce-biggest-ever-headline-show-at-the-o2-in-london",
-      "date": "Jun 16, 26",
-      "source": "NME",
+      "id": "ed24e331be68",
+      "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
+      "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
+      "company": "Niloufar Banisaied",
+      "link": "https://venuestoday.com/niloufar-banisaied-is-bringing-timeless-design-and-the-guest-experience-at-the-forefront/",
+      "date": "Jun 09, 26",
+      "source": "Venues Today",
+      "layer": 4,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "d498fb01fe14",
+      "title": "Culver City Approves Permanent Production Incentive Measures as Netflix and MGM+ Film on Location in the Heart of Screenland",
+      "summary": "When the Culver City Council voted to approve its annual budget last week, the temporary film incentive measures that were implemented in May formally became a permanent part of the city&#8217;s pitch",
+      "company": "",
+      "link": "https://variety.com/2026/biz/news/culver-city-production-incentive-netflix-mgm-screenland-1236783312/",
+      "date": "Jun 17, 26",
+      "source": "Variety Biz",
+      "layer": 4,
+      "access": "pe",
+      "score": 10,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "c26bd7a9a6a3",
+      "title": "Flexstone to acquire PE secondaries firm Glouston",
+      "summary": "The combined platform will manage more than $15 billion in assets. The post Flexstone to acquire PE secondaries firm Glouston appeared first on PE Hub.",
+      "company": "Flexstone to",
+      "link": "https://www.pehub.com/flexstone-to-acquire-pe-secondaries-firm-glouston/",
+      "date": "Jun 17, 26",
+      "source": "PE Hub",
       "layer": 5,
       "access": "pe",
       "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "873a54cfc7ba",
+      "title": "Stephens Group-backed Aptus Aero snaps up aircraft repair firm EMC Aerospace",
+      "summary": "The transaction marks Aptus Aero\u2019s second acquisition following its acquisition of Atlas Aerospace Accessories, LLC earlier this year. The post Stephens Group-backed Aptus Aero snaps up aircraft repai",
+      "company": "Stephens Group-backed Aptus Aero",
+      "link": "https://www.pehub.com/stephens-group-backed-aptus-aero-snaps-up-aircraft-repair-firm-emc-aerospace/",
+      "date": "Jun 17, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "e3c698347f97",
+      "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+      "summary": "Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation \u2014 where errors can be costly and reliability is at a premium.",
+      "company": "Pramaana Labs",
+      "link": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+      "date": "Jun 17, 26",
+      "source": "TechCrunch Startups",
+      "layer": 3,
+      "access": "venture",
+      "score": 9,
+      "moments": [
+        "funding_round"
+      ]
+    },
+    {
+      "id": "954830b66ae9",
+      "title": "Realize Capital Partners confirms final close of Fund I on $276.7m",
+      "summary": "Realize Capital Partners, a wholesaler for the Canadian government\u2019s Social Finance Fund, has closed its fund-of-funds fund on $267.7m in total capital. The blended finance, impact-fund-of-funds Reali",
+      "company": "Realize Capital Partners confirms final",
+      "link": "https://www.altassets.net/premium/realize-capital-partners-confirms-final-close-of-fund-i-on-276-7m.html",
+      "date": "Jun 17, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "ce1002515390",
+      "title": "GIC moves to sell up to $2bn in private credit assets",
+      "summary": "Singapore\u2019s sovereign wealth fund GIC is preparing to divest as much as $2bn of private credit holdings, turning to the secondary market as institutional investors increasingly use portfolio sales to ",
+      "company": "GIC",
+      "link": "https://www.privateequitywire.co.uk/gic-moves-to-sell-up-to-2bn-in-private-credit-assets/",
+      "date": "Jun 17, 26",
+      "source": "PE Wire",
+      "layer": 3,
+      "access": "pe",
+      "score": 8,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "260a420812df",
+      "title": "Los Angeles Intuit Dome to Host 2027 Laver Cup",
+      "summary": "The Laver Cup is heading back to California in 2027 after a record-breaking event last year at the Chase Center in San Francisco. The Intuit Dome, home of the Los Angeles Clippers, will host the 10th ",
+      "company": "Los Angeles Intuit Dome",
+      "link": "https://www.sportico.com/leagues/tennis/2026/laver-cup-2027-host-intuit-dome-la-1234909942/",
+      "date": "Jun 17, 26",
+      "source": "Sportico",
+      "layer": 2,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "record_breaking"
+      ]
+    },
+    {
+      "id": "21386e201f80",
+      "title": "On Netflix\u2019s World Cup Show, It\u2019s Still Called Football",
+      "summary": "When Netflix approached Goalhanger co-founder Tony Pastor last year, he assumed the streamer was interested in picking up a version of his podcast network\u2019s&#160;The Rest Is History. In their first me",
+      "company": "On Netflix\u2019s World Cup Show It\u2019s",
+      "link": "https://www.sportico.com/business/media/2026/world-cup-streaming-recap-show-netflix-podcast-lineker-1234909981/",
+      "date": "Jun 17, 26",
+      "source": "Sportico",
+      "layer": 3,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "ca9b0a42f6ae",
+      "title": "\u2018The night before I dreamt about my ACL\u2019: Everton\u2019s Aurora Galli on the long way back from injury | Moving the Goalposts",
+      "summary": "This week\u2019s newsletter spends a day with the Italy midfielder as she continues to battle her way back to a peak physical condition\u201cIt was accepting that I couldn\u2019t play football because it was my life",
+      "company": "\u2018The",
+      "link": "https://www.theguardian.com/football/2026/jun/17/the-night-before-i-dreamt-about-my-acl-evertons-aurora-galli-on-the-long-way-back-from-injury",
+      "date": "Jun 17, 26",
+      "source": "Guardian Sport",
+      "layer": 5,
+      "access": "pe",
+      "score": 6,
       "moments": [
         "festival_headliner"
       ]
     },
     {
-      "id": "78c499e10947",
-      "title": "DelCam-backed Space Age Electronics acquires manufacturer SprinkGuard",
-      "summary": "Headquartered in Sterling, Massachusetts, Space Age Electronics is a manufacturer of fire and life safety equipment. The post DelCam-backed Space Age Electronics acquires manufacturer SprinkGuard appe",
-      "company": "DelCam-backed Space Age Electronics",
-      "link": "https://www.pehub.com/delcam-backed-space-age-electronics-acquires-manufacturer-sprinkguard/",
-      "date": "Jun 16, 26",
+      "id": "b72f8ba48270",
+      "title": "TPG to acquire Waste Eliminator and Liberty Waste Solutions",
+      "summary": "The seller of both businesses is Allied Industrial Partners. The post TPG to acquire Waste Eliminator and Liberty Waste Solutions appeared first on PE Hub.",
+      "company": "TPG to",
+      "link": "https://www.pehub.com/tpg-to-acquire-waste-eliminator-and-liberty-waste-solutions/",
+      "date": "Jun 17, 26",
       "source": "PE Hub",
       "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "7744a6410dc9",
-      "title": "HIG Capital exits investment in retail commerce agency Bluebird",
-      "summary": "The sale is in conjunction with a recapitalization of the company by Bluebird's founders and Bertram Capital. The post HIG Capital exits investment in retail commerce agency Bluebird appeared first on",
-      "company": "HIG Capital",
-      "link": "https://www.pehub.com/hig-capital-exits-investment-in-retail-commerce-agency-bluebird/",
-      "date": "Jun 16, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "22b5a06bf640",
-      "title": "NCAA Looks to Halt Sorsby Injunction in Emergency Motion",
-      "summary": "In an emergency motion, the NCAA on Monday petitioned the Court of Appeals for the 7th District of Texas to stay a trial judge\u2019s ruling&#160;that allows Texas Tech quarterback Brendan Sorsby to play i",
-      "company": "NCAA Looks",
-      "link": "https://www.sportico.com/law/analysis/2026/ncaa-seeks-stay-expedited-appeal-sorsby-injunction-1234909774/",
-      "date": "Jun 15, 26",
-      "source": "Sportico",
-      "layer": 4,
       "access": "pe",
       "score": 6,
       "moments": [
         "acquisition"
-      ]
-    },
-    {
-      "id": "06d4601757c1",
-      "title": "Disney\u2019s Imagineering Arm Using Adobe\u2019s Firefly AI Models for Park Designs",
-      "summary": "Months after its OpenAI deal fell through, Disney has found a new way to make use of AI. The company\u2019s Imagineering Research &#38; Development unit is using Adobe\u2019s Firefly Foundry, the commercial ver",
-      "company": "",
-      "link": "https://variety.com/2026/digital/news/disney-imagineering-parks-adobe-firefly-ai-models-1236782627/",
-      "date": "Jun 16, 26",
-      "source": "Variety Biz",
-      "layer": 2,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "company_launch"
       ]
     },
     {
@@ -399,147 +478,49 @@
       ]
     },
     {
-      "id": "2e08b4a00ecc",
-      "title": "DOJ\u2019s Live Nation Settlement Fine Print Leaves Ticketmaster at Center of Ticketing System",
-      "summary": "The Department of Justice has released the fine print of its proposed Live Nation\u2013Ticketmaster settlement, detailing a no-breakup agreement that... The post DOJ\u2019s Live Nation Settlement Fine Print Lea",
-      "company": "DOJ\u2019s Live Nation Settlement Fine Print",
-      "link": "https://www.ticketnews.com/2026/06/dojs-live-nation-settlement-fine-print-leaves-ticketmaster-at-center-of-ticketing-system/",
-      "date": "Jun 16, 26",
-      "source": "Ticket News",
-      "layer": 3,
+      "id": "8d308adb448c",
+      "title": "Nearly half of investors expect to up EM private credit exposure, says Gemcorp survey",
+      "summary": "A growing share of institutional investors plan to raise allocations to emerging markets private credit over the next two years, despite persistent concerns over risk and limited current exposure, acc",
+      "company": "Nearly",
+      "link": "https://www.privateequitywire.co.uk/nearly-half-of-investors-expect-to-up-em-private-credit-exposure-says-gemcorp-survey/",
+      "date": "Jun 17, 26",
+      "source": "PE Wire",
+      "layer": 5,
       "access": "pe",
-      "score": 16,
-      "moments": []
+      "score": 6,
+      "moments": [
+        "pe_investment"
+      ]
     },
     {
-      "id": "506889e6832d",
-      "title": "Cash Money and No Limit Records Team Up for Arena Tour: Master P, Birdman, Juvenile and More (EXCLUSIVE)",
-      "summary": "New Orleans icons Cash Money Records and No Limit Records \u2014 two of the most legendary labels in hip-hop history \u2014 are taking their Verzuz battle last year to arenas nationwide later this year with a t",
-      "company": "Cash Money",
-      "link": "https://variety.com/2026/music/news/cash-money-no-limit-records-2026-arena-tour-master-p-birdman-1236781867/",
-      "date": "Jun 15, 26",
-      "source": "Variety Music",
-      "layer": 2,
+      "id": "44a703116a7f",
+      "title": "MarketAnywhere Emerges as the Best Flyer Distribution Service in the USA",
+      "summary": "As the best flyer distribution service in the USA, MarketAnywhere is giving businesses a smarter way to run local campaigns. As businesses increasingly look for ways to cut through digital ad fatigue,",
+      "company": "MarketAnywhere Emerges",
+      "link": "https://venuestoday.com/marketanywhere-emerges-as-the-best-flyer-distribution-service-in-the-usa/",
+      "date": "Jun 13, 26",
+      "source": "Venues Today",
+      "layer": 5,
       "access": "pe",
-      "score": 11,
-      "moments": []
+      "score": 6,
+      "moments": [
+        "acquisition"
+      ]
     },
     {
-      "id": "b167cb323b26",
-      "title": "Content Partners Secures Fresh Round of Funding From Carlyle Global Credit",
-      "summary": "Content Partners has struck a new deal with Carlyle Global Credit to facilitate fresh investment capital for the company that has been a pioneer in buying out ownership stakes and profit participation",
-      "company": "Content Partners Secures Fresh Round",
-      "link": "https://variety.com/2026/tv/news/content-partners-carlyle-global-credit-steve-kram-john-mass-1236782183/",
-      "date": "Jun 16, 26",
-      "source": "Variety Biz",
-      "layer": 4,
-      "access": "pe",
-      "score": 11,
-      "moments": []
-    },
-    {
-      "id": "0d9b1a11f2fa",
-      "title": "Mick Jagger says he\u2019s \u201cready to go\u201d on tour with The Rolling Stones and \u201chopefully we\u2019ll do shows next year\u201d",
-      "summary": "The band revealed last year they had scrapped plans for a UK and European stadium tour as Keith Richards was unable to \u201ccommit\u201d to it The post Mick Jagger says he&#8217;s &#8220;ready to go&#8221; on ",
-      "company": "Mick Jagger",
-      "link": "https://www.nme.com/news/music/mick-jagger-says-hes-ready-to-go-on-tour-with-the-rolling-stones-and-hopefully-well-do-shows-next-year-3951203?utm_source=rss&utm_medium=rss&utm_campaign=mick-jagger-says-hes-ready-to-go-on-tour-with-the-rolling-stones-and-hopefully-well-do-shows-next-year",
-      "date": "Jun 16, 26",
-      "source": "NME",
-      "layer": 2,
-      "access": "pe",
-      "score": 10,
-      "moments": []
-    },
-    {
-      "id": "2cca61d0663d",
-      "title": "Ariana Grande review - glittering hits and powerhouse vocals in stunning return to stage",
-      "summary": "Crypto.com Arena, Los AngelesThe pop star\u2019s first tour in seven years brought the house down with emotive ballads and clubby bangers delivered with saucy witIf faced with the choice to erase one\u2019s mos",
-      "company": "Ariana Grande",
-      "link": "https://www.theguardian.com/music/2026/jun/14/ariana-grande-eternal-sunshine-tour-review-la",
-      "date": "Jun 14, 26",
-      "source": "Guardian Music",
-      "layer": 2,
-      "access": "pe",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "02bb0e2f121d",
-      "title": "Take That review \u2013 stadium redux of Circus tour has maximal razzle-dazzle",
-      "summary": "St Mary\u2019s Stadium, SouthamptonElephants, clowns, aerialists hanging by their hair \u2026 the Big Top concept doesn\u2019t let up at this hugely enjoyable outing for a boy band with hits to spareTake That have n",
-      "company": "Take That",
-      "link": "https://www.theguardian.com/music/2026/may/30/take-that-review-stadium-redux-of-circus-tour-has-maximal-razzle-dazzle",
-      "date": "May 30, 26",
-      "source": "Guardian Music",
-      "layer": 2,
-      "access": "pe",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "53f59afff2de",
-      "title": "Infantino using private jet in attempt to watch two World Cup matches per day",
-      "summary": "Fifa president sets gruelling itinerary across tournamentWorld Cup to generate about 9m tons of carbon dioxideGianni Infantino is planning to attend two World Cup games each day where possible for the",
-      "company": "Infantino",
-      "link": "https://www.theguardian.com/football/2026/jun/16/infantino-private-jet-world-cup-matches",
-      "date": "Jun 16, 26",
-      "source": "Guardian Sport",
-      "layer": 4,
-      "access": "pe",
-      "score": 7,
-      "moments": []
-    },
-    {
-      "id": "8aa37af9181e",
-      "title": "Formula 1 Taps Fever for New Global Ticketing Platform",
-      "summary": "Formula 1 is making a major ticketing move, announcing Fever as a new Official Supplier in a five-year global strategic... The post Formula 1 Taps Fever for New Global Ticketing Platform appeared firs",
-      "company": "Formula",
-      "link": "https://www.ticketnews.com/2026/06/formula-1-taps-fever-global-ticketing-platform/",
-      "date": "Jun 16, 26",
-      "source": "Ticket News",
+      "id": "f3a1d1554548",
+      "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
+      "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
+      "company": "Navigating",
+      "link": "https://venuestoday.com/navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026/",
+      "date": "Apr 22, 26",
+      "source": "Venues Today",
       "layer": 3,
       "access": "pe",
       "score": 6,
-      "moments": []
-    },
-    {
-      "id": "c4cb72fd307b",
-      "title": "Missouri Set Aside $42.5M for World Cup Fix-Up of Lame Duck Arrowhead",
-      "summary": "When Lionel Messi and the Argentinian Men&#8217;s National Team kick off their quest for World Cup glory against Algeria in Kansas City on Tuesday, Arrowhead Stadium will look a bit different than Chi",
-      "company": "Missouri Set Aside",
-      "link": "https://www.sportico.com/leagues/soccer/2026/missouri-allocated-millions-to-renovate-soon-to-be-dormant-arrowhead-stadium-1234909794/",
-      "date": "Jun 16, 26",
-      "source": "Sportico",
-      "layer": 2,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "ca4462c81ca2",
-      "title": "Big 12 Sues Texas Tech, Ken Paxton as Sorsby Legal Battle Expands",
-      "summary": "The Big 12 on Sunday sued Texas Attorney General Ken Paxton, Texas Tech University and several Texas Tech officials, arguing that Paxton and Texas Tech\u2019s threats to sue the conference if it punishes t",
-      "company": "Big",
-      "link": "https://www.sportico.com/law/analysis/2026/big-12-sues-texas-tech-ken-paxton-brendan-sorsby-1234909739/",
-      "date": "Jun 15, 26",
-      "source": "Sportico",
-      "layer": 3,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "d80d14efde9b",
-      "title": "\u2018KPop Demon Hunters\u2019: Lego Releases New Sets Inspired by Derpy and Sussie Bird",
-      "summary": "&#8220;KPop Demon Hunters&#8221; fans rejoice. Ahead of the film&#8217;s one-year anniversary, Lego will release a 825-piece set inspired by Derpy and Sussie Bird. The set will be available for pre-sa",
-      "company": "\u2018KPop Demon Hunters\u2019: Lego Releases New",
-      "link": "https://variety.com/2026/film/news/kpop-demon-hunters-lego-derpy-sussie-bird-1236780295/",
-      "date": "Jun 15, 26",
-      "source": "Variety Music",
-      "layer": 3,
-      "access": "pe",
-      "score": 5,
-      "moments": []
+      "moments": [
+        "acquisition"
+      ]
     },
     {
       "id": "582c7bd35869",
@@ -552,6 +533,71 @@
       "layer": 4,
       "access": "pe",
       "score": 5,
+      "moments": []
+    },
+    {
+      "id": "02ac9c3947d0",
+      "title": "\u2018Don\u2019t panic\u2019: Mikel Merino tells Spain to stay calm after Cape Verde setback",
+      "summary": "Midfielder says it is important the European champions have \u2018humility\u2019 after their disappointing draw against tournament debutantsThe mourning after isn\u2019t always easy, Mikel&nbsp;Merino says \u2013 and yes",
+      "company": "\u2018Don\u2019t",
+      "link": "https://www.theguardian.com/football/2026/jun/17/no-time-to-panic-mikel-merino-spain-cape-verde-setback",
+      "date": "Jun 17, 26",
+      "source": "Guardian Sport",
+      "layer": 4,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "19f2a8ff20da",
+      "title": "What Newsom's team is telling allies in Congress about Trump's DOJ investigating him",
+      "summary": "California Gov. Gavin Newsom's team is urging congressional Democrats to frame the Justice Department's investigation into him as part of a campaign of political retribution, according to talking poin",
+      "company": "What Newsom's",
+      "link": "https://www.axios.com/2026/06/16/gavin-newsom-doj-trump-investigation-congress",
+      "date": "Jun 16, 26",
+      "source": "Axios",
+      "layer": 3,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "1439f23064d1",
+      "title": "Fox enters new era with Roku deal",
+      "summary": "Data: Nielsen; Chart: Axios VisualsFox's $22 billion deal to buy Roku marks a turning point in the streaming wars and a new era for the Murdoch media empire. Why it matters: Streaming is no longer a p",
+      "company": "Fox",
+      "link": "https://www.axios.com/2026/06/16/fox-roku-deal-streaming-wars",
+      "date": "Jun 16, 26",
+      "source": "Axios",
+      "layer": 3,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "7d5711babaf6",
+      "title": "Fred Again.. to host free production workshops for trans+ musicians in London",
+      "summary": "\u201cThis is an event to be celebrated for who you are and have a chance to learn from leading professionals in your field\u201d The post Fred Again.. to host free production workshops for trans+ musicians in ",
+      "company": "Fred Again",
+      "link": "https://www.nme.com/news/music/fred-again-to-host-free-production-workshops-for-trans-musicians-in-london-3951504?utm_source=rss&utm_medium=rss&utm_campaign=fred-again-to-host-free-production-workshops-for-trans-musicians-in-london",
+      "date": "Jun 17, 26",
+      "source": "NME",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "8f95fdb4c719",
+      "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
+      "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
+      "company": "Global Times",
+      "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/",
+      "date": "May 09, 26",
+      "source": "Venues Today",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
       "moments": []
     }
   ]
