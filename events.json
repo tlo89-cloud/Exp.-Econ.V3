@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T15:45:43.616880+00:00",
-  "total": 40,
+  "generated": "2026-06-18T15:36:31.770622+00:00",
+  "total": 36,
   "scraped": [
     {
       "id": "1fc5f01c2ef3",
@@ -21,39 +21,6 @@
       ]
     },
     {
-      "id": "8375320b19f7",
-      "title": "Before You Cheer The IPO Window, Watch Where The Money Goes",
-      "summary": "A public SpaceX, OpenAI and Anthropic would become some of the best-capitalized acquirers on the planet, writes MGV's Marc Schr\u00f6der, who explains that the bigger impact for startups is likely to be st",
-      "company": "Before You Cheer The IPO Window",
-      "link": "https://news.crunchbase.com/public/ipo-window-liquid-money-ma-schroder-mgv/",
-      "date": "Jun 11, 26",
-      "source": "Crunchbase News",
-      "layer": 5,
-      "access": "pe",
-      "score": 20,
-      "moments": [
-        "acquisition",
-        "ipo",
-        "company_launch"
-      ]
-    },
-    {
-      "id": "ba1da5453801",
-      "title": "General Atlantic in talks to take lead role in Kling AI funding round",
-      "summary": "Private equity firm General Atlantic is in discussions to lead a major new funding round for Kling AI, the generative video unit of China\u2019s Kuaishou Technology, one of China\u2019s fastest-growing AI busin",
-      "company": "General Atlantic",
-      "link": "https://www.privateequitywire.co.uk/general-atlantic-in-talks-to-take-lead-role-in-kling-ai-funding-round/",
-      "date": "Jun 17, 26",
-      "source": "PE Wire",
-      "layer": 1,
-      "access": "pe",
-      "score": 22,
-      "moments": [
-        "ipo",
-        "pe_investment"
-      ]
-    },
-    {
       "id": "1476eaa97ac3",
       "title": "Stone Point Capital secures $610.5m in Insurance Solutions Fund first close",
       "summary": "Private equity and credit investment firm Stone Point Capital has raised $610.5m in the first close of its Stone Point Insurance Solutions Fund strategy. According to Artemis, whilst details are still",
@@ -70,19 +37,19 @@
       ]
     },
     {
-      "id": "7d9083bda959",
-      "title": "CLASH OF CLANS TEAMS UP WITH FOOTBALLING LEGENDS TO DEBATE TACTICS AND STRATEGY IN A WHOLE NEW ARENA",
-      "summary": "Thierry Henry, Kak\u00e1 and Bastian Schweinsteiger join forces to headline a football themed campaign that brings back the video game's most requested community feature As Global Chat returns better than ",
-      "company": "CLASH OF CLANS TEAMS UP WITH",
-      "link": "https://www.prnewswire.com/news-releases/clash-of-clans-teams-up-with-footballing-legends-to-debate-tactics-and-strategy-in-a-whole-new-arena-302803289.html",
-      "date": "Jun 17, 26",
-      "source": "PR Newswire",
-      "layer": 2,
+      "id": "0bb78a819c06",
+      "title": "\u2018A sacred kind of sound\u2019: inside a solar-powered journey to preserve the music of church organs",
+      "summary": "Musician Michael Cloud Duguay\u2019s new album was born from a mission to capture the sound of the majestic yet increasingly rare instrumentsMichael Cloud Duguay and his band of collaborators were nearing ",
+      "company": "",
+      "link": "https://www.theguardian.com/music/2026/jun/18/michael-cloud-duguay-album-church-organs",
+      "date": "Jun 18, 26",
+      "source": "Guardian Music",
+      "layer": 1,
       "access": "pe",
-      "score": 18,
+      "score": 16,
       "moments": [
-        "venue_announcement",
-        "festival_headliner"
+        "album_announcement",
+        "company_launch"
       ]
     },
     {
@@ -102,34 +69,35 @@
       ]
     },
     {
-      "id": "d468645b4458",
-      "title": "Alexis Smith of The Feminine Glow Emerges at the Center of the Feminine Energy Coaching Boom",
-      "summary": "DUBAI, UAE &#8211; &#160;The Feminine Glow, the fast-growing femininity and inner work platform founded by Alexis Smith, is gaining national attention as interest in coaching, self-development, and fe",
-      "company": "Alexis Smith",
-      "link": "https://venuestoday.com/alexis-smith-of-the-feminine-glow-emerges-at-the-center-of-the-feminine-energy-coaching-boom/",
-      "date": "Mar 29, 26",
-      "source": "Venues Today",
-      "layer": 2,
+      "id": "b813d6a8c4ac",
+      "title": "Companies for sale updates: KKR invests in Crowe, LongRange acquires Pizza Hut",
+      "summary": "PE firms are sitting record highs of dry powder capital and the rate of companies testing the market remains sky high, despite a slowness in deals coming to fruition. The post Companies for sale updat",
+      "company": "Companies for sale updates",
+      "link": "https://www.pehub.com/companies-for-sale-updates-kkr-invests-in-crowe-longrange-acquires-pizza-hut/",
+      "date": "Jun 18, 26",
+      "source": "PE Hub",
+      "layer": 5,
       "access": "pe",
       "score": 13,
       "moments": [
         "acquisition",
-        "company_launch"
+        "pe_investment"
       ]
     },
     {
-      "id": "0eb8db5a9ec9",
-      "title": "\u2018Reeks of Corruption\u2019: Top DOJ Officials Reportedly Cleared Paramount-Warner Bros. Merger Before Staff Lawyers, Who Were \u2018Leaning\u2019 Toward Antitrust...",
-      "summary": "Senior officials at the Justice Department moved to close out the antitrust investigation into Paramount&#8217;s $111 billion takeover of Warner Bros. Discovery before the team of lawyers investigatin",
-      "company": "\u2018Reeks",
-      "link": "https://variety.com/2026/film/news/trump-doj-officials-cleared-paramount-warner-bros-merger-lawyers-object-1236782486/",
-      "date": "Jun 16, 26",
-      "source": "Variety Biz",
-      "layer": 3,
+      "id": "85e9d763d781",
+      "title": "IPO window open for AI infra businesses, says Carta; Nordic Capital to acquire finance platform Liberis",
+      "summary": "Liberis will join forces with Qred to create a global platform for SMW financing. The post IPO window open for AI infra businesses, says Carta; Nordic Capital to acquire finance platform Liberis appea",
+      "company": "IPO window",
+      "link": "https://www.pehub.com/ipo-window-open-for-ai-infra-businesses-says-carta-nordic-capital-to-acquire-finance-platform-liberis/",
+      "date": "Jun 18, 26",
+      "source": "PE Hub",
+      "layer": 5,
       "access": "pe",
-      "score": 22,
+      "score": 13,
       "moments": [
-        "acquisition"
+        "acquisition",
+        "ipo"
       ]
     },
     {
@@ -163,18 +131,33 @@
       ]
     },
     {
-      "id": "6c250e94b064",
-      "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
-      "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
-      "company": "Kiro Eid Built",
-      "link": "https://venuestoday.com/kiro-eid-built-8x6-design-studio-here-is-how-he-did-it-without-a-network-or-shortcuts/",
-      "date": "Mar 28, 26",
-      "source": "Venues Today",
+      "id": "b7a22c06272e",
+      "title": "Guns N\u2019 Roses Expand World Tour with Two India Shows",
+      "summary": "Guns N\u2019 Roses will return to India in November for two headline concerts as part of the Asia leg of... The post Guns N\u2019 Roses Expand World Tour with Two India Shows appeared first on TicketNews.",
+      "company": "Guns",
+      "link": "https://www.ticketnews.com/2026/06/guns-n-roses-expand-world-tour-with-two-india-shows/",
+      "date": "Jun 17, 26",
+      "source": "Ticket News",
+      "layer": 1,
+      "access": "pe",
+      "score": 17,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "29f31e2ca07d",
+      "title": "Shaikin: An Anaheim vision: The Anaheim Angels in a new stadium, next to a youth sports complex",
+      "summary": "A new owner could move the Angels, but Anaheim offers a 150-acre site with what every owner in pro sports covets: land around the venue to turn the property into a year-round money-making operation.",
+      "company": "Shaikin",
+      "link": "https://www.latimes.com/sports/angels/story/2026-06-18/anaheim-angels-new-stadium-youth-sports-complex",
+      "date": "Jun 18, 26",
+      "source": "LA Times Sports",
       "layer": 2,
       "access": "pe",
       "score": 16,
       "moments": [
-        "company_launch"
+        "venue_announcement"
       ]
     },
     {
@@ -193,33 +176,18 @@
       ]
     },
     {
-      "id": "b15a91633c8a",
-      "title": "Take a look at what the weather would have been like if there was a Glastonbury 2026",
-      "summary": "This summer is a fallow year for the Worthy Farm festival, but would it have been rain or shine had it gone ahead? The post Take a look at what the weather would have been like if there was a Glastonb",
-      "company": "Take",
-      "link": "https://www.nme.com/news/music/take-a-look-at-what-the-weather-would-have-been-like-if-there-was-a-glastonbury-2026-3951422?utm_source=rss&utm_medium=rss&utm_campaign=take-a-look-at-what-the-weather-would-have-been-like-if-there-was-a-glastonbury-2026",
-      "date": "Jun 17, 26",
+      "id": "8ca080a6a4be",
+      "title": "Gracie Abrams reveals tracklist for new album \u2018Daughter From Hell\u2019",
+      "summary": "The singer will release her third studio album on July 17 via Interscope The post Gracie Abrams reveals tracklist for new album &#8216;Daughter From Hell&#8217; appeared first on NME.",
+      "company": "Gracie Abrams",
+      "link": "https://www.nme.com/news/music/gracie-abrams-reveals-tracklist-for-new-album-daughter-from-hell-3951638?utm_source=rss&utm_medium=rss&utm_campaign=gracie-abrams-reveals-tracklist-for-new-album-daughter-from-hell",
+      "date": "Jun 18, 26",
       "source": "NME",
       "layer": 1,
       "access": "pe",
-      "score": 13,
+      "score": 14,
       "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "7eb3abb6f468",
-      "title": "Music Industry Moves: The Linda Lindas Sign With Reprise-Warner; Motown Announces HBCU Internship Program; Republic and Ziza Launch Label",
-      "summary": "Los Angeles quartet the Linda Lindas, who first captured national attention as teenagers (or pre-teenagers) in 2018, have signed with Reprise-Warner Records and celebrated by releasing the new single ",
-      "company": "Music Industry Moves",
-      "link": "https://variety.com/2026/music/news/linda-lindas-sign-with-reprise-warner-records-1236782104/",
-      "date": "Jun 15, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "record_deal"
+        "album_announcement"
       ]
     },
     {
@@ -253,21 +221,6 @@
       ]
     },
     {
-      "id": "f5eca094ae35",
-      "title": "Baby\u2019s All Right Co-Founder Billy Jones to Be Honored With Memorial Foundation Benefitting Young Music Professionals",
-      "summary": "The late Billy Jones, co-founder of the long-running Brooklyn venue Baby\u2019s All Right, was one of the most familiar faces on New York City\u2019s music scene, having worked as a musician, promoter, club own",
-      "company": "Baby\u2019s All Right Co-Founder Billy Jones",
-      "link": "https://variety.com/2026/music/news/babys-all-right-billy-jones-memorial-foundation-1236782041/",
-      "date": "Jun 16, 26",
-      "source": "Variety Music",
-      "layer": 2,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
       "id": "eec09e4aabec",
       "title": "A Baroque Opera Written By a Female Composer Feels Ripped From the Headlines",
       "summary": "The Paris Opera production of \u201cErcole Amante\u201d (\u201cHercules in Love\u201d), a rediscovered 1707 work by the female composer Antonia Bembo, leans into contemporary themes of coercion and consent.",
@@ -283,24 +236,9 @@
       ]
     },
     {
-      "id": "ed24e331be68",
-      "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
-      "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
-      "company": "Niloufar Banisaied",
-      "link": "https://venuestoday.com/niloufar-banisaied-is-bringing-timeless-design-and-the-guest-experience-at-the-forefront/",
-      "date": "Jun 09, 26",
-      "source": "Venues Today",
-      "layer": 4,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "d498fb01fe14",
-      "title": "Culver City Approves Permanent Production Incentive Measures as Netflix and MGM+ Film on Location in the Heart of Screenland",
-      "summary": "When the Culver City Council voted to approve its annual budget last week, the temporary film incentive measures that were implemented in May formally became a permanent part of the city&#8217;s pitch",
+      "id": "7c01e3f1286e",
+      "title": "Culver City Approves Production Incentive Measures as Netflix and MGM+ Film on Location in the Heart of Screenland",
+      "summary": "When the Culver City Council voted to approve its annual budget last week, the temporary film incentive measures that were implemented in May formally became part of the city&#8217;s pitch to producti",
       "company": "",
       "link": "https://variety.com/2026/biz/news/culver-city-production-incentive-netflix-mgm-screenland-1236783312/",
       "date": "Jun 17, 26",
@@ -313,12 +251,42 @@
       ]
     },
     {
-      "id": "c26bd7a9a6a3",
-      "title": "Flexstone to acquire PE secondaries firm Glouston",
-      "summary": "The combined platform will manage more than $15 billion in assets. The post Flexstone to acquire PE secondaries firm Glouston appeared first on PE Hub.",
-      "company": "Flexstone to",
-      "link": "https://www.pehub.com/flexstone-to-acquire-pe-secondaries-firm-glouston/",
+      "id": "6fc7e05a8ba0",
+      "title": "Patriots Sue Town of Foxborough Over \u2018Uncollectible\u2019 Stadium Fees",
+      "summary": "The New England Patriots on Monday sued Foxborough, Mass.\u2014the town where their team facilities and Gilette Stadium are located\u2014accusing town leaders of illegally scheming to raise what should be a $10",
+      "company": "Patriots Sue Town",
+      "link": "https://www.sportico.com/law/analysis/2026/patriots-sue-foxborough-1234936398/",
       "date": "Jun 17, 26",
+      "source": "Sportico",
+      "layer": 2,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "funding_round"
+      ]
+    },
+    {
+      "id": "47494344138a",
+      "title": "How \u2018KPop Demon Hunters\u2019 Spent an Entire Year as a Blockbuster for Netflix (EXCLUSIVE)",
+      "summary": "June 20 marks the one-year anniversary of Netflix\u2019s \u201cKPop Demon Hunters\u201d release. Since then, the animated feature has spent 52 consecutive weeks on the streamer&#8217;s Top 10 list, shattering record",
+      "company": "How \u2018KPop Demon Hunters\u2019 Spent",
+      "link": "https://variety.com/2026/film/news/kpop-demon-hunters-one-year-anniversary-1236783864/",
+      "date": "Jun 18, 26",
+      "source": "Variety Music",
+      "layer": 3,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "record_breaking"
+      ]
+    },
+    {
+      "id": "6ed08517a145",
+      "title": "Platinum Equity to sell HVAC equipment supplier Heat Controller",
+      "summary": "Platinum Equity acquired Heat Controller in 2024 as part of its investment in Motors &#038; Armatures, Inc. The post Platinum Equity to sell HVAC equipment supplier Heat Controller appeared first on P",
+      "company": "Platinum Equity",
+      "link": "https://www.pehub.com/platinum-equity-to-sell-hvac-equipment-supplier-heat-controller/",
+      "date": "Jun 18, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
@@ -328,12 +296,12 @@
       ]
     },
     {
-      "id": "873a54cfc7ba",
-      "title": "Stephens Group-backed Aptus Aero snaps up aircraft repair firm EMC Aerospace",
-      "summary": "The transaction marks Aptus Aero\u2019s second acquisition following its acquisition of Atlas Aerospace Accessories, LLC earlier this year. The post Stephens Group-backed Aptus Aero snaps up aircraft repai",
-      "company": "Stephens Group-backed Aptus Aero",
-      "link": "https://www.pehub.com/stephens-group-backed-aptus-aero-snaps-up-aircraft-repair-firm-emc-aerospace/",
-      "date": "Jun 17, 26",
+      "id": "fbf1021c9d0a",
+      "title": "Avista-backed EBI acquires Precision Medical Products\u2019 bone healing unit Xstim",
+      "summary": "EBI is a provider of implantable and non-invasive bone growth stimulation solutions. The post Avista-backed EBI acquires Precision Medical Products&#8217; bone healing unit Xstim appeared first on PE ",
+      "company": "Avista-backed EBI",
+      "link": "https://www.pehub.com/avista-backed-ebi-acquires-precision-medical-products-bone-healing-unit-xstim/",
+      "date": "Jun 18, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
@@ -358,6 +326,21 @@
       ]
     },
     {
+      "id": "4707f42afb43",
+      "title": "Alter Domus scales private equity with two senior hires",
+      "summary": "Alter Domus has appointed two senior leaders to strengthen its private equity division as the business continues to expand its platform internationally. Justin Mayer has been named head of private equ",
+      "company": "Alter Domus",
+      "link": "https://www.altassets.net/premium/alter-domus-scales-private-equity-with-two-senior-hires.html",
+      "date": "Jun 18, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
       "id": "954830b66ae9",
       "title": "Realize Capital Partners confirms final close of Fund I on $276.7m",
       "summary": "Realize Capital Partners, a wholesaler for the Canadian government\u2019s Social Finance Fund, has closed its fund-of-funds fund on $267.7m in total capital. The blended finance, impact-fund-of-funds Reali",
@@ -370,21 +353,6 @@
       "score": 9,
       "moments": [
         "fund_launch"
-      ]
-    },
-    {
-      "id": "ce1002515390",
-      "title": "GIC moves to sell up to $2bn in private credit assets",
-      "summary": "Singapore\u2019s sovereign wealth fund GIC is preparing to divest as much as $2bn of private credit holdings, turning to the secondary market as institutional investors increasingly use portfolio sales to ",
-      "company": "GIC",
-      "link": "https://www.privateequitywire.co.uk/gic-moves-to-sell-up-to-2bn-in-private-credit-assets/",
-      "date": "Jun 17, 26",
-      "source": "PE Wire",
-      "layer": 3,
-      "access": "pe",
-      "score": 8,
-      "moments": [
-        "pe_investment"
       ]
     },
     {
@@ -403,42 +371,12 @@
       ]
     },
     {
-      "id": "21386e201f80",
-      "title": "On Netflix\u2019s World Cup Show, It\u2019s Still Called Football",
-      "summary": "When Netflix approached Goalhanger co-founder Tony Pastor last year, he assumed the streamer was interested in picking up a version of his podcast network\u2019s&#160;The Rest Is History. In their first me",
-      "company": "On Netflix\u2019s World Cup Show It\u2019s",
-      "link": "https://www.sportico.com/business/media/2026/world-cup-streaming-recap-show-netflix-podcast-lineker-1234909981/",
-      "date": "Jun 17, 26",
-      "source": "Sportico",
-      "layer": 3,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "ca9b0a42f6ae",
-      "title": "\u2018The night before I dreamt about my ACL\u2019: Everton\u2019s Aurora Galli on the long way back from injury | Moving the Goalposts",
-      "summary": "This week\u2019s newsletter spends a day with the Italy midfielder as she continues to battle her way back to a peak physical condition\u201cIt was accepting that I couldn\u2019t play football because it was my life",
-      "company": "\u2018The",
-      "link": "https://www.theguardian.com/football/2026/jun/17/the-night-before-i-dreamt-about-my-acl-evertons-aurora-galli-on-the-long-way-back-from-injury",
-      "date": "Jun 17, 26",
-      "source": "Guardian Sport",
-      "layer": 5,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "b72f8ba48270",
-      "title": "TPG to acquire Waste Eliminator and Liberty Waste Solutions",
-      "summary": "The seller of both businesses is Allied Industrial Partners. The post TPG to acquire Waste Eliminator and Liberty Waste Solutions appeared first on PE Hub.",
-      "company": "TPG to",
-      "link": "https://www.pehub.com/tpg-to-acquire-waste-eliminator-and-liberty-waste-solutions/",
-      "date": "Jun 17, 26",
+      "id": "de4fa84c31d3",
+      "title": "EQT to acquire satellite deployment tech business Exolaunch",
+      "summary": "Exolaunch provides mission management, satellite integration and deployment technologies for satellite operators. The post EQT to acquire satellite deployment tech business Exolaunch appeared first on",
+      "company": "EQT to",
+      "link": "https://www.pehub.com/eqt-to-acquire-satellite-deployment-tech-business-exolaunch/",
+      "date": "Jun 18, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
@@ -478,49 +416,60 @@
       ]
     },
     {
-      "id": "8d308adb448c",
-      "title": "Nearly half of investors expect to up EM private credit exposure, says Gemcorp survey",
-      "summary": "A growing share of institutional investors plan to raise allocations to emerging markets private credit over the next two years, despite persistent concerns over risk and limited current exposure, acc",
-      "company": "Nearly",
-      "link": "https://www.privateequitywire.co.uk/nearly-half-of-investors-expect-to-up-em-private-credit-exposure-says-gemcorp-survey/",
-      "date": "Jun 17, 26",
+      "id": "7e4a6bf67046",
+      "title": "Arizona emerges as test case for AI's energy and water crunch",
+      "summary": "PHOENIX \u2014 This desert region has become a bellwether for the nation's data center growth as the tech sector grapples with rising temperatures and scarce resources.Why it matters: Arizona is an extreme",
+      "company": "Arizona",
+      "link": "https://www.axios.com/2026/06/18/arizona-ai-data-center-water-power",
+      "date": "Jun 18, 26",
+      "source": "Axios",
+      "layer": 2,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "d07ae13d440e",
+      "title": "Lone Star emerges as lead bidder for Continental\u2019s ContiTech unit",
+      "summary": "Buyout firm Lone Star Funds has moved into pole position to acquire ContiTech, the industrial components division of Continental AG, according to a report by Bloomberg citing unnamed people familiar w",
+      "company": "Lone Star",
+      "link": "https://www.privateequitywire.co.uk/lone-star-emerges-as-lead-bidder-for-continentals-contitech-unit/",
+      "date": "Jun 18, 26",
       "source": "PE Wire",
       "layer": 5,
       "access": "pe",
       "score": 6,
       "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "44a703116a7f",
-      "title": "MarketAnywhere Emerges as the Best Flyer Distribution Service in the USA",
-      "summary": "As the best flyer distribution service in the USA, MarketAnywhere is giving businesses a smarter way to run local campaigns. As businesses increasingly look for ways to cut through digital ad fatigue,",
-      "company": "MarketAnywhere Emerges",
-      "link": "https://venuestoday.com/marketanywhere-emerges-as-the-best-flyer-distribution-service-in-the-usa/",
-      "date": "Jun 13, 26",
-      "source": "Venues Today",
-      "layer": 5,
-      "access": "pe",
-      "score": 6,
-      "moments": [
         "acquisition"
       ]
     },
     {
-      "id": "f3a1d1554548",
-      "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
-      "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
-      "company": "Navigating",
-      "link": "https://venuestoday.com/navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026/",
-      "date": "Apr 22, 26",
-      "source": "Venues Today",
+      "id": "e7eff00a7e55",
+      "title": "U.S. Hardscaping Products Market Size to Hit USD 6.50 Billion &amp; Tools Revenue to Reach USD 3.06 Billion by 2031 | Growth, Trends, Share &amp;...",
+      "summary": "Industry Analysis Report, Regional Outlook, Growth Potential, Price Trends, Competitive Market Share & Forecast 2026\u20132031 CHICAGO, June 18, 2026 /PRNewswire/ -- According to recent research by Arizton",
+      "company": "U.S Hardscaping Products Market Size",
+      "link": "https://www.prnewswire.com/news-releases/us-hardscaping-products-market-size-to-hit-usd-6-50-billion--tools-revenue-to-reach-usd-3-06-billion-by-2031--growth-trends-share--forecast--arizton-302804270.html",
+      "date": "Jun 18, 26",
+      "source": "PR Newswire",
+      "layer": 2,
+      "access": "pe",
+      "score": 14,
+      "moments": []
+    },
+    {
+      "id": "6d4380a3fa4c",
+      "title": "NITO Reelects Wayne Forte, Signals Continued Push on Ticketing Rules",
+      "summary": "The National Independent Talent Organization has elected a new slate of officers, keeping Wayne Forte of Entourage Talent Associates in... The post NITO Reelects Wayne Forte, Signals Continued Push on",
+      "company": "NITO Reelects Wayne Forte Signals Continued",
+      "link": "https://www.ticketnews.com/2026/06/nito-reelects-wayne-forte-signals-continued-push-on-ticketing-rules/",
+      "date": "Jun 17, 26",
+      "source": "Ticket News",
       "layer": 3,
       "access": "pe",
-      "score": 6,
-      "moments": [
-        "acquisition"
-      ]
+      "score": 7,
+      "moments": []
     },
     {
       "id": "582c7bd35869",
@@ -530,19 +479,6 @@
       "link": "https://www.latimes.com/entertainment-arts/music/story/2026-06-05/vinyl-records-are-hurting-environment-these-labels-are-helping",
       "date": "Jun 05, 26",
       "source": "LA Times Music",
-      "layer": 4,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "02ac9c3947d0",
-      "title": "\u2018Don\u2019t panic\u2019: Mikel Merino tells Spain to stay calm after Cape Verde setback",
-      "summary": "Midfielder says it is important the European champions have \u2018humility\u2019 after their disappointing draw against tournament debutantsThe mourning after isn\u2019t always easy, Mikel&nbsp;Merino says \u2013 and yes",
-      "company": "\u2018Don\u2019t",
-      "link": "https://www.theguardian.com/football/2026/jun/17/no-time-to-panic-mikel-merino-spain-cape-verde-setback",
-      "date": "Jun 17, 26",
-      "source": "Guardian Sport",
       "layer": 4,
       "access": "pe",
       "score": 5,
@@ -575,27 +511,27 @@
       "moments": []
     },
     {
-      "id": "7d5711babaf6",
-      "title": "Fred Again.. to host free production workshops for trans+ musicians in London",
-      "summary": "\u201cThis is an event to be celebrated for who you are and have a chance to learn from leading professionals in your field\u201d The post Fred Again.. to host free production workshops for trans+ musicians in ",
-      "company": "Fred Again",
-      "link": "https://www.nme.com/news/music/fred-again-to-host-free-production-workshops-for-trans-musicians-in-london-3951504?utm_source=rss&utm_medium=rss&utm_campaign=fred-again-to-host-free-production-workshops-for-trans-musicians-in-london",
-      "date": "Jun 17, 26",
-      "source": "NME",
-      "layer": 4,
+      "id": "22883c84accd",
+      "title": "Newsom says he's under investigation by the Justice Department",
+      "summary": "California Gov. Gavin Newsom said Monday that the U.S. Department of Justice has opened an investigation into him.Why it matters: Newsom alleged in a video that the DOJ is going after him at President",
+      "company": "Newsom",
+      "link": "https://www.axios.com/2026/06/15/newsom-trump-doj-investigation-2028-election-claims",
+      "date": "Jun 16, 26",
+      "source": "Axios",
+      "layer": 3,
       "access": "pe",
-      "score": 4,
+      "score": 5,
       "moments": []
     },
     {
-      "id": "8f95fdb4c719",
-      "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
-      "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
-      "company": "Global Times",
-      "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/",
-      "date": "May 09, 26",
-      "source": "Venues Today",
-      "layer": 4,
+      "id": "717d4e188d98",
+      "title": "How Este Haim reached out and touched Hollywood",
+      "summary": "The bass player of the beloved L.A. sister trio Haim composed the score for a new Netflix rom-com, 'Voicemails for Isabelle.'",
+      "company": "How Este Haim",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-06-18/este-haim-voicemails-for-isabelle-netflix-interview",
+      "date": "Jun 18, 26",
+      "source": "LA Times Music",
+      "layer": 3,
       "access": "pe",
       "score": 4,
       "moments": []
