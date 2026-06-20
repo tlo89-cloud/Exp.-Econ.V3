@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T15:30:08.733225+00:00",
-  "total": 38,
+  "generated": "2026-06-20T14:13:39.723885+00:00",
+  "total": 40,
   "scraped": [
     {
       "id": "1fc5f01c2ef3",
@@ -85,6 +85,53 @@
       ]
     },
     {
+      "id": "8c238451e66f",
+      "title": "Marine Corps Scholarship Foundation Announces Record-Breaking Scholarship Awards for 2026-2027 Academic Year",
+      "summary": "Largest scholarship investment in Foundation history provides over $12 million to support 2,906 children of Marines and Navy Corpsmen nationwide ALEXANDRIA, Va., June 20, 2026 /PRNewswire/ -- The Mari",
+      "company": "",
+      "link": "https://www.prnewswire.com/news-releases/marine-corps-scholarship-foundation-announces-record-breaking-scholarship-awards-for-2026-2027-academic-year-302805471.html",
+      "date": "Jun 20, 26",
+      "source": "PR Newswire",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "record_breaking",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "d468645b4458",
+      "title": "Alexis Smith of The Feminine Glow Emerges at the Center of the Feminine Energy Coaching Boom",
+      "summary": "DUBAI, UAE &#8211; &#160;The Feminine Glow, the fast-growing femininity and inner work platform founded by Alexis Smith, is gaining national attention as interest in coaching, self-development, and fe",
+      "company": "Alexis Smith",
+      "link": "https://venuestoday.com/alexis-smith-of-the-feminine-glow-emerges-at-the-center-of-the-feminine-energy-coaching-boom/",
+      "date": "Mar 29, 26",
+      "source": "Venues Today",
+      "layer": 2,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "acquisition",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "f08803cedc48",
+      "title": "Music Industry Moves: M\u00fda Signs With WME",
+      "summary": "Grammy and SAG Award-winning singer-actor M\u00fda has signed with WME for worldwide representation in all areas. The agency will work with M\u00fda across music, touring, brand partnerships, film, television, ",
+      "company": "Music Industry Moves",
+      "link": "https://variety.com/2026/music/news/linda-lindas-sign-with-reprise-warner-records-1236782104/",
+      "date": "Jun 19, 26",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 29,
+      "moments": [
+        "record_deal"
+      ]
+    },
+    {
       "id": "3c89d1e6f1f4",
       "title": "Bad Bunny Didn\u2019t Need the U.S. to Set Touring Records This Year",
       "summary": "Artist\u2019s Deb\u00ed Tirar M\u00e1s Fotos world tour is now highest grossing and best-selling tour in history to ignore the states, and his ticket sales have pushed him past $1 billion in gross sales",
@@ -130,6 +177,21 @@
       ]
     },
     {
+      "id": "6c250e94b064",
+      "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
+      "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
+      "company": "Kiro Eid Built",
+      "link": "https://venuestoday.com/kiro-eid-built-8x6-design-studio-here-is-how-he-did-it-without-a-network-or-shortcuts/",
+      "date": "Mar 28, 26",
+      "source": "Venues Today",
+      "layer": 2,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
       "id": "292f3f366b5b",
       "title": "Democratic Senators Urge FCC to Block Closing of Paramount-Warner Bros. Merger Until Review of Deal\u2019s Foreign Investment Concludes",
       "summary": "Three Democratic U.S. senators are urging the FCC to prevent Paramount Skydance from closing its $111 billion merger with Warner Bros. Discovery until the government&#8217;s national security review o",
@@ -145,61 +207,46 @@
       ]
     },
     {
-      "id": "7b42ecdf64bd",
-      "title": "Anti Fund closes oversubscribed $100m growth fund",
-      "summary": "Anti Fund, a venture and growth investment firm co-led by Geoffrey Woo and Jake Paul, has closed its oversubscribed $100m Anti Fund Growth I, a close which pushes the businesses&#8217; total assets un",
-      "company": "Anti Fund",
-      "link": "https://www.altassets.net/premium/anti-fund-closes-oversubscribed-100m-growth-fund.html",
+      "id": "6e9b285dfc0d",
+      "title": "Sportico Transactions: Moves and Mergers Roundup for June 19",
+      "summary": "Welcome to Sportico\u2019s transactions wire, a weekly rundown of personnel, partnerships and products across the sports business industry. PERSONNEL MLB Names Shimon Hoizumi Managing Director of Japan Maj",
+      "company": "Sportico Transactions",
+      "link": "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-roundup-june-19-1234936559/",
       "date": "Jun 19, 26",
-      "source": "AltAssets",
-      "layer": 1,
-      "access": "venture",
-      "score": 14,
-      "moments": [
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "f6c08a6e916b",
-      "title": "Variety Announces Brand Entertainment for Fans Event Spotlighting Leaders at Cannes Lions",
-      "summary": "Variety will host Brand Entertainment for Fans, presented by Walmart Connect, on Monday, June 22, during the Cannes Lions International Festival of Creativity, bringing together executives from Walmar",
-      "company": "Variety Announces Brand Entertainment",
-      "link": "https://variety.com/2026/biz/news/brand-entertainment-fans-event-cannes-lions-1236784116/",
-      "date": "Jun 17, 26",
-      "source": "Variety Biz",
+      "source": "Sportico",
       "layer": 1,
       "access": "pe",
-      "score": 13,
+      "score": 14,
       "moments": [
-        "streaming_milestone"
+        "acquisition"
       ]
     },
     {
-      "id": "baaebdf64670",
-      "title": "Lizzo\u2019s new album \u2018Bitch\u2019 fails to crack top 100 in UK or US",
-      "summary": "She has responded to claims that she has \"no fanbase\" by claiming there's been a \"very obvious and public attack on my career\" The post Lizzo&#8217;s new album &#8216;Bitch&#8217; fails to crack top 1",
-      "company": "Lizzo\u2019s",
-      "link": "https://www.nme.com/news/music/lizzos-new-album-bitch-fails-to-crack-top-100-in-uk-or-us-3951810?utm_source=rss&utm_medium=rss&utm_campaign=lizzos-new-album-bitch-fails-to-crack-top-100-in-uk-or-us",
+      "id": "d21287cb026d",
+      "title": "Albert Hammond Jr. explains delay of The Strokes\u2019 new album \u2018Reality Awaits\u2019",
+      "summary": "The guitarist has also released a new dance punk single with KennyHoopla titled 'NEW AMERICA//' The post Albert Hammond Jr. explains delay of The Strokes&#8217; new album &#8216;Reality Awaits&#8217; ",
+      "company": "Albert Hammond Jr",
+      "link": "https://www.nme.com/news/music/albert-hammond-jr-explains-delay-of-the-strokes-new-album-reality-awaits-3951976?utm_source=rss&utm_medium=rss&utm_campaign=albert-hammond-jr-explains-delay-of-the-strokes-new-album-reality-awaits",
       "date": "Jun 19, 26",
       "source": "NME",
       "layer": 1,
       "access": "pe",
-      "score": 13,
+      "score": 14,
       "moments": [
         "album_announcement"
       ]
     },
     {
-      "id": "c90d4a43ad72",
-      "title": "Caleb Caudle Tackles the \u2018Chaos of the World\u2019 As an Indie Singer-Songwriter on New Album",
-      "summary": "Heavy Thrill, recorded at Johnny Cash's cabin, follows the North Carolina native as he launches his own label, prepares to become a parent, and grapples with anxiety",
-      "company": "Caleb Caudle Tackles",
-      "link": "https://www.rollingstone.com/music/music-features/caleb-caudle-heavy-thrill-album-cash-cabin-1235580959/",
+      "id": "f4e8e1656c4d",
+      "title": "The Rolling Stones announce new official podcast \u2018Speaking In Tongues\u2019 featuring The Cure\u2019s Robert Smith, Andrew Watt and more",
+      "summary": "It comes ahead of the release of their new album \u2018Foreign Tongues\u2018 on July 10 The post The Rolling Stones announce new official podcast &#8216;Speaking In Tongues&#8217; featuring The Cure&#8217;s Rob",
+      "company": "The Rolling Stones",
+      "link": "https://www.nme.com/news/music/the-rolling-stones-announce-new-official-podcast-speaking-in-tongues-featuring-the-cures-robert-smith-andrew-watt-and-more-3951950?utm_source=rss&utm_medium=rss&utm_campaign=the-rolling-stones-announce-new-official-podcast-speaking-in-tongues-featuring-the-cures-robert-smith-andrew-watt-and-more",
       "date": "Jun 19, 26",
-      "source": "Rolling Stone Music",
+      "source": "NME",
       "layer": 1,
       "access": "pe",
-      "score": 12,
+      "score": 14,
       "moments": [
         "album_announcement"
       ]
@@ -250,33 +297,18 @@
       ]
     },
     {
-      "id": "6fc7e05a8ba0",
-      "title": "Patriots Sue Town of Foxborough Over \u2018Uncollectible\u2019 Stadium Fees",
-      "summary": "The New England Patriots on Monday sued Foxborough, Mass.\u2014the town where their team facilities and Gilette Stadium are located\u2014accusing town leaders of illegally scheming to raise what should be a $10",
-      "company": "Patriots Sue Town",
-      "link": "https://www.sportico.com/law/analysis/2026/patriots-sue-foxborough-1234936398/",
-      "date": "Jun 17, 26",
-      "source": "Sportico",
-      "layer": 2,
+      "id": "ed24e331be68",
+      "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
+      "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
+      "company": "Niloufar Banisaied",
+      "link": "https://venuestoday.com/niloufar-banisaied-is-bringing-timeless-design-and-the-guest-experience-at-the-forefront/",
+      "date": "Jun 09, 26",
+      "source": "Venues Today",
+      "layer": 4,
       "access": "pe",
-      "score": 9,
+      "score": 11,
       "moments": [
-        "funding_round"
-      ]
-    },
-    {
-      "id": "47494344138a",
-      "title": "How \u2018KPop Demon Hunters\u2019 Spent an Entire Year as a Blockbuster for Netflix (EXCLUSIVE)",
-      "summary": "June 20 marks the one-year anniversary of Netflix\u2019s \u201cKPop Demon Hunters\u201d release. Since then, the animated feature has spent 52 consecutive weeks on the streamer&#8217;s Top 10 list, shattering record",
-      "company": "How \u2018KPop Demon Hunters\u2019 Spent",
-      "link": "https://variety.com/2026/film/news/kpop-demon-hunters-one-year-anniversary-1236783864/",
-      "date": "Jun 18, 26",
-      "source": "Variety Music",
-      "layer": 3,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "record_breaking"
+        "company_launch"
       ]
     },
     {
@@ -355,18 +387,18 @@
       ]
     },
     {
-      "id": "954830b66ae9",
-      "title": "Realize Capital Partners confirms final close of Fund I on $276.7m",
-      "summary": "Realize Capital Partners, a wholesaler for the Canadian government\u2019s Social Finance Fund, has closed its fund-of-funds fund on $267.7m in total capital. The blended finance, impact-fund-of-funds Reali",
-      "company": "Realize Capital Partners confirms final",
-      "link": "https://www.altassets.net/premium/realize-capital-partners-confirms-final-close-of-fund-i-on-276-7m.html",
-      "date": "Jun 17, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
+      "id": "e9881b1c7311",
+      "title": "GeneDx Holdings Securities Fraud Class Action Result of Acquisition Performance Misrepresentations and 49% Stock Decline - Investors may Contact...",
+      "summary": "NEW YORK CITY and NEW ORLEANS, June 19, 2026 /PRNewswire/ -- Kahn Swick & Foti, LLC (\"KSF\") and KSF partner, former Attorney General of Louisiana, Charles C. Foti, Jr., remind investors with substanti",
+      "company": "",
+      "link": "https://www.prnewswire.com/news-releases/genedx-holdings-securities-fraud-class-action-result-of-acquisition-performance-misrepresentations-and-49-stock-decline---investors-may-contact-lewis-kahn-esq-at-kahn-swick--foti-llc-302805582.html",
+      "date": "Jun 20, 26",
+      "source": "PR Newswire",
+      "layer": 4,
+      "access": "public",
       "score": 9,
       "moments": [
-        "fund_launch"
+        "acquisition"
       ]
     },
     {
@@ -415,6 +447,21 @@
       ]
     },
     {
+      "id": "f3a1d1554548",
+      "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
+      "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
+      "company": "Navigating",
+      "link": "https://venuestoday.com/navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026/",
+      "date": "Apr 22, 26",
+      "source": "Venues Today",
+      "layer": 3,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
       "id": "40c9ad23cf3d",
       "title": "Prominent Economists Back States\u2019 Damages Theory In Live Nation/Ticketmaster Antitrust Fight",
       "summary": "Three prominent antitrust economists are seeking to weigh in against Live Nation and Ticketmaster\u2019s effort to knock out the damages... The post Prominent Economists Back States\u2019 Damages Theory In Live",
@@ -441,40 +488,14 @@
       "moments": []
     },
     {
-      "id": "01824ba2b74d",
-      "title": "Fuerza Regida Kicks Off This Is Our Dream Stadium Tour 2026: Every Song From Their First Show",
-      "summary": "The m\u00fasica mexicana hitmakers launched their landmark stateside run on Thursday (June 18) at Petco Park, home of the San Diego Padres.",
-      "company": "Fuerza Regida Kicks Off This Is",
-      "link": "https://www.billboard.com/lists/fuerza-regida-this-is-our-dream-stadium-tour-2026-setlist/",
+      "id": "514100df743b",
+      "title": "Fuerza Regida Turns Petco Park Into a Corridos Time Machine: 6 Best Moments From Opening Night of Their Stadium Tour",
+      "summary": "The SoCal superstars launched their first-ever U.S. stadium trek with a high-concept show that moved through the band\u2019s past, present and future.",
+      "company": "Fuerza Regida Turns Petco Park Into",
+      "link": "https://www.billboard.com/lists/fuerza-regida-stadium-tour-san-diego-petco-park-recap/",
       "date": "Jun 19, 26",
       "source": "Billboard",
       "layer": 2,
-      "access": "pe",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "2cca61d0663d",
-      "title": "Ariana Grande review - glittering hits and powerhouse vocals in stunning return to stage",
-      "summary": "Crypto.com Arena, Los AngelesThe pop star\u2019s first tour in seven years brought the house down with emotive ballads and clubby bangers delivered with saucy witIf faced with the choice to erase one\u2019s mos",
-      "company": "Ariana Grande",
-      "link": "https://www.theguardian.com/music/2026/jun/14/ariana-grande-eternal-sunshine-tour-review-la",
-      "date": "Jun 14, 26",
-      "source": "Guardian Music",
-      "layer": 2,
-      "access": "pe",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "367271ef3339",
-      "title": "LUMIQ Raises Strategic Funding to Become the AI Decision Layer for Financial Services",
-      "summary": "While most AI in financial services remains advisory, LUMIQ has built the layer that owns the decision \u2014 autonomous, auditable AI agents making regulated calls in production at leading banks, insurers",
-      "company": "LUMIQ Raises Strategic Funding",
-      "link": "https://www.prnewswire.com/news-releases/lumiq-raises-strategic-funding-to-become-the-ai-decision-layer-for-financial-services-302805244.html",
-      "date": "Jun 19, 26",
-      "source": "PR Newswire",
-      "layer": 4,
       "access": "pe",
       "score": 8,
       "moments": []
@@ -490,6 +511,32 @@
       "layer": 4,
       "access": "pe",
       "score": 7,
+      "moments": []
+    },
+    {
+      "id": "5ff7801f831c",
+      "title": "US players agree with Zlatan Ibrahimovic that World Cup title is possible: \u2018That\u2019s our mindset\u2019",
+      "summary": "US qualify for knockout stage after victory over AustraliaFormer Sweden striker says Americans are contendersUS men\u2019s team\u2019s last semi-final came in 1930After two wins in two to start the World Cup, t",
+      "company": "US",
+      "link": "https://www.theguardian.com/football/2026/jun/19/usa-world-cup-zlatan-ibrahimovic-comments",
+      "date": "Jun 20, 26",
+      "source": "Guardian Sport",
+      "layer": 3,
+      "access": "pe",
+      "score": 7,
+      "moments": []
+    },
+    {
+      "id": "f41f357bcf35",
+      "title": "Brian Large, Who Brought Opera Vividly to Life on Film, Dies at 89",
+      "summary": "In a directing career that included over 70 Met Opera broadcasts, he said his work was \u201cdictated by the music, by key change, by orchestration, by phrasing.\u201d",
+      "company": "Brian Large Who Brought Opera Vividly",
+      "link": "https://www.nytimes.com/2026/06/19/arts/music/brian-large-dead.html",
+      "date": "Jun 19, 26",
+      "source": "NYT Arts",
+      "layer": 3,
+      "access": "pe",
+      "score": 5,
       "moments": []
     },
     {
@@ -519,14 +566,14 @@
       "moments": []
     },
     {
-      "id": "b1eff50bc701",
-      "title": "\u2018The cops bought me an egg and cheese muffin\u2019: Boston\u2019s love affair with Tartan Army goes on",
-      "summary": "Scotland fans in the Massachusetts city awaiting their game against Morocco have continued to make an impression on the localsOn Thursday afternoon, local broadcasters in Boston went live to an event ",
-      "company": "\u2018The",
-      "link": "https://www.theguardian.com/football/2026/jun/19/the-cops-bought-me-an-egg-and-cheese-muffin-bostons-love-affair-with-tartan-army-goes-on",
-      "date": "Jun 19, 26",
-      "source": "Guardian Sport",
-      "layer": 3,
+      "id": "9c348660c596",
+      "title": "World Cup tourists discover America \u2014 and delight us all",
+      "summary": "The 2026 World Cup is generating a veritable army of modern-day de Tocquevilles discovering America.Why it matters: It's a huge moment for U.S. soft power, as the country nears its 250 birthday with a",
+      "company": "World Cup",
+      "link": "https://www.axios.com/2026/06/20/world-cup-tourists",
+      "date": "Jun 20, 26",
+      "source": "Axios",
+      "layer": 4,
       "access": "pe",
       "score": 5,
       "moments": []
@@ -540,19 +587,6 @@
       "date": "Jun 19, 26",
       "source": "Variety Biz",
       "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "717d4e188d98",
-      "title": "How Este Haim reached out and touched Hollywood",
-      "summary": "The bass player of the beloved L.A. sister trio Haim composed the score for a new Netflix rom-com, 'Voicemails for Isabelle.'",
-      "company": "How Este Haim",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-06-18/este-haim-voicemails-for-isabelle-netflix-interview",
-      "date": "Jun 18, 26",
-      "source": "LA Times Music",
-      "layer": 3,
       "access": "pe",
       "score": 4,
       "moments": []
