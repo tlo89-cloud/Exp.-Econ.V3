@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-20T14:13:39.723885+00:00",
+  "generated": "2026-06-21T14:20:55.395669+00:00",
   "total": 40,
   "scraped": [
     {
@@ -85,22 +85,6 @@
       ]
     },
     {
-      "id": "8c238451e66f",
-      "title": "Marine Corps Scholarship Foundation Announces Record-Breaking Scholarship Awards for 2026-2027 Academic Year",
-      "summary": "Largest scholarship investment in Foundation history provides over $12 million to support 2,906 children of Marines and Navy Corpsmen nationwide ALEXANDRIA, Va., June 20, 2026 /PRNewswire/ -- The Mari",
-      "company": "",
-      "link": "https://www.prnewswire.com/news-releases/marine-corps-scholarship-foundation-announces-record-breaking-scholarship-awards-for-2026-2027-academic-year-302805471.html",
-      "date": "Jun 20, 26",
-      "source": "PR Newswire",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "record_breaking",
-        "company_launch"
-      ]
-    },
-    {
       "id": "d468645b4458",
       "title": "Alexis Smith of The Feminine Glow Emerges at the Center of the Feminine Energy Coaching Boom",
       "summary": "DUBAI, UAE &#8211; &#160;The Feminine Glow, the fast-growing femininity and inner work platform founded by Alexis Smith, is gaining national attention as interest in coaching, self-development, and fe",
@@ -132,18 +116,18 @@
       ]
     },
     {
-      "id": "3c89d1e6f1f4",
-      "title": "Bad Bunny Didn\u2019t Need the U.S. to Set Touring Records This Year",
-      "summary": "Artist\u2019s Deb\u00ed Tirar M\u00e1s Fotos world tour is now highest grossing and best-selling tour in history to ignore the states, and his ticket sales have pushed him past $1 billion in gross sales",
-      "company": "Bad Bunny Didn\u2019t Need",
-      "link": "https://www.rollingstone.com/music/music-news/bad-bunny-tour-sets-records-1235580418/",
-      "date": "Jun 18, 26",
-      "source": "Rolling Stone News",
-      "layer": 1,
+      "id": "475a60c1f4e1",
+      "title": "Boutiqaat Positioned for a New Era of Expansion Following Reported IPO Plans",
+      "summary": "Bloomberg reports that Goldman Sachs is working on a potential IPO for Boutiqaat, which could take place as early as Q1 2027 Boutiqaat is seeking a valuation exceeding US$1 billion, reflecting its str",
+      "company": "Boutiqaat Positioned",
+      "link": "https://www.prnewswire.com/news-releases/boutiqaat-positioned-for-a-new-era-of-expansion-following-reported-ipo-plans-302805876.html",
+      "date": "Jun 21, 26",
+      "source": "PR Newswire",
+      "layer": 5,
       "access": "pe",
-      "score": 23,
+      "score": 18,
       "moments": [
-        "record_breaking"
+        "ipo"
       ]
     },
     {
@@ -222,33 +206,63 @@
       ]
     },
     {
-      "id": "d21287cb026d",
-      "title": "Albert Hammond Jr. explains delay of The Strokes\u2019 new album \u2018Reality Awaits\u2019",
-      "summary": "The guitarist has also released a new dance punk single with KennyHoopla titled 'NEW AMERICA//' The post Albert Hammond Jr. explains delay of The Strokes&#8217; new album &#8216;Reality Awaits&#8217; ",
-      "company": "Albert Hammond Jr",
-      "link": "https://www.nme.com/news/music/albert-hammond-jr-explains-delay-of-the-strokes-new-album-reality-awaits-3951976?utm_source=rss&utm_medium=rss&utm_campaign=albert-hammond-jr-explains-delay-of-the-strokes-new-album-reality-awaits",
+      "id": "7b42ecdf64bd",
+      "title": "Anti Fund closes oversubscribed $100m growth fund",
+      "summary": "Anti Fund, a venture and growth investment firm co-led by Geoffrey Woo and Jake Paul, has closed its oversubscribed $100m Anti Fund Growth I, a close which pushes the businesses&#8217; total assets un",
+      "company": "Anti Fund",
+      "link": "https://www.altassets.net/premium/anti-fund-closes-oversubscribed-100m-growth-fund.html",
       "date": "Jun 19, 26",
-      "source": "NME",
+      "source": "AltAssets",
       "layer": 1,
-      "access": "pe",
+      "access": "venture",
       "score": 14,
       "moments": [
-        "album_announcement"
+        "fund_launch"
       ]
     },
     {
-      "id": "f4e8e1656c4d",
-      "title": "The Rolling Stones announce new official podcast \u2018Speaking In Tongues\u2019 featuring The Cure\u2019s Robert Smith, Andrew Watt and more",
-      "summary": "It comes ahead of the release of their new album \u2018Foreign Tongues\u2018 on July 10 The post The Rolling Stones announce new official podcast &#8216;Speaking In Tongues&#8217; featuring The Cure&#8217;s Rob",
-      "company": "The Rolling Stones",
-      "link": "https://www.nme.com/news/music/the-rolling-stones-announce-new-official-podcast-speaking-in-tongues-featuring-the-cures-robert-smith-andrew-watt-and-more-3951950?utm_source=rss&utm_medium=rss&utm_campaign=the-rolling-stones-announce-new-official-podcast-speaking-in-tongues-featuring-the-cures-robert-smith-andrew-watt-and-more",
-      "date": "Jun 19, 26",
+      "id": "f6c08a6e916b",
+      "title": "Variety Announces Brand Entertainment for Fans Event Spotlighting Leaders at Cannes Lions",
+      "summary": "Variety will host Brand Entertainment for Fans, presented by Walmart Connect, on Monday, June 22, during the Cannes Lions International Festival of Creativity, bringing together executives from Walmar",
+      "company": "Variety Announces Brand Entertainment",
+      "link": "https://variety.com/2026/biz/news/brand-entertainment-fans-event-cannes-lions-1236784116/",
+      "date": "Jun 17, 26",
+      "source": "Variety Biz",
+      "layer": 1,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "streaming_milestone"
+      ]
+    },
+    {
+      "id": "4db0f38fec2b",
+      "title": "Graham Coxon: \u201cI\u2019ve always wondered about relevance \u2013 there seems to be this forever-changing front row\u201d",
+      "summary": "The Blur guitarist tells NME about the romance and nostalgia of the now-emerged \"lost\" album 'Castle Park', finding his confidence as a solo artist, and why he and Damon Albarn will be working togethe",
+      "company": "Graham Coxon",
+      "link": "https://www.nme.com/news/music/graham-coxon-interview-castle-park-solo-albums-future-blur-tour-3952085?utm_source=rss&utm_medium=rss&utm_campaign=graham-coxon-interview-castle-park-solo-albums-future-blur-tour",
+      "date": "Jun 21, 26",
       "source": "NME",
       "layer": 1,
       "access": "pe",
-      "score": 14,
+      "score": 13,
       "moments": [
-        "album_announcement"
+        "acquisition"
+      ]
+    },
+    {
+      "id": "638c58d1f2c3",
+      "title": "Katy Perry says she lost her \u201croar\u201d, teases new material at Rock in Rio Lisbon 2026",
+      "summary": "Katy Perry headlined Rock In Rio Lisbon last night (July 20), where she played her new song \u2018Watch It Burn\u2019 and also admitted that she \u201clost her roar\u201d amid a torrid 2025. Wearing the same outfit that ",
+      "company": "Katy Perry",
+      "link": "https://www.nme.com/news/music/katy-perry-lost-her-roar-new-material-at-rock-in-rio-lisboa-2026-3952182?utm_source=rss&utm_medium=rss&utm_campaign=katy-perry-lost-her-roar-new-material-at-rock-in-rio-lisboa-2026",
+      "date": "Jun 21, 26",
+      "source": "NME",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "festival_headliner"
       ]
     },
     {
@@ -279,6 +293,21 @@
       "score": 12,
       "moments": [
         "acquisition"
+      ]
+    },
+    {
+      "id": "d29965cdc126",
+      "title": "THE WEEKND KICKS OFF EUROPEAN LEG OF RECORD-BREAKING AFTER HOURS TIL DAWN TOUR WITH TWO SOLD-OUT SHOWS AT COPENHAGEN'S PARKEN STADIUM",
+      "summary": "\u20ac1 From Every Ticket Sold Across the European Tour Supports the World Food Programme Through the XO Humanitarian Fund and Global Citizen Hi Res photos: www.gettyimages.co.uk/search/events/776514872 PH",
+      "company": "THE WEEKND KICKS OFF EUROPEAN LEG",
+      "link": "https://www.prnewswire.com/news-releases/the-weeknd-kicks-off-european-leg-of-record-breaking-after-hours-til-dawn-tour-with-two-sold-out-shows-at-copenhagens-parken-stadium-302805856.html",
+      "date": "Jun 21, 26",
+      "source": "PR Newswire",
+      "layer": 2,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "record_breaking"
       ]
     },
     {
@@ -372,36 +401,6 @@
       ]
     },
     {
-      "id": "4707f42afb43",
-      "title": "Alter Domus scales private equity with two senior hires",
-      "summary": "Alter Domus has appointed two senior leaders to strengthen its private equity division as the business continues to expand its platform internationally. Justin Mayer has been named head of private equ",
-      "company": "Alter Domus",
-      "link": "https://www.altassets.net/premium/alter-domus-scales-private-equity-with-two-senior-hires.html",
-      "date": "Jun 18, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "e9881b1c7311",
-      "title": "GeneDx Holdings Securities Fraud Class Action Result of Acquisition Performance Misrepresentations and 49% Stock Decline - Investors may Contact...",
-      "summary": "NEW YORK CITY and NEW ORLEANS, June 19, 2026 /PRNewswire/ -- Kahn Swick & Foti, LLC (\"KSF\") and KSF partner, former Attorney General of Louisiana, Charles C. Foti, Jr., remind investors with substanti",
-      "company": "",
-      "link": "https://www.prnewswire.com/news-releases/genedx-holdings-securities-fraud-class-action-result-of-acquisition-performance-misrepresentations-and-49-stock-decline---investors-may-contact-lewis-kahn-esq-at-kahn-swick--foti-llc-302805582.html",
-      "date": "Jun 20, 26",
-      "source": "PR Newswire",
-      "layer": 4,
-      "access": "public",
-      "score": 9,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
       "id": "63305d18bd4f",
       "title": "This startup\u2019s super metals could soon be in military drones, luxury watches, and chef\u2019s knives",
       "summary": "Instead of heating metals, Foundation Alloy beats them into submission. The startup has raised $22 million to scale up production of its alloys.",
@@ -488,14 +487,14 @@
       "moments": []
     },
     {
-      "id": "514100df743b",
-      "title": "Fuerza Regida Turns Petco Park Into a Corridos Time Machine: 6 Best Moments From Opening Night of Their Stadium Tour",
-      "summary": "The SoCal superstars launched their first-ever U.S. stadium trek with a high-concept show that moved through the band\u2019s past, present and future.",
-      "company": "Fuerza Regida Turns Petco Park Into",
-      "link": "https://www.billboard.com/lists/fuerza-regida-stadium-tour-san-diego-petco-park-recap/",
-      "date": "Jun 19, 26",
-      "source": "Billboard",
-      "layer": 2,
+      "id": "e2f729a2743b",
+      "title": "The French aristocrat and the all-American idiot: Henry v Lalas is the World Cup\u2019s most compelling battle",
+      "summary": "Fox\u2019s broadcast at the tournament has become a story of two contrasting styles. And there is one clear winnerWe all know someone like Alexi Lalas. He\u2019s the ranter whose rants never actually say anythi",
+      "company": "The French",
+      "link": "https://www.theguardian.com/football/2026/jun/21/thierry-henry-alexi-lalas-fox-world-cup",
+      "date": "Jun 21, 26",
+      "source": "Guardian Sport",
+      "layer": 3,
       "access": "pe",
       "score": 8,
       "moments": []
@@ -509,19 +508,6 @@
       "date": "Jun 18, 26",
       "source": "Variety Music",
       "layer": 4,
-      "access": "pe",
-      "score": 7,
-      "moments": []
-    },
-    {
-      "id": "5ff7801f831c",
-      "title": "US players agree with Zlatan Ibrahimovic that World Cup title is possible: \u2018That\u2019s our mindset\u2019",
-      "summary": "US qualify for knockout stage after victory over AustraliaFormer Sweden striker says Americans are contendersUS men\u2019s team\u2019s last semi-final came in 1930After two wins in two to start the World Cup, t",
-      "company": "US",
-      "link": "https://www.theguardian.com/football/2026/jun/19/usa-world-cup-zlatan-ibrahimovic-comments",
-      "date": "Jun 20, 26",
-      "source": "Guardian Sport",
-      "layer": 3,
       "access": "pe",
       "score": 7,
       "moments": []
@@ -586,6 +572,19 @@
       "link": "https://variety.com/2026/biz/news/lg-oled-evo-ai-g6-next-generation-oled-tv-that-meets-hollywood-1236785615/",
       "date": "Jun 19, 26",
       "source": "Variety Biz",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "db09f9fde8ed",
+      "title": "Mutares agrees to carve out Synthomer",
+      "summary": "Synthomer is a producer and supplier of acrylic acids and acrylic esters. The post Mutares agrees to carve out Synthomer appeared first on PE Hub.",
+      "company": "Mutares",
+      "link": "https://www.pehub.com/mutares-agrees-to-carve-out-synthomer/",
+      "date": "Jun 19, 26",
+      "source": "PE Hub",
       "layer": 4,
       "access": "pe",
       "score": 4,
