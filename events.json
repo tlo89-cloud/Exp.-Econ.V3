@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T14:20:55.395669+00:00",
-  "total": 40,
+  "generated": "2026-06-22T17:04:45.194869+00:00",
+  "total": 39,
   "scraped": [
     {
       "id": "1fc5f01c2ef3",
@@ -21,6 +21,38 @@
       ]
     },
     {
+      "id": "13c33be7bca0",
+      "title": "INVL Family Office launches PE secondaries fund",
+      "summary": "INVL Family Office has launched a new fund giving investors access to the global private equity secondary market. The Global PE Secondaries Access Fund will channel capital into a secondary platform m",
+      "company": "INVL Family Office",
+      "link": "https://www.altassets.net/premium/invl-family-office-launches-pe-secondaries-fund.html",
+      "date": "Jun 22, 26",
+      "source": "AltAssets",
+      "layer": 1,
+      "access": "pe",
+      "score": 20,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "33cca9212f36",
+      "title": "MSP Sports Capital acquires majority stake in New Zealand SailGP",
+      "summary": "New York-based private equity investor MSP Sports Capital has acquired a majority stake in New Zealand\u2019s SailGP team, the Black Foils, further extending its sports portfolio and marking another step i",
+      "company": "MSP Sports Capital",
+      "link": "https://www.privateequitywire.co.uk/msp-sports-capital-acquires-majority-stake-in-new-zealand-sailgp/",
+      "date": "Jun 22, 26",
+      "source": "PE Wire",
+      "layer": 1,
+      "access": "pe",
+      "score": 19,
+      "moments": [
+        "acquisition",
+        "pe_investment"
+      ]
+    },
+    {
       "id": "f1f963455aee",
       "title": "Deal Roundup: Montagu set to acquire majority stake in BMC Helix, Bull Moose to snap up Hanna Steel",
       "summary": "Montagu, a leading mid-market private equity firm, has agreed to acquire a majority stake in BMC Helix in a carve-out transaction from BMC Software. Funds managed by KKR, a leading global investment f",
@@ -37,19 +69,35 @@
       ]
     },
     {
-      "id": "e19ce0f319c2",
-      "title": "Thoma Bravo seeks AI-era reset after Medallia loss raises investor scrutiny",
-      "summary": "Private equity firm Thoma Bravo is repositioning itself for the AI era as founder Orlando Bravo works to reassure investors that a major loss on a high-profile software deal is an isolated setback rat",
-      "company": "Thoma Bravo",
-      "link": "https://www.privateequitywire.co.uk/thoma-bravo-seeks-ai-era-reset-after-medallia-loss-raises-investor-scrutiny/",
-      "date": "Jun 19, 26",
+      "id": "968b8e210d04",
+      "title": "Seedcamp raises $320M for its new fund to expand its US footprint",
+      "summary": "After 18 years of focusing on Europe, early-stage investor Seedcamp said that it has raised $320 million for its latest fund which will see it expanding its presence in the United States.",
+      "company": "Seedcamp",
+      "link": "https://techcrunch.com/2026/06/22/seedcamp-raises-320m-for-its-new-fund-to-expand-its-us-footprint/",
+      "date": "Jun 22, 26",
+      "source": "TechCrunch Venture",
+      "layer": 1,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "funding_round",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "4d2bd1db8b08",
+      "title": "Abu Dhabi SWFs commit \u00a31.5bn to back EQT\u2019s Intertek acquisition",
+      "summary": "Two of Abu Dhabi\u2019s largest sovereign investors have pledged \u00a31.5bn ($1.9bn) in financing support for EQT AB\u2019s proposed acquisition of UK-listed testing and assurance group Intertek Group, underscoring",
+      "company": "Abu Dhabi SWFs",
+      "link": "https://www.privateequitywire.co.uk/abu-dhabi-swfs-commit-1-5bn-to-back-eqts-intertek-acquisition/",
+      "date": "Jun 22, 26",
       "source": "PE Wire",
       "layer": 5,
       "access": "pe",
       "score": 16,
       "moments": [
-        "pe_investment",
-        "company_launch"
+        "acquisition",
+        "pe_investment"
       ]
     },
     {
@@ -69,22 +117,6 @@
       ]
     },
     {
-      "id": "b813d6a8c4ac",
-      "title": "Companies for sale updates: KKR invests in Crowe, LongRange acquires Pizza Hut",
-      "summary": "PE firms are sitting record highs of dry powder capital and the rate of companies testing the market remains sky high, despite a slowness in deals coming to fruition. The post Companies for sale updat",
-      "company": "Companies for sale updates",
-      "link": "https://www.pehub.com/companies-for-sale-updates-kkr-invests-in-crowe-longrange-acquires-pizza-hut/",
-      "date": "Jun 18, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "acquisition",
-        "pe_investment"
-      ]
-    },
-    {
       "id": "d468645b4458",
       "title": "Alexis Smith of The Feminine Glow Emerges at the Center of the Feminine Energy Coaching Boom",
       "summary": "DUBAI, UAE &#8211; &#160;The Feminine Glow, the fast-growing femininity and inner work platform founded by Alexis Smith, is gaining national attention as interest in coaching, self-development, and fe",
@@ -101,33 +133,18 @@
       ]
     },
     {
-      "id": "f08803cedc48",
-      "title": "Music Industry Moves: M\u00fda Signs With WME",
-      "summary": "Grammy and SAG Award-winning singer-actor M\u00fda has signed with WME for worldwide representation in all areas. The agency will work with M\u00fda across music, touring, brand partnerships, film, television, ",
-      "company": "Music Industry Moves",
-      "link": "https://variety.com/2026/music/news/linda-lindas-sign-with-reprise-warner-records-1236782104/",
-      "date": "Jun 19, 26",
-      "source": "Variety Music",
+      "id": "e089e8d85753",
+      "title": "Gorillaz review \u2013 a staggering hi-tech mini-festival from the magpie mind of Damon Albarn",
+      "summary": "Tottenham Hotspur Stadium, LondonA stream of high-profile guest stars included Johnny Marr, Little Simz, Shaun Ryder, Sparks, Yasiin Bey, Bootie Brown and Fatoumata DiawaraGorillaz\u2019s first stadium sho",
+      "company": "Gorillaz",
+      "link": "https://www.theguardian.com/music/2026/jun/21/gorillaz-review-damon-albarn-spurs-stadium",
+      "date": "Jun 21, 26",
+      "source": "Guardian Music",
       "layer": 1,
       "access": "pe",
-      "score": 29,
+      "score": 17,
       "moments": [
-        "record_deal"
-      ]
-    },
-    {
-      "id": "475a60c1f4e1",
-      "title": "Boutiqaat Positioned for a New Era of Expansion Following Reported IPO Plans",
-      "summary": "Bloomberg reports that Goldman Sachs is working on a potential IPO for Boutiqaat, which could take place as early as Q1 2027 Boutiqaat is seeking a valuation exceeding US$1 billion, reflecting its str",
-      "company": "Boutiqaat Positioned",
-      "link": "https://www.prnewswire.com/news-releases/boutiqaat-positioned-for-a-new-era-of-expansion-following-reported-ipo-plans-302805876.html",
-      "date": "Jun 21, 26",
-      "source": "PR Newswire",
-      "layer": 5,
-      "access": "pe",
-      "score": 18,
-      "moments": [
-        "ipo"
+        "festival_headliner"
       ]
     },
     {
@@ -146,21 +163,6 @@
       ]
     },
     {
-      "id": "25808e9f9783",
-      "title": "Post your questions for Vini Reilly of the Durutti Column",
-      "summary": "Ahead of the band\u2019s first new album in 16 years, the hugely influential guitarist will be taking your questions for the Guardian Film &amp; Music reader interviewAt the end of July, the Durutti Column",
-      "company": "Post",
-      "link": "https://www.theguardian.com/culture/2026/jun/19/post-your-questions-for-the-durutti-column-vini-reilly",
-      "date": "Jun 19, 26",
-      "source": "Guardian Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
       "id": "6c250e94b064",
       "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
       "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
@@ -173,6 +175,21 @@
       "score": 16,
       "moments": [
         "company_launch"
+      ]
+    },
+    {
+      "id": "eb7c9867ec4e",
+      "title": "Jonny Greenwood on Why His New Album With Shye Ben Tzur and the Rajasthan Express Took a Decade to Make and \u2018Hoping to Do Another\u2019 Radiohead Tour",
+      "summary": "It took Radiohead guitarist Jonny Greenwood more than a decade to follow acclaimed 2015 album &#8220;Junun.&#8221; A musician died. A pandemic intervened. And then there were the visas. &#8220;Ranjha,",
+      "company": "Jonny Greenwood",
+      "link": "https://variety.com/2026/music/news/jonny-greenwood-new-album-ranjha-another-radiohead-tour-1236787146/",
+      "date": "Jun 22, 26",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "album_announcement"
       ]
     },
     {
@@ -191,78 +208,33 @@
       ]
     },
     {
-      "id": "6e9b285dfc0d",
-      "title": "Sportico Transactions: Moves and Mergers Roundup for June 19",
-      "summary": "Welcome to Sportico\u2019s transactions wire, a weekly rundown of personnel, partnerships and products across the sports business industry. PERSONNEL MLB Names Shimon Hoizumi Managing Director of Japan Maj",
-      "company": "Sportico Transactions",
-      "link": "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-roundup-june-19-1234936559/",
-      "date": "Jun 19, 26",
-      "source": "Sportico",
+      "id": "573e8c585161",
+      "title": "Spotify Launches \u2018Reserved\u2019 Ticket Presale Program for Top U.S. Fans",
+      "summary": "Spotify has launched its new Reserved ticketing program in the United States, giving eligible Premium subscribers access to select concert... The post Spotify Launches \u2018Reserved\u2019 Ticket Presale Progra",
+      "company": "",
+      "link": "https://www.ticketnews.com/2026/06/spotify-launches-reserved-ticket-presale-program-for-top-u-s-fans/",
+      "date": "Jun 22, 26",
+      "source": "Ticket News",
       "layer": 1,
       "access": "pe",
-      "score": 14,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "7b42ecdf64bd",
-      "title": "Anti Fund closes oversubscribed $100m growth fund",
-      "summary": "Anti Fund, a venture and growth investment firm co-led by Geoffrey Woo and Jake Paul, has closed its oversubscribed $100m Anti Fund Growth I, a close which pushes the businesses&#8217; total assets un",
-      "company": "Anti Fund",
-      "link": "https://www.altassets.net/premium/anti-fund-closes-oversubscribed-100m-growth-fund.html",
-      "date": "Jun 19, 26",
-      "source": "AltAssets",
-      "layer": 1,
-      "access": "venture",
-      "score": 14,
-      "moments": [
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "f6c08a6e916b",
-      "title": "Variety Announces Brand Entertainment for Fans Event Spotlighting Leaders at Cannes Lions",
-      "summary": "Variety will host Brand Entertainment for Fans, presented by Walmart Connect, on Monday, June 22, during the Cannes Lions International Festival of Creativity, bringing together executives from Walmar",
-      "company": "Variety Announces Brand Entertainment",
-      "link": "https://variety.com/2026/biz/news/brand-entertainment-fans-event-cannes-lions-1236784116/",
-      "date": "Jun 17, 26",
-      "source": "Variety Biz",
-      "layer": 1,
-      "access": "pe",
-      "score": 13,
+      "score": 15,
       "moments": [
         "streaming_milestone"
       ]
     },
     {
-      "id": "4db0f38fec2b",
-      "title": "Graham Coxon: \u201cI\u2019ve always wondered about relevance \u2013 there seems to be this forever-changing front row\u201d",
-      "summary": "The Blur guitarist tells NME about the romance and nostalgia of the now-emerged \"lost\" album 'Castle Park', finding his confidence as a solo artist, and why he and Damon Albarn will be working togethe",
-      "company": "Graham Coxon",
-      "link": "https://www.nme.com/news/music/graham-coxon-interview-castle-park-solo-albums-future-blur-tour-3952085?utm_source=rss&utm_medium=rss&utm_campaign=graham-coxon-interview-castle-park-solo-albums-future-blur-tour",
-      "date": "Jun 21, 26",
-      "source": "NME",
-      "layer": 1,
+      "id": "b2e3cac7544b",
+      "title": "Brazos Residential names new CIO to drive growth",
+      "summary": "Multifamily real estate private equity firm Brazos Residential has named Wyatt Simmons as its chief investment officer. Simmons takes the role with nearly a decade of experience across multifamily rea",
+      "company": "Brazos Residential",
+      "link": "https://www.altassets.net/private-equity-news/brazos-residential-names-new-cio-to-drive-growth.html",
+      "date": "Jun 22, 26",
+      "source": "AltAssets",
+      "layer": 2,
       "access": "pe",
-      "score": 13,
+      "score": 14,
       "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "638c58d1f2c3",
-      "title": "Katy Perry says she lost her \u201croar\u201d, teases new material at Rock in Rio Lisbon 2026",
-      "summary": "Katy Perry headlined Rock In Rio Lisbon last night (July 20), where she played her new song \u2018Watch It Burn\u2019 and also admitted that she \u201clost her roar\u201d amid a torrid 2025. Wearing the same outfit that ",
-      "company": "Katy Perry",
-      "link": "https://www.nme.com/news/music/katy-perry-lost-her-roar-new-material-at-rock-in-rio-lisboa-2026-3952182?utm_source=rss&utm_medium=rss&utm_campaign=katy-perry-lost-her-roar-new-material-at-rock-in-rio-lisboa-2026",
-      "date": "Jun 21, 26",
-      "source": "NME",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "festival_headliner"
+        "pe_investment"
       ]
     },
     {
@@ -296,21 +268,6 @@
       ]
     },
     {
-      "id": "d29965cdc126",
-      "title": "THE WEEKND KICKS OFF EUROPEAN LEG OF RECORD-BREAKING AFTER HOURS TIL DAWN TOUR WITH TWO SOLD-OUT SHOWS AT COPENHAGEN'S PARKEN STADIUM",
-      "summary": "\u20ac1 From Every Ticket Sold Across the European Tour Supports the World Food Programme Through the XO Humanitarian Fund and Global Citizen Hi Res photos: www.gettyimages.co.uk/search/events/776514872 PH",
-      "company": "THE WEEKND KICKS OFF EUROPEAN LEG",
-      "link": "https://www.prnewswire.com/news-releases/the-weeknd-kicks-off-european-leg-of-record-breaking-after-hours-til-dawn-tour-with-two-sold-out-shows-at-copenhagens-parken-stadium-302805856.html",
-      "date": "Jun 21, 26",
-      "source": "PR Newswire",
-      "layer": 2,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "record_breaking"
-      ]
-    },
-    {
       "id": "eec09e4aabec",
       "title": "A Baroque Opera Written By a Female Composer Feels Ripped From the Headlines",
       "summary": "The Paris Opera production of \u201cErcole Amante\u201d (\u201cHercules in Love\u201d), a rediscovered 1707 work by the female composer Antonia Bembo, leans into contemporary themes of coercion and consent.",
@@ -341,48 +298,48 @@
       ]
     },
     {
-      "id": "3396c4e27501",
-      "title": "EQT to acquire satellite deployment biz; JF Lehman\u2019s FSG adds US nuclear navy exposure",
-      "summary": "Intertek agrees to \u00a311 billion takeover by EQT. The post EQT to acquire satellite deployment biz; JF Lehman\u2019s FSG adds US nuclear navy exposure appeared first on PE Hub.",
-      "company": "EQT to",
-      "link": "https://www.pehub.com/eqt-to-acquire-satellite-deployment-biz-jf-lehmans-fsg-adds-us-nuclear-navy-exposure/",
-      "date": "Jun 19, 26",
-      "source": "PE Hub",
-      "layer": 5,
+      "id": "4e88ca3c970d",
+      "title": "Eddie Nketia to make Australia debut after Commonwealth Games sprint selection",
+      "summary": "25-year-old has run a wind-assisted 9.74s 100m this yearStrong sprint team will head to Glasgow without GoutAustralian sprint sensation Eddie Nketia is talking up his potential to run even faster at t",
+      "company": "Eddie Nketia",
+      "link": "https://www.theguardian.com/sport/2026/jun/22/eddie-nketia-australia-debut-commonwealth-games-sprint-selection",
+      "date": "Jun 22, 26",
+      "source": "Guardian Sport",
+      "layer": 4,
       "access": "pe",
       "score": 9,
       "moments": [
-        "acquisition"
+        "festival_headliner"
       ]
     },
     {
-      "id": "7e321f2e8de3",
-      "title": "JFLCO-backed FSG acquires manufacturer Custom Alloy Corporation",
-      "summary": "Headquartered in Sheffield, UK, FSG is a provider of high specification forgings for the aerospace, defense, and space end markets. The post JFLCO-backed FSG acquires manufacturer Custom Alloy Corpora",
-      "company": "JFLCO-backed FSG",
-      "link": "https://www.pehub.com/jflco-backed-fsg-acquires-manufacturer-custom-alloy-corporation/",
-      "date": "Jun 18, 26",
+      "id": "bde743ecd637",
+      "title": "Northleaf, Cornell lead recent PE laundry services deals; Disruption Matters returns; PE firms tackle college sports",
+      "summary": "A look at the laundry services sector, which is drawing attention from private equity investors; diving into PE\u2019s growing interest in college sports; a teaser for The Disruption Matters special podcas",
+      "company": "Northleaf Cornell",
+      "link": "https://www.pehub.com/northleaf-cornell-lead-recent-pe-laundry-services-deals-disruption-matters-returns-pe-firms-tackle-college-sports/",
+      "date": "Jun 22, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
       "score": 9,
       "moments": [
-        "acquisition"
+        "pe_investment"
       ]
     },
     {
-      "id": "6ed08517a145",
-      "title": "Platinum Equity to sell HVAC equipment supplier Heat Controller",
-      "summary": "Platinum Equity acquired Heat Controller in 2024 as part of its investment in Motors &#038; Armatures, Inc. The post Platinum Equity to sell HVAC equipment supplier Heat Controller appeared first on P",
-      "company": "Platinum Equity",
-      "link": "https://www.pehub.com/platinum-equity-to-sell-hvac-equipment-supplier-heat-controller/",
-      "date": "Jun 18, 26",
+      "id": "9b38551461fb",
+      "title": "Laundry services, with little to worry about from AI disruption, appeal to private equity",
+      "summary": "The Sterling Group, Cornell Capital, Surge Private Equity, Northleaf Capital Partners, HIG Capital and Mainsail Partners are some of the firms investing in laundry services. The post Laundry services,",
+      "company": "Laundry",
+      "link": "https://www.pehub.com/laundry-services-with-little-to-worry-about-from-ai-disruption-appeal-to-private-equity/",
+      "date": "Jun 22, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
       "score": 9,
       "moments": [
-        "acquisition"
+        "pe_investment"
       ]
     },
     {
@@ -401,18 +358,78 @@
       ]
     },
     {
-      "id": "63305d18bd4f",
-      "title": "This startup\u2019s super metals could soon be in military drones, luxury watches, and chef\u2019s knives",
-      "summary": "Instead of heating metals, Foundation Alloy beats them into submission. The startup has raised $22 million to scale up production of its alloys.",
-      "company": "This",
-      "link": "https://techcrunch.com/2026/06/16/this-startups-super-metals-could-soon-be-in-military-drones-luxury-watches-and-chefs-knives/",
-      "date": "Jun 16, 26",
-      "source": "TechCrunch Startups",
-      "layer": 4,
-      "access": "venture",
+      "id": "4707f42afb43",
+      "title": "Alter Domus scales private equity with two senior hires",
+      "summary": "Alter Domus has appointed two senior leaders to strengthen its private equity division as the business continues to expand its platform internationally. Justin Mayer has been named head of private equ",
+      "company": "Alter Domus",
+      "link": "https://www.altassets.net/premium/alter-domus-scales-private-equity-with-two-senior-hires.html",
+      "date": "Jun 18, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "bdf57ea24009",
+      "title": "Here\u2019s What \u2018the Most Important Mozart Discovery in Decades\u2019 Sounds Like",
+      "summary": "A newly found notebook documenting the composer\u2019s lessons with a student includes seven previously unknown compositions.",
+      "company": "Here\u2019s What",
+      "link": "https://www.nytimes.com/2026/06/22/arts/music/mozart-music-flute-harp.html",
+      "date": "Jun 22, 26",
+      "source": "NYT Arts",
+      "layer": 3,
+      "access": "pe",
+      "score": 8,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "90da6cfeea0c",
+      "title": "Sportico Parent PMC to Acquire SB Nation and Other Vox Brands",
+      "summary": "Penske Media Corp., the owner of Sportico, said Thursday it is acquiring certain Vox Media brands in a deal that executives said bolsters Penske\u2019s position as the world\u2019s largest digital publisher. Fi",
+      "company": "Sportico Parent PMC",
+      "link": "https://www.sportico.com/business/media/2026/pmc-buy-vox-media-sb-nation-sportico-1234936487/",
+      "date": "Jun 18, 26",
+      "source": "Sportico",
+      "layer": 5,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "a20cd940f471",
+      "title": "Greybull Stewardship snaps up manufacturer Genesys Industries",
+      "summary": "Genesys Industries unites three American manufacturing brands under one platform: Avia Marine Company, Latrobe Foundry and Sterner Screw Machine. The post Greybull Stewardship snaps up manufacturer Ge",
+      "company": "Greybull Stewardship",
+      "link": "https://www.pehub.com/greybull-stewardship-snaps-up-manufacturer-genesys-industries/",
+      "date": "Jun 22, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
       "score": 6,
       "moments": [
         "company_launch"
+      ]
+    },
+    {
+      "id": "b24cbdd182b8",
+      "title": "Castlelake\u2019s $6.3bn offer for EasyJet rejected; Investcorp to acquire Smart Managed Solutions",
+      "summary": "Oaktree-backed Aqseptence Group has agreed to sell one of its divisions, Diemme Filtration, to Sandvik Group. The post Castlelake\u2019s $6.3bn offer for EasyJet rejected; Investcorp to acquire Smart Manag",
+      "company": "Castlelake\u2019s",
+      "link": "https://www.pehub.com/castlelakes-6-3bn-offer-for-easyjet-rejected-investcorp-to-acquire-smart-managed-solutions/",
+      "date": "Jun 22, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "acquisition"
       ]
     },
     {
@@ -461,29 +478,29 @@
       ]
     },
     {
-      "id": "40c9ad23cf3d",
-      "title": "Prominent Economists Back States\u2019 Damages Theory In Live Nation/Ticketmaster Antitrust Fight",
-      "summary": "Three prominent antitrust economists are seeking to weigh in against Live Nation and Ticketmaster\u2019s effort to knock out the damages... The post Prominent Economists Back States\u2019 Damages Theory In Live",
-      "company": "",
-      "link": "https://www.ticketnews.com/2026/06/prominent-economists-back-states-damages-theory-in-live-nation-ticketmaster-antitrust-fight/",
-      "date": "Jun 18, 26",
+      "id": "cbc00077b12d",
+      "title": "\u2018Moana 2\u2019 Box Office, Disney+ Subscribers Drive Disney U.K. Revenue to $5.8 Billion in 2025",
+      "summary": "The Walt Disney Company\u2019s U.K. subsidiary, The Walt Disney Company Limited, which encompasses theatrical film distribution, streaming and licensing, generated more than \u00a34.4 billion ($5.8 billion) in ",
+      "company": "\u2018Moana",
+      "link": "https://variety.com/2026/biz/global/disney-uk-revenue-2025-box-office-streaming-1236786970/",
+      "date": "Jun 22, 26",
+      "source": "Variety Biz",
+      "layer": 2,
+      "access": "pe",
+      "score": 13,
+      "moments": []
+    },
+    {
+      "id": "2cfdff8a33fa",
+      "title": "Minnesota Wild Tap SeatGeek for Primary Ticketing at Grand Casino Arena",
+      "summary": "The Minnesota Wild are moving their ticketing operation to SeatGeek in a multi-year deal that will put the platform in... The post Minnesota Wild Tap SeatGeek for Primary Ticketing at Grand Casino Are",
+      "company": "Minnesota Wild Tap SeatGeek",
+      "link": "https://www.ticketnews.com/2026/06/minnesota-wild-tap-seatgeek-ticketing-grand-casino-arena/",
+      "date": "Jun 22, 26",
       "source": "Ticket News",
       "layer": 3,
       "access": "pe",
       "score": 11,
-      "moments": []
-    },
-    {
-      "id": "5f872bb7df83",
-      "title": "Oakland Arena Sale Draws Potential Bidding Fight Between Legends, OVG",
-      "summary": "A battle may be taking shape over the future of Oakland Arena. Legends Global, the company that has operated the... The post Oakland Arena Sale Draws Potential Bidding Fight Between Legends, OVG appea",
-      "company": "Oakland Arena Sale Draws Potential Bidding",
-      "link": "https://www.ticketnews.com/2026/06/oakland-arena-sale-draws-potential-bidding-fight/",
-      "date": "Jun 18, 26",
-      "source": "Ticket News",
-      "layer": 2,
-      "access": "pe",
-      "score": 9,
       "moments": []
     },
     {
@@ -500,19 +517,6 @@
       "moments": []
     },
     {
-      "id": "402d7b4af2f9",
-      "title": "UTA Signs \u2018SubwayTakes\u2019 Host and Comedian Kareem Rahma (EXCLUSIVE)",
-      "summary": "Kareem Rahma, the comedian, musician and host of the viral social media series &#8220;SubwayTakes,&#8221; has signed with UTA for representation in all areas. The agency, whose Creators division has g",
-      "company": "UTA Signs \u2018SubwayTakes\u2019 Host",
-      "link": "https://variety.com/2026/digital/news/subway-takes-kareem-rahma-uta-1236785198/",
-      "date": "Jun 18, 26",
-      "source": "Variety Music",
-      "layer": 4,
-      "access": "pe",
-      "score": 7,
-      "moments": []
-    },
-    {
       "id": "f41f357bcf35",
       "title": "Brian Large, Who Brought Opera Vividly to Life on Film, Dies at 89",
       "summary": "In a directing career that included over 70 Met Opera broadcasts, he said his work was \u201cdictated by the music, by key change, by orchestration, by phrasing.\u201d",
@@ -526,26 +530,13 @@
       "moments": []
     },
     {
-      "id": "3903af9289bd",
-      "title": "Netflix Cancels Duffer Brothers\u2019 \u2018The Boroughs\u2019 After One Season",
-      "summary": "The Duffer brothers, who produced the series and created \u201cStranger Things,\u201d recently left the streamer for Paramount.",
-      "company": "",
-      "link": "https://www.nytimes.com/2026/06/18/arts/television/boroughs-canceled-duffer-brothers-netflix.html",
-      "date": "Jun 18, 26",
-      "source": "NYT Arts",
-      "layer": 3,
-      "access": "venture",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "582c7bd35869",
-      "title": "Vinyl records are back, but they're polluting the planet. These labels are trying to help",
-      "summary": "The resurgence of vinyl records has taken a toll on the environment. Labels are banding together to help alleviate production effects.",
-      "company": "Vinyl",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-06-05/vinyl-records-are-hurting-environment-these-labels-are-helping",
-      "date": "Jun 05, 26",
-      "source": "LA Times Music",
+      "id": "3dc393a0a4d5",
+      "title": "Jamie George captains England again as Borthwick plays it safe for brutal summer tour",
+      "summary": "Caluori, Fisilau, Janse van Rensburg, Sela, Kloska selectedFin Smith says he had to \u2018fake\u2019 confidence after Lions tourAt some stage there will be better times ahead for English rugby. They have an enc",
+      "company": "Jamie George",
+      "link": "https://www.theguardian.com/sport/2026/jun/22/jamie-george-captain-england-again-steve-borthwick-rugby-summer-tour",
+      "date": "Jun 22, 26",
+      "source": "Guardian Sport",
       "layer": 4,
       "access": "pe",
       "score": 5,
@@ -578,13 +569,13 @@
       "moments": []
     },
     {
-      "id": "db09f9fde8ed",
-      "title": "Mutares agrees to carve out Synthomer",
-      "summary": "Synthomer is a producer and supplier of acrylic acids and acrylic esters. The post Mutares agrees to carve out Synthomer appeared first on PE Hub.",
-      "company": "Mutares",
-      "link": "https://www.pehub.com/mutares-agrees-to-carve-out-synthomer/",
-      "date": "Jun 19, 26",
-      "source": "PE Hub",
+      "id": "8f95fdb4c719",
+      "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
+      "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
+      "company": "Global Times",
+      "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/",
+      "date": "May 09, 26",
+      "source": "Venues Today",
       "layer": 4,
       "access": "pe",
       "score": 4,
