@@ -1,25 +1,7 @@
 {
-  "generated": "2026-06-22T17:04:45.194869+00:00",
-  "total": 39,
+  "generated": "2026-06-23T15:11:54.086659+00:00",
+  "total": 37,
   "scraped": [
-    {
-      "id": "1fc5f01c2ef3",
-      "title": "Conifer raises $900m in oversubscribed debut fund close",
-      "summary": "Conifer Infrastructure Partners has closed its debut fund at its hard cap of $900m, exceeding its original $500m target by $400m. The firm completed the raise for Conifer Infrastructure Partners I, LP",
-      "company": "Conifer",
-      "link": "https://www.altassets.net/premium/conifer-raises-900m-in-oversubscribed-debut-fund-close.html",
-      "date": "Jun 17, 26",
-      "source": "AltAssets",
-      "layer": 1,
-      "access": "pe",
-      "score": 26,
-      "moments": [
-        "funding_round",
-        "pe_investment",
-        "fund_launch",
-        "company_launch"
-      ]
-    },
     {
       "id": "13c33be7bca0",
       "title": "INVL Family Office launches PE secondaries fund",
@@ -34,22 +16,6 @@
       "moments": [
         "pe_investment",
         "fund_launch"
-      ]
-    },
-    {
-      "id": "33cca9212f36",
-      "title": "MSP Sports Capital acquires majority stake in New Zealand SailGP",
-      "summary": "New York-based private equity investor MSP Sports Capital has acquired a majority stake in New Zealand\u2019s SailGP team, the Black Foils, further extending its sports portfolio and marking another step i",
-      "company": "MSP Sports Capital",
-      "link": "https://www.privateequitywire.co.uk/msp-sports-capital-acquires-majority-stake-in-new-zealand-sailgp/",
-      "date": "Jun 22, 26",
-      "source": "PE Wire",
-      "layer": 1,
-      "access": "pe",
-      "score": 19,
-      "moments": [
-        "acquisition",
-        "pe_investment"
       ]
     },
     {
@@ -71,7 +37,7 @@
     {
       "id": "968b8e210d04",
       "title": "Seedcamp raises $320M for its new fund to expand its US footprint",
-      "summary": "After 18 years of focusing on Europe, early-stage investor Seedcamp said that it has raised $320 million for its latest fund which will see it expanding its presence in the United States.",
+      "summary": "After 18 years of focusing on Europe, early-stage investor Seedcamp said that it has raised $320 million for its latest fund, which will see it expanding its presence in the United States.",
       "company": "Seedcamp",
       "link": "https://techcrunch.com/2026/06/22/seedcamp-raises-320m-for-its-new-fund-to-expand-its-us-footprint/",
       "date": "Jun 22, 26",
@@ -82,22 +48,6 @@
       "moments": [
         "funding_round",
         "fund_launch"
-      ]
-    },
-    {
-      "id": "4d2bd1db8b08",
-      "title": "Abu Dhabi SWFs commit \u00a31.5bn to back EQT\u2019s Intertek acquisition",
-      "summary": "Two of Abu Dhabi\u2019s largest sovereign investors have pledged \u00a31.5bn ($1.9bn) in financing support for EQT AB\u2019s proposed acquisition of UK-listed testing and assurance group Intertek Group, underscoring",
-      "company": "Abu Dhabi SWFs",
-      "link": "https://www.privateequitywire.co.uk/abu-dhabi-swfs-commit-1-5bn-to-back-eqts-intertek-acquisition/",
-      "date": "Jun 22, 26",
-      "source": "PE Wire",
-      "layer": 5,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "acquisition",
-        "pe_investment"
       ]
     },
     {
@@ -114,6 +64,22 @@
       "moments": [
         "album_announcement",
         "festival_headliner"
+      ]
+    },
+    {
+      "id": "b113a0ee8124",
+      "title": "Seedcamp raises $320m to back growing global tech wave",
+      "summary": "Seedcamp, the European venture capital firm, has closed a $320m fundraise to back the next generation of globally ambitious founders. The new capital is split between $220m for Seedcamp Fund VII, the ",
+      "company": "Seedcamp",
+      "link": "https://www.altassets.net/premium/seedcamp-raises-320m-to-back-growing-global-tech-wave.html",
+      "date": "Jun 23, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "venture",
+      "score": 13,
+      "moments": [
+        "funding_round",
+        "company_launch"
       ]
     },
     {
@@ -148,21 +114,6 @@
       ]
     },
     {
-      "id": "29f31e2ca07d",
-      "title": "Shaikin: An Anaheim vision: The Anaheim Angels in a new stadium, next to a youth sports complex",
-      "summary": "A new owner could move the Angels, but Anaheim offers a 150-acre site with what every owner in pro sports covets: land around the venue to turn the property into a year-round money-making operation.",
-      "company": "Shaikin",
-      "link": "https://www.latimes.com/sports/angels/story/2026-06-18/anaheim-angels-new-stadium-youth-sports-complex",
-      "date": "Jun 18, 26",
-      "source": "LA Times Sports",
-      "layer": 2,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "venue_announcement"
-      ]
-    },
-    {
       "id": "6c250e94b064",
       "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
       "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
@@ -175,21 +126,6 @@
       "score": 16,
       "moments": [
         "company_launch"
-      ]
-    },
-    {
-      "id": "eb7c9867ec4e",
-      "title": "Jonny Greenwood on Why His New Album With Shye Ben Tzur and the Rajasthan Express Took a Decade to Make and \u2018Hoping to Do Another\u2019 Radiohead Tour",
-      "summary": "It took Radiohead guitarist Jonny Greenwood more than a decade to follow acclaimed 2015 album &#8220;Junun.&#8221; A musician died. A pandemic intervened. And then there were the visas. &#8220;Ranjha,",
-      "company": "Jonny Greenwood",
-      "link": "https://variety.com/2026/music/news/jonny-greenwood-new-album-ranjha-another-radiohead-tour-1236787146/",
-      "date": "Jun 22, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "album_announcement"
       ]
     },
     {
@@ -223,6 +159,21 @@
       ]
     },
     {
+      "id": "1c054053998e",
+      "title": "Norwegians 'row' Times Square and Tartan Army storms Boston as World Cup fandom takes over U.S. streets",
+      "summary": "Visiting World Cup fans are falling for everyday American staples as North America hosts record-breaking crowds across 16 venues, turning match days into neighborhood festivals.",
+      "company": "Norwegians",
+      "link": "https://www.latimes.com/sports/story/2026-06-22/world-cup-fans-marching-matches-stadium-cleanup-embracing-american-food",
+      "date": "Jun 22, 26",
+      "source": "LA Times Sports",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "record_breaking"
+      ]
+    },
+    {
       "id": "b2e3cac7544b",
       "title": "Brazos Residential names new CIO to drive growth",
       "summary": "Multifamily real estate private equity firm Brazos Residential has named Wyatt Simmons as its chief investment officer. Simmons takes the role with nearly a decade of experience across multifamily rea",
@@ -238,48 +189,48 @@
       ]
     },
     {
-      "id": "98a8d262e848",
-      "title": "I Sold My AI Startup Before Revenue: Here\u2019s What Investors Missed \u2014 And Founders Shouldn\u2019t",
-      "summary": "The greatest long-term value in AI will come from companies solving deep technical challenges at the model and infrastructure level rather than application-layer products built on existing AI platform",
-      "company": "I Sold My AI Startup Before Revenue",
-      "link": "https://news.crunchbase.com/venture/foundational-ai-startup-investment-kardos-nyheim-thomson/",
-      "date": "Jun 17, 26",
-      "source": "Crunchbase News",
-      "layer": 2,
-      "access": "public",
-      "score": 12,
+      "id": "7b42ecdf64bd",
+      "title": "Anti Fund closes oversubscribed $100m growth fund",
+      "summary": "Anti Fund, a venture and growth investment firm co-led by Geoffrey Woo and Jake Paul, has closed its oversubscribed $100m Anti Fund Growth I, a close which pushes the businesses&#8217; total assets un",
+      "company": "Anti Fund",
+      "link": "https://www.altassets.net/premium/anti-fund-closes-oversubscribed-100m-growth-fund.html",
+      "date": "Jun 19, 26",
+      "source": "AltAssets",
+      "layer": 1,
+      "access": "venture",
+      "score": 14,
       "moments": [
-        "company_launch"
+        "fund_launch"
       ]
     },
     {
-      "id": "f7d97e774bb3",
-      "title": "SpaceX Acquires AI Coding Tool Cursor For $60B In Year\u2019s Largest Startup M&A Deal",
-      "summary": "The acquisition of Cursor gives SpaceX a foothold into the enterprise software development market, where AI-assisted coding has taken off and led large companies to significantly pare back their relia",
-      "company": "SpaceX Acquires AI Coding Tool Cursor",
-      "link": "https://news.crunchbase.com/ma/spcx-acquires-ai-coding-cursor-largest-startup-ma-deal-2026/",
-      "date": "Jun 16, 26",
-      "source": "Crunchbase News",
+      "id": "ce47d64e8c63",
+      "title": "Role Model Plots 2026 North American Tour Supporting New Album",
+      "summary": "Role Model has announced a 34-date world tour in support of his upcoming album, Chuck Timely &#38; The Hourglass. The... The post Role Model Plots 2026 North American Tour Supporting New Album appeare",
+      "company": "Role Model Plots",
+      "link": "https://www.ticketnews.com/2026/06/role-model-plots-2026-north-american-tour-supporting-new-album/",
+      "date": "Jun 22, 26",
+      "source": "Ticket News",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "76b113acbb40",
+      "title": "Alternative Views with Adams Street\u2019s Jeff Diehl",
+      "summary": "In Alternative Views, Private Equity Wire\u00ae goes behind closed doors with those in the know to get the latest on private markets. In this episode we discuss Business Development Companies with Jeff Die",
+      "company": "Alternative Views",
+      "link": "https://www.privateequitywire.co.uk/alternative-views-with-adams-streets-jeff-diehl/",
+      "date": "Jun 23, 26",
+      "source": "PE Wire",
       "layer": 2,
       "access": "pe",
       "score": 12,
       "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "eec09e4aabec",
-      "title": "A Baroque Opera Written By a Female Composer Feels Ripped From the Headlines",
-      "summary": "The Paris Opera production of \u201cErcole Amante\u201d (\u201cHercules in Love\u201d), a rediscovered 1707 work by the female composer Antonia Bembo, leans into contemporary themes of coercion and consent.",
-      "company": "Baroque Opera Written By",
-      "link": "https://www.nytimes.com/2026/06/16/arts/music/ercole-amante-antonia-bembo-paris-opera.html",
-      "date": "Jun 16, 26",
-      "source": "NYT Music",
-      "layer": 4,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "festival_headliner"
+        "pe_investment"
       ]
     },
     {
@@ -298,14 +249,14 @@
       ]
     },
     {
-      "id": "4e88ca3c970d",
-      "title": "Eddie Nketia to make Australia debut after Commonwealth Games sprint selection",
-      "summary": "25-year-old has run a wind-assisted 9.74s 100m this yearStrong sprint team will head to Glasgow without GoutAustralian sprint sensation Eddie Nketia is talking up his potential to run even faster at t",
-      "company": "Eddie Nketia",
-      "link": "https://www.theguardian.com/sport/2026/jun/22/eddie-nketia-australia-debut-commonwealth-games-sprint-selection",
-      "date": "Jun 22, 26",
-      "source": "Guardian Sport",
-      "layer": 4,
+      "id": "945cc2ce59b7",
+      "title": "Set times revealed for Kneecap\u2019s massive Crystal Palace Park show with The Mary Wallopers, Fat Dog and more",
+      "summary": "The Irish trio's biggest headline gig to date takes place this weekend The post Set times revealed for Kneecap&#8217;s massive Crystal Palace Park show with The Mary Wallopers, Fat Dog and more appear",
+      "company": "Set",
+      "link": "https://www.nme.com/news/music/kneecap-london-crystal-palace-park-show-full-set-stage-times-revealed-the-mary-wallopers-fat-dog-3952647?utm_source=rss&utm_medium=rss&utm_campaign=kneecap-london-crystal-palace-park-show-full-set-stage-times-revealed-the-mary-wallopers-fat-dog",
+      "date": "Jun 23, 26",
+      "source": "NME",
+      "layer": 5,
       "access": "pe",
       "score": 9,
       "moments": [
@@ -313,12 +264,12 @@
       ]
     },
     {
-      "id": "bde743ecd637",
-      "title": "Northleaf, Cornell lead recent PE laundry services deals; Disruption Matters returns; PE firms tackle college sports",
-      "summary": "A look at the laundry services sector, which is drawing attention from private equity investors; diving into PE\u2019s growing interest in college sports; a teaser for The Disruption Matters special podcas",
-      "company": "Northleaf Cornell",
-      "link": "https://www.pehub.com/northleaf-cornell-lead-recent-pe-laundry-services-deals-disruption-matters-returns-pe-firms-tackle-college-sports/",
-      "date": "Jun 22, 26",
+      "id": "be67edf576f4",
+      "title": "Apollo, Hellman & Friedman and Platinum Equity invest in live events, as the sector enjoys a wave of PE interest",
+      "summary": "An in-depth look at how private equity firms are taking advantage of the surge in popularity of live events. The post Apollo, Hellman &#038; Friedman and Platinum Equity invest in live events, as the ",
+      "company": "Apollo Hellman",
+      "link": "https://www.pehub.com/apollo-hellman-friedman-and-platinum-equity-invest-in-live-events-as-the-sector-enjoys-a-wave-of-pe-interest/",
+      "date": "Jun 23, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
@@ -328,12 +279,27 @@
       ]
     },
     {
-      "id": "9b38551461fb",
-      "title": "Laundry services, with little to worry about from AI disruption, appeal to private equity",
-      "summary": "The Sterling Group, Cornell Capital, Surge Private Equity, Northleaf Capital Partners, HIG Capital and Mainsail Partners are some of the firms investing in laundry services. The post Laundry services,",
-      "company": "Laundry",
-      "link": "https://www.pehub.com/laundry-services-with-little-to-worry-about-from-ai-disruption-appeal-to-private-equity/",
-      "date": "Jun 22, 26",
+      "id": "f901209b33fd",
+      "title": "PE-backed Life Science Connect picks up biopharma brands PharmaSource and CDMO Live",
+      "summary": "The acquisition will form a biopharma outsourcing platform, bringing together PharmaSource, CDMO Live Europe, CDMO Live Americas and External Manufacturing Leaders. The post PE-backed Life Science Con",
+      "company": "PE-backed Life Science Connect",
+      "link": "https://www.pehub.com/pe-backed-life-science-connect-picks-up-biopharma-brands-pharmasource-and-cdmo-live/",
+      "date": "Jun 23, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "ae6f4345aac4",
+      "title": "Why private equity firms are banking on live events",
+      "summary": "With the global market in this space expected to exceed $1.2trn by 2032, firms like Apollo and Platinum Equity are jumping on the bandwagon. The post Why private equity firms are banking on live event",
+      "company": "Why",
+      "link": "https://www.pehub.com/why-private-equity-is-banking-on-live-events/",
+      "date": "Jun 23, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
@@ -343,18 +309,18 @@
       ]
     },
     {
-      "id": "e3c698347f97",
-      "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
-      "summary": "Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation \u2014 where errors can be costly and reliability is at a premium.",
-      "company": "Pramaana Labs",
-      "link": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
-      "date": "Jun 17, 26",
-      "source": "TechCrunch Startups",
-      "layer": 3,
-      "access": "venture",
+      "id": "9254655f82bf",
+      "title": "Partners Group shares fall below early-June lows",
+      "summary": "Shares in Swiss private markets manager Partners Group slipped on Monday, breaking below levels reached earlier this month after the firm imposed caps on withdrawals from its $8.6bn private equity fun",
+      "company": "Partners Group",
+      "link": "https://www.privateequitywire.co.uk/partners-group-shares-fall-below-early-june-lows/",
+      "date": "Jun 23, 26",
+      "source": "PE Wire",
+      "layer": 5,
+      "access": "public",
       "score": 9,
       "moments": [
-        "funding_round"
+        "pe_investment"
       ]
     },
     {
@@ -388,51 +354,6 @@
       ]
     },
     {
-      "id": "90da6cfeea0c",
-      "title": "Sportico Parent PMC to Acquire SB Nation and Other Vox Brands",
-      "summary": "Penske Media Corp., the owner of Sportico, said Thursday it is acquiring certain Vox Media brands in a deal that executives said bolsters Penske\u2019s position as the world\u2019s largest digital publisher. Fi",
-      "company": "Sportico Parent PMC",
-      "link": "https://www.sportico.com/business/media/2026/pmc-buy-vox-media-sb-nation-sportico-1234936487/",
-      "date": "Jun 18, 26",
-      "source": "Sportico",
-      "layer": 5,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "a20cd940f471",
-      "title": "Greybull Stewardship snaps up manufacturer Genesys Industries",
-      "summary": "Genesys Industries unites three American manufacturing brands under one platform: Avia Marine Company, Latrobe Foundry and Sterner Screw Machine. The post Greybull Stewardship snaps up manufacturer Ge",
-      "company": "Greybull Stewardship",
-      "link": "https://www.pehub.com/greybull-stewardship-snaps-up-manufacturer-genesys-industries/",
-      "date": "Jun 22, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "b24cbdd182b8",
-      "title": "Castlelake\u2019s $6.3bn offer for EasyJet rejected; Investcorp to acquire Smart Managed Solutions",
-      "summary": "Oaktree-backed Aqseptence Group has agreed to sell one of its divisions, Diemme Filtration, to Sandvik Group. The post Castlelake\u2019s $6.3bn offer for EasyJet rejected; Investcorp to acquire Smart Manag",
-      "company": "Castlelake\u2019s",
-      "link": "https://www.pehub.com/castlelakes-6-3bn-offer-for-easyjet-rejected-investcorp-to-acquire-smart-managed-solutions/",
-      "date": "Jun 22, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
       "id": "fe56ffd350bd",
       "title": "Reid Hoffman is leaving Microsoft\u2019s board to go \u2018founder mode\u2019 with startup Manas",
       "summary": "After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus.",
@@ -445,21 +366,6 @@
       "score": 6,
       "moments": [
         "company_launch"
-      ]
-    },
-    {
-      "id": "7e4a6bf67046",
-      "title": "Arizona emerges as test case for AI's energy and water crunch",
-      "summary": "PHOENIX \u2014 This desert region has become a bellwether for the nation's data center growth as the tech sector grapples with rising temperatures and scarce resources.Why it matters: Arizona is an extreme",
-      "company": "Arizona",
-      "link": "https://www.axios.com/2026/06/18/arizona-ai-data-center-water-power",
-      "date": "Jun 18, 26",
-      "source": "Axios",
-      "layer": 2,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "acquisition"
       ]
     },
     {
@@ -491,6 +397,32 @@
       "moments": []
     },
     {
+      "id": "73be32804129",
+      "title": "Scottish fans\u2019 friendly USA invasion exemplifies the joy of the World Cup | Philipp Lahm",
+      "summary": "Major tournaments bring people together and Scotland\u2019s welcome presence adds to the case for a 48-team eventI could watch videos of the Scots online for hours. Wearing kilts, they marched through Bost",
+      "company": "Scottish",
+      "link": "https://www.theguardian.com/football/2026/jun/23/scotland-fans-usa-world-cup-joy-fifa",
+      "date": "Jun 23, 26",
+      "source": "Guardian Sport",
+      "layer": 2,
+      "access": "pe",
+      "score": 11,
+      "moments": []
+    },
+    {
+      "id": "776ac4d533cf",
+      "title": "Kansas City Athletics Signs Four-Year Ticketing and Sponsorship Deal With Playfly Sports",
+      "summary": "Kansas City Athletics has entered into a new four-year agreement with Playfly Sports aimed at strengthening ticket sales, sponsorship efforts,... The post Kansas City Athletics Signs Four-Year Ticketi",
+      "company": "",
+      "link": "https://www.ticketnews.com/2026/06/kansas-city-athletics-signs-four-year-ticketing-and-sponsorship-deal-with-playfly-sports/",
+      "date": "Jun 22, 26",
+      "source": "Ticket News",
+      "layer": 4,
+      "access": "pe",
+      "score": 11,
+      "moments": []
+    },
+    {
       "id": "2cfdff8a33fa",
       "title": "Minnesota Wild Tap SeatGeek for Primary Ticketing at Grand Casino Arena",
       "summary": "The Minnesota Wild are moving their ticketing operation to SeatGeek in a multi-year deal that will put the platform in... The post Minnesota Wild Tap SeatGeek for Primary Ticketing at Grand Casino Are",
@@ -504,14 +436,40 @@
       "moments": []
     },
     {
-      "id": "e2f729a2743b",
-      "title": "The French aristocrat and the all-American idiot: Henry v Lalas is the World Cup\u2019s most compelling battle",
-      "summary": "Fox\u2019s broadcast at the tournament has become a story of two contrasting styles. And there is one clear winnerWe all know someone like Alexi Lalas. He\u2019s the ranter whose rants never actually say anythi",
-      "company": "The French",
-      "link": "https://www.theguardian.com/football/2026/jun/21/thierry-henry-alexi-lalas-fox-world-cup",
-      "date": "Jun 21, 26",
-      "source": "Guardian Sport",
+      "id": "4fa8f4327b43",
+      "title": "Rod Wave Sets 25-City \u2018Don\u2019t Look Down\u2019 Arena Tour",
+      "summary": "Rod Wave is taking Don\u2019t Look Down on the road \u2014 and he\u2019s going big. The Grammy-nominated, multiplatinum rapper and... The post Rod Wave Sets 25-City \u2018Don\u2019t Look Down\u2019 Arena Tour appeared first on Tic",
+      "company": "Rod Wave Sets",
+      "link": "https://www.ticketnews.com/2026/06/rod-wave-sets-25-date-dont-look-down-arena-tour/",
+      "date": "Jun 22, 26",
+      "source": "Ticket News",
+      "layer": 2,
+      "access": "pe",
+      "score": 10,
+      "moments": []
+    },
+    {
+      "id": "08b01d3f0644",
+      "title": "Jay Bilas: 2026 NBA Draft Is Most Star-Studded Since 2003",
+      "summary": "Bilas will be a part of ESPN\u2019s broadcast on Tuesday night.",
+      "company": "Jay Bilas",
+      "link": "https://frontofficesports.com/jay-bilas-2026-nba-draft-star-studded-2003/",
+      "date": "Jun 22, 26",
+      "source": "Front Office Sports",
       "layer": 3,
+      "access": "pe",
+      "score": 9,
+      "moments": []
+    },
+    {
+      "id": "d78be3f3ad01",
+      "title": "People Inc. CEO accuses Google of abusing its market power with web crawling",
+      "summary": "CANNES, France \u2014 People Inc. CEO Neil Vogel accused Google of abusing its market power by using the same crawler for both search and AI.Why it matters: While some publishers want to block crawlers to ",
+      "company": "People Inc CEO",
+      "link": "https://www.axios.com/2026/06/23/people-inc-google-ai-search-crawler",
+      "date": "Jun 23, 26",
+      "source": "Axios",
+      "layer": 2,
       "access": "pe",
       "score": 8,
       "moments": []
@@ -523,21 +481,21 @@
       "company": "Brian Large Who Brought Opera Vividly",
       "link": "https://www.nytimes.com/2026/06/19/arts/music/brian-large-dead.html",
       "date": "Jun 19, 26",
-      "source": "NYT Arts",
+      "source": "NYT Music",
       "layer": 3,
       "access": "pe",
       "score": 5,
       "moments": []
     },
     {
-      "id": "3dc393a0a4d5",
-      "title": "Jamie George captains England again as Borthwick plays it safe for brutal summer tour",
-      "summary": "Caluori, Fisilau, Janse van Rensburg, Sela, Kloska selectedFin Smith says he had to \u2018fake\u2019 confidence after Lions tourAt some stage there will be better times ahead for English rugby. They have an enc",
-      "company": "Jamie George",
-      "link": "https://www.theguardian.com/sport/2026/jun/22/jamie-george-captain-england-again-steve-borthwick-rugby-summer-tour",
-      "date": "Jun 22, 26",
-      "source": "Guardian Sport",
-      "layer": 4,
+      "id": "ad43090ca663",
+      "title": "'A great vibe.' Pacific Northwest joins Los Angeles in an embrace of World Cup fever",
+      "summary": "If this World Cup has been marred by astronomical ticket prices, that hasn't put a damper on the tournament in the Pacific Northwest. L.A. is far from the only city with World Cup fever.",
+      "company": "Pacific Northwest",
+      "link": "https://www.latimes.com/sports/soccer/story/2026-06-23/pacific-northwest-joins-los-angeles-in-embrace-of-world-cup-fever",
+      "date": "Jun 23, 26",
+      "source": "LA Times Sports",
+      "layer": 3,
       "access": "pe",
       "score": 5,
       "moments": []
