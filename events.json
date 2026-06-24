@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-23T15:11:54.086659+00:00",
-  "total": 37,
+  "generated": "2026-06-24T14:41:36.788319+00:00",
+  "total": 36,
   "scraped": [
     {
       "id": "13c33be7bca0",
@@ -13,6 +13,22 @@
       "layer": 1,
       "access": "pe",
       "score": 20,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "42942929e564",
+      "title": "DayMark closes $25m private markets fund with Opto",
+      "summary": "DayMark Wealth Partners has reached the final close of DayMark Fund I at $25m, completing the vehicle in partnership with Opto Investments. The fund was structured to offer accredited investors and qu",
+      "company": "DayMark",
+      "link": "https://www.altassets.net/premium/daymark-closes-25m-private-markets-fund-with-opto.html",
+      "date": "Jun 24, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 19,
       "moments": [
         "pe_investment",
         "fund_launch"
@@ -67,6 +83,22 @@
       ]
     },
     {
+      "id": "8f6abb96dac1",
+      "title": "Livelihoods launches \u20ac150m nature-based climate fund",
+      "summary": "Nature-based climate investment firm Livelihoods has launched its fourth carbon fund, targeting \u20ac150m to finance large-scale ecosystem restoration projects. The Livelihoods Carbon Fund 4 (LCF4) has al",
+      "company": "Livelihoods",
+      "link": "https://www.altassets.net/premium/livelihoods-launches-e150m-nature-based-climate-fund.html",
+      "date": "Jun 24, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "funding_round",
+        "fund_launch"
+      ]
+    },
+    {
       "id": "b113a0ee8124",
       "title": "Seedcamp raises $320m to back growing global tech wave",
       "summary": "Seedcamp, the European venture capital firm, has closed a $320m fundraise to back the next generation of globally ambitious founders. The new capital is split between $220m for Seedcamp Fund VII, the ",
@@ -96,6 +128,52 @@
       "moments": [
         "acquisition",
         "company_launch"
+      ]
+    },
+    {
+      "id": "4f75ae14e339",
+      "title": "100\u00d7100 eyes ramped up Asia startup scene with $100m Fund II",
+      "summary": "100&#215;100 is aiming to secure $100m for its second fund as it looks to co-found 50 new climate technology startups across Southeast Asia and India. Fund II marks a big step up from the firm&#8217;s",
+      "company": "Asia",
+      "link": "https://www.altassets.net/private-equity-news/by-news-type/fund-news/funds-in-market/100x100-eyes-ramped-up-asia-startup-scene-with-100m-fund-ii.html",
+      "date": "Jun 24, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "venture",
+      "score": 10,
+      "moments": [
+        "fund_launch",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "5792fb00fb52",
+      "title": "Phoebe Bridgers Announces New Album, \u2018Lost Weekend\u2019",
+      "summary": "As expected, Phoebe Bridgers has announced her third full-length solo album, \u201cLost Weekend,\u201d arriving August 14 on Dead Oceans. The announcement follows a series of concerts where the singer debuted h",
+      "company": "Phoebe Bridgers Announces New Album \u2018Lost",
+      "link": "https://variety.com/2026/music/news/phoebe-bridgers-new-album-lost-weekend-1236789183/",
+      "date": "Jun 24, 26",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 20,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "127504bb93e9",
+      "title": "KKR-owned Arctos backs $288m sports entertainment district at University of Tennessee",
+      "summary": "Arctos Partners, the sports-focused investment platform acquired by KKR earlier this year, has partnered with RVX Ventures and Magellan Development Group to develop mixed-use entertainment districts a",
+      "company": "KKR-owned Arctos",
+      "link": "https://www.privateequitywire.co.uk/kkr-owned-arctos-backs-288m-sports-entertainment-district-at-university-of-tennessee/",
+      "date": "Jun 24, 26",
+      "source": "PE Wire",
+      "layer": 2,
+      "access": "venture",
+      "score": 20,
+      "moments": [
+        "acquisition"
       ]
     },
     {
@@ -129,6 +207,21 @@
       ]
     },
     {
+      "id": "c951b47b0e97",
+      "title": "NHL Approves Penguins $1.7 Billion Sale to Hoffmann Family",
+      "summary": "The NHL Board of Governors unanimously approved the sale of the Pittsburgh Penguins Tuesday, ending the four-plus year ownership tenure of Fenway Sports Group. The enterprise value in the deal was $1.",
+      "company": "NHL Approves Penguins",
+      "link": "https://www.sportico.com/business/team-sales/2026/nhl-approves-penguins-sale-hoffmann-family-1234936872/",
+      "date": "Jun 23, 26",
+      "source": "Sportico",
+      "layer": 1,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
       "id": "292f3f366b5b",
       "title": "Democratic Senators Urge FCC to Block Closing of Paramount-Warner Bros. Merger Until Review of Deal\u2019s Foreign Investment Concludes",
       "summary": "Three Democratic U.S. senators are urging the FCC to prevent Paramount Skydance from closing its $111 billion merger with Warner Bros. Discovery until the government&#8217;s national security review o",
@@ -144,33 +237,33 @@
       ]
     },
     {
-      "id": "573e8c585161",
-      "title": "Spotify Launches \u2018Reserved\u2019 Ticket Presale Program for Top U.S. Fans",
-      "summary": "Spotify has launched its new Reserved ticketing program in the United States, giving eligible Premium subscribers access to select concert... The post Spotify Launches \u2018Reserved\u2019 Ticket Presale Progra",
-      "company": "",
-      "link": "https://www.ticketnews.com/2026/06/spotify-launches-reserved-ticket-presale-program-for-top-u-s-fans/",
-      "date": "Jun 22, 26",
-      "source": "Ticket News",
+      "id": "a2bb9278bd24",
+      "title": "Taylor Swift and Lainey Wilson Surprise Duet \u2018Love Story\u2019 at Travis Kelce\u2019s NFL Concert",
+      "summary": "Swift made a surprise appearance at Kelce\u2019s annual Tight End University summit",
+      "company": "Taylor Swift",
+      "link": "https://www.rollingstone.com/music/music-news/taylor-swift-lainey-wilson-love-story-tight-end-university-1235582910/",
+      "date": "Jun 24, 26",
+      "source": "Rolling Stone Music",
       "layer": 1,
       "access": "pe",
       "score": 15,
       "moments": [
-        "streaming_milestone"
+        "surprise_appearance"
       ]
     },
     {
-      "id": "1c054053998e",
-      "title": "Norwegians 'row' Times Square and Tartan Army storms Boston as World Cup fandom takes over U.S. streets",
-      "summary": "Visiting World Cup fans are falling for everyday American staples as North America hosts record-breaking crowds across 16 venues, turning match days into neighborhood festivals.",
-      "company": "Norwegians",
-      "link": "https://www.latimes.com/sports/story/2026-06-22/world-cup-fans-marching-matches-stadium-cleanup-embracing-american-food",
-      "date": "Jun 22, 26",
-      "source": "LA Times Sports",
+      "id": "469482f05034",
+      "title": "Anthropic Backer Menlo Ventures Raises $3B In New Funds To Back AI Startups Across Stages",
+      "summary": "Venture firm Menlo Ventures has raised $3 billion across two new funds, the largest capital raise in its 50-year history, to invest in AI startups from seed through growth stage. The firm says the new",
+      "company": "Anthropic Backer Menlo Ventures Raises",
+      "link": "https://news.crunchbase.com/venture/menlo-ventures-raise-ai-startup-funding-across-stages-anthropic/",
+      "date": "Jun 23, 26",
+      "source": "Crunchbase News",
       "layer": 1,
-      "access": "pe",
-      "score": 14,
+      "access": "venture",
+      "score": 15,
       "moments": [
-        "record_breaking"
+        "funding_round"
       ]
     },
     {
@@ -189,48 +282,18 @@
       ]
     },
     {
-      "id": "7b42ecdf64bd",
-      "title": "Anti Fund closes oversubscribed $100m growth fund",
-      "summary": "Anti Fund, a venture and growth investment firm co-led by Geoffrey Woo and Jake Paul, has closed its oversubscribed $100m Anti Fund Growth I, a close which pushes the businesses&#8217; total assets un",
-      "company": "Anti Fund",
-      "link": "https://www.altassets.net/premium/anti-fund-closes-oversubscribed-100m-growth-fund.html",
-      "date": "Jun 19, 26",
-      "source": "AltAssets",
-      "layer": 1,
-      "access": "venture",
-      "score": 14,
-      "moments": [
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "ce47d64e8c63",
-      "title": "Role Model Plots 2026 North American Tour Supporting New Album",
-      "summary": "Role Model has announced a 34-date world tour in support of his upcoming album, Chuck Timely &#38; The Hourglass. The... The post Role Model Plots 2026 North American Tour Supporting New Album appeare",
-      "company": "Role Model Plots",
-      "link": "https://www.ticketnews.com/2026/06/role-model-plots-2026-north-american-tour-supporting-new-album/",
-      "date": "Jun 22, 26",
-      "source": "Ticket News",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "76b113acbb40",
-      "title": "Alternative Views with Adams Street\u2019s Jeff Diehl",
-      "summary": "In Alternative Views, Private Equity Wire\u00ae goes behind closed doors with those in the know to get the latest on private markets. In this episode we discuss Business Development Companies with Jeff Die",
-      "company": "Alternative Views",
-      "link": "https://www.privateequitywire.co.uk/alternative-views-with-adams-streets-jeff-diehl/",
+      "id": "69d5e0a7e335",
+      "title": "The B-52s and Devo Announce Return of \u2018Cosmic De-Evolution\u2019 Tour for Fall 2026",
+      "summary": "The B-52s and Devo will reunite this fall for another run of their co-headlining \u201cCosmic De-Evolution\u201d tour. The eight-date North... The post The B-52s and Devo Announce Return of \u2018Cosmic De-Evolution",
+      "company": "The B-52s",
+      "link": "https://www.ticketnews.com/2026/06/the-b-52s-and-devo-announce-return-of-cosmic-de-evolution-tour-for-fall-2026/",
       "date": "Jun 23, 26",
-      "source": "PE Wire",
+      "source": "Ticket News",
       "layer": 2,
       "access": "pe",
-      "score": 12,
+      "score": 14,
       "moments": [
-        "pe_investment"
+        "festival_headliner"
       ]
     },
     {
@@ -249,44 +312,14 @@
       ]
     },
     {
-      "id": "945cc2ce59b7",
-      "title": "Set times revealed for Kneecap\u2019s massive Crystal Palace Park show with The Mary Wallopers, Fat Dog and more",
-      "summary": "The Irish trio's biggest headline gig to date takes place this weekend The post Set times revealed for Kneecap&#8217;s massive Crystal Palace Park show with The Mary Wallopers, Fat Dog and more appear",
-      "company": "Set",
-      "link": "https://www.nme.com/news/music/kneecap-london-crystal-palace-park-show-full-set-stage-times-revealed-the-mary-wallopers-fat-dog-3952647?utm_source=rss&utm_medium=rss&utm_campaign=kneecap-london-crystal-palace-park-show-full-set-stage-times-revealed-the-mary-wallopers-fat-dog",
+      "id": "c2721571bda0",
+      "title": "New York eyes 2042 Winter Olympics with Lake Placid-NYC bid concept",
+      "summary": "Committee to study Lake Placid-NYC Games2042 emerges as earliest realistic targetState cites existing venues and IOC shiftThe prospect of a Winter Olympics stretching from the Adirondacks to New York ",
+      "company": "New York",
+      "link": "https://www.theguardian.com/sport/2026/jun/23/new-york-winter-olympics-2042-bid-lake-placid-nyc",
       "date": "Jun 23, 26",
-      "source": "NME",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "be67edf576f4",
-      "title": "Apollo, Hellman & Friedman and Platinum Equity invest in live events, as the sector enjoys a wave of PE interest",
-      "summary": "An in-depth look at how private equity firms are taking advantage of the surge in popularity of live events. The post Apollo, Hellman &#038; Friedman and Platinum Equity invest in live events, as the ",
-      "company": "Apollo Hellman",
-      "link": "https://www.pehub.com/apollo-hellman-friedman-and-platinum-equity-invest-in-live-events-as-the-sector-enjoys-a-wave-of-pe-interest/",
-      "date": "Jun 23, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "f901209b33fd",
-      "title": "PE-backed Life Science Connect picks up biopharma brands PharmaSource and CDMO Live",
-      "summary": "The acquisition will form a biopharma outsourcing platform, bringing together PharmaSource, CDMO Live Europe, CDMO Live Americas and External Manufacturing Leaders. The post PE-backed Life Science Con",
-      "company": "PE-backed Life Science Connect",
-      "link": "https://www.pehub.com/pe-backed-life-science-connect-picks-up-biopharma-brands-pharmasource-and-cdmo-live/",
-      "date": "Jun 23, 26",
-      "source": "PE Hub",
-      "layer": 5,
+      "source": "Guardian Sport",
+      "layer": 2,
       "access": "pe",
       "score": 9,
       "moments": [
@@ -294,12 +327,12 @@
       ]
     },
     {
-      "id": "ae6f4345aac4",
-      "title": "Why private equity firms are banking on live events",
-      "summary": "With the global market in this space expected to exceed $1.2trn by 2032, firms like Apollo and Platinum Equity are jumping on the bandwagon. The post Why private equity firms are banking on live event",
-      "company": "Why",
-      "link": "https://www.pehub.com/why-private-equity-is-banking-on-live-events/",
-      "date": "Jun 23, 26",
+      "id": "f970cf66b099",
+      "title": "HIG Capital appoints Carlos Couret as managing director",
+      "summary": "Couret will also serve as the head of lower mid-market private equity in Spain. The post HIG Capital appoints Carlos Couret as managing director appeared first on PE Hub.",
+      "company": "HIG Capital",
+      "link": "https://www.pehub.com/hig-capital-appoints-carlos-couret-as-managing-director/",
+      "date": "Jun 24, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
@@ -309,33 +342,18 @@
       ]
     },
     {
-      "id": "9254655f82bf",
-      "title": "Partners Group shares fall below early-June lows",
-      "summary": "Shares in Swiss private markets manager Partners Group slipped on Monday, breaking below levels reached earlier this month after the firm imposed caps on withdrawals from its $8.6bn private equity fun",
-      "company": "Partners Group",
-      "link": "https://www.privateequitywire.co.uk/partners-group-shares-fall-below-early-june-lows/",
-      "date": "Jun 23, 26",
-      "source": "PE Wire",
-      "layer": 5,
-      "access": "public",
-      "score": 9,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "4707f42afb43",
-      "title": "Alter Domus scales private equity with two senior hires",
-      "summary": "Alter Domus has appointed two senior leaders to strengthen its private equity division as the business continues to expand its platform internationally. Justin Mayer has been named head of private equ",
-      "company": "Alter Domus",
-      "link": "https://www.altassets.net/premium/alter-domus-scales-private-equity-with-two-senior-hires.html",
-      "date": "Jun 18, 26",
-      "source": "AltAssets",
-      "layer": 5,
+      "id": "2595853c7483",
+      "title": "Schwartz Marketing Lab Launches to Help B2B Companies Stay Visible as AI Search Reshapes Organic Discovery",
+      "summary": "Founder Quinn Schwartz built the company to help B2B brands get found in AI search, Google, and modern discovery as ChatGPT, Perplexity, and Google's AI Overviews replace traditional search results wi",
+      "company": "Schwartz Marketing Lab Launches",
+      "link": "https://www.prnewswire.com/news-releases/schwartz-marketing-lab-launches-to-help-b2b-companies-stay-visible-as-ai-search-reshapes-organic-discovery-302809425.html",
+      "date": "Jun 24, 26",
+      "source": "PR Newswire",
+      "layer": 3,
       "access": "pe",
       "score": 9,
       "moments": [
-        "pe_investment"
+        "company_launch"
       ]
     },
     {
@@ -351,6 +369,51 @@
       "score": 8,
       "moments": [
         "company_launch"
+      ]
+    },
+    {
+      "id": "dc872923ad2b",
+      "title": "Watch Babymetal join Bring Me The Horizon on stage for \u2018Kingslayer\u2019 at Graspop Metal Meeting",
+      "summary": "They have rarely played the collaborative track live together since releasing it in 2020 The post Watch Babymetal join Bring Me The Horizon on stage for &#8216;Kingslayer&#8217; at Graspop Metal Meeti",
+      "company": "Watch Babymetal",
+      "link": "https://www.nme.com/news/music/watch-babymetal-join-bring-me-the-horizon-on-stage-for-kingslayer-at-graspop-metal-meeting-3952955?utm_source=rss&utm_medium=rss&utm_campaign=watch-babymetal-join-bring-me-the-horizon-on-stage-for-kingslayer-at-graspop-metal-meeting",
+      "date": "Jun 24, 26",
+      "source": "NME",
+      "layer": 5,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "surprise_appearance"
+      ]
+    },
+    {
+      "id": "0101806c7533",
+      "title": "Check out the stage times for Two Door Cinema Club\u2019s massive Crystal Palace Park show",
+      "summary": "Support will come from special guests The Vaccines, James Marriott, The Royston Club and Garage Flower The post Check out the stage times for Two Door Cinema Club&#8217;s massive Crystal Palace Park s",
+      "company": "Check",
+      "link": "https://www.nme.com/news/music/check-out-the-stage-times-for-two-door-cinema-clubs-massive-crystal-palace-park-show-3952892?utm_source=rss&utm_medium=rss&utm_campaign=check-out-the-stage-times-for-two-door-cinema-clubs-massive-crystal-palace-park-show",
+      "date": "Jun 24, 26",
+      "source": "NME",
+      "layer": 5,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "surprise_appearance"
+      ]
+    },
+    {
+      "id": "5f5ec2e74ab3",
+      "title": "From military brats to birthright citizens: how USMNT\u2019s magnificent mess became its strength",
+      "summary": "For years the United States sought a single soccer identity. Instead, its best team emerged from a patchwork of backgrounds, cultures and development pathsIn 1993, the United States Soccer Federation ",
+      "company": "From military brats to birthright citizens",
+      "link": "https://www.theguardian.com/football/2026/jun/24/usmnt-diverse-pathways-american-soccer-development-2026-world-cup",
+      "date": "Jun 24, 26",
+      "source": "Guardian Sport",
+      "layer": 2,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "acquisition"
       ]
     },
     {
@@ -384,94 +447,55 @@
       ]
     },
     {
-      "id": "cbc00077b12d",
-      "title": "\u2018Moana 2\u2019 Box Office, Disney+ Subscribers Drive Disney U.K. Revenue to $5.8 Billion in 2025",
-      "summary": "The Walt Disney Company\u2019s U.K. subsidiary, The Walt Disney Company Limited, which encompasses theatrical film distribution, streaming and licensing, generated more than \u00a34.4 billion ($5.8 billion) in ",
-      "company": "\u2018Moana",
-      "link": "https://variety.com/2026/biz/global/disney-uk-revenue-2025-box-office-streaming-1236786970/",
-      "date": "Jun 22, 26",
-      "source": "Variety Biz",
+      "id": "9fe633ad1c10",
+      "title": "When the World Cup Came to SoFi Stadium, He Got a Backyard View",
+      "summary": "SoFi Stadium, the $5 billion event venue near Los Angeles, is on global display for the soccer tournament. But for some who live close by, it is just another headache.",
+      "company": "When",
+      "link": "https://www.nytimes.com/2026/06/24/arts/world-cup-sofi-stadium.html",
+      "date": "Jun 24, 26",
+      "source": "NYT Arts",
       "layer": 2,
       "access": "pe",
-      "score": 13,
+      "score": 16,
       "moments": []
     },
     {
-      "id": "73be32804129",
-      "title": "Scottish fans\u2019 friendly USA invasion exemplifies the joy of the World Cup | Philipp Lahm",
-      "summary": "Major tournaments bring people together and Scotland\u2019s welcome presence adds to the case for a 48-team eventI could watch videos of the Scots online for hours. Wearing kilts, they marched through Bost",
-      "company": "Scottish",
-      "link": "https://www.theguardian.com/football/2026/jun/23/scotland-fans-usa-world-cup-joy-fifa",
+      "id": "d7f82150ee5b",
+      "title": "States Fight Live Nation Bid to Undo Monopoly Verdict as New Filing Details White House Settlement Talks",
+      "summary": "The state attorneys general who won a sweeping antitrust verdict against Live Nation and Ticketmaster are urging a federal judge... The post States Fight Live Nation Bid to Undo Monopoly Verdict as Ne",
+      "company": "States Fight Live Nation Bid",
+      "link": "https://www.ticketnews.com/2026/06/states-fight-live-nation-bid-to-undo-monopoly-verdict-as-new-filing-details-white-house-settlement-talks/",
       "date": "Jun 23, 26",
-      "source": "Guardian Sport",
-      "layer": 2,
+      "source": "Ticket News",
+      "layer": 3,
       "access": "pe",
       "score": 11,
       "moments": []
     },
     {
-      "id": "776ac4d533cf",
-      "title": "Kansas City Athletics Signs Four-Year Ticketing and Sponsorship Deal With Playfly Sports",
-      "summary": "Kansas City Athletics has entered into a new four-year agreement with Playfly Sports aimed at strengthening ticket sales, sponsorship efforts,... The post Kansas City Athletics Signs Four-Year Ticketi",
+      "id": "bfa521003351",
+      "title": "Creator-Focused Management Firm Fixated Expands With Talent Agency Alums (EXCLUSIVE)",
+      "summary": "Fixated, the creator-forward management company, is expanding its creator presence with new hires plucked from CAA and the creator-focused agency Evolved. The company said it has hired Skyler Spooner ",
       "company": "",
-      "link": "https://www.ticketnews.com/2026/06/kansas-city-athletics-signs-four-year-ticketing-and-sponsorship-deal-with-playfly-sports/",
-      "date": "Jun 22, 26",
-      "source": "Ticket News",
+      "link": "https://variety.com/2026/biz/news/creator-talent-agency-fixated-new-hires-1236787684/",
+      "date": "Jun 23, 26",
+      "source": "Variety Biz",
       "layer": 4,
       "access": "pe",
-      "score": 11,
+      "score": 6,
       "moments": []
     },
     {
-      "id": "2cfdff8a33fa",
-      "title": "Minnesota Wild Tap SeatGeek for Primary Ticketing at Grand Casino Arena",
-      "summary": "The Minnesota Wild are moving their ticketing operation to SeatGeek in a multi-year deal that will put the platform in... The post Minnesota Wild Tap SeatGeek for Primary Ticketing at Grand Casino Are",
-      "company": "Minnesota Wild Tap SeatGeek",
-      "link": "https://www.ticketnews.com/2026/06/minnesota-wild-tap-seatgeek-ticketing-grand-casino-arena/",
-      "date": "Jun 22, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 11,
-      "moments": []
-    },
-    {
-      "id": "4fa8f4327b43",
-      "title": "Rod Wave Sets 25-City \u2018Don\u2019t Look Down\u2019 Arena Tour",
-      "summary": "Rod Wave is taking Don\u2019t Look Down on the road \u2014 and he\u2019s going big. The Grammy-nominated, multiplatinum rapper and... The post Rod Wave Sets 25-City \u2018Don\u2019t Look Down\u2019 Arena Tour appeared first on Tic",
-      "company": "Rod Wave Sets",
-      "link": "https://www.ticketnews.com/2026/06/rod-wave-sets-25-date-dont-look-down-arena-tour/",
-      "date": "Jun 22, 26",
-      "source": "Ticket News",
-      "layer": 2,
-      "access": "pe",
-      "score": 10,
-      "moments": []
-    },
-    {
-      "id": "08b01d3f0644",
-      "title": "Jay Bilas: 2026 NBA Draft Is Most Star-Studded Since 2003",
-      "summary": "Bilas will be a part of ESPN\u2019s broadcast on Tuesday night.",
-      "company": "Jay Bilas",
-      "link": "https://frontofficesports.com/jay-bilas-2026-nba-draft-star-studded-2003/",
-      "date": "Jun 22, 26",
-      "source": "Front Office Sports",
-      "layer": 3,
-      "access": "pe",
-      "score": 9,
-      "moments": []
-    },
-    {
-      "id": "d78be3f3ad01",
-      "title": "People Inc. CEO accuses Google of abusing its market power with web crawling",
-      "summary": "CANNES, France \u2014 People Inc. CEO Neil Vogel accused Google of abusing its market power by using the same crawler for both search and AI.Why it matters: While some publishers want to block crawlers to ",
-      "company": "People Inc CEO",
-      "link": "https://www.axios.com/2026/06/23/people-inc-google-ai-search-crawler",
+      "id": "eda9b7c8ff11",
+      "title": "NCAA Approves New \u2018Age-Based\u2019 Eligibility Rule, Prompting More Lawsuits",
+      "summary": "Jun 18, 2023; Omaha, NE, USA; An on-deck circle with the NCAA logo is pictured on the field before the game between the Virginia Cavaliers and the TCU Horned Frogs at Charles Schwab Field Omaha. Manda",
+      "company": "",
+      "link": "https://frontofficesports.com/ncaa-approves-new-age-based-eligibility-rule-prompting-more-lawsuits/",
       "date": "Jun 23, 26",
-      "source": "Axios",
-      "layer": 2,
+      "source": "Front Office Sports",
+      "layer": 4,
       "access": "pe",
-      "score": 8,
+      "score": 5,
       "moments": []
     },
     {
@@ -498,32 +522,6 @@
       "layer": 3,
       "access": "pe",
       "score": 5,
-      "moments": []
-    },
-    {
-      "id": "9c348660c596",
-      "title": "World Cup tourists discover America \u2014 and delight us all",
-      "summary": "The 2026 World Cup is generating a veritable army of modern-day de Tocquevilles discovering America.Why it matters: It's a huge moment for U.S. soft power, as the country nears its 250 birthday with a",
-      "company": "World Cup",
-      "link": "https://www.axios.com/2026/06/20/world-cup-tourists",
-      "date": "Jun 20, 26",
-      "source": "Axios",
-      "layer": 4,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "69be83008957",
-      "title": "LG OLED evo AI G6: The Next-Generation OLED TV That Meets Hollywood",
-      "summary": "Last May, LG OLED TV visited Picture Shop, a post-production company based in Los Angeles. As a long-standing partner for Hollywood technicians, the company was there to showcase the 2026 LG OLED evo ",
-      "company": "LG OLED evo AI G6",
-      "link": "https://variety.com/2026/biz/news/lg-oled-evo-ai-g6-next-generation-oled-tv-that-meets-hollywood-1236785615/",
-      "date": "Jun 19, 26",
-      "source": "Variety Biz",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
       "moments": []
     },
     {
