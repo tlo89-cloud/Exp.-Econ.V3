@@ -1,21 +1,54 @@
 {
-  "generated": "2026-06-24T14:41:36.788319+00:00",
-  "total": 36,
+  "generated": "2026-06-25T14:41:22.647157+00:00",
+  "total": 37,
   "scraped": [
     {
-      "id": "13c33be7bca0",
-      "title": "INVL Family Office launches PE secondaries fund",
-      "summary": "INVL Family Office has launched a new fund giving investors access to the global private equity secondary market. The Global PE Secondaries Access Fund will channel capital into a secondary platform m",
-      "company": "INVL Family Office",
-      "link": "https://www.altassets.net/premium/invl-family-office-launches-pe-secondaries-fund.html",
-      "date": "Jun 22, 26",
+      "id": "441d8eebb070",
+      "title": "Main Capital races to \u20ac5.25bn hard cap in double fund close",
+      "summary": "Main Capital Partners has closed its latest flagship and foundation vehicles on a combined \u20ac5.25bn, more than doubling the size of its predecessor funds and marking one of the largest private equity f",
+      "company": "Main Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/netherlands-western-europe-europe-by-region/main-capital-races-to-e5-25bn-hard-cap-in-double-fund-close.html",
+      "date": "Jun 25, 26",
       "source": "AltAssets",
       "layer": 1,
       "access": "pe",
-      "score": 20,
+      "score": 22,
       "moments": [
         "pe_investment",
-        "fund_launch"
+        "fund_launch",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "f910b7fcd439",
+      "title": "beabadoobee Announces 2026 Powerlines Tour Ahead of New Album Release",
+      "summary": "beabadoobee has announced the Powerlines Tour, a major North American and European headlining run that will mark the biggest tour... The post beabadoobee Announces 2026 Powerlines Tour Ahead of New Al",
+      "company": "Announces",
+      "link": "https://www.ticketnews.com/2026/06/beabadoobee-announces-2026-powerlines-tour-ahead-of-new-album-release/",
+      "date": "Jun 25, 26",
+      "source": "Ticket News",
+      "layer": 1,
+      "access": "pe",
+      "score": 24,
+      "moments": [
+        "album_announcement",
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "8313f40eb205",
+      "title": "Max Martin and Shellback Sell Catalog Including Taylor Swift and Ariana Grande Songs to HarbourView Equity Partners (EXCLUSIVE)",
+      "summary": "Investment firm HarbourView Equity Partners has announced a strategic partnership with Wolf Cousins, the songwriting collective founded by Shellback and Max Martin, two of the most successful songwrit",
+      "company": "Max Martin",
+      "link": "https://variety.com/2026/music/news/max-martin-shellback-taylor-swift-sell-catalog-harbourview-1236789316/",
+      "date": "Jun 24, 26",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 21,
+      "moments": [
+        "acquisition",
+        "company_launch"
       ]
     },
     {
@@ -35,19 +68,19 @@
       ]
     },
     {
-      "id": "f1f963455aee",
-      "title": "Deal Roundup: Montagu set to acquire majority stake in BMC Helix, Bull Moose to snap up Hanna Steel",
-      "summary": "Montagu, a leading mid-market private equity firm, has agreed to acquire a majority stake in BMC Helix in a carve-out transaction from BMC Software. Funds managed by KKR, a leading global investment f",
-      "company": "Deal Roundup",
-      "link": "https://www.altassets.net/premium/deal-roundup-montagu-set-to-acquire-majority-stake-in-bmc-helix-bull-moose-to-snap-up-hanna-steel.html",
-      "date": "Jun 19, 26",
-      "source": "AltAssets",
+      "id": "784e9710dd63",
+      "title": "Watch Skunk Anansie bring out the umbrellas to join Garbage on stage for \u2018Only Happy When It Rains\u2019 at end of co-headline tour: \u201cThis is what true...",
+      "summary": "Skin called the run of joint dates \"incredible\" and \"mindblowing\" The post Watch Skunk Anansie bring out the umbrellas to join Garbage on stage for &#8216;Only Happy When It Rains&#8217; at end of co-",
+      "company": "Watch Skunk Anansie",
+      "link": "https://www.nme.com/news/music/watch-skunk-anansie-bring-out-the-umbrellas-to-join-garbage-on-stage-for-only-happy-when-it-rains-at-end-of-co-headline-tour-this-is-what-true-sisterhood-and-fraternity-looks-like-3953113?utm_source=rss&utm_medium=rss&utm_campaign=watch-skunk-anansie-bring-out-the-umbrellas-to-join-garbage-on-stage-for-only-happy-when-it-rains-at-end-of-co-headline-tour-this-is-what-true-sisterhood-and-fraternity-looks-like",
+      "date": "Jun 25, 26",
+      "source": "NME",
       "layer": 5,
       "access": "pe",
-      "score": 19,
+      "score": 16,
       "moments": [
-        "acquisition",
-        "pe_investment"
+        "surprise_appearance",
+        "festival_headliner"
       ]
     },
     {
@@ -83,6 +116,54 @@
       ]
     },
     {
+      "id": "8cf0be4cf1f4",
+      "title": "Quadrivio & Pambianco, Capdesia to acquire Italy\u2019s Alice Pizza",
+      "summary": "Alice Pizza is a Rome-founded fast casual pizza chain with 231 sites across Italy and internationally. The post Quadrivio &#038; Pambianco, Capdesia to acquire Italy&#8217;s Alice Pizza appeared first",
+      "company": "Quadrivio",
+      "link": "https://www.pehub.com/quadrivio-pambianco-capdesia-acquire-italys-alice-pizza/",
+      "date": "Jun 25, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "acquisition",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "56d849c5c007",
+      "title": "Magellan Capital launches $250-targeting GCC asset-backed lending fund",
+      "summary": "Dubai-based Magellan Capital has launched an evergreen asset-backed credit fund with $50m of seed capital, targeting more than $250m in assets under management over the medium term. The post Magellan ",
+      "company": "Magellan Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/middle-east-and-israel-by-region/magellan-capital-launches-250-targeting-gcc-asset-backed-lending-fund.html",
+      "date": "Jun 25, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "ebc06fc125d9",
+      "title": "CapMan Infra holds first close on \u20ac750m-targeting Nordic fund",
+      "summary": "CapMan Infra has held a first close for its third Nordic infrastructure vehicle as the manager targets \u20ac750m for what would be its largest infrastructure fund to date. The post CapMan Infra holds firs",
+      "company": "CapMan Infra holds first",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/norway-western-europe-europe-by-region/capman-infra-holds-first-close-on-e750m-targeting-nordic-fund.html",
+      "date": "Jun 25, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
       "id": "8f6abb96dac1",
       "title": "Livelihoods launches \u20ac150m nature-based climate fund",
       "summary": "Nature-based climate investment firm Livelihoods has launched its fourth carbon fund, targeting \u20ac150m to finance large-scale ecosystem restoration projects. The Livelihoods Carbon Fund 4 (LCF4) has al",
@@ -96,22 +177,6 @@
       "moments": [
         "funding_round",
         "fund_launch"
-      ]
-    },
-    {
-      "id": "b113a0ee8124",
-      "title": "Seedcamp raises $320m to back growing global tech wave",
-      "summary": "Seedcamp, the European venture capital firm, has closed a $320m fundraise to back the next generation of globally ambitious founders. The new capital is split between $220m for Seedcamp Fund VII, the ",
-      "company": "Seedcamp",
-      "link": "https://www.altassets.net/premium/seedcamp-raises-320m-to-back-growing-global-tech-wave.html",
-      "date": "Jun 23, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "venture",
-      "score": 13,
-      "moments": [
-        "funding_round",
-        "company_launch"
       ]
     },
     {
@@ -147,18 +212,18 @@
       ]
     },
     {
-      "id": "5792fb00fb52",
-      "title": "Phoebe Bridgers Announces New Album, \u2018Lost Weekend\u2019",
-      "summary": "As expected, Phoebe Bridgers has announced her third full-length solo album, \u201cLost Weekend,\u201d arriving August 14 on Dead Oceans. The announcement follows a series of concerts where the singer debuted h",
-      "company": "Phoebe Bridgers Announces New Album \u2018Lost",
-      "link": "https://variety.com/2026/music/news/phoebe-bridgers-new-album-lost-weekend-1236789183/",
-      "date": "Jun 24, 26",
-      "source": "Variety Music",
+      "id": "005a841cf91f",
+      "title": "As Touring Costs Rise, a New Platform Wants to Help Artists Determine If a Show Is Worth Playing",
+      "summary": "Founded by two touring musicians, GigLogic is designed to evaluate a potential concert's profitability.",
+      "company": "As Touring Costs Rise",
+      "link": "https://www.billboard.com/pro/touring-costs-calculated-new-platform-artists-evaluate-gigs/",
+      "date": "Jun 25, 26",
+      "source": "Billboard",
       "layer": 1,
       "access": "pe",
-      "score": 20,
+      "score": 22,
       "moments": [
-        "album_announcement"
+        "company_launch"
       ]
     },
     {
@@ -172,6 +237,21 @@
       "layer": 2,
       "access": "venture",
       "score": 20,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "6c53f0409fbe",
+      "title": "Paramount-Warner Bros. Merger Set to Clear European Union Regulatory Hurdle (Report)",
+      "summary": "Regulatory officials in Brussels are expected to greenlight Paramount\u2019s $111 billion takeover of Warner Bros. Discovery, according to a Financial Times report, following its approval earlier this mont",
+      "company": "Paramount-Warner Bros Merger Set",
+      "link": "https://variety.com/2026/biz/global/paramount-warner-bros-merger-european-union-approval-1236789292/",
+      "date": "Jun 24, 26",
+      "source": "Variety Biz",
+      "layer": 3,
+      "access": "pe",
+      "score": 17,
       "moments": [
         "acquisition"
       ]
@@ -222,78 +302,33 @@
       ]
     },
     {
-      "id": "292f3f366b5b",
-      "title": "Democratic Senators Urge FCC to Block Closing of Paramount-Warner Bros. Merger Until Review of Deal\u2019s Foreign Investment Concludes",
-      "summary": "Three Democratic U.S. senators are urging the FCC to prevent Paramount Skydance from closing its $111 billion merger with Warner Bros. Discovery until the government&#8217;s national security review o",
-      "company": "Democratic Senators Urge FCC",
-      "link": "https://variety.com/2026/biz/news/senators-fcc-paramount-warner-bros-merger-closing-foreign-investment-review-1236785963/",
-      "date": "Jun 19, 26",
-      "source": "Variety Biz",
+      "id": "0f95d5b0c8fd",
+      "title": "BlackRock backs secondary market platform Caplight in Series A round",
+      "summary": "Caplight, a platform providing pricing data and transaction infrastructure for private company shares, has raised $16m in a Series A funding round co-led by BlackRock and Fin Capital, according to a r",
+      "company": "BlackRock",
+      "link": "https://www.privateequitywire.co.uk/blackrock-backs-secondary-market-platform-caplight-in-series-a-round/",
+      "date": "Jun 25, 26",
+      "source": "PE Wire",
       "layer": 3,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "a2bb9278bd24",
-      "title": "Taylor Swift and Lainey Wilson Surprise Duet \u2018Love Story\u2019 at Travis Kelce\u2019s NFL Concert",
-      "summary": "Swift made a surprise appearance at Kelce\u2019s annual Tight End University summit",
-      "company": "Taylor Swift",
-      "link": "https://www.rollingstone.com/music/music-news/taylor-swift-lainey-wilson-love-story-tight-end-university-1235582910/",
-      "date": "Jun 24, 26",
-      "source": "Rolling Stone Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "surprise_appearance"
-      ]
-    },
-    {
-      "id": "469482f05034",
-      "title": "Anthropic Backer Menlo Ventures Raises $3B In New Funds To Back AI Startups Across Stages",
-      "summary": "Venture firm Menlo Ventures has raised $3 billion across two new funds, the largest capital raise in its 50-year history, to invest in AI startups from seed through growth stage. The firm says the new",
-      "company": "Anthropic Backer Menlo Ventures Raises",
-      "link": "https://news.crunchbase.com/venture/menlo-ventures-raise-ai-startup-funding-across-stages-anthropic/",
-      "date": "Jun 23, 26",
-      "source": "Crunchbase News",
-      "layer": 1,
-      "access": "venture",
-      "score": 15,
+      "access": "public",
+      "score": 12,
       "moments": [
         "funding_round"
       ]
     },
     {
-      "id": "b2e3cac7544b",
-      "title": "Brazos Residential names new CIO to drive growth",
-      "summary": "Multifamily real estate private equity firm Brazos Residential has named Wyatt Simmons as its chief investment officer. Simmons takes the role with nearly a decade of experience across multifamily rea",
-      "company": "Brazos Residential",
-      "link": "https://www.altassets.net/private-equity-news/brazos-residential-names-new-cio-to-drive-growth.html",
-      "date": "Jun 22, 26",
+      "id": "5fa8f8673082",
+      "title": "British Business Bank commits up to \u00a390m to first-time venture capital managers",
+      "summary": "The British Business Bank has committed up to \u00a390m to a group of 10 emerging UK venture capital managers - the first investments made under its \u00a3400m Investor Pathways Capital programme. The post Brit",
+      "company": "British Business Bank",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/british-business-bank-commits-up-to-90m-to-first-time-venture-capital-managers.html",
+      "date": "Jun 25, 26",
       "source": "AltAssets",
-      "layer": 2,
+      "layer": 5,
       "access": "pe",
-      "score": 14,
+      "score": 12,
       "moments": [
         "pe_investment"
-      ]
-    },
-    {
-      "id": "69d5e0a7e335",
-      "title": "The B-52s and Devo Announce Return of \u2018Cosmic De-Evolution\u2019 Tour for Fall 2026",
-      "summary": "The B-52s and Devo will reunite this fall for another run of their co-headlining \u201cCosmic De-Evolution\u201d tour. The eight-date North... The post The B-52s and Devo Announce Return of \u2018Cosmic De-Evolution",
-      "company": "The B-52s",
-      "link": "https://www.ticketnews.com/2026/06/the-b-52s-and-devo-announce-return-of-cosmic-de-evolution-tour-for-fall-2026/",
-      "date": "Jun 23, 26",
-      "source": "Ticket News",
-      "layer": 2,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "festival_headliner"
       ]
     },
     {
@@ -312,93 +347,18 @@
       ]
     },
     {
-      "id": "c2721571bda0",
-      "title": "New York eyes 2042 Winter Olympics with Lake Placid-NYC bid concept",
-      "summary": "Committee to study Lake Placid-NYC Games2042 emerges as earliest realistic targetState cites existing venues and IOC shiftThe prospect of a Winter Olympics stretching from the Adirondacks to New York ",
-      "company": "New York",
-      "link": "https://www.theguardian.com/sport/2026/jun/23/new-york-winter-olympics-2042-bid-lake-placid-nyc",
-      "date": "Jun 23, 26",
-      "source": "Guardian Sport",
-      "layer": 2,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "f970cf66b099",
-      "title": "HIG Capital appoints Carlos Couret as managing director",
-      "summary": "Couret will also serve as the head of lower mid-market private equity in Spain. The post HIG Capital appoints Carlos Couret as managing director appeared first on PE Hub.",
-      "company": "HIG Capital",
-      "link": "https://www.pehub.com/hig-capital-appoints-carlos-couret-as-managing-director/",
-      "date": "Jun 24, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "2595853c7483",
-      "title": "Schwartz Marketing Lab Launches to Help B2B Companies Stay Visible as AI Search Reshapes Organic Discovery",
-      "summary": "Founder Quinn Schwartz built the company to help B2B brands get found in AI search, Google, and modern discovery as ChatGPT, Perplexity, and Google's AI Overviews replace traditional search results wi",
-      "company": "Schwartz Marketing Lab Launches",
-      "link": "https://www.prnewswire.com/news-releases/schwartz-marketing-lab-launches-to-help-b2b-companies-stay-visible-as-ai-search-reshapes-organic-discovery-302809425.html",
-      "date": "Jun 24, 26",
-      "source": "PR Newswire",
-      "layer": 3,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
       "id": "bdf57ea24009",
       "title": "Here\u2019s What \u2018the Most Important Mozart Discovery in Decades\u2019 Sounds Like",
       "summary": "A newly found notebook documenting the composer\u2019s lessons with a student includes seven previously unknown compositions.",
       "company": "Here\u2019s What",
       "link": "https://www.nytimes.com/2026/06/22/arts/music/mozart-music-flute-harp.html",
       "date": "Jun 22, 26",
-      "source": "NYT Arts",
+      "source": "NYT Music",
       "layer": 3,
       "access": "pe",
       "score": 8,
       "moments": [
         "company_launch"
-      ]
-    },
-    {
-      "id": "dc872923ad2b",
-      "title": "Watch Babymetal join Bring Me The Horizon on stage for \u2018Kingslayer\u2019 at Graspop Metal Meeting",
-      "summary": "They have rarely played the collaborative track live together since releasing it in 2020 The post Watch Babymetal join Bring Me The Horizon on stage for &#8216;Kingslayer&#8217; at Graspop Metal Meeti",
-      "company": "Watch Babymetal",
-      "link": "https://www.nme.com/news/music/watch-babymetal-join-bring-me-the-horizon-on-stage-for-kingslayer-at-graspop-metal-meeting-3952955?utm_source=rss&utm_medium=rss&utm_campaign=watch-babymetal-join-bring-me-the-horizon-on-stage-for-kingslayer-at-graspop-metal-meeting",
-      "date": "Jun 24, 26",
-      "source": "NME",
-      "layer": 5,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "surprise_appearance"
-      ]
-    },
-    {
-      "id": "0101806c7533",
-      "title": "Check out the stage times for Two Door Cinema Club\u2019s massive Crystal Palace Park show",
-      "summary": "Support will come from special guests The Vaccines, James Marriott, The Royston Club and Garage Flower The post Check out the stage times for Two Door Cinema Club&#8217;s massive Crystal Palace Park s",
-      "company": "Check",
-      "link": "https://www.nme.com/news/music/check-out-the-stage-times-for-two-door-cinema-clubs-massive-crystal-palace-park-show-3952892?utm_source=rss&utm_medium=rss&utm_campaign=check-out-the-stage-times-for-two-door-cinema-clubs-massive-crystal-palace-park-show",
-      "date": "Jun 24, 26",
-      "source": "NME",
-      "layer": 5,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "surprise_appearance"
       ]
     },
     {
@@ -460,27 +420,66 @@
       "moments": []
     },
     {
-      "id": "d7f82150ee5b",
-      "title": "States Fight Live Nation Bid to Undo Monopoly Verdict as New Filing Details White House Settlement Talks",
-      "summary": "The state attorneys general who won a sweeping antitrust verdict against Live Nation and Ticketmaster are urging a federal judge... The post States Fight Live Nation Bid to Undo Monopoly Verdict as Ne",
-      "company": "States Fight Live Nation Bid",
-      "link": "https://www.ticketnews.com/2026/06/states-fight-live-nation-bid-to-undo-monopoly-verdict-as-new-filing-details-white-house-settlement-talks/",
-      "date": "Jun 23, 26",
-      "source": "Ticket News",
-      "layer": 3,
+      "id": "07efeb439596",
+      "title": "Sony Pictures Invests $100 Million in Cosm, Shared-Reality Venue Owner",
+      "summary": "Sony Pictures Entertainment has invested $100 million in Cosm, the entertainment and tech company focused on creating shared-reality experiences through immersive dome-like venues throughout the U.S. ",
+      "company": "Sony Pictures Invests",
+      "link": "https://variety.com/2026/biz/news/sony-pictures-100-million-cosm-shared-reality-venue-owner-1236789422/",
+      "date": "Jun 24, 26",
+      "source": "Variety Biz",
+      "layer": 2,
+      "access": "venture",
+      "score": 15,
+      "moments": []
+    },
+    {
+      "id": "1204d86166ae",
+      "title": "PGA Tour Bets New Tour Championship Will Drive More Buzz, Revenue",
+      "summary": "Brett Davis-Imagn Images",
+      "company": "PGA Tour Bets New Tour Championship",
+      "link": "https://frontofficesports.com/pga-tour-bets-new-tour-championship-will-drive-more-buzz-revenue/",
+      "date": "Jun 24, 26",
+      "source": "Front Office Sports",
+      "layer": 2,
       "access": "pe",
       "score": 11,
       "moments": []
     },
     {
-      "id": "bfa521003351",
-      "title": "Creator-Focused Management Firm Fixated Expands With Talent Agency Alums (EXCLUSIVE)",
-      "summary": "Fixated, the creator-forward management company, is expanding its creator presence with new hires plucked from CAA and the creator-focused agency Evolved. The company said it has hired Skyler Spooner ",
+      "id": "3f8f72867893",
+      "title": "Fox, Bravo and BET Look to Take Microdramas Mainstream",
+      "summary": "Major networks like Fox, Bravo and BET are translating shows to the short-form video format that last year made $11 billion in global revenue.",
+      "company": "Fox Bravo",
+      "link": "https://www.nytimes.com/2026/06/25/arts/television/microdrama-short-tv-series-bravo-lifetime-bet.html",
+      "date": "Jun 25, 26",
+      "source": "NYT Arts",
+      "layer": 2,
+      "access": "pe",
+      "score": 11,
+      "moments": []
+    },
+    {
+      "id": "0883f94912fc",
+      "title": "Live Nation Discloses That CEO Spoke With Trump Before Surprise Antitrust Trial Settlement",
+      "summary": "Live Nation has confirmed that the company had several meetings with the Department of Justice and the Office of the White House Counsel before a surprise antitrust trial settlement, while its preside",
+      "company": "Live Nation Discloses That CEO Spoke",
+      "link": "https://variety.com/2026/music/news/live-nation-ceo-spoke-with-trump-before-trial-settlement-1236789546/",
+      "date": "Jun 24, 26",
+      "source": "Variety Music",
+      "layer": 3,
+      "access": "pe",
+      "score": 7,
+      "moments": []
+    },
+    {
+      "id": "4fc95c2b043f",
+      "title": "Consumer Agency Says FIFA Subsidiary, Ticketmaster and Vivid Seats Violated B.C\u2019s Ticketing Laws",
+      "summary": "A British Columbia consumer watchdog has entered into enforcement undertakings with FIFA\u2019s Canadian World Cup subsidiary, Ticketmaster Canada and Vivid... The post Consumer Agency Says FIFA Subsidiary",
       "company": "",
-      "link": "https://variety.com/2026/biz/news/creator-talent-agency-fixated-new-hires-1236787684/",
-      "date": "Jun 23, 26",
-      "source": "Variety Biz",
-      "layer": 4,
+      "link": "https://www.ticketnews.com/2026/06/fifa-subsidiary-ticketmaster-and-vivid-seats-face-b-c-ticket-law-scrutiny/",
+      "date": "Jun 24, 26",
+      "source": "Ticket News",
+      "layer": 3,
       "access": "pe",
       "score": 6,
       "moments": []
@@ -499,29 +498,42 @@
       "moments": []
     },
     {
-      "id": "f41f357bcf35",
-      "title": "Brian Large, Who Brought Opera Vividly to Life on Film, Dies at 89",
-      "summary": "In a directing career that included over 70 Met Opera broadcasts, he said his work was \u201cdictated by the music, by key change, by orchestration, by phrasing.\u201d",
-      "company": "Brian Large Who Brought Opera Vividly",
-      "link": "https://www.nytimes.com/2026/06/19/arts/music/brian-large-dead.html",
-      "date": "Jun 19, 26",
-      "source": "NYT Music",
+      "id": "edb01672fade",
+      "title": "Is Canada About to Enter the Eurovision Song Contest?",
+      "summary": "As Canada\u2019s government looks more toward Europe and less to the United States, its national broadcaster has become a full member of the group that organizes the glitzy singing event.",
+      "company": "Is Canada About",
+      "link": "https://www.nytimes.com/2026/06/25/arts/television/canada-eurovision.html",
+      "date": "Jun 25, 26",
+      "source": "NYT Arts",
       "layer": 3,
       "access": "pe",
       "score": 5,
       "moments": []
     },
     {
-      "id": "ad43090ca663",
-      "title": "'A great vibe.' Pacific Northwest joins Los Angeles in an embrace of World Cup fever",
-      "summary": "If this World Cup has been marred by astronomical ticket prices, that hasn't put a damper on the tournament in the Pacific Northwest. L.A. is far from the only city with World Cup fever.",
-      "company": "Pacific Northwest",
-      "link": "https://www.latimes.com/sports/soccer/story/2026-06-23/pacific-northwest-joins-los-angeles-in-embrace-of-world-cup-fever",
-      "date": "Jun 23, 26",
-      "source": "LA Times Sports",
-      "layer": 3,
+      "id": "43780b0ca895",
+      "title": "\u2018Hard Fork\u2019 Hosts Kevin Roose, Casey Newton Sign With UTA (EXCLUSIVE)",
+      "summary": "Kevin Roose and Casey Newton, two prominent tech journalists and hosts of the New York Times podcast \u201cHard Fork,\u201d have signed with UTA for representation, signaling the duo&#8217;s independent ambitio",
+      "company": "\u2018Hard Fork\u2019 Hosts Kevin Roose Casey",
+      "link": "https://variety.com/2026/biz/news/hard-fork-kevin-roose-casey-newton-uta-exclusive-1236789128/",
+      "date": "Jun 24, 26",
+      "source": "Variety Biz",
+      "layer": 4,
       "access": "pe",
-      "score": 5,
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "497b922e414f",
+      "title": "World Cup 2026: car hits crowd in Mexico, Scotland face waiting game and more \u2013 live",
+      "summary": "\u26bd Latest news from day 15 | Vehicle hits crowd in Mexico\u26bd World Cup Q&amp;A: post your questions for our US team\u26bd Player guide | Bracketology | Golden Boot | Mail TahaMauricio Pochettino\u2019s US team are",
+      "company": "World Cup 2026",
+      "link": "https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live",
+      "date": "Jun 25, 26",
+      "source": "Guardian Sport",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
       "moments": []
     },
     {
