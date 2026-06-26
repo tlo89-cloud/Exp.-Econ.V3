@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-25T14:41:22.647157+00:00",
+  "generated": "2026-06-26T14:34:54.017681+00:00",
   "total": 37,
   "scraped": [
     {
@@ -20,67 +20,51 @@
       ]
     },
     {
-      "id": "f910b7fcd439",
-      "title": "beabadoobee Announces 2026 Powerlines Tour Ahead of New Album Release",
-      "summary": "beabadoobee has announced the Powerlines Tour, a major North American and European headlining run that will mark the biggest tour... The post beabadoobee Announces 2026 Powerlines Tour Ahead of New Al",
-      "company": "Announces",
-      "link": "https://www.ticketnews.com/2026/06/beabadoobee-announces-2026-powerlines-tour-ahead-of-new-album-release/",
+      "id": "3ffd6d8ba3ff",
+      "title": "Music Industry Moves: Xavi Signs With Universal Publishing; Ellie Goulding Returns to WME; UTA Inks Top Filipino Group SB19",
+      "summary": "M\u00fasica mexicana star Xavi has signed an exclusive worldwide publishing deal with Universal Music Publishing Group, the company announced Thursday. The signing follows the release of his sophomore albu",
+      "company": "Music Industry Moves",
+      "link": "https://variety.com/2026/music/news/xavi-signs-with-universal-publishing-1236790659/",
       "date": "Jun 25, 26",
-      "source": "Ticket News",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 25,
+      "moments": [
+        "record_deal",
+        "streaming_milestone"
+      ]
+    },
+    {
+      "id": "c20690d76ecf",
+      "title": "Cleveland Cavaliers Selling LP Stake to Blue Owl at $5.5B Valuation",
+      "summary": "The Cleveland Cavaliers are nearing a deal to sell a 5% to 10% stake in the NBA franchise to private equity firm Blue Owl. The deal values the NBA team and Cleveland WNBA team set to start play in 202",
+      "company": "Cleveland Cavaliers Selling LP Stake",
+      "link": "https://www.sportico.com/business/team-sales/2026/cleveland-cavaliers-blue-owl-stake-sale-1234937061/",
+      "date": "Jun 25, 26",
+      "source": "Sportico",
       "layer": 1,
       "access": "pe",
       "score": 24,
       "moments": [
-        "album_announcement",
-        "festival_headliner"
+        "valuation",
+        "pe_investment"
       ]
     },
     {
-      "id": "8313f40eb205",
-      "title": "Max Martin and Shellback Sell Catalog Including Taylor Swift and Ariana Grande Songs to HarbourView Equity Partners (EXCLUSIVE)",
-      "summary": "Investment firm HarbourView Equity Partners has announced a strategic partnership with Wolf Cousins, the songwriting collective founded by Shellback and Max Martin, two of the most successful songwrit",
-      "company": "Max Martin",
-      "link": "https://variety.com/2026/music/news/max-martin-shellback-taylor-swift-sell-catalog-harbourview-1236789316/",
-      "date": "Jun 24, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 21,
-      "moments": [
-        "acquisition",
-        "company_launch"
-      ]
-    },
-    {
-      "id": "42942929e564",
-      "title": "DayMark closes $25m private markets fund with Opto",
-      "summary": "DayMark Wealth Partners has reached the final close of DayMark Fund I at $25m, completing the vehicle in partnership with Opto Investments. The fund was structured to offer accredited investors and qu",
-      "company": "DayMark",
-      "link": "https://www.altassets.net/premium/daymark-closes-25m-private-markets-fund-with-opto.html",
-      "date": "Jun 24, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 19,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "784e9710dd63",
-      "title": "Watch Skunk Anansie bring out the umbrellas to join Garbage on stage for \u2018Only Happy When It Rains\u2019 at end of co-headline tour: \u201cThis is what true...",
-      "summary": "Skin called the run of joint dates \"incredible\" and \"mindblowing\" The post Watch Skunk Anansie bring out the umbrellas to join Garbage on stage for &#8216;Only Happy When It Rains&#8217; at end of co-",
-      "company": "Watch Skunk Anansie",
-      "link": "https://www.nme.com/news/music/watch-skunk-anansie-bring-out-the-umbrellas-to-join-garbage-on-stage-for-only-happy-when-it-rains-at-end-of-co-headline-tour-this-is-what-true-sisterhood-and-fraternity-looks-like-3953113?utm_source=rss&utm_medium=rss&utm_campaign=watch-skunk-anansie-bring-out-the-umbrellas-to-join-garbage-on-stage-for-only-happy-when-it-rains-at-end-of-co-headline-tour-this-is-what-true-sisterhood-and-fraternity-looks-like",
-      "date": "Jun 25, 26",
-      "source": "NME",
+      "id": "f514f28f3321",
+      "title": "Radiology deals attract Archimed, Grovecourt, Kain Capital; Latticework and Edgehill back acquisition of CDMO brands",
+      "summary": "Highlight private equity-backed radiology deals in a listicle; exploring newly announced CDMO add-on deals involving Latticework Capital and Edgehill-backed Life Science Connect. The post Radiology de",
+      "company": "Radiology",
+      "link": "https://www.pehub.com/radiology-deals-attract-archimed-grovecourt-kain-capital-latticework-and-edgehill-back-acquisition-of-cdmo-brands/",
+      "date": "Jun 26, 26",
+      "source": "PE Hub",
       "layer": 5,
       "access": "pe",
       "score": 16,
       "moments": [
-        "surprise_appearance",
-        "festival_headliner"
+        "acquisition",
+        "pe_investment"
       ]
     },
     {
@@ -100,6 +84,22 @@
       ]
     },
     {
+      "id": "e6ea0eef4ba0",
+      "title": "Scoop: JD Vance raises $4.2 million in Silicon Valley",
+      "summary": "Vice President JD Vance headlined an RNC fundraiser on Thursday night in Palo Alto, California, at the residence of influential investor and All-In Podcast host Chamath Palihapitiya, raking in $4.2 mi",
+      "company": "Scoop",
+      "link": "https://www.axios.com/2026/06/26/scoop-jd-vance-raises-42-million-in-silicon-valley",
+      "date": "Jun 26, 26",
+      "source": "Axios",
+      "layer": 1,
+      "access": "venture",
+      "score": 16,
+      "moments": [
+        "funding_round",
+        "festival_headliner"
+      ]
+    },
+    {
       "id": "170883e5068b",
       "title": "A night out with Cuban jazz maestro, Arturo Sandoval",
       "summary": "Hot on the heels of his new album, \"Sang\u00fa,\" the Cuban jazz legend talks playing Coachella with Karol G, being knighted by the king of Spain and honored by former President Obama",
@@ -116,19 +116,19 @@
       ]
     },
     {
-      "id": "8cf0be4cf1f4",
-      "title": "Quadrivio & Pambianco, Capdesia to acquire Italy\u2019s Alice Pizza",
-      "summary": "Alice Pizza is a Rome-founded fast casual pizza chain with 231 sites across Italy and internationally. The post Quadrivio &#038; Pambianco, Capdesia to acquire Italy&#8217;s Alice Pizza appeared first",
-      "company": "Quadrivio",
-      "link": "https://www.pehub.com/quadrivio-pambianco-capdesia-acquire-italys-alice-pizza/",
-      "date": "Jun 25, 26",
-      "source": "PE Hub",
+      "id": "89ac631723a8",
+      "title": "Argosy Capital\u2019s smaller-scale secondaries arm closes third fund on $145m",
+      "summary": "Argosy Strategic Partners, the Argosy Capital arm which focuses on smaller-scale secondaries deals, has hit a $15m final close for its third fund. The post Argosy Capital&#8217;s smaller-scale seconda",
+      "company": "Argosy Capital\u2019s",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/argosy-capital-smaller-scale-secondaries-arm-closes-third-fund-on-145m.html",
+      "date": "Jun 26, 26",
+      "source": "AltAssets",
       "layer": 5,
       "access": "pe",
       "score": 13,
       "moments": [
-        "acquisition",
-        "company_launch"
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
@@ -144,38 +144,6 @@
       "score": 13,
       "moments": [
         "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "ebc06fc125d9",
-      "title": "CapMan Infra holds first close on \u20ac750m-targeting Nordic fund",
-      "summary": "CapMan Infra has held a first close for its third Nordic infrastructure vehicle as the manager targets \u20ac750m for what would be its largest infrastructure fund to date. The post CapMan Infra holds firs",
-      "company": "CapMan Infra holds first",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/norway-western-europe-europe-by-region/capman-infra-holds-first-close-on-e750m-targeting-nordic-fund.html",
-      "date": "Jun 25, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "8f6abb96dac1",
-      "title": "Livelihoods launches \u20ac150m nature-based climate fund",
-      "summary": "Nature-based climate investment firm Livelihoods has launched its fourth carbon fund, targeting \u20ac150m to finance large-scale ecosystem restoration projects. The Livelihoods Carbon Fund 4 (LCF4) has al",
-      "company": "Livelihoods",
-      "link": "https://www.altassets.net/premium/livelihoods-launches-e150m-nature-based-climate-fund.html",
-      "date": "Jun 24, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "funding_round",
         "fund_launch"
       ]
     },
@@ -196,64 +164,34 @@
       ]
     },
     {
-      "id": "4f75ae14e339",
-      "title": "100\u00d7100 eyes ramped up Asia startup scene with $100m Fund II",
-      "summary": "100&#215;100 is aiming to secure $100m for its second fund as it looks to co-found 50 new climate technology startups across Southeast Asia and India. Fund II marks a big step up from the firm&#8217;s",
-      "company": "Asia",
-      "link": "https://www.altassets.net/private-equity-news/by-news-type/fund-news/funds-in-market/100x100-eyes-ramped-up-asia-startup-scene-with-100m-fund-ii.html",
-      "date": "Jun 24, 26",
-      "source": "AltAssets",
+      "id": "4e4556ef9387",
+      "title": "Europe swelters under record-breaking heat wave",
+      "summary": "New June temperature records were set in the U.K. and France this week as a deadly heat wave grips much of Europe.Why it matters: A new World Weather Attribution analysis found human-caused climate ch",
+      "company": "Europe",
+      "link": "https://www.axios.com/2026/06/26/europe-heat-wave-deaths-record-temperature-uk-italy-france",
+      "date": "Jun 26, 26",
+      "source": "Axios",
       "layer": 5,
-      "access": "venture",
+      "access": "pe",
       "score": 10,
       "moments": [
-        "fund_launch",
+        "record_breaking",
         "company_launch"
       ]
     },
     {
-      "id": "005a841cf91f",
-      "title": "As Touring Costs Rise, a New Platform Wants to Help Artists Determine If a Show Is Worth Playing",
-      "summary": "Founded by two touring musicians, GigLogic is designed to evaluate a potential concert's profitability.",
-      "company": "As Touring Costs Rise",
-      "link": "https://www.billboard.com/pro/touring-costs-calculated-new-platform-artists-evaluate-gigs/",
+      "id": "c0d70f2ec6e3",
+      "title": "Rod Wave, Don Toliver, Erykah Badu, The Outsiders and More Headline Tickets on Sale This Week",
+      "summary": "This week\u2019s onsales are especially busy for fans tracking fall concerts, touring theater and live-event runs, with a Friday-heavy slate... The post Rod Wave, Don Toliver, Erykah Badu, The Outsiders an",
+      "company": "Rod Wave Don Toliver Erykah Badu",
+      "link": "https://www.ticketnews.com/2026/06/rod-wave-don-toliver-erykah-badu-the-outsiders-and-more-headline-tickets-on-sale-this-week/",
       "date": "Jun 25, 26",
-      "source": "Billboard",
+      "source": "Ticket News",
       "layer": 1,
       "access": "pe",
-      "score": 22,
+      "score": 24,
       "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "127504bb93e9",
-      "title": "KKR-owned Arctos backs $288m sports entertainment district at University of Tennessee",
-      "summary": "Arctos Partners, the sports-focused investment platform acquired by KKR earlier this year, has partnered with RVX Ventures and Magellan Development Group to develop mixed-use entertainment districts a",
-      "company": "KKR-owned Arctos",
-      "link": "https://www.privateequitywire.co.uk/kkr-owned-arctos-backs-288m-sports-entertainment-district-at-university-of-tennessee/",
-      "date": "Jun 24, 26",
-      "source": "PE Wire",
-      "layer": 2,
-      "access": "venture",
-      "score": 20,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "6c53f0409fbe",
-      "title": "Paramount-Warner Bros. Merger Set to Clear European Union Regulatory Hurdle (Report)",
-      "summary": "Regulatory officials in Brussels are expected to greenlight Paramount\u2019s $111 billion takeover of Warner Bros. Discovery, according to a Financial Times report, following its approval earlier this mont",
-      "company": "Paramount-Warner Bros Merger Set",
-      "link": "https://variety.com/2026/biz/global/paramount-warner-bros-merger-european-union-approval-1236789292/",
-      "date": "Jun 24, 26",
-      "source": "Variety Biz",
-      "layer": 3,
-      "access": "pe",
-      "score": 17,
-      "moments": [
-        "acquisition"
+        "festival_headliner"
       ]
     },
     {
@@ -287,33 +225,63 @@
       ]
     },
     {
-      "id": "c951b47b0e97",
-      "title": "NHL Approves Penguins $1.7 Billion Sale to Hoffmann Family",
-      "summary": "The NHL Board of Governors unanimously approved the sale of the Pittsburgh Penguins Tuesday, ending the four-plus year ownership tenure of Fenway Sports Group. The enterprise value in the deal was $1.",
-      "company": "NHL Approves Penguins",
-      "link": "https://www.sportico.com/business/team-sales/2026/nhl-approves-penguins-sale-hoffmann-family-1234936872/",
-      "date": "Jun 23, 26",
-      "source": "Sportico",
-      "layer": 1,
+      "id": "d14b76861ab4",
+      "title": "Bills Fans Raise Concerns of Ticket Affordability at New Highmark Stadium",
+      "summary": "Buffalo Bills fans are thrilled at thought of a beautiful, new stadium \u2014 though the cost of tickets may be... The post Bills Fans Raise Concerns of Ticket Affordability at New Highmark Stadium appeare",
+      "company": "Bills Fans Raise Concerns",
+      "link": "https://www.ticketnews.com/2026/06/bills-fans-raise-concerns-ticket-affordability-new-stadium/",
+      "date": "Jun 25, 26",
+      "source": "Ticket News",
+      "layer": 2,
       "access": "pe",
-      "score": 15,
+      "score": 13,
+      "moments": [
+        "venue_announcement"
+      ]
+    },
+    {
+      "id": "33eaaecca416",
+      "title": "Paramount-Warner Bros. Merger Overseas: EU Likely to Give Go-Ahead, but Another Hurdle Looms in the U.K.",
+      "summary": "With Paramount\u2019s $111 billion takeover of Warner Bros. Discovery likely to soon get the go-ahead from the European Union, the next question will be whether the&#160;U.K.\u2019s competition regulator, the C",
+      "company": "Paramount-Warner Bros. Merger Overseas",
+      "link": "https://variety.com/2026/biz/global/paramount-warner-bros-merger-overseas-will-eu-uk-approve-1236790282/",
+      "date": "Jun 25, 26",
+      "source": "Variety Biz",
+      "layer": 3,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "a2a9a92c4cdd",
+      "title": "Natixis IM appoints L\u00e9a Dunand-Chatellet as Mirova CEO",
+      "summary": "Natixis Investment Managers has appointed L\u00e9a Dunand-Chatellet as CEO of its sustainable investing affiliate Mirova. The post Natixis IM appoints L\u00e9a Dunand-Chatellet as Mirova CEO appeared first on A",
+      "company": "Natixis IM",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/france-western-europe-europe-by-region/natixis-im-appoints-lea-dunand-chatellet-as-mirova-ceo.html",
+      "date": "Jun 26, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
       "moments": [
         "pe_investment"
       ]
     },
     {
-      "id": "0f95d5b0c8fd",
-      "title": "BlackRock backs secondary market platform Caplight in Series A round",
-      "summary": "Caplight, a platform providing pricing data and transaction infrastructure for private company shares, has raised $16m in a Series A funding round co-led by BlackRock and Fin Capital, according to a r",
-      "company": "BlackRock",
-      "link": "https://www.privateequitywire.co.uk/blackrock-backs-secondary-market-platform-caplight-in-series-a-round/",
-      "date": "Jun 25, 26",
-      "source": "PE Wire",
-      "layer": 3,
-      "access": "public",
+      "id": "5009a55514ab",
+      "title": "Romania\u2019s Fortech Ventures rebrands as Nucleo Ventures with \u20ac34m regional VC fund",
+      "summary": "Romanian venture capital firm Fortech Ventures has rebranded as Nucleo Ventures alongside the launch of a \u20ac34m investment fund targeting startups and innovative SMEs across Romania and Central and Eas",
+      "company": "Romania\u2019s Fortech Ventures",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/central-and-eastern-europe-by-region/romanias-fortech-ventures-rebrands-as-nucleo-ventures-with-e34m-regional-vc-fund.html",
+      "date": "Jun 26, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
       "score": 12,
       "moments": [
-        "funding_round"
+        "pe_investment"
       ]
     },
     {
@@ -329,6 +297,21 @@
       "score": 12,
       "moments": [
         "pe_investment"
+      ]
+    },
+    {
+      "id": "0b5edacda490",
+      "title": "Turnover Plots 2026 North American \u2018Down on Earth Tour\u2019",
+      "summary": "Turnover have announced a 2026 North American headlining tour titled the \u201cDown on Earth Tour,\u201d set for the fall. The... The post Turnover Plots 2026 North American \u2018Down on Earth Tour\u2019 appeared first ",
+      "company": "Turnover Plots",
+      "link": "https://www.ticketnews.com/2026/06/turnover-plots-2026-north-american-down-on-earth-tour/",
+      "date": "Jun 25, 26",
+      "source": "Ticket News",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "festival_headliner"
       ]
     },
     {
@@ -362,21 +345,6 @@
       ]
     },
     {
-      "id": "5f5ec2e74ab3",
-      "title": "From military brats to birthright citizens: how USMNT\u2019s magnificent mess became its strength",
-      "summary": "For years the United States sought a single soccer identity. Instead, its best team emerged from a patchwork of backgrounds, cultures and development pathsIn 1993, the United States Soccer Federation ",
-      "company": "From military brats to birthright citizens",
-      "link": "https://www.theguardian.com/football/2026/jun/24/usmnt-diverse-pathways-american-soccer-development-2026-world-cup",
-      "date": "Jun 24, 26",
-      "source": "Guardian Sport",
-      "layer": 2,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
       "id": "fe56ffd350bd",
       "title": "Reid Hoffman is leaving Microsoft\u2019s board to go \u2018founder mode\u2019 with startup Manas",
       "summary": "After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus.",
@@ -407,16 +375,16 @@
       ]
     },
     {
-      "id": "9fe633ad1c10",
-      "title": "When the World Cup Came to SoFi Stadium, He Got a Backyard View",
-      "summary": "SoFi Stadium, the $5 billion event venue near Los Angeles, is on global display for the soccer tournament. But for some who live close by, it is just another headache.",
-      "company": "When",
-      "link": "https://www.nytimes.com/2026/06/24/arts/world-cup-sofi-stadium.html",
-      "date": "Jun 24, 26",
-      "source": "NYT Arts",
+      "id": "79b1297558de",
+      "title": "NCAA\u2019s New 5-Year Rule Could Sack Antitrust, Eligibility Lawsuits",
+      "summary": "The NCAA Division I Cabinet\u2019s unanimous&#160;approval&#160;this week of new rules that provide athletes with five years of eligibility should help the NCAA defend against antitrust-based eligibility l",
+      "company": "NCAA\u2019s New",
+      "link": "https://www.sportico.com/law/analysis/2026/ncaa-new-eligibility-rule-lawsuits-1234937066/",
+      "date": "Jun 25, 26",
+      "source": "Sportico",
       "layer": 2,
       "access": "pe",
-      "score": 16,
+      "score": 18,
       "moments": []
     },
     {
@@ -430,6 +398,19 @@
       "layer": 2,
       "access": "venture",
       "score": 15,
+      "moments": []
+    },
+    {
+      "id": "d007671e033e",
+      "title": "ITV shelves rugby in-game adverts after brands pour cash into World Cup instead",
+      "summary": "Broadcaster keen not to antagonise viewersHydration breaks prove unpopular at World CupITV will drop the controversial in-game adverts from its rugby union coverage when it broadcasts the Nations Cham",
+      "company": "ITV",
+      "link": "https://www.theguardian.com/sport/2026/jun/26/itv-shelves-rugby-in-game-adverts-after-brands-pour-cash-into-world-cup-instead",
+      "date": "Jun 26, 26",
+      "source": "Guardian Sport",
+      "layer": 2,
+      "access": "pe",
+      "score": 13,
       "moments": []
     },
     {
@@ -459,29 +440,68 @@
       "moments": []
     },
     {
-      "id": "0883f94912fc",
-      "title": "Live Nation Discloses That CEO Spoke With Trump Before Surprise Antitrust Trial Settlement",
-      "summary": "Live Nation has confirmed that the company had several meetings with the Department of Justice and the Office of the White House Counsel before a surprise antitrust trial settlement, while its preside",
-      "company": "Live Nation Discloses That CEO Spoke",
-      "link": "https://variety.com/2026/music/news/live-nation-ceo-spoke-with-trump-before-trial-settlement-1236789546/",
-      "date": "Jun 24, 26",
-      "source": "Variety Music",
+      "id": "10b7537a1694",
+      "title": "Initiation stones, buried recordings, and Ringo Starr\u2019s drumkit: inside the visionary world of reggae master Lee \u2018Scratch\u2019 Perry",
+      "summary": "The late production genius\u2019s chaotic reputation has always preceded him. But could two new books, a posthumous album and a flurry of classic reissues change all that \u2013 and put the focus back on his mu",
+      "company": "Initiation",
+      "link": "https://www.theguardian.com/music/2026/jun/26/lee-scratch-perry-remembered-black-ark-new-books-mouse-on-mars",
+      "date": "Jun 26, 26",
+      "source": "Guardian Music",
+      "layer": 4,
+      "access": "pe",
+      "score": 11,
+      "moments": []
+    },
+    {
+      "id": "8f226234ec0a",
+      "title": "DOJ ordered to release unredacted Epstein files or explain why it can't",
+      "summary": "A federal judge on Thursday ordered the U.S. Department of Justice to release additional unredacted Jeffrey Epstein records or explain by July 2 why it can't.Why it matters: The ruling could force the",
+      "company": "DOJ",
+      "link": "https://www.axios.com/2026/06/26/epstein-files-doj-lawsuit-judge-release-unredacted-july-order",
+      "date": "Jun 26, 26",
+      "source": "Axios",
+      "layer": 3,
+      "access": "pe",
+      "score": 8,
+      "moments": []
+    },
+    {
+      "id": "e9f8c8832bf1",
+      "title": "North Florida Athletics Announces Ticketing Partnership With Vivenu",
+      "summary": "North Florida Athletics has announced a new partnership with ticketing technology provider Vivenu, naming the company as its official ticketing... The post North Florida Athletics Announces Ticketing ",
+      "company": "",
+      "link": "https://www.ticketnews.com/2026/06/north-florida-athletics-announces-ticketing-partnership-with-vivenu/",
+      "date": "Jun 25, 26",
+      "source": "Ticket News",
       "layer": 3,
       "access": "pe",
       "score": 7,
       "moments": []
     },
     {
-      "id": "4fc95c2b043f",
-      "title": "Consumer Agency Says FIFA Subsidiary, Ticketmaster and Vivid Seats Violated B.C\u2019s Ticketing Laws",
-      "summary": "A British Columbia consumer watchdog has entered into enforcement undertakings with FIFA\u2019s Canadian World Cup subsidiary, Ticketmaster Canada and Vivid... The post Consumer Agency Says FIFA Subsidiary",
-      "company": "",
-      "link": "https://www.ticketnews.com/2026/06/fifa-subsidiary-ticketmaster-and-vivid-seats-face-b-c-ticket-law-scrutiny/",
-      "date": "Jun 24, 26",
+      "id": "d4770e3781a5",
+      "title": "World Cup Ticket Cancellations Put StubHub Under Fire, With FIFA\u2019s Restrictive System Playing a Key Role",
+      "summary": "A World Cup that has seen an outsized share of ticketing controversy has turned to a new villain in recent... The post World Cup Ticket Cancellations Put StubHub Under Fire, With FIFA&#8217;s Restrict",
+      "company": "World Cup Ticket Cancellations Put StubHub",
+      "link": "https://www.ticketnews.com/2026/06/world-cup-ticket-cancellations-put-stubhub-under-fire-with-fifas-restrictive-system-playing-a-key-role/",
+      "date": "Jun 25, 26",
       "source": "Ticket News",
       "layer": 3,
       "access": "pe",
       "score": 6,
+      "moments": []
+    },
+    {
+      "id": "c06cf936d727",
+      "title": "PGA Tour Faces New Sponsorship Test With 2028 Overhaul",
+      "summary": "REUTERS-Nick Lachance",
+      "company": "PGA Tour Faces New Sponsorship Test",
+      "link": "https://frontofficesports.com/pga-tour-championship-series-sponsorship-test/",
+      "date": "Jun 25, 26",
+      "source": "Front Office Sports",
+      "layer": 4,
+      "access": "pe",
+      "score": 5,
       "moments": []
     },
     {
@@ -508,32 +528,6 @@
       "layer": 3,
       "access": "pe",
       "score": 5,
-      "moments": []
-    },
-    {
-      "id": "43780b0ca895",
-      "title": "\u2018Hard Fork\u2019 Hosts Kevin Roose, Casey Newton Sign With UTA (EXCLUSIVE)",
-      "summary": "Kevin Roose and Casey Newton, two prominent tech journalists and hosts of the New York Times podcast \u201cHard Fork,\u201d have signed with UTA for representation, signaling the duo&#8217;s independent ambitio",
-      "company": "\u2018Hard Fork\u2019 Hosts Kevin Roose Casey",
-      "link": "https://variety.com/2026/biz/news/hard-fork-kevin-roose-casey-newton-uta-exclusive-1236789128/",
-      "date": "Jun 24, 26",
-      "source": "Variety Biz",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "497b922e414f",
-      "title": "World Cup 2026: car hits crowd in Mexico, Scotland face waiting game and more \u2013 live",
-      "summary": "\u26bd Latest news from day 15 | Vehicle hits crowd in Mexico\u26bd World Cup Q&amp;A: post your questions for our US team\u26bd Player guide | Bracketology | Golden Boot | Mail TahaMauricio Pochettino\u2019s US team are",
-      "company": "World Cup 2026",
-      "link": "https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live",
-      "date": "Jun 25, 26",
-      "source": "Guardian Sport",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
       "moments": []
     },
     {
