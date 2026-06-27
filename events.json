@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-26T14:34:54.017681+00:00",
-  "total": 37,
+  "generated": "2026-06-27T13:53:08.111681+00:00",
+  "total": 39,
   "scraped": [
     {
       "id": "441d8eebb070",
@@ -20,6 +20,22 @@
       ]
     },
     {
+      "id": "30ddb637cff1",
+      "title": "Seat Unique Raises $26.5M to Support Expansion and Acquisition Plans",
+      "summary": "Seat Unique has raised $26.5 million (\u20ac23 million /\u00a320 million) in a new funding round led by Nickleby Capital, as... The post Seat Unique Raises $26.5M to Support Expansion and Acquisition Plans appe",
+      "company": "Seat Unique Raises",
+      "link": "https://www.ticketnews.com/2026/06/seat-unique-raises-26-5m-to-support-expansion-and-acquisition-plans/",
+      "date": "Jun 26, 26",
+      "source": "Ticket News",
+      "layer": 1,
+      "access": "pe",
+      "score": 27,
+      "moments": [
+        "acquisition",
+        "funding_round"
+      ]
+    },
+    {
       "id": "3ffd6d8ba3ff",
       "title": "Music Industry Moves: Xavi Signs With Universal Publishing; Ellie Goulding Returns to WME; UTA Inks Top Filipino Group SB19",
       "summary": "M\u00fasica mexicana star Xavi has signed an exclusive worldwide publishing deal with Universal Music Publishing Group, the company announced Thursday. The signing follows the release of his sophomore albu",
@@ -33,22 +49,6 @@
       "moments": [
         "record_deal",
         "streaming_milestone"
-      ]
-    },
-    {
-      "id": "c20690d76ecf",
-      "title": "Cleveland Cavaliers Selling LP Stake to Blue Owl at $5.5B Valuation",
-      "summary": "The Cleveland Cavaliers are nearing a deal to sell a 5% to 10% stake in the NBA franchise to private equity firm Blue Owl. The deal values the NBA team and Cleveland WNBA team set to start play in 202",
-      "company": "Cleveland Cavaliers Selling LP Stake",
-      "link": "https://www.sportico.com/business/team-sales/2026/cleveland-cavaliers-blue-owl-stake-sale-1234937061/",
-      "date": "Jun 25, 26",
-      "source": "Sportico",
-      "layer": 1,
-      "access": "pe",
-      "score": 24,
-      "moments": [
-        "valuation",
-        "pe_investment"
       ]
     },
     {
@@ -96,22 +96,6 @@
       "score": 16,
       "moments": [
         "funding_round",
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "170883e5068b",
-      "title": "A night out with Cuban jazz maestro, Arturo Sandoval",
-      "summary": "Hot on the heels of his new album, \"Sang\u00fa,\" the Cuban jazz legend talks playing Coachella with Karol G, being knighted by the king of Spain and honored by former President Obama",
-      "company": "Cuban",
-      "link": "https://www.latimes.com/delos/story/2026-06-12/arturo-sandoval-cuban-jazz-trumpet-blue-note-tour-interview",
-      "date": "Jun 12, 26",
-      "source": "LA Times Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "album_announcement",
         "festival_headliner"
       ]
     },
@@ -180,16 +164,16 @@
       ]
     },
     {
-      "id": "c0d70f2ec6e3",
-      "title": "Rod Wave, Don Toliver, Erykah Badu, The Outsiders and More Headline Tickets on Sale This Week",
-      "summary": "This week\u2019s onsales are especially busy for fans tracking fall concerts, touring theater and live-event runs, with a Friday-heavy slate... The post Rod Wave, Don Toliver, Erykah Badu, The Outsiders an",
-      "company": "Rod Wave Don Toliver Erykah Badu",
-      "link": "https://www.ticketnews.com/2026/06/rod-wave-don-toliver-erykah-badu-the-outsiders-and-more-headline-tickets-on-sale-this-week/",
-      "date": "Jun 25, 26",
-      "source": "Ticket News",
+      "id": "5b19b9ce422d",
+      "title": "Missing Glastonbury? There\u2019s a festival on your doorstep that\u2019s saving grassroots venues",
+      "summary": "The Everywhere At Once festival brings huge names and rising talent to hundreds of venues across the UK this weekend. Artists and venue bosses tell us why you should get involved, and how without thes",
+      "company": "Missing Glastonbury? There\u2019s",
+      "link": "https://www.nme.com/news/music/everywhere-at-once-festival-glastonbury-rizzle-kicks-inspiral-carpets-music-venue-trust-oasis-interview-3953625?utm_source=rss&utm_medium=rss&utm_campaign=everywhere-at-once-festival-glastonbury-rizzle-kicks-inspiral-carpets-music-venue-trust-oasis-interview",
+      "date": "Jun 27, 26",
+      "source": "NME",
       "layer": 1,
       "access": "pe",
-      "score": 24,
+      "score": 20,
       "moments": [
         "festival_headliner"
       ]
@@ -225,18 +209,18 @@
       ]
     },
     {
-      "id": "d14b76861ab4",
-      "title": "Bills Fans Raise Concerns of Ticket Affordability at New Highmark Stadium",
-      "summary": "Buffalo Bills fans are thrilled at thought of a beautiful, new stadium \u2014 though the cost of tickets may be... The post Bills Fans Raise Concerns of Ticket Affordability at New Highmark Stadium appeare",
-      "company": "Bills Fans Raise Concerns",
-      "link": "https://www.ticketnews.com/2026/06/bills-fans-raise-concerns-ticket-affordability-new-stadium/",
-      "date": "Jun 25, 26",
-      "source": "Ticket News",
-      "layer": 2,
-      "access": "pe",
-      "score": 13,
+      "id": "469482f05034",
+      "title": "Anthropic Backer Menlo Ventures Raises $3B In New Funds To Back AI Startups Across Stages",
+      "summary": "Venture firm Menlo Ventures has raised $3 billion across two new funds, the largest capital raise in its 50-year history, to invest in AI startups from seed through growth stage. The firm says the new",
+      "company": "Anthropic Backer Menlo Ventures Raises",
+      "link": "https://news.crunchbase.com/venture/menlo-ventures-raise-ai-startup-funding-across-stages-anthropic/",
+      "date": "Jun 23, 26",
+      "source": "Crunchbase News",
+      "layer": 1,
+      "access": "venture",
+      "score": 15,
       "moments": [
-        "venue_announcement"
+        "funding_round"
       ]
     },
     {
@@ -300,21 +284,6 @@
       ]
     },
     {
-      "id": "0b5edacda490",
-      "title": "Turnover Plots 2026 North American \u2018Down on Earth Tour\u2019",
-      "summary": "Turnover have announced a 2026 North American headlining tour titled the \u201cDown on Earth Tour,\u201d set for the fall. The... The post Turnover Plots 2026 North American \u2018Down on Earth Tour\u2019 appeared first ",
-      "company": "Turnover Plots",
-      "link": "https://www.ticketnews.com/2026/06/turnover-plots-2026-north-american-down-on-earth-tour/",
-      "date": "Jun 25, 26",
-      "source": "Ticket News",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
       "id": "ed24e331be68",
       "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
       "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
@@ -330,6 +299,36 @@
       ]
     },
     {
+      "id": "4ea6480df7e1",
+      "title": "What It\u2019s Like to Play Pacha New York\u2019s Opening Weekend",
+      "summary": "The Ibiza-born nightlife institution opened its new venue in New York with a sold-out weekend",
+      "company": "What It\u2019s Like",
+      "link": "https://www.rollingstone.com/music/music-features/michael-bibi-pacha-new-york-opening-weekend-interview-1235585001/",
+      "date": "Jun 26, 26",
+      "source": "Rolling Stone Music",
+      "layer": 2,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "venue_announcement"
+      ]
+    },
+    {
+      "id": "33c591fb8539",
+      "title": "Partners Group-backed SureWerx acquires Italy\u2019s Genesi",
+      "summary": "Genesi is a provider of work-at-height and confined space safety products. The post Partners Group-backed SureWerx acquires Italy&#8217;s Genesi appeared first on PE Hub.",
+      "company": "Partners Group-backed SureWerx",
+      "link": "https://www.pehub.com/partners-group-backed-surewerx-acquires-italys-genesi/",
+      "date": "Jun 26, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
       "id": "bdf57ea24009",
       "title": "Here\u2019s What \u2018the Most Important Mozart Discovery in Decades\u2019 Sounds Like",
       "summary": "A newly found notebook documenting the composer\u2019s lessons with a student includes seven previously unknown compositions.",
@@ -342,6 +341,21 @@
       "score": 8,
       "moments": [
         "company_launch"
+      ]
+    },
+    {
+      "id": "ec2f03807419",
+      "title": "Phoebe Bridgers, Sombr: Songs to Know This Week",
+      "summary": "Phoebe Bridgers re-emerges, Sombr gets shy and PJ Harvey heads for the cosmos.",
+      "company": "Phoebe Bridgers Sombr: Songs",
+      "link": "https://www.nytimes.com/2026/06/27/arts/music/phoebe-bridgers-sombr-songs.html",
+      "date": "Jun 27, 26",
+      "source": "NYT Arts",
+      "layer": 2,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "acquisition"
       ]
     },
     {
@@ -375,45 +389,6 @@
       ]
     },
     {
-      "id": "79b1297558de",
-      "title": "NCAA\u2019s New 5-Year Rule Could Sack Antitrust, Eligibility Lawsuits",
-      "summary": "The NCAA Division I Cabinet\u2019s unanimous&#160;approval&#160;this week of new rules that provide athletes with five years of eligibility should help the NCAA defend against antitrust-based eligibility l",
-      "company": "NCAA\u2019s New",
-      "link": "https://www.sportico.com/law/analysis/2026/ncaa-new-eligibility-rule-lawsuits-1234937066/",
-      "date": "Jun 25, 26",
-      "source": "Sportico",
-      "layer": 2,
-      "access": "pe",
-      "score": 18,
-      "moments": []
-    },
-    {
-      "id": "07efeb439596",
-      "title": "Sony Pictures Invests $100 Million in Cosm, Shared-Reality Venue Owner",
-      "summary": "Sony Pictures Entertainment has invested $100 million in Cosm, the entertainment and tech company focused on creating shared-reality experiences through immersive dome-like venues throughout the U.S. ",
-      "company": "Sony Pictures Invests",
-      "link": "https://variety.com/2026/biz/news/sony-pictures-100-million-cosm-shared-reality-venue-owner-1236789422/",
-      "date": "Jun 24, 26",
-      "source": "Variety Biz",
-      "layer": 2,
-      "access": "venture",
-      "score": 15,
-      "moments": []
-    },
-    {
-      "id": "d007671e033e",
-      "title": "ITV shelves rugby in-game adverts after brands pour cash into World Cup instead",
-      "summary": "Broadcaster keen not to antagonise viewersHydration breaks prove unpopular at World CupITV will drop the controversial in-game adverts from its rugby union coverage when it broadcasts the Nations Cham",
-      "company": "ITV",
-      "link": "https://www.theguardian.com/sport/2026/jun/26/itv-shelves-rugby-in-game-adverts-after-brands-pour-cash-into-world-cup-instead",
-      "date": "Jun 26, 26",
-      "source": "Guardian Sport",
-      "layer": 2,
-      "access": "pe",
-      "score": 13,
-      "moments": []
-    },
-    {
       "id": "1204d86166ae",
       "title": "PGA Tour Bets New Tour Championship Will Drive More Buzz, Revenue",
       "summary": "Brett Davis-Imagn Images",
@@ -422,6 +397,19 @@
       "date": "Jun 24, 26",
       "source": "Front Office Sports",
       "layer": 2,
+      "access": "pe",
+      "score": 11,
+      "moments": []
+    },
+    {
+      "id": "d85e97aaf9e8",
+      "title": "\u2018Real Housewives of New Jersey\u2019 Star Melissa Gorga Signs With WME (EXCLUSIVE)",
+      "summary": "Melissa Gorga has signed with WME for representation, Variety has learned exclusively. Gorga will continue to be repped by attorney Darin Frank. WME will work with Gorga to further grow and expand her",
+      "company": "\u2018Real Housewives",
+      "link": "https://variety.com/2026/tv/news/real-housewives-of-new-jersey-melissa-gorga-wme-1236791286/",
+      "date": "Jun 26, 26",
+      "source": "Variety Biz",
+      "layer": 4,
       "access": "pe",
       "score": 11,
       "moments": []
@@ -453,6 +441,32 @@
       "moments": []
     },
     {
+      "id": "5f926039fac7",
+      "title": "Mr. Haaland\u2019s Opus: Norway Striker Brings Joy to the World Cup",
+      "summary": "The first stage of Norway\u2019s pillage-and-consternation tour concludes Friday afternoon with its Group I capper against France, and while both teams have secured a berth in the knockout round, the match",
+      "company": "Mr Haaland\u2019s Opus: Norway Striker Brings",
+      "link": "https://www.sportico.com/business/media/2026/erling-haaland-norway-world-cup-fans-1234937164/",
+      "date": "Jun 26, 26",
+      "source": "Sportico",
+      "layer": 2,
+      "access": "pe",
+      "score": 8,
+      "moments": []
+    },
+    {
+      "id": "a8e93204b530",
+      "title": "LISTEN: \u2018Abbott Elementary\u2019 Exec Producer Justin Halpern Juggles Multiple Series and His Debut Novel",
+      "summary": "On today\u2019s episode of &#8220;Daily Variety&#8221; podcast, writer and showrunner Justin Halpern speaks with Variety\u2019s Michael Schneider about the road to writing his first novel \u201cGet Lost,\u201d which will",
+      "company": "LISTEN",
+      "link": "https://variety.com/2026/tv/news/justin-halpern-get-lost-abbott-elementary-daily-variety-1236789991/",
+      "date": "Jun 25, 26",
+      "source": "Variety Biz",
+      "layer": 2,
+      "access": "venture",
+      "score": 8,
+      "moments": []
+    },
+    {
       "id": "8f226234ec0a",
       "title": "DOJ ordered to release unredacted Epstein files or explain why it can't",
       "summary": "A federal judge on Thursday ordered the U.S. Department of Justice to release additional unredacted Jeffrey Epstein records or explain by July 2 why it can't.Why it matters: The ruling could force the",
@@ -466,51 +480,12 @@
       "moments": []
     },
     {
-      "id": "e9f8c8832bf1",
-      "title": "North Florida Athletics Announces Ticketing Partnership With Vivenu",
-      "summary": "North Florida Athletics has announced a new partnership with ticketing technology provider Vivenu, naming the company as its official ticketing... The post North Florida Athletics Announces Ticketing ",
-      "company": "",
-      "link": "https://www.ticketnews.com/2026/06/north-florida-athletics-announces-ticketing-partnership-with-vivenu/",
-      "date": "Jun 25, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 7,
-      "moments": []
-    },
-    {
-      "id": "d4770e3781a5",
-      "title": "World Cup Ticket Cancellations Put StubHub Under Fire, With FIFA\u2019s Restrictive System Playing a Key Role",
-      "summary": "A World Cup that has seen an outsized share of ticketing controversy has turned to a new villain in recent... The post World Cup Ticket Cancellations Put StubHub Under Fire, With FIFA&#8217;s Restrict",
-      "company": "World Cup Ticket Cancellations Put StubHub",
-      "link": "https://www.ticketnews.com/2026/06/world-cup-ticket-cancellations-put-stubhub-under-fire-with-fifas-restrictive-system-playing-a-key-role/",
-      "date": "Jun 25, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 6,
-      "moments": []
-    },
-    {
       "id": "c06cf936d727",
       "title": "PGA Tour Faces New Sponsorship Test With 2028 Overhaul",
       "summary": "REUTERS-Nick Lachance",
       "company": "PGA Tour Faces New Sponsorship Test",
       "link": "https://frontofficesports.com/pga-tour-championship-series-sponsorship-test/",
       "date": "Jun 25, 26",
-      "source": "Front Office Sports",
-      "layer": 4,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "eda9b7c8ff11",
-      "title": "NCAA Approves New \u2018Age-Based\u2019 Eligibility Rule, Prompting More Lawsuits",
-      "summary": "Jun 18, 2023; Omaha, NE, USA; An on-deck circle with the NCAA logo is pictured on the field before the game between the Virginia Cavaliers and the TCU Horned Frogs at Charles Schwab Field Omaha. Manda",
-      "company": "",
-      "link": "https://frontofficesports.com/ncaa-approves-new-age-based-eligibility-rule-prompting-more-lawsuits/",
-      "date": "Jun 23, 26",
       "source": "Front Office Sports",
       "layer": 4,
       "access": "pe",
@@ -528,6 +503,58 @@
       "layer": 3,
       "access": "pe",
       "score": 5,
+      "moments": []
+    },
+    {
+      "id": "ad43090ca663",
+      "title": "'A great vibe.' Pacific Northwest joins Los Angeles in an embrace of World Cup fever",
+      "summary": "If this World Cup has been marred by astronomical ticket prices, that hasn't put a damper on the tournament in the Pacific Northwest. L.A. is far from the only city with World Cup fever.",
+      "company": "Pacific Northwest",
+      "link": "https://www.latimes.com/sports/soccer/story/2026-06-23/pacific-northwest-joins-los-angeles-in-embrace-of-world-cup-fever",
+      "date": "Jun 23, 26",
+      "source": "LA Times Sports",
+      "layer": 3,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "5e41aa027ff4",
+      "title": "\u20181923\u2019 Star Darren Mann Signs With Paradigm (EXCLUSIVE)",
+      "summary": "Darren Mann has signed with talent agency Paradigm for representation, Variety has learned exclusively. He continues to be repped at Principal Entertainment, Webster Talent, and by attorney Jared Bloc",
+      "company": "Star Darren Mann Signs With",
+      "link": "https://variety.com/2026/tv/news/1923-darren-mann-paradigm-1236791428/",
+      "date": "Jun 26, 26",
+      "source": "Variety Biz",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "717d4e188d98",
+      "title": "How Este Haim reached out and touched Hollywood",
+      "summary": "The bass player of the beloved L.A. sister trio Haim composed the score for a new Netflix rom-com, 'Voicemails for Isabelle.'",
+      "company": "How Este Haim",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-06-18/este-haim-voicemails-for-isabelle-netflix-interview",
+      "date": "Jun 18, 26",
+      "source": "LA Times Music",
+      "layer": 3,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "df638ea96100",
+      "title": "\u2018Nothing is impossible\u2019: Cape Verde relishing World Cup date with Argentina",
+      "summary": "Cape Verde reach last 32 after draw with Saudi Arabia\u2018We showed the world you should not fear difficulties\u2019The Cape Verde head coach, Bubista, said his team have \u201cshown that nothing is impossible\u201d aft",
+      "company": "\u2018Nothing",
+      "link": "https://www.theguardian.com/football/2026/jun/27/cape-verde-relishing-world-cup-date-with-argentina",
+      "date": "Jun 27, 26",
+      "source": "Guardian Sport",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
       "moments": []
     },
     {
