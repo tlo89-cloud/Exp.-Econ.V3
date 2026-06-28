@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-27T13:53:08.111681+00:00",
-  "total": 39,
+  "generated": "2026-06-28T13:58:44.837090+00:00",
+  "total": 37,
   "scraped": [
     {
       "id": "441d8eebb070",
@@ -33,22 +33,6 @@
       "moments": [
         "acquisition",
         "funding_round"
-      ]
-    },
-    {
-      "id": "3ffd6d8ba3ff",
-      "title": "Music Industry Moves: Xavi Signs With Universal Publishing; Ellie Goulding Returns to WME; UTA Inks Top Filipino Group SB19",
-      "summary": "M\u00fasica mexicana star Xavi has signed an exclusive worldwide publishing deal with Universal Music Publishing Group, the company announced Thursday. The signing follows the release of his sophomore albu",
-      "company": "Music Industry Moves",
-      "link": "https://variety.com/2026/music/news/xavi-signs-with-universal-publishing-1236790659/",
-      "date": "Jun 25, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 25,
-      "moments": [
-        "record_deal",
-        "streaming_milestone"
       ]
     },
     {
@@ -164,21 +148,6 @@
       ]
     },
     {
-      "id": "5b19b9ce422d",
-      "title": "Missing Glastonbury? There\u2019s a festival on your doorstep that\u2019s saving grassroots venues",
-      "summary": "The Everywhere At Once festival brings huge names and rising talent to hundreds of venues across the UK this weekend. Artists and venue bosses tell us why you should get involved, and how without thes",
-      "company": "Missing Glastonbury? There\u2019s",
-      "link": "https://www.nme.com/news/music/everywhere-at-once-festival-glastonbury-rizzle-kicks-inspiral-carpets-music-venue-trust-oasis-interview-3953625?utm_source=rss&utm_medium=rss&utm_campaign=everywhere-at-once-festival-glastonbury-rizzle-kicks-inspiral-carpets-music-venue-trust-oasis-interview",
-      "date": "Jun 27, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 20,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
       "id": "e089e8d85753",
       "title": "Gorillaz review \u2013 a staggering hi-tech mini-festival from the magpie mind of Damon Albarn",
       "summary": "Tottenham Hotspur Stadium, LondonA stream of high-profile guest stars included Johnny Marr, Little Simz, Shaun Ryder, Sparks, Yasiin Bey, Bootie Brown and Fatoumata DiawaraGorillaz\u2019s first stadium sho",
@@ -236,6 +205,36 @@
       "score": 12,
       "moments": [
         "acquisition"
+      ]
+    },
+    {
+      "id": "e69ee351a1fc",
+      "title": "FFDP's Zoltan Bathory Interview \u2014 New Album, World Tour + More",
+      "summary": "Travis Shinn",
+      "company": "FFDP's Zoltan Bathory Interview",
+      "link": "https://loudwire.com/five-finger-death-punch-zoltan-bathory-new-album-tour-interview/",
+      "date": "Jun 23, 26",
+      "source": "Loudwire",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "473ba12ae18b",
+      "title": "Gracie Abrams on \u2018Nepo\u2019 Label, Writing With Paul Mescal and Her New Album",
+      "summary": "On her new album, \u201cDaughter From Hell,\u201d the 26-year-old star confronts growing up in a famous family and lessons from songwriting.",
+      "company": "Gracie Abrams",
+      "link": "https://www.nytimes.com/2026/06/26/arts/music/gracie-abrams-interview-popcast.html",
+      "date": "Jun 26, 26",
+      "source": "NYT Arts",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "album_announcement"
       ]
     },
     {
@@ -299,33 +298,18 @@
       ]
     },
     {
-      "id": "4ea6480df7e1",
-      "title": "What It\u2019s Like to Play Pacha New York\u2019s Opening Weekend",
-      "summary": "The Ibiza-born nightlife institution opened its new venue in New York with a sold-out weekend",
-      "company": "What It\u2019s Like",
-      "link": "https://www.rollingstone.com/music/music-features/michael-bibi-pacha-new-york-opening-weekend-interview-1235585001/",
-      "date": "Jun 26, 26",
-      "source": "Rolling Stone Music",
-      "layer": 2,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "venue_announcement"
-      ]
-    },
-    {
-      "id": "33c591fb8539",
-      "title": "Partners Group-backed SureWerx acquires Italy\u2019s Genesi",
-      "summary": "Genesi is a provider of work-at-height and confined space safety products. The post Partners Group-backed SureWerx acquires Italy&#8217;s Genesi appeared first on PE Hub.",
-      "company": "Partners Group-backed SureWerx",
-      "link": "https://www.pehub.com/partners-group-backed-surewerx-acquires-italys-genesi/",
-      "date": "Jun 26, 26",
-      "source": "PE Hub",
+      "id": "009905a728b5",
+      "title": "Watch Kae Tempest join Kneecap for \u2018Irish Goodbye\u2019 at Crystal Palace Park",
+      "summary": "The powerful set - their biggest headline gig to date - saw them pay tribute to late music manager Trevor Dietz, and continue to condemn the Israeli lobby The post Watch Kae Tempest join Kneecap for &",
+      "company": "Watch Kae Tempest",
+      "link": "https://www.nme.com/news/music/watch-kae-tempest-join-kneecap-for-irish-goodbye-at-crystal-palace-park-3953704?utm_source=rss&utm_medium=rss&utm_campaign=watch-kae-tempest-join-kneecap-for-irish-goodbye-at-crystal-palace-park",
+      "date": "Jun 28, 26",
+      "source": "NME",
       "layer": 5,
       "access": "pe",
       "score": 9,
       "moments": [
-        "acquisition"
+        "festival_headliner"
       ]
     },
     {
@@ -454,19 +438,6 @@
       "moments": []
     },
     {
-      "id": "a8e93204b530",
-      "title": "LISTEN: \u2018Abbott Elementary\u2019 Exec Producer Justin Halpern Juggles Multiple Series and His Debut Novel",
-      "summary": "On today\u2019s episode of &#8220;Daily Variety&#8221; podcast, writer and showrunner Justin Halpern speaks with Variety\u2019s Michael Schneider about the road to writing his first novel \u201cGet Lost,\u201d which will",
-      "company": "LISTEN",
-      "link": "https://variety.com/2026/tv/news/justin-halpern-get-lost-abbott-elementary-daily-variety-1236789991/",
-      "date": "Jun 25, 26",
-      "source": "Variety Biz",
-      "layer": 2,
-      "access": "venture",
-      "score": 8,
-      "moments": []
-    },
-    {
       "id": "8f226234ec0a",
       "title": "DOJ ordered to release unredacted Epstein files or explain why it can't",
       "summary": "A federal judge on Thursday ordered the U.S. Department of Justice to release additional unredacted Jeffrey Epstein records or explain by July 2 why it can't.Why it matters: The ruling could force the",
@@ -477,6 +448,19 @@
       "layer": 3,
       "access": "pe",
       "score": 8,
+      "moments": []
+    },
+    {
+      "id": "4e77a49a6b82",
+      "title": "Noah Kahan calls out fans for stealing road signs and shitting in their seats at gigs: \u201cIf you have to poop at a show please dear god just go to the...",
+      "summary": "\"You guys gotta understand, there\u2019s a venue worker out there with a 1000 yard stare after dealing with that\" The post Noah Kahan calls out fans for stealing road signs and shitting in their seats at g",
+      "company": "Noah Kahan calls out fans for stealing road",
+      "link": "https://www.nme.com/news/music/noah-kahan-calls-out-fans-for-stealing-road-signs-and-shitting-in-their-seats-at-gigs-if-you-have-to-poop-at-a-show-please-dear-god-just-go-to-the-bathroom-3953752?utm_source=rss&utm_medium=rss&utm_campaign=noah-kahan-calls-out-fans-for-stealing-road-signs-and-shitting-in-their-seats-at-gigs-if-you-have-to-poop-at-a-show-please-dear-god-just-go-to-the-bathroom",
+      "date": "Jun 28, 26",
+      "source": "NME",
+      "layer": 2,
+      "access": "pe",
+      "score": 7,
       "moments": []
     },
     {
@@ -493,6 +477,19 @@
       "moments": []
     },
     {
+      "id": "f2a6ebe5fec0",
+      "title": "Dundon: Taxpayers Should Foot the Bill for Portland Arena Makeover",
+      "summary": "Troy Wayrynen-Imagn Images",
+      "company": "Dundon",
+      "link": "https://frontofficesports.com/dundon-taxpayers-should-foot-the-bill-for-portland-arena-makeover/",
+      "date": "Jun 25, 26",
+      "source": "Front Office Sports",
+      "layer": 2,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
       "id": "edb01672fade",
       "title": "Is Canada About to Enter the Eurovision Song Contest?",
       "summary": "As Canada\u2019s government looks more toward Europe and less to the United States, its national broadcaster has become a full member of the group that organizes the glitzy singing event.",
@@ -500,19 +497,6 @@
       "link": "https://www.nytimes.com/2026/06/25/arts/television/canada-eurovision.html",
       "date": "Jun 25, 26",
       "source": "NYT Arts",
-      "layer": 3,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "ad43090ca663",
-      "title": "'A great vibe.' Pacific Northwest joins Los Angeles in an embrace of World Cup fever",
-      "summary": "If this World Cup has been marred by astronomical ticket prices, that hasn't put a damper on the tournament in the Pacific Northwest. L.A. is far from the only city with World Cup fever.",
-      "company": "Pacific Northwest",
-      "link": "https://www.latimes.com/sports/soccer/story/2026-06-23/pacific-northwest-joins-los-angeles-in-embrace-of-world-cup-fever",
-      "date": "Jun 23, 26",
-      "source": "LA Times Sports",
       "layer": 3,
       "access": "pe",
       "score": 5,
@@ -540,19 +524,6 @@
       "date": "Jun 18, 26",
       "source": "LA Times Music",
       "layer": 3,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "df638ea96100",
-      "title": "\u2018Nothing is impossible\u2019: Cape Verde relishing World Cup date with Argentina",
-      "summary": "Cape Verde reach last 32 after draw with Saudi Arabia\u2018We showed the world you should not fear difficulties\u2019The Cape Verde head coach, Bubista, said his team have \u201cshown that nothing is impossible\u201d aft",
-      "company": "\u2018Nothing",
-      "link": "https://www.theguardian.com/football/2026/jun/27/cape-verde-relishing-world-cup-date-with-argentina",
-      "date": "Jun 27, 26",
-      "source": "Guardian Sport",
-      "layer": 4,
       "access": "pe",
       "score": 4,
       "moments": []
