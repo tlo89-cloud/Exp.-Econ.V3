@@ -1,24 +1,7 @@
 {
-  "generated": "2026-06-28T13:58:44.837090+00:00",
+  "generated": "2026-06-29T15:55:21.060596+00:00",
   "total": 37,
   "scraped": [
-    {
-      "id": "441d8eebb070",
-      "title": "Main Capital races to \u20ac5.25bn hard cap in double fund close",
-      "summary": "Main Capital Partners has closed its latest flagship and foundation vehicles on a combined \u20ac5.25bn, more than doubling the size of its predecessor funds and marking one of the largest private equity f",
-      "company": "Main Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/netherlands-western-europe-europe-by-region/main-capital-races-to-e5-25bn-hard-cap-in-double-fund-close.html",
-      "date": "Jun 25, 26",
-      "source": "AltAssets",
-      "layer": 1,
-      "access": "pe",
-      "score": 22,
-      "moments": [
-        "pe_investment",
-        "fund_launch",
-        "company_launch"
-      ]
-    },
     {
       "id": "30ddb637cff1",
       "title": "Seat Unique Raises $26.5M to Support Expansion and Acquisition Plans",
@@ -36,19 +19,35 @@
       ]
     },
     {
-      "id": "f514f28f3321",
-      "title": "Radiology deals attract Archimed, Grovecourt, Kain Capital; Latticework and Edgehill back acquisition of CDMO brands",
-      "summary": "Highlight private equity-backed radiology deals in a listicle; exploring newly announced CDMO add-on deals involving Latticework Capital and Edgehill-backed Life Science Connect. The post Radiology de",
-      "company": "Radiology",
-      "link": "https://www.pehub.com/radiology-deals-attract-archimed-grovecourt-kain-capital-latticework-and-edgehill-back-acquisition-of-cdmo-brands/",
-      "date": "Jun 26, 26",
-      "source": "PE Hub",
-      "layer": 5,
+      "id": "0835f3c9fe1b",
+      "title": "The Coral announce 2026 UK and Ireland tour with Dave McCabe, The Mary Wallopers and more",
+      "summary": "Their first new tour dates in nearly three years come following the surprise release of new album \u2018388\u2019 earlier this year The post The Coral announce 2026 UK and Ireland tour with Dave McCabe, The Mar",
+      "company": "The Coral",
+      "link": "https://www.nme.com/news/music/the-coral-announce-2026-uk-ireland-tour-mary-wallopers-and-more-buy-tickets-3953910?utm_source=rss&utm_medium=rss&utm_campaign=the-coral-announce-2026-uk-ireland-tour-mary-wallopers-and-more-buy-tickets",
+      "date": "Jun 29, 26",
+      "source": "NME",
+      "layer": 1,
       "access": "pe",
-      "score": 16,
+      "score": 21,
       "moments": [
-        "acquisition",
-        "pe_investment"
+        "album_announcement",
+        "tour_announcement"
+      ]
+    },
+    {
+      "id": "186280623465",
+      "title": "Conifer Infrastructure Partners speeds to $900m hard cap debut fund close",
+      "summary": "Conifer Infrastructure Partners has reached a final close for its debut fund at its $900m hard cap, less than five months after launching the vehicle. The post Conifer Infrastructure Partners speeds t",
+      "company": "Conifer Infrastructure Partners",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/conifer-infrastructure-partners-speeds-to-900m-hard-cap-debut-fund-close.html",
+      "date": "Jun 26, 26",
+      "source": "AltAssets",
+      "layer": 1,
+      "access": "pe",
+      "score": 18,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
@@ -132,6 +131,22 @@
       ]
     },
     {
+      "id": "82b0a6964a2f",
+      "title": "Mental health, neurodiversity M&A grows further; Bridgepoint to acquire Kayne Anderson Real Estate",
+      "summary": "Investcorp has established a new software engineering platform with NetRom Software and Trivium eSolutions as the founding businesses. The post Mental health, neurodiversity M&#038;A grows further; Br",
+      "company": "Mental",
+      "link": "https://www.pehub.com/mental-health-neurodiversity-m-bridgepoint-to-acquire-kayne-anderson-real-estate/",
+      "date": "Jun 29, 26",
+      "source": "PE Hub",
+      "layer": 2,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "acquisition",
+        "company_launch"
+      ]
+    },
+    {
       "id": "4e4556ef9387",
       "title": "Europe swelters under record-breaking heat wave",
       "summary": "New June temperature records were set in the U.K. and France this week as a deadly heat wave grips much of Europe.Why it matters: A new World Weather Attribution analysis found human-caused climate ch",
@@ -145,6 +160,21 @@
       "moments": [
         "record_breaking",
         "company_launch"
+      ]
+    },
+    {
+      "id": "fa9498a9ff17",
+      "title": "Post your questions for Ezra Collective at Love Supreme festival",
+      "summary": "The Guardian is partnering with Love Supreme this year, where we will have a live Q&amp;A with the UK jazz heroes \u2013 leave us your questions for themVanguards of the London jazz scene, five-piece instr",
+      "company": "Post",
+      "link": "https://www.theguardian.com/music/2026/jun/29/post-your-questions-for-ezra-collective-at-love-supreme-festival",
+      "date": "Jun 29, 26",
+      "source": "Guardian Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 18,
+      "moments": [
+        "festival_headliner"
       ]
     },
     {
@@ -193,48 +223,48 @@
       ]
     },
     {
-      "id": "33eaaecca416",
-      "title": "Paramount-Warner Bros. Merger Overseas: EU Likely to Give Go-Ahead, but Another Hurdle Looms in the U.K.",
-      "summary": "With Paramount\u2019s $111 billion takeover of Warner Bros. Discovery likely to soon get the go-ahead from the European Union, the next question will be whether the&#160;U.K.\u2019s competition regulator, the C",
-      "company": "Paramount-Warner Bros. Merger Overseas",
-      "link": "https://variety.com/2026/biz/global/paramount-warner-bros-merger-overseas-will-eu-uk-approve-1236790282/",
-      "date": "Jun 25, 26",
-      "source": "Variety Biz",
-      "layer": 3,
+      "id": "208c9cc928a6",
+      "title": "Sovereign wealth funds shift towards private markets due to concentration risks",
+      "summary": "Sovereign wealth funds are increasing allocations to private equity, private credit and infrastructure as they seek exposure to AI-driven investment opportunities while reducing reliance on increasing",
+      "company": "Sovereign",
+      "link": "https://www.privateequitywire.co.uk/sovereign-wealth-funds-shift-towards-private-markets-due-to-concentration-risks/",
+      "date": "Jun 29, 26",
+      "source": "PE Wire",
+      "layer": 5,
       "access": "pe",
       "score": 12,
       "moments": [
-        "acquisition"
+        "pe_investment"
       ]
     },
     {
-      "id": "e69ee351a1fc",
-      "title": "FFDP's Zoltan Bathory Interview \u2014 New Album, World Tour + More",
-      "summary": "Travis Shinn",
-      "company": "FFDP's Zoltan Bathory Interview",
-      "link": "https://loudwire.com/five-finger-death-punch-zoltan-bathory-new-album-tour-interview/",
-      "date": "Jun 23, 26",
-      "source": "Loudwire",
-      "layer": 1,
+      "id": "3373ac2f4bfa",
+      "title": "Strategic Value Partners appoints de Boissieu to European investment team",
+      "summary": "Strategic Value Partners has appointed Jean-Baptiste de Boissieu as a managing director within its European investment team, as the alternative investment firm continues to expand its opportunistic cr",
+      "company": "Strategic Value Partners",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/strategic-value-partners-appoints-de-boissieu-to-european-investment-team.html",
+      "date": "Jun 29, 26",
+      "source": "AltAssets",
+      "layer": 5,
       "access": "pe",
       "score": 12,
       "moments": [
-        "album_announcement"
+        "pe_investment"
       ]
     },
     {
-      "id": "473ba12ae18b",
-      "title": "Gracie Abrams on \u2018Nepo\u2019 Label, Writing With Paul Mescal and Her New Album",
-      "summary": "On her new album, \u201cDaughter From Hell,\u201d the 26-year-old star confronts growing up in a famous family and lessons from songwriting.",
-      "company": "Gracie Abrams",
-      "link": "https://www.nytimes.com/2026/06/26/arts/music/gracie-abrams-interview-popcast.html",
-      "date": "Jun 26, 26",
-      "source": "NYT Arts",
-      "layer": 1,
+      "id": "9047c0c2974e",
+      "title": "EIFO anchors EQT-managed European scaleup fund with \u20ac200m commitment",
+      "summary": "The Export and Investment Fund of Denmark (EIFO) has committed \u20ac200m as an anchor investor to the EU Scaleup Fund, a \u20ac5bn EQT-managed vehicle that will provide growth capital to European technology co",
+      "company": "EIFO",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/eifo-anchors-eqt-managed-european-scaleup-fund-with-e200m-commitment.html",
+      "date": "Jun 29, 26",
+      "source": "AltAssets",
+      "layer": 5,
       "access": "pe",
       "score": 12,
       "moments": [
-        "album_announcement"
+        "pe_investment"
       ]
     },
     {
@@ -268,21 +298,6 @@
       ]
     },
     {
-      "id": "5fa8f8673082",
-      "title": "British Business Bank commits up to \u00a390m to first-time venture capital managers",
-      "summary": "The British Business Bank has committed up to \u00a390m to a group of 10 emerging UK venture capital managers - the first investments made under its \u00a3400m Investor Pathways Capital programme. The post Brit",
-      "company": "British Business Bank",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/british-business-bank-commits-up-to-90m-to-first-time-venture-capital-managers.html",
-      "date": "Jun 25, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
       "id": "ed24e331be68",
       "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
       "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
@@ -295,21 +310,6 @@
       "score": 11,
       "moments": [
         "company_launch"
-      ]
-    },
-    {
-      "id": "009905a728b5",
-      "title": "Watch Kae Tempest join Kneecap for \u2018Irish Goodbye\u2019 at Crystal Palace Park",
-      "summary": "The powerful set - their biggest headline gig to date - saw them pay tribute to late music manager Trevor Dietz, and continue to condemn the Israeli lobby The post Watch Kae Tempest join Kneecap for &",
-      "company": "Watch Kae Tempest",
-      "link": "https://www.nme.com/news/music/watch-kae-tempest-join-kneecap-for-irish-goodbye-at-crystal-palace-park-3953704?utm_source=rss&utm_medium=rss&utm_campaign=watch-kae-tempest-join-kneecap-for-irish-goodbye-at-crystal-palace-park",
-      "date": "Jun 28, 26",
-      "source": "NME",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "festival_headliner"
       ]
     },
     {
@@ -373,19 +373,6 @@
       ]
     },
     {
-      "id": "1204d86166ae",
-      "title": "PGA Tour Bets New Tour Championship Will Drive More Buzz, Revenue",
-      "summary": "Brett Davis-Imagn Images",
-      "company": "PGA Tour Bets New Tour Championship",
-      "link": "https://frontofficesports.com/pga-tour-bets-new-tour-championship-will-drive-more-buzz-revenue/",
-      "date": "Jun 24, 26",
-      "source": "Front Office Sports",
-      "layer": 2,
-      "access": "pe",
-      "score": 11,
-      "moments": []
-    },
-    {
       "id": "d85e97aaf9e8",
       "title": "\u2018Real Housewives of New Jersey\u2019 Star Melissa Gorga Signs With WME (EXCLUSIVE)",
       "summary": "Melissa Gorga has signed with WME for representation, Variety has learned exclusively. Gorga will continue to be repped by attorney Darin Frank. WME will work with Gorga to further grow and expand her",
@@ -399,39 +386,13 @@
       "moments": []
     },
     {
-      "id": "3f8f72867893",
-      "title": "Fox, Bravo and BET Look to Take Microdramas Mainstream",
-      "summary": "Major networks like Fox, Bravo and BET are translating shows to the short-form video format that last year made $11 billion in global revenue.",
-      "company": "Fox Bravo",
-      "link": "https://www.nytimes.com/2026/06/25/arts/television/microdrama-short-tv-series-bravo-lifetime-bet.html",
-      "date": "Jun 25, 26",
-      "source": "NYT Arts",
-      "layer": 2,
-      "access": "pe",
-      "score": 11,
-      "moments": []
-    },
-    {
-      "id": "10b7537a1694",
-      "title": "Initiation stones, buried recordings, and Ringo Starr\u2019s drumkit: inside the visionary world of reggae master Lee \u2018Scratch\u2019 Perry",
-      "summary": "The late production genius\u2019s chaotic reputation has always preceded him. But could two new books, a posthumous album and a flurry of classic reissues change all that \u2013 and put the focus back on his mu",
-      "company": "Initiation",
-      "link": "https://www.theguardian.com/music/2026/jun/26/lee-scratch-perry-remembered-black-ark-new-books-mouse-on-mars",
-      "date": "Jun 26, 26",
-      "source": "Guardian Music",
-      "layer": 4,
-      "access": "pe",
-      "score": 11,
-      "moments": []
-    },
-    {
-      "id": "5f926039fac7",
-      "title": "Mr. Haaland\u2019s Opus: Norway Striker Brings Joy to the World Cup",
-      "summary": "The first stage of Norway\u2019s pillage-and-consternation tour concludes Friday afternoon with its Group I capper against France, and while both teams have secured a berth in the knockout round, the match",
-      "company": "Mr Haaland\u2019s Opus: Norway Striker Brings",
-      "link": "https://www.sportico.com/business/media/2026/erling-haaland-norway-world-cup-fans-1234937164/",
-      "date": "Jun 26, 26",
-      "source": "Sportico",
+      "id": "fefb2343ccae",
+      "title": "What hosting the World Cup means for Canadian soccer: \u2018The stakes are absolutely massive\u2019",
+      "summary": "Of the trio of World Cup hosts, only Canada is hosting the tournament for the first time \u2013 local soccer officials hope it can be transformativeToronto\u2019s Front Street, which loosely tethers the city\u2019s ",
+      "company": "What",
+      "link": "https://www.theguardian.com/football/2026/jun/29/canada-world-cup-2026-hosting-impact",
+      "date": "Jun 29, 26",
+      "source": "Guardian Sport",
       "layer": 2,
       "access": "pe",
       "score": 8,
@@ -451,14 +412,27 @@
       "moments": []
     },
     {
-      "id": "4e77a49a6b82",
-      "title": "Noah Kahan calls out fans for stealing road signs and shitting in their seats at gigs: \u201cIf you have to poop at a show please dear god just go to the...",
-      "summary": "\"You guys gotta understand, there\u2019s a venue worker out there with a 1000 yard stare after dealing with that\" The post Noah Kahan calls out fans for stealing road signs and shitting in their seats at g",
-      "company": "Noah Kahan calls out fans for stealing road",
-      "link": "https://www.nme.com/news/music/noah-kahan-calls-out-fans-for-stealing-road-signs-and-shitting-in-their-seats-at-gigs-if-you-have-to-poop-at-a-show-please-dear-god-just-go-to-the-bathroom-3953752?utm_source=rss&utm_medium=rss&utm_campaign=noah-kahan-calls-out-fans-for-stealing-road-signs-and-shitting-in-their-seats-at-gigs-if-you-have-to-poop-at-a-show-please-dear-god-just-go-to-the-bathroom",
-      "date": "Jun 28, 26",
-      "source": "NME",
+      "id": "480df3e03155",
+      "title": "Morocco and the Netherlands look to move mountains in Monterrey matchup",
+      "summary": "Two teams with plenty of connections meet in a \u2018clash of titans\u2019 at one of the World Cup\u2019s most picturesque venues Morocco manager Mohamed Ouahbi had just been asked what would inspire his players to ",
+      "company": "Morocco",
+      "link": "https://www.theguardian.com/football/2026/jun/28/morocco-netherlands-world-cup-2026-preview",
+      "date": "Jun 29, 26",
+      "source": "Guardian Sport",
       "layer": 2,
+      "access": "pe",
+      "score": 7,
+      "moments": []
+    },
+    {
+      "id": "3afd1a5883e3",
+      "title": "Live Nation Responds to Whistleblower Lawsuit by Former Executive, Claims \u2018Did Not Uncover Fraud\u2019",
+      "summary": "Live Nation has responded to a whistleblower lawsuit brought forth by a former executive, claiming that the ex-employee only came... The post Live Nation Responds to Whistleblower Lawsuit by Former Ex",
+      "company": "Live Nation Responds",
+      "link": "https://www.ticketnews.com/2026/06/live-nation-responds-whistleblower-lawsuit-former-exec/",
+      "date": "Jun 29, 26",
+      "source": "Ticket News",
+      "layer": 3,
       "access": "pe",
       "score": 7,
       "moments": []
@@ -490,13 +464,39 @@
       "moments": []
     },
     {
+      "id": "f28b3c77587b",
+      "title": "Lauryn Hill Receives Living Legend Icon Award After Incredible Tribute at 2026 BET Awards: \u2018I Want People to Know What We Can Do\u2019",
+      "summary": "Doechii, SZA, Doja Cat, Queen Latifah, Nas, Ice Cube, Wyclef &#38; more paid tribute to the singer/rapper as she accepted the new award.",
+      "company": "Lauryn Hill Receives Living Legend Icon",
+      "link": "https://www.billboard.com/music/rb-hip-hop/lauryn-hill-2026-bet-awards-tribute-living-legend-icon-1236282996/",
+      "date": "Jun 29, 26",
+      "source": "Billboard",
+      "layer": 3,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "5c3acc00d579",
+      "title": "Jolin Tsai and Chang Chen-yue Lead the Pack at Golden Melody Awards",
+      "summary": "Taipei Arena erupted on Saturday night as the 37th Golden Melody Awards \u2013 the Grammys of the Mandarin pop world \u2013 delivered one of its most memorable ceremonies, with pop titan Jolin Tsai walking away",
+      "company": "Jolin Tsai",
+      "link": "https://variety.com/2026/music/news/jolin-tsai-chang-chen-yue-golden-melody-awards-2026-1236796254/",
+      "date": "Jun 28, 26",
+      "source": "Variety Music",
+      "layer": 2,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
       "id": "edb01672fade",
       "title": "Is Canada About to Enter the Eurovision Song Contest?",
       "summary": "As Canada\u2019s government looks more toward Europe and less to the United States, its national broadcaster has become a full member of the group that organizes the glitzy singing event.",
       "company": "Is Canada About",
       "link": "https://www.nytimes.com/2026/06/25/arts/television/canada-eurovision.html",
       "date": "Jun 25, 26",
-      "source": "NYT Arts",
+      "source": "NYT Music",
       "layer": 3,
       "access": "pe",
       "score": 5,
