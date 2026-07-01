@@ -1,7 +1,41 @@
 {
-  "generated": "2026-06-30T14:28:41.526983+00:00",
-  "total": 32,
+  "generated": "2026-07-01T14:46:38.546097+00:00",
+  "total": 34,
   "scraped": [
+    {
+      "id": "818187989d9d",
+      "title": "Drake, AI & The Live Nation Case: Breaking Down Music\u2019s Biggest Stories | Billboard On The Record",
+      "summary": "We\u2019re halfway through 2026, and the music industry has already had its fair share of headline-making moments. From Spotify&#8217;s AI remix plans and Drake&#8217;s surprise three-album drop to company",
+      "company": "Drake AI",
+      "link": "https://www.billboard.com/video/drake-ai-live-nation-case-breaking-down-biggest-stories/",
+      "date": "Jul 01, 26",
+      "source": "Billboard",
+      "layer": 1,
+      "access": "pe",
+      "score": 32,
+      "moments": [
+        "acquisition",
+        "festival_headliner",
+        "streaming_milestone"
+      ]
+    },
+    {
+      "id": "0de434510d1d",
+      "title": "Tapestry VC launches $80m third fund backed by British Business Bank",
+      "summary": "Early-stage venture capital firm Tapestry VC has launched its third fund with $80m of commitments to invest in repeat founders across Europe and North America. The post Tapestry VC launches $80m third",
+      "company": "Tapestry VC",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/tapestry-vc-launches-80m-third-fund-backed-by-british-business-bank.html",
+      "date": "Jul 01, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 17,
+      "moments": [
+        "pe_investment",
+        "fund_launch",
+        "company_launch"
+      ]
+    },
     {
       "id": "69eeb80c7cf7",
       "title": "Deal Roundup: CVC buys Clevertech majority stake, Parabellum acquires Crux Informatics",
@@ -16,22 +50,6 @@
       "moments": [
         "acquisition",
         "company_launch"
-      ]
-    },
-    {
-      "id": "be38e780aa28",
-      "title": "BNP Paribas AM Alts raises almost \u20ac1bn for second Agility co-investment fund",
-      "summary": "BNP Paribas Asset Management Alternatives has pulled in almost \u20ac1bn at the final close of its second Agility private equity co-investment strategy, exceeding its initial fundraising target. The post B",
-      "company": "BNP Paribas AM Alts",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/france-western-europe-europe-by-region/bnp-paribas-am-alts-raises-almost-e1bn-for-second-agility-co-investment-fund.html",
-      "date": "Jun 30, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 19,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
       ]
     },
     {
@@ -51,19 +69,19 @@
       ]
     },
     {
-      "id": "e6ea0eef4ba0",
-      "title": "Scoop: JD Vance raises $4.2 million in Silicon Valley",
-      "summary": "Vice President JD Vance headlined an RNC fundraiser on Thursday night in Palo Alto, California, at the residence of influential investor and All-In Podcast host Chamath Palihapitiya, raking in $4.2 mi",
-      "company": "Scoop",
-      "link": "https://www.axios.com/2026/06/26/scoop-jd-vance-raises-42-million-in-silicon-valley",
-      "date": "Jun 26, 26",
-      "source": "Axios",
-      "layer": 1,
-      "access": "venture",
+      "id": "3913310c582c",
+      "title": "Ruya Ventures closes oversubscribed $50m debut deep tech fund",
+      "summary": "Solo GP Rick Hao has held the final close of Ruya Ventures' inaugural venture capital fund on $50m, with the vehicle set to back early-stage deep technology companies across Europe, North America and ",
+      "company": "Ruya Ventures",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/ruya-ventures-closes-oversubscribed-50m-debut-deep-tech-fund.html",
+      "date": "Jul 01, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
       "score": 16,
       "moments": [
-        "funding_round",
-        "festival_headliner"
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
@@ -83,75 +101,74 @@
       ]
     },
     {
-      "id": "95c9c7db593f",
-      "title": "PLL Raises $100M From Tsai, Ares Amid \u2018Critical Growth Window\u2019",
-      "summary": "The Premier Lacrosse League has raised more than $200 million since it first disrupted\u2014then fully redefined\u2014professional lacrosse in America. Co-founder Paul Rabil says its latest round, a $100 millio",
-      "company": "PLL Raises",
-      "link": "https://www.sportico.com/business/finance/2026/pll-lacrosse-investors-joe-tsai-ares-glen-powell-texas-1234937440/",
-      "date": "Jun 30, 26",
-      "source": "Sportico",
-      "layer": 1,
+      "id": "d468645b4458",
+      "title": "Alexis Smith of The Feminine Glow Emerges at the Center of the Feminine Energy Coaching Boom",
+      "summary": "DUBAI, UAE &#8211; &#160;The Feminine Glow, the fast-growing femininity and inner work platform founded by Alexis Smith, is gaining national attention as interest in coaching, self-development, and fe",
+      "company": "Alexis Smith",
+      "link": "https://venuestoday.com/alexis-smith-of-the-feminine-glow-emerges-at-the-center-of-the-feminine-energy-coaching-boom/",
+      "date": "Mar 29, 26",
+      "source": "Venues Today",
+      "layer": 2,
       "access": "pe",
       "score": 13,
       "moments": [
-        "funding_round",
+        "acquisition",
         "company_launch"
       ]
     },
     {
-      "id": "89ac631723a8",
-      "title": "Argosy Capital\u2019s smaller-scale secondaries arm closes third fund on $145m",
-      "summary": "Argosy Strategic Partners, the Argosy Capital arm which focuses on smaller-scale secondaries deals, has hit a $15m final close for its third fund. The post Argosy Capital&#8217;s smaller-scale seconda",
-      "company": "Argosy Capital\u2019s",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/argosy-capital-smaller-scale-secondaries-arm-closes-third-fund-on-145m.html",
-      "date": "Jun 26, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "fa9498a9ff17",
-      "title": "Post your questions for Ezra Collective at Love Supreme festival",
-      "summary": "The Guardian is partnering with Love Supreme this year, where we will have a live Q&amp;A with the UK jazz heroes \u2013 leave us your questions for themVanguards of the London jazz scene, five-piece instr",
-      "company": "Post",
-      "link": "https://www.theguardian.com/music/2026/jun/29/post-your-questions-for-ezra-collective-at-love-supreme-festival",
-      "date": "Jun 29, 26",
-      "source": "Guardian Music",
+      "id": "298c936116ee",
+      "title": "Music Industry Moves: Ashe Inks With Atlantic; Virgin Announces New Upper Management Structure, Post-Downtown Acquisition",
+      "summary": "Singer-songwriter Ashe has signed with Atlantic Records and has struck a publishing deal with Doomsday/ Universal Music Publishing Group. She will be on tour this summer supporting Benson Boone. Last ",
+      "company": "Music Industry Moves",
+      "link": "https://variety.com/2026/music/news/ashe-signs-with-atlantic-records-1236799684/",
+      "date": "Jun 30, 26",
+      "source": "Variety Music",
       "layer": 1,
       "access": "pe",
-      "score": 18,
+      "score": 19,
       "moments": [
-        "festival_headliner"
+        "acquisition"
       ]
     },
     {
-      "id": "e089e8d85753",
-      "title": "Gorillaz review \u2013 a staggering hi-tech mini-festival from the magpie mind of Damon Albarn",
-      "summary": "Tottenham Hotspur Stadium, LondonA stream of high-profile guest stars included Johnny Marr, Little Simz, Shaun Ryder, Sparks, Yasiin Bey, Bootie Brown and Fatoumata DiawaraGorillaz\u2019s first stadium sho",
-      "company": "Gorillaz",
-      "link": "https://www.theguardian.com/music/2026/jun/21/gorillaz-review-damon-albarn-spurs-stadium",
-      "date": "Jun 21, 26",
-      "source": "Guardian Music",
-      "layer": 1,
+      "id": "6c250e94b064",
+      "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
+      "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
+      "company": "Kiro Eid Built",
+      "link": "https://venuestoday.com/kiro-eid-built-8x6-design-studio-here-is-how-he-did-it-without-a-network-or-shortcuts/",
+      "date": "Mar 28, 26",
+      "source": "Venues Today",
+      "layer": 2,
       "access": "pe",
-      "score": 17,
+      "score": 16,
       "moments": [
-        "festival_headliner"
+        "company_launch"
       ]
     },
     {
-      "id": "04a0ac952189",
-      "title": "Ariana Grande Reschedules 3 \u2018Eternal Sunshine\u2019 Tour Dates: \u2018Safety, First and Foremost\u2019",
+      "id": "c46c57edf219",
+      "title": "Does California Attorney General Want to Force Paramount to Sell Off CNN? Rob Bonta Claims \u2018I Have No Idea\u2019 Where That Speculation \u2018Comes From\u2019",
+      "summary": "David Ellison&#8217;s Paramount Skydance is hoping to close its megamerger with Warner Bros. Discovery within the next several months &#8212; but there are still a few roadblocks remaining. One of tho",
+      "company": "Does California Attorney General Want",
+      "link": "https://variety.com/2026/tv/news/california-attorney-general-force-paramount-sell-cnn-rob-bonta-1236799191/",
+      "date": "Jun 30, 26",
+      "source": "Variety Biz",
+      "layer": 3,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "13fc5254010a",
+      "title": "Ariana Grande Reschedules Three \u2018Eternal Sunshine\u2019 Tour Dates: \u2018Safety, First and Foremost\u2019",
       "summary": "The singer apologized for moving the upcoming concerts due to production issues",
-      "company": "Ariana Grande Reschedules",
+      "company": "",
       "link": "https://www.rollingstone.com/music/music-news/ariana-grande-reschedules-eternal-sunshine-tour-dates-1235586459/",
       "date": "Jun 30, 26",
-      "source": "Rolling Stone Music",
+      "source": "Rolling Stone News",
       "layer": 1,
       "access": "pe",
       "score": 14,
@@ -160,33 +177,78 @@
       ]
     },
     {
-      "id": "29516596ffcf",
-      "title": "Johnny Foreigner return with new album \u2018Forwards!\u2019 and thrashing single \u2018The New Navigation\u2019 ahead of UK tour",
-      "summary": "\"It's a record of where we came from and why we are like this,\" the Birmingham band explained. \"A record of how parliament and press stoked division and invoked \u2018patriotism\u2019 to burn the foreigners out",
-      "company": "Johnny Foreigner",
-      "link": "https://www.nme.com/news/music/johnny-foreigner-return-with-new-album-forwards-and-thrashing-single-the-new-navigation-ahead-of-uk-tour-buy-tickets-3954185?utm_source=rss&utm_medium=rss&utm_campaign=johnny-foreigner-return-with-new-album-forwards-and-thrashing-single-the-new-navigation-ahead-of-uk-tour-buy-tickets",
-      "date": "Jun 30, 26",
-      "source": "NME",
+      "id": "bca4baf0764e",
+      "title": "Paramount Set to Exit Universal Joint Venture as Condition for EU Approval of Mega-Merger With Warner Bros. Discovery",
+      "summary": "Paramount will exit its United International Pictures distribution joint venture with Universal as a condition for EU approval of its $111 billion takeover of Warner Bros. Discovery. The move is in re",
+      "company": "Paramount Set",
+      "link": "https://variety.com/2026/biz/global/paramount-exit-universal-uip-venture-eu-approval-merger-1236799919/",
+      "date": "Jul 01, 26",
+      "source": "Variety Biz",
+      "layer": 3,
+      "access": "venture",
+      "score": 12,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "473ba12ae18b",
+      "title": "Gracie Abrams on \u2018Nepo\u2019 Label, Writing With Paul Mescal and Her New Album",
+      "summary": "On her new album, \u201cDaughter From Hell,\u201d the 26-year-old star confronts growing up in a famous family and lessons from songwriting.",
+      "company": "Gracie Abrams",
+      "link": "https://www.nytimes.com/2026/06/26/arts/music/gracie-abrams-interview-popcast.html",
+      "date": "Jun 26, 26",
+      "source": "NYT Music",
       "layer": 1,
       "access": "pe",
-      "score": 14,
+      "score": 12,
       "moments": [
         "album_announcement"
       ]
     },
     {
-      "id": "e91f62489d1b",
-      "title": "Baby Queen announces new album \u2018I Hope You Don\u2019t Remember Me\u2019 \u2013 featuring members of QOTSA and Jack White\u2019s band \u2013 with single \u2018Permanently Obsessed\u2019...",
-      "summary": "The alt-pop star says that the album puts a spotlight on \u201ccorners of myself I hadn't looked at in a long time\u201d and \u201ctruths I had long been trying to avoid\u201d The post Baby Queen announces new album &#82",
-      "company": "Baby Queen",
-      "link": "https://www.nme.com/news/music/baby-queen-announces-new-album-i-hope-you-dont-remember-me-featuring-members-of-qotsa-and-jack-whites-band-with-single-permanently-obsessed-and-uk-record-store-tour-buy-tickets-3954192?utm_source=rss&utm_medium=rss&utm_campaign=baby-queen-announces-new-album-i-hope-you-dont-remember-me-featuring-members-of-qotsa-and-jack-whites-band-with-single-permanently-obsessed-and-uk-record-store-tour-buy-tickets",
-      "date": "Jun 30, 26",
-      "source": "NME",
-      "layer": 1,
+      "id": "e3b288aa8548",
+      "title": "My Chemical Romance review \u2013 \u200bfire! Nuclear war! Killer pierrots! This is stadium rock at its most monumentally madcap",
+      "summary": "Anfield Stadium, Liverpool Adding eye-popping spectacle to this anniversary reprise of The Black Parade is fun, but what really stands out is the tremendous songcraftMy Chemical Romance take the stage",
+      "company": "My Chemical Romance",
+      "link": "https://www.theguardian.com/music/2026/jul/01/my-chemical-romance-review-anfield-stadium-liverpool-uk-tour",
+      "date": "Jul 01, 26",
+      "source": "Guardian Music",
+      "layer": 2,
       "access": "pe",
-      "score": 14,
+      "score": 12,
       "moments": [
-        "album_announcement"
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "d0d534297520",
+      "title": "Antin Infrastructure hires IFM\u2019s Welsh to lead investor relations expansion in Australia",
+      "summary": "Antin Infrastructure Partners has appointed former IFM Investors executive Duncan Welsh as a principal in its investor relations team, as the infrastructure investor expands its institutional fundrais",
+      "company": "Antin Infrastructure",
+      "link": "https://www.altassets.net/private-equity-news/by-region/australasia-by-region/australia-australasia-by-region/antin-infrastructure-hires-ifms-welsh-to-lead-investor-relations-expansion-in-australia.html",
+      "date": "Jul 01, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "dff9d1e6be33",
+      "title": "Coller Capital expands European private wealth push through Cherry Bank partnership",
+      "summary": "Secondaries major Coller Capital has entered a distribution partnership with Italy's Cherry Bank to offer the lender's wealth management clients access to its private credit secondaries strategy. The ",
+      "company": "Coller Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/coller-capital-expands-european-private-wealth-push-through-cherry-bank-partnership.html",
+      "date": "Jul 01, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "pe_investment"
       ]
     },
     {
@@ -205,58 +267,118 @@
       ]
     },
     {
-      "id": "3373ac2f4bfa",
-      "title": "Strategic Value Partners appoints de Boissieu to European investment team",
-      "summary": "Strategic Value Partners has appointed Jean-Baptiste de Boissieu as a managing director within its European investment team, as the alternative investment firm continues to expand its opportunistic cr",
-      "company": "Strategic Value Partners",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/strategic-value-partners-appoints-de-boissieu-to-european-investment-team.html",
-      "date": "Jun 29, 26",
-      "source": "AltAssets",
-      "layer": 5,
+      "id": "1267151eb0d6",
+      "title": "Soft Palms are rewriting the rules of the music business from a Long Beach studio",
+      "summary": "With a new album titled \"In Echo\" out Friday, husband-and-wife duo Scott Montoya and Julia Kugel also share secrets of how to survive and thrive as indie artists through a new book about the DIY music",
+      "company": "Soft Palms",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-06-19/soft-palms-new-album-book-are-rooted-in-diy-work-ethic",
+      "date": "Jun 19, 26",
+      "source": "LA Times Music",
+      "layer": 1,
       "access": "pe",
-      "score": 12,
+      "score": 11,
       "moments": [
-        "pe_investment"
+        "album_announcement"
       ]
     },
     {
-      "id": "9047c0c2974e",
-      "title": "EIFO anchors EQT-managed European scaleup fund with \u20ac200m commitment",
-      "summary": "The Export and Investment Fund of Denmark (EIFO) has committed \u20ac200m as an anchor investor to the EU Scaleup Fund, a \u20ac5bn EQT-managed vehicle that will provide growth capital to European technology co",
-      "company": "EIFO",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/eifo-anchors-eqt-managed-european-scaleup-fund-with-e200m-commitment.html",
-      "date": "Jun 29, 26",
-      "source": "AltAssets",
-      "layer": 5,
+      "id": "10346d43ba53",
+      "title": "\u2018One of those pinch-me places\u2019: Silverstone\u2019s school facilitating a fast-track into motor sport | Giles Richards",
+      "summary": "Partnerships with Aston Martin, Red Bull and Haas mean students have a rare chance to make it in F1 after graduationUnnoticeable amid the spectacle and heaving crowds at the British Grand Prix this we",
+      "company": "\u2018One",
+      "link": "https://www.theguardian.com/sport/2026/jul/01/silverstone-university-technical-college-motor-sport-f1-british-grand-prix",
+      "date": "Jul 01, 26",
+      "source": "Guardian Sport",
+      "layer": 1,
       "access": "pe",
-      "score": 12,
+      "score": 11,
       "moments": [
-        "pe_investment"
+        "festival_headliner"
       ]
     },
     {
-      "id": "1d5feb3c5779",
-      "title": "SteriMax Acquires Andone Pharmaceuticals, Expanding into Medical Device and Veterinary Markets",
-      "summary": "OAKVILLE, ON, June 30, 2026 /PRNewswire/ - SteriMax Inc. has acquired Andone Pharmaceuticals Inc., a Canadian pharmaceutical and medical device company based in Oakville, Ontario. The acquisition stre",
-      "company": "",
-      "link": "https://www.prnewswire.com/news-releases/sterimax-acquires-andone-pharmaceuticals-expanding-into-medical-device-and-veterinary-markets-302814639.html",
+      "id": "ed24e331be68",
+      "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
+      "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
+      "company": "Niloufar Banisaied",
+      "link": "https://venuestoday.com/niloufar-banisaied-is-bringing-timeless-design-and-the-guest-experience-at-the-forefront/",
+      "date": "Jun 09, 26",
+      "source": "Venues Today",
+      "layer": 4,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "3b31b58427ae",
+      "title": "Oak View Group, Mountain America Credit Union Announce Naming Rights Deal for Draper Event Center",
+      "summary": "Oak View Group and Mountain America Credit Union have announced a multi-year naming rights agreement for the new 5,000-seat event... The post Oak View Group, Mountain America Credit Union Announce Nam",
+      "company": "Oak View Group Mountain America Credit",
+      "link": "https://www.ticketnews.com/2026/06/oak-view-group-mountain-america-credit-union-announce-naming-rights-deal-for-draper-event-center/",
       "date": "Jun 30, 26",
-      "source": "PR Newswire",
-      "layer": 5,
+      "source": "Ticket News",
+      "layer": 2,
       "access": "pe",
-      "score": 12,
+      "score": 11,
+      "moments": [
+        "rights_deal"
+      ]
+    },
+    {
+      "id": "02dc2b201739",
+      "title": "Fever, DICE Tout Record Year of Growth Following Merger",
+      "summary": "One year after joining forces, Fever and DICE are touting a year of rapid growth, highlighting a wave of new... The post Fever, DICE Tout Record Year of Growth Following Merger appeared first on Ticke",
+      "company": "Fever DICE Tout Record Year",
+      "link": "https://www.ticketnews.com/2026/06/fever-dice-tout-record-year-growth-following-merger/",
+      "date": "Jun 30, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 11,
       "moments": [
         "acquisition"
       ]
     },
     {
-      "id": "2c126ed9156f",
-      "title": "Voyager Interests acquires helicopter operator Rotorcraft Leasing Company",
-      "summary": "The sellers were Bluehenge Capital Partners and a consortium of other investors. The post Voyager Interests acquires helicopter operator Rotorcraft Leasing Company appeared first on PE Hub.",
-      "company": "Voyager Interests",
-      "link": "https://www.pehub.com/voyager-interests-acquires-helicopter-operator-rotorcraft-leasing-company/",
+      "id": "82f76f9c16c5",
+      "title": "Billy Strings Sings for His Late Mother on New Album, \u2018So Much for Goodbyes\u2019",
+      "summary": "The singer-guitarist processes the grief of losing his mom last year to a drug overdose",
+      "company": "Billy Strings Sings",
+      "link": "https://www.rollingstone.com/music/music-country/billy-strings-so-much-for-goodbyes-album-mother-1235587038/",
       "date": "Jun 30, 26",
-      "source": "PE Hub",
+      "source": "Rolling Stone Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "9d68ae4adb6e",
+      "title": "Perpetual rejects $1.7bn takeover approach from EQT-backed vehicle",
+      "summary": "Perpetual has rejected a takeover proposal from Windflower, a company indirectly controlled by Swedish private equity firm EQT, which valued the Australian fund manager at around AUD2.5bn ($1.7bn), ac",
+      "company": "Perpetual",
+      "link": "https://www.privateequitywire.co.uk/perpetual-rejects-1-7bn-takeover-approach-from-eqt-backed-vehicle/",
+      "date": "Jul 01, 26",
+      "source": "PE Wire",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "ad91fdef9b35",
+      "title": "KKR agrees $4.2bn EDF renewables acquisition, ACON backs YumEarth",
+      "summary": "KKR has agreed to acquire EDF power solutions&#8217; renewable energy operations in the US and Canada from EDF Group in a transaction valuing the equity at approximately $4.2bn, with potential additio",
+      "company": "KKR",
+      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/kkr-agrees-4-2bn-edf-renewables-acquisition-as-acon-backs-yumearth.html",
+      "date": "Jul 01, 26",
+      "source": "AltAssets",
       "layer": 5,
       "access": "pe",
       "score": 9,
@@ -271,7 +393,7 @@
       "company": "Phoebe Bridgers Sombr: Songs",
       "link": "https://www.nytimes.com/2026/06/27/arts/music/phoebe-bridgers-sombr-songs.html",
       "date": "Jun 27, 26",
-      "source": "NYT Arts",
+      "source": "NYT Music",
       "layer": 2,
       "access": "pe",
       "score": 6,
@@ -280,176 +402,72 @@
       ]
     },
     {
-      "id": "fe56ffd350bd",
-      "title": "Reid Hoffman is leaving Microsoft\u2019s board to go \u2018founder mode\u2019 with startup Manas",
-      "summary": "After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus.",
-      "company": "Reid Hoffman",
-      "link": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
-      "date": "Jun 05, 26",
-      "source": "TechCrunch Venture",
-      "layer": 3,
-      "access": "venture",
+      "id": "e7092ba44dfe",
+      "title": "Party-led development has provided inspiration across globe",
+      "summary": "BEIJING, July 1, 2026 /PRNewswire/ -- The following article was published today by China Daily. On July 1, China marks the 105th anniversary of the founding of the Communist Party of China, inviting r",
+      "company": "Party-led",
+      "link": "https://www.prnewswire.com/news-releases/party-led-development-has-provided-inspiration-across-globe-302815959.html",
+      "date": "Jul 01, 26",
+      "source": "PR Newswire",
+      "layer": 2,
+      "access": "pe",
       "score": 6,
       "moments": [
         "company_launch"
       ]
     },
     {
-      "id": "a19abd170072",
-      "title": "Bridgepoint agrees $1.4bn Kayne Anderson real estate deal",
-      "summary": "Bridgepoint has agreed to acquire Kayne Anderson\u2019s real estate business in a deal valued at around $1.4bn, as the firm looks to diversify its earnings and expand its international footprint, according",
-      "company": "Bridgepoint",
-      "link": "https://www.privateequitywire.co.uk/bridgepoint-agrees-1-4bn-kayne-anderson-real-estate-deal/",
-      "date": "Jun 30, 26",
-      "source": "PE Wire",
-      "layer": 2,
-      "access": "public",
+      "id": "f3a1d1554548",
+      "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
+      "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
+      "company": "Navigating",
+      "link": "https://venuestoday.com/navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026/",
+      "date": "Apr 22, 26",
+      "source": "Venues Today",
+      "layer": 3,
+      "access": "pe",
       "score": 6,
       "moments": [
         "acquisition"
       ]
     },
     {
-      "id": "d85e97aaf9e8",
-      "title": "\u2018Real Housewives of New Jersey\u2019 Star Melissa Gorga Signs With WME (EXCLUSIVE)",
-      "summary": "Melissa Gorga has signed with WME for representation, Variety has learned exclusively. Gorga will continue to be repped by attorney Darin Frank. WME will work with Gorga to further grow and expand her",
-      "company": "\u2018Real Housewives",
-      "link": "https://variety.com/2026/tv/news/real-housewives-of-new-jersey-melissa-gorga-wme-1236791286/",
-      "date": "Jun 26, 26",
+      "id": "96082166a945",
+      "title": "Would Netflix Make a Play for NBCUniversal Post Spin-Off? Why That\u2019s Unlikely to Happen",
+      "summary": "Over an intense six-week period last fall, Netflix went from an initial phone call between co-CEO Ted Sarandos and Warner Bros. Discovery chief David Zaslav to sealing an $82.7 billion deal to buy War",
+      "company": "Would Netflix Make",
+      "link": "https://variety.com/2026/tv/news/would-netflix-acquire-nbcuniversal-post-comcast-spinoff-1236799468/",
+      "date": "Jun 30, 26",
       "source": "Variety Biz",
-      "layer": 4,
+      "layer": 3,
       "access": "pe",
-      "score": 11,
+      "score": 12,
       "moments": []
     },
     {
-      "id": "dcb072a68a2d",
-      "title": "Wimbledon chiefs dispute players\u2019 revenue claims as prize money row deepens",
-      "summary": "All England CEO requests \u2018financial information\u2019 from playersResentment rising over stalling tactics in long-running disputeThe All England Club (AELTC) is questioning the players\u2019 claim that they rec",
-      "company": "Wimbledon",
-      "link": "https://www.theguardian.com/sport/2026/jun/30/wimbledon-chiefs-dispute-players-revenue-claims-prize-money-row-tennis",
-      "date": "Jun 30, 26",
-      "source": "Guardian Sport",
-      "layer": 2,
-      "access": "pe",
-      "score": 11,
-      "moments": []
-    },
-    {
-      "id": "9de97a9912cd",
-      "title": "Bill Nuttall on saving Pel\u00e9\u2019s penalty and building a US team from scratch",
-      "summary": "Former goalkeeper and US Soccer general manager is hosting the Spain team at his training camp in ChattanoogaAt the foot of Signal Mountain on a bend in the Tennessee river, over the little level cros",
-      "company": "Bill Nuttall",
-      "link": "https://www.theguardian.com/football/2026/jun/30/bill-nuttall-world-cup-pele-gerd-muller-gordon-banks-chattanooga",
-      "date": "Jun 30, 26",
-      "source": "Guardian Sport",
+      "id": "9f7f2704c9a0",
+      "title": "Rush Postpones 2 Shows After Geddy Lee Diagnosed With Laryngitis and Bronchitis",
+      "summary": "The band pushed back two dates at Dickies Arena in Fort Worth, Texas",
+      "company": "Rush Postpones",
+      "link": "https://www.rollingstone.com/music/music-news/rush-postpones-shows-geddy-lee-laryngitis-and-bronchitis-1235587278/",
+      "date": "Jul 01, 26",
+      "source": "Rolling Stone Music",
       "layer": 2,
       "access": "pe",
       "score": 7,
       "moments": []
     },
     {
-      "id": "c06cf936d727",
-      "title": "PGA Tour Faces New Sponsorship Test With 2028 Overhaul",
-      "summary": "REUTERS-Nick Lachance",
-      "company": "PGA Tour Faces New Sponsorship Test",
-      "link": "https://frontofficesports.com/pga-tour-championship-series-sponsorship-test/",
-      "date": "Jun 25, 26",
-      "source": "Front Office Sports",
-      "layer": 4,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "c072f6fc12f8",
-      "title": "Metallica Played Banned Tom Jones Hit During Show at Cardiff\u2019s Principality Stadium",
-      "summary": "The \"Delilah\" cover was a nod to the Welsh pop icon, whose song has been banned at the stadium since 2023.",
-      "company": "Metallica Played Banned Tom Jones Hit",
-      "link": "https://www.billboard.com/music/rock/metallica-played-banned-tom-jones-delilah-principality-stadium-1236284619/",
-      "date": "Jun 30, 26",
-      "source": "Billboard",
-      "layer": 2,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "39d1178755d7",
-      "title": "Lauryn Hill Receives All-Star Tribute From Queen Latifah, SZA, Doechii, Doja Cat, Nas and More at BET Awards 2026",
-      "summary": "Lauryn Hill was honored with the Living Legend Icon Award as well as a very robust all-star performance featuring Doechii, Nas, Doja Cat, SZA, Common and Queen Latifah, among many others, at the BET A",
-      "company": "Lauryn Hill Receives All-Star Tribute From",
-      "link": "https://variety.com/2026/music/news/lauryn-hill-tribute-bet-awards-queen-latifah-sza-doechii-1236798041/",
-      "date": "Jun 29, 26",
-      "source": "Variety Music",
-      "layer": 3,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "7a5cfeb2f79c",
-      "title": "Metallica Break U.K. Stadium Rules + Play Banned Song",
-      "summary": "Monica Schipper, Getty Images",
-      "company": "Metallica Break U.K Stadium Rules",
-      "link": "https://loudwire.com/metallica-banned-song-delilah-cardiff-2026/",
-      "date": "Jun 29, 26",
-      "source": "Loudwire",
-      "layer": 2,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "2f0174cdf20b",
-      "title": "When Sly Stone Got Married at M.S.G., He Had 20,000 Fans There With Him",
-      "summary": "A celebrity wedding at the New York arena? The funk and soul star did just that in 1974.",
-      "company": "When Sly Stone Got Married",
-      "link": "https://www.nytimes.com/2026/06/30/arts/music/sly-stone-taylor-swift-msg-wedding.html",
-      "date": "Jun 30, 26",
+      "id": "3623f3a5a9fb",
+      "title": "Canada Will Compete in Eurovision Song Contest",
+      "summary": "The country\u2019s national broadcaster confirmed that it is joining the world\u2019s most popular singing contest next year. Some fans are urging it to send a star like Shania Twain.",
+      "company": "Canada Will Compete",
+      "link": "https://www.nytimes.com/2026/07/01/arts/music/eurovision-song-contest-canada.html",
+      "date": "Jul 01, 26",
       "source": "NYT Arts",
-      "layer": 2,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "edb01672fade",
-      "title": "Is Canada About to Enter the Eurovision Song Contest?",
-      "summary": "As Canada\u2019s government looks more toward Europe and less to the United States, its national broadcaster has become a full member of the group that organizes the glitzy singing event.",
-      "company": "Is Canada About",
-      "link": "https://www.nytimes.com/2026/06/25/arts/television/canada-eurovision.html",
-      "date": "Jun 25, 26",
-      "source": "NYT Music",
       "layer": 3,
       "access": "pe",
       "score": 5,
-      "moments": []
-    },
-    {
-      "id": "b51df1c5aa0c",
-      "title": "BBC wanted Andrew Castle to stay past 2026 Wimbledon men\u2019s final",
-      "summary": "Kay-Jelski insists commentator has had \u2018brilliant innings\u2019\u2018We will get best replacement regardless of age or gender\u2019The BBC\u2019s director of sport has insisted that he wanted Andrew Castle to stay as par",
-      "company": "BBC",
-      "link": "https://www.theguardian.com/sport/2026/jun/30/bbc-wanted-andrew-castle-to-stay-past-2026-wimbledon-tennis",
-      "date": "Jun 30, 26",
-      "source": "Guardian Sport",
-      "layer": 3,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "5e41aa027ff4",
-      "title": "\u20181923\u2019 Star Darren Mann Signs With Paradigm (EXCLUSIVE)",
-      "summary": "Darren Mann has signed with talent agency Paradigm for representation, Variety has learned exclusively. He continues to be repped at Principal Entertainment, Webster Talent, and by attorney Jared Bloc",
-      "company": "Star Darren Mann Signs With",
-      "link": "https://variety.com/2026/tv/news/1923-darren-mann-paradigm-1236791428/",
-      "date": "Jun 26, 26",
-      "source": "Variety Biz",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
       "moments": []
     },
     {
@@ -460,6 +478,32 @@
       "link": "https://www.latimes.com/entertainment-arts/music/story/2026-06-18/este-haim-voicemails-for-isabelle-netflix-interview",
       "date": "Jun 18, 26",
       "source": "LA Times Music",
+      "layer": 3,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "8f95fdb4c719",
+      "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
+      "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
+      "company": "Global Times",
+      "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/",
+      "date": "May 09, 26",
+      "source": "Venues Today",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "29ad7afd6a87",
+      "title": "Stagedoor Rewards Launches as UK\u2019s First Fee-Free Theatre Ticketing App",
+      "summary": "A new theatre ticketing app is taking aim at one of live entertainment\u2019s most persistent pain points: added fees. London... The post Stagedoor Rewards Launches as UK\u2019s First Fee-Free Theatre Ticketing",
+      "company": "Stagedoor Rewards Launches",
+      "link": "https://www.ticketnews.com/2026/07/stagedoor-rewards-uk-first-fee-free-theatre-ticket-app/",
+      "date": "Jul 01, 26",
+      "source": "Ticket News",
       "layer": 3,
       "access": "pe",
       "score": 4,
