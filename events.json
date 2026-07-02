@@ -1,22 +1,22 @@
 {
-  "generated": "2026-07-01T14:46:38.546097+00:00",
+  "generated": "2026-07-02T14:11:42.320896+00:00",
   "total": 34,
   "scraped": [
     {
-      "id": "818187989d9d",
-      "title": "Drake, AI & The Live Nation Case: Breaking Down Music\u2019s Biggest Stories | Billboard On The Record",
-      "summary": "We\u2019re halfway through 2026, and the music industry has already had its fair share of headline-making moments. From Spotify&#8217;s AI remix plans and Drake&#8217;s surprise three-album drop to company",
-      "company": "Drake AI",
-      "link": "https://www.billboard.com/video/drake-ai-live-nation-case-breaking-down-biggest-stories/",
-      "date": "Jul 01, 26",
-      "source": "Billboard",
-      "layer": 1,
+      "id": "2330940b5a23",
+      "title": "Hamilton Lane raises $3.8bn for sixth direct equity fund",
+      "summary": "Hamilton Lane has held a $3.8bn final close of its sixth flagship direct equity fund, marking a significant increase from the firm's prior $2.1bn vintage. The post Hamilton Lane raises $3.8bn for sixt",
+      "company": "Hamilton Lane",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/hamilton-lane-raises-3-8bn-for-sixth-direct-equity-fund.html",
+      "date": "Jul 02, 26",
+      "source": "AltAssets",
+      "layer": 5,
       "access": "pe",
-      "score": 32,
+      "score": 20,
       "moments": [
-        "acquisition",
-        "festival_headliner",
-        "streaming_milestone"
+        "funding_round",
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
@@ -37,19 +37,19 @@
       ]
     },
     {
-      "id": "69eeb80c7cf7",
-      "title": "Deal Roundup: CVC buys Clevertech majority stake, Parabellum acquires Crux Informatics",
-      "summary": "CVC Capital Partners has agreed to buy a majority stake in Italian industrial automation specialist Clevertech from the Reggiani family. Clevertech, which was founded in 1987, designs and manufactures",
-      "company": "Deal Roundup",
-      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-cvc-buys-clevertech-majority-stake-parabellum-acquires-crux-informatics.html",
-      "date": "Jun 30, 26",
+      "id": "cf7eebc4baed",
+      "title": "Altera raises $136.5m across three lower mid-market investment strategies",
+      "summary": "Lower mid-market investor Altera has closed a trio of private markets funds with a combined $136.5m in capital commitments. The post Altera raises $136.5m across three lower mid-market investment stra",
+      "company": "Altera",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/altera-raises-136-5m-across-three-lower-mid-market-investment-strategies.html",
+      "date": "Jul 02, 26",
       "source": "AltAssets",
-      "layer": 2,
-      "access": "venture",
-      "score": 24,
+      "layer": 5,
+      "access": "pe",
+      "score": 19,
       "moments": [
-        "acquisition",
-        "company_launch"
+        "funding_round",
+        "pe_investment"
       ]
     },
     {
@@ -85,19 +85,35 @@
       ]
     },
     {
-      "id": "5ec5ce49af04",
-      "title": "Patria Investments picks up $677m for fifth secondaries fund",
-      "summary": "Patria Investments has held the final close of its fifth secondaries fund after securing $677m in commitments, exceeding its initial $500m target by more than one-third. The post Patria Investments pi",
-      "company": "Patria Investments",
-      "link": "https://www.altassets.net/private-equity-news/by-region/latin-america-by-region/patria-investments-picks-up-677m-for-fifth-secondaries-fund.html",
-      "date": "Jun 30, 26",
+      "id": "8ac9fbfb4ce0",
+      "title": "Starwood Capital closes $10.2bn opportunistic real estate fund",
+      "summary": "Starwood Capital Group has raised more than $10.2bn at the final close of its latest opportunistic real estate vehicle. The post Starwood Capital closes $10.2bn opportunistic real estate fund appeared",
+      "company": "Starwood Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/starwood-capital-closes-10-2bn-opportunistic-real-estate-fund.html",
+      "date": "Jul 02, 26",
       "source": "AltAssets",
-      "layer": 5,
+      "layer": 2,
       "access": "pe",
-      "score": 16,
+      "score": 15,
       "moments": [
         "pe_investment",
         "fund_launch"
+      ]
+    },
+    {
+      "id": "5cf92d3cada8",
+      "title": "Deal Roundup: New Mountain picks up majority SAM stake from Peak Rock, Balance Point backs AquaVerse",
+      "summary": "New Mountain Capital has acquired a majority stake in geospatial and infrastructure services provider SAM from Peak Rock Capital. The post Deal Roundup: New Mountain picks up majority SAM stake from P",
+      "company": "Deal Roundup",
+      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-new-mountain-picks-up-majority-sam-stake-from-peak-rock-balance-point-backs-aquaverse.html",
+      "date": "Jul 02, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "acquisition",
+        "pe_investment"
       ]
     },
     {
@@ -117,6 +133,21 @@
       ]
     },
     {
+      "id": "7c5d2384a469",
+      "title": "Crunchbase Data: Global Startup Investment Hit Record $510B In H1 2026 As AI Boom Accelerates Funding And Exits",
+      "summary": "Investors poured more than $200 billion into startups globally in the just-ended quarter, making Q2 2026 the second-largest quarter on record, our data shows. And, with IPOs and acquisitions returning",
+      "company": "Crunchbase Data",
+      "link": "https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026/",
+      "date": "Jul 02, 26",
+      "source": "Crunchbase News",
+      "layer": 5,
+      "access": "pe",
+      "score": 21,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
       "id": "298c936116ee",
       "title": "Music Industry Moves: Ashe Inks With Atlantic; Virgin Announces New Upper Management Structure, Post-Downtown Acquisition",
       "summary": "Singer-songwriter Ashe has signed with Atlantic Records and has struck a publishing deal with Doomsday/ Universal Music Publishing Group. She will be on tour this summer supporting Benson Boone. Last ",
@@ -127,6 +158,21 @@
       "layer": 1,
       "access": "pe",
       "score": 19,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "bca4baf0764e",
+      "title": "Paramount Set to Exit Universal Joint Venture as Condition for EU Approval of Mega-Merger With Warner Bros. Discovery",
+      "summary": "Paramount will exit its United International Pictures distribution joint venture with Universal&#160;as a condition for EU approval of its $111 billion takeover of Warner Bros. Discovery. The move is ",
+      "company": "Paramount Set",
+      "link": "https://variety.com/2026/biz/global/paramount-exit-universal-uip-venture-eu-approval-merger-1236799919/",
+      "date": "Jul 01, 26",
+      "source": "Variety Biz",
+      "layer": 3,
+      "access": "venture",
+      "score": 17,
       "moments": [
         "acquisition"
       ]
@@ -162,13 +208,28 @@
       ]
     },
     {
-      "id": "13fc5254010a",
-      "title": "Ariana Grande Reschedules Three \u2018Eternal Sunshine\u2019 Tour Dates: \u2018Safety, First and Foremost\u2019",
-      "summary": "The singer apologized for moving the upcoming concerts due to production issues",
-      "company": "",
-      "link": "https://www.rollingstone.com/music/music-news/ariana-grande-reschedules-eternal-sunshine-tour-dates-1235586459/",
-      "date": "Jun 30, 26",
-      "source": "Rolling Stone News",
+      "id": "ab035ce79d47",
+      "title": "Shed Seven announce self-titled new album with \u201ccall to arms\u201d single \u2018Stand Together\u2019",
+      "summary": "\"We have taken great care in making this album what we believe to be our best yet,\" said the band, who are heading out on tour later this year The post Shed Seven announce self-titled new album with &",
+      "company": "Shed Seven",
+      "link": "https://www.nme.com/news/music/shed-seven-announce-self-titled-new-album-release-single-stand-together-listen-3954601?utm_source=rss&utm_medium=rss&utm_campaign=shed-seven-announce-self-titled-new-album-release-single-stand-together-listen",
+      "date": "Jul 02, 26",
+      "source": "NME",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "4ef65bf8d947",
+      "title": "Dinosaur Jr. Adds Fall North American Tour Dates",
+      "summary": "Dinosaur Jr. has expanded its 2026 touring schedule with a new run of fall North American dates. The newly announced... The post Dinosaur Jr. Adds Fall North American Tour Dates appeared first on Tick",
+      "company": "Dinosaur Jr Adds Fall North American",
+      "link": "https://www.ticketnews.com/2026/07/dinosaur-jr-adds-fall-north-american-tour-dates/",
+      "date": "Jul 01, 26",
+      "source": "Ticket News",
       "layer": 1,
       "access": "pe",
       "score": 14,
@@ -177,18 +238,18 @@
       ]
     },
     {
-      "id": "bca4baf0764e",
-      "title": "Paramount Set to Exit Universal Joint Venture as Condition for EU Approval of Mega-Merger With Warner Bros. Discovery",
-      "summary": "Paramount will exit its United International Pictures distribution joint venture with Universal as a condition for EU approval of its $111 billion takeover of Warner Bros. Discovery. The move is in re",
-      "company": "Paramount Set",
-      "link": "https://variety.com/2026/biz/global/paramount-exit-universal-uip-venture-eu-approval-merger-1236799919/",
+      "id": "974f7c49b360",
+      "title": "LE SSERAFIM Added to 2026 iHeartRadio Music Festival Lineup",
+      "summary": "LE SSERAFIM has been added to the lineup for the 2026 iHeartRadio Music Festival, joining a growing list of artists... The post LE SSERAFIM Added to 2026 iHeartRadio Music Festival Lineup appeared fir",
+      "company": "LE SSERAFIM Added",
+      "link": "https://www.ticketnews.com/2026/07/le-sserafim-added-to-2026-iheartradio-music-festival-lineup/",
       "date": "Jul 01, 26",
-      "source": "Variety Biz",
-      "layer": 3,
-      "access": "venture",
-      "score": 12,
+      "source": "Ticket News",
+      "layer": 1,
+      "access": "pe",
+      "score": 13,
       "moments": [
-        "acquisition"
+        "festival_headliner"
       ]
     },
     {
@@ -237,36 +298,6 @@
       ]
     },
     {
-      "id": "dff9d1e6be33",
-      "title": "Coller Capital expands European private wealth push through Cherry Bank partnership",
-      "summary": "Secondaries major Coller Capital has entered a distribution partnership with Italy's Cherry Bank to offer the lender's wealth management clients access to its private credit secondaries strategy. The ",
-      "company": "Coller Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/coller-capital-expands-european-private-wealth-push-through-cherry-bank-partnership.html",
-      "date": "Jul 01, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "d7f9977ffbdc",
-      "title": "KPS Capital launches Asia arm, hires Mitsubishi veteran to lead Tokyo office",
-      "summary": "Industrials investor KPS Capital Partners has expanded into Asia with the launch of a dedicated regional investment platform, appointing former Mitsubishi Heavy Industries executive Takajiro Ishikawa ",
-      "company": "KPS Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/kps-capital-launches-asia-arm-hires-mitsubishi-veteran-to-lead-tokyo-office.html",
-      "date": "Jun 30, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
       "id": "1267151eb0d6",
       "title": "Soft Palms are rewriting the rules of the music business from a Long Beach studio",
       "summary": "With a new album titled \"In Echo\" out Friday, husband-and-wife duo Scott Montoya and Julia Kugel also share secrets of how to survive and thrive as indie artists through a new book about the DIY music",
@@ -282,18 +313,18 @@
       ]
     },
     {
-      "id": "10346d43ba53",
-      "title": "\u2018One of those pinch-me places\u2019: Silverstone\u2019s school facilitating a fast-track into motor sport | Giles Richards",
-      "summary": "Partnerships with Aston Martin, Red Bull and Haas mean students have a rare chance to make it in F1 after graduationUnnoticeable amid the spectacle and heaving crowds at the British Grand Prix this we",
-      "company": "\u2018One",
-      "link": "https://www.theguardian.com/sport/2026/jul/01/silverstone-university-technical-college-motor-sport-f1-british-grand-prix",
+      "id": "69f701afdbc2",
+      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies \u2014 the infrastructure a",
+      "company": "Ashton Kutcher",
+      "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
       "date": "Jul 01, 26",
-      "source": "Guardian Sport",
+      "source": "TechCrunch Venture",
       "layer": 1,
-      "access": "pe",
+      "access": "venture",
       "score": 11,
       "moments": [
-        "festival_headliner"
+        "fund_launch"
       ]
     },
     {
@@ -312,76 +343,31 @@
       ]
     },
     {
-      "id": "3b31b58427ae",
-      "title": "Oak View Group, Mountain America Credit Union Announce Naming Rights Deal for Draper Event Center",
-      "summary": "Oak View Group and Mountain America Credit Union have announced a multi-year naming rights agreement for the new 5,000-seat event... The post Oak View Group, Mountain America Credit Union Announce Nam",
-      "company": "Oak View Group Mountain America Credit",
-      "link": "https://www.ticketnews.com/2026/06/oak-view-group-mountain-america-credit-union-announce-naming-rights-deal-for-draper-event-center/",
-      "date": "Jun 30, 26",
-      "source": "Ticket News",
+      "id": "c113626c3501",
+      "title": "RGreen Invest backs Geogreen with \u20ac52.4m investment",
+      "summary": "Geogreen is the holding company of Pierre Brossollet, founder and chief executive officer of Arverne. The post RGreen Invest backs Geogreen with \u20ac52.4m investment appeared first on PE Hub.",
+      "company": "RGreen Invest",
+      "link": "https://www.pehub.com/rgreen-invest-backs-geogreen-with-e52-4m-investment/",
+      "date": "Jul 02, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "8601ad25758f",
+      "title": "Corten, Ampersand acquire Beacon Intelligence",
+      "summary": "Beacon Intelligence provides structured data on early-stage drug development to more than 300 customers globally. The post Corten, Ampersand acquire Beacon Intelligence appeared first on PE Hub.",
+      "company": "Corten Ampersand",
+      "link": "https://www.pehub.com/corten-ampersand-acquire-beacon-intelligence/",
+      "date": "Jul 02, 26",
+      "source": "PE Hub",
       "layer": 2,
       "access": "pe",
-      "score": 11,
-      "moments": [
-        "rights_deal"
-      ]
-    },
-    {
-      "id": "02dc2b201739",
-      "title": "Fever, DICE Tout Record Year of Growth Following Merger",
-      "summary": "One year after joining forces, Fever and DICE are touting a year of rapid growth, highlighting a wave of new... The post Fever, DICE Tout Record Year of Growth Following Merger appeared first on Ticke",
-      "company": "Fever DICE Tout Record Year",
-      "link": "https://www.ticketnews.com/2026/06/fever-dice-tout-record-year-growth-following-merger/",
-      "date": "Jun 30, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "82f76f9c16c5",
-      "title": "Billy Strings Sings for His Late Mother on New Album, \u2018So Much for Goodbyes\u2019",
-      "summary": "The singer-guitarist processes the grief of losing his mom last year to a drug overdose",
-      "company": "Billy Strings Sings",
-      "link": "https://www.rollingstone.com/music/music-country/billy-strings-so-much-for-goodbyes-album-mother-1235587038/",
-      "date": "Jun 30, 26",
-      "source": "Rolling Stone Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "9d68ae4adb6e",
-      "title": "Perpetual rejects $1.7bn takeover approach from EQT-backed vehicle",
-      "summary": "Perpetual has rejected a takeover proposal from Windflower, a company indirectly controlled by Swedish private equity firm EQT, which valued the Australian fund manager at around AUD2.5bn ($1.7bn), ac",
-      "company": "Perpetual",
-      "link": "https://www.privateequitywire.co.uk/perpetual-rejects-1-7bn-takeover-approach-from-eqt-backed-vehicle/",
-      "date": "Jul 01, 26",
-      "source": "PE Wire",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "ad91fdef9b35",
-      "title": "KKR agrees $4.2bn EDF renewables acquisition, ACON backs YumEarth",
-      "summary": "KKR has agreed to acquire EDF power solutions&#8217; renewable energy operations in the US and Canada from EDF Group in a transaction valuing the equity at approximately $4.2bn, with potential additio",
-      "company": "KKR",
-      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/kkr-agrees-4-2bn-edf-renewables-acquisition-as-acon-backs-yumearth.html",
-      "date": "Jul 01, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
+      "score": 8,
       "moments": [
         "acquisition"
       ]
@@ -399,21 +385,6 @@
       "score": 6,
       "moments": [
         "acquisition"
-      ]
-    },
-    {
-      "id": "e7092ba44dfe",
-      "title": "Party-led development has provided inspiration across globe",
-      "summary": "BEIJING, July 1, 2026 /PRNewswire/ -- The following article was published today by China Daily. On July 1, China marks the 105th anniversary of the founding of the Communist Party of China, inviting r",
-      "company": "Party-led",
-      "link": "https://www.prnewswire.com/news-releases/party-led-development-has-provided-inspiration-across-globe-302815959.html",
-      "date": "Jul 01, 26",
-      "source": "PR Newswire",
-      "layer": 2,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "company_launch"
       ]
     },
     {
@@ -445,13 +416,39 @@
       "moments": []
     },
     {
-      "id": "9f7f2704c9a0",
-      "title": "Rush Postpones 2 Shows After Geddy Lee Diagnosed With Laryngitis and Bronchitis",
+      "id": "107652eda18f",
+      "title": "Watch Harry Styles and Wembley Stadium celebrate England\u2019s World Cup win against DR Congo",
+      "summary": "Thousands of Styles fans arrived early to the venue for a special screening of the nervy last 32 game The post Watch Harry Styles and Wembley Stadium celebrate England&#8217;s World Cup win against DR",
+      "company": "Watch Harry Styles",
+      "link": "https://www.nme.com/news/music/watch-harry-styles-and-wembley-stadium-celebrate-englands-world-cup-win-against-dr-congo-3954477?utm_source=rss&utm_medium=rss&utm_campaign=watch-harry-styles-and-wembley-stadium-celebrate-englands-world-cup-win-against-dr-congo",
+      "date": "Jul 02, 26",
+      "source": "NME",
+      "layer": 2,
+      "access": "pe",
+      "score": 12,
+      "moments": []
+    },
+    {
+      "id": "e627b02dd3dc",
+      "title": "DOJ Filing Opens Public Review Period for Live Nation-Ticketmaster Settlement",
+      "summary": "The Competitive Impact Statement filed in USA vs. Live Nation Entertainment Monday details how the DOJ believes its settlement satisfies... The post DOJ Filing Opens Public Review Period for Live Nati",
+      "company": "DOJ Filing Opens Public Review Period",
+      "link": "https://www.ticketnews.com/2026/07/doj-filing-opens-public-review-period-for-live-nation-ticketmaster-settlement/",
+      "date": "Jul 01, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 11,
+      "moments": []
+    },
+    {
+      "id": "201f80e0783f",
+      "title": "Rush Postpone Two Shows After Geddy Lee Diagnosed With Laryngitis and Bronchitis",
       "summary": "The band pushed back two dates at Dickies Arena in Fort Worth, Texas",
-      "company": "Rush Postpones",
+      "company": "Rush Postpone Two Shows After Geddy",
       "link": "https://www.rollingstone.com/music/music-news/rush-postpones-shows-geddy-lee-laryngitis-and-bronchitis-1235587278/",
       "date": "Jul 01, 26",
-      "source": "Rolling Stone Music",
+      "source": "Rolling Stone News",
       "layer": 2,
       "access": "pe",
       "score": 7,
