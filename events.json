@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-02T14:11:42.320896+00:00",
-  "total": 34,
+  "generated": "2026-07-03T14:19:08.331457+00:00",
+  "total": 37,
   "scraped": [
     {
       "id": "2330940b5a23",
@@ -17,23 +17,6 @@
         "funding_round",
         "pe_investment",
         "fund_launch"
-      ]
-    },
-    {
-      "id": "0de434510d1d",
-      "title": "Tapestry VC launches $80m third fund backed by British Business Bank",
-      "summary": "Early-stage venture capital firm Tapestry VC has launched its third fund with $80m of commitments to invest in repeat founders across Europe and North America. The post Tapestry VC launches $80m third",
-      "company": "Tapestry VC",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/tapestry-vc-launches-80m-third-fund-backed-by-british-business-bank.html",
-      "date": "Jul 01, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 17,
-      "moments": [
-        "pe_investment",
-        "fund_launch",
-        "company_launch"
       ]
     },
     {
@@ -69,19 +52,19 @@
       ]
     },
     {
-      "id": "3913310c582c",
-      "title": "Ruya Ventures closes oversubscribed $50m debut deep tech fund",
-      "summary": "Solo GP Rick Hao has held the final close of Ruya Ventures' inaugural venture capital fund on $50m, with the vehicle set to back early-stage deep technology companies across Europe, North America and ",
-      "company": "Ruya Ventures",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/ruya-ventures-closes-oversubscribed-50m-debut-deep-tech-fund.html",
-      "date": "Jul 01, 26",
-      "source": "AltAssets",
+      "id": "cdfe5d3b3e0c",
+      "title": "ZZ Top Announces Additional Fall Tour Dates",
+      "summary": "ZZ Top has expanded its 2026 The Big One Tour!, adding five new fall dates, including three co-headline performances with... The post ZZ Top Announces Additional Fall Tour Dates appeared first on Tick",
+      "company": "ZZ Top Announces Additional Fall Tour",
+      "link": "https://www.ticketnews.com/2026/07/zz-top-announces-additional-fall-tour-dates/",
+      "date": "Jul 02, 26",
+      "source": "Ticket News",
       "layer": 5,
       "access": "pe",
       "score": 16,
       "moments": [
-        "pe_investment",
-        "fund_launch"
+        "tour_announcement",
+        "festival_headliner"
       ]
     },
     {
@@ -95,6 +78,54 @@
       "layer": 2,
       "access": "pe",
       "score": 15,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "fa97a750ec7a",
+      "title": "Magnify Ventures closes $46.6m Fund II to back AI infrastructure for care economy",
+      "summary": "Magnify Ventures has raised $46.6m for its second venture fund, deepening its focus on early-stage companies building AI infrastructure for the care economy. The post Magnify Ventures closes $46.6m Fu",
+      "company": "Magnify Ventures",
+      "link": "https://www.altassets.net/private-equity-news/by-news-type/fund-news/funds-closed/magnify-ventures-closes-46-6m-fund-ii-to-back-ai-infrastructure-for-care-economy.html",
+      "date": "Jul 03, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "ebb5dff48548",
+      "title": "Mekong Capital launches climate-focused PE fund with $50m Green Climate Fund cornerstone",
+      "summary": "Mekong Capital has launched a climate-focused private equity fund targeting regenerative agriculture in Southeast Asia, anchored by a $50m commitment from the Green Climate Fund. The post Mekong Capit",
+      "company": "Mekong Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/asia-by-region/mekong-capital-launches-climate-focused-pe-fund-with-50m-green-climate-fund-cornerstone.html",
+      "date": "Jul 03, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "b2d1b5f48d73",
+      "title": "Azalea launches first evergreen private equity fund with $350m anchor commitments",
+      "summary": "Singapore-based private markets investor Azalea has launched its first evergreen private equity fund, securing $350m in initial commitments from a group of anchor investors as it expands its range of ",
+      "company": "Azalea",
+      "link": "https://www.altassets.net/private-equity-news/by-region/asia-by-region/azalea-launches-first-evergreen-private-equity-fund-with-350m-anchor-commitments.html",
+      "date": "Jul 03, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
       "moments": [
         "pe_investment",
         "fund_launch"
@@ -133,6 +164,22 @@
       ]
     },
     {
+      "id": "0ae83a6b04a9",
+      "title": "Madonna\u2019s \u2018Bring Your Love\u2019 is \u201cabout saying \u2018fuck you\u2019 to doubters\u201d, reveals Stuart Price",
+      "summary": "The Queen Of Pop said the song emerged after she'd been told to \"focus on what\u2019s popular, algorithms, following trends\", adding: \"I found it to be the antithesis to art and creativity\" The post Madonn",
+      "company": "Madonna\u2019s \u2018Bring Your Love\u2019",
+      "link": "https://www.nme.com/news/music/madonnas-bring-your-love-is-about-saying-fuck-you-to-doubters-reveals-stuart-price-3954778?utm_source=rss&utm_medium=rss&utm_campaign=madonnas-bring-your-love-is-about-saying-fuck-you-to-doubters-reveals-stuart-price",
+      "date": "Jul 03, 26",
+      "source": "NME",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "acquisition",
+        "company_launch"
+      ]
+    },
+    {
       "id": "7c5d2384a469",
       "title": "Crunchbase Data: Global Startup Investment Hit Record $510B In H1 2026 As AI Boom Accelerates Funding And Exits",
       "summary": "Investors poured more than $200 billion into startups globally in the just-ended quarter, making Q2 2026 the second-largest quarter on record, our data shows. And, with IPOs and acquisitions returning",
@@ -148,18 +195,18 @@
       ]
     },
     {
-      "id": "298c936116ee",
-      "title": "Music Industry Moves: Ashe Inks With Atlantic; Virgin Announces New Upper Management Structure, Post-Downtown Acquisition",
-      "summary": "Singer-songwriter Ashe has signed with Atlantic Records and has struck a publishing deal with Doomsday/ Universal Music Publishing Group. She will be on tour this summer supporting Benson Boone. Last ",
-      "company": "Music Industry Moves",
-      "link": "https://variety.com/2026/music/news/ashe-signs-with-atlantic-records-1236799684/",
-      "date": "Jun 30, 26",
-      "source": "Variety Music",
+      "id": "41f72e44e34e",
+      "title": "Justin Bieber Drops \u2018Swag Live From Coachella (Weekend II)\u2019 Album: Stream It Now",
+      "summary": "Both weekends of his headlining Coachella 2026 set are now available to listen to on streaming services.",
+      "company": "Justin Bieber Drops \u2018Swag Live From",
+      "link": "https://www.billboard.com/music/music-news/justin-bieber-swag-live-coachella-weekend-ii-stream-1236287368/",
+      "date": "Jul 03, 26",
+      "source": "Billboard",
       "layer": 1,
       "access": "pe",
-      "score": 19,
+      "score": 17,
       "moments": [
-        "acquisition"
+        "festival_headliner"
       ]
     },
     {
@@ -175,6 +222,21 @@
       "score": 17,
       "moments": [
         "acquisition"
+      ]
+    },
+    {
+      "id": "dd7e65d95430",
+      "title": "Bob Vylan to sue BBC for \u201cplacing labels upon us that did not, do not and never will fit\u201d after Glastonbury controversy",
+      "summary": "The BBC said it \u201cdeeply\u201d regretted broadcasting the set, describing the \"death to the IDF\" chants as \u201canti-Semitic sentiments\u201d that were \u201cutterly unacceptable\u201d The post Bob Vylan to sue BBC for &#8220",
+      "company": "Bob Vylan",
+      "link": "https://www.nme.com/news/music/bob-vylan-to-sue-bbc-for-placing-labels-upon-us-that-did-not-do-not-and-never-will-fit-after-glastonbury-controversy-3954807?utm_source=rss&utm_medium=rss&utm_campaign=bob-vylan-to-sue-bbc-for-placing-labels-upon-us-that-did-not-do-not-and-never-will-fit-after-glastonbury-controversy",
+      "date": "Jul 03, 26",
+      "source": "NME",
+      "layer": 1,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "festival_headliner"
       ]
     },
     {
@@ -208,18 +270,18 @@
       ]
     },
     {
-      "id": "ab035ce79d47",
-      "title": "Shed Seven announce self-titled new album with \u201ccall to arms\u201d single \u2018Stand Together\u2019",
-      "summary": "\"We have taken great care in making this album what we believe to be our best yet,\" said the band, who are heading out on tour later this year The post Shed Seven announce self-titled new album with &",
-      "company": "Shed Seven",
-      "link": "https://www.nme.com/news/music/shed-seven-announce-self-titled-new-album-release-single-stand-together-listen-3954601?utm_source=rss&utm_medium=rss&utm_campaign=shed-seven-announce-self-titled-new-album-release-single-stand-together-listen",
+      "id": "425fed5fd2e3",
+      "title": "USMNT win smashes American record for most-watched soccer broadcast with 33.5 million viewers",
+      "summary": "Fox averages 24.429 million; 9.1 million on TelemundoOutpaces averages of NBA Finals, Sunday Night FootballMonday\u2019s last-16 matchup sure to challenge record againThe US men\u2019s national team\u2019s dramatic ",
+      "company": "USMNT",
+      "link": "https://www.theguardian.com/football/2026/jul/02/usmnt-world-cup-most-watched-viewership-record",
       "date": "Jul 02, 26",
-      "source": "NME",
+      "source": "Guardian Sport",
       "layer": 1,
       "access": "pe",
       "score": 14,
       "moments": [
-        "album_announcement"
+        "record_breaking"
       ]
     },
     {
@@ -238,36 +300,6 @@
       ]
     },
     {
-      "id": "974f7c49b360",
-      "title": "LE SSERAFIM Added to 2026 iHeartRadio Music Festival Lineup",
-      "summary": "LE SSERAFIM has been added to the lineup for the 2026 iHeartRadio Music Festival, joining a growing list of artists... The post LE SSERAFIM Added to 2026 iHeartRadio Music Festival Lineup appeared fir",
-      "company": "LE SSERAFIM Added",
-      "link": "https://www.ticketnews.com/2026/07/le-sserafim-added-to-2026-iheartradio-music-festival-lineup/",
-      "date": "Jul 01, 26",
-      "source": "Ticket News",
-      "layer": 1,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "473ba12ae18b",
-      "title": "Gracie Abrams on \u2018Nepo\u2019 Label, Writing With Paul Mescal and Her New Album",
-      "summary": "On her new album, \u201cDaughter From Hell,\u201d the 26-year-old star confronts growing up in a famous family and lessons from songwriting.",
-      "company": "Gracie Abrams",
-      "link": "https://www.nytimes.com/2026/06/26/arts/music/gracie-abrams-interview-popcast.html",
-      "date": "Jun 26, 26",
-      "source": "NYT Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
       "id": "e3b288aa8548",
       "title": "My Chemical Romance review \u2013 \u200bfire! Nuclear war! Killer pierrots! This is stadium rock at its most monumentally madcap",
       "summary": "Anfield Stadium, Liverpool Adding eye-popping spectacle to this anniversary reprise of The Black Parade is fun, but what really stands out is the tremendous songcraftMy Chemical Romance take the stage",
@@ -280,21 +312,6 @@
       "score": 12,
       "moments": [
         "festival_headliner"
-      ]
-    },
-    {
-      "id": "d0d534297520",
-      "title": "Antin Infrastructure hires IFM\u2019s Welsh to lead investor relations expansion in Australia",
-      "summary": "Antin Infrastructure Partners has appointed former IFM Investors executive Duncan Welsh as a principal in its investor relations team, as the infrastructure investor expands its institutional fundrais",
-      "company": "Antin Infrastructure",
-      "link": "https://www.altassets.net/private-equity-news/by-region/australasia-by-region/australia-australasia-by-region/antin-infrastructure-hires-ifms-welsh-to-lead-investor-relations-expansion-in-australia.html",
-      "date": "Jul 01, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "pe_investment"
       ]
     },
     {
@@ -338,21 +355,6 @@
       "layer": 4,
       "access": "pe",
       "score": 11,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "c113626c3501",
-      "title": "RGreen Invest backs Geogreen with \u20ac52.4m investment",
-      "summary": "Geogreen is the holding company of Pierre Brossollet, founder and chief executive officer of Arverne. The post RGreen Invest backs Geogreen with \u20ac52.4m investment appeared first on PE Hub.",
-      "company": "RGreen Invest",
-      "link": "https://www.pehub.com/rgreen-invest-backs-geogreen-with-e52-4m-investment/",
-      "date": "Jul 02, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
       "moments": [
         "company_launch"
       ]
@@ -416,16 +418,16 @@
       "moments": []
     },
     {
-      "id": "107652eda18f",
-      "title": "Watch Harry Styles and Wembley Stadium celebrate England\u2019s World Cup win against DR Congo",
-      "summary": "Thousands of Styles fans arrived early to the venue for a special screening of the nervy last 32 game The post Watch Harry Styles and Wembley Stadium celebrate England&#8217;s World Cup win against DR",
-      "company": "Watch Harry Styles",
-      "link": "https://www.nme.com/news/music/watch-harry-styles-and-wembley-stadium-celebrate-englands-world-cup-win-against-dr-congo-3954477?utm_source=rss&utm_medium=rss&utm_campaign=watch-harry-styles-and-wembley-stadium-celebrate-englands-world-cup-win-against-dr-congo",
+      "id": "4014c45fea17",
+      "title": "Claude-Assisted Hack Exposes Major Flaw at Ticketmaster-Owned Front Gate Tickets",
+      "summary": "Front Gate Tickets \u2014 the Ticketmaster-owned festival and event ticketing company used by nearly every major music festival across the... The post Claude-Assisted Hack Exposes Major Flaw at Ticketmaste",
+      "company": "Claude-Assisted Hack Exposes Major Flaw",
+      "link": "https://www.ticketnews.com/2026/07/claude-assisted-hack-exposes-major-flaw-front-gate-tickets/",
       "date": "Jul 02, 26",
-      "source": "NME",
-      "layer": 2,
+      "source": "Ticket News",
+      "layer": 3,
       "access": "pe",
-      "score": 12,
+      "score": 11,
       "moments": []
     },
     {
@@ -442,16 +444,42 @@
       "moments": []
     },
     {
-      "id": "201f80e0783f",
-      "title": "Rush Postpone Two Shows After Geddy Lee Diagnosed With Laryngitis and Bronchitis",
-      "summary": "The band pushed back two dates at Dickies Arena in Fort Worth, Texas",
-      "company": "Rush Postpone Two Shows After Geddy",
-      "link": "https://www.rollingstone.com/music/music-news/rush-postpones-shows-geddy-lee-laryngitis-and-bronchitis-1235587278/",
-      "date": "Jul 01, 26",
-      "source": "Rolling Stone News",
+      "id": "dfef7c7eb9c6",
+      "title": "NorthEast Indiana Reimagined Economic Development -- And has $1 Billion in Results to Show for It",
+      "summary": "FORT WAYNE, Ind., July 3, 2026 /PRNewswire/ -- Northeast Indiana is having a moment \u2014 and the rest of the country is catching on. A new feature published this week \u2014 \"Northeast Indiana Is Raising Pion",
+      "company": "",
+      "link": "https://www.prnewswire.com/news-releases/northeast-indiana-reimagined-economic-development--and-has-1-billion-in-results-to-show-for-it-302817659.html",
+      "date": "Jul 03, 26",
+      "source": "PR Newswire",
       "layer": 2,
       "access": "pe",
-      "score": 7,
+      "score": 8,
+      "moments": []
+    },
+    {
+      "id": "e862638b4b6b",
+      "title": "LISTEN: How David Fincher and Zach Cregger Secretly Shaped Netflix\u2019s Video Game-TV Hybrid \u2018Unhinged\u2019",
+      "summary": "On today\u2019s episode of &#8220;Daily Variety&#8221; podcast, Variety\u2019s Jennifer Maas explains how notable directors David Fincher and Zach Cregger helped shape Netflix\u2019s ambitious new property \u201cUnhinged",
+      "company": "LISTEN",
+      "link": "https://variety.com/2026/gaming/news/zach-cregger-david-fincher-unhinged-netflix-video-game-1236801194/",
+      "date": "Jul 02, 26",
+      "source": "Variety Biz",
+      "layer": 3,
+      "access": "venture",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "7a5cfeb2f79c",
+      "title": "Metallica Break U.K. Stadium Rules + Play Banned Song",
+      "summary": "Monica Schipper, Getty Images",
+      "company": "Metallica Break U.K Stadium Rules",
+      "link": "https://loudwire.com/metallica-banned-song-delilah-cardiff-2026/",
+      "date": "Jun 29, 26",
+      "source": "Loudwire",
+      "layer": 2,
+      "access": "pe",
+      "score": 5,
       "moments": []
     },
     {
@@ -468,14 +496,40 @@
       "moments": []
     },
     {
-      "id": "717d4e188d98",
-      "title": "How Este Haim reached out and touched Hollywood",
-      "summary": "The bass player of the beloved L.A. sister trio Haim composed the score for a new Netflix rom-com, 'Voicemails for Isabelle.'",
-      "company": "How Este Haim",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-06-18/este-haim-voicemails-for-isabelle-netflix-interview",
-      "date": "Jun 18, 26",
-      "source": "LA Times Music",
-      "layer": 3,
+      "id": "df06cc45f6f4",
+      "title": "The Badger, the Professor and the teenager: France\u2019s long wait for a Tour champion | William Fotheringham",
+      "summary": "The hype around Paul Seixas is fully justified as the 19-year-old bids to end four decades of French disappointment When you write about the Tour de France for the best part of (deep breath) 40 years,",
+      "company": "The Badger",
+      "link": "https://www.theguardian.com/sport/2026/jul/03/paul-seixas-tour-de-france-the-badger-the-professor-and-the-teenager-frances-long-wait-for-a-tour-champion",
+      "date": "Jul 03, 26",
+      "source": "Guardian Sport",
+      "layer": 4,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "6f9fdc851ba3",
+      "title": "No World Cup jobs bump evident in June data",
+      "summary": "With the U.S. hosting the World Cup, there have been plenty of anecdotes about a booming tourism economy in host cities \u2014 Scotland fans drinking Boston bars out of beer, for example.But no World Cup h",
+      "company": "No World Cup",
+      "link": "https://www.axios.com/2026/07/02/jobs-data-world-cup",
+      "date": "Jul 02, 26",
+      "source": "Axios",
+      "layer": 4,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "0672a0b279a3",
+      "title": "La 7\u00aa Exposici\u00f3n de Econom\u00eda Digital Occidental muestra c\u00f3mo la integraci\u00f3n industrial de Xi'an desata un fuerte impulso",
+      "summary": "- De antigua capital a nuevo centro de la Ruta de la Seda Digital: la 7\u00aa Exposici\u00f3n de Econom\u00eda Digital Occidental muestra c\u00f3mo la integraci\u00f3n industrial de Xi'an desata un fuerte impulso XI'AN, China",
+      "company": "La",
+      "link": "https://www.prnewswire.com/news-releases/la-7-exposicion-de-economia-digital-occidental-muestra-como-la-integracion-industrial-de-xian-desata-un-fuerte-impulso-302817632.html",
+      "date": "Jul 03, 26",
+      "source": "PR Newswire",
+      "layer": 4,
       "access": "pe",
       "score": 4,
       "moments": []
@@ -489,19 +543,6 @@
       "date": "May 09, 26",
       "source": "Venues Today",
       "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "29ad7afd6a87",
-      "title": "Stagedoor Rewards Launches as UK\u2019s First Fee-Free Theatre Ticketing App",
-      "summary": "A new theatre ticketing app is taking aim at one of live entertainment\u2019s most persistent pain points: added fees. London... The post Stagedoor Rewards Launches as UK\u2019s First Fee-Free Theatre Ticketing",
-      "company": "Stagedoor Rewards Launches",
-      "link": "https://www.ticketnews.com/2026/07/stagedoor-rewards-uk-first-fee-free-theatre-ticket-app/",
-      "date": "Jul 01, 26",
-      "source": "Ticket News",
-      "layer": 3,
       "access": "pe",
       "score": 4,
       "moments": []
