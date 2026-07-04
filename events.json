@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-03T14:19:08.331457+00:00",
-  "total": 37,
+  "generated": "2026-07-04T13:44:24.197265+00:00",
+  "total": 39,
   "scraped": [
     {
       "id": "2330940b5a23",
@@ -164,22 +164,6 @@
       ]
     },
     {
-      "id": "0ae83a6b04a9",
-      "title": "Madonna\u2019s \u2018Bring Your Love\u2019 is \u201cabout saying \u2018fuck you\u2019 to doubters\u201d, reveals Stuart Price",
-      "summary": "The Queen Of Pop said the song emerged after she'd been told to \"focus on what\u2019s popular, algorithms, following trends\", adding: \"I found it to be the antithesis to art and creativity\" The post Madonn",
-      "company": "Madonna\u2019s \u2018Bring Your Love\u2019",
-      "link": "https://www.nme.com/news/music/madonnas-bring-your-love-is-about-saying-fuck-you-to-doubters-reveals-stuart-price-3954778?utm_source=rss&utm_medium=rss&utm_campaign=madonnas-bring-your-love-is-about-saying-fuck-you-to-doubters-reveals-stuart-price",
-      "date": "Jul 03, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "acquisition",
-        "company_launch"
-      ]
-    },
-    {
       "id": "7c5d2384a469",
       "title": "Crunchbase Data: Global Startup Investment Hit Record $510B In H1 2026 As AI Boom Accelerates Funding And Exits",
       "summary": "Investors poured more than $200 billion into startups globally in the just-ended quarter, making Q2 2026 the second-largest quarter on record, our data shows. And, with IPOs and acquisitions returning",
@@ -192,21 +176,6 @@
       "score": 21,
       "moments": [
         "acquisition"
-      ]
-    },
-    {
-      "id": "41f72e44e34e",
-      "title": "Justin Bieber Drops \u2018Swag Live From Coachella (Weekend II)\u2019 Album: Stream It Now",
-      "summary": "Both weekends of his headlining Coachella 2026 set are now available to listen to on streaming services.",
-      "company": "Justin Bieber Drops \u2018Swag Live From",
-      "link": "https://www.billboard.com/music/music-news/justin-bieber-swag-live-coachella-weekend-ii-stream-1236287368/",
-      "date": "Jul 03, 26",
-      "source": "Billboard",
-      "layer": 1,
-      "access": "pe",
-      "score": 17,
-      "moments": [
-        "festival_headliner"
       ]
     },
     {
@@ -225,21 +194,6 @@
       ]
     },
     {
-      "id": "dd7e65d95430",
-      "title": "Bob Vylan to sue BBC for \u201cplacing labels upon us that did not, do not and never will fit\u201d after Glastonbury controversy",
-      "summary": "The BBC said it \u201cdeeply\u201d regretted broadcasting the set, describing the \"death to the IDF\" chants as \u201canti-Semitic sentiments\u201d that were \u201cutterly unacceptable\u201d The post Bob Vylan to sue BBC for &#8220",
-      "company": "Bob Vylan",
-      "link": "https://www.nme.com/news/music/bob-vylan-to-sue-bbc-for-placing-labels-upon-us-that-did-not-do-not-and-never-will-fit-after-glastonbury-controversy-3954807?utm_source=rss&utm_medium=rss&utm_campaign=bob-vylan-to-sue-bbc-for-placing-labels-upon-us-that-did-not-do-not-and-never-will-fit-after-glastonbury-controversy",
-      "date": "Jul 03, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
       "id": "6c250e94b064",
       "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
       "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
@@ -255,33 +209,18 @@
       ]
     },
     {
-      "id": "c46c57edf219",
-      "title": "Does California Attorney General Want to Force Paramount to Sell Off CNN? Rob Bonta Claims \u2018I Have No Idea\u2019 Where That Speculation \u2018Comes From\u2019",
-      "summary": "David Ellison&#8217;s Paramount Skydance is hoping to close its megamerger with Warner Bros. Discovery within the next several months &#8212; but there are still a few roadblocks remaining. One of tho",
-      "company": "Does California Attorney General Want",
-      "link": "https://variety.com/2026/tv/news/california-attorney-general-force-paramount-sell-cnn-rob-bonta-1236799191/",
-      "date": "Jun 30, 26",
-      "source": "Variety Biz",
-      "layer": 3,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "425fed5fd2e3",
-      "title": "USMNT win smashes American record for most-watched soccer broadcast with 33.5 million viewers",
-      "summary": "Fox averages 24.429 million; 9.1 million on TelemundoOutpaces averages of NBA Finals, Sunday Night FootballMonday\u2019s last-16 matchup sure to challenge record againThe US men\u2019s national team\u2019s dramatic ",
-      "company": "USMNT",
-      "link": "https://www.theguardian.com/football/2026/jul/02/usmnt-world-cup-most-watched-viewership-record",
-      "date": "Jul 02, 26",
-      "source": "Guardian Sport",
+      "id": "fe26e8d333c9",
+      "title": "The Cure play deep cuts and fan favourites during Open\u2019er Festival 2026 headline set",
+      "summary": "The career-spanning show featured iconic hits and rarities The post The Cure play deep cuts and fan favourites during Open\u2019er Festival 2026 headline set appeared first on NME.",
+      "company": "The Cure",
+      "link": "https://www.nme.com/news/music/the-cure-opener-festival-setlist-deep-cut-fan-favorites-3954938?utm_source=rss&utm_medium=rss&utm_campaign=the-cure-opener-festival-setlist-deep-cut-fan-favorites",
+      "date": "Jul 04, 26",
+      "source": "NME",
       "layer": 1,
       "access": "pe",
       "score": 14,
       "moments": [
-        "record_breaking"
+        "festival_headliner"
       ]
     },
     {
@@ -312,6 +251,36 @@
       "score": 12,
       "moments": [
         "festival_headliner"
+      ]
+    },
+    {
+      "id": "64f068cdef73",
+      "title": "BEYONC\u00c9 RELEASES NEW SONG, 'MORNING DEW (DONK)' 4TH OF JULY HOLIDAY SERVES A TREAT FOR HER FANS",
+      "summary": "IT STARTS A 60-DAY COUNTDOWN COMMEMORATING THE UPCOMING RE-ISSUE OF B'DAY, HER GROUND-BREAKING SECOND ALBUM RELEASED ON HER 25TH BIRTHDAY ON SEPTEMBER 4, 2006 \"MORNING DEW (DONK)\" AVAILABLE ON ALL STR",
+      "company": "BEYONC\u00c9 RELEASES NEW SONG 'MORNING DEW",
+      "link": "https://www.prnewswire.com/news-releases/beyonce-releases-new-song-morning-dew-donk-4th-of-july-holiday-serves-a-treat-for-her-fans-302817900.html",
+      "date": "Jul 04, 26",
+      "source": "PR Newswire",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "044af33044e2",
+      "title": "Watch RAYE bring out Alicia Keys and Mark Ronson at Montreux Jazz Festival",
+      "summary": "The surprise collaboration marks the first time she and Alicia Keys have ever appeared together on a live stage The post Watch RAYE bring out Alicia Keys and Mark Ronson at Montreux Jazz Festival appe",
+      "company": "Watch RAYE",
+      "link": "https://www.nme.com/news/music/watch-raye-bring-out-alicia-keys-and-mark-ronson-at-montreux-jazz-festival-3955006?utm_source=rss&utm_medium=rss&utm_campaign=watch-raye-bring-out-alicia-keys-and-mark-ronson-at-montreux-jazz-festival",
+      "date": "Jul 04, 26",
+      "source": "NME",
+      "layer": 1,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "surprise_appearance"
       ]
     },
     {
@@ -360,6 +329,36 @@
       ]
     },
     {
+      "id": "056e0f3952e0",
+      "title": "How Ryan Beatty learned to love a love song",
+      "summary": "The former Radio Disney teen heartthrob, raised Mormon and now openly gay, trades the bruised introspection of 2023's \"Calico\" for songs that exult in desire on his new album, \"Sweet Fortune.\"",
+      "company": "How Ryan Beatty",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-06-24/ryan-beatty-sweet-fortune-interview",
+      "date": "Jun 24, 26",
+      "source": "LA Times Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "2d74b0350d12",
+      "title": "GeneDx Holdings Securities Fraud Class Action Result of Acquisition Performance Misrepresentations and 49% Stock Decline - Investors may Contact...",
+      "summary": "NEW YORK and NEW ORLEANS, July 3, 2026 /PRNewswire/ -- Kahn Swick & Foti, LLC (\"KSF\") and KSF partner, former Attorney General of Louisiana, Charles C. Foti, Jr., remind investors with substantial los",
+      "company": "",
+      "link": "https://www.prnewswire.com/news-releases/genedx-holdings-securities-fraud-class-action-result-of-acquisition-performance-misrepresentations-and-49-stock-decline---investors-may-contact-lewis-kahn-esq-at-kahn-swick--foti-llc-302817271.html",
+      "date": "Jul 04, 26",
+      "source": "PR Newswire",
+      "layer": 4,
+      "access": "public",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
       "id": "8601ad25758f",
       "title": "Corten, Ampersand acquire Beacon Intelligence",
       "summary": "Beacon Intelligence provides structured data on early-stage drug development to more than 300 customers globally. The post Corten, Ampersand acquire Beacon Intelligence appeared first on PE Hub.",
@@ -383,6 +382,21 @@
       "date": "Jun 27, 26",
       "source": "NYT Music",
       "layer": 2,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "809afc9db02e",
+      "title": "Lakers trading Deandre Ayton to the Wizards for Jaden Hardy, draft picks",
+      "summary": "The 7-foot Ayton became expendabe after the Lakers acquired 24-year-old center Walker Kessler in a sign-and-trade deal with the Utah Jazz.",
+      "company": "Lakers",
+      "link": "https://www.latimes.com/sports/lakers/story/2026-07-03/lakers-trade-deandre-ayton-to-wizards-for-jaden-hardy-draft-picks",
+      "date": "Jul 03, 26",
+      "source": "LA Times Sports",
+      "layer": 4,
       "access": "pe",
       "score": 6,
       "moments": [
@@ -444,16 +458,16 @@
       "moments": []
     },
     {
-      "id": "dfef7c7eb9c6",
-      "title": "NorthEast Indiana Reimagined Economic Development -- And has $1 Billion in Results to Show for It",
-      "summary": "FORT WAYNE, Ind., July 3, 2026 /PRNewswire/ -- Northeast Indiana is having a moment \u2014 and the rest of the country is catching on. A new feature published this week \u2014 \"Northeast Indiana Is Raising Pion",
-      "company": "",
-      "link": "https://www.prnewswire.com/news-releases/northeast-indiana-reimagined-economic-development--and-has-1-billion-in-results-to-show-for-it-302817659.html",
-      "date": "Jul 03, 26",
-      "source": "PR Newswire",
+      "id": "7004cda3b600",
+      "title": "Here\u2019s what went down when Metallica kicked off the first of their two \u201cno repeats\u201d shows at London Stadium",
+      "summary": "\u201cWe are so blessed to still be here after 45 years,\u201d frontman James Hetfield said, \u201cI have the best job in the whole world\u201d The post Here\u2019s what went down when Metallica kicked off the first of their ",
+      "company": "Here\u2019s",
+      "link": "https://www.nme.com/news/music/heres-what-went-down-metallica-london-stadium-no-repeats-show-footage-setlist-3954983?utm_source=rss&utm_medium=rss&utm_campaign=heres-what-went-down-metallica-london-stadium-no-repeats-show-footage-setlist",
+      "date": "Jul 04, 26",
+      "source": "NME",
       "layer": 2,
       "access": "pe",
-      "score": 8,
+      "score": 7,
       "moments": []
     },
     {
@@ -489,19 +503,19 @@
       "company": "Canada Will Compete",
       "link": "https://www.nytimes.com/2026/07/01/arts/music/eurovision-song-contest-canada.html",
       "date": "Jul 01, 26",
-      "source": "NYT Arts",
+      "source": "NYT Music",
       "layer": 3,
       "access": "pe",
       "score": 5,
       "moments": []
     },
     {
-      "id": "df06cc45f6f4",
-      "title": "The Badger, the Professor and the teenager: France\u2019s long wait for a Tour champion | William Fotheringham",
-      "summary": "The hype around Paul Seixas is fully justified as the 19-year-old bids to end four decades of French disappointment When you write about the Tour de France for the best part of (deep breath) 40 years,",
-      "company": "The Badger",
-      "link": "https://www.theguardian.com/sport/2026/jul/03/paul-seixas-tour-de-france-the-badger-the-professor-and-the-teenager-frances-long-wait-for-a-tour-champion",
-      "date": "Jul 03, 26",
+      "id": "f9d94522b307",
+      "title": "Boy who would be king: Seixas carries weight of a nation at Tour de France",
+      "summary": "Teenage sensation is a fearless racer but taking on Tadej Pogacar and Jonas Vingegaard is setting the bar very highPaul Seixas may be the youngest Tour de France debutant since 1937, but he is not lac",
+      "company": "Boy who would be king",
+      "link": "https://www.theguardian.com/sport/2026/jul/04/cycling-tour-de-france-paul-seixas-tadej-pogacar-jonas-vingegaard",
+      "date": "Jul 04, 26",
       "source": "Guardian Sport",
       "layer": 4,
       "access": "pe",
@@ -522,13 +536,26 @@
       "moments": []
     },
     {
-      "id": "0672a0b279a3",
-      "title": "La 7\u00aa Exposici\u00f3n de Econom\u00eda Digital Occidental muestra c\u00f3mo la integraci\u00f3n industrial de Xi'an desata un fuerte impulso",
-      "summary": "- De antigua capital a nuevo centro de la Ruta de la Seda Digital: la 7\u00aa Exposici\u00f3n de Econom\u00eda Digital Occidental muestra c\u00f3mo la integraci\u00f3n industrial de Xi'an desata un fuerte impulso XI'AN, China",
-      "company": "La",
-      "link": "https://www.prnewswire.com/news-releases/la-7-exposicion-de-economia-digital-occidental-muestra-como-la-integracion-industrial-de-xian-desata-un-fuerte-impulso-302817632.html",
+      "id": "186cb8cb553d",
+      "title": "World Series of Poker Returns to ESPN, Now With AI",
+      "summary": "The World Series of Poker returned to ESPN on Thursday for the first time since 2021. And Peyton Manning\u2019s Ohama Productions, newly in charge of the event\u2019s TV coverage, arrives with at least one tric",
+      "company": "World Series",
+      "link": "https://www.sportico.com/leagues/other-sports/2026/world-series-of-poker-espn-ai-predict-bluff-1234937847/",
       "date": "Jul 03, 26",
-      "source": "PR Newswire",
+      "source": "Sportico",
+      "layer": 3,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "8ad9f71dc8d4",
+      "title": "\u2018This is a hellhole\u2019: Aramco makes its presence hurt in the shadow of the World Cup",
+      "summary": "The oil giant\u2019s sponsorship deal with Fifa has featured prominently at matches in Houston. But 100 miles away in another Texas city, residents say the firm\u2019s refinery is exposing them to poisonous gas",
+      "company": "\u2018This",
+      "link": "https://www.theguardian.com/football/2026/jul/04/aramco-world-cup-fifa-port-arthur-texas-houston",
+      "date": "Jul 04, 26",
+      "source": "Guardian Sport",
       "layer": 4,
       "access": "pe",
       "score": 4,
