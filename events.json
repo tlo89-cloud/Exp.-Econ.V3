@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-04T13:44:24.197265+00:00",
-  "total": 39,
+  "generated": "2026-07-05T13:50:03.532731+00:00",
+  "total": 37,
   "scraped": [
     {
       "id": "2330940b5a23",
@@ -194,6 +194,21 @@
       ]
     },
     {
+      "id": "4880d6e92ecd",
+      "title": "JENNIE performs unreleased new songs during Open\u2019er Festival 2026 headline set",
+      "summary": "'Lock It Down', 'Heaven' and 'Less Than A Lover' were played alongside cuts from 'Ruby' The post JENNIE performs unreleased new songs during Open\u2019er Festival 2026 headline set appeared first on NME.",
+      "company": "JENNIE",
+      "link": "https://www.nme.com/news/music/jennie-opener-festival-2026-setlist-unreleased-new-songs-3955027?utm_source=rss&utm_medium=rss&utm_campaign=jennie-opener-festival-2026-setlist-unreleased-new-songs",
+      "date": "Jul 04, 26",
+      "source": "NME",
+      "layer": 1,
+      "access": "pe",
+      "score": 17,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
       "id": "6c250e94b064",
       "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
       "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
@@ -209,18 +224,18 @@
       ]
     },
     {
-      "id": "fe26e8d333c9",
-      "title": "The Cure play deep cuts and fan favourites during Open\u2019er Festival 2026 headline set",
-      "summary": "The career-spanning show featured iconic hits and rarities The post The Cure play deep cuts and fan favourites during Open\u2019er Festival 2026 headline set appeared first on NME.",
-      "company": "The Cure",
-      "link": "https://www.nme.com/news/music/the-cure-opener-festival-setlist-deep-cut-fan-favorites-3954938?utm_source=rss&utm_medium=rss&utm_campaign=the-cure-opener-festival-setlist-deep-cut-fan-favorites",
+      "id": "bec833a0ae0a",
+      "title": "Beyonc\u00e9 Drops Unreleased Song \u2018Morning Dew (Donk)\u2019 Ahead of \u2018B\u2019Day\u2019 20th Anniversary Reissue",
+      "summary": "Beyonc\u00e9 is ringing in July 4 with a treat for her fans, dropping the long-unreleased song &#8220;Morning Dew (Donk)&#8221; ahead of the 20th anniversary of her sophomore album &#8220;B&#8217;Day.&#822",
+      "company": "Beyonc\u00e9 Drops Unreleased Song \u2018Morning Dew",
+      "link": "https://variety.com/2026/music/news/beyonce-morning-dew-donk-bday-20th-anniversary-reissue-1236801739/",
       "date": "Jul 04, 26",
-      "source": "NME",
+      "source": "Variety Music",
       "layer": 1,
       "access": "pe",
-      "score": 14,
+      "score": 15,
       "moments": [
-        "festival_headliner"
+        "album_announcement"
       ]
     },
     {
@@ -251,36 +266,6 @@
       "score": 12,
       "moments": [
         "festival_headliner"
-      ]
-    },
-    {
-      "id": "64f068cdef73",
-      "title": "BEYONC\u00c9 RELEASES NEW SONG, 'MORNING DEW (DONK)' 4TH OF JULY HOLIDAY SERVES A TREAT FOR HER FANS",
-      "summary": "IT STARTS A 60-DAY COUNTDOWN COMMEMORATING THE UPCOMING RE-ISSUE OF B'DAY, HER GROUND-BREAKING SECOND ALBUM RELEASED ON HER 25TH BIRTHDAY ON SEPTEMBER 4, 2006 \"MORNING DEW (DONK)\" AVAILABLE ON ALL STR",
-      "company": "BEYONC\u00c9 RELEASES NEW SONG 'MORNING DEW",
-      "link": "https://www.prnewswire.com/news-releases/beyonce-releases-new-song-morning-dew-donk-4th-of-july-holiday-serves-a-treat-for-her-fans-302817900.html",
-      "date": "Jul 04, 26",
-      "source": "PR Newswire",
-      "layer": 1,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "044af33044e2",
-      "title": "Watch RAYE bring out Alicia Keys and Mark Ronson at Montreux Jazz Festival",
-      "summary": "The surprise collaboration marks the first time she and Alicia Keys have ever appeared together on a live stage The post Watch RAYE bring out Alicia Keys and Mark Ronson at Montreux Jazz Festival appe",
-      "company": "Watch RAYE",
-      "link": "https://www.nme.com/news/music/watch-raye-bring-out-alicia-keys-and-mark-ronson-at-montreux-jazz-festival-3955006?utm_source=rss&utm_medium=rss&utm_campaign=watch-raye-bring-out-alicia-keys-and-mark-ronson-at-montreux-jazz-festival",
-      "date": "Jul 04, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "surprise_appearance"
       ]
     },
     {
@@ -329,6 +314,21 @@
       ]
     },
     {
+      "id": "2282d6021485",
+      "title": "Madonna reportedly forced to withdraw from surprise appearance at London Pride over safety concerns",
+      "summary": "It was claimed there were concerns she would send the \"well-organised event into frenzied chaos\" The post Madonna reportedly forced to withdraw from surprise appearance at London Pride over safety con",
+      "company": "Madonna",
+      "link": "https://www.nme.com/news/music/madonna-reportedly-forced-to-withdraw-from-surprise-appearance-at-london-pride-over-safety-concerns-3955134?utm_source=rss&utm_medium=rss&utm_campaign=madonna-reportedly-forced-to-withdraw-from-surprise-appearance-at-london-pride-over-safety-concerns",
+      "date": "Jul 05, 26",
+      "source": "NME",
+      "layer": 1,
+      "access": "pe",
+      "score": 10,
+      "moments": [
+        "surprise_appearance"
+      ]
+    },
+    {
       "id": "056e0f3952e0",
       "title": "How Ryan Beatty learned to love a love song",
       "summary": "The former Radio Disney teen heartthrob, raised Mormon and now openly gay, trades the bruised introspection of 2023's \"Calico\" for songs that exult in desire on his new album, \"Sweet Fortune.\"",
@@ -341,21 +341,6 @@
       "score": 9,
       "moments": [
         "album_announcement"
-      ]
-    },
-    {
-      "id": "2d74b0350d12",
-      "title": "GeneDx Holdings Securities Fraud Class Action Result of Acquisition Performance Misrepresentations and 49% Stock Decline - Investors may Contact...",
-      "summary": "NEW YORK and NEW ORLEANS, July 3, 2026 /PRNewswire/ -- Kahn Swick & Foti, LLC (\"KSF\") and KSF partner, former Attorney General of Louisiana, Charles C. Foti, Jr., remind investors with substantial los",
-      "company": "",
-      "link": "https://www.prnewswire.com/news-releases/genedx-holdings-securities-fraud-class-action-result-of-acquisition-performance-misrepresentations-and-49-stock-decline---investors-may-contact-lewis-kahn-esq-at-kahn-swick--foti-llc-302817271.html",
-      "date": "Jul 04, 26",
-      "source": "PR Newswire",
-      "layer": 4,
-      "access": "public",
-      "score": 9,
-      "moments": [
-        "acquisition"
       ]
     },
     {
@@ -458,13 +443,26 @@
       "moments": []
     },
     {
-      "id": "7004cda3b600",
-      "title": "Here\u2019s what went down when Metallica kicked off the first of their two \u201cno repeats\u201d shows at London Stadium",
-      "summary": "\u201cWe are so blessed to still be here after 45 years,\u201d frontman James Hetfield said, \u201cI have the best job in the whole world\u201d The post Here\u2019s what went down when Metallica kicked off the first of their ",
-      "company": "Here\u2019s",
-      "link": "https://www.nme.com/news/music/heres-what-went-down-metallica-london-stadium-no-repeats-show-footage-setlist-3954983?utm_source=rss&utm_medium=rss&utm_campaign=heres-what-went-down-metallica-london-stadium-no-repeats-show-footage-setlist",
+      "id": "e94453b530d9",
+      "title": "Man\u00e1 Will Fire Up Mexico vs. England Match With Halftime Show: \u2018Get Ready to Sing at the Top of Your Lungs\u2019",
+      "summary": "The band will return to Mexico City Stadium on July 5 to bid farewell to the venue as a World Cup host site.",
+      "company": "Man\u00e1 Will Fire Up Mexico",
+      "link": "https://www.billboard.com/music/latin/mana-halftime-show-mexico-vs-england-world-cup-2026-1236287830/",
       "date": "Jul 04, 26",
-      "source": "NME",
+      "source": "Billboard",
+      "layer": 2,
+      "access": "pe",
+      "score": 10,
+      "moments": []
+    },
+    {
+      "id": "ada662dd807d",
+      "title": "Fans scram: Fireworks head into the stands at BMO stadium after Angel City FC match",
+      "summary": "A post-game fireworks show went awry at BMO Stadium on Friday night, when fireworks set off on the playing pitch sent flares streaming into the stands, forcing fans to scatter to safety.",
+      "company": "Fans scram",
+      "link": "https://www.latimes.com/california/story/2026-07-04/fireworks-angel-city-match",
+      "date": "Jul 05, 26",
+      "source": "LA Times Sports",
       "layer": 2,
       "access": "pe",
       "score": 7,
@@ -484,19 +482,6 @@
       "moments": []
     },
     {
-      "id": "7a5cfeb2f79c",
-      "title": "Metallica Break U.K. Stadium Rules + Play Banned Song",
-      "summary": "Monica Schipper, Getty Images",
-      "company": "Metallica Break U.K Stadium Rules",
-      "link": "https://loudwire.com/metallica-banned-song-delilah-cardiff-2026/",
-      "date": "Jun 29, 26",
-      "source": "Loudwire",
-      "layer": 2,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
       "id": "3623f3a5a9fb",
       "title": "Canada Will Compete in Eurovision Song Contest",
       "summary": "The country\u2019s national broadcaster confirmed that it is joining the world\u2019s most popular singing contest next year. Some fans are urging it to send a star like Shania Twain.",
@@ -505,19 +490,6 @@
       "date": "Jul 01, 26",
       "source": "NYT Music",
       "layer": 3,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "f9d94522b307",
-      "title": "Boy who would be king: Seixas carries weight of a nation at Tour de France",
-      "summary": "Teenage sensation is a fearless racer but taking on Tadej Pogacar and Jonas Vingegaard is setting the bar very highPaul Seixas may be the youngest Tour de France debutant since 1937, but he is not lac",
-      "company": "Boy who would be king",
-      "link": "https://www.theguardian.com/sport/2026/jul/04/cycling-tour-de-france-paul-seixas-tadej-pogacar-jonas-vingegaard",
-      "date": "Jul 04, 26",
-      "source": "Guardian Sport",
-      "layer": 4,
       "access": "pe",
       "score": 5,
       "moments": []
