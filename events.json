@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T13:50:03.532731+00:00",
-  "total": 37,
+  "generated": "2026-07-06T15:43:42.382399+00:00",
+  "total": 36,
   "scraped": [
     {
       "id": "2330940b5a23",
@@ -17,6 +17,22 @@
         "funding_round",
         "pe_investment",
         "fund_launch"
+      ]
+    },
+    {
+      "id": "8f3e61ea05da",
+      "title": "College Merger Sparks Athletics Lawsuit Amid Enrollment Cliff",
+      "summary": "As some colleges merge to better handle a new higher education landscape with fewer students\u2014and thus diminished tuition, dorm and meal plan revenue\u2014along with less federal money for research, greater",
+      "company": "College Merger Sparks Athletics Lawsuit Amid",
+      "link": "https://www.sportico.com/law/analysis/2026/enrollment-cliff-college-sports-implications-litigation-1234937946/",
+      "date": "Jul 06, 26",
+      "source": "Sportico",
+      "layer": 2,
+      "access": "pe",
+      "score": 22,
+      "moments": [
+        "acquisition",
+        "company_launch"
       ]
     },
     {
@@ -78,6 +94,22 @@
       "layer": 2,
       "access": "pe",
       "score": 15,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "e7783e44221d",
+      "title": "CVC doubles Catalyst III target at final close of latest European mid-market fund",
+      "summary": "CVC Capital Partners has raised about \u20ac3bn at the final close of its third Catalyst fund, almost doubling its \u20ac1.75bn target. The post CVC doubles Catalyst III target at final close of latest European",
+      "company": "CVC doubles Catalyst III target at final",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/cvc-doubles-catalyst-iii-target-at-final-close-of-latest-european-mid-market-fund.html",
+      "date": "Jul 06, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
       "moments": [
         "pe_investment",
         "fund_launch"
@@ -164,21 +196,6 @@
       ]
     },
     {
-      "id": "7c5d2384a469",
-      "title": "Crunchbase Data: Global Startup Investment Hit Record $510B In H1 2026 As AI Boom Accelerates Funding And Exits",
-      "summary": "Investors poured more than $200 billion into startups globally in the just-ended quarter, making Q2 2026 the second-largest quarter on record, our data shows. And, with IPOs and acquisitions returning",
-      "company": "Crunchbase Data",
-      "link": "https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026/",
-      "date": "Jul 02, 26",
-      "source": "Crunchbase News",
-      "layer": 5,
-      "access": "pe",
-      "score": 21,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
       "id": "bca4baf0764e",
       "title": "Paramount Set to Exit Universal Joint Venture as Condition for EU Approval of Mega-Merger With Warner Bros. Discovery",
       "summary": "Paramount will exit its United International Pictures distribution joint venture with Universal&#160;as a condition for EU approval of its $111 billion takeover of Warner Bros. Discovery. The move is ",
@@ -191,21 +208,6 @@
       "score": 17,
       "moments": [
         "acquisition"
-      ]
-    },
-    {
-      "id": "4880d6e92ecd",
-      "title": "JENNIE performs unreleased new songs during Open\u2019er Festival 2026 headline set",
-      "summary": "'Lock It Down', 'Heaven' and 'Less Than A Lover' were played alongside cuts from 'Ruby' The post JENNIE performs unreleased new songs during Open\u2019er Festival 2026 headline set appeared first on NME.",
-      "company": "JENNIE",
-      "link": "https://www.nme.com/news/music/jennie-opener-festival-2026-setlist-unreleased-new-songs-3955027?utm_source=rss&utm_medium=rss&utm_campaign=jennie-opener-festival-2026-setlist-unreleased-new-songs",
-      "date": "Jul 04, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 17,
-      "moments": [
-        "festival_headliner"
       ]
     },
     {
@@ -239,18 +241,48 @@
       ]
     },
     {
-      "id": "4ef65bf8d947",
-      "title": "Dinosaur Jr. Adds Fall North American Tour Dates",
-      "summary": "Dinosaur Jr. has expanded its 2026 touring schedule with a new run of fall North American dates. The newly announced... The post Dinosaur Jr. Adds Fall North American Tour Dates appeared first on Tick",
-      "company": "Dinosaur Jr Adds Fall North American",
-      "link": "https://www.ticketnews.com/2026/07/dinosaur-jr-adds-fall-north-american-tour-dates/",
-      "date": "Jul 01, 26",
-      "source": "Ticket News",
+      "id": "1a0c9c2df869",
+      "title": "ITV Boss \u2018Hopeful\u2019 Sky Acquisition Will Clear Regulators: \u2018The Market Has Changed So Fundamentally\u2019",
+      "summary": "Following news on Monday morning that NBCUniversal-owned Sky is acquiring 70-year-old British public service broadcaster ITV, ITV CEO Carolyn McCall joined a series of calls with investors and media t",
+      "company": "ITV Boss \u2018Hopeful\u2019 Sky Acquisition Will",
+      "link": "https://variety.com/2026/biz/global/itv-sky-takeover-carolyn-mccall-regulators-1236802239/",
+      "date": "Jul 06, 26",
+      "source": "Variety Biz",
+      "layer": 3,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "9406c0823804",
+      "title": "Noah Kahan Brings the Fireworks to Rolling Stone\u2019s Stateside Festival",
+      "summary": "The superstar headlined the magazine\u2019s first-ever music festival, a blowout Fourth of July party on the Hudson River that included powerhouse acts like Gigi Perez and Devon Gilfillian, tons of food an",
+      "company": "Noah Kahan Brings",
+      "link": "https://www.rollingstone.com/music/music-live-reviews/noah-kahan-rolling-stone-stateside-festival-recap-1235589266/",
+      "date": "Jul 05, 26",
+      "source": "Rolling Stone Music",
       "layer": 1,
       "access": "pe",
-      "score": 14,
+      "score": 12,
       "moments": [
-        "tour_announcement"
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "7733c1f26fce",
+      "title": "Inside the all-star America250 concert at the L.A. Coliseum",
+      "summary": "Chris Stapleton was the headlining act at a Fourth of July benefit concert that also featured Smashing Pumpkins, Chaka Khan, Maren Morris and Queen Latifah.",
+      "company": "Inside",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-07-05/america250-concert-coliseum-chris-stapleton-smashing-pumpkins-chaka-khan",
+      "date": "Jul 05, 26",
+      "source": "LA Times Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "festival_headliner"
       ]
     },
     {
@@ -284,6 +316,21 @@
       ]
     },
     {
+      "id": "b50d41a1338e",
+      "title": "\u2018I was there!\u2019 Writers remember legendary gigs by Beyonc\u00e9, Brian Wilson, Britney, Oasis, Daft Punk and more",
+      "summary": "What\u2019s it like to catch a gig so great it goes down in history? Our writers relive incredible performances by everyone from Amy Winehouse at the North Sea jazz festival to Kanye West at GlastonburyTal",
+      "company": "Writers",
+      "link": "https://www.theguardian.com/music/2026/jul/06/legendary-gigs-beyonce-brian-wilson-britney-oasis-daft-punk-amy-winehouse-kanye-west",
+      "date": "Jul 06, 26",
+      "source": "Guardian Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
       "id": "69f701afdbc2",
       "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
       "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies \u2014 the infrastructure a",
@@ -314,21 +361,6 @@
       ]
     },
     {
-      "id": "2282d6021485",
-      "title": "Madonna reportedly forced to withdraw from surprise appearance at London Pride over safety concerns",
-      "summary": "It was claimed there were concerns she would send the \"well-organised event into frenzied chaos\" The post Madonna reportedly forced to withdraw from surprise appearance at London Pride over safety con",
-      "company": "Madonna",
-      "link": "https://www.nme.com/news/music/madonna-reportedly-forced-to-withdraw-from-surprise-appearance-at-london-pride-over-safety-concerns-3955134?utm_source=rss&utm_medium=rss&utm_campaign=madonna-reportedly-forced-to-withdraw-from-surprise-appearance-at-london-pride-over-safety-concerns",
-      "date": "Jul 05, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 10,
-      "moments": [
-        "surprise_appearance"
-      ]
-    },
-    {
       "id": "056e0f3952e0",
       "title": "How Ryan Beatty learned to love a love song",
       "summary": "The former Radio Disney teen heartthrob, raised Mormon and now openly gay, trades the bruised introspection of 2023's \"Calico\" for songs that exult in desire on his new album, \"Sweet Fortune.\"",
@@ -344,33 +376,18 @@
       ]
     },
     {
-      "id": "8601ad25758f",
-      "title": "Corten, Ampersand acquire Beacon Intelligence",
-      "summary": "Beacon Intelligence provides structured data on early-stage drug development to more than 300 customers globally. The post Corten, Ampersand acquire Beacon Intelligence appeared first on PE Hub.",
-      "company": "Corten Ampersand",
-      "link": "https://www.pehub.com/corten-ampersand-acquire-beacon-intelligence/",
-      "date": "Jul 02, 26",
-      "source": "PE Hub",
+      "id": "1b249586fc8d",
+      "title": "Sandro Tonali seals \u00a392.5m move to Tottenham on back of \u2018magic\u2019 sales pitch",
+      "summary": "Club record signing wowed by Roberto De Zerbi\u2019s plansWages could rise to \u00a3275,000-a-week over six-year dealSandro Tonali has completed a record-breaking transfer to Tottenham from Newcastle for an ini",
+      "company": "Sandro Tonali",
+      "link": "https://www.theguardian.com/football/2026/jul/06/sandro-tonali-seals-move-to-tottenham-newcastle-transfer-window",
+      "date": "Jul 06, 26",
+      "source": "Guardian Sport",
       "layer": 2,
       "access": "pe",
-      "score": 8,
+      "score": 9,
       "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "ec2f03807419",
-      "title": "Phoebe Bridgers, Sombr: Songs to Know This Week",
-      "summary": "Phoebe Bridgers re-emerges, Sombr gets shy and PJ Harvey heads for the cosmos.",
-      "company": "Phoebe Bridgers Sombr: Songs",
-      "link": "https://www.nytimes.com/2026/06/27/arts/music/phoebe-bridgers-sombr-songs.html",
-      "date": "Jun 27, 26",
-      "source": "NYT Music",
-      "layer": 2,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "acquisition"
+        "record_breaking"
       ]
     },
     {
@@ -404,19 +421,6 @@
       ]
     },
     {
-      "id": "96082166a945",
-      "title": "Would Netflix Make a Play for NBCUniversal Post Spin-Off? Why That\u2019s Unlikely to Happen",
-      "summary": "Over an intense six-week period last fall, Netflix went from an initial phone call between co-CEO Ted Sarandos and Warner Bros. Discovery chief David Zaslav to sealing an $82.7 billion deal to buy War",
-      "company": "Would Netflix Make",
-      "link": "https://variety.com/2026/tv/news/would-netflix-acquire-nbcuniversal-post-comcast-spinoff-1236799468/",
-      "date": "Jun 30, 26",
-      "source": "Variety Biz",
-      "layer": 3,
-      "access": "pe",
-      "score": 12,
-      "moments": []
-    },
-    {
       "id": "4014c45fea17",
       "title": "Claude-Assisted Hack Exposes Major Flaw at Ticketmaster-Owned Front Gate Tickets",
       "summary": "Front Gate Tickets \u2014 the Ticketmaster-owned festival and event ticketing company used by nearly every major music festival across the... The post Claude-Assisted Hack Exposes Major Flaw at Ticketmaste",
@@ -443,12 +447,12 @@
       "moments": []
     },
     {
-      "id": "e94453b530d9",
-      "title": "Man\u00e1 Will Fire Up Mexico vs. England Match With Halftime Show: \u2018Get Ready to Sing at the Top of Your Lungs\u2019",
-      "summary": "The band will return to Mexico City Stadium on July 5 to bid farewell to the venue as a World Cup host site.",
-      "company": "Man\u00e1 Will Fire Up Mexico",
-      "link": "https://www.billboard.com/music/latin/mana-halftime-show-mexico-vs-england-world-cup-2026-1236287830/",
-      "date": "Jul 04, 26",
+      "id": "c0db72c486af",
+      "title": "Guinness World Records Certifies Harry Styles\u2019 Wembley Stadium Run As Venues\u2019 Longest Residency Ever",
+      "summary": "The singer and his team gathered for the certificate presentation after Saturday's (July 4) historic 12th show.",
+      "company": "",
+      "link": "https://www.billboard.com/music/pop/harry-styles-guinness-world-record-wembley-stadium-residency-1236288133/",
+      "date": "Jul 06, 26",
       "source": "Billboard",
       "layer": 2,
       "access": "pe",
@@ -508,32 +512,6 @@
       "moments": []
     },
     {
-      "id": "186cb8cb553d",
-      "title": "World Series of Poker Returns to ESPN, Now With AI",
-      "summary": "The World Series of Poker returned to ESPN on Thursday for the first time since 2021. And Peyton Manning\u2019s Ohama Productions, newly in charge of the event\u2019s TV coverage, arrives with at least one tric",
-      "company": "World Series",
-      "link": "https://www.sportico.com/leagues/other-sports/2026/world-series-of-poker-espn-ai-predict-bluff-1234937847/",
-      "date": "Jul 03, 26",
-      "source": "Sportico",
-      "layer": 3,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "8ad9f71dc8d4",
-      "title": "\u2018This is a hellhole\u2019: Aramco makes its presence hurt in the shadow of the World Cup",
-      "summary": "The oil giant\u2019s sponsorship deal with Fifa has featured prominently at matches in Houston. But 100 miles away in another Texas city, residents say the firm\u2019s refinery is exposing them to poisonous gas",
-      "company": "\u2018This",
-      "link": "https://www.theguardian.com/football/2026/jul/04/aramco-world-cup-fifa-port-arthur-texas-houston",
-      "date": "Jul 04, 26",
-      "source": "Guardian Sport",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
       "id": "8f95fdb4c719",
       "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
       "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
@@ -542,6 +520,19 @@
       "date": "May 09, 26",
       "source": "Venues Today",
       "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "15b8d7dc895c",
+      "title": "StubHub Sued in Proposed Class Action Over World Cup Ticket Delivery Failures",
+      "summary": "Complaint alleges buyers relied on StubHub\u2019s FanProtect Guarantee only to see World Cup orders canceled or undelivered, seeks at least... The post StubHub Sued in Proposed Class Action Over World Cup ",
+      "company": "StubHub Sued",
+      "link": "https://www.ticketnews.com/2026/07/stubhub-sued-in-proposed-class-action-over-world-cup-ticket-delivery-failures/",
+      "date": "Jul 02, 26",
+      "source": "Ticket News",
+      "layer": 3,
       "access": "pe",
       "score": 4,
       "moments": []
