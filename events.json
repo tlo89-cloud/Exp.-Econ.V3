@@ -1,24 +1,7 @@
 {
-  "generated": "2026-07-06T15:43:42.382399+00:00",
-  "total": 36,
+  "generated": "2026-07-07T14:47:39.658173+00:00",
+  "total": 38,
   "scraped": [
-    {
-      "id": "2330940b5a23",
-      "title": "Hamilton Lane raises $3.8bn for sixth direct equity fund",
-      "summary": "Hamilton Lane has held a $3.8bn final close of its sixth flagship direct equity fund, marking a significant increase from the firm's prior $2.1bn vintage. The post Hamilton Lane raises $3.8bn for sixt",
-      "company": "Hamilton Lane",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/hamilton-lane-raises-3-8bn-for-sixth-direct-equity-fund.html",
-      "date": "Jul 02, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 20,
-      "moments": [
-        "funding_round",
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
     {
       "id": "8f3e61ea05da",
       "title": "College Merger Sparks Athletics Lawsuit Amid Enrollment Cliff",
@@ -36,19 +19,19 @@
       ]
     },
     {
-      "id": "cf7eebc4baed",
-      "title": "Altera raises $136.5m across three lower mid-market investment strategies",
-      "summary": "Lower mid-market investor Altera has closed a trio of private markets funds with a combined $136.5m in capital commitments. The post Altera raises $136.5m across three lower mid-market investment stra",
-      "company": "Altera",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/altera-raises-136-5m-across-three-lower-mid-market-investment-strategies.html",
-      "date": "Jul 02, 26",
-      "source": "AltAssets",
-      "layer": 5,
+      "id": "e3a408dbbd74",
+      "title": "NRL announces record-breaking $5.3bn broadcast deal with Nine and Foxtel",
+      "summary": "Seven-year agreement worth around $750m annually from 2028\u2018A defining moment for rugby league,\u2019 says Peter V\u2019landysNine Entertainment and Foxtel have retained the media rights to the NRL in a $5.3bn d",
+      "company": "NRL",
+      "link": "https://www.theguardian.com/sport/2026/jul/07/nrl-historic-broadcast-deal-nine-foxtel-record-breaking",
+      "date": "Jul 07, 26",
+      "source": "Guardian Sport",
+      "layer": 1,
       "access": "pe",
-      "score": 19,
+      "score": 22,
       "moments": [
-        "funding_round",
-        "pe_investment"
+        "rights_deal",
+        "record_breaking"
       ]
     },
     {
@@ -68,32 +51,32 @@
       ]
     },
     {
-      "id": "cdfe5d3b3e0c",
-      "title": "ZZ Top Announces Additional Fall Tour Dates",
-      "summary": "ZZ Top has expanded its 2026 The Big One Tour!, adding five new fall dates, including three co-headline performances with... The post ZZ Top Announces Additional Fall Tour Dates appeared first on Tick",
-      "company": "ZZ Top Announces Additional Fall Tour",
-      "link": "https://www.ticketnews.com/2026/07/zz-top-announces-additional-fall-tour-dates/",
-      "date": "Jul 02, 26",
-      "source": "Ticket News",
+      "id": "840e4a7872be",
+      "title": "Climentum Capital reaches \u20ac60m first close for second climate hard tech fund",
+      "summary": "Nordic venture investor Climentum Capital has held a \u20ac60m first close for its second fund, which is set to continue the firm's strategy of backing European hard-tech climate startups. The post Climent",
+      "company": "Climentum Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/denmark-western-europe-europe-by-region/climentum-capital-reaches-e60m-first-close-for-second-climate-hard-tech-fund.html",
+      "date": "Jul 07, 26",
+      "source": "AltAssets",
       "layer": 5,
       "access": "pe",
-      "score": 16,
+      "score": 13,
       "moments": [
-        "tour_announcement",
-        "festival_headliner"
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
-      "id": "8ac9fbfb4ce0",
-      "title": "Starwood Capital closes $10.2bn opportunistic real estate fund",
-      "summary": "Starwood Capital Group has raised more than $10.2bn at the final close of its latest opportunistic real estate vehicle. The post Starwood Capital closes $10.2bn opportunistic real estate fund appeared",
-      "company": "Starwood Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/starwood-capital-closes-10-2bn-opportunistic-real-estate-fund.html",
-      "date": "Jul 02, 26",
+      "id": "e0076fb3cddd",
+      "title": "Deep tech investor Drumbeat Capital launches debut fund targeting $50m",
+      "summary": "Deep tech-focused venture investor Drumbeat Capital has launched its debut fund with a goal of up to $50m, a new filing from the US SEC shows. The post Deep tech investor Drumbeat Capital launches deb",
+      "company": "Deep tech investor Drumbeat Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/deep-tech-investor-drumbeat-capital-launches-debut-fund-targeting-50m.html",
+      "date": "Jul 07, 26",
       "source": "AltAssets",
-      "layer": 2,
+      "layer": 5,
       "access": "pe",
-      "score": 15,
+      "score": 13,
       "moments": [
         "pe_investment",
         "fund_launch"
@@ -132,22 +115,6 @@
       ]
     },
     {
-      "id": "ebb5dff48548",
-      "title": "Mekong Capital launches climate-focused PE fund with $50m Green Climate Fund cornerstone",
-      "summary": "Mekong Capital has launched a climate-focused private equity fund targeting regenerative agriculture in Southeast Asia, anchored by a $50m commitment from the Green Climate Fund. The post Mekong Capit",
-      "company": "Mekong Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/asia-by-region/mekong-capital-launches-climate-focused-pe-fund-with-50m-green-climate-fund-cornerstone.html",
-      "date": "Jul 03, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
       "id": "b2d1b5f48d73",
       "title": "Azalea launches first evergreen private equity fund with $350m anchor commitments",
       "summary": "Singapore-based private markets investor Azalea has launched its first evergreen private equity fund, securing $350m in initial commitments from a group of anchor investors as it expands its range of ",
@@ -164,22 +131,6 @@
       ]
     },
     {
-      "id": "5cf92d3cada8",
-      "title": "Deal Roundup: New Mountain picks up majority SAM stake from Peak Rock, Balance Point backs AquaVerse",
-      "summary": "New Mountain Capital has acquired a majority stake in geospatial and infrastructure services provider SAM from Peak Rock Capital. The post Deal Roundup: New Mountain picks up majority SAM stake from P",
-      "company": "Deal Roundup",
-      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-new-mountain-picks-up-majority-sam-stake-from-peak-rock-balance-point-backs-aquaverse.html",
-      "date": "Jul 02, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "acquisition",
-        "pe_investment"
-      ]
-    },
-    {
       "id": "d468645b4458",
       "title": "Alexis Smith of The Feminine Glow Emerges at the Center of the Feminine Energy Coaching Boom",
       "summary": "DUBAI, UAE &#8211; &#160;The Feminine Glow, the fast-growing femininity and inner work platform founded by Alexis Smith, is gaining national attention as interest in coaching, self-development, and fe",
@@ -193,6 +144,21 @@
       "moments": [
         "acquisition",
         "company_launch"
+      ]
+    },
+    {
+      "id": "7c5d2384a469",
+      "title": "Crunchbase Data: Global Startup Investment Hit Record $510B In H1 2026 As AI Boom Accelerates Funding And Exits",
+      "summary": "Investors poured more than $200 billion into startups globally in the just-ended quarter, making Q2 2026 the second-largest quarter on record, our data shows. And, with IPOs and acquisitions returning",
+      "company": "Crunchbase Data",
+      "link": "https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026/",
+      "date": "Jul 02, 26",
+      "source": "Crunchbase News",
+      "layer": 5,
+      "access": "pe",
+      "score": 21,
+      "moments": [
+        "acquisition"
       ]
     },
     {
@@ -226,21 +192,6 @@
       ]
     },
     {
-      "id": "bec833a0ae0a",
-      "title": "Beyonc\u00e9 Drops Unreleased Song \u2018Morning Dew (Donk)\u2019 Ahead of \u2018B\u2019Day\u2019 20th Anniversary Reissue",
-      "summary": "Beyonc\u00e9 is ringing in July 4 with a treat for her fans, dropping the long-unreleased song &#8220;Morning Dew (Donk)&#8221; ahead of the 20th anniversary of her sophomore album &#8220;B&#8217;Day.&#822",
-      "company": "Beyonc\u00e9 Drops Unreleased Song \u2018Morning Dew",
-      "link": "https://variety.com/2026/music/news/beyonce-morning-dew-donk-bday-20th-anniversary-reissue-1236801739/",
-      "date": "Jul 04, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
       "id": "1a0c9c2df869",
       "title": "ITV Boss \u2018Hopeful\u2019 Sky Acquisition Will Clear Regulators: \u2018The Market Has Changed So Fundamentally\u2019",
       "summary": "Following news on Monday morning that NBCUniversal-owned Sky is acquiring 70-year-old British public service broadcaster ITV, ITV CEO Carolyn McCall joined a series of calls with investors and media t",
@@ -256,13 +207,28 @@
       ]
     },
     {
-      "id": "9406c0823804",
-      "title": "Noah Kahan Brings the Fireworks to Rolling Stone\u2019s Stateside Festival",
-      "summary": "The superstar headlined the magazine\u2019s first-ever music festival, a blowout Fourth of July party on the Hudson River that included powerhouse acts like Gigi Perez and Devon Gilfillian, tons of food an",
-      "company": "Noah Kahan Brings",
-      "link": "https://www.rollingstone.com/music/music-live-reviews/noah-kahan-rolling-stone-stateside-festival-recap-1235589266/",
-      "date": "Jul 05, 26",
-      "source": "Rolling Stone Music",
+      "id": "89d7c921e823",
+      "title": "Charli xcx to Stage \u2018Music, Fashion, Film\u2019 Album-Listening Sessions in 25 Cities Across the Globe",
+      "summary": "Charli xcx has announced global tour dates in support of her forthcoming seventh studio album, \u201cMusic, Fashion, Film,\u201d out July 24. The sessions will take place in independent theaters in cities all a",
+      "company": "Charli",
+      "link": "https://variety.com/2026/music/news/charli-xcx-music-fashion-film-album-listening-sessions-1236802342/",
+      "date": "Jul 06, 26",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "tour_announcement"
+      ]
+    },
+    {
+      "id": "98de7e97082a",
+      "title": "Missy Higgins, The Teskey Brothers and ICEHOUSE to Headline New Sydney Concert Series",
+      "summary": "The new Fuzzy-presented series will take over the Fleet Steps at Mrs Macquarie\u2019s Point with a floating stage.",
+      "company": "Missy Higgins The Teskey Brothers",
+      "link": "https://www.billboard.com/music/concerts/missy-higgins-teskey-brothers-icehouse-headline-sydney-concert-series-the-point-1236288672/",
+      "date": "Jul 07, 26",
+      "source": "Billboard",
       "layer": 1,
       "access": "pe",
       "score": 12,
@@ -301,6 +267,36 @@
       ]
     },
     {
+      "id": "6a468cf373df",
+      "title": "Station F ramps up as a launchpad for Europe\u2019s hottest AI startups",
+      "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping sto",
+      "company": "Station",
+      "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "date": "Jul 06, 26",
+      "source": "TechCrunch Startups",
+      "layer": 5,
+      "access": "venture",
+      "score": 12,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "36b1b9a702d2",
+      "title": "Alabama Shakes announce new album \u2018I Must Be Dreaming\u2019 and tease single \u2018I Feel Hope Coming\u2019",
+      "summary": "Their third studio LP is set to drop later this summer The post Alabama Shakes announce new album &#8216;I Must Be Dreaming&#8217; and tease single &#8216;I Feel Hope Coming&#8217; appeared first on N",
+      "company": "Alabama Shakes",
+      "link": "https://www.nme.com/news/music/alabama-shakes-announce-new-album-i-must-be-dreaming-and-tease-single-i-feel-hope-coming-3955511?utm_source=rss&utm_medium=rss&utm_campaign=alabama-shakes-announce-new-album-i-must-be-dreaming-and-tease-single-i-feel-hope-coming",
+      "date": "Jul 07, 26",
+      "source": "NME",
+      "layer": 1,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
       "id": "1267151eb0d6",
       "title": "Soft Palms are rewriting the rules of the music business from a Long Beach studio",
       "summary": "With a new album titled \"In Echo\" out Friday, husband-and-wife duo Scott Montoya and Julia Kugel also share secrets of how to survive and thrive as indie artists through a new book about the DIY music",
@@ -331,21 +327,6 @@
       ]
     },
     {
-      "id": "69f701afdbc2",
-      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
-      "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies \u2014 the infrastructure a",
-      "company": "Ashton Kutcher",
-      "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
-      "date": "Jul 01, 26",
-      "source": "TechCrunch Venture",
-      "layer": 1,
-      "access": "venture",
-      "score": 11,
-      "moments": [
-        "fund_launch"
-      ]
-    },
-    {
       "id": "ed24e331be68",
       "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
       "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
@@ -361,33 +342,63 @@
       ]
     },
     {
-      "id": "056e0f3952e0",
-      "title": "How Ryan Beatty learned to love a love song",
-      "summary": "The former Radio Disney teen heartthrob, raised Mormon and now openly gay, trades the bruised introspection of 2023's \"Calico\" for songs that exult in desire on his new album, \"Sweet Fortune.\"",
-      "company": "How Ryan Beatty",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-06-24/ryan-beatty-sweet-fortune-interview",
-      "date": "Jun 24, 26",
-      "source": "LA Times Music",
-      "layer": 1,
+      "id": "e5830463e61b",
+      "title": "Harry Styles Sets Wembley Stadium Residency Record With 12 Shows",
+      "summary": "Harry Styles has earned a new Guinness World Record after completing a record-breaking residency at London&#8217;s Wembley Stadium. The singer... The post Harry Styles Sets Wembley Stadium Residency R",
+      "company": "Harry Styles Sets Wembley Stadium Residency",
+      "link": "https://www.ticketnews.com/2026/07/harry-styles-sets-wembley-stadium-residency-record-with-12-shows/",
+      "date": "Jul 07, 26",
+      "source": "Ticket News",
+      "layer": 2,
       "access": "pe",
-      "score": 9,
+      "score": 11,
       "moments": [
-        "album_announcement"
+        "record_breaking"
       ]
     },
     {
-      "id": "1b249586fc8d",
-      "title": "Sandro Tonali seals \u00a392.5m move to Tottenham on back of \u2018magic\u2019 sales pitch",
-      "summary": "Club record signing wowed by Roberto De Zerbi\u2019s plansWages could rise to \u00a3275,000-a-week over six-year dealSandro Tonali has completed a record-breaking transfer to Tottenham from Newcastle for an ini",
-      "company": "Sandro Tonali",
-      "link": "https://www.theguardian.com/football/2026/jul/06/sandro-tonali-seals-move-to-tottenham-newcastle-transfer-window",
+      "id": "354e9e44ec9d",
+      "title": "Richard H. Glanton, Combative Head of Barnes Foundation, Dies at 79",
+      "summary": "In the 1990s, he took 80 of the art institution\u2019s paintings on tour \u2014 going against the founder\u2019s wishes \u2014 to raise money for a renovation.",
+      "company": "Richard",
+      "link": "https://www.nytimes.com/2026/07/06/arts/design/richard-h-glanton-dead.html",
       "date": "Jul 06, 26",
-      "source": "Guardian Sport",
+      "source": "NYT Arts",
       "layer": 2,
       "access": "pe",
       "score": 9,
       "moments": [
-        "record_breaking"
+        "company_launch"
+      ]
+    },
+    {
+      "id": "93cc47ef6910",
+      "title": "USA 1-4 Belgium: World Cup 2026 last 16 \u2013 as it happened",
+      "summary": "The tournament co-hosts crashed out with a disappointing display as Belgium proved too strong an opponentThrough four games, Belgium have retained 57% of possession with a 65% field tilt \u2013 a possessio",
+      "company": "USA 1-4 Belgium",
+      "link": "https://www.theguardian.com/football/live/2026/jul/06/usa-v-belgium-world-cup-2026-last-16-live",
+      "date": "Jul 07, 26",
+      "source": "Guardian Sport",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "0d1473735430",
+      "title": "I Squared to acquire Milestone Environmental from SK Capital",
+      "summary": "Milestone owns and operates 15 fully permitted disposal facilities for oil and gas drilling, completion, and production waste streams strategically located across the most active US energy basins. The",
+      "company": "I Squared to",
+      "link": "https://www.pehub.com/i-squared-to-acquire-milestone-environmental-from-sk-capital/",
+      "date": "Jul 07, 26",
+      "source": "PE Hub",
+      "layer": 4,
+      "access": "pe",
+      "score": 8,
+      "moments": [
+        "acquisition"
       ]
     },
     {
@@ -406,6 +417,21 @@
       ]
     },
     {
+      "id": "dfcd497f3dca",
+      "title": "The US had the biggest opportunity in the history of American soccer. They wasted it | Alexander Abnos",
+      "summary": "The USMNT\u2019s run at a home World Cup had attracted people who usually ignore soccer. Instead of triumph, they saw a humbling at the hands of BelgiumIn the closing moments of the United States\u2019 3-2 win ",
+      "company": "The US",
+      "link": "https://www.theguardian.com/football/2026/jul/07/usmnt-world-cup-belgium",
+      "date": "Jul 07, 26",
+      "source": "Guardian Sport",
+      "layer": 3,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
       "id": "f3a1d1554548",
       "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
       "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
@@ -421,55 +447,68 @@
       ]
     },
     {
-      "id": "4014c45fea17",
-      "title": "Claude-Assisted Hack Exposes Major Flaw at Ticketmaster-Owned Front Gate Tickets",
-      "summary": "Front Gate Tickets \u2014 the Ticketmaster-owned festival and event ticketing company used by nearly every major music festival across the... The post Claude-Assisted Hack Exposes Major Flaw at Ticketmaste",
-      "company": "Claude-Assisted Hack Exposes Major Flaw",
-      "link": "https://www.ticketnews.com/2026/07/claude-assisted-hack-exposes-major-flaw-front-gate-tickets/",
-      "date": "Jul 02, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 11,
-      "moments": []
-    },
-    {
-      "id": "e627b02dd3dc",
-      "title": "DOJ Filing Opens Public Review Period for Live Nation-Ticketmaster Settlement",
-      "summary": "The Competitive Impact Statement filed in USA vs. Live Nation Entertainment Monday details how the DOJ believes its settlement satisfies... The post DOJ Filing Opens Public Review Period for Live Nati",
-      "company": "DOJ Filing Opens Public Review Period",
-      "link": "https://www.ticketnews.com/2026/07/doj-filing-opens-public-review-period-for-live-nation-ticketmaster-settlement/",
-      "date": "Jul 01, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 11,
-      "moments": []
-    },
-    {
-      "id": "c0db72c486af",
-      "title": "Guinness World Records Certifies Harry Styles\u2019 Wembley Stadium Run As Venues\u2019 Longest Residency Ever",
-      "summary": "The singer and his team gathered for the certificate presentation after Saturday's (July 4) historic 12th show.",
+      "id": "4561708cdfa1",
+      "title": "UL Research Institutes Appoints Elena Zinchenko, Ed.D. as Chief Program Development Officer to Expand Strategic Partnerships and External Funding",
+      "summary": "In the news release, UL Research Institutes Appoints Elena Zinchenko, Ed.D. as Chief Program Development Officer to Expand Strategic Partnerships and External Funding, issued 07-Jul-2026 by UL Researc",
       "company": "",
-      "link": "https://www.billboard.com/music/pop/harry-styles-guinness-world-record-wembley-stadium-residency-1236288133/",
-      "date": "Jul 06, 26",
-      "source": "Billboard",
+      "link": "https://www.prnewswire.com/news-releases/ul-research-institutes-appoints-elena-zinchenko-edd-as-chief-program-development-officer-to-expand-strategic-partnerships-and-external-funding-302818953.html",
+      "date": "Jul 07, 26",
+      "source": "PR Newswire",
+      "layer": 2,
+      "access": "pe",
+      "score": 11,
+      "moments": []
+    },
+    {
+      "id": "e94519307feb",
+      "title": "Garth Brooks Announces \u2018Blame It All On My Roots\u2019 Arena Tour",
+      "summary": "Garth Brooks has announced the \u201cBlame It All On My Roots\u201d tour, a run of performances designed to bring his... The post Garth Brooks Announces \u2018Blame It All On My Roots\u2019 Arena Tour appeared first on T",
+      "company": "Garth Brooks Announces \u2018Blame It All",
+      "link": "https://www.ticketnews.com/2026/07/garth-brooks-announces-blame-it-all-on-my-roots-arena-tour/",
+      "date": "Jul 07, 26",
+      "source": "Ticket News",
       "layer": 2,
       "access": "pe",
       "score": 10,
       "moments": []
     },
     {
-      "id": "ada662dd807d",
-      "title": "Fans scram: Fireworks head into the stands at BMO stadium after Angel City FC match",
-      "summary": "A post-game fireworks show went awry at BMO Stadium on Friday night, when fireworks set off on the playing pitch sent flares streaming into the stands, forcing fans to scatter to safety.",
-      "company": "Fans scram",
-      "link": "https://www.latimes.com/california/story/2026-07-04/fireworks-angel-city-match",
-      "date": "Jul 05, 26",
-      "source": "LA Times Sports",
-      "layer": 2,
+      "id": "32bba3c40f19",
+      "title": "Global Biopharmaceutical Processing Equipment &amp; Consumables Market is Anticipated to Cross the USD 110 Billion Mark by 2034 | DelveInsight",
+      "summary": "The biopharmaceutical processing equipment & consumables market is witnessing robust growth, driven by the rising production of biologics, biosimilars, vaccines, and advanced cell and gene therapies. ",
+      "company": "",
+      "link": "https://www.prnewswire.com/news-releases/global-biopharmaceutical-processing-equipment--consumables-market-is-anticipated-to-cross-the-usd-110-billion-mark-by-2034--delveinsight-302819126.html",
+      "date": "Jul 07, 26",
+      "source": "PR Newswire",
+      "layer": 4,
+      "access": "pe",
+      "score": 8,
+      "moments": []
+    },
+    {
+      "id": "e8d0791ee9ee",
+      "title": "Demand for Hotel Managers Grows Nearly Fivefold Amid Austin Hotel Expansion, OysterLink Finds",
+      "summary": "AUSTIN, Texas, July 7, 2026 /PRNewswire/ -- Demand for Hotel Managers in Austin increased nearly fivefold from the first to the second quarter of 2026, according to a new analysis by hospitality job p",
+      "company": "Demand",
+      "link": "https://www.prnewswire.com/news-releases/demand-for-hotel-managers-grows-nearly-fivefold-amid-austin-hotel-expansion-oysterlink-finds-302819424.html",
+      "date": "Jul 07, 26",
+      "source": "PR Newswire",
+      "layer": 4,
       "access": "pe",
       "score": 7,
+      "moments": []
+    },
+    {
+      "id": "7528d5628fb9",
+      "title": "NCAA Eligibility Lawsuits Continue Even with New Rules",
+      "summary": "I recently wrote that the NCAA\u2019s new eligibility rules will&#160;deter lawsuits&#160;brought by students who wish to remain college athletes after they\u2019ve exhausted their NCAA eligibility. I stand by ",
+      "company": "NCAA Eligibility Lawsuits Continue Even",
+      "link": "https://www.sportico.com/law/analysis/2026/ncaa-eligibility-rules-lawsuits-filip-borovicanin-1234938044/",
+      "date": "Jul 07, 26",
+      "source": "Sportico",
+      "layer": 4,
+      "access": "pe",
+      "score": 5,
       "moments": []
     },
     {
@@ -520,19 +559,6 @@
       "date": "May 09, 26",
       "source": "Venues Today",
       "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "15b8d7dc895c",
-      "title": "StubHub Sued in Proposed Class Action Over World Cup Ticket Delivery Failures",
-      "summary": "Complaint alleges buyers relied on StubHub\u2019s FanProtect Guarantee only to see World Cup orders canceled or undelivered, seeks at least... The post StubHub Sued in Proposed Class Action Over World Cup ",
-      "company": "StubHub Sued",
-      "link": "https://www.ticketnews.com/2026/07/stubhub-sued-in-proposed-class-action-over-world-cup-ticket-delivery-failures/",
-      "date": "Jul 02, 26",
-      "source": "Ticket News",
-      "layer": 3,
       "access": "pe",
       "score": 4,
       "moments": []
