@@ -1,37 +1,71 @@
 {
-  "generated": "2026-07-07T14:47:39.658173+00:00",
-  "total": 38,
+  "generated": "2026-07-08T14:25:22.520445+00:00",
+  "total": 34,
   "scraped": [
     {
-      "id": "8f3e61ea05da",
-      "title": "College Merger Sparks Athletics Lawsuit Amid Enrollment Cliff",
-      "summary": "As some colleges merge to better handle a new higher education landscape with fewer students\u2014and thus diminished tuition, dorm and meal plan revenue\u2014along with less federal money for research, greater",
-      "company": "College Merger Sparks Athletics Lawsuit Amid",
-      "link": "https://www.sportico.com/law/analysis/2026/enrollment-cliff-college-sports-implications-litigation-1234937946/",
-      "date": "Jul 06, 26",
-      "source": "Sportico",
-      "layer": 2,
+      "id": "b099116f02aa",
+      "title": "Facebook co-founder\u2019s B Capital hits $500m hard cap for third early-stage AI fund",
+      "summary": "Global investment firm B Capital, created by Facebook co-founder Eduardo Saverin, has raised $500m for the hard cap close of its third Ascent fund - nearly doubling the size of its predecessor vehicle",
+      "company": "Facebook",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/facebook-co-founders-b-capital-hits-500m-hard-cap-for-third-early-stage-ai-fund.html",
+      "date": "Jul 08, 26",
+      "source": "AltAssets",
+      "layer": 5,
       "access": "pe",
-      "score": 22,
+      "score": 20,
       "moments": [
-        "acquisition",
+        "pe_investment",
+        "fund_launch",
         "company_launch"
       ]
     },
     {
-      "id": "e3a408dbbd74",
-      "title": "NRL announces record-breaking $5.3bn broadcast deal with Nine and Foxtel",
-      "summary": "Seven-year agreement worth around $750m annually from 2028\u2018A defining moment for rugby league,\u2019 says Peter V\u2019landysNine Entertainment and Foxtel have retained the media rights to the NRL in a $5.3bn d",
-      "company": "NRL",
-      "link": "https://www.theguardian.com/sport/2026/jul/07/nrl-historic-broadcast-deal-nine-foxtel-record-breaking",
-      "date": "Jul 07, 26",
-      "source": "Guardian Sport",
+      "id": "452b83b14af1",
+      "title": "Deal Roundup: Advent\u2019s Cobham Ultra sells Ultra Maritime to Lockheed Martin in $3.45bn deal",
+      "summary": "Lockheed Martin has agreed to acquire Ultra Maritime from Advent International-owned Cobham Ultra in a deal valued at $3.45bn. The post Deal Roundup: Advent&#8217;s Cobham Ultra sells Ultra Maritime t",
+      "company": "Deal Roundup",
+      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-advents-cobham-ultra-sells-ultra-maritime-to-lockheed-martin-in-3-45bn-deal.html",
+      "date": "Jul 08, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 17,
+      "moments": [
+        "acquisition",
+        "valuation",
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "04c0617c2132",
+      "title": "KKR-backed Arctos brings in $6.2bn for inaugural GP solutions fund",
+      "summary": "KKR-owned investor Arctos has held a $6.2bn final close for its inaugural GP solutions fund, significantly exceeding its $4bn target and establishing what the firm said is the largest first-time fund ",
+      "company": "KKR-backed Arctos",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/kkr-backed-arctos-brings-in-6-2bn-for-inaugural-gp-solutions-fund.html",
+      "date": "Jul 08, 26",
+      "source": "AltAssets",
       "layer": 1,
       "access": "pe",
-      "score": 22,
+      "score": 18,
       "moments": [
-        "rights_deal",
-        "record_breaking"
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "cd2e83a1a1f6",
+      "title": "Shore Capital acquires HR tech firm ThrivePass",
+      "summary": "ThrivePass was founded by Wade Rosen, Andreas Deptolla, and Charles Shen. The post Shore Capital acquires HR tech firm ThrivePass appeared first on PE Hub.",
+      "company": "Shore Capital",
+      "link": "https://www.pehub.com/shore-capital-acquires-hr-tech-firm-thrivepass/",
+      "date": "Jul 08, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "acquisition",
+        "company_launch"
       ]
     },
     {
@@ -51,76 +85,44 @@
       ]
     },
     {
+      "id": "755adfd68ca5",
+      "title": "Regal Healthcare Capital closes fourth fund on $610m above target",
+      "summary": "Regal Healthcare Capital Partners has held a $610m final close for its fourth flagship fund, making it almost 50% larger than its predecessor vehicle from 2021. The post Regal Healthcare Capital close",
+      "company": "Regal Healthcare Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/regal-healthcare-capital-closes-fourth-fund-on-610m-above-target.html",
+      "date": "Jul 08, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "8a8f64a44435",
+      "title": "Quinbrook exceeds target with \u00a3587m close for second UK renewables fund",
+      "summary": "Energy transition investor Quinbrook has closed its second UK-focused Renewables Impact Fund on \u00a3587m, surpassing its \u00a3500m target. The post Quinbrook exceeds target with \u00a3587m close for second UK ren",
+      "company": "Quinbrook",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/quinbrook-exceeds-target-with-587m-close-for-second-uk-renewables-fund.html",
+      "date": "Jul 08, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
       "id": "840e4a7872be",
       "title": "Climentum Capital reaches \u20ac60m first close for second climate hard tech fund",
       "summary": "Nordic venture investor Climentum Capital has held a \u20ac60m first close for its second fund, which is set to continue the firm's strategy of backing European hard-tech climate startups. The post Climent",
       "company": "Climentum Capital",
       "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/denmark-western-europe-europe-by-region/climentum-capital-reaches-e60m-first-close-for-second-climate-hard-tech-fund.html",
       "date": "Jul 07, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "e0076fb3cddd",
-      "title": "Deep tech investor Drumbeat Capital launches debut fund targeting $50m",
-      "summary": "Deep tech-focused venture investor Drumbeat Capital has launched its debut fund with a goal of up to $50m, a new filing from the US SEC shows. The post Deep tech investor Drumbeat Capital launches deb",
-      "company": "Deep tech investor Drumbeat Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/deep-tech-investor-drumbeat-capital-launches-debut-fund-targeting-50m.html",
-      "date": "Jul 07, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "e7783e44221d",
-      "title": "CVC doubles Catalyst III target at final close of latest European mid-market fund",
-      "summary": "CVC Capital Partners has raised about \u20ac3bn at the final close of its third Catalyst fund, almost doubling its \u20ac1.75bn target. The post CVC doubles Catalyst III target at final close of latest European",
-      "company": "CVC doubles Catalyst III target at final",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/cvc-doubles-catalyst-iii-target-at-final-close-of-latest-european-mid-market-fund.html",
-      "date": "Jul 06, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "fa97a750ec7a",
-      "title": "Magnify Ventures closes $46.6m Fund II to back AI infrastructure for care economy",
-      "summary": "Magnify Ventures has raised $46.6m for its second venture fund, deepening its focus on early-stage companies building AI infrastructure for the care economy. The post Magnify Ventures closes $46.6m Fu",
-      "company": "Magnify Ventures",
-      "link": "https://www.altassets.net/private-equity-news/by-news-type/fund-news/funds-closed/magnify-ventures-closes-46-6m-fund-ii-to-back-ai-infrastructure-for-care-economy.html",
-      "date": "Jul 03, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "b2d1b5f48d73",
-      "title": "Azalea launches first evergreen private equity fund with $350m anchor commitments",
-      "summary": "Singapore-based private markets investor Azalea has launched its first evergreen private equity fund, securing $350m in initial commitments from a group of anchor investors as it expands its range of ",
-      "company": "Azalea",
-      "link": "https://www.altassets.net/private-equity-news/by-region/asia-by-region/azalea-launches-first-evergreen-private-equity-fund-with-350m-anchor-commitments.html",
-      "date": "Jul 03, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -162,21 +164,6 @@
       ]
     },
     {
-      "id": "bca4baf0764e",
-      "title": "Paramount Set to Exit Universal Joint Venture as Condition for EU Approval of Mega-Merger With Warner Bros. Discovery",
-      "summary": "Paramount will exit its United International Pictures distribution joint venture with Universal&#160;as a condition for EU approval of its $111 billion takeover of Warner Bros. Discovery. The move is ",
-      "company": "Paramount Set",
-      "link": "https://variety.com/2026/biz/global/paramount-exit-universal-uip-venture-eu-approval-merger-1236799919/",
-      "date": "Jul 01, 26",
-      "source": "Variety Biz",
-      "layer": 3,
-      "access": "venture",
-      "score": 17,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
       "id": "6c250e94b064",
       "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
       "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
@@ -187,6 +174,21 @@
       "layer": 2,
       "access": "pe",
       "score": 16,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "18e089737c02",
+      "title": "NIL Era\u2019s Goofiest Lawsuit Hinges on Agent\u2019s \u2018Employee\u2019 Status",
+      "summary": "As the NIL era continues to blur long-standing distinctions in college sports, the industry\u2019s latest legal fight over money doesn\u2019t involve an athlete, school, conference or governing body. Instead, i",
+      "company": "NIL Era\u2019s Goofiest Lawsuit Hinges",
+      "link": "https://www.sportico.com/leagues/college-sports/2026/young-money-apaa-noah-reisenfeld-lawsuit-1234938225/",
+      "date": "Jul 08, 26",
+      "source": "Sportico",
+      "layer": 1,
+      "access": "pe",
+      "score": 15,
       "moments": [
         "company_launch"
       ]
@@ -204,36 +206,6 @@
       "score": 15,
       "moments": [
         "acquisition"
-      ]
-    },
-    {
-      "id": "89d7c921e823",
-      "title": "Charli xcx to Stage \u2018Music, Fashion, Film\u2019 Album-Listening Sessions in 25 Cities Across the Globe",
-      "summary": "Charli xcx has announced global tour dates in support of her forthcoming seventh studio album, \u201cMusic, Fashion, Film,\u201d out July 24. The sessions will take place in independent theaters in cities all a",
-      "company": "Charli",
-      "link": "https://variety.com/2026/music/news/charli-xcx-music-fashion-film-album-listening-sessions-1236802342/",
-      "date": "Jul 06, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "tour_announcement"
-      ]
-    },
-    {
-      "id": "98de7e97082a",
-      "title": "Missy Higgins, The Teskey Brothers and ICEHOUSE to Headline New Sydney Concert Series",
-      "summary": "The new Fuzzy-presented series will take over the Fleet Steps at Mrs Macquarie\u2019s Point with a floating stage.",
-      "company": "Missy Higgins The Teskey Brothers",
-      "link": "https://www.billboard.com/music/concerts/missy-higgins-teskey-brothers-icehouse-headline-sydney-concert-series-the-point-1236288672/",
-      "date": "Jul 07, 26",
-      "source": "Billboard",
-      "layer": 1,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "festival_headliner"
       ]
     },
     {
@@ -282,28 +254,13 @@
       ]
     },
     {
-      "id": "36b1b9a702d2",
-      "title": "Alabama Shakes announce new album \u2018I Must Be Dreaming\u2019 and tease single \u2018I Feel Hope Coming\u2019",
-      "summary": "Their third studio LP is set to drop later this summer The post Alabama Shakes announce new album &#8216;I Must Be Dreaming&#8217; and tease single &#8216;I Feel Hope Coming&#8217; appeared first on N",
-      "company": "Alabama Shakes",
-      "link": "https://www.nme.com/news/music/alabama-shakes-announce-new-album-i-must-be-dreaming-and-tease-single-i-feel-hope-coming-3955511?utm_source=rss&utm_medium=rss&utm_campaign=alabama-shakes-announce-new-album-i-must-be-dreaming-and-tease-single-i-feel-hope-coming",
-      "date": "Jul 07, 26",
+      "id": "e2a5382e6554",
+      "title": "Gilla Band announce new album \u2018Pugnello\u2019 and share abrasive single \u2018Placeholder\u2019",
+      "summary": "The new song was inspired by anxious childhood memories of 'Big Brother', 'Power Rangers' and \"a dangerous amount of Coldplay\" The post Gilla Band announce new album &#8216;Pugnello&#8217; and share a",
+      "company": "Gilla Band",
+      "link": "https://www.nme.com/news/music/gilla-band-announce-new-album-pugnello-and-share-abrasive-single-placeholder-3955619?utm_source=rss&utm_medium=rss&utm_campaign=gilla-band-announce-new-album-pugnello-and-share-abrasive-single-placeholder",
+      "date": "Jul 08, 26",
       "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "1267151eb0d6",
-      "title": "Soft Palms are rewriting the rules of the music business from a Long Beach studio",
-      "summary": "With a new album titled \"In Echo\" out Friday, husband-and-wife duo Scott Montoya and Julia Kugel also share secrets of how to survive and thrive as indie artists through a new book about the DIY music",
-      "company": "Soft Palms",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-06-19/soft-palms-new-album-book-are-rooted-in-diy-work-ethic",
-      "date": "Jun 19, 26",
-      "source": "LA Times Music",
       "layer": 1,
       "access": "pe",
       "score": 11,
@@ -324,6 +281,21 @@
       "score": 11,
       "moments": [
         "festival_headliner"
+      ]
+    },
+    {
+      "id": "69f701afdbc2",
+      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies \u2014 the infrastructure a",
+      "company": "Ashton Kutcher",
+      "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+      "date": "Jul 01, 26",
+      "source": "TechCrunch Venture",
+      "layer": 1,
+      "access": "venture",
+      "score": 11,
+      "moments": [
+        "fund_launch"
       ]
     },
     {
@@ -362,7 +334,7 @@
       "summary": "In the 1990s, he took 80 of the art institution\u2019s paintings on tour \u2014 going against the founder\u2019s wishes \u2014 to raise money for a renovation.",
       "company": "Richard",
       "link": "https://www.nytimes.com/2026/07/06/arts/design/richard-h-glanton-dead.html",
-      "date": "Jul 06, 26",
+      "date": "Jul 07, 26",
       "source": "NYT Arts",
       "layer": 2,
       "access": "pe",
@@ -372,63 +344,18 @@
       ]
     },
     {
-      "id": "93cc47ef6910",
-      "title": "USA 1-4 Belgium: World Cup 2026 last 16 \u2013 as it happened",
-      "summary": "The tournament co-hosts crashed out with a disappointing display as Belgium proved too strong an opponentThrough four games, Belgium have retained 57% of possession with a 65% field tilt \u2013 a possessio",
-      "company": "USA 1-4 Belgium",
-      "link": "https://www.theguardian.com/football/live/2026/jul/06/usa-v-belgium-world-cup-2026-last-16-live",
-      "date": "Jul 07, 26",
-      "source": "Guardian Sport",
-      "layer": 5,
+      "id": "056e0f3952e0",
+      "title": "How Ryan Beatty learned to love a love song",
+      "summary": "The former Radio Disney teen heartthrob, raised Mormon and now openly gay, trades the bruised introspection of 2023's \"Calico\" for songs that exult in desire on his new album, \"Sweet Fortune.\"",
+      "company": "How Ryan Beatty",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-06-24/ryan-beatty-sweet-fortune-interview",
+      "date": "Jun 24, 26",
+      "source": "LA Times Music",
+      "layer": 1,
       "access": "pe",
       "score": 9,
       "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "0d1473735430",
-      "title": "I Squared to acquire Milestone Environmental from SK Capital",
-      "summary": "Milestone owns and operates 15 fully permitted disposal facilities for oil and gas drilling, completion, and production waste streams strategically located across the most active US energy basins. The",
-      "company": "I Squared to",
-      "link": "https://www.pehub.com/i-squared-to-acquire-milestone-environmental-from-sk-capital/",
-      "date": "Jul 07, 26",
-      "source": "PE Hub",
-      "layer": 4,
-      "access": "pe",
-      "score": 8,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "809afc9db02e",
-      "title": "Lakers trading Deandre Ayton to the Wizards for Jaden Hardy, draft picks",
-      "summary": "The 7-foot Ayton became expendabe after the Lakers acquired 24-year-old center Walker Kessler in a sign-and-trade deal with the Utah Jazz.",
-      "company": "Lakers",
-      "link": "https://www.latimes.com/sports/lakers/story/2026-07-03/lakers-trade-deandre-ayton-to-wizards-for-jaden-hardy-draft-picks",
-      "date": "Jul 03, 26",
-      "source": "LA Times Sports",
-      "layer": 4,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "dfcd497f3dca",
-      "title": "The US had the biggest opportunity in the history of American soccer. They wasted it | Alexander Abnos",
-      "summary": "The USMNT\u2019s run at a home World Cup had attracted people who usually ignore soccer. Instead of triumph, they saw a humbling at the hands of BelgiumIn the closing moments of the United States\u2019 3-2 win ",
-      "company": "The US",
-      "link": "https://www.theguardian.com/football/2026/jul/07/usmnt-world-cup-belgium",
-      "date": "Jul 07, 26",
-      "source": "Guardian Sport",
-      "layer": 3,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "company_launch"
+        "album_announcement"
       ]
     },
     {
@@ -447,16 +374,42 @@
       ]
     },
     {
-      "id": "4561708cdfa1",
-      "title": "UL Research Institutes Appoints Elena Zinchenko, Ed.D. as Chief Program Development Officer to Expand Strategic Partnerships and External Funding",
-      "summary": "In the news release, UL Research Institutes Appoints Elena Zinchenko, Ed.D. as Chief Program Development Officer to Expand Strategic Partnerships and External Funding, issued 07-Jul-2026 by UL Researc",
-      "company": "",
-      "link": "https://www.prnewswire.com/news-releases/ul-research-institutes-appoints-elena-zinchenko-edd-as-chief-program-development-officer-to-expand-strategic-partnerships-and-external-funding-302818953.html",
+      "id": "736ec96001d6",
+      "title": "Atl\u00e9tico Madrid, Live Nation Espa\u00f1a Strike 10-Year Concert Deal for Riyadh Air Metropolitano",
+      "summary": "The agreement gives Live Nation a long-term foothold at Atl\u00e9tico\u2019s stadium and wider sports-city development, while adding direct concert ticket... The post Atl\u00e9tico Madrid, Live Nation Espa\u00f1a Strike ",
+      "company": "Atl\u00e9tico Madrid Live Nation Espa\u00f1a Strike",
+      "link": "https://www.ticketnews.com/2026/07/atletico-madrid-live-nation-espana-strike-10-year-concert-deal-for-riyadh-air-metropolitano/",
       "date": "Jul 07, 26",
+      "source": "Ticket News",
+      "layer": 2,
+      "access": "pe",
+      "score": 16,
+      "moments": []
+    },
+    {
+      "id": "13a8de94fe6b",
+      "title": "TicketSocket Partners With StubHub, viagogo on Distribution",
+      "summary": "The white-label ticketing platform says clients will be able to push inventory directly into StubHub and viagogo\u2019s global marketplaces without... The post TicketSocket Partners With StubHub, viagogo o",
+      "company": "TicketSocket Partners With StubHub",
+      "link": "https://www.ticketnews.com/2026/07/ticketsocket-partners-with-stubhub-viagogo-on-distribution/",
+      "date": "Jul 08, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 11,
+      "moments": []
+    },
+    {
+      "id": "3b69124041f2",
+      "title": "Lost Money on Verra Mobility Corporation (VRRM)? Join Class Action Suit Seeking Recovery - Contact Levi &amp; Korsinsky",
+      "summary": "Alert: Claims Focus on Alleged Misrepresentations About the Durability of Verra Mobility's Largest Customer Contract and the $35 Million Revenue Hole Left by Avis Budget Group's Termination NEW YORK, ",
+      "company": "Lost Money",
+      "link": "https://www.prnewswire.com/news-releases/lost-money-on-verra-mobility-corporation-vrrm-join-class-action-suit-seeking-recovery---contact-levi--korsinsky-302819300.html",
+      "date": "Jul 08, 26",
       "source": "PR Newswire",
       "layer": 2,
       "access": "pe",
-      "score": 11,
+      "score": 10,
       "moments": []
     },
     {
@@ -473,42 +426,29 @@
       "moments": []
     },
     {
-      "id": "32bba3c40f19",
-      "title": "Global Biopharmaceutical Processing Equipment &amp; Consumables Market is Anticipated to Cross the USD 110 Billion Mark by 2034 | DelveInsight",
-      "summary": "The biopharmaceutical processing equipment & consumables market is witnessing robust growth, driven by the rising production of biologics, biosimilars, vaccines, and advanced cell and gene therapies. ",
-      "company": "",
-      "link": "https://www.prnewswire.com/news-releases/global-biopharmaceutical-processing-equipment--consumables-market-is-anticipated-to-cross-the-usd-110-billion-mark-by-2034--delveinsight-302819126.html",
+      "id": "f3c471789c95",
+      "title": "WME Group Promotes Marie Sheehy to Executive VP and Head of Corporate Communications",
+      "summary": "WME veteran Marie Sheehy has been promoted to executive VP and head of corporate communications for WME Group. A respected communications executive, Sheehy oversees all communications strategy and ope",
+      "company": "WME Group Promotes Marie Sheehy",
+      "link": "https://variety.com/2026/biz/news/marie-sheehy-wme-agency-head-corporate-communications-1236802947/",
       "date": "Jul 07, 26",
-      "source": "PR Newswire",
+      "source": "Variety Biz",
       "layer": 4,
       "access": "pe",
-      "score": 8,
+      "score": 6,
       "moments": []
     },
     {
-      "id": "e8d0791ee9ee",
-      "title": "Demand for Hotel Managers Grows Nearly Fivefold Amid Austin Hotel Expansion, OysterLink Finds",
-      "summary": "AUSTIN, Texas, July 7, 2026 /PRNewswire/ -- Demand for Hotel Managers in Austin increased nearly fivefold from the first to the second quarter of 2026, according to a new analysis by hospitality job p",
-      "company": "Demand",
-      "link": "https://www.prnewswire.com/news-releases/demand-for-hotel-managers-grows-nearly-fivefold-amid-austin-hotel-expansion-oysterlink-finds-302819424.html",
+      "id": "bf8c29a2eeac",
+      "title": "Live Nation Asks Judge to Undo Monopoly Verdict, Claiming Jury Followed \u201cEmotional Arguments\u201d Over Law",
+      "summary": "In reply briefs filed July 2, Live Nation and Ticketmaster argue the states won with \u201cmade-for-juries emotional arguments,\u201d not the... The post Live Nation Asks Judge to Undo Monopoly Verdict, Claimin",
+      "company": "Live Nation Asks Judge",
+      "link": "https://www.ticketnews.com/2026/07/live-nation-asks-judge-to-undo-monopoly-verdict-claiming-jury-followed-emotional-arguments-over-law/",
       "date": "Jul 07, 26",
-      "source": "PR Newswire",
-      "layer": 4,
+      "source": "Ticket News",
+      "layer": 3,
       "access": "pe",
-      "score": 7,
-      "moments": []
-    },
-    {
-      "id": "7528d5628fb9",
-      "title": "NCAA Eligibility Lawsuits Continue Even with New Rules",
-      "summary": "I recently wrote that the NCAA\u2019s new eligibility rules will&#160;deter lawsuits&#160;brought by students who wish to remain college athletes after they\u2019ve exhausted their NCAA eligibility. I stand by ",
-      "company": "NCAA Eligibility Lawsuits Continue Even",
-      "link": "https://www.sportico.com/law/analysis/2026/ncaa-eligibility-rules-lawsuits-filip-borovicanin-1234938044/",
-      "date": "Jul 07, 26",
-      "source": "Sportico",
-      "layer": 4,
-      "access": "pe",
-      "score": 5,
+      "score": 6,
       "moments": []
     },
     {
@@ -538,16 +478,16 @@
       "moments": []
     },
     {
-      "id": "6f9fdc851ba3",
-      "title": "No World Cup jobs bump evident in June data",
-      "summary": "With the U.S. hosting the World Cup, there have been plenty of anecdotes about a booming tourism economy in host cities \u2014 Scotland fans drinking Boston bars out of beer, for example.But no World Cup h",
-      "company": "No World Cup",
-      "link": "https://www.axios.com/2026/07/02/jobs-data-world-cup",
-      "date": "Jul 02, 26",
-      "source": "Axios",
-      "layer": 4,
+      "id": "7cef7bdb73f3",
+      "title": "Tsingke Highlights AI-Driven CLDN18.2 Antibody Discovery at AIS 2026",
+      "summary": "MONTPELLIER, France, July 8, 2026 /PRNewswire/ -- Tsingke, a provider of integrated life science research solutions, participated in the Antibody Industrial Symposium (AIS) 2026, one of Europe's leadi",
+      "company": "",
+      "link": "https://www.prnewswire.com/news-releases/tsingke-highlights-ai-driven-cldn18-2-antibody-discovery-at-ais-2026--302820198.html",
+      "date": "Jul 08, 26",
+      "source": "PR Newswire",
+      "layer": 3,
       "access": "pe",
-      "score": 5,
+      "score": 4,
       "moments": []
     },
     {
