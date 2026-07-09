@@ -1,24 +1,7 @@
 {
-  "generated": "2026-07-08T14:25:22.520445+00:00",
-  "total": 34,
+  "generated": "2026-07-09T15:20:05.641372+00:00",
+  "total": 31,
   "scraped": [
-    {
-      "id": "b099116f02aa",
-      "title": "Facebook co-founder\u2019s B Capital hits $500m hard cap for third early-stage AI fund",
-      "summary": "Global investment firm B Capital, created by Facebook co-founder Eduardo Saverin, has raised $500m for the hard cap close of its third Ascent fund - nearly doubling the size of its predecessor vehicle",
-      "company": "Facebook",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/facebook-co-founders-b-capital-hits-500m-hard-cap-for-third-early-stage-ai-fund.html",
-      "date": "Jul 08, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 20,
-      "moments": [
-        "pe_investment",
-        "fund_launch",
-        "company_launch"
-      ]
-    },
     {
       "id": "452b83b14af1",
       "title": "Deal Roundup: Advent\u2019s Cobham Ultra sells Ultra Maritime to Lockheed Martin in $3.45bn deal",
@@ -37,60 +20,44 @@
       ]
     },
     {
-      "id": "04c0617c2132",
-      "title": "KKR-backed Arctos brings in $6.2bn for inaugural GP solutions fund",
-      "summary": "KKR-owned investor Arctos has held a $6.2bn final close for its inaugural GP solutions fund, significantly exceeding its $4bn target and establishing what the firm said is the largest first-time fund ",
-      "company": "KKR-backed Arctos",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/kkr-backed-arctos-brings-in-6-2bn-for-inaugural-gp-solutions-fund.html",
-      "date": "Jul 08, 26",
+      "id": "a89159cc2fde",
+      "title": "Andera Partners raises record \u20ac430m for fourth expansion fund after lifting hard cap twice",
+      "summary": "Andera Partners has held the final close of its fourth expansion capital fund on \u20ac430m, exceeding its original \u20ac350m hard cap after increasing the limit twice to accommodate strong investor demand. Th",
+      "company": "Andera Partners",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/france-western-europe-europe-by-region/andera-partners-raises-record-e430m-for-fourth-expansion-fund-after-lifting-hard-cap-twice.html",
+      "date": "Jul 09, 26",
       "source": "AltAssets",
-      "layer": 1,
+      "layer": 5,
       "access": "pe",
-      "score": 18,
+      "score": 19,
       "moments": [
         "pe_investment",
         "fund_launch"
       ]
     },
     {
-      "id": "cd2e83a1a1f6",
-      "title": "Shore Capital acquires HR tech firm ThrivePass",
-      "summary": "ThrivePass was founded by Wade Rosen, Andreas Deptolla, and Charles Shen. The post Shore Capital acquires HR tech firm ThrivePass appeared first on PE Hub.",
-      "company": "Shore Capital",
-      "link": "https://www.pehub.com/shore-capital-acquires-hr-tech-firm-thrivepass/",
-      "date": "Jul 08, 26",
-      "source": "PE Hub",
+      "id": "42b4f161880f",
+      "title": "TPG, Blackstone said to explore $4bn-plus Hologic surgical unit sale, PSG backs BrightAnalytics",
+      "summary": "TPG and Blackstone are exploring the sale of the surgical division of recently acquired medtech company Hologic in a deal expected to fetch more than $4bn, according to the Financial Times. The post T",
+      "company": "TPG Blackstone",
+      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/tpg-blackstone-said-to-explore-4bn-plus-hologic-surgical-unit-sale-psg-backs-brightanalytics.html",
+      "date": "Jul 09, 26",
+      "source": "AltAssets",
       "layer": 5,
       "access": "pe",
-      "score": 16,
+      "score": 13,
       "moments": [
         "acquisition",
-        "company_launch"
+        "pe_investment"
       ]
     },
     {
-      "id": "968b8e210d04",
-      "title": "Seedcamp raises $320M for its new fund to expand its US footprint",
-      "summary": "After 18 years of focusing on Europe, early-stage investor Seedcamp said that it has raised $320 million for its latest fund, which will see it expanding its presence in the United States.",
-      "company": "Seedcamp",
-      "link": "https://techcrunch.com/2026/06/22/seedcamp-raises-320m-for-its-new-fund-to-expand-its-us-footprint/",
-      "date": "Jun 22, 26",
-      "source": "TechCrunch Venture",
-      "layer": 1,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "funding_round",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "755adfd68ca5",
-      "title": "Regal Healthcare Capital closes fourth fund on $610m above target",
-      "summary": "Regal Healthcare Capital Partners has held a $610m final close for its fourth flagship fund, making it almost 50% larger than its predecessor vehicle from 2021. The post Regal Healthcare Capital close",
-      "company": "Regal Healthcare Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/regal-healthcare-capital-closes-fourth-fund-on-610m-above-target.html",
-      "date": "Jul 08, 26",
+      "id": "a943249d24ca",
+      "title": "Serent Capital takes less than 90 days to close $1.3bn Fund VI, its biggest fund yet",
+      "summary": "Serent Capital has sped to a $1.3bn final close for its latest flagship fund, via to an oversubscribed raise which was completed in less than 90 days. The post Serent Capital takes less than 90 days t",
+      "company": "Serent Capital takes less than 90 days to",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/serent-capital-takes-less-than-90-days-to-close-1-3bn-fund-vi.html",
+      "date": "Jul 09, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -101,12 +68,12 @@
       ]
     },
     {
-      "id": "8a8f64a44435",
-      "title": "Quinbrook exceeds target with \u00a3587m close for second UK renewables fund",
-      "summary": "Energy transition investor Quinbrook has closed its second UK-focused Renewables Impact Fund on \u00a3587m, surpassing its \u00a3500m target. The post Quinbrook exceeds target with \u00a3587m close for second UK ren",
-      "company": "Quinbrook",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/quinbrook-exceeds-target-with-587m-close-for-second-uk-renewables-fund.html",
-      "date": "Jul 08, 26",
+      "id": "cc9b7fd59427",
+      "title": "SkyKnight Capital hits $2bn hard cap for fifth flagship fund",
+      "summary": "SkyKnight Capital has held a final close for its fifth flagship buyout fund at its $2bn hard cap, completing the oversubscribed fundraising in less than six months. The post SkyKnight Capital hits $2b",
+      "company": "SkyKnight Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/skyknight-capital-hits-2bn-hard-cap-for-fifth-flagship-fund.html",
+      "date": "Jul 09, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -117,12 +84,12 @@
       ]
     },
     {
-      "id": "840e4a7872be",
-      "title": "Climentum Capital reaches \u20ac60m first close for second climate hard tech fund",
-      "summary": "Nordic venture investor Climentum Capital has held a \u20ac60m first close for its second fund, which is set to continue the firm's strategy of backing European hard-tech climate startups. The post Climent",
-      "company": "Climentum Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/denmark-western-europe-europe-by-region/climentum-capital-reaches-e60m-first-close-for-second-climate-hard-tech-fund.html",
-      "date": "Jul 07, 26",
+      "id": "e747d52c0e88",
+      "title": "M\u00e9rieux Equity Partners more than halfway to Fund V target through \u20ac335m first close",
+      "summary": "M\u00e9rieux Equity Partners has hit a \u20ac335m first close for its fifth healthcare buyout fund, reaching more than half of its \u20ac600m target just four months after launching the vehicle. The post M\u00e9rieux Equ",
+      "company": "M\u00e9rieux Equity Partners",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/france-western-europe-europe-by-region/merieux-equity-partners-more-than-halfway-to-fund-v-target-through-e335m-first-close.html",
+      "date": "Jul 09, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -164,6 +131,36 @@
       ]
     },
     {
+      "id": "7b68912649a2",
+      "title": "Justin Bieber Joins Madonna, BTS and Shakira for FIFA World Cup Final Halftime Show",
+      "summary": "Justin Bieber has been added as a performer to the FIFA World Cup Final Halftime Show, joining the lineup as a co-headliner alongside Madonna, Shakira and BTS. FIFA and Global Citizen are staging the ",
+      "company": "Justin Bieber Joins Madonna BTS",
+      "link": "https://variety.com/2026/music/news/justin-bieber-joins-fifa-world-cup-final-haltime-show-1236804858/",
+      "date": "Jul 08, 26",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "5eb42acbef70",
+      "title": "\u2018We\u2019ve had moments of devastating pain\u2019: jazz icons Ezra Collective on their new album \u2013 and why we can\u2019t rely on the government",
+      "summary": "Speaking at a Guardian Live event at Love Supreme festival, the band tell us about lessons with Tony Allen, mayhem in Lagos and why musicians should be \u2018pillars of the community\u2019At Sussex\u2019s Love Supre",
+      "company": "\u2018We\u2019ve",
+      "link": "https://www.theguardian.com/music/2026/jul/09/weve-had-moments-of-devastating-pain-jazz-icons-ezra-collective-on-their-new-album-and-why-we-cant-rely-on-the-government",
+      "date": "Jul 09, 26",
+      "source": "Guardian Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
       "id": "6c250e94b064",
       "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
       "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
@@ -174,21 +171,6 @@
       "layer": 2,
       "access": "pe",
       "score": 16,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "18e089737c02",
-      "title": "NIL Era\u2019s Goofiest Lawsuit Hinges on Agent\u2019s \u2018Employee\u2019 Status",
-      "summary": "As the NIL era continues to blur long-standing distinctions in college sports, the industry\u2019s latest legal fight over money doesn\u2019t involve an athlete, school, conference or governing body. Instead, i",
-      "company": "NIL Era\u2019s Goofiest Lawsuit Hinges",
-      "link": "https://www.sportico.com/leagues/college-sports/2026/young-money-apaa-noah-reisenfeld-lawsuit-1234938225/",
-      "date": "Jul 08, 26",
-      "source": "Sportico",
-      "layer": 1,
-      "access": "pe",
-      "score": 15,
       "moments": [
         "company_launch"
       ]
@@ -206,6 +188,81 @@
       "score": 15,
       "moments": [
         "acquisition"
+      ]
+    },
+    {
+      "id": "9cad822c4860",
+      "title": "PE firms step up climate risk analysis as extreme weather reshapes investment decisions",
+      "summary": "Private equity firms are placing greater emphasis on physical climate risk as increasingly severe weather events begin to influence investment performance, portfolio valuations and exit planning, acco",
+      "company": "PE",
+      "link": "https://www.privateequitywire.co.uk/pe-firms-step-up-climate-risk-analysis-as-extreme-weather-reshapes-investment-decisions/",
+      "date": "Jul 09, 26",
+      "source": "PE Wire",
+      "layer": 1,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "f50f88e257c8",
+      "title": "Rays Tout New Stadium Designs as Funding Talks Continue",
+      "summary": "Nathan Ray Seebeck-Imagn Images",
+      "company": "Rays Tout New Stadium Designs",
+      "link": "https://frontofficesports.com/rays-tout-new-stadium-designs-as-funding-talks-continue/",
+      "date": "Jul 09, 26",
+      "source": "Front Office Sports",
+      "layer": 2,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "venue_announcement"
+      ]
+    },
+    {
+      "id": "1913e5425307",
+      "title": "The War and Treaty Are Through Playing Nashville\u2019s Game",
+      "summary": "\u201cAny artist watching this, don\u2019t you do that,\u201d says the Grammy-nominated duo, who just released their new album The Story of Michael and Tanya",
+      "company": "The War",
+      "link": "https://www.rollingstone.com/music/music-features/the-war-and-treaty-dont-play-nashville-game-1235590820/",
+      "date": "Jul 08, 26",
+      "source": "Rolling Stone Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "b3ca5b340250",
+      "title": "Ballast Rock hires PPM America\u2019s Michael Welch to lead investor relations and capital formation",
+      "summary": "Ballast Rock Asset Management has appointed Michael Welch as head of investor relations and capital formation, creating a new senior role as the alternative investment manager looks to expand fundrais",
+      "company": "Ballast Rock",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/ballast-rock-hires-ppm-americas-michael-welch-to-lead-investor-relations-and-capital-formation.html",
+      "date": "Jul 09, 26",
+      "source": "AltAssets",
+      "layer": 2,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "7cc003ce4e8f",
+      "title": "Manchester United insist new stadium \u2018not vanity project\u2019 despite prospect of more debt",
+      "summary": "Plan unveiled for ground 350 metres from Old TraffordWorking cost of stadium previously stated as \u00a32bnManchester United have said their proposed new 100,000-capacity stadium may lead to further debt b",
+      "company": "Manchester United",
+      "link": "https://www.theguardian.com/football/2026/jul/09/manchester-united-insist-new-stadium-not-vanity-project-despite-prospect-of-more-debt",
+      "date": "Jul 09, 26",
+      "source": "Guardian Sport",
+      "layer": 2,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "venue_announcement"
       ]
     },
     {
@@ -254,12 +311,12 @@
       ]
     },
     {
-      "id": "e2a5382e6554",
-      "title": "Gilla Band announce new album \u2018Pugnello\u2019 and share abrasive single \u2018Placeholder\u2019",
-      "summary": "The new song was inspired by anxious childhood memories of 'Big Brother', 'Power Rangers' and \"a dangerous amount of Coldplay\" The post Gilla Band announce new album &#8216;Pugnello&#8217; and share a",
-      "company": "Gilla Band",
-      "link": "https://www.nme.com/news/music/gilla-band-announce-new-album-pugnello-and-share-abrasive-single-placeholder-3955619?utm_source=rss&utm_medium=rss&utm_campaign=gilla-band-announce-new-album-pugnello-and-share-abrasive-single-placeholder",
-      "date": "Jul 08, 26",
+      "id": "5a4a96e47764",
+      "title": "The Mary Wallopers on \u201cIrish expression\u201d and \u201cheavier\u201d new album \u2018Paddywhackery\u2019: \u201cIf the English knew what happened, they wouldn\u2019t be so quick to be...",
+      "summary": "The rebel folk band spoke to NME about the isolation of being Irish in England, the fallout of having their Victorious 2025 set cut off, not shying away from \"saying something that\u2019s right\", and more,",
+      "company": "The Mary Wallopers",
+      "link": "https://www.nme.com/news/music/the-mary-wallopers-on-irish-expression-and-heavier-new-album-paddywhackery-if-the-ordinary-english-person-knew-what-happened-they-wouldnt-be-so-quick-to-b-3955839?utm_source=rss&utm_medium=rss&utm_campaign=the-mary-wallopers-on-irish-expression-and-heavier-new-album-paddywhackery-if-the-ordinary-english-person-knew-what-happened-they-wouldnt-be-so-quick-to-b",
+      "date": "Jul 09, 26",
       "source": "NME",
       "layer": 1,
       "access": "pe",
@@ -269,18 +326,18 @@
       ]
     },
     {
-      "id": "b50d41a1338e",
-      "title": "\u2018I was there!\u2019 Writers remember legendary gigs by Beyonc\u00e9, Brian Wilson, Britney, Oasis, Daft Punk and more",
-      "summary": "What\u2019s it like to catch a gig so great it goes down in history? Our writers relive incredible performances by everyone from Amy Winehouse at the North Sea jazz festival to Kanye West at GlastonburyTal",
-      "company": "Writers",
-      "link": "https://www.theguardian.com/music/2026/jul/06/legendary-gigs-beyonce-brian-wilson-britney-oasis-daft-punk-amy-winehouse-kanye-west",
-      "date": "Jul 06, 26",
+      "id": "108f44982c8b",
+      "title": "R&B star Syd on her new album, the return of the Internet and Odd Future fallouts: \u2018We only had three meetings as a group and I called two of them\u2019",
+      "summary": "She was a member of the influential rap collective, then the alt-R&amp;B hitmakers \u2013 but struggled to find her own voice. Now, after realising she \u2018didn\u2019t like anybody else\u2019s beats\u2019, she\u2019s made a solo",
+      "company": "R&B",
+      "link": "https://www.theguardian.com/music/2026/jul/09/syd-odd-future-internet-music-interview-beard-broken-hearts-club",
+      "date": "Jul 09, 26",
       "source": "Guardian Music",
       "layer": 1,
       "access": "pe",
       "score": 11,
       "moments": [
-        "festival_headliner"
+        "album_announcement"
       ]
     },
     {
@@ -314,48 +371,18 @@
       ]
     },
     {
-      "id": "e5830463e61b",
-      "title": "Harry Styles Sets Wembley Stadium Residency Record With 12 Shows",
-      "summary": "Harry Styles has earned a new Guinness World Record after completing a record-breaking residency at London&#8217;s Wembley Stadium. The singer... The post Harry Styles Sets Wembley Stadium Residency R",
-      "company": "Harry Styles Sets Wembley Stadium Residency",
-      "link": "https://www.ticketnews.com/2026/07/harry-styles-sets-wembley-stadium-residency-record-with-12-shows/",
-      "date": "Jul 07, 26",
-      "source": "Ticket News",
-      "layer": 2,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "record_breaking"
-      ]
-    },
-    {
-      "id": "354e9e44ec9d",
-      "title": "Richard H. Glanton, Combative Head of Barnes Foundation, Dies at 79",
-      "summary": "In the 1990s, he took 80 of the art institution\u2019s paintings on tour \u2014 going against the founder\u2019s wishes \u2014 to raise money for a renovation.",
-      "company": "Richard",
-      "link": "https://www.nytimes.com/2026/07/06/arts/design/richard-h-glanton-dead.html",
-      "date": "Jul 07, 26",
-      "source": "NYT Arts",
+      "id": "1988e9513642",
+      "title": "Owners of New York\u2019s Legendary Caf\u00e9 Wha? to Open New Venue in the City",
+      "summary": "Located just two blocks away from Caf\u00e9 Wha, the new 200-cap club will host folk, Americana, jazz, rock and more.",
+      "company": "Owners",
+      "link": "https://www.billboard.com/pro/owners-of-cafe-wha-to-open-new-nyc-venue/",
+      "date": "Jul 09, 26",
+      "source": "Billboard",
       "layer": 2,
       "access": "pe",
       "score": 9,
       "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "056e0f3952e0",
-      "title": "How Ryan Beatty learned to love a love song",
-      "summary": "The former Radio Disney teen heartthrob, raised Mormon and now openly gay, trades the bruised introspection of 2023's \"Calico\" for songs that exult in desire on his new album, \"Sweet Fortune.\"",
-      "company": "How Ryan Beatty",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-06-24/ryan-beatty-sweet-fortune-interview",
-      "date": "Jun 24, 26",
-      "source": "LA Times Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "album_announcement"
+        "venue_announcement"
       ]
     },
     {
@@ -374,19 +401,6 @@
       ]
     },
     {
-      "id": "736ec96001d6",
-      "title": "Atl\u00e9tico Madrid, Live Nation Espa\u00f1a Strike 10-Year Concert Deal for Riyadh Air Metropolitano",
-      "summary": "The agreement gives Live Nation a long-term foothold at Atl\u00e9tico\u2019s stadium and wider sports-city development, while adding direct concert ticket... The post Atl\u00e9tico Madrid, Live Nation Espa\u00f1a Strike ",
-      "company": "Atl\u00e9tico Madrid Live Nation Espa\u00f1a Strike",
-      "link": "https://www.ticketnews.com/2026/07/atletico-madrid-live-nation-espana-strike-10-year-concert-deal-for-riyadh-air-metropolitano/",
-      "date": "Jul 07, 26",
-      "source": "Ticket News",
-      "layer": 2,
-      "access": "pe",
-      "score": 16,
-      "moments": []
-    },
-    {
       "id": "13a8de94fe6b",
       "title": "TicketSocket Partners With StubHub, viagogo on Distribution",
       "summary": "The white-label ticketing platform says clients will be able to push inventory directly into StubHub and viagogo\u2019s global marketplaces without... The post TicketSocket Partners With StubHub, viagogo o",
@@ -400,29 +414,16 @@
       "moments": []
     },
     {
-      "id": "3b69124041f2",
-      "title": "Lost Money on Verra Mobility Corporation (VRRM)? Join Class Action Suit Seeking Recovery - Contact Levi &amp; Korsinsky",
-      "summary": "Alert: Claims Focus on Alleged Misrepresentations About the Durability of Verra Mobility's Largest Customer Contract and the $35 Million Revenue Hole Left by Avis Budget Group's Termination NEW YORK, ",
-      "company": "Lost Money",
-      "link": "https://www.prnewswire.com/news-releases/lost-money-on-verra-mobility-corporation-vrrm-join-class-action-suit-seeking-recovery---contact-levi--korsinsky-302819300.html",
-      "date": "Jul 08, 26",
-      "source": "PR Newswire",
-      "layer": 2,
-      "access": "pe",
-      "score": 10,
-      "moments": []
-    },
-    {
-      "id": "e94519307feb",
-      "title": "Garth Brooks Announces \u2018Blame It All On My Roots\u2019 Arena Tour",
-      "summary": "Garth Brooks has announced the \u201cBlame It All On My Roots\u201d tour, a run of performances designed to bring his... The post Garth Brooks Announces \u2018Blame It All On My Roots\u2019 Arena Tour appeared first on T",
-      "company": "Garth Brooks Announces \u2018Blame It All",
-      "link": "https://www.ticketnews.com/2026/07/garth-brooks-announces-blame-it-all-on-my-roots-arena-tour/",
-      "date": "Jul 07, 26",
+      "id": "55be16327f02",
+      "title": "AXS Named Official Ticketing Partner of New Texas Health Mansfield Stadium",
+      "summary": "AXS has been selected as the Official Ticketing Partner of Texas Health Mansfield Stadium, the newly opened sports and entertainment... The post AXS Named Official Ticketing Partner of New Texas Healt",
+      "company": "AXS Named Official Ticketing Partner",
+      "link": "https://www.ticketnews.com/2026/07/axs-named-official-ticketing-partner-of-new-texas-health-mansfield-stadium/",
+      "date": "Jul 09, 26",
       "source": "Ticket News",
       "layer": 2,
       "access": "pe",
-      "score": 10,
+      "score": 9,
       "moments": []
     },
     {
@@ -439,55 +440,16 @@
       "moments": []
     },
     {
-      "id": "bf8c29a2eeac",
-      "title": "Live Nation Asks Judge to Undo Monopoly Verdict, Claiming Jury Followed \u201cEmotional Arguments\u201d Over Law",
-      "summary": "In reply briefs filed July 2, Live Nation and Ticketmaster argue the states won with \u201cmade-for-juries emotional arguments,\u201d not the... The post Live Nation Asks Judge to Undo Monopoly Verdict, Claimin",
-      "company": "Live Nation Asks Judge",
-      "link": "https://www.ticketnews.com/2026/07/live-nation-asks-judge-to-undo-monopoly-verdict-claiming-jury-followed-emotional-arguments-over-law/",
-      "date": "Jul 07, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 6,
-      "moments": []
-    },
-    {
-      "id": "e862638b4b6b",
-      "title": "LISTEN: How David Fincher and Zach Cregger Secretly Shaped Netflix\u2019s Video Game-TV Hybrid \u2018Unhinged\u2019",
-      "summary": "On today\u2019s episode of &#8220;Daily Variety&#8221; podcast, Variety\u2019s Jennifer Maas explains how notable directors David Fincher and Zach Cregger helped shape Netflix\u2019s ambitious new property \u201cUnhinged",
-      "company": "LISTEN",
-      "link": "https://variety.com/2026/gaming/news/zach-cregger-david-fincher-unhinged-netflix-video-game-1236801194/",
-      "date": "Jul 02, 26",
-      "source": "Variety Biz",
-      "layer": 3,
-      "access": "venture",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "3623f3a5a9fb",
-      "title": "Canada Will Compete in Eurovision Song Contest",
-      "summary": "The country\u2019s national broadcaster confirmed that it is joining the world\u2019s most popular singing contest next year. Some fans are urging it to send a star like Shania Twain.",
-      "company": "Canada Will Compete",
-      "link": "https://www.nytimes.com/2026/07/01/arts/music/eurovision-song-contest-canada.html",
-      "date": "Jul 01, 26",
-      "source": "NYT Music",
-      "layer": 3,
+      "id": "926693157f9d",
+      "title": "US in talks with Fifa over capitalising on World Cup success with 2029 Club World Cup",
+      "summary": "US officials have held talks with Fifa over tournamentUnclear whether White House has been involvedThe United States has expressed interest in hosting the 2029 Club World Cup as it seeks to capitalise",
+      "company": "US",
+      "link": "https://www.theguardian.com/football/2026/jul/09/us-fifa-talks-hosting-2029-club-world-cup",
+      "date": "Jul 09, 26",
+      "source": "Guardian Sport",
+      "layer": 4,
       "access": "pe",
       "score": 5,
-      "moments": []
-    },
-    {
-      "id": "7cef7bdb73f3",
-      "title": "Tsingke Highlights AI-Driven CLDN18.2 Antibody Discovery at AIS 2026",
-      "summary": "MONTPELLIER, France, July 8, 2026 /PRNewswire/ -- Tsingke, a provider of integrated life science research solutions, participated in the Antibody Industrial Symposium (AIS) 2026, one of Europe's leadi",
-      "company": "",
-      "link": "https://www.prnewswire.com/news-releases/tsingke-highlights-ai-driven-cldn18-2-antibody-discovery-at-ais-2026--302820198.html",
-      "date": "Jul 08, 26",
-      "source": "PR Newswire",
-      "layer": 3,
-      "access": "pe",
-      "score": 4,
       "moments": []
     },
     {
