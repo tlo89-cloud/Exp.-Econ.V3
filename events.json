@@ -1,22 +1,22 @@
 {
-  "generated": "2026-07-09T15:20:05.641372+00:00",
+  "generated": "2026-07-10T14:38:19.670432+00:00",
   "total": 31,
   "scraped": [
     {
-      "id": "452b83b14af1",
-      "title": "Deal Roundup: Advent\u2019s Cobham Ultra sells Ultra Maritime to Lockheed Martin in $3.45bn deal",
-      "summary": "Lockheed Martin has agreed to acquire Ultra Maritime from Advent International-owned Cobham Ultra in a deal valued at $3.45bn. The post Deal Roundup: Advent&#8217;s Cobham Ultra sells Ultra Maritime t",
-      "company": "Deal Roundup",
-      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-advents-cobham-ultra-sells-ultra-maritime-to-lockheed-martin-in-3-45bn-deal.html",
-      "date": "Jul 08, 26",
+      "id": "eb48d1d2b220",
+      "title": "European fundraising splits into tale of \u2018haves\u2019 and \u2018have-nots\u2019 despite dealmaking recovery",
+      "summary": "European private equity entered the second half of 2026 with improving dealmaking and a rebound in headline exit values, but the fundraising market remains under significant pressure as limited partne",
+      "company": "European",
+      "link": "https://www.altassets.net/featured/european-fundraising-splits-into-tale-of-haves-and-have-nots-despite-dealmaking-recovery.html",
+      "date": "Jul 10, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
-      "score": 17,
+      "score": 23,
       "moments": [
-        "acquisition",
-        "valuation",
-        "pe_investment"
+        "festival_headliner",
+        "pe_investment",
+        "lp_commitment"
       ]
     },
     {
@@ -33,6 +33,54 @@
       "moments": [
         "pe_investment",
         "fund_launch"
+      ]
+    },
+    {
+      "id": "ae2313011b95",
+      "title": "Deal Roundup: TA, Reverence to sell Russell Investments to B Capital-led consortium, Warburg investment values Oxylabs at $3.6bn",
+      "summary": "A B Capital-led investor consortium including CalPERS has agreed to acquire Russell Investments from TA Associates and Reverence Capital Partners. The post Deal Roundup: TA, Reverence to sell Russell ",
+      "company": "Deal Roundup",
+      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-ta-reverence-to-sell-russell-investments-to-b-capital-led-consortium-warburg-investment-values-oxylabs-at-3-6bn.html",
+      "date": "Jul 10, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "acquisition",
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "52d74a9ae2e2",
+      "title": "Netflix in Talks to Buy Letterboxd: Report",
+      "summary": "Could Letterboxd, the popular film-review social network, end up in the clutches of Netflix or another big entertainment corporation? Letterboxd, founded in 2011, has been shopping itself to intereste",
+      "company": "Netflix in Talks to Buy Letterboxd",
+      "link": "https://variety.com/2026/digital/news/letterboxd-sales-talks-netflix-sony-paramount-1236806379/",
+      "date": "Jul 10, 26",
+      "source": "Variety Biz",
+      "layer": 3,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "acquisition",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "437882533449",
+      "title": "Apollo tops Castlelake with \u00a35.7bn easyJet bid",
+      "summary": "TOP STORY: Apollo Global Management has emerged as a bidder for easyJet, submitting a \u00a35.7bn takeover proposal that exceeds the latest offer from rival private equity firm Castlelake and intensifies t",
+      "company": "Apollo",
+      "link": "https://www.privateequitywire.co.uk/apollo-tops-castlelake-with-5-7bn-easyjet-bid/",
+      "date": "Jul 10, 26",
+      "source": "PE Wire",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "acquisition",
+        "pe_investment"
       ]
     },
     {
@@ -84,22 +132,6 @@
       ]
     },
     {
-      "id": "e747d52c0e88",
-      "title": "M\u00e9rieux Equity Partners more than halfway to Fund V target through \u20ac335m first close",
-      "summary": "M\u00e9rieux Equity Partners has hit a \u20ac335m first close for its fifth healthcare buyout fund, reaching more than half of its \u20ac600m target just four months after launching the vehicle. The post M\u00e9rieux Equ",
-      "company": "M\u00e9rieux Equity Partners",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/france-western-europe-europe-by-region/merieux-equity-partners-more-than-halfway-to-fund-v-target-through-e335m-first-close.html",
-      "date": "Jul 09, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
       "id": "d468645b4458",
       "title": "Alexis Smith of The Feminine Glow Emerges at the Center of the Feminine Energy Coaching Boom",
       "summary": "DUBAI, UAE &#8211; &#160;The Feminine Glow, the fast-growing femininity and inner work platform founded by Alexis Smith, is gaining national attention as interest in coaching, self-development, and fe",
@@ -128,6 +160,36 @@
       "score": 21,
       "moments": [
         "acquisition"
+      ]
+    },
+    {
+      "id": "be2c738eb4d0",
+      "title": "Montreux Jazz Festival: Why RAYE, Sienna Spiro and More \u2018Feel At Home\u2019 at Legendary Concert Series",
+      "summary": "CEO Mathieu Jaton has led the festival since 2013, inheriting the role from founder Claude Nobs.",
+      "company": "Montreux Jazz Festival",
+      "link": "https://www.billboard.com/music/features/montreux-jazz-festival-2026-sienna-spiro-raye-kwn-1236290646/",
+      "date": "Jul 10, 26",
+      "source": "Billboard",
+      "layer": 1,
+      "access": "venture",
+      "score": 17,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "a0aa3e2ca12f",
+      "title": "Anthony Hopkins to Release Album of Original Compositions",
+      "summary": "The Oscar-winning actor signed a record deal with Decca Classics for Life Is a Dream, which was conducted by Gustavo Dudamel",
+      "company": "Anthony Hopkins",
+      "link": "https://www.rollingstone.com/music/music-news/anthony-hopkins-original-compositions-album-decca-classics-1235591844/",
+      "date": "Jul 10, 26",
+      "source": "Rolling Stone Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 17,
+      "moments": [
+        "record_deal"
       ]
     },
     {
@@ -176,40 +238,10 @@
       ]
     },
     {
-      "id": "1a0c9c2df869",
-      "title": "ITV Boss \u2018Hopeful\u2019 Sky Acquisition Will Clear Regulators: \u2018The Market Has Changed So Fundamentally\u2019",
-      "summary": "Following news on Monday morning that NBCUniversal-owned Sky is acquiring 70-year-old British public service broadcaster ITV, ITV CEO Carolyn McCall joined a series of calls with investors and media t",
-      "company": "ITV Boss \u2018Hopeful\u2019 Sky Acquisition Will",
-      "link": "https://variety.com/2026/biz/global/itv-sky-takeover-carolyn-mccall-regulators-1236802239/",
-      "date": "Jul 06, 26",
-      "source": "Variety Biz",
-      "layer": 3,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "9cad822c4860",
-      "title": "PE firms step up climate risk analysis as extreme weather reshapes investment decisions",
-      "summary": "Private equity firms are placing greater emphasis on physical climate risk as increasingly severe weather events begin to influence investment performance, portfolio valuations and exit planning, acco",
-      "company": "PE",
-      "link": "https://www.privateequitywire.co.uk/pe-firms-step-up-climate-risk-analysis-as-extreme-weather-reshapes-investment-decisions/",
-      "date": "Jul 09, 26",
-      "source": "PE Wire",
-      "layer": 1,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "f50f88e257c8",
-      "title": "Rays Tout New Stadium Designs as Funding Talks Continue",
+      "id": "7e362aa9deb5",
+      "title": "Rays Tout New Stadium Designs As Funding Talks Continue",
       "summary": "Nathan Ray Seebeck-Imagn Images",
-      "company": "Rays Tout New Stadium Designs",
+      "company": "Rays Tout New Stadium Designs As",
       "link": "https://frontofficesports.com/rays-tout-new-stadium-designs-as-funding-talks-continue/",
       "date": "Jul 09, 26",
       "source": "Front Office Sports",
@@ -218,21 +250,6 @@
       "score": 14,
       "moments": [
         "venue_announcement"
-      ]
-    },
-    {
-      "id": "1913e5425307",
-      "title": "The War and Treaty Are Through Playing Nashville\u2019s Game",
-      "summary": "\u201cAny artist watching this, don\u2019t you do that,\u201d says the Grammy-nominated duo, who just released their new album The Story of Michael and Tanya",
-      "company": "The War",
-      "link": "https://www.rollingstone.com/music/music-features/the-war-and-treaty-dont-play-nashville-game-1235590820/",
-      "date": "Jul 08, 26",
-      "source": "Rolling Stone Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "album_announcement"
       ]
     },
     {
@@ -248,21 +265,6 @@
       "score": 14,
       "moments": [
         "pe_investment"
-      ]
-    },
-    {
-      "id": "7cc003ce4e8f",
-      "title": "Manchester United insist new stadium \u2018not vanity project\u2019 despite prospect of more debt",
-      "summary": "Plan unveiled for ground 350 metres from Old TraffordWorking cost of stadium previously stated as \u00a32bnManchester United have said their proposed new 100,000-capacity stadium may lead to further debt b",
-      "company": "Manchester United",
-      "link": "https://www.theguardian.com/football/2026/jul/09/manchester-united-insist-new-stadium-not-vanity-project-despite-prospect-of-more-debt",
-      "date": "Jul 09, 26",
-      "source": "Guardian Sport",
-      "layer": 2,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "venue_announcement"
       ]
     },
     {
@@ -296,27 +298,12 @@
       ]
     },
     {
-      "id": "6a468cf373df",
-      "title": "Station F ramps up as a launchpad for Europe\u2019s hottest AI startups",
-      "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping sto",
-      "company": "Station",
-      "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
-      "date": "Jul 06, 26",
-      "source": "TechCrunch Startups",
-      "layer": 5,
-      "access": "venture",
-      "score": 12,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "5a4a96e47764",
-      "title": "The Mary Wallopers on \u201cIrish expression\u201d and \u201cheavier\u201d new album \u2018Paddywhackery\u2019: \u201cIf the English knew what happened, they wouldn\u2019t be so quick to be...",
-      "summary": "The rebel folk band spoke to NME about the isolation of being Irish in England, the fallout of having their Victorious 2025 set cut off, not shying away from \"saying something that\u2019s right\", and more,",
-      "company": "The Mary Wallopers",
-      "link": "https://www.nme.com/news/music/the-mary-wallopers-on-irish-expression-and-heavier-new-album-paddywhackery-if-the-ordinary-english-person-knew-what-happened-they-wouldnt-be-so-quick-to-b-3955839?utm_source=rss&utm_medium=rss&utm_campaign=the-mary-wallopers-on-irish-expression-and-heavier-new-album-paddywhackery-if-the-ordinary-english-person-knew-what-happened-they-wouldnt-be-so-quick-to-b",
-      "date": "Jul 09, 26",
+      "id": "58d8213ce5a4",
+      "title": "The Linda Lindas on new album \u2018Gotta Get Out\u2019 and \u201ccool\u201d Hayley Williams collab \u2018Closer\u2019: \u201cIt\u2019s an emo song about not wanting to get older\u201d",
+      "summary": "The band told NME that they'll \"shock people\" with their experimental and \"really fun\" third record, recalled early support from the Paramore frontwoman, cited Fontaines D.C. and The Cure as inspirati",
+      "company": "The Linda Lindas",
+      "link": "https://www.nme.com/news/music/the-linda-lindas-new-album-gotta-get-out-interview-hayley-williams-collaboration-single-closer-released-3956141?utm_source=rss&utm_medium=rss&utm_campaign=the-linda-lindas-new-album-gotta-get-out-interview-hayley-williams-collaboration-single-closer-released",
+      "date": "Jul 10, 26",
       "source": "NME",
       "layer": 1,
       "access": "pe",
@@ -371,18 +358,48 @@
       ]
     },
     {
-      "id": "1988e9513642",
-      "title": "Owners of New York\u2019s Legendary Caf\u00e9 Wha? to Open New Venue in the City",
-      "summary": "Located just two blocks away from Caf\u00e9 Wha, the new 200-cap club will host folk, Americana, jazz, rock and more.",
-      "company": "Owners",
-      "link": "https://www.billboard.com/pro/owners-of-cafe-wha-to-open-new-nyc-venue/",
+      "id": "2d37036842fb",
+      "title": "Bears\u2019 Indiana Stadium Plans in \u2018Red Zone,\u2019 Governor Says",
+      "summary": "Jeff Hanisch-Imagn Images",
+      "company": "Bears\u2019 Indiana Stadium Plans",
+      "link": "https://frontofficesports.com/chicago-bears-indiana-stadium-plans-gov-braun/",
       "date": "Jul 09, 26",
-      "source": "Billboard",
+      "source": "Front Office Sports",
       "layer": 2,
       "access": "pe",
       "score": 9,
       "moments": [
         "venue_announcement"
+      ]
+    },
+    {
+      "id": "9a9962db238d",
+      "title": "MAGA figures flock to Charlie Kirk murder hearing",
+      "summary": "A parade of prominent conservative figures are descending on a Utah courthouse this week to attend the preliminary hearing for the man accused of murdering Turning Point USA founder Charlie Kirk.Why i",
+      "company": "MAGA",
+      "link": "https://www.axios.com/2026/07/10/maga-charlie-kirk-court-hearing",
+      "date": "Jul 10, 26",
+      "source": "Axios",
+      "layer": 4,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "8ce2bf744925",
+      "title": "AI Already Ranked the AI Kings. The Most Famous Founder Finished Last",
+      "summary": "New 5W Reputation Index audits what AI engines say about Sam Altman, Dario Amodei, and Demis Hassabis \u2014 and finds three materially different reputations for the three men who built the engines. MIAMI,",
+      "company": "AI Already Ranked",
+      "link": "https://www.prnewswire.com/news-releases/ai-already-ranked-the-ai-kings-the-most-famous-founder-finished-last-302779904.html",
+      "date": "Jul 10, 26",
+      "source": "PR Newswire",
+      "layer": 4,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "company_launch"
       ]
     },
     {
@@ -401,16 +418,16 @@
       ]
     },
     {
-      "id": "13a8de94fe6b",
-      "title": "TicketSocket Partners With StubHub, viagogo on Distribution",
-      "summary": "The white-label ticketing platform says clients will be able to push inventory directly into StubHub and viagogo\u2019s global marketplaces without... The post TicketSocket Partners With StubHub, viagogo o",
-      "company": "TicketSocket Partners With StubHub",
-      "link": "https://www.ticketnews.com/2026/07/ticketsocket-partners-with-stubhub-viagogo-on-distribution/",
-      "date": "Jul 08, 26",
+      "id": "0d3a79deae41",
+      "title": "Live Nation\u2019s Munich Arena Cleared for Next Development Phase",
+      "summary": "Munich Arena has received key planning approval from the City of Freising, allowing the 20,000-capacity venue project to move into... The post Live Nation\u2019s Munich Arena Cleared for Next Development P",
+      "company": "Live Nation\u2019s Munich Arena Cleared",
+      "link": "https://www.ticketnews.com/2026/07/live-nations-munich-arena-cleared-for-next-development-phase/",
+      "date": "Jul 10, 26",
       "source": "Ticket News",
-      "layer": 3,
+      "layer": 2,
       "access": "pe",
-      "score": 11,
+      "score": 16,
       "moments": []
     },
     {
@@ -427,29 +444,16 @@
       "moments": []
     },
     {
-      "id": "f3c471789c95",
-      "title": "WME Group Promotes Marie Sheehy to Executive VP and Head of Corporate Communications",
-      "summary": "WME veteran Marie Sheehy has been promoted to executive VP and head of corporate communications for WME Group. A respected communications executive, Sheehy oversees all communications strategy and ope",
-      "company": "WME Group Promotes Marie Sheehy",
-      "link": "https://variety.com/2026/biz/news/marie-sheehy-wme-agency-head-corporate-communications-1236802947/",
-      "date": "Jul 07, 26",
-      "source": "Variety Biz",
-      "layer": 4,
+      "id": "a05916600a7e",
+      "title": "Live Nation Wins New Era Arbitration Ruling, But Ticketmaster\u2019s Fine Print Fights Continue",
+      "summary": "A New York federal judge ordered secondary-market ticket plaintiffs into arbitration under New Era ADR\u2019s revised rules, distinguishing the Ninth... The post Live Nation Wins New Era Arbitration Ruling",
+      "company": "Live Nation Wins New Era Arbitration",
+      "link": "https://www.ticketnews.com/2026/07/live-nation-wins-new-era-arbitration-ruling-but-ticketmasters-fine-print-fights-continue/",
+      "date": "Jul 09, 26",
+      "source": "Ticket News",
+      "layer": 3,
       "access": "pe",
       "score": 6,
-      "moments": []
-    },
-    {
-      "id": "926693157f9d",
-      "title": "US in talks with Fifa over capitalising on World Cup success with 2029 Club World Cup",
-      "summary": "US officials have held talks with Fifa over tournamentUnclear whether White House has been involvedThe United States has expressed interest in hosting the 2029 Club World Cup as it seeks to capitalise",
-      "company": "US",
-      "link": "https://www.theguardian.com/football/2026/jul/09/us-fifa-talks-hosting-2029-club-world-cup",
-      "date": "Jul 09, 26",
-      "source": "Guardian Sport",
-      "layer": 4,
-      "access": "pe",
-      "score": 5,
       "moments": []
     },
     {
