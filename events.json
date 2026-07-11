@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T14:38:19.670432+00:00",
-  "total": 31,
+  "generated": "2026-07-11T13:37:05.570582+00:00",
+  "total": 33,
   "scraped": [
     {
       "id": "eb48d1d2b220",
@@ -36,6 +36,22 @@
       ]
     },
     {
+      "id": "8818b8583c9f",
+      "title": "Robbie Williams joins CMAT on stage during day two of Bilbao BBK Live 2026",
+      "summary": "In partnership with Bilbao BBK Live 2026. Fresh from headlining the main stage earlier that night, Robbie Williams surprised both CMAT and the crowd by running on stage during her set on day two of Bi",
+      "company": "Robbie Williams",
+      "link": "https://www.nme.com/news/robbie-williams-cmat-bilbao-bbk-live-2026-3956388?utm_source=rss&utm_medium=rss&utm_campaign=robbie-williams-cmat-bilbao-bbk-live-2026",
+      "date": "Jul 11, 26",
+      "source": "NME",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "surprise_appearance",
+        "festival_headliner"
+      ]
+    },
+    {
       "id": "ae2313011b95",
       "title": "Deal Roundup: TA, Reverence to sell Russell Investments to B Capital-led consortium, Warburg investment values Oxylabs at $3.6bn",
       "summary": "A B Capital-led investor consortium including CalPERS has agreed to acquire Russell Investments from TA Associates and Reverence Capital Partners. The post Deal Roundup: TA, Reverence to sell Russell ",
@@ -52,10 +68,10 @@
       ]
     },
     {
-      "id": "52d74a9ae2e2",
-      "title": "Netflix in Talks to Buy Letterboxd: Report",
+      "id": "c3f2af13fbbc",
+      "title": "Netflix Among Parties in Early Talks to Buy Letterboxd: Report",
       "summary": "Could Letterboxd, the popular film-review social network, end up in the clutches of Netflix or another big entertainment corporation? Letterboxd, founded in 2011, has been shopping itself to intereste",
-      "company": "Netflix in Talks to Buy Letterboxd",
+      "company": "Netflix Among Parties",
       "link": "https://variety.com/2026/digital/news/letterboxd-sales-talks-netflix-sony-paramount-1236806379/",
       "date": "Jul 10, 26",
       "source": "Variety Biz",
@@ -148,43 +164,13 @@
       ]
     },
     {
-      "id": "7c5d2384a469",
-      "title": "Crunchbase Data: Global Startup Investment Hit Record $510B In H1 2026 As AI Boom Accelerates Funding And Exits",
-      "summary": "Investors poured more than $200 billion into startups globally in the just-ended quarter, making Q2 2026 the second-largest quarter on record, our data shows. And, with IPOs and acquisitions returning",
-      "company": "Crunchbase Data",
-      "link": "https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026/",
-      "date": "Jul 02, 26",
-      "source": "Crunchbase News",
-      "layer": 5,
-      "access": "pe",
-      "score": 21,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "be2c738eb4d0",
-      "title": "Montreux Jazz Festival: Why RAYE, Sienna Spiro and More \u2018Feel At Home\u2019 at Legendary Concert Series",
-      "summary": "CEO Mathieu Jaton has led the festival since 2013, inheriting the role from founder Claude Nobs.",
-      "company": "Montreux Jazz Festival",
-      "link": "https://www.billboard.com/music/features/montreux-jazz-festival-2026-sienna-spiro-raye-kwn-1236290646/",
-      "date": "Jul 10, 26",
-      "source": "Billboard",
-      "layer": 1,
-      "access": "venture",
-      "score": 17,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
       "id": "a0aa3e2ca12f",
       "title": "Anthony Hopkins to Release Album of Original Compositions",
       "summary": "The Oscar-winning actor signed a record deal with Decca Classics for Life Is a Dream, which was conducted by Gustavo Dudamel",
       "company": "Anthony Hopkins",
       "link": "https://www.rollingstone.com/music/music-news/anthony-hopkins-original-compositions-album-decca-classics-1235591844/",
       "date": "Jul 10, 26",
-      "source": "Rolling Stone Music",
+      "source": "Rolling Stone News",
       "layer": 1,
       "access": "pe",
       "score": 17,
@@ -193,33 +179,18 @@
       ]
     },
     {
-      "id": "7b68912649a2",
-      "title": "Justin Bieber Joins Madonna, BTS and Shakira for FIFA World Cup Final Halftime Show",
-      "summary": "Justin Bieber has been added as a performer to the FIFA World Cup Final Halftime Show, joining the lineup as a co-headliner alongside Madonna, Shakira and BTS. FIFA and Global Citizen are staging the ",
-      "company": "Justin Bieber Joins Madonna BTS",
-      "link": "https://variety.com/2026/music/news/justin-bieber-joins-fifa-world-cup-final-haltime-show-1236804858/",
-      "date": "Jul 08, 26",
+      "id": "daebd8803e01",
+      "title": "Jay-Z Brings Out Beyonc\u00e9, Blue Ivy Carter, Nas, Alicia Keys and More for \u2018Reasonable Doubt\u2019 30th Anniversary Show at Yankee Stadium",
+      "summary": "Jay-Z did appear to promise far in advance that his &#8220;Reasonable Doubt&#8221; 30th anniversary show would, in fact, be a celebration of the debut album that he dropped back in June 1996. That did",
+      "company": "Jay-Z Brings Out Beyonc\u00e9 Blue Ivy",
+      "link": "https://variety.com/2026/music/news/jay-z-brings-out-beyonce-blue-ivy-carter-yankee-stadium-1236807113/",
+      "date": "Jul 11, 26",
       "source": "Variety Music",
       "layer": 1,
       "access": "pe",
       "score": 16,
       "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "5eb42acbef70",
-      "title": "\u2018We\u2019ve had moments of devastating pain\u2019: jazz icons Ezra Collective on their new album \u2013 and why we can\u2019t rely on the government",
-      "summary": "Speaking at a Guardian Live event at Love Supreme festival, the band tell us about lessons with Tony Allen, mayhem in Lagos and why musicians should be \u2018pillars of the community\u2019At Sussex\u2019s Love Supre",
-      "company": "\u2018We\u2019ve",
-      "link": "https://www.theguardian.com/music/2026/jul/09/weve-had-moments-of-devastating-pain-jazz-icons-ezra-collective-on-their-new-album-and-why-we-cant-rely-on-the-government",
-      "date": "Jul 09, 26",
-      "source": "Guardian Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "album_announcement"
+        "surprise_appearance"
       ]
     },
     {
@@ -268,6 +239,21 @@
       ]
     },
     {
+      "id": "56a997bad3bf",
+      "title": "Sportico Transactions: Moves and Mergers Roundup for July 10",
+      "summary": "Welcome to Sportico\u2019s transactions wire, a weekly rundown of personnel, partnerships and products across the sports business industry. PERSONNEL IMG Appoints Jackie Stevenson as Chief Client &#38; Ope",
+      "company": "Sportico Transactions",
+      "link": "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-roundup-july-10-1234938500/",
+      "date": "Jul 10, 26",
+      "source": "Sportico",
+      "layer": 4,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
       "id": "7733c1f26fce",
       "title": "Inside the all-star America250 concert at the L.A. Coliseum",
       "summary": "Chris Stapleton was the headlining act at a Fourth of July benefit concert that also featured Smashing Pumpkins, Chaka Khan, Maren Morris and Queen Latifah.",
@@ -295,21 +281,6 @@
       "score": 12,
       "moments": [
         "festival_headliner"
-      ]
-    },
-    {
-      "id": "58d8213ce5a4",
-      "title": "The Linda Lindas on new album \u2018Gotta Get Out\u2019 and \u201ccool\u201d Hayley Williams collab \u2018Closer\u2019: \u201cIt\u2019s an emo song about not wanting to get older\u201d",
-      "summary": "The band told NME that they'll \"shock people\" with their experimental and \"really fun\" third record, recalled early support from the Paramore frontwoman, cited Fontaines D.C. and The Cure as inspirati",
-      "company": "The Linda Lindas",
-      "link": "https://www.nme.com/news/music/the-linda-lindas-new-album-gotta-get-out-interview-hayley-williams-collaboration-single-closer-released-3956141?utm_source=rss&utm_medium=rss&utm_campaign=the-linda-lindas-new-album-gotta-get-out-interview-hayley-williams-collaboration-single-closer-released",
-      "date": "Jul 10, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "album_announcement"
       ]
     },
     {
@@ -373,6 +344,51 @@
       ]
     },
     {
+      "id": "522b39a7390b",
+      "title": "Music Industry Moves: T.I. Strikes Publishing Deal With Reservoir, Primary Wave Partners With Foreigner\u2019s Mick Jones",
+      "summary": "Reservoir has struck a deal with veteran Atlanta rapper T.I. across his entire publishing catalog, spanning his back catalog and future works, including his new album, \u201cKill the King,\u201d which debuted i",
+      "company": "Music Industry Moves",
+      "link": "https://variety.com/2026/music/news/t-i-strikes-publishing-deal-with-reservoir-1236805912/",
+      "date": "Jul 09, 26",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "6ddc877d3438",
+      "title": "Alabama Shakes Unveil Optimistic Single \u2018I Feel Hope Coming\u2019 From Upcoming New Album",
+      "summary": "I Must Be Dreaming, band\u2019s first album in 11 years, out Aug. 28",
+      "company": "Alabama Shakes Unveil Optimistic Single",
+      "link": "https://www.rollingstone.com/music/music-news/alabama-shakes-new-song-i-feel-hope-coming-new-album-1235591943/",
+      "date": "Jul 10, 26",
+      "source": "Rolling Stone News",
+      "layer": 1,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "5fb18540eb80",
+      "title": "CeCe Winans Revisits Pared-Down Worship Music on \u2018The Hymns\u2019",
+      "summary": "Best known for contemporary stylings of praise music that topped charts across genres, this singer\u2019s new album of pared-down sacred music, \u201cThe Hymns,\u201d put her back atop the gospel charts.",
+      "company": "",
+      "link": "https://www.nytimes.com/2026/07/10/arts/music/cece-winans-the-hymns-gospel-worship.html",
+      "date": "Jul 10, 26",
+      "source": "NYT Arts",
+      "layer": 1,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
       "id": "9a9962db238d",
       "title": "MAGA figures flock to Charlie Kirk murder hearing",
       "summary": "A parade of prominent conservative figures are descending on a Utah courthouse this week to attend the preliminary hearing for the man accused of murdering Turning Point USA founder Charlie Kirk.Why i",
@@ -380,21 +396,6 @@
       "link": "https://www.axios.com/2026/07/10/maga-charlie-kirk-court-hearing",
       "date": "Jul 10, 26",
       "source": "Axios",
-      "layer": 4,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "8ce2bf744925",
-      "title": "AI Already Ranked the AI Kings. The Most Famous Founder Finished Last",
-      "summary": "New 5W Reputation Index audits what AI engines say about Sam Altman, Dario Amodei, and Demis Hassabis \u2014 and finds three materially different reputations for the three men who built the engines. MIAMI,",
-      "company": "AI Already Ranked",
-      "link": "https://www.prnewswire.com/news-releases/ai-already-ranked-the-ai-kings-the-most-famous-founder-finished-last-302779904.html",
-      "date": "Jul 10, 26",
-      "source": "PR Newswire",
       "layer": 4,
       "access": "pe",
       "score": 6,
@@ -431,12 +432,12 @@
       "moments": []
     },
     {
-      "id": "55be16327f02",
-      "title": "AXS Named Official Ticketing Partner of New Texas Health Mansfield Stadium",
-      "summary": "AXS has been selected as the Official Ticketing Partner of Texas Health Mansfield Stadium, the newly opened sports and entertainment... The post AXS Named Official Ticketing Partner of New Texas Healt",
-      "company": "AXS Named Official Ticketing Partner",
-      "link": "https://www.ticketnews.com/2026/07/axs-named-official-ticketing-partner-of-new-texas-health-mansfield-stadium/",
-      "date": "Jul 09, 26",
+      "id": "c7474dea84f9",
+      "title": "Site Plans Reveal New Details for Proposed Sphere at National Harbor",
+      "summary": "Newly obtained site plans are offering a clearer picture of how a proposed Sphere entertainment venue could reshape the National... The post Site Plans Reveal New Details for Proposed Sphere at Nation",
+      "company": "Site Plans Reveal New Details",
+      "link": "https://www.ticketnews.com/2026/07/site-plans-reveal-new-details-for-proposed-sphere-at-national-harbor/",
+      "date": "Jul 10, 26",
       "source": "Ticket News",
       "layer": 2,
       "access": "pe",
@@ -454,6 +455,32 @@
       "layer": 3,
       "access": "pe",
       "score": 6,
+      "moments": []
+    },
+    {
+      "id": "000004b2b471",
+      "title": "\u2018Style of Play\u2019 Hosts on World Cup and More",
+      "summary": "Julie Ertz and Kealia Watt on World Cup fever, their new podcast, women's soccer growth, and Netflix.",
+      "company": "\u2018Style",
+      "link": "https://frontofficesports.com/videos/style-of-play-hosts-on-world-cup-and-more/",
+      "date": "Jul 10, 26",
+      "source": "Front Office Sports",
+      "layer": 3,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "1364bda6bb8d",
+      "title": "Novo Nordisk's denecimig (Mim8) demonstrated positive results in long term safety and efficacy in phase 3 hemophilia A FRONTIER extension study at...",
+      "summary": "Presented interim FRONTIER4 data evaluate the long-term safety and efficacy of investigational denecimig across once-weekly, once-every-two-weeks, and once-monthly dosing in hemophilia A participants ",
+      "company": "Novo Nordisk's",
+      "link": "https://www.prnewswire.com/news-releases/novo-nordisks-denecimig-mim8-demonstrated-positive-results-in-long-term-safety-and-efficacy-in-phase-3-hemophilia-a-frontier-extension-study-at-isth-2026-302823082.html",
+      "date": "Jul 11, 26",
+      "source": "PR Newswire",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
       "moments": []
     },
     {
