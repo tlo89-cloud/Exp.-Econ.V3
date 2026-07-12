@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-11T13:37:05.570582+00:00",
-  "total": 33,
+  "generated": "2026-07-12T13:37:36.131245+00:00",
+  "total": 30,
   "scraped": [
     {
       "id": "eb48d1d2b220",
@@ -33,22 +33,6 @@
       "moments": [
         "pe_investment",
         "fund_launch"
-      ]
-    },
-    {
-      "id": "8818b8583c9f",
-      "title": "Robbie Williams joins CMAT on stage during day two of Bilbao BBK Live 2026",
-      "summary": "In partnership with Bilbao BBK Live 2026. Fresh from headlining the main stage earlier that night, Robbie Williams surprised both CMAT and the crowd by running on stage during her set on day two of Bi",
-      "company": "Robbie Williams",
-      "link": "https://www.nme.com/news/robbie-williams-cmat-bilbao-bbk-live-2026-3956388?utm_source=rss&utm_medium=rss&utm_campaign=robbie-williams-cmat-bilbao-bbk-live-2026",
-      "date": "Jul 11, 26",
-      "source": "NME",
-      "layer": 5,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "surprise_appearance",
-        "festival_headliner"
       ]
     },
     {
@@ -148,37 +132,6 @@
       ]
     },
     {
-      "id": "d468645b4458",
-      "title": "Alexis Smith of The Feminine Glow Emerges at the Center of the Feminine Energy Coaching Boom",
-      "summary": "DUBAI, UAE &#8211; &#160;The Feminine Glow, the fast-growing femininity and inner work platform founded by Alexis Smith, is gaining national attention as interest in coaching, self-development, and fe",
-      "company": "Alexis Smith",
-      "link": "https://venuestoday.com/alexis-smith-of-the-feminine-glow-emerges-at-the-center-of-the-feminine-energy-coaching-boom/",
-      "date": "Mar 29, 26",
-      "source": "Venues Today",
-      "layer": 2,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "acquisition",
-        "company_launch"
-      ]
-    },
-    {
-      "id": "a0aa3e2ca12f",
-      "title": "Anthony Hopkins to Release Album of Original Compositions",
-      "summary": "The Oscar-winning actor signed a record deal with Decca Classics for Life Is a Dream, which was conducted by Gustavo Dudamel",
-      "company": "Anthony Hopkins",
-      "link": "https://www.rollingstone.com/music/music-news/anthony-hopkins-original-compositions-album-decca-classics-1235591844/",
-      "date": "Jul 10, 26",
-      "source": "Rolling Stone News",
-      "layer": 1,
-      "access": "pe",
-      "score": 17,
-      "moments": [
-        "record_deal"
-      ]
-    },
-    {
       "id": "daebd8803e01",
       "title": "Jay-Z Brings Out Beyonc\u00e9, Blue Ivy Carter, Nas, Alicia Keys and More for \u2018Reasonable Doubt\u2019 30th Anniversary Show at Yankee Stadium",
       "summary": "Jay-Z did appear to promise far in advance that his &#8220;Reasonable Doubt&#8221; 30th anniversary show would, in fact, be a celebration of the debut album that he dropped back in June 1996. That did",
@@ -191,21 +144,6 @@
       "score": 16,
       "moments": [
         "surprise_appearance"
-      ]
-    },
-    {
-      "id": "6c250e94b064",
-      "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
-      "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
-      "company": "Kiro Eid Built",
-      "link": "https://venuestoday.com/kiro-eid-built-8x6-design-studio-here-is-how-he-did-it-without-a-network-or-shortcuts/",
-      "date": "Mar 28, 26",
-      "source": "Venues Today",
-      "layer": 2,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "company_launch"
       ]
     },
     {
@@ -269,33 +207,33 @@
       ]
     },
     {
-      "id": "e3b288aa8548",
-      "title": "My Chemical Romance review \u2013 \u200bfire! Nuclear war! Killer pierrots! This is stadium rock at its most monumentally madcap",
-      "summary": "Anfield Stadium, Liverpool Adding eye-popping spectacle to this anniversary reprise of The Black Parade is fun, but what really stands out is the tremendous songcraftMy Chemical Romance take the stage",
-      "company": "My Chemical Romance",
-      "link": "https://www.theguardian.com/music/2026/jul/01/my-chemical-romance-review-anfield-stadium-liverpool-uk-tour",
-      "date": "Jul 01, 26",
-      "source": "Guardian Music",
-      "layer": 2,
+      "id": "e5aad1532460",
+      "title": "KKR-backed SmartHR pushes Tokyo IPO to 2027",
+      "summary": "Japanese HR software company SmartHR has reportedly postponed its planned initial public offering until at least 2027 after prospective investors raised concerns over the valuation sought for the busi",
+      "company": "KKR-backed SmartHR",
+      "link": "https://www.privateequitywire.co.uk/kkr-backed-smarthr-pushes-tokyo-ipo-to-2027/",
+      "date": "Jul 09, 26",
+      "source": "PE Wire",
+      "layer": 5,
       "access": "pe",
       "score": 12,
       "moments": [
-        "festival_headliner"
+        "ipo"
       ]
     },
     {
-      "id": "108f44982c8b",
-      "title": "R&B star Syd on her new album, the return of the Internet and Odd Future fallouts: \u2018We only had three meetings as a group and I called two of them\u2019",
-      "summary": "She was a member of the influential rap collective, then the alt-R&amp;B hitmakers \u2013 but struggled to find her own voice. Now, after realising she \u2018didn\u2019t like anybody else\u2019s beats\u2019, she\u2019s made a solo",
-      "company": "R&B",
-      "link": "https://www.theguardian.com/music/2026/jul/09/syd-odd-future-internet-music-interview-beard-broken-hearts-club",
-      "date": "Jul 09, 26",
-      "source": "Guardian Music",
+      "id": "36fc0b46d1be",
+      "title": "Karol G Creates Tropicoqueta-Themed Cocktail for Her TropiTour & More Uplifting Moments in Latin Music",
+      "summary": "Plus, Shakira surpasses Taylor Swift on Spotify, and a star-studded telethon rallies aid for Venezuela.",
+      "company": "Karol",
+      "link": "https://www.billboard.com/music/latin/karol-g-cocktail-tropitour-shakira-spotify-uplifting-moments-1236291625/",
+      "date": "Jul 11, 26",
+      "source": "Billboard",
       "layer": 1,
       "access": "pe",
       "score": 11,
       "moments": [
-        "album_announcement"
+        "streaming_milestone"
       ]
     },
     {
@@ -314,21 +252,6 @@
       ]
     },
     {
-      "id": "ed24e331be68",
-      "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
-      "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
-      "company": "Niloufar Banisaied",
-      "link": "https://venuestoday.com/niloufar-banisaied-is-bringing-timeless-design-and-the-guest-experience-at-the-forefront/",
-      "date": "Jun 09, 26",
-      "source": "Venues Today",
-      "layer": 4,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
       "id": "2d37036842fb",
       "title": "Bears\u2019 Indiana Stadium Plans in \u2018Red Zone,\u2019 Governor Says",
       "summary": "Jeff Hanisch-Imagn Images",
@@ -344,12 +267,12 @@
       ]
     },
     {
-      "id": "522b39a7390b",
-      "title": "Music Industry Moves: T.I. Strikes Publishing Deal With Reservoir, Primary Wave Partners With Foreigner\u2019s Mick Jones",
-      "summary": "Reservoir has struck a deal with veteran Atlanta rapper T.I. across his entire publishing catalog, spanning his back catalog and future works, including his new album, \u201cKill the King,\u201d which debuted i",
-      "company": "Music Industry Moves",
-      "link": "https://variety.com/2026/music/news/t-i-strikes-publishing-deal-with-reservoir-1236805912/",
-      "date": "Jul 09, 26",
+      "id": "8d1f9f209393",
+      "title": "Jack White Keeps Rock \u2018n\u2019 Roll on the Front Burner in \u2018Frozen Charlotte,\u2019 His Heavy and Blazingly Worthy \u2018No Name\u2019 Followup: Album Review",
+      "summary": "The first question most Jack White fans are looking to have answered to when it comes to his new album, &#8220;Frozen Charlotte&#8221;: Is it effectively a &#8220;No Name 2.0&#8221;? Nearly everyone i",
+      "company": "Jack White Keeps Rock",
+      "link": "https://variety.com/2026/music/album-reviews/jack-white-frozen-charlotte-album-revew-1236807326/",
+      "date": "Jul 11, 26",
       "source": "Variety Music",
       "layer": 1,
       "access": "pe",
@@ -389,6 +312,21 @@
       ]
     },
     {
+      "id": "6c8536e729cf",
+      "title": "Yaacov Agam, Who Made Kinetic, Kaleidoscopic Art, Dies at 98",
+      "summary": "An Israeli artist, he became a global sensation, creating sculptures, paintings, toys and public works that delighted the eye and confounded perception.",
+      "company": "Yaacov Agam Who Made Kinetic Kaleidoscopic",
+      "link": "https://www.nytimes.com/2026/07/11/arts/design/yaacov-agam-dead.html",
+      "date": "Jul 11, 26",
+      "source": "NYT Arts",
+      "layer": 1,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
       "id": "9a9962db238d",
       "title": "MAGA figures flock to Charlie Kirk murder hearing",
       "summary": "A parade of prominent conservative figures are descending on a Utah courthouse this week to attend the preliminary hearing for the man accused of murdering Turning Point USA founder Charlie Kirk.Why i",
@@ -401,21 +339,6 @@
       "score": 6,
       "moments": [
         "company_launch"
-      ]
-    },
-    {
-      "id": "f3a1d1554548",
-      "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
-      "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
-      "company": "Navigating",
-      "link": "https://venuestoday.com/navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026/",
-      "date": "Apr 22, 26",
-      "source": "Venues Today",
-      "layer": 3,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "acquisition"
       ]
     },
     {
@@ -432,6 +355,19 @@
       "moments": []
     },
     {
+      "id": "1ffa3e44c2f6",
+      "title": "ESPN analyst Matt Miller faces financial investigation amid car crash recovery",
+      "summary": "Miller takes indefinite leave after arm amputation and questions of possible financial improprietiesAn on-air analyst for a top US sports broadcaster says he is pulling back from his role indefinitely",
+      "company": "ESPN",
+      "link": "https://www.theguardian.com/us-news/2026/jul/12/sports-analyst-matt-miller-charity-work-inquiry",
+      "date": "Jul 12, 26",
+      "source": "Guardian Sport",
+      "layer": 3,
+      "access": "pe",
+      "score": 11,
+      "moments": []
+    },
+    {
       "id": "c7474dea84f9",
       "title": "Site Plans Reveal New Details for Proposed Sphere at National Harbor",
       "summary": "Newly obtained site plans are offering a clearer picture of how a proposed Sphere entertainment venue could reshape the National... The post Site Plans Reveal New Details for Proposed Sphere at Nation",
@@ -442,6 +378,32 @@
       "layer": 2,
       "access": "pe",
       "score": 9,
+      "moments": []
+    },
+    {
+      "id": "892b9a7f3f77",
+      "title": "These AI startups are growing revenue at faster and faster rates",
+      "summary": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
+      "company": "These AI",
+      "link": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+      "date": "Jul 08, 26",
+      "source": "TechCrunch Startups",
+      "layer": 2,
+      "access": "venture",
+      "score": 8,
+      "moments": []
+    },
+    {
+      "id": "5cebcbcde456",
+      "title": "Few Composers Can Sell Out Arenas. He\u2019s One of Them.",
+      "summary": "Joe Hisaishi got famous writing the soundtracks to Hayao Miyazaki\u2019s Studio Ghibli films. Now he is focusing on his first love: classical music.",
+      "company": "Few Composers Can Sell Out Arenas",
+      "link": "https://www.nytimes.com/2026/07/07/arts/music/joe-hisaishi-composer-studio-ghibli.html",
+      "date": "Jul 09, 26",
+      "source": "NYT Music",
+      "layer": 2,
+      "access": "pe",
+      "score": 7,
       "moments": []
     },
     {
@@ -458,6 +420,19 @@
       "moments": []
     },
     {
+      "id": "b1f32beba974",
+      "title": "Jay-Z\u2019s Yankee Stadium Night Two Setlist: Every Song Played at the Second Show",
+      "summary": "Night two included appearances from Slick Rick, Eminem and Pharrell. Check out every song that was performed.",
+      "company": "Jay-Z\u2019s Yankee Stadium Night Two Setlist:",
+      "link": "https://www.billboard.com/lists/jay-z-yankee-stadium-night-two-setlist/",
+      "date": "Jul 12, 26",
+      "source": "Billboard",
+      "layer": 2,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
       "id": "000004b2b471",
       "title": "\u2018Style of Play\u2019 Hosts on World Cup and More",
       "summary": "Julie Ertz and Kealia Watt on World Cup fever, their new podcast, women's soccer growth, and Netflix.",
@@ -466,32 +441,6 @@
       "date": "Jul 10, 26",
       "source": "Front Office Sports",
       "layer": 3,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "1364bda6bb8d",
-      "title": "Novo Nordisk's denecimig (Mim8) demonstrated positive results in long term safety and efficacy in phase 3 hemophilia A FRONTIER extension study at...",
-      "summary": "Presented interim FRONTIER4 data evaluate the long-term safety and efficacy of investigational denecimig across once-weekly, once-every-two-weeks, and once-monthly dosing in hemophilia A participants ",
-      "company": "Novo Nordisk's",
-      "link": "https://www.prnewswire.com/news-releases/novo-nordisks-denecimig-mim8-demonstrated-positive-results-in-long-term-safety-and-efficacy-in-phase-3-hemophilia-a-frontier-extension-study-at-isth-2026-302823082.html",
-      "date": "Jul 11, 26",
-      "source": "PR Newswire",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "8f95fdb4c719",
-      "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
-      "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
-      "company": "Global Times",
-      "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/",
-      "date": "May 09, 26",
-      "source": "Venues Today",
-      "layer": 4,
       "access": "pe",
       "score": 4,
       "moments": []
