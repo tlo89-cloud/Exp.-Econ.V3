@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T13:37:36.131245+00:00",
-  "total": 30,
+  "generated": "2026-07-13T14:44:55.466769+00:00",
+  "total": 34,
   "scraped": [
     {
       "id": "eb48d1d2b220",
@@ -20,6 +20,23 @@
       ]
     },
     {
+      "id": "a29d60306b61",
+      "title": "Mill Point closes deal for Littlejohn-backed Total Safety Supplies & Solutions; Lower mid-market firm Comvest Private Equity rebrands as Vesterra",
+      "summary": "Mill Point Capital has completes acquisition of Total Safety Supplies &#038; Solutions from Littlejohn &#038; Co. portfolio company Total Safety US; Comvest Private Equity rebrands as Vesterra Capital",
+      "company": "Mill Point",
+      "link": "https://www.pehub.com/mill-point-closes-deal-for-littlejohn-backed-total-safety-supplies-lower-mid-market-firm-comvest-private-equity-rebrands-as-vesterra/",
+      "date": "Jul 13, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 20,
+      "moments": [
+        "acquisition",
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
       "id": "a89159cc2fde",
       "title": "Andera Partners raises record \u20ac430m for fourth expansion fund after lifting hard cap twice",
       "summary": "Andera Partners has held the final close of its fourth expansion capital fund on \u20ac430m, exceeding its original \u20ac350m hard cap after increasing the limit twice to accommodate strong investor demand. Th",
@@ -33,6 +50,22 @@
       "moments": [
         "pe_investment",
         "fund_launch"
+      ]
+    },
+    {
+      "id": "ef90a26fd47b",
+      "title": "Jay-Z review \u2013 rap legend dazzles New York City with lavish spectacle, sharp bars and Beyonc\u00e9",
+      "summary": "Yankee Stadium, New York CityThe rapper celebrates 30 years of his classic debut album Reasonable Doubt with eye-popping visuals and special guests in a love letter to hip-hop cultureThe beauty of wat",
+      "company": "Jay-Z",
+      "link": "https://www.theguardian.com/music/2026/jul/11/jay-z-concert-review-new-york-city-reasonable-doubt",
+      "date": "Jul 11, 26",
+      "source": "Guardian Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 18,
+      "moments": [
+        "surprise_appearance",
+        "festival_headliner"
       ]
     },
     {
@@ -52,6 +85,22 @@
       ]
     },
     {
+      "id": "bb0ffc856d3b",
+      "title": "Madonna\u2019s \u2018Confessions II\u2019 Debuts at No. 1 on Album Chart, as Ken Carson and Sienna Spiro Also Bow in Top 10",
+      "summary": "Madonna&#8217;s &#8220;Confessions II,&#8221; her first new album in seven years, found an appreciative audience awaiting her return. The album bowed with 134,000 equivalent album units, more than eno",
+      "company": "Madonna\u2019s \u2018Confessions II\u2019 Debuts",
+      "link": "https://variety.com/2026/music/news/madonna-billboard-album-chart-confessions-debut-top-1236809163/",
+      "date": "Jul 12, 26",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "album_announcement",
+        "company_launch"
+      ]
+    },
+    {
       "id": "c3f2af13fbbc",
       "title": "Netflix Among Parties in Early Talks to Buy Letterboxd: Report",
       "summary": "Could Letterboxd, the popular film-review social network, end up in the clutches of Netflix or another big entertainment corporation? Letterboxd, founded in 2011, has been shopping itself to intereste",
@@ -65,22 +114,6 @@
       "moments": [
         "acquisition",
         "company_launch"
-      ]
-    },
-    {
-      "id": "437882533449",
-      "title": "Apollo tops Castlelake with \u00a35.7bn easyJet bid",
-      "summary": "TOP STORY: Apollo Global Management has emerged as a bidder for easyJet, submitting a \u00a35.7bn takeover proposal that exceeds the latest offer from rival private equity firm Castlelake and intensifies t",
-      "company": "Apollo",
-      "link": "https://www.privateequitywire.co.uk/apollo-tops-castlelake-with-5-7bn-easyjet-bid/",
-      "date": "Jul 10, 26",
-      "source": "PE Wire",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "acquisition",
-        "pe_investment"
       ]
     },
     {
@@ -132,6 +165,37 @@
       ]
     },
     {
+      "id": "d468645b4458",
+      "title": "Alexis Smith of The Feminine Glow Emerges at the Center of the Feminine Energy Coaching Boom",
+      "summary": "DUBAI, UAE &#8211; &#160;The Feminine Glow, the fast-growing femininity and inner work platform founded by Alexis Smith, is gaining national attention as interest in coaching, self-development, and fe",
+      "company": "Alexis Smith",
+      "link": "https://venuestoday.com/alexis-smith-of-the-feminine-glow-emerges-at-the-center-of-the-feminine-energy-coaching-boom/",
+      "date": "Mar 29, 26",
+      "source": "Venues Today",
+      "layer": 2,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "acquisition",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "a689cb653762",
+      "title": "Budget cuts put men\u2019s and women\u2019s tennis tour merger on indefinite hold",
+      "summary": "Negotiations break down over proposed revenue shareWomen\u2019s game faces significant cuts to operationsThe creation of a joint commercial venture between the tours of the men\u2019s Association of Tennis Prof",
+      "company": "Budget",
+      "link": "https://www.theguardian.com/sport/2026/jul/13/budget-mens-womens-tours-tennis-merger-atp-wta",
+      "date": "Jul 13, 26",
+      "source": "Guardian Sport",
+      "layer": 2,
+      "access": "venture",
+      "score": 20,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
       "id": "daebd8803e01",
       "title": "Jay-Z Brings Out Beyonc\u00e9, Blue Ivy Carter, Nas, Alicia Keys and More for \u2018Reasonable Doubt\u2019 30th Anniversary Show at Yankee Stadium",
       "summary": "Jay-Z did appear to promise far in advance that his &#8220;Reasonable Doubt&#8221; 30th anniversary show would, in fact, be a celebration of the debut album that he dropped back in June 1996. That did",
@@ -144,6 +208,51 @@
       "score": 16,
       "moments": [
         "surprise_appearance"
+      ]
+    },
+    {
+      "id": "5eb42acbef70",
+      "title": "\u2018We\u2019ve had moments of devastating pain\u2019: jazz icons Ezra Collective on their new album \u2013 and why we can\u2019t rely on the government",
+      "summary": "Speaking at a Guardian Live event at Love Supreme festival, the band tell us about lessons with Tony Allen, mayhem in Lagos and why musicians should be \u2018pillars of the community\u2019At Sussex\u2019s Love Supre",
+      "company": "\u2018We\u2019ve",
+      "link": "https://www.theguardian.com/music/2026/jul/09/weve-had-moments-of-devastating-pain-jazz-icons-ezra-collective-on-their-new-album-and-why-we-cant-rely-on-the-government",
+      "date": "Jul 09, 26",
+      "source": "Guardian Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "6c250e94b064",
+      "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
+      "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
+      "company": "Kiro Eid Built",
+      "link": "https://venuestoday.com/kiro-eid-built-8x6-design-studio-here-is-how-he-did-it-without-a-network-or-shortcuts/",
+      "date": "Mar 28, 26",
+      "source": "Venues Today",
+      "layer": 2,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "c437cfb534c8",
+      "title": "HIG Capital\u2019s OB Streem completes acquisition of Med Frigo in Greece",
+      "summary": "Med Frigo&#8217;s cold-chain facilities and refrigerated fleet move fresh fish exports for Greece&#8217;s largest aquaculture producers across Europe The deal follows OB Streem&#8217;s appointment of ",
+      "company": "HIG Capital\u2019s OB Streem",
+      "link": "https://www.pehub.com/hig-capitals-ob-streem-completes-acquisition-of-med-frigo-in-greece/",
+      "date": "Jul 13, 26",
+      "source": "PE Hub",
+      "layer": 2,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "acquisition"
       ]
     },
     {
@@ -162,6 +271,51 @@
       ]
     },
     {
+      "id": "13e000389afe",
+      "title": "Would David Ellison Really Pull Paramount Out of California if the State Tries to Block Warner Bros. Merger?",
+      "summary": "Is David Ellison considering a nuclear option of relocating Paramount&#8217;s headquarters from California &#8212; and potentially diverting billions of production dollars from the Golden State &#8212",
+      "company": "Would David Ellison Really Pull Paramount",
+      "link": "https://variety.com/2026/biz/news/paramount-move-out-california-warner-bros-merger-1236809604/",
+      "date": "Jul 13, 26",
+      "source": "Variety Biz",
+      "layer": 3,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "e301d2e55c3c",
+      "title": "See Jay-Z Bring Out Eminem, Pharrell Williams at Yankee Stadium Night Two",
+      "summary": "Rapper\u2019s second night in the Bronx focused on his 2001 album, The Blueprint",
+      "company": "See Jay-Z Bring Out Eminem Pharrell",
+      "link": "https://www.rollingstone.com/music/music-news/jay-z-eminem-pharrell-williams-yankee-stadium-night-two-1235592434/",
+      "date": "Jul 12, 26",
+      "source": "Rolling Stone Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "surprise_appearance"
+      ]
+    },
+    {
+      "id": "ae3299212828",
+      "title": "Eat, sleep, rave ... make peace! DJ Yousuke Yukimatsu\u2019s mission to change the world with topless raves",
+      "summary": "He beat brain cancer. Now your favourite DJ\u2019s favourite DJ is on a UK tour, armed with experimental techno, Beastie Boys and Taylor SwiftTen years ago this month, Japanese DJ Yousuke Yukimatsu had an ",
+      "company": "Eat",
+      "link": "https://www.theguardian.com/music/2026/jul/13/eat-sleep-rave-make-peace-dj-yousuke-yukimatsus-mission-to-change-the-world-with-topless-raves",
+      "date": "Jul 13, 26",
+      "source": "Guardian Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
       "id": "b3ca5b340250",
       "title": "Ballast Rock hires PPM America\u2019s Michael Welch to lead investor relations and capital formation",
       "summary": "Ballast Rock Asset Management has appointed Michael Welch as head of investor relations and capital formation, creating a new senior role as the alternative investment manager looks to expand fundrais",
@@ -174,6 +328,21 @@
       "score": 14,
       "moments": [
         "pe_investment"
+      ]
+    },
+    {
+      "id": "3fa6c00d45a7",
+      "title": "\u2018We can find renewal despite the bullshit we navigate as Black women\u2019: Kelela on stan armies and speaking up for Gaza",
+      "summary": "The genre-bending R&amp;B artist\u2019s new album finds fresh focus for her uncompromising vision, blending soul, sex and shoegazeMore than most musicians on a typical promo cycle, Kelela has been appearin",
+      "company": "\u2018We",
+      "link": "https://www.theguardian.com/music/2026/jul/12/kelela-new-avatar-interview-idea-1-pink-pantheress",
+      "date": "Jul 12, 26",
+      "source": "Guardian Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "album_announcement"
       ]
     },
     {
@@ -192,63 +361,48 @@
       ]
     },
     {
-      "id": "7733c1f26fce",
-      "title": "Inside the all-star America250 concert at the L.A. Coliseum",
-      "summary": "Chris Stapleton was the headlining act at a Fourth of July benefit concert that also featured Smashing Pumpkins, Chaka Khan, Maren Morris and Queen Latifah.",
-      "company": "Inside",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-07-05/america250-concert-coliseum-chris-stapleton-smashing-pumpkins-chaka-khan",
-      "date": "Jul 05, 26",
-      "source": "LA Times Music",
+      "id": "b6e743e91866",
+      "title": "Mastodon Preview New Album With Rousing Single \u2018Snakes For Dinner\u2019",
+      "summary": "Grammy-winning rock band will release Marrow Deep, their ninth studio album, next month",
+      "company": "Mastodon Preview New Album With Rousing",
+      "link": "https://www.rollingstone.com/music/music-news/mastodon-snakes-for-dinner-single-marrow-deep-album-1235592538/",
+      "date": "Jul 13, 26",
+      "source": "Rolling Stone Music",
       "layer": 1,
       "access": "pe",
       "score": 12,
       "moments": [
-        "festival_headliner"
+        "album_announcement"
       ]
     },
     {
-      "id": "e5aad1532460",
-      "title": "KKR-backed SmartHR pushes Tokyo IPO to 2027",
-      "summary": "Japanese HR software company SmartHR has reportedly postponed its planned initial public offering until at least 2027 after prospective investors raised concerns over the valuation sought for the busi",
-      "company": "KKR-backed SmartHR",
-      "link": "https://www.privateequitywire.co.uk/kkr-backed-smarthr-pushes-tokyo-ipo-to-2027/",
+      "id": "66ec3dca8cac",
+      "title": "UK pension scheme Nest launches \u00a3200m venture capital sleeve, Schroders Capital to manage",
+      "summary": "UK workplace pension scheme Nest has unveiled an initial \u00a3200m of investment targeting high-growth private companies through the creation of a dedicated venture capital sleeve managed by Schroders Cap",
+      "company": "UK pension scheme Nest",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/uk-pension-scheme-nest-launches-200m-venture-capital-sleeve-schroders-capital-to-manage.html",
       "date": "Jul 09, 26",
-      "source": "PE Wire",
+      "source": "AltAssets",
       "layer": 5,
       "access": "pe",
       "score": 12,
       "moments": [
-        "ipo"
+        "pe_investment"
       ]
     },
     {
-      "id": "36fc0b46d1be",
-      "title": "Karol G Creates Tropicoqueta-Themed Cocktail for Her TropiTour & More Uplifting Moments in Latin Music",
-      "summary": "Plus, Shakira surpasses Taylor Swift on Spotify, and a star-studded telethon rallies aid for Venezuela.",
-      "company": "Karol",
-      "link": "https://www.billboard.com/music/latin/karol-g-cocktail-tropitour-shakira-spotify-uplifting-moments-1236291625/",
-      "date": "Jul 11, 26",
-      "source": "Billboard",
-      "layer": 1,
+      "id": "ed24e331be68",
+      "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
+      "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
+      "company": "Niloufar Banisaied",
+      "link": "https://venuestoday.com/niloufar-banisaied-is-bringing-timeless-design-and-the-guest-experience-at-the-forefront/",
+      "date": "Jun 09, 26",
+      "source": "Venues Today",
+      "layer": 4,
       "access": "pe",
       "score": 11,
       "moments": [
-        "streaming_milestone"
-      ]
-    },
-    {
-      "id": "69f701afdbc2",
-      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
-      "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies \u2014 the infrastructure a",
-      "company": "Ashton Kutcher",
-      "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
-      "date": "Jul 01, 26",
-      "source": "TechCrunch Venture",
-      "layer": 1,
-      "access": "venture",
-      "score": 11,
-      "moments": [
-        "fund_launch"
+        "company_launch"
       ]
     },
     {
@@ -267,66 +421,6 @@
       ]
     },
     {
-      "id": "8d1f9f209393",
-      "title": "Jack White Keeps Rock \u2018n\u2019 Roll on the Front Burner in \u2018Frozen Charlotte,\u2019 His Heavy and Blazingly Worthy \u2018No Name\u2019 Followup: Album Review",
-      "summary": "The first question most Jack White fans are looking to have answered to when it comes to his new album, &#8220;Frozen Charlotte&#8221;: Is it effectively a &#8220;No Name 2.0&#8221;? Nearly everyone i",
-      "company": "Jack White Keeps Rock",
-      "link": "https://variety.com/2026/music/album-reviews/jack-white-frozen-charlotte-album-revew-1236807326/",
-      "date": "Jul 11, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "6ddc877d3438",
-      "title": "Alabama Shakes Unveil Optimistic Single \u2018I Feel Hope Coming\u2019 From Upcoming New Album",
-      "summary": "I Must Be Dreaming, band\u2019s first album in 11 years, out Aug. 28",
-      "company": "Alabama Shakes Unveil Optimistic Single",
-      "link": "https://www.rollingstone.com/music/music-news/alabama-shakes-new-song-i-feel-hope-coming-new-album-1235591943/",
-      "date": "Jul 10, 26",
-      "source": "Rolling Stone News",
-      "layer": 1,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "5fb18540eb80",
-      "title": "CeCe Winans Revisits Pared-Down Worship Music on \u2018The Hymns\u2019",
-      "summary": "Best known for contemporary stylings of praise music that topped charts across genres, this singer\u2019s new album of pared-down sacred music, \u201cThe Hymns,\u201d put her back atop the gospel charts.",
-      "company": "",
-      "link": "https://www.nytimes.com/2026/07/10/arts/music/cece-winans-the-hymns-gospel-worship.html",
-      "date": "Jul 10, 26",
-      "source": "NYT Arts",
-      "layer": 1,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "6c8536e729cf",
-      "title": "Yaacov Agam, Who Made Kinetic, Kaleidoscopic Art, Dies at 98",
-      "summary": "An Israeli artist, he became a global sensation, creating sculptures, paintings, toys and public works that delighted the eye and confounded perception.",
-      "company": "Yaacov Agam Who Made Kinetic Kaleidoscopic",
-      "link": "https://www.nytimes.com/2026/07/11/arts/design/yaacov-agam-dead.html",
-      "date": "Jul 11, 26",
-      "source": "NYT Arts",
-      "layer": 1,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
       "id": "9a9962db238d",
       "title": "MAGA figures flock to Charlie Kirk murder hearing",
       "summary": "A parade of prominent conservative figures are descending on a Utah courthouse this week to attend the preliminary hearing for the man accused of murdering Turning Point USA founder Charlie Kirk.Why i",
@@ -339,6 +433,21 @@
       "score": 6,
       "moments": [
         "company_launch"
+      ]
+    },
+    {
+      "id": "f3a1d1554548",
+      "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
+      "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
+      "company": "Navigating",
+      "link": "https://venuestoday.com/navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026/",
+      "date": "Apr 22, 26",
+      "source": "Venues Today",
+      "layer": 3,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "acquisition"
       ]
     },
     {
@@ -368,66 +477,14 @@
       "moments": []
     },
     {
-      "id": "c7474dea84f9",
-      "title": "Site Plans Reveal New Details for Proposed Sphere at National Harbor",
-      "summary": "Newly obtained site plans are offering a clearer picture of how a proposed Sphere entertainment venue could reshape the National... The post Site Plans Reveal New Details for Proposed Sphere at Nation",
-      "company": "Site Plans Reveal New Details",
-      "link": "https://www.ticketnews.com/2026/07/site-plans-reveal-new-details-for-proposed-sphere-at-national-harbor/",
-      "date": "Jul 10, 26",
-      "source": "Ticket News",
-      "layer": 2,
-      "access": "pe",
-      "score": 9,
-      "moments": []
-    },
-    {
-      "id": "892b9a7f3f77",
-      "title": "These AI startups are growing revenue at faster and faster rates",
-      "summary": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
-      "company": "These AI",
-      "link": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
-      "date": "Jul 08, 26",
-      "source": "TechCrunch Startups",
-      "layer": 2,
-      "access": "venture",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "5cebcbcde456",
-      "title": "Few Composers Can Sell Out Arenas. He\u2019s One of Them.",
-      "summary": "Joe Hisaishi got famous writing the soundtracks to Hayao Miyazaki\u2019s Studio Ghibli films. Now he is focusing on his first love: classical music.",
-      "company": "Few Composers Can Sell Out Arenas",
-      "link": "https://www.nytimes.com/2026/07/07/arts/music/joe-hisaishi-composer-studio-ghibli.html",
-      "date": "Jul 09, 26",
-      "source": "NYT Music",
-      "layer": 2,
-      "access": "pe",
-      "score": 7,
-      "moments": []
-    },
-    {
-      "id": "a05916600a7e",
-      "title": "Live Nation Wins New Era Arbitration Ruling, But Ticketmaster\u2019s Fine Print Fights Continue",
-      "summary": "A New York federal judge ordered secondary-market ticket plaintiffs into arbitration under New Era ADR\u2019s revised rules, distinguishing the Ninth... The post Live Nation Wins New Era Arbitration Ruling",
-      "company": "Live Nation Wins New Era Arbitration",
-      "link": "https://www.ticketnews.com/2026/07/live-nation-wins-new-era-arbitration-ruling-but-ticketmasters-fine-print-fights-continue/",
-      "date": "Jul 09, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 6,
-      "moments": []
-    },
-    {
-      "id": "b1f32beba974",
-      "title": "Jay-Z\u2019s Yankee Stadium Night Two Setlist: Every Song Played at the Second Show",
-      "summary": "Night two included appearances from Slick Rick, Eminem and Pharrell. Check out every song that was performed.",
-      "company": "Jay-Z\u2019s Yankee Stadium Night Two Setlist:",
-      "link": "https://www.billboard.com/lists/jay-z-yankee-stadium-night-two-setlist/",
-      "date": "Jul 12, 26",
-      "source": "Billboard",
-      "layer": 2,
+      "id": "ec086fe21edf",
+      "title": "PHILATRON EXPANDS MANUFACTURING CAPABILITIES WITH NEW HIGH-HEAT SILICONE WIRE AND CABLE PRODUCTION LINE",
+      "summary": "LOS ANGELES, July 13, 2026 /PRNewswire/ -- Philatron Wire and Cable, a leader in custom cable manufacturing, officially announces the installation of its new state-of-the-art high-heat silicone wire a",
+      "company": "",
+      "link": "https://www.prnewswire.com/news-releases/philatron-expands-manufacturing-capabilities-with-new-high-heat-silicone-wire-and-cable-production-line-302823388.html",
+      "date": "Jul 13, 26",
+      "source": "PR Newswire",
+      "layer": 4,
       "access": "pe",
       "score": 5,
       "moments": []
@@ -441,6 +498,19 @@
       "date": "Jul 10, 26",
       "source": "Front Office Sports",
       "layer": 3,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "8f95fdb4c719",
+      "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
+      "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
+      "company": "Global Times",
+      "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/",
+      "date": "May 09, 26",
+      "source": "Venues Today",
+      "layer": 4,
       "access": "pe",
       "score": 4,
       "moments": []
