@@ -1,55 +1,53 @@
 {
-  "generated": "2026-07-13T14:44:55.466769+00:00",
-  "total": 34,
+  "generated": "2026-07-14T13:54:43.176780+00:00",
+  "total": 37,
   "scraped": [
     {
-      "id": "eb48d1d2b220",
-      "title": "European fundraising splits into tale of \u2018haves\u2019 and \u2018have-nots\u2019 despite dealmaking recovery",
-      "summary": "European private equity entered the second half of 2026 with improving dealmaking and a rebound in headline exit values, but the fundraising market remains under significant pressure as limited partne",
-      "company": "European",
-      "link": "https://www.altassets.net/featured/european-fundraising-splits-into-tale-of-haves-and-have-nots-despite-dealmaking-recovery.html",
-      "date": "Jul 10, 26",
-      "source": "AltAssets",
-      "layer": 5,
+      "id": "3e5389ccee28",
+      "title": "Harith secures antitrust clearance for acquisition of South African carrier FlySafair",
+      "summary": "Private equity firm Harith General Partners has received antitrust approval for its proposed acquisition of South African low-cost airline FlySafair, marking a key step towards completing the transact",
+      "company": "Harith",
+      "link": "https://www.privateequitywire.co.uk/harith-secures-antitrust-clearance-for-acquisition-of-south-african-carrier-flysafair/",
+      "date": "Jul 14, 26",
+      "source": "PE Wire",
+      "layer": 3,
       "access": "pe",
-      "score": 23,
-      "moments": [
-        "festival_headliner",
-        "pe_investment",
-        "lp_commitment"
-      ]
-    },
-    {
-      "id": "a29d60306b61",
-      "title": "Mill Point closes deal for Littlejohn-backed Total Safety Supplies & Solutions; Lower mid-market firm Comvest Private Equity rebrands as Vesterra",
-      "summary": "Mill Point Capital has completes acquisition of Total Safety Supplies &#038; Solutions from Littlejohn &#038; Co. portfolio company Total Safety US; Comvest Private Equity rebrands as Vesterra Capital",
-      "company": "Mill Point",
-      "link": "https://www.pehub.com/mill-point-closes-deal-for-littlejohn-backed-total-safety-supplies-lower-mid-market-firm-comvest-private-equity-rebrands-as-vesterra/",
-      "date": "Jul 13, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 20,
+      "score": 24,
       "moments": [
         "acquisition",
-        "pe_investment",
-        "fund_launch"
+        "pe_investment"
       ]
     },
     {
-      "id": "a89159cc2fde",
-      "title": "Andera Partners raises record \u20ac430m for fourth expansion fund after lifting hard cap twice",
-      "summary": "Andera Partners has held the final close of its fourth expansion capital fund on \u20ac430m, exceeding its original \u20ac350m hard cap after increasing the limit twice to accommodate strong investor demand. Th",
-      "company": "Andera Partners",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/france-western-europe-europe-by-region/andera-partners-raises-record-e430m-for-fourth-expansion-fund-after-lifting-hard-cap-twice.html",
-      "date": "Jul 09, 26",
+      "id": "6e699affdd53",
+      "title": "Iron Maiden Sells Music Catalog, Name, Image and Likeness Rights to Pophouse",
+      "summary": "Pophouse Entertainment, the investment firm co-founded by ABBA\u2019s Bjorn Ulvaeus, has announced a partnership with legendary British heavy metal band Iron Maiden, acquiring a stake in the publishing and",
+      "company": "Iron Maiden Sells Music Catalog Name",
+      "link": "https://variety.com/2026/music/news/iron-maiden-sells-music-catalog-to-pophouse-1236810440/",
+      "date": "Jul 14, 26",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 22,
+      "moments": [
+        "acquisition",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "d151c42729b2",
+      "title": "Pictet raises $253m for debut environment co-investment fund",
+      "summary": "Pictet Alternative Advisors has beaten its target for its first dedicated environmental private equity co-investment fund, securing $253m in commitments. The post Pictet raises $253m for debut environ",
+      "company": "Pictet",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/switzerland-western-europe-europe-by-region/pictet-raises-253m-for-debut-environment-co-investment-fund.html",
+      "date": "Jul 14, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
       "score": 19,
       "moments": [
-        "pe_investment",
-        "fund_launch"
+        "funding_round",
+        "pe_investment"
       ]
     },
     {
@@ -69,19 +67,35 @@
       ]
     },
     {
-      "id": "ae2313011b95",
-      "title": "Deal Roundup: TA, Reverence to sell Russell Investments to B Capital-led consortium, Warburg investment values Oxylabs at $3.6bn",
-      "summary": "A B Capital-led investor consortium including CalPERS has agreed to acquire Russell Investments from TA Associates and Reverence Capital Partners. The post Deal Roundup: TA, Reverence to sell Russell ",
-      "company": "Deal Roundup",
-      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-ta-reverence-to-sell-russell-investments-to-b-capital-led-consortium-warburg-investment-values-oxylabs-at-3-6bn.html",
-      "date": "Jul 10, 26",
+      "id": "0d433a461423",
+      "title": "HarbourVest closes $4.75bn co-invest fund after exceeding target",
+      "summary": "HarbourVest Partners has closed its seventh flagship direct co-investment programme on about $4.75bn, comfortably surpassing its $4bn target. The post HarbourVest closes $4.75bn co-invest fund after e",
+      "company": "HarbourVest",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/harbourvest-closes-4-75bn-co-invest-fund-after-exceeding-target.html",
+      "date": "Jul 13, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
       "score": 16,
       "moments": [
-        "acquisition",
-        "pe_investment"
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "dc1c107078f0",
+      "title": "Rico Nasty Reveals New U.S. Headlining Tour Dates",
+      "summary": "Rico Nasty has announced a new headlining U.S. tour that will kick off later this summer, adding a series of... The post Rico Nasty Reveals New U.S. Headlining Tour Dates appeared first on TicketNews.",
+      "company": "Rico Nasty Reveals New U.S Headlining",
+      "link": "https://www.ticketnews.com/2026/07/rico-nasty-reveals-new-u-s-headlining-tour-dates/",
+      "date": "Jul 13, 26",
+      "source": "Ticket News",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "tour_announcement",
+        "festival_headliner"
       ]
     },
     {
@@ -117,12 +131,12 @@
       ]
     },
     {
-      "id": "42b4f161880f",
-      "title": "TPG, Blackstone said to explore $4bn-plus Hologic surgical unit sale, PSG backs BrightAnalytics",
-      "summary": "TPG and Blackstone are exploring the sale of the surgical division of recently acquired medtech company Hologic in a deal expected to fetch more than $4bn, according to the Financial Times. The post T",
-      "company": "TPG Blackstone",
-      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/tpg-blackstone-said-to-explore-4bn-plus-hologic-surgical-unit-sale-psg-backs-brightanalytics.html",
-      "date": "Jul 09, 26",
+      "id": "50097a2988d3",
+      "title": "Warburg Pincus-led group to buy in to PANTHERx Rare, I Squared to sell TIP Group stake",
+      "summary": "A Warburg Pincus-led investor group has agreed to acquire a controlling interest in US rare disease pharmacy PANTHERx Rare from Nautic Partners, General Atlantic and The Vistria Group, with Nautic and",
+      "company": "Warburg Pincus-led",
+      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/warburg-pincus-led-group-to-buy-in-to-pantherx-rare-i-squared-to-sell-tip-group-stake.html",
+      "date": "Jul 14, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -133,12 +147,12 @@
       ]
     },
     {
-      "id": "a943249d24ca",
-      "title": "Serent Capital takes less than 90 days to close $1.3bn Fund VI, its biggest fund yet",
-      "summary": "Serent Capital has sped to a $1.3bn final close for its latest flagship fund, via to an oversubscribed raise which was completed in less than 90 days. The post Serent Capital takes less than 90 days t",
-      "company": "Serent Capital takes less than 90 days to",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/serent-capital-takes-less-than-90-days-to-close-1-3bn-fund-vi.html",
-      "date": "Jul 09, 26",
+      "id": "d9716b9a66ec",
+      "title": "DELTA Equity Partners hits \u20ac125m hard cap for second buy-and-build fund",
+      "summary": "Dutch lower mid-market investor DELTA Equity Partners has raced to a final close of its second flagship fund on its \u20ac125m hard cap, just four months after launching the vehicle. The post DELTA Equity ",
+      "company": "DELTA Equity Partners",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/netherlands-western-europe-europe-by-region/delta-equity-partners-hits-e125m-hard-cap-for-second-buy-and-build-fund.html",
+      "date": "Jul 14, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -149,12 +163,44 @@
       ]
     },
     {
-      "id": "cc9b7fd59427",
-      "title": "SkyKnight Capital hits $2bn hard cap for fifth flagship fund",
-      "summary": "SkyKnight Capital has held a final close for its fifth flagship buyout fund at its $2bn hard cap, completing the oversubscribed fundraising in less than six months. The post SkyKnight Capital hits $2b",
-      "company": "SkyKnight Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/skyknight-capital-hits-2bn-hard-cap-for-fifth-flagship-fund.html",
-      "date": "Jul 09, 26",
+      "id": "0158d625d0de",
+      "title": "Citation Capital closes $1.2bn debut fund as emerging manager bucks fundraising headwinds",
+      "summary": "Citation Capital has held a $1.2bn final close for its inaugural private equity fund, making it one of the largest first-time buyout vehicles raised in recent years despite a difficult fundraising env",
+      "company": "Citation Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/citation-capital-closes-1-2bn-debut-fund-as-emerging-manager-bucks-fundraising-headwinds.html",
+      "date": "Jul 14, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "be878d555a9f",
+      "title": "Lightspring Capital closes $218m second fund as lower mid-market specialist expands SBIC platform",
+      "summary": "Lightspring Capital Partners has held the final close of its second flagship fund on just over $218m, strengthening its position in the US lower middle market. The post Lightspring Capital closes $218",
+      "company": "Lightspring Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/lightspring-capital-closes-218m-second-fund-as-lower-mid-market-specialist-expands-sbic-platform.html",
+      "date": "Jul 14, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "f863e357763f",
+      "title": "Acurio Ventures closes \u20ac115m debut VC secondaries fund, two years after rebrand from All Iron Ventures",
+      "summary": "Acurio Ventures has held the final close of its debut venture capital secondaries fund on \u20ac115m, two years after the Spain-based investor rebranded from All Iron Ventures. The post Acurio Ventures clo",
+      "company": "Acurio Ventures",
+      "link": "https://www.altassets.net/private-equity-news/by-news-type/fund-news/funds-closed/acurio-ventures-closes-e115m-debut-vc-secondaries-fund-two-years-after-rebrand-from-all-iron-ventures.html",
+      "date": "Jul 13, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -181,18 +227,18 @@
       ]
     },
     {
-      "id": "a689cb653762",
-      "title": "Budget cuts put men\u2019s and women\u2019s tennis tour merger on indefinite hold",
-      "summary": "Negotiations break down over proposed revenue shareWomen\u2019s game faces significant cuts to operationsThe creation of a joint commercial venture between the tours of the men\u2019s Association of Tennis Prof",
-      "company": "Budget",
-      "link": "https://www.theguardian.com/sport/2026/jul/13/budget-mens-womens-tours-tennis-merger-atp-wta",
-      "date": "Jul 13, 26",
-      "source": "Guardian Sport",
-      "layer": 2,
-      "access": "venture",
-      "score": 20,
+      "id": "a35f78389c67",
+      "title": "Reading & Leeds boss talks biggest-ever arena overhaul and \u201cstrength of UK and Irish music\u201d on line-up: \u201cWe\u2019re buzzing with ideas for the future\u201d",
+      "summary": "\"I'm as excited about Reading &#038; Leeds as I've ever been,\" said Melvin Benn, who also told NME what Charli XCX will bring to her headline show, teased a potential four full days of music in the ye",
+      "company": "Reading",
+      "link": "https://www.nme.com/news/music/reading-leeds-boss-talks-biggest-ever-arena-overhaul-and-strength-of-uk-and-irish-music-on-line-up-were-buzzing-with-ideas-for-the-future-3955730?utm_source=rss&utm_medium=rss&utm_campaign=reading-leeds-boss-talks-biggest-ever-arena-overhaul-and-strength-of-uk-and-irish-music-on-line-up-were-buzzing-with-ideas-for-the-future",
+      "date": "Jul 14, 26",
+      "source": "NME",
+      "layer": 1,
+      "access": "pe",
+      "score": 19,
       "moments": [
-        "acquisition"
+        "festival_headliner"
       ]
     },
     {
@@ -241,63 +287,33 @@
       ]
     },
     {
-      "id": "c437cfb534c8",
-      "title": "HIG Capital\u2019s OB Streem completes acquisition of Med Frigo in Greece",
-      "summary": "Med Frigo&#8217;s cold-chain facilities and refrigerated fleet move fresh fish exports for Greece&#8217;s largest aquaculture producers across Europe The deal follows OB Streem&#8217;s appointment of ",
-      "company": "HIG Capital\u2019s OB Streem",
-      "link": "https://www.pehub.com/hig-capitals-ob-streem-completes-acquisition-of-med-frigo-in-greece/",
+      "id": "7361a56776e3",
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "summary": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
+      "company": "Hermes",
+      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
       "date": "Jul 13, 26",
-      "source": "PE Hub",
-      "layer": 2,
+      "source": "TechCrunch Startups",
+      "layer": 1,
+      "access": "venture",
+      "score": 15,
+      "moments": [
+        "valuation"
+      ]
+    },
+    {
+      "id": "716baa3e0c40",
+      "title": "A dozen states file lawsuit to block Paramount Skydance-Warner Bros. Discovery merger",
+      "summary": "State attorneys general from a dozen states, including California, New York and Washington, filed a lawsuit to block Paramount Skydance's $110 billion takeover of Warner Bros. Discovery. Why it matter",
+      "company": "",
+      "link": "https://www.axios.com/2026/07/13/paramount-warner-bros-discovery-state-antitrust",
+      "date": "Jul 13, 26",
+      "source": "Axios",
+      "layer": 3,
       "access": "pe",
       "score": 15,
       "moments": [
         "acquisition"
-      ]
-    },
-    {
-      "id": "7e362aa9deb5",
-      "title": "Rays Tout New Stadium Designs As Funding Talks Continue",
-      "summary": "Nathan Ray Seebeck-Imagn Images",
-      "company": "Rays Tout New Stadium Designs As",
-      "link": "https://frontofficesports.com/rays-tout-new-stadium-designs-as-funding-talks-continue/",
-      "date": "Jul 09, 26",
-      "source": "Front Office Sports",
-      "layer": 2,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "venue_announcement"
-      ]
-    },
-    {
-      "id": "13e000389afe",
-      "title": "Would David Ellison Really Pull Paramount Out of California if the State Tries to Block Warner Bros. Merger?",
-      "summary": "Is David Ellison considering a nuclear option of relocating Paramount&#8217;s headquarters from California &#8212; and potentially diverting billions of production dollars from the Golden State &#8212",
-      "company": "Would David Ellison Really Pull Paramount",
-      "link": "https://variety.com/2026/biz/news/paramount-move-out-california-warner-bros-merger-1236809604/",
-      "date": "Jul 13, 26",
-      "source": "Variety Biz",
-      "layer": 3,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "e301d2e55c3c",
-      "title": "See Jay-Z Bring Out Eminem, Pharrell Williams at Yankee Stadium Night Two",
-      "summary": "Rapper\u2019s second night in the Bronx focused on his 2001 album, The Blueprint",
-      "company": "See Jay-Z Bring Out Eminem Pharrell",
-      "link": "https://www.rollingstone.com/music/music-news/jay-z-eminem-pharrell-williams-yankee-stadium-night-two-1235592434/",
-      "date": "Jul 12, 26",
-      "source": "Rolling Stone Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "surprise_appearance"
       ]
     },
     {
@@ -316,78 +332,18 @@
       ]
     },
     {
-      "id": "b3ca5b340250",
-      "title": "Ballast Rock hires PPM America\u2019s Michael Welch to lead investor relations and capital formation",
-      "summary": "Ballast Rock Asset Management has appointed Michael Welch as head of investor relations and capital formation, creating a new senior role as the alternative investment manager looks to expand fundrais",
-      "company": "Ballast Rock",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/ballast-rock-hires-ppm-americas-michael-welch-to-lead-investor-relations-and-capital-formation.html",
-      "date": "Jul 09, 26",
-      "source": "AltAssets",
-      "layer": 2,
+      "id": "2748388468c7",
+      "title": "Alice Cooper Sets 2026 North American Headlining Tour",
+      "summary": "Alice Cooper is getting ready to hit the road, bringing his &#8220;Alice&#8217;s Attic&#8221; stage production to cities across the United... The post Alice Cooper Sets 2026 North American Headlining ",
+      "company": "Alice Cooper Sets",
+      "link": "https://www.ticketnews.com/2026/07/alice-cooper-sets-2026-north-american-headlining-tour/",
+      "date": "Jul 13, 26",
+      "source": "Ticket News",
+      "layer": 4,
       "access": "pe",
       "score": 14,
       "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "3fa6c00d45a7",
-      "title": "\u2018We can find renewal despite the bullshit we navigate as Black women\u2019: Kelela on stan armies and speaking up for Gaza",
-      "summary": "The genre-bending R&amp;B artist\u2019s new album finds fresh focus for her uncompromising vision, blending soul, sex and shoegazeMore than most musicians on a typical promo cycle, Kelela has been appearin",
-      "company": "\u2018We",
-      "link": "https://www.theguardian.com/music/2026/jul/12/kelela-new-avatar-interview-idea-1-pink-pantheress",
-      "date": "Jul 12, 26",
-      "source": "Guardian Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "56a997bad3bf",
-      "title": "Sportico Transactions: Moves and Mergers Roundup for July 10",
-      "summary": "Welcome to Sportico\u2019s transactions wire, a weekly rundown of personnel, partnerships and products across the sports business industry. PERSONNEL IMG Appoints Jackie Stevenson as Chief Client &#38; Ope",
-      "company": "Sportico Transactions",
-      "link": "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-roundup-july-10-1234938500/",
-      "date": "Jul 10, 26",
-      "source": "Sportico",
-      "layer": 4,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "b6e743e91866",
-      "title": "Mastodon Preview New Album With Rousing Single \u2018Snakes For Dinner\u2019",
-      "summary": "Grammy-winning rock band will release Marrow Deep, their ninth studio album, next month",
-      "company": "Mastodon Preview New Album With Rousing",
-      "link": "https://www.rollingstone.com/music/music-news/mastodon-snakes-for-dinner-single-marrow-deep-album-1235592538/",
-      "date": "Jul 13, 26",
-      "source": "Rolling Stone Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "66ec3dca8cac",
-      "title": "UK pension scheme Nest launches \u00a3200m venture capital sleeve, Schroders Capital to manage",
-      "summary": "UK workplace pension scheme Nest has unveiled an initial \u00a3200m of investment targeting high-growth private companies through the creation of a dedicated venture capital sleeve managed by Schroders Cap",
-      "company": "UK pension scheme Nest",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/uk-pension-scheme-nest-launches-200m-venture-capital-sleeve-schroders-capital-to-manage.html",
-      "date": "Jul 09, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "pe_investment"
+        "festival_headliner"
       ]
     },
     {
@@ -406,6 +362,21 @@
       ]
     },
     {
+      "id": "eab63ed9e3e1",
+      "title": "ESPN Blames Human For Headline Error in AI Article",
+      "summary": "Jerome Miron-Imagn Images",
+      "company": "ESPN Blames Human For Headline Error",
+      "link": "https://frontofficesports.com/espn-blames-human-headline-error-ai-article/",
+      "date": "Jul 13, 26",
+      "source": "Front Office Sports",
+      "layer": 3,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
       "id": "2d37036842fb",
       "title": "Bears\u2019 Indiana Stadium Plans in \u2018Red Zone,\u2019 Governor Says",
       "summary": "Jeff Hanisch-Imagn Images",
@@ -418,6 +389,21 @@
       "score": 9,
       "moments": [
         "venue_announcement"
+      ]
+    },
+    {
+      "id": "419ed3ea866c",
+      "title": "David Zaslav Sells $59 Million More in Warner Bros. Discovery Stock",
+      "summary": "As Paramount Skydance&#8217;s deal to take over Warner Bros. Discovery is still pending, WBD CEO David Zaslav is continuing to cash out his stock in the company he is set to depart in the coming month",
+      "company": "David Zaslav Sells",
+      "link": "https://variety.com/2026/film/news/david-zaslav-sells-59-million-warner-bros-discovery-stock-1236810050/",
+      "date": "Jul 13, 26",
+      "source": "Variety Biz",
+      "layer": 3,
+      "access": "public",
+      "score": 6,
+      "moments": [
+        "valuation"
       ]
     },
     {
@@ -451,16 +437,16 @@
       ]
     },
     {
-      "id": "0d3a79deae41",
-      "title": "Live Nation\u2019s Munich Arena Cleared for Next Development Phase",
-      "summary": "Munich Arena has received key planning approval from the City of Freising, allowing the 20,000-capacity venue project to move into... The post Live Nation\u2019s Munich Arena Cleared for Next Development P",
-      "company": "Live Nation\u2019s Munich Arena Cleared",
-      "link": "https://www.ticketnews.com/2026/07/live-nations-munich-arena-cleared-for-next-development-phase/",
-      "date": "Jul 10, 26",
-      "source": "Ticket News",
+      "id": "6f6cd4fd0b3d",
+      "title": "Jay-Z\u2019s Third Yankee Stadium Concert Plagued by Hours-Long Delay After Security Breach \u2014 \u2018We Didn\u2019t Want People to Get Trampled\u2019",
+      "summary": "Jay-Z\u2019s third and most hotly anticipated concert at Yankee Stadium on Sunday night was plagued by a nearly four-hour delay due to fans rushing the venue\u2019s gates, with Jay finally taking the stage four",
+      "company": "Jay-Z\u2019s Third Yankee Stadium Concert Plagued",
+      "link": "https://variety.com/2026/music/news/jay-z-yankee-stadium-concert-delay-security-breach-1236809269/",
+      "date": "Jul 13, 26",
+      "source": "Variety Music",
       "layer": 2,
       "access": "pe",
-      "score": 16,
+      "score": 15,
       "moments": []
     },
     {
@@ -477,29 +463,81 @@
       "moments": []
     },
     {
-      "id": "ec086fe21edf",
-      "title": "PHILATRON EXPANDS MANUFACTURING CAPABILITIES WITH NEW HIGH-HEAT SILICONE WIRE AND CABLE PRODUCTION LINE",
-      "summary": "LOS ANGELES, July 13, 2026 /PRNewswire/ -- Philatron Wire and Cable, a leader in custom cable manufacturing, officially announces the installation of its new state-of-the-art high-heat silicone wire a",
-      "company": "",
-      "link": "https://www.prnewswire.com/news-releases/philatron-expands-manufacturing-capabilities-with-new-high-heat-silicone-wire-and-cable-production-line-302823388.html",
-      "date": "Jul 13, 26",
-      "source": "PR Newswire",
-      "layer": 4,
+      "id": "177b052ae80a",
+      "title": "System of a Down review \u2013 perverted pop and anti-war anger mixed into a metal melee",
+      "summary": "Tottenham Hotspur Stadium, LondonThe veteran band may not have much new material to show for the past decade or so but this brutal, melodious mayhem still inspires catharsisSince re-forming in 2010, S",
+      "company": "System",
+      "link": "https://www.theguardian.com/music/2026/jul/14/system-of-a-down-review-tottenham-hotspur-stadium-london",
+      "date": "Jul 14, 26",
+      "source": "Guardian Music",
+      "layer": 2,
       "access": "pe",
-      "score": 5,
+      "score": 10,
       "moments": []
     },
     {
-      "id": "000004b2b471",
-      "title": "\u2018Style of Play\u2019 Hosts on World Cup and More",
-      "summary": "Julie Ertz and Kealia Watt on World Cup fever, their new podcast, women's soccer growth, and Netflix.",
-      "company": "\u2018Style",
-      "link": "https://frontofficesports.com/videos/style-of-play-hosts-on-world-cup-and-more/",
-      "date": "Jul 10, 26",
-      "source": "Front Office Sports",
+      "id": "98773dcd2595",
+      "title": "Netflix\u2019s $50M Bet on Home Run Derby Pumps New Life Into Exhibition",
+      "summary": "PHILADELPHIA \u2014 Like several of the contestants in Monday night\u2019s MLB Home Run Derby, Netflix\u2019s first broadcast of the competition started slow. Bouncing between announcers in a booth and on the field ",
+      "company": "Netflix\u2019s",
+      "link": "https://www.sportico.com/leagues/baseball/2026/mlb-home-run-derby-netflix-1234938817/",
+      "date": "Jul 14, 26",
+      "source": "Sportico",
       "layer": 3,
       "access": "pe",
-      "score": 4,
+      "score": 9,
+      "moments": []
+    },
+    {
+      "id": "c7474dea84f9",
+      "title": "Site Plans Reveal New Details for Proposed Sphere at National Harbor",
+      "summary": "Newly obtained site plans are offering a clearer picture of how a proposed Sphere entertainment venue could reshape the National... The post Site Plans Reveal New Details for Proposed Sphere at Nation",
+      "company": "Site Plans Reveal New Details",
+      "link": "https://www.ticketnews.com/2026/07/site-plans-reveal-new-details-for-proposed-sphere-at-national-harbor/",
+      "date": "Jul 10, 26",
+      "source": "Ticket News",
+      "layer": 2,
+      "access": "pe",
+      "score": 9,
+      "moments": []
+    },
+    {
+      "id": "892b9a7f3f77",
+      "title": "These AI startups are growing revenue at faster and faster rates",
+      "summary": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
+      "company": "These AI",
+      "link": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+      "date": "Jul 08, 26",
+      "source": "TechCrunch Startups",
+      "layer": 2,
+      "access": "venture",
+      "score": 8,
+      "moments": []
+    },
+    {
+      "id": "5cebcbcde456",
+      "title": "Few Composers Can Sell Out Arenas. He\u2019s One of Them.",
+      "summary": "Joe Hisaishi got famous writing the soundtracks to Hayao Miyazaki\u2019s Studio Ghibli films. Now he is focusing on his first love: classical music.",
+      "company": "Few Composers Can Sell Out Arenas",
+      "link": "https://www.nytimes.com/2026/07/07/arts/music/joe-hisaishi-composer-studio-ghibli.html",
+      "date": "Jul 09, 26",
+      "source": "NYT Music",
+      "layer": 2,
+      "access": "pe",
+      "score": 7,
+      "moments": []
+    },
+    {
+      "id": "d4cd26828f61",
+      "title": "Bryce Harper\u2019s Denial of FanDuel Video Could Trigger Lawsuit",
+      "summary": "Philadelphia Phillies first baseman Bryce Harper said Monday he didn\u2019t know a Cameo video would be used by FanDuel to further the company\u2019s relationship with a VIP customer and addicted gambler, and h",
+      "company": "Bryce Harper\u2019s Denial",
+      "link": "https://www.sportico.com/law/analysis/2026/bryce-harper-fanduel-cameo-video-legal-implications-1234938819/",
+      "date": "Jul 14, 26",
+      "source": "Sportico",
+      "layer": 4,
+      "access": "pe",
+      "score": 5,
       "moments": []
     },
     {
