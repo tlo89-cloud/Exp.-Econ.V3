@@ -1,21 +1,22 @@
 {
-  "generated": "2026-07-14T13:54:43.176780+00:00",
-  "total": 37,
+  "generated": "2026-07-15T13:52:00.279856+00:00",
+  "total": 36,
   "scraped": [
     {
-      "id": "3e5389ccee28",
-      "title": "Harith secures antitrust clearance for acquisition of South African carrier FlySafair",
-      "summary": "Private equity firm Harith General Partners has received antitrust approval for its proposed acquisition of South African low-cost airline FlySafair, marking a key step towards completing the transact",
-      "company": "Harith",
-      "link": "https://www.privateequitywire.co.uk/harith-secures-antitrust-clearance-for-acquisition-of-south-african-carrier-flysafair/",
-      "date": "Jul 14, 26",
-      "source": "PE Wire",
-      "layer": 3,
+      "id": "b34ab645ee3a",
+      "title": "Wafra raises $2bn for GP stakes-focused Constellation Generation V",
+      "summary": "Wafra, the investment house backed by Kuwait\u2019s public pension fund, has held a $2bn final close for its GP stakes-focused Constellation Generation V fund. The post Wafra raises $2bn for GP stakes-focu",
+      "company": "Wafra",
+      "link": "https://www.altassets.net/private-equity-news/by-region/middle-east-and-israel-by-region/wafra-raises-2bn-for-gp-stakes-focused-constellation-generation-v.html",
+      "date": "Jul 15, 26",
+      "source": "AltAssets",
+      "layer": 5,
       "access": "pe",
-      "score": 24,
+      "score": 26,
       "moments": [
-        "acquisition",
-        "pe_investment"
+        "funding_round",
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
@@ -35,6 +36,22 @@
       ]
     },
     {
+      "id": "8931d106f0d4",
+      "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
+      "summary": "DeepSeek, the Chinese large language model developer, is said to be preparing for a 2027 IPO debut as it also looks to raise around $1.5 billion in new funds at a $71 billion valuation.",
+      "company": "DeepSeek reportedly in talks to",
+      "link": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
+      "date": "Jul 14, 26",
+      "source": "TechCrunch Startups",
+      "layer": 1,
+      "access": "pe",
+      "score": 22,
+      "moments": [
+        "funding_round",
+        "ipo"
+      ]
+    },
+    {
       "id": "d151c42729b2",
       "title": "Pictet raises $253m for debut environment co-investment fund",
       "summary": "Pictet Alternative Advisors has beaten its target for its first dedicated environmental private equity co-investment fund, securing $253m in commitments. The post Pictet raises $253m for debut environ",
@@ -51,28 +68,28 @@
       ]
     },
     {
-      "id": "ef90a26fd47b",
-      "title": "Jay-Z review \u2013 rap legend dazzles New York City with lavish spectacle, sharp bars and Beyonc\u00e9",
-      "summary": "Yankee Stadium, New York CityThe rapper celebrates 30 years of his classic debut album Reasonable Doubt with eye-popping visuals and special guests in a love letter to hip-hop cultureThe beauty of wat",
-      "company": "Jay-Z",
-      "link": "https://www.theguardian.com/music/2026/jul/11/jay-z-concert-review-new-york-city-reasonable-doubt",
-      "date": "Jul 11, 26",
-      "source": "Guardian Music",
-      "layer": 1,
+      "id": "3ee46ea1afef",
+      "title": "Stone Point, Further Global, Permira-backed Kroll acquires ABC economics",
+      "summary": "ABC economics, founded by economist Frank Maier-Rigaud, advises on competition, regulatory and dispute matters across Europe and internationally. The post Stone Point, Further Global, Permira-backed K",
+      "company": "",
+      "link": "https://www.pehub.com/stone-point-backed-kroll-acquires-abc-economics/",
+      "date": "Jul 15, 26",
+      "source": "PE Hub",
+      "layer": 5,
       "access": "pe",
-      "score": 18,
+      "score": 16,
       "moments": [
-        "surprise_appearance",
-        "festival_headliner"
+        "acquisition",
+        "company_launch"
       ]
     },
     {
-      "id": "0d433a461423",
-      "title": "HarbourVest closes $4.75bn co-invest fund after exceeding target",
-      "summary": "HarbourVest Partners has closed its seventh flagship direct co-investment programme on about $4.75bn, comfortably surpassing its $4bn target. The post HarbourVest closes $4.75bn co-invest fund after e",
-      "company": "HarbourVest",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/harbourvest-closes-4-75bn-co-invest-fund-after-exceeding-target.html",
-      "date": "Jul 13, 26",
+      "id": "fe7c0782e3b4",
+      "title": "Munich Private Equity launches second ELTIF focused on European lower mid-market",
+      "summary": "Munich Private Equity has launched its second European Long-Term Investment Fund (ELTIF), giving retail investors access to a portfolio of European lower mid-market private equity funds. The post Muni",
+      "company": "Munich Private Equity",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/germany-western-europe-europe-by-region/munich-private-equity-launches-second-eltif-focused-on-european-lower-mid-market.html",
+      "date": "Jul 15, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -80,22 +97,6 @@
       "moments": [
         "pe_investment",
         "fund_launch"
-      ]
-    },
-    {
-      "id": "dc1c107078f0",
-      "title": "Rico Nasty Reveals New U.S. Headlining Tour Dates",
-      "summary": "Rico Nasty has announced a new headlining U.S. tour that will kick off later this summer, adding a series of... The post Rico Nasty Reveals New U.S. Headlining Tour Dates appeared first on TicketNews.",
-      "company": "Rico Nasty Reveals New U.S Headlining",
-      "link": "https://www.ticketnews.com/2026/07/rico-nasty-reveals-new-u-s-headlining-tour-dates/",
-      "date": "Jul 13, 26",
-      "source": "Ticket News",
-      "layer": 5,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "tour_announcement",
-        "festival_headliner"
       ]
     },
     {
@@ -131,6 +132,54 @@
       ]
     },
     {
+      "id": "4f7cf99f777b",
+      "title": "On \u2018Caribenya,\u2019 Lido Pimienta Found a Lifeline",
+      "summary": "On Lido Pimienta\u2019s new album, \u201cCaribenya,\u201d the Colombian Canadian musician sought a warmer, more complex depiction of Caribbean culture. Creating it helped her rediscover the beauty of living.",
+      "company": "On \u2018Caribenya,\u2019 Lido Pimienta Found",
+      "link": "https://www.nytimes.com/2026/07/15/arts/music/lido-pimienta-new-album-caribenya.html",
+      "date": "Jul 15, 26",
+      "source": "NYT Arts",
+      "layer": 1,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "album_announcement",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "cf5a4c8a3660",
+      "title": "Deal Roundup: Stripe, Advent said to make $53bn approach for PayPal, KKR to buy into Thomson Reuters Global Print",
+      "summary": "Stripe and Advent International have jointly offered to acquire PayPal Holdings for $60.50 per share, valuing the payments company at more than $53bn, according to Reuters. The post Deal Roundup: Stri",
+      "company": "Deal Roundup",
+      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-stripe-advent-said-to-make-53bn-approach-for-paypal-kkr-to-buy-into-thomson-reuters-global-print.html",
+      "date": "Jul 15, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "acquisition",
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "19dcedd6c031",
+      "title": "Talde secures \u20ac155m first close for third flagship growth fund",
+      "summary": "Spanish mid-market investor Talde Gesti\u00f3n has raised more than \u20ac155m at the first close of its third flagship growth equity vehicle, reaching almost 80% of its \u20ac200m fundraising target. The post Talde",
+      "company": "Talde",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/spain-western-europe-europe-by-region/talde-secures-e155m-first-close-for-third-flagship-growth-fund.html",
+      "date": "Jul 15, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
       "id": "50097a2988d3",
       "title": "Warburg Pincus-led group to buy in to PANTHERx Rare, I Squared to sell TIP Group stake",
       "summary": "A Warburg Pincus-led investor group has agreed to acquire a controlling interest in US rare disease pharmacy PANTHERx Rare from Nautic Partners, General Atlantic and The Vistria Group, with Nautic and",
@@ -163,54 +212,6 @@
       ]
     },
     {
-      "id": "0158d625d0de",
-      "title": "Citation Capital closes $1.2bn debut fund as emerging manager bucks fundraising headwinds",
-      "summary": "Citation Capital has held a $1.2bn final close for its inaugural private equity fund, making it one of the largest first-time buyout vehicles raised in recent years despite a difficult fundraising env",
-      "company": "Citation Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/citation-capital-closes-1-2bn-debut-fund-as-emerging-manager-bucks-fundraising-headwinds.html",
-      "date": "Jul 14, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "be878d555a9f",
-      "title": "Lightspring Capital closes $218m second fund as lower mid-market specialist expands SBIC platform",
-      "summary": "Lightspring Capital Partners has held the final close of its second flagship fund on just over $218m, strengthening its position in the US lower middle market. The post Lightspring Capital closes $218",
-      "company": "Lightspring Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/lightspring-capital-closes-218m-second-fund-as-lower-mid-market-specialist-expands-sbic-platform.html",
-      "date": "Jul 14, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "f863e357763f",
-      "title": "Acurio Ventures closes \u20ac115m debut VC secondaries fund, two years after rebrand from All Iron Ventures",
-      "summary": "Acurio Ventures has held the final close of its debut venture capital secondaries fund on \u20ac115m, two years after the Spain-based investor rebranded from All Iron Ventures. The post Acurio Ventures clo",
-      "company": "Acurio Ventures",
-      "link": "https://www.altassets.net/private-equity-news/by-news-type/fund-news/funds-closed/acurio-ventures-closes-e115m-debut-vc-secondaries-fund-two-years-after-rebrand-from-all-iron-ventures.html",
-      "date": "Jul 13, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
       "id": "d468645b4458",
       "title": "Alexis Smith of The Feminine Glow Emerges at the Center of the Feminine Energy Coaching Boom",
       "summary": "DUBAI, UAE &#8211; &#160;The Feminine Glow, the fast-growing femininity and inner work platform founded by Alexis Smith, is gaining national attention as interest in coaching, self-development, and fe",
@@ -227,33 +228,63 @@
       ]
     },
     {
-      "id": "a35f78389c67",
-      "title": "Reading & Leeds boss talks biggest-ever arena overhaul and \u201cstrength of UK and Irish music\u201d on line-up: \u201cWe\u2019re buzzing with ideas for the future\u201d",
-      "summary": "\"I'm as excited about Reading &#038; Leeds as I've ever been,\" said Melvin Benn, who also told NME what Charli XCX will bring to her headline show, teased a potential four full days of music in the ye",
-      "company": "Reading",
-      "link": "https://www.nme.com/news/music/reading-leeds-boss-talks-biggest-ever-arena-overhaul-and-strength-of-uk-and-irish-music-on-line-up-were-buzzing-with-ideas-for-the-future-3955730?utm_source=rss&utm_medium=rss&utm_campaign=reading-leeds-boss-talks-biggest-ever-arena-overhaul-and-strength-of-uk-and-irish-music-on-line-up-were-buzzing-with-ideas-for-the-future",
+      "id": "e9c36d3008c4",
+      "title": "Knitting Factory Entertainment Acquires Minority Stake in Does Entertainment, Forming Strategic Growth Partnership to Expand National Live...",
+      "summary": "Companies Align to Accelerate Venue Development, Talent Buying, Concert Promotion and Strategic Growth Across North America Los Angeles, CA / Wilmington, NC, July 14, 2026 \u2013&#160;Knitting Factory Ente",
+      "company": "",
+      "link": "https://venuestoday.com/knitting-factory-entertainment-acquires-minority-stake-in-does-entertainment-forming-strategic-growth-partnership-to-expand-national-live-entertainment-platform/",
+      "date": "Jul 15, 26",
+      "source": "Venues Today",
+      "layer": 2,
+      "access": "pe",
+      "score": 24,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "c1417755de7f",
+      "title": "WGA Sues to Block Paramount-Warner Bros. Merger, Alleging Writers Will Be Paid Less and Have Fewer Opportunities if Deal Goes Through",
+      "summary": "The Writers Guild of America West and Writers Guild of America East filed a lawsuit seeking to block Paramount Skydance&#8217;s proposed $111 billion takeover of Warner Bros. Discovery, alleging it vi",
+      "company": "WGA Sues",
+      "link": "https://variety.com/2026/film/news/wga-sues-to-block-paramount-warner-bros-discovery-merger-1236810972/",
       "date": "Jul 14, 26",
-      "source": "NME",
-      "layer": 1,
+      "source": "Variety Biz",
+      "layer": 3,
+      "access": "pe",
+      "score": 22,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "d8589ffcfab3",
+      "title": "How Strong Is the Democratic State AGs\u2019 Lawsuit Aiming to Block Paramount\u2019s Warner Bros. Takeover?",
+      "summary": "A group of 12 Democratic state attorneys general is suing to block Paramount Skydance&#8217;s merger with Warner Bros. Discovery &#8212; arguing the transaction violates antitrust law by giving the co",
+      "company": "How Strong Is",
+      "link": "https://variety.com/2026/film/news/paramount-warner-bros-merger-state-ags-daily-variety-1236810547/",
+      "date": "Jul 14, 26",
+      "source": "Variety Biz",
+      "layer": 3,
+      "access": "pe",
+      "score": 20,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "69a896d4a4b2",
+      "title": "Lily Allen Shrinks Five North American Arena Dates, Cancels Montreal Show",
+      "summary": "Live Nation announced the fall \u201cWest End Girl\u201d run as the biggest headlining tour of Allen\u2019s career, but stops in... The post Lily Allen Shrinks Five North American Arena Dates, Cancels Montreal Show ",
+      "company": "Lily Allen Shrinks Five North American",
+      "link": "https://www.ticketnews.com/2026/07/lily-allen-shrinks-five-north-american-arena-dates-cancels-montreal-show/",
+      "date": "Jul 14, 26",
+      "source": "Ticket News",
+      "layer": 2,
       "access": "pe",
       "score": 19,
       "moments": [
         "festival_headliner"
-      ]
-    },
-    {
-      "id": "daebd8803e01",
-      "title": "Jay-Z Brings Out Beyonc\u00e9, Blue Ivy Carter, Nas, Alicia Keys and More for \u2018Reasonable Doubt\u2019 30th Anniversary Show at Yankee Stadium",
-      "summary": "Jay-Z did appear to promise far in advance that his &#8220;Reasonable Doubt&#8221; 30th anniversary show would, in fact, be a celebration of the debut album that he dropped back in June 1996. That did",
-      "company": "Jay-Z Brings Out Beyonc\u00e9 Blue Ivy",
-      "link": "https://variety.com/2026/music/news/jay-z-brings-out-beyonce-blue-ivy-carter-yankee-stadium-1236807113/",
-      "date": "Jul 11, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "surprise_appearance"
       ]
     },
     {
@@ -287,6 +318,21 @@
       ]
     },
     {
+      "id": "10364b2770a5",
+      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+      "summary": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
+      "company": "Indian AI",
+      "link": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+      "date": "Jul 15, 26",
+      "source": "TechCrunch Startups",
+      "layer": 2,
+      "access": "venture",
+      "score": 15,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
       "id": "7361a56776e3",
       "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
       "summary": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
@@ -317,33 +363,48 @@
       ]
     },
     {
-      "id": "ae3299212828",
-      "title": "Eat, sleep, rave ... make peace! DJ Yousuke Yukimatsu\u2019s mission to change the world with topless raves",
-      "summary": "He beat brain cancer. Now your favourite DJ\u2019s favourite DJ is on a UK tour, armed with experimental techno, Beastie Boys and Taylor SwiftTen years ago this month, Japanese DJ Yousuke Yukimatsu had an ",
-      "company": "Eat",
-      "link": "https://www.theguardian.com/music/2026/jul/13/eat-sleep-rave-make-peace-dj-yousuke-yukimatsus-mission-to-change-the-world-with-topless-raves",
-      "date": "Jul 13, 26",
-      "source": "Guardian Music",
+      "id": "8ca65bb0c05d",
+      "title": "Festival Republic\u2019s Melvin Benn on lessons learned from the Kanye West controversy and the future of Wireless",
+      "summary": "The rapper was to due headline the festival, which was cancelled, last weekend The post Festival Republic&#8217;s Melvin Benn on lessons learned from the Kanye West controversy and the future of Wirel",
+      "company": "Festival Republic\u2019s Melvin Benn",
+      "link": "https://www.nme.com/news/music/festival-republics-melvin-benn-on-lessons-learned-from-the-kanye-west-controversy-and-the-future-of-wireless-3957108?utm_source=rss&utm_medium=rss&utm_campaign=festival-republics-melvin-benn-on-lessons-learned-from-the-kanye-west-controversy-and-the-future-of-wireless",
+      "date": "Jul 15, 26",
+      "source": "NME",
       "layer": 1,
       "access": "pe",
       "score": 14,
       "moments": [
-        "company_launch"
+        "festival_headliner"
       ]
     },
     {
-      "id": "2748388468c7",
-      "title": "Alice Cooper Sets 2026 North American Headlining Tour",
-      "summary": "Alice Cooper is getting ready to hit the road, bringing his &#8220;Alice&#8217;s Attic&#8221; stage production to cities across the United... The post Alice Cooper Sets 2026 North American Headlining ",
-      "company": "Alice Cooper Sets",
-      "link": "https://www.ticketnews.com/2026/07/alice-cooper-sets-2026-north-american-headlining-tour/",
-      "date": "Jul 13, 26",
-      "source": "Ticket News",
-      "layer": 4,
+      "id": "6be60a1d7c27",
+      "title": "At Young World Festival, Rap\u2019s Avant-Garde Takes Shape",
+      "summary": "The Brooklyn festival Young World spotlights emergent indie rappers and veteran artists. It was the brainchild of Mike, an artist and label head who has become a fulcrum of the alt-rap scene.",
+      "company": "At Young World Festival Rap\u2019s Avant-Garde",
+      "link": "https://www.nytimes.com/2026/07/14/arts/music/young-world-festival-mike.html",
+      "date": "Jul 14, 26",
+      "source": "NYT Arts",
+      "layer": 1,
       "access": "pe",
       "score": 14,
       "moments": [
-        "festival_headliner"
+        "acquisition"
+      ]
+    },
+    {
+      "id": "f552649b3ac2",
+      "title": "Vance Street Capital hires Edgewater business development lead Jason Burmer",
+      "summary": "Los Angeles-based private equity firm Vance Street Capital has appointed Jason Burmer as managing director and head of business development, adding an executive with more than a decade of deal origina",
+      "company": "Vance Street Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/vance-street-capital-hires-edgewater-business-development-lead-jason-burmer.html",
+      "date": "Jul 15, 26",
+      "source": "AltAssets",
+      "layer": 2,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "pe_investment"
       ]
     },
     {
@@ -362,10 +423,10 @@
       ]
     },
     {
-      "id": "eab63ed9e3e1",
-      "title": "ESPN Blames Human For Headline Error in AI Article",
+      "id": "fe4e0ef4ab1c",
+      "title": "ESPN Blames Human for Headline Error in AI Article",
       "summary": "Jerome Miron-Imagn Images",
-      "company": "ESPN Blames Human For Headline Error",
+      "company": "ESPN Blames Human",
       "link": "https://frontofficesports.com/espn-blames-human-headline-error-ai-article/",
       "date": "Jul 13, 26",
       "source": "Front Office Sports",
@@ -377,18 +438,18 @@
       ]
     },
     {
-      "id": "2d37036842fb",
-      "title": "Bears\u2019 Indiana Stadium Plans in \u2018Red Zone,\u2019 Governor Says",
-      "summary": "Jeff Hanisch-Imagn Images",
-      "company": "Bears\u2019 Indiana Stadium Plans",
-      "link": "https://frontofficesports.com/chicago-bears-indiana-stadium-plans-gov-braun/",
-      "date": "Jul 09, 26",
-      "source": "Front Office Sports",
-      "layer": 2,
-      "access": "pe",
+      "id": "eb582a1d5adf",
+      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+      "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
+      "company": "OpenAI",
+      "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "date": "Jul 15, 26",
+      "source": "TechCrunch Venture",
+      "layer": 3,
+      "access": "venture",
       "score": 9,
       "moments": [
-        "venue_announcement"
+        "valuation"
       ]
     },
     {
@@ -404,21 +465,6 @@
       "score": 6,
       "moments": [
         "valuation"
-      ]
-    },
-    {
-      "id": "9a9962db238d",
-      "title": "MAGA figures flock to Charlie Kirk murder hearing",
-      "summary": "A parade of prominent conservative figures are descending on a Utah courthouse this week to attend the preliminary hearing for the man accused of murdering Turning Point USA founder Charlie Kirk.Why i",
-      "company": "MAGA",
-      "link": "https://www.axios.com/2026/07/10/maga-charlie-kirk-court-hearing",
-      "date": "Jul 10, 26",
-      "source": "Axios",
-      "layer": 4,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "company_launch"
       ]
     },
     {
@@ -450,19 +496,6 @@
       "moments": []
     },
     {
-      "id": "1ffa3e44c2f6",
-      "title": "ESPN analyst Matt Miller faces financial investigation amid car crash recovery",
-      "summary": "Miller takes indefinite leave after arm amputation and questions of possible financial improprietiesAn on-air analyst for a top US sports broadcaster says he is pulling back from his role indefinitely",
-      "company": "ESPN",
-      "link": "https://www.theguardian.com/us-news/2026/jul/12/sports-analyst-matt-miller-charity-work-inquiry",
-      "date": "Jul 12, 26",
-      "source": "Guardian Sport",
-      "layer": 3,
-      "access": "pe",
-      "score": 11,
-      "moments": []
-    },
-    {
       "id": "177b052ae80a",
       "title": "System of a Down review \u2013 perverted pop and anti-war anger mixed into a metal melee",
       "summary": "Tottenham Hotspur Stadium, LondonThe veteran band may not have much new material to show for the past decade or so but this brutal, melodious mayhem still inspires catharsisSince re-forming in 2010, S",
@@ -476,58 +509,6 @@
       "moments": []
     },
     {
-      "id": "98773dcd2595",
-      "title": "Netflix\u2019s $50M Bet on Home Run Derby Pumps New Life Into Exhibition",
-      "summary": "PHILADELPHIA \u2014 Like several of the contestants in Monday night\u2019s MLB Home Run Derby, Netflix\u2019s first broadcast of the competition started slow. Bouncing between announcers in a booth and on the field ",
-      "company": "Netflix\u2019s",
-      "link": "https://www.sportico.com/leagues/baseball/2026/mlb-home-run-derby-netflix-1234938817/",
-      "date": "Jul 14, 26",
-      "source": "Sportico",
-      "layer": 3,
-      "access": "pe",
-      "score": 9,
-      "moments": []
-    },
-    {
-      "id": "c7474dea84f9",
-      "title": "Site Plans Reveal New Details for Proposed Sphere at National Harbor",
-      "summary": "Newly obtained site plans are offering a clearer picture of how a proposed Sphere entertainment venue could reshape the National... The post Site Plans Reveal New Details for Proposed Sphere at Nation",
-      "company": "Site Plans Reveal New Details",
-      "link": "https://www.ticketnews.com/2026/07/site-plans-reveal-new-details-for-proposed-sphere-at-national-harbor/",
-      "date": "Jul 10, 26",
-      "source": "Ticket News",
-      "layer": 2,
-      "access": "pe",
-      "score": 9,
-      "moments": []
-    },
-    {
-      "id": "892b9a7f3f77",
-      "title": "These AI startups are growing revenue at faster and faster rates",
-      "summary": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
-      "company": "These AI",
-      "link": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
-      "date": "Jul 08, 26",
-      "source": "TechCrunch Startups",
-      "layer": 2,
-      "access": "venture",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "5cebcbcde456",
-      "title": "Few Composers Can Sell Out Arenas. He\u2019s One of Them.",
-      "summary": "Joe Hisaishi got famous writing the soundtracks to Hayao Miyazaki\u2019s Studio Ghibli films. Now he is focusing on his first love: classical music.",
-      "company": "Few Composers Can Sell Out Arenas",
-      "link": "https://www.nytimes.com/2026/07/07/arts/music/joe-hisaishi-composer-studio-ghibli.html",
-      "date": "Jul 09, 26",
-      "source": "NYT Music",
-      "layer": 2,
-      "access": "pe",
-      "score": 7,
-      "moments": []
-    },
-    {
       "id": "d4cd26828f61",
       "title": "Bryce Harper\u2019s Denial of FanDuel Video Could Trigger Lawsuit",
       "summary": "Philadelphia Phillies first baseman Bryce Harper said Monday he didn\u2019t know a Cameo video would be used by FanDuel to further the company\u2019s relationship with a VIP customer and addicted gambler, and h",
@@ -535,6 +516,19 @@
       "link": "https://www.sportico.com/law/analysis/2026/bryce-harper-fanduel-cameo-video-legal-implications-1234938819/",
       "date": "Jul 14, 26",
       "source": "Sportico",
+      "layer": 4,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "f71556986dbc",
+      "title": "SQAIRZ Named Official Shoe Partner of the KC Diamonds and Florida Vibe, Equipping Elite Fastpitch Athletes with Performance-Enhancing Footwear",
+      "summary": "New Partnerships Expand SQAIRZ Footprint in Fastpitch Sports WINDHAM, N.H., July 15, 2026 /PRNewswire/ -- SQAIRZ, the performance footwear brand redefining balance, stability and ground-force producti",
+      "company": "SQAIRZ Named Official Shoe Partner",
+      "link": "https://www.prnewswire.com/news-releases/sqairz-named-official-shoe-partner-of-the-kc-diamonds-and-florida-vibe-equipping-elite-fastpitch-athletes-with-performance-enhancing-footwear-302825950.html",
+      "date": "Jul 15, 26",
+      "source": "PR Newswire",
       "layer": 4,
       "access": "pe",
       "score": 5,
