@@ -1,22 +1,22 @@
 {
-  "generated": "2026-07-15T13:52:00.279856+00:00",
-  "total": 36,
+  "generated": "2026-07-16T14:03:43.953710+00:00",
+  "total": 34,
   "scraped": [
     {
-      "id": "b34ab645ee3a",
-      "title": "Wafra raises $2bn for GP stakes-focused Constellation Generation V",
-      "summary": "Wafra, the investment house backed by Kuwait\u2019s public pension fund, has held a $2bn final close for its GP stakes-focused Constellation Generation V fund. The post Wafra raises $2bn for GP stakes-focu",
-      "company": "Wafra",
-      "link": "https://www.altassets.net/private-equity-news/by-region/middle-east-and-israel-by-region/wafra-raises-2bn-for-gp-stakes-focused-constellation-generation-v.html",
-      "date": "Jul 15, 26",
+      "id": "be7647340021",
+      "title": "VC veteran Greylock launches $1.5bn early-stage venture fund focused on AI startups",
+      "summary": "Silicon Valley venture capital firm Greylock has launched Greylock 18, a $1.5bn early-stage fund that will back founders at the pre-seed, seed and Series A stages, with a particular focus on companies",
+      "company": "VC veteran Greylock",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/vc-vetran-greylock-launches-1-5bn-early-stage-venture-fund-focused-on-ai-startups.html",
+      "date": "Jul 16, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
-      "score": 26,
+      "score": 20,
       "moments": [
-        "funding_round",
         "pe_investment",
-        "fund_launch"
+        "fund_launch",
+        "company_launch"
       ]
     },
     {
@@ -52,44 +52,44 @@
       ]
     },
     {
-      "id": "d151c42729b2",
-      "title": "Pictet raises $253m for debut environment co-investment fund",
-      "summary": "Pictet Alternative Advisors has beaten its target for its first dedicated environmental private equity co-investment fund, securing $253m in commitments. The post Pictet raises $253m for debut environ",
-      "company": "Pictet",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/switzerland-western-europe-europe-by-region/pictet-raises-253m-for-debut-environment-co-investment-fund.html",
-      "date": "Jul 14, 26",
+      "id": "c18918fc126d",
+      "title": "LionLight Capital races to $215m hard cap debut fund close in 10-week raise",
+      "summary": "North Carolina-based private equity firm LionLight Capital has sped to a $215m hard cap close of its debut fund in just ten weeks, picking up strong support for its strategy of targeting financial and",
+      "company": "LionLight Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/lionlight-capital-races-to-215m-hard-cap-debut-fund-close-in-10-week-raise.html",
+      "date": "Jul 16, 26",
       "source": "AltAssets",
-      "layer": 5,
+      "layer": 1,
       "access": "pe",
-      "score": 19,
+      "score": 18,
       "moments": [
-        "funding_round",
-        "pe_investment"
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
-      "id": "3ee46ea1afef",
-      "title": "Stone Point, Further Global, Permira-backed Kroll acquires ABC economics",
-      "summary": "ABC economics, founded by economist Frank Maier-Rigaud, advises on competition, regulatory and dispute matters across Europe and internationally. The post Stone Point, Further Global, Permira-backed K",
-      "company": "",
-      "link": "https://www.pehub.com/stone-point-backed-kroll-acquires-abc-economics/",
-      "date": "Jul 15, 26",
-      "source": "PE Hub",
-      "layer": 5,
+      "id": "1567a39ee171",
+      "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
+      "summary": "By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls \"the most important partner\" to its founders.",
+      "company": "Why Greylock",
+      "link": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
+      "date": "Jul 16, 26",
+      "source": "TechCrunch Venture",
+      "layer": 1,
       "access": "pe",
       "score": 16,
       "moments": [
-        "acquisition",
+        "fund_launch",
         "company_launch"
       ]
     },
     {
-      "id": "fe7c0782e3b4",
-      "title": "Munich Private Equity launches second ELTIF focused on European lower mid-market",
-      "summary": "Munich Private Equity has launched its second European Long-Term Investment Fund (ELTIF), giving retail investors access to a portfolio of European lower mid-market private equity funds. The post Muni",
-      "company": "Munich Private Equity",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/germany-western-europe-europe-by-region/munich-private-equity-launches-second-eltif-focused-on-european-lower-mid-market.html",
-      "date": "Jul 15, 26",
+      "id": "a857882a2f7a",
+      "title": "Carlyle AlpInvest hits $1.7bn hard cap for second dedicated continuation vehicle investment fund",
+      "summary": "Carlyle AlpInvest has held the final close of Atom Fund II, its second vehicle focused on making single-asset continuation fund investments, at its $1.7bn hard cap - well above its $1bn target. The po",
+      "company": "Carlyle AlpInvest",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/carlyle-alpinvest-hits-1-7bn-hard-cap-for-second-dedicated-continuation-vehicle-fund.html",
+      "date": "Jul 16, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -97,38 +97,6 @@
       "moments": [
         "pe_investment",
         "fund_launch"
-      ]
-    },
-    {
-      "id": "bb0ffc856d3b",
-      "title": "Madonna\u2019s \u2018Confessions II\u2019 Debuts at No. 1 on Album Chart, as Ken Carson and Sienna Spiro Also Bow in Top 10",
-      "summary": "Madonna&#8217;s &#8220;Confessions II,&#8221; her first new album in seven years, found an appreciative audience awaiting her return. The album bowed with 134,000 equivalent album units, more than eno",
-      "company": "Madonna\u2019s \u2018Confessions II\u2019 Debuts",
-      "link": "https://variety.com/2026/music/news/madonna-billboard-album-chart-confessions-debut-top-1236809163/",
-      "date": "Jul 12, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "album_announcement",
-        "company_launch"
-      ]
-    },
-    {
-      "id": "c3f2af13fbbc",
-      "title": "Netflix Among Parties in Early Talks to Buy Letterboxd: Report",
-      "summary": "Could Letterboxd, the popular film-review social network, end up in the clutches of Netflix or another big entertainment corporation? Letterboxd, founded in 2011, has been shopping itself to intereste",
-      "company": "Netflix Among Parties",
-      "link": "https://variety.com/2026/digital/news/letterboxd-sales-talks-netflix-sony-paramount-1236806379/",
-      "date": "Jul 10, 26",
-      "source": "Variety Biz",
-      "layer": 3,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "acquisition",
-        "company_launch"
       ]
     },
     {
@@ -148,6 +116,22 @@
       ]
     },
     {
+      "id": "b1b9a27c25fd",
+      "title": "Sagard Credit Partners tops $1bn at first close of third direct lending fund",
+      "summary": "Sagard's credit arm has secured more than $1bn at the first close of its latest direct lending fund, putting it about halfway to its $2bn target. The post Sagard Credit Partners tops $1bn at first clo",
+      "company": "Sagard Credit Partners",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/sagard-credit-partners-tops-1bn-at-first-close-of-third-direct-lending-fund.html",
+      "date": "Jul 16, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
       "id": "cf5a4c8a3660",
       "title": "Deal Roundup: Stripe, Advent said to make $53bn approach for PayPal, KKR to buy into Thomson Reuters Global Print",
       "summary": "Stripe and Advent International have jointly offered to acquire PayPal Holdings for $60.50 per share, valuing the payments company at more than $53bn, according to Reuters. The post Deal Roundup: Stri",
@@ -161,54 +145,6 @@
       "moments": [
         "acquisition",
         "pe_investment"
-      ]
-    },
-    {
-      "id": "19dcedd6c031",
-      "title": "Talde secures \u20ac155m first close for third flagship growth fund",
-      "summary": "Spanish mid-market investor Talde Gesti\u00f3n has raised more than \u20ac155m at the first close of its third flagship growth equity vehicle, reaching almost 80% of its \u20ac200m fundraising target. The post Talde",
-      "company": "Talde",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/spain-western-europe-europe-by-region/talde-secures-e155m-first-close-for-third-flagship-growth-fund.html",
-      "date": "Jul 15, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "50097a2988d3",
-      "title": "Warburg Pincus-led group to buy in to PANTHERx Rare, I Squared to sell TIP Group stake",
-      "summary": "A Warburg Pincus-led investor group has agreed to acquire a controlling interest in US rare disease pharmacy PANTHERx Rare from Nautic Partners, General Atlantic and The Vistria Group, with Nautic and",
-      "company": "Warburg Pincus-led",
-      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/warburg-pincus-led-group-to-buy-in-to-pantherx-rare-i-squared-to-sell-tip-group-stake.html",
-      "date": "Jul 14, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "acquisition",
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "d9716b9a66ec",
-      "title": "DELTA Equity Partners hits \u20ac125m hard cap for second buy-and-build fund",
-      "summary": "Dutch lower mid-market investor DELTA Equity Partners has raced to a final close of its second flagship fund on its \u20ac125m hard cap, just four months after launching the vehicle. The post DELTA Equity ",
-      "company": "DELTA Equity Partners",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/netherlands-western-europe-europe-by-region/delta-equity-partners-hits-e125m-hard-cap-for-second-buy-and-build-fund.html",
-      "date": "Jul 14, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
       ]
     },
     {
@@ -348,36 +284,6 @@
       ]
     },
     {
-      "id": "716baa3e0c40",
-      "title": "A dozen states file lawsuit to block Paramount Skydance-Warner Bros. Discovery merger",
-      "summary": "State attorneys general from a dozen states, including California, New York and Washington, filed a lawsuit to block Paramount Skydance's $110 billion takeover of Warner Bros. Discovery. Why it matter",
-      "company": "",
-      "link": "https://www.axios.com/2026/07/13/paramount-warner-bros-discovery-state-antitrust",
-      "date": "Jul 13, 26",
-      "source": "Axios",
-      "layer": 3,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "8ca65bb0c05d",
-      "title": "Festival Republic\u2019s Melvin Benn on lessons learned from the Kanye West controversy and the future of Wireless",
-      "summary": "The rapper was to due headline the festival, which was cancelled, last weekend The post Festival Republic&#8217;s Melvin Benn on lessons learned from the Kanye West controversy and the future of Wirel",
-      "company": "Festival Republic\u2019s Melvin Benn",
-      "link": "https://www.nme.com/news/music/festival-republics-melvin-benn-on-lessons-learned-from-the-kanye-west-controversy-and-the-future-of-wireless-3957108?utm_source=rss&utm_medium=rss&utm_campaign=festival-republics-melvin-benn-on-lessons-learned-from-the-kanye-west-controversy-and-the-future-of-wireless",
-      "date": "Jul 15, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
       "id": "6be60a1d7c27",
       "title": "At Young World Festival, Rap\u2019s Avant-Garde Takes Shape",
       "summary": "The Brooklyn festival Young World spotlights emergent indie rappers and veteran artists. It was the brainchild of Mike, an artist and label head who has become a fulcrum of the alt-rap scene.",
@@ -393,13 +299,43 @@
       ]
     },
     {
-      "id": "f552649b3ac2",
-      "title": "Vance Street Capital hires Edgewater business development lead Jason Burmer",
-      "summary": "Los Angeles-based private equity firm Vance Street Capital has appointed Jason Burmer as managing director and head of business development, adding an executive with more than a decade of deal origina",
-      "company": "Vance Street Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/vance-street-capital-hires-edgewater-business-development-lead-jason-burmer.html",
-      "date": "Jul 15, 26",
+      "id": "5d86ea1a243a",
+      "title": "Recordati board backs \u20ac10.7bn CVC take-private offer",
+      "summary": "A majority of Recordati\u2019s board has endorsed a \u20ac10.7bn take-private offer from private equity firm CVC Capital Partners and Belgian investment company Groupe Bruxelles Lambert, although four independe",
+      "company": "Recordati",
+      "link": "https://www.privateequitywire.co.uk/recordati-board-backs-e10-7bn-cvc-take-private-offer/",
+      "date": "Jul 16, 26",
+      "source": "PE Wire",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "a73c2687a51f",
+      "title": "HarbourVest creates global private wealth COO role with Morgan Stanley exec hire",
+      "summary": "HarbourVest Partners has named former Morgan Stanley Investment Management executive Brian Taranto as the first COO of its global private wealth business, as the private markets manager continues to e",
+      "company": "HarbourVest",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/harbourvest-creates-global-private-wealth-coo-role-with-morgan-stanley-exec-hire.html",
+      "date": "Jul 16, 26",
       "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "5e28759492f3",
+      "title": "Germany\u2019s Kenfo to up private markets allocation to 30% while cutting PE exposure",
+      "summary": "Germany's sovereign wealth fund Kenfo plans to increase its allocation to private markets from 25% to 30% over the next two years, with future commitments focused on infrastructure and real estate whi",
+      "company": "Germany\u2019s Kenfo",
+      "link": "https://www.privateequitywire.co.uk/germanys-kenfo-to-up-private-markets-allocation-to-30-while-cutting-pe-exposure/",
+      "date": "Jul 16, 26",
+      "source": "PE Wire",
       "layer": 2,
       "access": "pe",
       "score": 11,
@@ -435,6 +371,51 @@
       "score": 9,
       "moments": [
         "festival_headliner"
+      ]
+    },
+    {
+      "id": "ee5b6676a690",
+      "title": "Oridian-backed ACR acquires reusable bags provider RediBagUSA",
+      "summary": "ACR is an Exton, Pennsylvania-based provider of packaging and preparation products. The post Oridian-backed ACR acquires reusable bags provider RediBagUSA appeared first on PE Hub.",
+      "company": "Oridian-backed ACR",
+      "link": "https://www.pehub.com/oridian-backed-acr-acquires-reusable-bags-provider-redibagusa/",
+      "date": "Jul 16, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "18f9fc8d2464",
+      "title": "Verdane acquires minority stakes in bp technology businesses",
+      "summary": "The portfolio spans more than 10 companies working on energy-industry digitalization and transport innovation. The post Verdane acquires minority stakes in bp technology businesses appeared first on P",
+      "company": "Verdane",
+      "link": "https://www.pehub.com/verdane-acquires-minority-stakes-in-bp-technology-businesses/",
+      "date": "Jul 16, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "00c3cada2069",
+      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+      "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot\u2019s personalization and dis",
+      "company": "Whatnot",
+      "link": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+      "date": "Jul 15, 26",
+      "source": "TechCrunch Startups",
+      "layer": 3,
+      "access": "venture",
+      "score": 9,
+      "moments": [
+        "acquisition"
       ]
     },
     {
@@ -483,53 +464,40 @@
       ]
     },
     {
-      "id": "6f6cd4fd0b3d",
-      "title": "Jay-Z\u2019s Third Yankee Stadium Concert Plagued by Hours-Long Delay After Security Breach \u2014 \u2018We Didn\u2019t Want People to Get Trampled\u2019",
-      "summary": "Jay-Z\u2019s third and most hotly anticipated concert at Yankee Stadium on Sunday night was plagued by a nearly four-hour delay due to fans rushing the venue\u2019s gates, with Jay finally taking the stage four",
-      "company": "Jay-Z\u2019s Third Yankee Stadium Concert Plagued",
-      "link": "https://variety.com/2026/music/news/jay-z-yankee-stadium-concert-delay-security-breach-1236809269/",
+      "id": "8dc1043caf6b",
+      "title": "Paramount Blasts States\u2019 Lawsuit Aimed at Blocking Warner Bros. Deal, Claims Litigation Will \u2018Shield\u2019 Netflix and Tech Companies From \u2018Much-Needed...",
+      "summary": "Paramount Skydance sharply criticized a coalition of 12 Democratic state attorneys general that sued to block the David Ellison-led company&#8217;s takeover of Warner Bros. Discovery. The lawsuit file",
+      "company": "Paramount Blasts States\u2019 Lawsuit Aimed",
+      "link": "https://variety.com/2026/tv/news/paramount-blasts-state-ags-lawsuit-warner-bros-deal-1236809840/",
       "date": "Jul 13, 26",
-      "source": "Variety Music",
-      "layer": 2,
+      "source": "Variety Biz",
+      "layer": 3,
       "access": "pe",
-      "score": 15,
+      "score": 14,
       "moments": []
     },
     {
-      "id": "177b052ae80a",
-      "title": "System of a Down review \u2013 perverted pop and anti-war anger mixed into a metal melee",
-      "summary": "Tottenham Hotspur Stadium, LondonThe veteran band may not have much new material to show for the past decade or so but this brutal, melodious mayhem still inspires catharsisSince re-forming in 2010, S",
-      "company": "System",
-      "link": "https://www.theguardian.com/music/2026/jul/14/system-of-a-down-review-tottenham-hotspur-stadium-london",
-      "date": "Jul 14, 26",
-      "source": "Guardian Music",
+      "id": "2cc9a8c3f982",
+      "title": "Why Mark Cuban Is Gearing Up for a Legal Fight Over Mavs Arena",
+      "summary": "Jerome Miron-Imagn Images",
+      "company": "Why Mark Cuban Is Gearing Up",
+      "link": "https://frontofficesports.com/mark-cuban-files-petition-precursor-to-lawsuit-patrick-dumont-mavs-arena/",
+      "date": "Jul 16, 26",
+      "source": "Front Office Sports",
       "layer": 2,
-      "access": "pe",
-      "score": 10,
-      "moments": []
-    },
-    {
-      "id": "d4cd26828f61",
-      "title": "Bryce Harper\u2019s Denial of FanDuel Video Could Trigger Lawsuit",
-      "summary": "Philadelphia Phillies first baseman Bryce Harper said Monday he didn\u2019t know a Cameo video would be used by FanDuel to further the company\u2019s relationship with a VIP customer and addicted gambler, and h",
-      "company": "Bryce Harper\u2019s Denial",
-      "link": "https://www.sportico.com/law/analysis/2026/bryce-harper-fanduel-cameo-video-legal-implications-1234938819/",
-      "date": "Jul 14, 26",
-      "source": "Sportico",
-      "layer": 4,
       "access": "pe",
       "score": 5,
       "moments": []
     },
     {
-      "id": "f71556986dbc",
-      "title": "SQAIRZ Named Official Shoe Partner of the KC Diamonds and Florida Vibe, Equipping Elite Fastpitch Athletes with Performance-Enhancing Footwear",
-      "summary": "New Partnerships Expand SQAIRZ Footprint in Fastpitch Sports WINDHAM, N.H., July 15, 2026 /PRNewswire/ -- SQAIRZ, the performance footwear brand redefining balance, stability and ground-force producti",
-      "company": "SQAIRZ Named Official Shoe Partner",
-      "link": "https://www.prnewswire.com/news-releases/sqairz-named-official-shoe-partner-of-the-kc-diamonds-and-florida-vibe-equipping-elite-fastpitch-athletes-with-performance-enhancing-footwear-302825950.html",
-      "date": "Jul 15, 26",
-      "source": "PR Newswire",
-      "layer": 4,
+      "id": "2683726f9f8d",
+      "title": "With Lizzo and Calm Flair, a Storied Venue Reopens for Summer",
+      "summary": "The gorgeously renovated Hunter Pavilion at Ravinia, the Chicago Symphony Orchestra\u2019s off-season home, was inaugurated with a gala last weekend.",
+      "company": "With Lizzo",
+      "link": "https://www.nytimes.com/2026/07/14/arts/music/ravinia-festival-hunter-pavilion-chicago-symphony.html",
+      "date": "Jul 14, 26",
+      "source": "NYT Arts",
+      "layer": 2,
       "access": "pe",
       "score": 5,
       "moments": []
