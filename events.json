@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T14:03:43.953710+00:00",
-  "total": 34,
+  "generated": "2026-07-17T13:47:51.750292+00:00",
+  "total": 32,
   "scraped": [
     {
       "id": "be7647340021",
@@ -16,22 +16,6 @@
       "moments": [
         "pe_investment",
         "fund_launch",
-        "company_launch"
-      ]
-    },
-    {
-      "id": "6e699affdd53",
-      "title": "Iron Maiden Sells Music Catalog, Name, Image and Likeness Rights to Pophouse",
-      "summary": "Pophouse Entertainment, the investment firm co-founded by ABBA\u2019s Bjorn Ulvaeus, has announced a partnership with legendary British heavy metal band Iron Maiden, acquiring a stake in the publishing and",
-      "company": "Iron Maiden Sells Music Catalog Name",
-      "link": "https://variety.com/2026/music/news/iron-maiden-sells-music-catalog-to-pophouse-1236810440/",
-      "date": "Jul 14, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 22,
-      "moments": [
-        "acquisition",
         "company_launch"
       ]
     },
@@ -84,6 +68,38 @@
       ]
     },
     {
+      "id": "3098ffe689d2",
+      "title": "UK government engages PE firms to revive London IPO market",
+      "summary": "The UK government has held discussions with several leading private equity firms as it seeks to encourage more portfolio companies to list on the London Stock Exchange, amid continuing concerns over t",
+      "company": "UK",
+      "link": "https://www.privateequitywire.co.uk/uk-government-engages-pe-firms-to-revive-london-ipo-market/",
+      "date": "Jul 17, 26",
+      "source": "PE Wire",
+      "layer": 5,
+      "access": "public",
+      "score": 16,
+      "moments": [
+        "ipo",
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "745b9db15610",
+      "title": "Silver Hill Energy Partners closes $1.28bn fifth fund above target",
+      "summary": "Silver Hill Energy Partners has hauled in almost $1.28bn at the final close of its fifth oil and gas-focused investment fund after an oversubscribed raise. The post Silver Hill Energy Partners closes ",
+      "company": "Silver Hill Energy Partners",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/silver-hill-energy-partners-closes-1-28bn-fifth-fund-above-target.html",
+      "date": "Jul 17, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
       "id": "a857882a2f7a",
       "title": "Carlyle AlpInvest hits $1.7bn hard cap for second dedicated continuation vehicle investment fund",
       "summary": "Carlyle AlpInvest has held the final close of Atom Fund II, its second vehicle focused on making single-asset continuation fund investments, at its $1.7bn hard cap - well above its $1bn target. The po",
@@ -100,6 +116,22 @@
       ]
     },
     {
+      "id": "4f6fca6ed655",
+      "title": "PE targets ambulance and medical transport services: 5 deals",
+      "summary": "KKR, Ares, Grant Avenue and Tiger Infrastructure Partners are among the PE firms investing in emergency medical services. The post PE targets ambulance and medical transport services: 5 deals appeared",
+      "company": "PE",
+      "link": "https://www.pehub.com/pe-targets-ambulance-and-medical-transport-services-5-deals/",
+      "date": "Jul 17, 26",
+      "source": "PE Hub",
+      "layer": 2,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "acquisition",
+        "pe_investment"
+      ]
+    },
+    {
       "id": "4f7cf99f777b",
       "title": "On \u2018Caribenya,\u2019 Lido Pimienta Found a Lifeline",
       "summary": "On Lido Pimienta\u2019s new album, \u201cCaribenya,\u201d the Colombian Canadian musician sought a warmer, more complex depiction of Caribbean culture. Creating it helped her rediscover the beauty of living.",
@@ -113,69 +145,6 @@
       "moments": [
         "album_announcement",
         "company_launch"
-      ]
-    },
-    {
-      "id": "b1b9a27c25fd",
-      "title": "Sagard Credit Partners tops $1bn at first close of third direct lending fund",
-      "summary": "Sagard's credit arm has secured more than $1bn at the first close of its latest direct lending fund, putting it about halfway to its $2bn target. The post Sagard Credit Partners tops $1bn at first clo",
-      "company": "Sagard Credit Partners",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/sagard-credit-partners-tops-1bn-at-first-close-of-third-direct-lending-fund.html",
-      "date": "Jul 16, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "cf5a4c8a3660",
-      "title": "Deal Roundup: Stripe, Advent said to make $53bn approach for PayPal, KKR to buy into Thomson Reuters Global Print",
-      "summary": "Stripe and Advent International have jointly offered to acquire PayPal Holdings for $60.50 per share, valuing the payments company at more than $53bn, according to Reuters. The post Deal Roundup: Stri",
-      "company": "Deal Roundup",
-      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-stripe-advent-said-to-make-53bn-approach-for-paypal-kkr-to-buy-into-thomson-reuters-global-print.html",
-      "date": "Jul 15, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "acquisition",
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "d468645b4458",
-      "title": "Alexis Smith of The Feminine Glow Emerges at the Center of the Feminine Energy Coaching Boom",
-      "summary": "DUBAI, UAE &#8211; &#160;The Feminine Glow, the fast-growing femininity and inner work platform founded by Alexis Smith, is gaining national attention as interest in coaching, self-development, and fe",
-      "company": "Alexis Smith",
-      "link": "https://venuestoday.com/alexis-smith-of-the-feminine-glow-emerges-at-the-center-of-the-feminine-energy-coaching-boom/",
-      "date": "Mar 29, 26",
-      "source": "Venues Today",
-      "layer": 2,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "acquisition",
-        "company_launch"
-      ]
-    },
-    {
-      "id": "e9c36d3008c4",
-      "title": "Knitting Factory Entertainment Acquires Minority Stake in Does Entertainment, Forming Strategic Growth Partnership to Expand National Live...",
-      "summary": "Companies Align to Accelerate Venue Development, Talent Buying, Concert Promotion and Strategic Growth Across North America Los Angeles, CA / Wilmington, NC, July 14, 2026 \u2013&#160;Knitting Factory Ente",
-      "company": "",
-      "link": "https://venuestoday.com/knitting-factory-entertainment-acquires-minority-stake-in-does-entertainment-forming-strategic-growth-partnership-to-expand-national-live-entertainment-platform/",
-      "date": "Jul 15, 26",
-      "source": "Venues Today",
-      "layer": 2,
-      "access": "pe",
-      "score": 24,
-      "moments": [
-        "acquisition"
       ]
     },
     {
@@ -209,18 +178,33 @@
       ]
     },
     {
-      "id": "69a896d4a4b2",
-      "title": "Lily Allen Shrinks Five North American Arena Dates, Cancels Montreal Show",
-      "summary": "Live Nation announced the fall \u201cWest End Girl\u201d run as the biggest headlining tour of Allen\u2019s career, but stops in... The post Lily Allen Shrinks Five North American Arena Dates, Cancels Montreal Show ",
-      "company": "Lily Allen Shrinks Five North American",
-      "link": "https://www.ticketnews.com/2026/07/lily-allen-shrinks-five-north-american-arena-dates-cancels-montreal-show/",
-      "date": "Jul 14, 26",
-      "source": "Ticket News",
+      "id": "c571fedbb0cf",
+      "title": "EQT reports higher H1 profit as fundraising and investment activity accelerate",
+      "summary": "Swedish private equity firm EQT has reported higher net profit and revenue for the first half of 2026, supported by growth in fee-generating assets under management and a sharp increase in investment ",
+      "company": "EQT",
+      "link": "https://www.privateequitywire.co.uk/eqt-reports-higher-h1-profit-as-fundraising-and-investment-activity-accelerate/",
+      "date": "Jul 17, 26",
+      "source": "PE Wire",
       "layer": 2,
       "access": "pe",
-      "score": 19,
+      "score": 18,
       "moments": [
-        "festival_headliner"
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "a7922cdd9dff",
+      "title": "Forty Years in the Making: Lucky Mary Blonde Restores a Lost 1988 Concert Through the Power of AI",
+      "summary": "Band Releases First Two Singles from Long-Lost 1988 Live Recording Ahead of September 4 Album Release ST. LOUIS, July 17, 2026 /PRNewswire/ -- Nearly four decades after one of its final performances, ",
+      "company": "Forty Years in the Making",
+      "link": "https://www.prnewswire.com/news-releases/forty-years-in-the-making-lucky-mary-blonde-restores-a-lost-1988-concert-through-the-power-of-ai-302828034.html",
+      "date": "Jul 17, 26",
+      "source": "PR Newswire",
+      "layer": 1,
+      "access": "pe",
+      "score": 17,
+      "moments": [
+        "album_announcement"
       ]
     },
     {
@@ -236,21 +220,6 @@
       "score": 16,
       "moments": [
         "album_announcement"
-      ]
-    },
-    {
-      "id": "6c250e94b064",
-      "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
-      "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
-      "company": "Kiro Eid Built",
-      "link": "https://venuestoday.com/kiro-eid-built-8x6-design-studio-here-is-how-he-did-it-without-a-network-or-shortcuts/",
-      "date": "Mar 28, 26",
-      "source": "Venues Today",
-      "layer": 2,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "company_launch"
       ]
     },
     {
@@ -284,14 +253,29 @@
       ]
     },
     {
-      "id": "6be60a1d7c27",
-      "title": "At Young World Festival, Rap\u2019s Avant-Garde Takes Shape",
-      "summary": "The Brooklyn festival Young World spotlights emergent indie rappers and veteran artists. It was the brainchild of Mike, an artist and label head who has become a fulcrum of the alt-rap scene.",
-      "company": "At Young World Festival Rap\u2019s Avant-Garde",
-      "link": "https://www.nytimes.com/2026/07/14/arts/music/young-world-festival-mike.html",
-      "date": "Jul 14, 26",
-      "source": "NYT Arts",
+      "id": "325302651620",
+      "title": "Leon Bridges announces album \u2018Happiness Anytime\u2019 with four new songs: \u201cI want this album to be something that lingers in people\u2019s bones\u201d",
+      "summary": "Newly released songs are called \u2018Light The Way,\u2019 \u2018Tears of Joy,\u2019 \u2018Illusion,\u2019 and \u2018Your Love Is Electric\u2019 The post Leon Bridges announces album &#8216;Happiness Anytime&#8217; with four new songs: &#82",
+      "company": "Leon Bridges",
+      "link": "https://www.nme.com/news/music/leon-bridges-announces-album-happiness-anytime-with-four-new-songs-i-want-this-album-to-be-something-that-lingers-in-peoples-bones-3957494?utm_source=rss&utm_medium=rss&utm_campaign=leon-bridges-announces-album-happiness-anytime-with-four-new-songs-i-want-this-album-to-be-something-that-lingers-in-peoples-bones",
+      "date": "Jul 17, 26",
+      "source": "NME",
       "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "516990dc13ad",
+      "title": "Charterhouse Capital Partners to acquire French building maintenance group Batibig",
+      "summary": "Batibig is a B2B emergency building repairs and maintenance business generating more than \u20ac500 million in annual revenue. The post Charterhouse Capital Partners to acquire French building maintenance ",
+      "company": "Charterhouse Capital Partners to",
+      "link": "https://www.pehub.com/charterhouse-capital-partners-to-acquire-french-building-maintenance-group-batibig/",
+      "date": "Jul 17, 26",
+      "source": "PE Hub",
+      "layer": 2,
       "access": "pe",
       "score": 14,
       "moments": [
@@ -299,18 +283,18 @@
       ]
     },
     {
-      "id": "5d86ea1a243a",
-      "title": "Recordati board backs \u20ac10.7bn CVC take-private offer",
-      "summary": "A majority of Recordati\u2019s board has endorsed a \u20ac10.7bn take-private offer from private equity firm CVC Capital Partners and Belgian investment company Groupe Bruxelles Lambert, although four independe",
-      "company": "Recordati",
-      "link": "https://www.privateequitywire.co.uk/recordati-board-backs-e10-7bn-cvc-take-private-offer/",
-      "date": "Jul 16, 26",
-      "source": "PE Wire",
-      "layer": 5,
+      "id": "390913d2c7c8",
+      "title": "Charterhouse to acquire emergency building repairs biz; Arrow Global, AnaCap, Mutares bet on properties",
+      "summary": "Arrow Global Group announced this week it has acquired Borio Mangiarotti, a real estate development and management business based in Milan. The post Charterhouse to acquire emergency building repairs ",
+      "company": "Charterhouse to",
+      "link": "https://www.pehub.com/charterhouse-to-acquire-emergency-building-repairs-biz-arrow-global-anacap-mutares-bet-on-properties/",
+      "date": "Jul 17, 26",
+      "source": "PE Hub",
+      "layer": 2,
       "access": "pe",
       "score": 12,
       "moments": [
-        "pe_investment"
+        "acquisition"
       ]
     },
     {
@@ -329,56 +313,26 @@
       ]
     },
     {
-      "id": "5e28759492f3",
-      "title": "Germany\u2019s Kenfo to up private markets allocation to 30% while cutting PE exposure",
-      "summary": "Germany's sovereign wealth fund Kenfo plans to increase its allocation to private markets from 25% to 30% over the next two years, with future commitments focused on infrastructure and real estate whi",
-      "company": "Germany\u2019s Kenfo",
-      "link": "https://www.privateequitywire.co.uk/germanys-kenfo-to-up-private-markets-allocation-to-30-while-cutting-pe-exposure/",
+      "id": "dc16a009bba1",
+      "title": "\u2018Acapulco\u2019 Leads 41st Imagen Awards Nominations; Andy Garcia to Receive Lifetime Achievement Award",
+      "summary": "Apple TV&#8217;s &#8220;Acapulco&#8221; led all series as the Imagen Foundation announced nominations for the 41st Annual Imagen Awards on Thursday. &#8220;Acapulco&#8221; scored 13 nods in the compet",
+      "company": "\u2018Acapulco\u2019 Leads",
+      "link": "https://variety.com/2026/tv/news/imagen-awards-nominations-andy-garcia-lifetime-achievement-1236812172/",
       "date": "Jul 16, 26",
-      "source": "PE Wire",
-      "layer": 2,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "ed24e331be68",
-      "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
-      "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
-      "company": "Niloufar Banisaied",
-      "link": "https://venuestoday.com/niloufar-banisaied-is-bringing-timeless-design-and-the-guest-experience-at-the-forefront/",
-      "date": "Jun 09, 26",
-      "source": "Venues Today",
-      "layer": 4,
-      "access": "pe",
-      "score": 11,
+      "source": "Variety Music",
+      "layer": 3,
+      "access": "venture",
+      "score": 9,
       "moments": [
         "company_launch"
       ]
     },
     {
-      "id": "fe4e0ef4ab1c",
-      "title": "ESPN Blames Human for Headline Error in AI Article",
-      "summary": "Jerome Miron-Imagn Images",
-      "company": "ESPN Blames Human",
-      "link": "https://frontofficesports.com/espn-blames-human-headline-error-ai-article/",
-      "date": "Jul 13, 26",
-      "source": "Front Office Sports",
-      "layer": 3,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "ee5b6676a690",
-      "title": "Oridian-backed ACR acquires reusable bags provider RediBagUSA",
-      "summary": "ACR is an Exton, Pennsylvania-based provider of packaging and preparation products. The post Oridian-backed ACR acquires reusable bags provider RediBagUSA appeared first on PE Hub.",
-      "company": "Oridian-backed ACR",
-      "link": "https://www.pehub.com/oridian-backed-acr-acquires-reusable-bags-provider-redibagusa/",
+      "id": "c4bdfeba0e90",
+      "title": "Avathon-backed Summit acquires health-focused continuing education provider Kids Bowel & Bladder",
+      "summary": "Headquartered in Franklin, Tennessee, Summit is a provider of continuing and professional education for physical therapists, occupational therapists, speech-language pathologists, and behavioral and m",
+      "company": "Avathon-backed Summit",
+      "link": "https://www.pehub.com/avathon-backed-summit-acquires-health-focused-continuing-education-provider-kids-bowel-bladder/",
       "date": "Jul 16, 26",
       "source": "PE Hub",
       "layer": 5,
@@ -389,11 +343,26 @@
       ]
     },
     {
-      "id": "18f9fc8d2464",
-      "title": "Verdane acquires minority stakes in bp technology businesses",
-      "summary": "The portfolio spans more than 10 companies working on energy-industry digitalization and transport innovation. The post Verdane acquires minority stakes in bp technology businesses appeared first on P",
+      "id": "afd16b3dad13",
+      "title": "Serent-backed Raintree acquires VC-backed healthcare AI firm Spike Technologies",
+      "summary": "Based in Chandler, Arizona, Raintree is an electronic health record and practice management platform for rehabilitation and physical therapy organizations. The post Serent-backed Raintree acquires VC-",
+      "company": "Serent-backed Raintree",
+      "link": "https://www.pehub.com/serent-backed-raintree-acquires-vc-backed-healthcare-ai-firm-spike-technologies/",
+      "date": "Jul 16, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "venture",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "21bcaa6fc3e5",
+      "title": "Verdane acquires stakes in four Trifork Labs technology businesses",
+      "summary": "The deal spans event-sourcing specialist Axoniq, digital health business Dawn Health, WiFi photo frame software provider Frameo, and cybersecurity company XCI. The post Verdane acquires stakes in four",
       "company": "Verdane",
-      "link": "https://www.pehub.com/verdane-acquires-minority-stakes-in-bp-technology-businesses/",
+      "link": "https://www.pehub.com/verdane-acquires-stakes-in-four-trifork-labs-technology-businesses/",
       "date": "Jul 16, 26",
       "source": "PE Hub",
       "layer": 5,
@@ -434,85 +403,81 @@
       ]
     },
     {
-      "id": "419ed3ea866c",
-      "title": "David Zaslav Sells $59 Million More in Warner Bros. Discovery Stock",
-      "summary": "As Paramount Skydance&#8217;s deal to take over Warner Bros. Discovery is still pending, WBD CEO David Zaslav is continuing to cash out his stock in the company he is set to depart in the coming month",
-      "company": "David Zaslav Sells",
-      "link": "https://variety.com/2026/film/news/david-zaslav-sells-59-million-warner-bros-discovery-stock-1236810050/",
-      "date": "Jul 13, 26",
-      "source": "Variety Biz",
-      "layer": 3,
-      "access": "public",
-      "score": 6,
-      "moments": [
-        "valuation"
-      ]
-    },
-    {
-      "id": "f3a1d1554548",
-      "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
-      "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
-      "company": "Navigating",
-      "link": "https://venuestoday.com/navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026/",
-      "date": "Apr 22, 26",
-      "source": "Venues Today",
+      "id": "e2fccda1f808",
+      "title": "Want to tell the DOJ what you feel about its antitrust settlement with Live Nation? You have until September 4",
+      "summary": "Fans, artists, venues, promoters and other ticketing industry participants have until September 4 to submit public comments on the Justice... The post Want to tell the DOJ what you feel about its anti",
+      "company": "Want",
+      "link": "https://www.ticketnews.com/2026/07/want-to-tell-the-doj-what-you-feel-about-its-antitrust-settlement-with-live-nation-you-have-until-september-4/",
+      "date": "Jul 16, 26",
+      "source": "Ticket News",
       "layer": 3,
       "access": "pe",
-      "score": 6,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "8dc1043caf6b",
-      "title": "Paramount Blasts States\u2019 Lawsuit Aimed at Blocking Warner Bros. Deal, Claims Litigation Will \u2018Shield\u2019 Netflix and Tech Companies From \u2018Much-Needed...",
-      "summary": "Paramount Skydance sharply criticized a coalition of 12 Democratic state attorneys general that sued to block the David Ellison-led company&#8217;s takeover of Warner Bros. Discovery. The lawsuit file",
-      "company": "Paramount Blasts States\u2019 Lawsuit Aimed",
-      "link": "https://variety.com/2026/tv/news/paramount-blasts-state-ags-lawsuit-warner-bros-deal-1236809840/",
-      "date": "Jul 13, 26",
-      "source": "Variety Biz",
-      "layer": 3,
-      "access": "pe",
-      "score": 14,
+      "score": 25,
       "moments": []
     },
     {
-      "id": "2cc9a8c3f982",
-      "title": "Why Mark Cuban Is Gearing Up for a Legal Fight Over Mavs Arena",
-      "summary": "Jerome Miron-Imagn Images",
-      "company": "Why Mark Cuban Is Gearing Up",
-      "link": "https://frontofficesports.com/mark-cuban-files-petition-precursor-to-lawsuit-patrick-dumont-mavs-arena/",
+      "id": "589c9fbf9cc1",
+      "title": "Netflix Q2 Earnings Results In-Line With Expectations, Stock Drops on Lower Q3 Revenue Outlook",
+      "summary": "As investors fret that Netflix&#8217;s viewer-engagement metrics are flagging, the streaming giant reported earnings for the second quarter of 2026 that were in line with Wall Street forecasts. But it",
+      "company": "Netflix Q2 Earnings Results In-Line With",
+      "link": "https://variety.com/2026/tv/news/netflix-q2-2026-earnings-1236812558/",
+      "date": "Jul 16, 26",
+      "source": "Variety Biz",
+      "layer": 2,
+      "access": "public",
+      "score": 16,
+      "moments": []
+    },
+    {
+      "id": "b45af55431a9",
+      "title": "States Seek Discovery Into DOJ-Live Nation Settlement, Citing Weak Remedies and Alleged Influence",
+      "summary": "A coalition of state attorneys general is asking a federal judge to authorize discovery into both the substance of the... The post States Seek Discovery Into DOJ-Live Nation Settlement, Citing Weak Re",
+      "company": "States Seek Discovery Into DOJ-Live Nation",
+      "link": "https://www.ticketnews.com/2026/07/states-seek-discovery-into-doj-live-nation-settlement-citing-weak-remedies-and-alleged-influence/",
+      "date": "Jul 17, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 13,
+      "moments": []
+    },
+    {
+      "id": "cff3e4d97839",
+      "title": "Fox\u2019s US World Cup summer: wild mispronunciations, Corden\u2019s sad beers and Lowe\u2019s excellence",
+      "summary": "The broadcaster\u2019s tournament coverage was a mix of flat and fizz. It could also have been a long farewell with World Cup rights up for grabsGoodbye, then, to Fox, to its band of upbeat Brits and grown",
+      "company": "Fox\u2019s US World Cup",
+      "link": "https://www.theguardian.com/football/2026/jul/17/fox-world-cup-coverage-us-2026",
+      "date": "Jul 17, 26",
+      "source": "Guardian Sport",
+      "layer": 3,
+      "access": "pe",
+      "score": 10,
+      "moments": []
+    },
+    {
+      "id": "887c9ebe4be1",
+      "title": "Seven Franchise Groups and a Clear Path Toward 330 US Franchise Units by 2030: Jollibee Builds Mid-Year Momentum in 2026",
+      "summary": "New multi-unit development agreements, upcoming restaurant openings and growing franchise demand position the global restaurant brand for its next phase of North American expansion. WEST COVINA, Calif",
+      "company": "Seven Franchise Groups",
+      "link": "https://www.prnewswire.com/news-releases/seven-franchise-groups-and-a-clear-path-toward-330-us-franchise-units-by-2030-jollibee-builds-mid-year-momentum-in-2026-302827923.html",
+      "date": "Jul 17, 26",
+      "source": "PR Newswire",
+      "layer": 2,
+      "access": "pe",
+      "score": 10,
+      "moments": []
+    },
+    {
+      "id": "b3212ef72a93",
+      "title": "Falcons Owner Arthur Blank: Atlanta Is All In on More FIFA",
+      "summary": "Glendale, Arizona, USA; Atlanta Falcons owner Arthur Blank against the Arizona Cardinals at State Farm Stadium.",
+      "company": "Falcons Owner Arthur Blank",
+      "link": "https://frontofficesports.com/falcons-arthur-blank-atlanta-fifa-relationship-infantino-world-cup/",
       "date": "Jul 16, 26",
       "source": "Front Office Sports",
       "layer": 2,
       "access": "pe",
       "score": 5,
-      "moments": []
-    },
-    {
-      "id": "2683726f9f8d",
-      "title": "With Lizzo and Calm Flair, a Storied Venue Reopens for Summer",
-      "summary": "The gorgeously renovated Hunter Pavilion at Ravinia, the Chicago Symphony Orchestra\u2019s off-season home, was inaugurated with a gala last weekend.",
-      "company": "With Lizzo",
-      "link": "https://www.nytimes.com/2026/07/14/arts/music/ravinia-festival-hunter-pavilion-chicago-symphony.html",
-      "date": "Jul 14, 26",
-      "source": "NYT Arts",
-      "layer": 2,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "8f95fdb4c719",
-      "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
-      "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
-      "company": "Global Times",
-      "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/",
-      "date": "May 09, 26",
-      "source": "Venues Today",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
       "moments": []
     }
   ]
