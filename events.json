@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-17T13:47:51.750292+00:00",
-  "total": 32,
+  "generated": "2026-07-18T13:25:14.722407+00:00",
+  "total": 36,
   "scraped": [
     {
       "id": "be7647340021",
@@ -116,6 +116,22 @@
       ]
     },
     {
+      "id": "2f94e33aba19",
+      "title": "For Los Primos del Este, writing new album 'Dulce Amargo' felt like therapy",
+      "summary": "Since 2017, the band has gained over 2 million listeners on Spotify for its popular norte\u00f1o-sax sound \u2014 a subgenre that grew by 39% in both the U.S. and Mexico in 2024, per Spotify.",
+      "company": "For Los Primos",
+      "link": "https://www.latimes.com/delos/story/2026-07-17/los-primos-del-este-dulce-amargo-interview-mental-health-norteno-sax",
+      "date": "Jul 17, 26",
+      "source": "LA Times Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "album_announcement",
+        "streaming_milestone"
+      ]
+    },
+    {
       "id": "4f6fca6ed655",
       "title": "PE targets ambulance and medical transport services: 5 deals",
       "summary": "KKR, Ares, Grant Avenue and Tiger Infrastructure Partners are among the PE firms investing in emergency medical services. The post PE targets ambulance and medical transport services: 5 deals appeared",
@@ -138,7 +154,7 @@
       "company": "On \u2018Caribenya,\u2019 Lido Pimienta Found",
       "link": "https://www.nytimes.com/2026/07/15/arts/music/lido-pimienta-new-album-caribenya.html",
       "date": "Jul 15, 26",
-      "source": "NYT Arts",
+      "source": "NYT Music",
       "layer": 1,
       "access": "pe",
       "score": 13,
@@ -148,16 +164,32 @@
       ]
     },
     {
-      "id": "c1417755de7f",
-      "title": "WGA Sues to Block Paramount-Warner Bros. Merger, Alleging Writers Will Be Paid Less and Have Fewer Opportunities if Deal Goes Through",
-      "summary": "The Writers Guild of America West and Writers Guild of America East filed a lawsuit seeking to block Paramount Skydance&#8217;s proposed $111 billion takeover of Warner Bros. Discovery, alleging it vi",
-      "company": "WGA Sues",
-      "link": "https://variety.com/2026/film/news/wga-sues-to-block-paramount-warner-bros-discovery-merger-1236810972/",
-      "date": "Jul 14, 26",
-      "source": "Variety Biz",
-      "layer": 3,
+      "id": "d468645b4458",
+      "title": "Alexis Smith of The Feminine Glow Emerges at the Center of the Feminine Energy Coaching Boom",
+      "summary": "DUBAI, UAE &#8211; &#160;The Feminine Glow, the fast-growing femininity and inner work platform founded by Alexis Smith, is gaining national attention as interest in coaching, self-development, and fe",
+      "company": "Alexis Smith",
+      "link": "https://venuestoday.com/alexis-smith-of-the-feminine-glow-emerges-at-the-center-of-the-feminine-energy-coaching-boom/",
+      "date": "Mar 29, 26",
+      "source": "Venues Today",
+      "layer": 2,
       "access": "pe",
-      "score": 22,
+      "score": 13,
+      "moments": [
+        "acquisition",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "e9c36d3008c4",
+      "title": "Knitting Factory Entertainment Acquires Minority Stake in Does Entertainment, Forming Strategic Growth Partnership to Expand National Live...",
+      "summary": "Companies Align to Accelerate Venue Development, Talent Buying, Concert Promotion and Strategic Growth Across North America Los Angeles, CA / Wilmington, NC, July 14, 2026 \u2013&#160;Knitting Factory Ente",
+      "company": "",
+      "link": "https://venuestoday.com/knitting-factory-entertainment-acquires-minority-stake-in-does-entertainment-forming-strategic-growth-partnership-to-expand-national-live-entertainment-platform/",
+      "date": "Jul 15, 26",
+      "source": "Venues Today",
+      "layer": 2,
+      "access": "pe",
+      "score": 24,
       "moments": [
         "acquisition"
       ]
@@ -193,16 +225,16 @@
       ]
     },
     {
-      "id": "a7922cdd9dff",
-      "title": "Forty Years in the Making: Lucky Mary Blonde Restores a Lost 1988 Concert Through the Power of AI",
-      "summary": "Band Releases First Two Singles from Long-Lost 1988 Live Recording Ahead of September 4 Album Release ST. LOUIS, July 17, 2026 /PRNewswire/ -- Nearly four decades after one of its final performances, ",
-      "company": "Forty Years in the Making",
-      "link": "https://www.prnewswire.com/news-releases/forty-years-in-the-making-lucky-mary-blonde-restores-a-lost-1988-concert-through-the-power-of-ai-302828034.html",
+      "id": "5b7fcb8dd9fb",
+      "title": "Post your questions for Kristin Hersh, of Throwing Muses and more",
+      "summary": "The alt-rock icon is preparing to release her latest solo album Sugar on Blackstone, and will answer your questions about her five-decade careerAs frontwoman of Throwing Muses then an acclaimed solo a",
+      "company": "Post",
+      "link": "https://www.theguardian.com/music/2026/jul/17/post-your-questions-for-kristin-hersh-throwing-muses",
       "date": "Jul 17, 26",
-      "source": "PR Newswire",
+      "source": "Guardian Music",
       "layer": 1,
       "access": "pe",
-      "score": 17,
+      "score": 16,
       "moments": [
         "album_announcement"
       ]
@@ -223,6 +255,36 @@
       ]
     },
     {
+      "id": "6c250e94b064",
+      "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
+      "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
+      "company": "Kiro Eid Built",
+      "link": "https://venuestoday.com/kiro-eid-built-8x6-design-studio-here-is-how-he-did-it-without-a-network-or-shortcuts/",
+      "date": "Mar 28, 26",
+      "source": "Venues Today",
+      "layer": 2,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "ca702f76a6b0",
+      "title": "MLS Club CEO on Youth Soccer and the World Cup Boom",
+      "summary": "San Diego FC CEO on World Cup momentum, MLS fan conversion, broadcast rights, and youth development.",
+      "company": "MLS Club CEO",
+      "link": "https://frontofficesports.com/videos/mls-club-ceo-on-youth-soccer-and-the-world-cup-boom/",
+      "date": "Jul 17, 26",
+      "source": "Front Office Sports",
+      "layer": 1,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "rights_deal"
+      ]
+    },
+    {
       "id": "10364b2770a5",
       "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
       "summary": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
@@ -235,36 +297,6 @@
       "score": 15,
       "moments": [
         "acquisition"
-      ]
-    },
-    {
-      "id": "7361a56776e3",
-      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-      "summary": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
-      "company": "Hermes",
-      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-      "date": "Jul 13, 26",
-      "source": "TechCrunch Startups",
-      "layer": 1,
-      "access": "venture",
-      "score": 15,
-      "moments": [
-        "valuation"
-      ]
-    },
-    {
-      "id": "325302651620",
-      "title": "Leon Bridges announces album \u2018Happiness Anytime\u2019 with four new songs: \u201cI want this album to be something that lingers in people\u2019s bones\u201d",
-      "summary": "Newly released songs are called \u2018Light The Way,\u2019 \u2018Tears of Joy,\u2019 \u2018Illusion,\u2019 and \u2018Your Love Is Electric\u2019 The post Leon Bridges announces album &#8216;Happiness Anytime&#8217; with four new songs: &#82",
-      "company": "Leon Bridges",
-      "link": "https://www.nme.com/news/music/leon-bridges-announces-album-happiness-anytime-with-four-new-songs-i-want-this-album-to-be-something-that-lingers-in-peoples-bones-3957494?utm_source=rss&utm_medium=rss&utm_campaign=leon-bridges-announces-album-happiness-anytime-with-four-new-songs-i-want-this-album-to-be-something-that-lingers-in-peoples-bones",
-      "date": "Jul 17, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "album_announcement"
       ]
     },
     {
@@ -313,6 +345,21 @@
       ]
     },
     {
+      "id": "ed24e331be68",
+      "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
+      "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
+      "company": "Niloufar Banisaied",
+      "link": "https://venuestoday.com/niloufar-banisaied-is-bringing-timeless-design-and-the-guest-experience-at-the-forefront/",
+      "date": "Jun 09, 26",
+      "source": "Venues Today",
+      "layer": 4,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
       "id": "dc16a009bba1",
       "title": "\u2018Acapulco\u2019 Leads 41st Imagen Awards Nominations; Andy Garcia to Receive Lifetime Achievement Award",
       "summary": "Apple TV&#8217;s &#8220;Acapulco&#8221; led all series as the Imagen Foundation announced nominations for the 41st Annual Imagen Awards on Thursday. &#8220;Acapulco&#8221; scored 13 nods in the compet",
@@ -333,36 +380,6 @@
       "summary": "Headquartered in Franklin, Tennessee, Summit is a provider of continuing and professional education for physical therapists, occupational therapists, speech-language pathologists, and behavioral and m",
       "company": "Avathon-backed Summit",
       "link": "https://www.pehub.com/avathon-backed-summit-acquires-health-focused-continuing-education-provider-kids-bowel-bladder/",
-      "date": "Jul 16, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "afd16b3dad13",
-      "title": "Serent-backed Raintree acquires VC-backed healthcare AI firm Spike Technologies",
-      "summary": "Based in Chandler, Arizona, Raintree is an electronic health record and practice management platform for rehabilitation and physical therapy organizations. The post Serent-backed Raintree acquires VC-",
-      "company": "Serent-backed Raintree",
-      "link": "https://www.pehub.com/serent-backed-raintree-acquires-vc-backed-healthcare-ai-firm-spike-technologies/",
-      "date": "Jul 16, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "venture",
-      "score": 9,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "21bcaa6fc3e5",
-      "title": "Verdane acquires stakes in four Trifork Labs technology businesses",
-      "summary": "The deal spans event-sourcing specialist Axoniq, digital health business Dawn Health, WiFi photo frame software provider Frameo, and cybersecurity company XCI. The post Verdane acquires stakes in four",
-      "company": "Verdane",
-      "link": "https://www.pehub.com/verdane-acquires-stakes-in-four-trifork-labs-technology-businesses/",
       "date": "Jul 16, 26",
       "source": "PE Hub",
       "layer": 5,
@@ -403,29 +420,76 @@
       ]
     },
     {
-      "id": "e2fccda1f808",
-      "title": "Want to tell the DOJ what you feel about its antitrust settlement with Live Nation? You have until September 4",
-      "summary": "Fans, artists, venues, promoters and other ticketing industry participants have until September 4 to submit public comments on the Justice... The post Want to tell the DOJ what you feel about its anti",
-      "company": "Want",
-      "link": "https://www.ticketnews.com/2026/07/want-to-tell-the-doj-what-you-feel-about-its-antitrust-settlement-with-live-nation-you-have-until-september-4/",
-      "date": "Jul 16, 26",
+      "id": "e282774b71de",
+      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+      "summary": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
+      "company": "Paris-based AI voice startup Gradium",
+      "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+      "date": "Jul 09, 26",
+      "source": "TechCrunch Venture",
+      "layer": 5,
+      "access": "venture",
+      "score": 9,
+      "moments": [
+        "funding_round"
+      ]
+    },
+    {
+      "id": "d541a6b14565",
+      "title": "KKR and Energy Capital Partners increase offer for DCC to potential \u00a35.8bn",
+      "summary": "A consortium led by private equity firms KKR and Energy Capital Partners has increased its takeover proposal for Irish energy distribution group DCC for the second time in just over a month, valuing t",
+      "company": "KKR",
+      "link": "https://www.privateequitywire.co.uk/kkr-and-energy-capital-partners-increase-offer-for-dcc-to-potential-5-8bn/",
+      "date": "Jul 17, 26",
+      "source": "PE Wire",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "7ebb6b573e32",
+      "title": "GeneDx Holdings Securities Fraud Class Action Result of Acquisition Performance Misrepresentations and 49% Stock Decline - Investors may Contact...",
+      "summary": "NEW YORK CITY and NEW ORLEANS, July 17, 2026 /PRNewswire/ -- - Kahn Swick & Foti, LLC (\"KSF\") and KSF partner, former Attorney General of Louisiana, Charles C. Foti, Jr., remind investors with substan",
+      "company": "",
+      "link": "https://www.prnewswire.com/news-releases/genedx-holdings-securities-fraud-class-action-result-of-acquisition-performance-misrepresentations-and-49-stock-decline---investors-may-contact-lewis-kahn-esq-at-kahn-swick--foti-llc-302828848.html",
+      "date": "Jul 18, 26",
+      "source": "PR Newswire",
+      "layer": 4,
+      "access": "public",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "f3a1d1554548",
+      "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
+      "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
+      "company": "Navigating",
+      "link": "https://venuestoday.com/navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026/",
+      "date": "Apr 22, 26",
+      "source": "Venues Today",
+      "layer": 3,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "6913dd087354",
+      "title": "Live Nation, Oak View Group Launch Saudi Venue JV Amid Antitrust Scrutiny of U.S. Partnership",
+      "summary": "PIF-backed radia will help develop and operate venues across Saudi Arabia, even as the proposed DOJ settlement in the Live... The post Live Nation, Oak View Group Launch Saudi Venue JV Amid Antitrust ",
+      "company": "Live Nation Oak View Group Launch",
+      "link": "https://www.ticketnews.com/2026/07/live-nation-oak-view-group-launch-saudi-venue-jv-amid-antitrust-scrutiny-of-u-s-partnership/",
+      "date": "Jul 17, 26",
       "source": "Ticket News",
       "layer": 3,
       "access": "pe",
-      "score": 25,
-      "moments": []
-    },
-    {
-      "id": "589c9fbf9cc1",
-      "title": "Netflix Q2 Earnings Results In-Line With Expectations, Stock Drops on Lower Q3 Revenue Outlook",
-      "summary": "As investors fret that Netflix&#8217;s viewer-engagement metrics are flagging, the streaming giant reported earnings for the second quarter of 2026 that were in line with Wall Street forecasts. But it",
-      "company": "Netflix Q2 Earnings Results In-Line With",
-      "link": "https://variety.com/2026/tv/news/netflix-q2-2026-earnings-1236812558/",
-      "date": "Jul 16, 26",
-      "source": "Variety Biz",
-      "layer": 2,
-      "access": "public",
-      "score": 16,
+      "score": 24,
       "moments": []
     },
     {
@@ -455,29 +519,29 @@
       "moments": []
     },
     {
-      "id": "887c9ebe4be1",
-      "title": "Seven Franchise Groups and a Clear Path Toward 330 US Franchise Units by 2030: Jollibee Builds Mid-Year Momentum in 2026",
-      "summary": "New multi-unit development agreements, upcoming restaurant openings and growing franchise demand position the global restaurant brand for its next phase of North American expansion. WEST COVINA, Calif",
-      "company": "Seven Franchise Groups",
-      "link": "https://www.prnewswire.com/news-releases/seven-franchise-groups-and-a-clear-path-toward-330-us-franchise-units-by-2030-jollibee-builds-mid-year-momentum-in-2026-302827923.html",
+      "id": "91aee8a3ee04",
+      "title": "Borgman invests in concrete production equipment distributor CMW",
+      "summary": "The capital infusion will be used to support CMW\u2019s continued growth through expanded service offerings and entry into new markets. The post Borgman invests in concrete production equipment distributor",
+      "company": "Borgman",
+      "link": "https://www.pehub.com/borgman-invests-in-concrete-production-equipment-distributor-cmw/",
       "date": "Jul 17, 26",
-      "source": "PR Newswire",
-      "layer": 2,
+      "source": "PE Hub",
+      "layer": 4,
       "access": "pe",
-      "score": 10,
+      "score": 4,
       "moments": []
     },
     {
-      "id": "b3212ef72a93",
-      "title": "Falcons Owner Arthur Blank: Atlanta Is All In on More FIFA",
-      "summary": "Glendale, Arizona, USA; Atlanta Falcons owner Arthur Blank against the Arizona Cardinals at State Farm Stadium.",
-      "company": "Falcons Owner Arthur Blank",
-      "link": "https://frontofficesports.com/falcons-arthur-blank-atlanta-fifa-relationship-infantino-world-cup/",
-      "date": "Jul 16, 26",
-      "source": "Front Office Sports",
-      "layer": 2,
+      "id": "8f95fdb4c719",
+      "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
+      "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
+      "company": "Global Times",
+      "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/",
+      "date": "May 09, 26",
+      "source": "Venues Today",
+      "layer": 4,
       "access": "pe",
-      "score": 5,
+      "score": 4,
       "moments": []
     }
   ]
