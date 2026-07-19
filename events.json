@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-18T13:25:14.722407+00:00",
+  "generated": "2026-07-19T13:26:51.554711+00:00",
   "total": 36,
   "scraped": [
     {
@@ -360,21 +360,6 @@
       ]
     },
     {
-      "id": "dc16a009bba1",
-      "title": "\u2018Acapulco\u2019 Leads 41st Imagen Awards Nominations; Andy Garcia to Receive Lifetime Achievement Award",
-      "summary": "Apple TV&#8217;s &#8220;Acapulco&#8221; led all series as the Imagen Foundation announced nominations for the 41st Annual Imagen Awards on Thursday. &#8220;Acapulco&#8221; scored 13 nods in the compet",
-      "company": "\u2018Acapulco\u2019 Leads",
-      "link": "https://variety.com/2026/tv/news/imagen-awards-nominations-andy-garcia-lifetime-achievement-1236812172/",
-      "date": "Jul 16, 26",
-      "source": "Variety Music",
-      "layer": 3,
-      "access": "venture",
-      "score": 9,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
       "id": "c4bdfeba0e90",
       "title": "Avathon-backed Summit acquires health-focused continuing education provider Kids Bowel & Bladder",
       "summary": "Headquartered in Franklin, Tennessee, Summit is a provider of continuing and professional education for physical therapists, occupational therapists, speech-language pathologists, and behavioral and m",
@@ -450,21 +435,6 @@
       ]
     },
     {
-      "id": "7ebb6b573e32",
-      "title": "GeneDx Holdings Securities Fraud Class Action Result of Acquisition Performance Misrepresentations and 49% Stock Decline - Investors may Contact...",
-      "summary": "NEW YORK CITY and NEW ORLEANS, July 17, 2026 /PRNewswire/ -- - Kahn Swick & Foti, LLC (\"KSF\") and KSF partner, former Attorney General of Louisiana, Charles C. Foti, Jr., remind investors with substan",
-      "company": "",
-      "link": "https://www.prnewswire.com/news-releases/genedx-holdings-securities-fraud-class-action-result-of-acquisition-performance-misrepresentations-and-49-stock-decline---investors-may-contact-lewis-kahn-esq-at-kahn-swick--foti-llc-302828848.html",
-      "date": "Jul 18, 26",
-      "source": "PR Newswire",
-      "layer": 4,
-      "access": "public",
-      "score": 9,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
       "id": "f3a1d1554548",
       "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
       "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
@@ -506,16 +476,42 @@
       "moments": []
     },
     {
-      "id": "cff3e4d97839",
-      "title": "Fox\u2019s US World Cup summer: wild mispronunciations, Corden\u2019s sad beers and Lowe\u2019s excellence",
-      "summary": "The broadcaster\u2019s tournament coverage was a mix of flat and fizz. It could also have been a long farewell with World Cup rights up for grabsGoodbye, then, to Fox, to its band of upbeat Brits and grown",
-      "company": "Fox\u2019s US World Cup",
-      "link": "https://www.theguardian.com/football/2026/jul/17/fox-world-cup-coverage-us-2026",
-      "date": "Jul 17, 26",
-      "source": "Guardian Sport",
+      "id": "5e074cebb2a3",
+      "title": "David and Larry Ellison Sued by Paramount Investor Alleging \u2018Illegal\u2019 Side Deal With Donald Trump to Secure U.S. Approval for Warner Bros. Takeover",
+      "summary": "Paramount Skydance chief David Ellison and his tech billionaire dad Larry Ellison have been sued by a Paramount shareholder who alleged they cut an &#8220;illegal&#8221; deal with President Donald Tru",
+      "company": "David",
+      "link": "https://variety.com/2026/film/news/david-larry-ellison-sued-paramount-side-deal-trump-warner-bros-1236812034/",
+      "date": "Jul 15, 26",
+      "source": "Variety Biz",
       "layer": 3,
       "access": "pe",
-      "score": 10,
+      "score": 8,
+      "moments": []
+    },
+    {
+      "id": "a2dc84fd34bf",
+      "title": "\u2018Heartstopper Forever\u2019: What to Know Before Seeing the Movie",
+      "summary": "The Netflix series and its feature-length finale are based on the graphic novels by Alice Oseman. Here\u2019s a reminder of the events of the characters and where their stories left off.",
+      "company": "\u2018Heartstopper Forever\u2019: What",
+      "link": "https://www.nytimes.com/2026/07/17/movies/heartstopper-forever-movie-what-to-know.html",
+      "date": "Jul 18, 26",
+      "source": "NYT Arts",
+      "layer": 3,
+      "access": "venture",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "5e808b54115a",
+      "title": "\u2018Where did they go?\u2019: homeless people feel force of America\u2019s brutality in World Cup clean-up",
+      "summary": "Fifa says football brings the world together but the unhoused in Atlanta feel targeted and completely excluded from the tournament\u201cA lot of our community has been pushed out by the World Cup. We\u2019re no",
+      "company": "\u2018Where",
+      "link": "https://www.theguardian.com/football/2026/jul/18/where-did-they-go-homeless-people-feel-force-of-americas-brutality-in-world-cup-clean-up",
+      "date": "Jul 18, 26",
+      "source": "Guardian Sport",
+      "layer": 4,
+      "access": "pe",
+      "score": 5,
       "moments": []
     },
     {
