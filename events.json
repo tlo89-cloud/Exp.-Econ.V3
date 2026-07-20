@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-19T13:26:51.554711+00:00",
-  "total": 36,
+  "generated": "2026-07-20T14:16:17.275514+00:00",
+  "total": 34,
   "scraped": [
     {
       "id": "be7647340021",
@@ -20,35 +20,19 @@
       ]
     },
     {
-      "id": "8931d106f0d4",
-      "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
-      "summary": "DeepSeek, the Chinese large language model developer, is said to be preparing for a 2027 IPO debut as it also looks to raise around $1.5 billion in new funds at a $71 billion valuation.",
-      "company": "DeepSeek reportedly in talks to",
-      "link": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
-      "date": "Jul 14, 26",
-      "source": "TechCrunch Startups",
-      "layer": 1,
+      "id": "c674e93c3998",
+      "title": "PIF-led consortium expected to secure EU Approval for $55bn Electronic Arts buyout",
+      "summary": "Saudi Arabia's Public Investment Fund, Jared Kushner's Affinity Partners and \u200bprivate equity firm Silver Lake are expected to receive European Union approval for the proposed $55bn acquisition of vide",
+      "company": "PIF-led",
+      "link": "https://www.privateequitywire.co.uk/pif-led-consortium-expected-to-secure-eu-approval-for-55bn-electronic-arts-buyout/",
+      "date": "Jul 20, 26",
+      "source": "PE Wire",
+      "layer": 5,
       "access": "pe",
-      "score": 22,
+      "score": 19,
       "moments": [
-        "funding_round",
-        "ipo"
-      ]
-    },
-    {
-      "id": "c18918fc126d",
-      "title": "LionLight Capital races to $215m hard cap debut fund close in 10-week raise",
-      "summary": "North Carolina-based private equity firm LionLight Capital has sped to a $215m hard cap close of its debut fund in just ten weeks, picking up strong support for its strategy of targeting financial and",
-      "company": "LionLight Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/lionlight-capital-races-to-215m-hard-cap-debut-fund-close-in-10-week-raise.html",
-      "date": "Jul 16, 26",
-      "source": "AltAssets",
-      "layer": 1,
-      "access": "pe",
-      "score": 18,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
+        "acquisition",
+        "pe_investment"
       ]
     },
     {
@@ -65,22 +49,6 @@
       "moments": [
         "fund_launch",
         "company_launch"
-      ]
-    },
-    {
-      "id": "3098ffe689d2",
-      "title": "UK government engages PE firms to revive London IPO market",
-      "summary": "The UK government has held discussions with several leading private equity firms as it seeks to encourage more portfolio companies to list on the London Stock Exchange, amid continuing concerns over t",
-      "company": "UK",
-      "link": "https://www.privateequitywire.co.uk/uk-government-engages-pe-firms-to-revive-london-ipo-market/",
-      "date": "Jul 17, 26",
-      "source": "PE Wire",
-      "layer": 5,
-      "access": "public",
-      "score": 16,
-      "moments": [
-        "ipo",
-        "pe_investment"
       ]
     },
     {
@@ -132,22 +100,6 @@
       ]
     },
     {
-      "id": "4f6fca6ed655",
-      "title": "PE targets ambulance and medical transport services: 5 deals",
-      "summary": "KKR, Ares, Grant Avenue and Tiger Infrastructure Partners are among the PE firms investing in emergency medical services. The post PE targets ambulance and medical transport services: 5 deals appeared",
-      "company": "PE",
-      "link": "https://www.pehub.com/pe-targets-ambulance-and-medical-transport-services-5-deals/",
-      "date": "Jul 17, 26",
-      "source": "PE Hub",
-      "layer": 2,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "acquisition",
-        "pe_investment"
-      ]
-    },
-    {
       "id": "4f7cf99f777b",
       "title": "On \u2018Caribenya,\u2019 Lido Pimienta Found a Lifeline",
       "summary": "On Lido Pimienta\u2019s new album, \u201cCaribenya,\u201d the Colombian Canadian musician sought a warmer, more complex depiction of Caribbean culture. Creating it helped her rediscover the beauty of living.",
@@ -161,6 +113,38 @@
       "moments": [
         "album_announcement",
         "company_launch"
+      ]
+    },
+    {
+      "id": "42d63ce85c5f",
+      "title": "Littlejohn promotes Brian Michaud to managing partner in planned leadership transition",
+      "summary": "Littlejohn &#038; Co has promoted Brian Michaud to managing partner as part of the succession strategy at the mid-market private equity firm, with co-founder and chief executive Michael Klein moving f",
+      "company": "Littlejohn",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/littlejohn-promotes-brian-michaud-to-managing-partner-in-planned-leadership-transition.html",
+      "date": "Jul 20, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "343c8c6eea7a",
+      "title": "Ex-Gridiron Capital trio $670m hard cap close for debut Uplift Investors fund",
+      "summary": "Uplift Investors, a private equity firm launched in 2025 by a trio of former Gridiron Capital executives, has raised $670m at the hard cap final close of its debut fund. The post Ex-Gridiron Capital t",
+      "company": "Ex-Gridiron Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/ex-hig-capital-execs-seal-670m-hard-cap-close-for-debut-uplift-investors-fund.html",
+      "date": "Jul 17, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
@@ -210,42 +194,12 @@
       ]
     },
     {
-      "id": "c571fedbb0cf",
-      "title": "EQT reports higher H1 profit as fundraising and investment activity accelerate",
-      "summary": "Swedish private equity firm EQT has reported higher net profit and revenue for the first half of 2026, supported by growth in fee-generating assets under management and a sharp increase in investment ",
-      "company": "EQT",
-      "link": "https://www.privateequitywire.co.uk/eqt-reports-higher-h1-profit-as-fundraising-and-investment-activity-accelerate/",
-      "date": "Jul 17, 26",
-      "source": "PE Wire",
-      "layer": 2,
-      "access": "pe",
-      "score": 18,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
       "id": "5b7fcb8dd9fb",
       "title": "Post your questions for Kristin Hersh, of Throwing Muses and more",
       "summary": "The alt-rock icon is preparing to release her latest solo album Sugar on Blackstone, and will answer your questions about her five-decade careerAs frontwoman of Throwing Muses then an acclaimed solo a",
       "company": "Post",
       "link": "https://www.theguardian.com/music/2026/jul/17/post-your-questions-for-kristin-hersh-throwing-muses",
       "date": "Jul 17, 26",
-      "source": "Guardian Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "5eb42acbef70",
-      "title": "\u2018We\u2019ve had moments of devastating pain\u2019: jazz icons Ezra Collective on their new album \u2013 and why we can\u2019t rely on the government",
-      "summary": "Speaking at a Guardian Live event at Love Supreme festival, the band tell us about lessons with Tony Allen, mayhem in Lagos and why musicians should be \u2018pillars of the community\u2019At Sussex\u2019s Love Supre",
-      "company": "\u2018We\u2019ve",
-      "link": "https://www.theguardian.com/music/2026/jul/09/weve-had-moments-of-devastating-pain-jazz-icons-ezra-collective-on-their-new-album-and-why-we-cant-rely-on-the-government",
-      "date": "Jul 09, 26",
       "source": "Guardian Music",
       "layer": 1,
       "access": "pe",
@@ -285,6 +239,21 @@
       ]
     },
     {
+      "id": "d90a7afbd91a",
+      "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
+      "summary": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.",
+      "company": "Nuclear startup Valar Atomics in talks to",
+      "link": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
+      "date": "Jul 17, 26",
+      "source": "TechCrunch Startups",
+      "layer": 1,
+      "access": "venture",
+      "score": 15,
+      "moments": [
+        "valuation"
+      ]
+    },
+    {
       "id": "10364b2770a5",
       "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
       "summary": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
@@ -300,48 +269,33 @@
       ]
     },
     {
-      "id": "516990dc13ad",
-      "title": "Charterhouse Capital Partners to acquire French building maintenance group Batibig",
-      "summary": "Batibig is a B2B emergency building repairs and maintenance business generating more than \u20ac500 million in annual revenue. The post Charterhouse Capital Partners to acquire French building maintenance ",
-      "company": "Charterhouse Capital Partners to",
-      "link": "https://www.pehub.com/charterhouse-capital-partners-to-acquire-french-building-maintenance-group-batibig/",
-      "date": "Jul 17, 26",
-      "source": "PE Hub",
-      "layer": 2,
+      "id": "7361a56776e3",
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "summary": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
+      "company": "Hermes",
+      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "date": "Jul 13, 26",
+      "source": "TechCrunch Venture",
+      "layer": 1,
+      "access": "venture",
+      "score": 15,
+      "moments": [
+        "valuation"
+      ]
+    },
+    {
+      "id": "b78abd8d0a0f",
+      "title": "Arca announces new album \u2018XXXXX\u2019 and ambitious Daniel Sannwald-directed livestream",
+      "summary": "The Venezuelan musician's new album drops July 31 and is said to be \"darker, more aggressive, more experimental\" The post Arca announces new album &#8216;XXXXX&#8217; and ambitious Daniel Sannwald-dir",
+      "company": "Arca",
+      "link": "https://www.nme.com/news/music/arca-announces-new-album-xxxxx-and-ambitious-daniel-sannwald-directed-livestream-3958014?utm_source=rss&utm_medium=rss&utm_campaign=arca-announces-new-album-xxxxx-and-ambitious-daniel-sannwald-directed-livestream",
+      "date": "Jul 20, 26",
+      "source": "NME",
+      "layer": 1,
       "access": "pe",
       "score": 14,
       "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "390913d2c7c8",
-      "title": "Charterhouse to acquire emergency building repairs biz; Arrow Global, AnaCap, Mutares bet on properties",
-      "summary": "Arrow Global Group announced this week it has acquired Borio Mangiarotti, a real estate development and management business based in Milan. The post Charterhouse to acquire emergency building repairs ",
-      "company": "Charterhouse to",
-      "link": "https://www.pehub.com/charterhouse-to-acquire-emergency-building-repairs-biz-arrow-global-anacap-mutares-bet-on-properties/",
-      "date": "Jul 17, 26",
-      "source": "PE Hub",
-      "layer": 2,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "a73c2687a51f",
-      "title": "HarbourVest creates global private wealth COO role with Morgan Stanley exec hire",
-      "summary": "HarbourVest Partners has named former Morgan Stanley Investment Management executive Brian Taranto as the first COO of its global private wealth business, as the private markets manager continues to e",
-      "company": "HarbourVest",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/harbourvest-creates-global-private-wealth-coo-role-with-morgan-stanley-exec-hire.html",
-      "date": "Jul 16, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "pe_investment"
+        "album_announcement"
       ]
     },
     {
@@ -360,18 +314,18 @@
       ]
     },
     {
-      "id": "c4bdfeba0e90",
-      "title": "Avathon-backed Summit acquires health-focused continuing education provider Kids Bowel & Bladder",
-      "summary": "Headquartered in Franklin, Tennessee, Summit is a provider of continuing and professional education for physical therapists, occupational therapists, speech-language pathologists, and behavioral and m",
-      "company": "Avathon-backed Summit",
-      "link": "https://www.pehub.com/avathon-backed-summit-acquires-health-focused-continuing-education-provider-kids-bowel-bladder/",
-      "date": "Jul 16, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
+      "id": "95d003e88efb",
+      "title": "Lamine Yamal\u2019s First World Cup a Launchpad for His Global Brand",
+      "summary": "EAST RUTHERFORD, N.J.\u2014A few minutes after Spain defeated Argentina 1-0 in the World Cup Final, Lamine Yamal found an empty patch of grass and collapsed on his back, very clearly overcome with emotion.",
+      "company": "Lamine Yamal\u2019s First World Cup",
+      "link": "https://www.sportico.com/leagues/soccer/2026/lamine-yamal-spain-world-cup-win-global-brand-1234939458/",
+      "date": "Jul 20, 26",
+      "source": "Sportico",
+      "layer": 2,
+      "access": "venture",
       "score": 9,
       "moments": [
-        "acquisition"
+        "company_launch"
       ]
     },
     {
@@ -420,13 +374,13 @@
       ]
     },
     {
-      "id": "d541a6b14565",
-      "title": "KKR and Energy Capital Partners increase offer for DCC to potential \u00a35.8bn",
-      "summary": "A consortium led by private equity firms KKR and Energy Capital Partners has increased its takeover proposal for Irish energy distribution group DCC for the second time in just over a month, valuing t",
-      "company": "KKR",
-      "link": "https://www.privateequitywire.co.uk/kkr-and-energy-capital-partners-increase-offer-for-dcc-to-potential-5-8bn/",
-      "date": "Jul 17, 26",
-      "source": "PE Wire",
+      "id": "3bfe25214529",
+      "title": "Financials led US private equity returns in 2025, software\u2019s long dominance faces AI test: HarbourVest",
+      "summary": "Financials generated the strongest one-year returns in US private equity during 2025, outperforming the broader buyout market, while information technology led returns across overseas buyout markets, ",
+      "company": "Financials",
+      "link": "https://www.altassets.net/featured/financials-led-us-private-equity-returns-in-2025-softwares-long-dominance-faces-ai-test-harbourvest.html",
+      "date": "Jul 20, 26",
+      "source": "AltAssets",
       "layer": 5,
       "access": "pe",
       "score": 9,
@@ -463,6 +417,19 @@
       "moments": []
     },
     {
+      "id": "589c9fbf9cc1",
+      "title": "Netflix Q2 Earnings Results In-Line With Expectations, Stock Drops on Lower Q3 Revenue Outlook",
+      "summary": "As investors fret that Netflix&#8217;s viewer-engagement metrics are flagging, the streaming giant reported earnings for the second quarter of 2026 that were in line with Wall Street forecasts. But it",
+      "company": "Netflix Q2 Earnings Results In-Line With",
+      "link": "https://variety.com/2026/tv/news/netflix-q2-2026-earnings-1236812558/",
+      "date": "Jul 16, 26",
+      "source": "Variety Biz",
+      "layer": 2,
+      "access": "public",
+      "score": 16,
+      "moments": []
+    },
+    {
       "id": "b45af55431a9",
       "title": "States Seek Discovery Into DOJ-Live Nation Settlement, Citing Weak Remedies and Alleged Influence",
       "summary": "A coalition of state attorneys general is asking a federal judge to authorize discovery into both the substance of the... The post States Seek Discovery Into DOJ-Live Nation Settlement, Citing Weak Re",
@@ -473,6 +440,32 @@
       "layer": 3,
       "access": "pe",
       "score": 13,
+      "moments": []
+    },
+    {
+      "id": "af7fc130615f",
+      "title": "As Netflix Tries to Reset Narrative for Investors, Live Programming Could Play \u2018Starring Role\u2019",
+      "summary": "The sky isn&#8217;t falling for Netflix \u2014 but the streaming giant needs to convince investors it has a workable plan to sustain double-digit revenue and earnings growth ahead. The company on Thursday ",
+      "company": "As Netflix Tries",
+      "link": "https://variety.com/2026/tv/news/netflix-investors-live-programming-starring-role-1236814702/",
+      "date": "Jul 17, 26",
+      "source": "Variety Biz",
+      "layer": 2,
+      "access": "public",
+      "score": 12,
+      "moments": []
+    },
+    {
+      "id": "a4690a1662ee",
+      "title": "Pavia, Chambliss Attorneys Not Paid Despite Beating NCAA",
+      "summary": "The last two years have seen dozens of college athletes sue the NCAA to gain an additional year of eligibility, during which some could earn six or even seven figures in NIL and revenue-share money. S",
+      "company": "Pavia Chambliss Attorneys Not Paid Despite",
+      "link": "https://www.sportico.com/law/analysis/2026/nil-ncaa-attorneys-fees-pavia-chambliss-1234939401/",
+      "date": "Jul 20, 26",
+      "source": "Sportico",
+      "layer": 2,
+      "access": "pe",
+      "score": 10,
       "moments": []
     },
     {
@@ -489,42 +482,16 @@
       "moments": []
     },
     {
-      "id": "a2dc84fd34bf",
-      "title": "\u2018Heartstopper Forever\u2019: What to Know Before Seeing the Movie",
-      "summary": "The Netflix series and its feature-length finale are based on the graphic novels by Alice Oseman. Here\u2019s a reminder of the events of the characters and where their stories left off.",
-      "company": "\u2018Heartstopper Forever\u2019: What",
-      "link": "https://www.nytimes.com/2026/07/17/movies/heartstopper-forever-movie-what-to-know.html",
-      "date": "Jul 18, 26",
-      "source": "NYT Arts",
+      "id": "ccdf8febe714",
+      "title": "Trump's DOJ turns to a never-used court for its next deportation fight",
+      "summary": "The Justice Department is asking a never-before-used federal court to remove an unnamed noncitizen, the first use of a 30-year-old process that could give President Trump a new tool for his deportatio",
+      "company": "Trump's DOJ",
+      "link": "https://www.axios.com/2026/07/19/trump-alien-terrorist-removal-court-first-case",
+      "date": "Jul 19, 26",
+      "source": "Axios",
       "layer": 3,
-      "access": "venture",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "5e808b54115a",
-      "title": "\u2018Where did they go?\u2019: homeless people feel force of America\u2019s brutality in World Cup clean-up",
-      "summary": "Fifa says football brings the world together but the unhoused in Atlanta feel targeted and completely excluded from the tournament\u201cA lot of our community has been pushed out by the World Cup. We\u2019re no",
-      "company": "\u2018Where",
-      "link": "https://www.theguardian.com/football/2026/jul/18/where-did-they-go-homeless-people-feel-force-of-americas-brutality-in-world-cup-clean-up",
-      "date": "Jul 18, 26",
-      "source": "Guardian Sport",
-      "layer": 4,
       "access": "pe",
       "score": 5,
-      "moments": []
-    },
-    {
-      "id": "91aee8a3ee04",
-      "title": "Borgman invests in concrete production equipment distributor CMW",
-      "summary": "The capital infusion will be used to support CMW\u2019s continued growth through expanded service offerings and entry into new markets. The post Borgman invests in concrete production equipment distributor",
-      "company": "Borgman",
-      "link": "https://www.pehub.com/borgman-invests-in-concrete-production-equipment-distributor-cmw/",
-      "date": "Jul 17, 26",
-      "source": "PE Hub",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
       "moments": []
     },
     {
