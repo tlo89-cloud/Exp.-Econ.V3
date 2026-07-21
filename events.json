@@ -1,38 +1,21 @@
 {
-  "generated": "2026-07-20T14:16:17.275514+00:00",
-  "total": 34,
+  "generated": "2026-07-21T14:03:28.954090+00:00",
+  "total": 37,
   "scraped": [
     {
-      "id": "be7647340021",
-      "title": "VC veteran Greylock launches $1.5bn early-stage venture fund focused on AI startups",
-      "summary": "Silicon Valley venture capital firm Greylock has launched Greylock 18, a $1.5bn early-stage fund that will back founders at the pre-seed, seed and Series A stages, with a particular focus on companies",
-      "company": "VC veteran Greylock",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/vc-vetran-greylock-launches-1-5bn-early-stage-venture-fund-focused-on-ai-startups.html",
-      "date": "Jul 16, 26",
+      "id": "5796bc007ea6",
+      "title": "Clipway scores giant debut fund close at $6.4bn, targets AI edge in secondaries investing",
+      "summary": "Clipway, the secondaries private equity investor launched by a trio of former senior Ardian executives, has stormed to a $6.4bn final close for its debut fund, marking one of the biggest-ever first-ti",
+      "company": "Clipway scores giant debut fund",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/clipway-scores-giant-debut-fund-close-at-6-4bn-targets-ai-edge-in-secondaries-investing.html",
+      "date": "Jul 21, 26",
       "source": "AltAssets",
-      "layer": 5,
+      "layer": 1,
       "access": "pe",
-      "score": 20,
+      "score": 21,
       "moments": [
         "pe_investment",
-        "fund_launch",
-        "company_launch"
-      ]
-    },
-    {
-      "id": "c674e93c3998",
-      "title": "PIF-led consortium expected to secure EU Approval for $55bn Electronic Arts buyout",
-      "summary": "Saudi Arabia's Public Investment Fund, Jared Kushner's Affinity Partners and \u200bprivate equity firm Silver Lake are expected to receive European Union approval for the proposed $55bn acquisition of vide",
-      "company": "PIF-led",
-      "link": "https://www.privateequitywire.co.uk/pif-led-consortium-expected-to-secure-eu-approval-for-55bn-electronic-arts-buyout/",
-      "date": "Jul 20, 26",
-      "source": "PE Wire",
-      "layer": 5,
-      "access": "pe",
-      "score": 19,
-      "moments": [
-        "acquisition",
-        "pe_investment"
+        "fund_launch"
       ]
     },
     {
@@ -58,22 +41,6 @@
       "company": "Silver Hill Energy Partners",
       "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/silver-hill-energy-partners-closes-1-28bn-fifth-fund-above-target.html",
       "date": "Jul 17, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "a857882a2f7a",
-      "title": "Carlyle AlpInvest hits $1.7bn hard cap for second dedicated continuation vehicle investment fund",
-      "summary": "Carlyle AlpInvest has held the final close of Atom Fund II, its second vehicle focused on making single-asset continuation fund investments, at its $1.7bn hard cap - well above its $1bn target. The po",
-      "company": "Carlyle AlpInvest",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/carlyle-alpinvest-hits-1-7bn-hard-cap-for-second-dedicated-continuation-vehicle-fund.html",
-      "date": "Jul 16, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -113,6 +80,22 @@
       "moments": [
         "album_announcement",
         "company_launch"
+      ]
+    },
+    {
+      "id": "7ee26eda2e82",
+      "title": "Apax Partners to acquire techoraco and Institutional Investor from Delinian",
+      "summary": "The two events and data intelligence platforms will retain their existing management teams and brand identities under Apax's ownership. The post Apax Partners to acquire techoraco and Institutional In",
+      "company": "Apax Partners to",
+      "link": "https://www.pehub.com/apax-partners-to-acquire-techoraco-and-institutional-investor-from-delinian/",
+      "date": "Jul 21, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "acquisition",
+        "pe_investment"
       ]
     },
     {
@@ -194,6 +177,51 @@
       ]
     },
     {
+      "id": "4d2abf558b4c",
+      "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
+      "summary": "AI infrastructure company Infinity announced Monday a $15 million raise at a $100 million valuation from investors including Touring Capital, Principal VC, and researchers from companies such as OpenA",
+      "company": "Inference startup Infinity",
+      "link": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
+      "date": "Jul 20, 26",
+      "source": "TechCrunch Startups",
+      "layer": 1,
+      "access": "venture",
+      "score": 18,
+      "moments": [
+        "funding_round"
+      ]
+    },
+    {
+      "id": "9a54e4c2ad14",
+      "title": "Paramount Skydance-Warner Bros. Discovery merger paused by federal judge",
+      "summary": "A federal judge has paused Paramount Skydance's takeover of Warner Bros. Discovery in response to a lawsuit last week from a dozen state attorneys general looking to block the deal on antitrust ground",
+      "company": "Paramount Skydance-Warner Bros Discovery",
+      "link": "https://www.axios.com/2026/07/20/paramount-skydance-warner-merger-paused",
+      "date": "Jul 20, 26",
+      "source": "Axios",
+      "layer": 3,
+      "access": "pe",
+      "score": 17,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "0f73f73a9723",
+      "title": "BBC Introducing Stage axed from Reading & Leeds festival after 18 years",
+      "summary": "Roughly 70% of artists on this year's line-up played on the stage at some point, including headliners Florence + The Machine, Charli XCX, Dave and Raye The post BBC Introducing Stage axed from Reading",
+      "company": "BBC Introducing Stage",
+      "link": "https://www.nme.com/news/music/bbc-introducing-stage-axed-from-reading-leeds-festival-after-18-years-3958200?utm_source=rss&utm_medium=rss&utm_campaign=bbc-introducing-stage-axed-from-reading-leeds-festival-after-18-years",
+      "date": "Jul 21, 26",
+      "source": "NME",
+      "layer": 1,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
       "id": "5b7fcb8dd9fb",
       "title": "Post your questions for Kristin Hersh, of Throwing Muses and more",
       "summary": "The alt-rock icon is preparing to release her latest solo album Sugar on Blackstone, and will answer your questions about her five-decade careerAs frontwoman of Throwing Muses then an acclaimed solo a",
@@ -239,63 +267,33 @@
       ]
     },
     {
-      "id": "d90a7afbd91a",
-      "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
-      "summary": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.",
-      "company": "Nuclear startup Valar Atomics in talks to",
-      "link": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
-      "date": "Jul 17, 26",
-      "source": "TechCrunch Startups",
-      "layer": 1,
-      "access": "venture",
-      "score": 15,
-      "moments": [
-        "valuation"
-      ]
-    },
-    {
-      "id": "10364b2770a5",
-      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
-      "summary": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
-      "company": "Indian AI",
-      "link": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
-      "date": "Jul 15, 26",
-      "source": "TechCrunch Startups",
+      "id": "e0d8ccde6a4f",
+      "title": "Deal Roundup: CapVest completes deal for energy infra business TSG, Truelink Capital buys Lyons Magnus from Paine Schwartz",
+      "summary": "CapVest has completed its acquisition of a majority stake in European energy infrastructure services provider TSG. The Paris-headquartered company operates across 30 countries, employs more than 7,000",
+      "company": "Deal Roundup",
+      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-capvest-completes-deal-for-energy-infra-business-tsg-truelink-capital-buys-lyons-magnus-from-paine-schwartz.html",
+      "date": "Jul 21, 26",
+      "source": "AltAssets",
       "layer": 2,
-      "access": "venture",
+      "access": "pe",
       "score": 15,
       "moments": [
         "acquisition"
       ]
     },
     {
-      "id": "7361a56776e3",
-      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-      "summary": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
-      "company": "Hermes",
-      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-      "date": "Jul 13, 26",
-      "source": "TechCrunch Venture",
-      "layer": 1,
-      "access": "venture",
-      "score": 15,
-      "moments": [
-        "valuation"
-      ]
-    },
-    {
-      "id": "b78abd8d0a0f",
-      "title": "Arca announces new album \u2018XXXXX\u2019 and ambitious Daniel Sannwald-directed livestream",
-      "summary": "The Venezuelan musician's new album drops July 31 and is said to be \"darker, more aggressive, more experimental\" The post Arca announces new album &#8216;XXXXX&#8217; and ambitious Daniel Sannwald-dir",
-      "company": "Arca",
-      "link": "https://www.nme.com/news/music/arca-announces-new-album-xxxxx-and-ambitious-daniel-sannwald-directed-livestream-3958014?utm_source=rss&utm_medium=rss&utm_campaign=arca-announces-new-album-xxxxx-and-ambitious-daniel-sannwald-directed-livestream",
-      "date": "Jul 20, 26",
-      "source": "NME",
-      "layer": 1,
+      "id": "8405fb65bce3",
+      "title": "Kayne Anderson and Warburg Pincus to sell WildFire Energy for over $4bn",
+      "summary": "WildFire is focused on the acquisition, development and optimization of oil and gas assets in the Austin Chalk, Eagle Ford, and Woodbine formations of South Texas. The post Kayne Anderson and Warburg ",
+      "company": "Kayne Anderson",
+      "link": "https://www.pehub.com/kayne-anderson-and-warburg-pincus-to-sell-wildfire-energy-for-over-4bn/",
+      "date": "Jul 21, 26",
+      "source": "PE Hub",
+      "layer": 2,
       "access": "pe",
-      "score": 14,
+      "score": 11,
       "moments": [
-        "album_announcement"
+        "acquisition"
       ]
     },
     {
@@ -326,6 +324,36 @@
       "score": 9,
       "moments": [
         "company_launch"
+      ]
+    },
+    {
+      "id": "d0e9309a6305",
+      "title": "Angeles Equity Partners taps Kyle Huffman as finance VP for operations group",
+      "summary": "In this role, Huffman will partner with portfolio company leadership teams to help build scalable finance organizations, improve cash generation, support acquisitions, and strengthen financial perform",
+      "company": "Angeles Equity Partners",
+      "link": "https://www.pehub.com/angeles-equity-partners-taps-kyle-huffman-as-finance-vp-for-operations-group/",
+      "date": "Jul 21, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "2f7bb884c152",
+      "title": "O2-backed 4M acquires Bluegrass Commercial Cleaning and Rainbow Maintenance Services",
+      "summary": "Both Bluegrass and Rainbow are providers of commercial janitorial services. The post O2-backed 4M acquires Bluegrass Commercial Cleaning and Rainbow Maintenance Services appeared first on PE Hub.",
+      "company": "O2-backed 4M",
+      "link": "https://www.pehub.com/o2-backed-4m-acquires-bluegrass-commercial-cleaning-and-rainbow-maintenance-services/",
+      "date": "Jul 21, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
       ]
     },
     {
@@ -374,18 +402,48 @@
       ]
     },
     {
-      "id": "3bfe25214529",
-      "title": "Financials led US private equity returns in 2025, software\u2019s long dominance faces AI test: HarbourVest",
-      "summary": "Financials generated the strongest one-year returns in US private equity during 2025, outperforming the broader buyout market, while information technology led returns across overseas buyout markets, ",
-      "company": "Financials",
-      "link": "https://www.altassets.net/featured/financials-led-us-private-equity-returns-in-2025-softwares-long-dominance-faces-ai-test-harbourvest.html",
-      "date": "Jul 20, 26",
-      "source": "AltAssets",
+      "id": "3ba639141b34",
+      "title": "Private equity targets Italy\u2019s family-owned industrial base for AI-proof deals",
+      "summary": "Private equity firms are increasingly targeting Italy\u2019s family-owned industrial companies as investors seek businesses with physical assets, specialist manufacturing capabilities and lower exposure to",
+      "company": "Private",
+      "link": "https://www.privateequitywire.co.uk/private-equity-targets-italys-family-owned-industrial-base-for-ai-proof-deals/",
+      "date": "Jul 21, 26",
+      "source": "PE Wire",
       "layer": 5,
       "access": "pe",
       "score": 9,
       "moments": [
         "pe_investment"
+      ]
+    },
+    {
+      "id": "3ce10c76fe59",
+      "title": "Brookfield and CPP Investments acquire LXP Industrial in $5.2bn take-private deal",
+      "summary": "Brookfield Asset Management and CPP Investments have agreed to acquire US industrial real estate investment trust LXP Industrial Trust in an all-cash transaction valued at approximately $5.2bn, accord",
+      "company": "Brookfield and CPP Investments",
+      "link": "https://www.privateequitywire.co.uk/brookfield-and-cpp-investments-acquire-lxp-industrial-in-5-2bn-take-private-deal/",
+      "date": "Jul 21, 26",
+      "source": "PE Wire",
+      "layer": 2,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "68521be34346",
+      "title": "Venezuela's Cashea Raises $100 Million From Global Investors",
+      "summary": "Rounds led by FinSight Ventures and Spice Expeditions, with participation from U.S. endowments, global venture firms and Latin American investors. The full USD 100 million will be invested in Venezuel",
+      "company": "Venezuela's Cashea Raises",
+      "link": "https://www.prnewswire.com/news-releases/venezuelas-cashea-raises-100-million-from-global-investors-302830934.html",
+      "date": "Jul 21, 26",
+      "source": "PR Newswire",
+      "layer": 4,
+      "access": "venture",
+      "score": 9,
+      "moments": [
+        "funding_round"
       ]
     },
     {
@@ -404,19 +462,6 @@
       ]
     },
     {
-      "id": "6913dd087354",
-      "title": "Live Nation, Oak View Group Launch Saudi Venue JV Amid Antitrust Scrutiny of U.S. Partnership",
-      "summary": "PIF-backed radia will help develop and operate venues across Saudi Arabia, even as the proposed DOJ settlement in the Live... The post Live Nation, Oak View Group Launch Saudi Venue JV Amid Antitrust ",
-      "company": "Live Nation Oak View Group Launch",
-      "link": "https://www.ticketnews.com/2026/07/live-nation-oak-view-group-launch-saudi-venue-jv-amid-antitrust-scrutiny-of-u-s-partnership/",
-      "date": "Jul 17, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 24,
-      "moments": []
-    },
-    {
       "id": "589c9fbf9cc1",
       "title": "Netflix Q2 Earnings Results In-Line With Expectations, Stock Drops on Lower Q3 Revenue Outlook",
       "summary": "As investors fret that Netflix&#8217;s viewer-engagement metrics are flagging, the streaming giant reported earnings for the second quarter of 2026 that were in line with Wall Street forecasts. But it",
@@ -427,45 +472,6 @@
       "layer": 2,
       "access": "public",
       "score": 16,
-      "moments": []
-    },
-    {
-      "id": "b45af55431a9",
-      "title": "States Seek Discovery Into DOJ-Live Nation Settlement, Citing Weak Remedies and Alleged Influence",
-      "summary": "A coalition of state attorneys general is asking a federal judge to authorize discovery into both the substance of the... The post States Seek Discovery Into DOJ-Live Nation Settlement, Citing Weak Re",
-      "company": "States Seek Discovery Into DOJ-Live Nation",
-      "link": "https://www.ticketnews.com/2026/07/states-seek-discovery-into-doj-live-nation-settlement-citing-weak-remedies-and-alleged-influence/",
-      "date": "Jul 17, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 13,
-      "moments": []
-    },
-    {
-      "id": "af7fc130615f",
-      "title": "As Netflix Tries to Reset Narrative for Investors, Live Programming Could Play \u2018Starring Role\u2019",
-      "summary": "The sky isn&#8217;t falling for Netflix \u2014 but the streaming giant needs to convince investors it has a workable plan to sustain double-digit revenue and earnings growth ahead. The company on Thursday ",
-      "company": "As Netflix Tries",
-      "link": "https://variety.com/2026/tv/news/netflix-investors-live-programming-starring-role-1236814702/",
-      "date": "Jul 17, 26",
-      "source": "Variety Biz",
-      "layer": 2,
-      "access": "public",
-      "score": 12,
-      "moments": []
-    },
-    {
-      "id": "a4690a1662ee",
-      "title": "Pavia, Chambliss Attorneys Not Paid Despite Beating NCAA",
-      "summary": "The last two years have seen dozens of college athletes sue the NCAA to gain an additional year of eligibility, during which some could earn six or even seven figures in NIL and revenue-share money. S",
-      "company": "Pavia Chambliss Attorneys Not Paid Despite",
-      "link": "https://www.sportico.com/law/analysis/2026/nil-ncaa-attorneys-fees-pavia-chambliss-1234939401/",
-      "date": "Jul 20, 26",
-      "source": "Sportico",
-      "layer": 2,
-      "access": "pe",
-      "score": 10,
       "moments": []
     },
     {
@@ -482,6 +488,32 @@
       "moments": []
     },
     {
+      "id": "fe422b1dfefc",
+      "title": "FIFA Ticketing Investigation Will Continue After World Cup, New Jersey AG Says",
+      "summary": "Attorney General Jennifer Davenport says regulators remain focused on potentially misleading seat-category maps, phased inventory releases and variable pricing after... The post FIFA Ticketing Investi",
+      "company": "",
+      "link": "https://www.ticketnews.com/2026/07/fifa-ticketing-investigation-will-continue-after-world-cup-new-jersey-ag-says/",
+      "date": "Jul 20, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 7,
+      "moments": []
+    },
+    {
+      "id": "b1f7b70bfe1a",
+      "title": "New NCAA Eligibility Policy Hasn\u2019t Slowed Lawsuits\u2014It\u2019s Triggered More",
+      "summary": "Kyle Ross-Imagn Images",
+      "company": "New NCAA Eligibility Policy Hasn\u2019t Slowed",
+      "link": "https://frontofficesports.com/new-ncaa-eligibility-policy-hasnt-slowed-lawsuits-its-triggered-more/",
+      "date": "Jul 21, 26",
+      "source": "Front Office Sports",
+      "layer": 4,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
       "id": "ccdf8febe714",
       "title": "Trump's DOJ turns to a never-used court for its next deportation fight",
       "summary": "The Justice Department is asking a never-before-used federal court to remove an unnamed noncitizen, the first use of a 30-year-old process that could give President Trump a new tool for his deportatio",
@@ -490,6 +522,19 @@
       "date": "Jul 19, 26",
       "source": "Axios",
       "layer": 3,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "f3d3d9c8d6be",
+      "title": "Citadel Credit Union Named Official Credit Union of Drexel Athletics Through New Multi-Year Partnership",
+      "summary": "PHILADELPHIA, July 21, 2026 /PRNewswire/ -- Drexel Athletics, Citadel Credit Union, and Learfield's Dragons Sports Properties today announced a multi-year partnership naming Citadel the Official Credi",
+      "company": "Citadel Credit Union Named Official Credit",
+      "link": "https://www.prnewswire.com/news-releases/citadel-credit-union-named-official-credit-union-of-drexel-athletics-through-new-multi-year-partnership-302830262.html",
+      "date": "Jul 21, 26",
+      "source": "PR Newswire",
+      "layer": 4,
       "access": "pe",
       "score": 5,
       "moments": []
