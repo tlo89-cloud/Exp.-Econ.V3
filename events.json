@@ -1,7 +1,24 @@
 {
-  "generated": "2026-07-21T14:03:28.954090+00:00",
-  "total": 37,
+  "generated": "2026-07-22T14:06:10.830374+00:00",
+  "total": 36,
   "scraped": [
+    {
+      "id": "29cf4610e53d",
+      "title": "Dimension launches $800m third fund to back science and compute-focused founders",
+      "summary": "Dimension, a venture firm focused on science and compute-driven companies, has launched its third fund with $800m in capital commitments, almost doubling the firm's total assets under management. The ",
+      "company": "Dimension",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/dimension-launches-800m-third-fund-to-back-science-and-compute-focused-founders.html",
+      "date": "Jul 22, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 17,
+      "moments": [
+        "pe_investment",
+        "fund_launch",
+        "company_launch"
+      ]
+    },
     {
       "id": "5796bc007ea6",
       "title": "Clipway scores giant debut fund close at $6.4bn, targets AI edge in secondaries investing",
@@ -16,6 +33,38 @@
       "moments": [
         "pe_investment",
         "fund_launch"
+      ]
+    },
+    {
+      "id": "e87fb6f65baa",
+      "title": "Sterling Organization Acquires Merchants Walk, 271,992-Square-Foot Whole Foods Market-Anchored Shopping Center in Metro Atlanta's East Cobb Submarket...",
+      "summary": "WEST PALM BEACH, Fla., July 22, 2026 /PRNewswire/ -- Sterling Organization, a vertically integrated private equity real estate investment firm headquartered in West Palm Beach, Florida, today announce",
+      "company": "",
+      "link": "https://www.prnewswire.com/news-releases/sterling-organization-acquires-merchants-walk-271-992-square-foot-whole-foods-market-anchored-shopping-center-in-metro-atlantas-east-cobb-submarket-for-93-2-million-302832182.html",
+      "date": "Jul 22, 26",
+      "source": "PR Newswire",
+      "layer": 2,
+      "access": "pe",
+      "score": 19,
+      "moments": [
+        "acquisition",
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "cfa67ca6858d",
+      "title": "Townsend raises $2bn for real estate secondaries strategy, eyes $3bn",
+      "summary": "Real assets investor Townsend has raised more than $2bn for its latest real estate secondaries strategy, with the global real assets specialist targeting a total raise of $3bn to capitalise on growing",
+      "company": "Townsend",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/townsend-raises-2bn-for-real-estate-secondaries-strategy-eyes-3bn.html",
+      "date": "Jul 22, 26",
+      "source": "AltAssets",
+      "layer": 2,
+      "access": "pe",
+      "score": 18,
+      "moments": [
+        "funding_round",
+        "pe_investment"
       ]
     },
     {
@@ -35,19 +84,19 @@
       ]
     },
     {
-      "id": "745b9db15610",
-      "title": "Silver Hill Energy Partners closes $1.28bn fifth fund above target",
-      "summary": "Silver Hill Energy Partners has hauled in almost $1.28bn at the final close of its fifth oil and gas-focused investment fund after an oversubscribed raise. The post Silver Hill Energy Partners closes ",
-      "company": "Silver Hill Energy Partners",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/silver-hill-energy-partners-closes-1-28bn-fifth-fund-above-target.html",
-      "date": "Jul 17, 26",
+      "id": "60c9762f695f",
+      "title": "Snow Phipps successor TruArc Partners raises $1.2bn Fund V",
+      "summary": "TruArc Partners has closed its latest private equity fund at $1.2bn, beating its target and coming in more than 40% larger than its predecessor vehicle. The post Snow Phipps successor TruArc Partners ",
+      "company": "Snow Phipps successor TruArc Partners",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/snow-phipps-successor-truarc-partners-raises-1-2bn-fund-v.html",
+      "date": "Jul 22, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
       "score": 16,
       "moments": [
-        "pe_investment",
-        "fund_launch"
+        "funding_round",
+        "pe_investment"
       ]
     },
     {
@@ -67,35 +116,35 @@
       ]
     },
     {
-      "id": "4f7cf99f777b",
-      "title": "On \u2018Caribenya,\u2019 Lido Pimienta Found a Lifeline",
-      "summary": "On Lido Pimienta\u2019s new album, \u201cCaribenya,\u201d the Colombian Canadian musician sought a warmer, more complex depiction of Caribbean culture. Creating it helped her rediscover the beauty of living.",
-      "company": "On \u2018Caribenya,\u2019 Lido Pimienta Found",
-      "link": "https://www.nytimes.com/2026/07/15/arts/music/lido-pimienta-new-album-caribenya.html",
-      "date": "Jul 15, 26",
-      "source": "NYT Music",
+      "id": "233c3f945c1b",
+      "title": "World Cup final draws record 62.8M U.S. viewers",
+      "summary": "Sunday's FIFA World Cup final drew more than 62.8 million viewers in the U.S., making it the most-watched World Cup final and soccer telecast in American history. Why it matters: The record audience u",
+      "company": "World Cup",
+      "link": "https://www.axios.com/2026/07/21/world-cup-final-viewership-record",
+      "date": "Jul 21, 26",
+      "source": "Axios",
       "layer": 1,
       "access": "pe",
       "score": 13,
       "moments": [
-        "album_announcement",
-        "company_launch"
+        "rights_deal",
+        "record_breaking"
       ]
     },
     {
-      "id": "7ee26eda2e82",
-      "title": "Apax Partners to acquire techoraco and Institutional Investor from Delinian",
-      "summary": "The two events and data intelligence platforms will retain their existing management teams and brand identities under Apax's ownership. The post Apax Partners to acquire techoraco and Institutional In",
-      "company": "Apax Partners to",
-      "link": "https://www.pehub.com/apax-partners-to-acquire-techoraco-and-institutional-investor-from-delinian/",
-      "date": "Jul 21, 26",
-      "source": "PE Hub",
+      "id": "b5403fd9d666",
+      "title": "Golding reaches \u20ac283m first close for sixth buyout fund",
+      "summary": "Golding Capital Partners has secured \u20ac283m at the first close of its sixth flagship buyout fund, as the German private markets investor continues to build a diversified European and North American sma",
+      "company": "Golding",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/germany-western-europe-europe-by-region/golding-reaches-e283m-first-close-for-sixth-buyout-fund.html",
+      "date": "Jul 22, 26",
+      "source": "AltAssets",
       "layer": 5,
       "access": "pe",
       "score": 13,
       "moments": [
-        "acquisition",
-        "pe_investment"
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
@@ -115,22 +164,6 @@
       ]
     },
     {
-      "id": "343c8c6eea7a",
-      "title": "Ex-Gridiron Capital trio $670m hard cap close for debut Uplift Investors fund",
-      "summary": "Uplift Investors, a private equity firm launched in 2025 by a trio of former Gridiron Capital executives, has raised $670m at the hard cap final close of its debut fund. The post Ex-Gridiron Capital t",
-      "company": "Ex-Gridiron Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/ex-hig-capital-execs-seal-670m-hard-cap-close-for-debut-uplift-investors-fund.html",
-      "date": "Jul 17, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
       "id": "d468645b4458",
       "title": "Alexis Smith of The Feminine Glow Emerges at the Center of the Feminine Energy Coaching Boom",
       "summary": "DUBAI, UAE &#8211; &#160;The Feminine Glow, the fast-growing femininity and inner work platform founded by Alexis Smith, is gaining national attention as interest in coaching, self-development, and fe",
@@ -147,6 +180,21 @@
       ]
     },
     {
+      "id": "416f12a01931",
+      "title": "NFL 2025 National Revenue Tops $14B, Teams Get $450M",
+      "summary": "Each of the 32 NFL teams had gross revenue of more than $450 million for the 2025 season, according to multiple people familiar with the league\u2019s finances who were not authorized to speak publicly. Th",
+      "company": "NFL",
+      "link": "https://www.sportico.com/leagues/football/2026/nfl-2025-national-revenue-per-team-1234939659/",
+      "date": "Jul 21, 26",
+      "source": "Sportico",
+      "layer": 1,
+      "access": "pe",
+      "score": 26,
+      "moments": [
+        "rights_deal"
+      ]
+    },
+    {
       "id": "e9c36d3008c4",
       "title": "Knitting Factory Entertainment Acquires Minority Stake in Does Entertainment, Forming Strategic Growth Partnership to Expand National Live...",
       "summary": "Companies Align to Accelerate Venue Development, Talent Buying, Concert Promotion and Strategic Growth Across North America Los Angeles, CA / Wilmington, NC, July 14, 2026 \u2013&#160;Knitting Factory Ente",
@@ -157,21 +205,6 @@
       "layer": 2,
       "access": "pe",
       "score": 24,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "d8589ffcfab3",
-      "title": "How Strong Is the Democratic State AGs\u2019 Lawsuit Aiming to Block Paramount\u2019s Warner Bros. Takeover?",
-      "summary": "A group of 12 Democratic state attorneys general is suing to block Paramount Skydance&#8217;s merger with Warner Bros. Discovery &#8212; arguing the transaction violates antitrust law by giving the co",
-      "company": "How Strong Is",
-      "link": "https://variety.com/2026/film/news/paramount-warner-bros-merger-state-ags-daily-variety-1236810547/",
-      "date": "Jul 14, 26",
-      "source": "Variety Biz",
-      "layer": 3,
-      "access": "pe",
-      "score": 20,
       "moments": [
         "acquisition"
       ]
@@ -207,36 +240,6 @@
       ]
     },
     {
-      "id": "0f73f73a9723",
-      "title": "BBC Introducing Stage axed from Reading & Leeds festival after 18 years",
-      "summary": "Roughly 70% of artists on this year's line-up played on the stage at some point, including headliners Florence + The Machine, Charli XCX, Dave and Raye The post BBC Introducing Stage axed from Reading",
-      "company": "BBC Introducing Stage",
-      "link": "https://www.nme.com/news/music/bbc-introducing-stage-axed-from-reading-leeds-festival-after-18-years-3958200?utm_source=rss&utm_medium=rss&utm_campaign=bbc-introducing-stage-axed-from-reading-leeds-festival-after-18-years",
-      "date": "Jul 21, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "5b7fcb8dd9fb",
-      "title": "Post your questions for Kristin Hersh, of Throwing Muses and more",
-      "summary": "The alt-rock icon is preparing to release her latest solo album Sugar on Blackstone, and will answer your questions about her five-decade careerAs frontwoman of Throwing Muses then an acclaimed solo a",
-      "company": "Post",
-      "link": "https://www.theguardian.com/music/2026/jul/17/post-your-questions-for-kristin-hersh-throwing-muses",
-      "date": "Jul 17, 26",
-      "source": "Guardian Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
       "id": "6c250e94b064",
       "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
       "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
@@ -252,18 +255,33 @@
       ]
     },
     {
-      "id": "ca702f76a6b0",
-      "title": "MLS Club CEO on Youth Soccer and the World Cup Boom",
-      "summary": "San Diego FC CEO on World Cup momentum, MLS fan conversion, broadcast rights, and youth development.",
-      "company": "MLS Club CEO",
-      "link": "https://frontofficesports.com/videos/mls-club-ceo-on-youth-soccer-and-the-world-cup-boom/",
+      "id": "d90a7afbd91a",
+      "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
+      "summary": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.",
+      "company": "Nuclear startup Valar Atomics in talks to",
+      "link": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
       "date": "Jul 17, 26",
-      "source": "Front Office Sports",
+      "source": "TechCrunch Startups",
       "layer": 1,
-      "access": "pe",
+      "access": "venture",
       "score": 15,
       "moments": [
-        "rights_deal"
+        "valuation"
+      ]
+    },
+    {
+      "id": "7361a56776e3",
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "summary": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
+      "company": "Hermes",
+      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "date": "Jul 13, 26",
+      "source": "TechCrunch Venture",
+      "layer": 1,
+      "access": "venture",
+      "score": 15,
+      "moments": [
+        "valuation"
       ]
     },
     {
@@ -282,18 +300,18 @@
       ]
     },
     {
-      "id": "8405fb65bce3",
-      "title": "Kayne Anderson and Warburg Pincus to sell WildFire Energy for over $4bn",
-      "summary": "WildFire is focused on the acquisition, development and optimization of oil and gas assets in the Austin Chalk, Eagle Ford, and Woodbine formations of South Texas. The post Kayne Anderson and Warburg ",
-      "company": "Kayne Anderson",
-      "link": "https://www.pehub.com/kayne-anderson-and-warburg-pincus-to-sell-wildfire-energy-for-over-4bn/",
-      "date": "Jul 21, 26",
+      "id": "543ea8305800",
+      "title": "Eli Manning: \u2018Youth sports taught me so many critical life lessons\u2019",
+      "summary": "The former NY Giants QB turned private equity investor discusses Brand Velocity Group's recent investment in RCX Sports. The post Eli Manning: &#8216;Youth sports taught me so many critical life lesso",
+      "company": "Eli Manning",
+      "link": "https://www.pehub.com/eli-manning-youth-sports-taught-me-so-many-critical-life-lessons/",
+      "date": "Jul 22, 26",
       "source": "PE Hub",
-      "layer": 2,
+      "layer": 5,
       "access": "pe",
-      "score": 11,
+      "score": 12,
       "moments": [
-        "acquisition"
+        "pe_investment"
       ]
     },
     {
@@ -312,60 +330,30 @@
       ]
     },
     {
-      "id": "95d003e88efb",
-      "title": "Lamine Yamal\u2019s First World Cup a Launchpad for His Global Brand",
-      "summary": "EAST RUTHERFORD, N.J.\u2014A few minutes after Spain defeated Argentina 1-0 in the World Cup Final, Lamine Yamal found an empty patch of grass and collapsed on his back, very clearly overcome with emotion.",
-      "company": "Lamine Yamal\u2019s First World Cup",
-      "link": "https://www.sportico.com/leagues/soccer/2026/lamine-yamal-spain-world-cup-win-global-brand-1234939458/",
-      "date": "Jul 20, 26",
-      "source": "Sportico",
+      "id": "212d572b541a",
+      "title": "Shane Gillis Shatters Two Guinness World Records at Sold-Out Philadelphia Stadium Show",
+      "summary": "Shane Gillis turned his biggest show yet into a record-breaking homecoming. The Pennsylvania-born comedian set two Guinness World Records during... The post Shane Gillis Shatters Two Guinness World Re",
+      "company": "Shane Gillis Shatters Two Guinness World",
+      "link": "https://www.ticketnews.com/2026/07/shane-gillis-shatters-guiness-world-records-philly/",
+      "date": "Jul 21, 26",
+      "source": "Ticket News",
       "layer": 2,
-      "access": "venture",
-      "score": 9,
+      "access": "pe",
+      "score": 11,
       "moments": [
-        "company_launch"
+        "record_breaking"
       ]
     },
     {
-      "id": "d0e9309a6305",
-      "title": "Angeles Equity Partners taps Kyle Huffman as finance VP for operations group",
-      "summary": "In this role, Huffman will partner with portfolio company leadership teams to help build scalable finance organizations, improve cash generation, support acquisitions, and strengthen financial perform",
-      "company": "Angeles Equity Partners",
-      "link": "https://www.pehub.com/angeles-equity-partners-taps-kyle-huffman-as-finance-vp-for-operations-group/",
-      "date": "Jul 21, 26",
+      "id": "d854ddaf2772",
+      "title": "Knox Lane acquires health tech firm Cross Country Healthcare Inc",
+      "summary": "In conjunction with the closing of the transaction, Joel Tremblay has been appointed CEO of Cross Country Healthcare. The post Knox Lane acquires health tech firm Cross Country Healthcare Inc appeared",
+      "company": "Knox Lane",
+      "link": "https://www.pehub.com/knox-lane-acquires-health-tech-firm-cross-country-healthcare-inc/",
+      "date": "Jul 22, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
-      "score": 9,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "2f7bb884c152",
-      "title": "O2-backed 4M acquires Bluegrass Commercial Cleaning and Rainbow Maintenance Services",
-      "summary": "Both Bluegrass and Rainbow are providers of commercial janitorial services. The post O2-backed 4M acquires Bluegrass Commercial Cleaning and Rainbow Maintenance Services appeared first on PE Hub.",
-      "company": "O2-backed 4M",
-      "link": "https://www.pehub.com/o2-backed-4m-acquires-bluegrass-commercial-cleaning-and-rainbow-maintenance-services/",
-      "date": "Jul 21, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "00c3cada2069",
-      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
-      "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot\u2019s personalization and dis",
-      "company": "Whatnot",
-      "link": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
-      "date": "Jul 15, 26",
-      "source": "TechCrunch Startups",
-      "layer": 3,
-      "access": "venture",
       "score": 9,
       "moments": [
         "acquisition"
@@ -387,28 +375,13 @@
       ]
     },
     {
-      "id": "e282774b71de",
-      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
-      "summary": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
-      "company": "Paris-based AI voice startup Gradium",
-      "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
-      "date": "Jul 09, 26",
-      "source": "TechCrunch Venture",
-      "layer": 5,
-      "access": "venture",
-      "score": 9,
-      "moments": [
-        "funding_round"
-      ]
-    },
-    {
-      "id": "3ba639141b34",
-      "title": "Private equity targets Italy\u2019s family-owned industrial base for AI-proof deals",
-      "summary": "Private equity firms are increasingly targeting Italy\u2019s family-owned industrial companies as investors seek businesses with physical assets, specialist manufacturing capabilities and lower exposure to",
-      "company": "Private",
-      "link": "https://www.privateequitywire.co.uk/private-equity-targets-italys-family-owned-industrial-base-for-ai-proof-deals/",
+      "id": "57b28cc3a2a0",
+      "title": "Capitol Meridian Partners doubles flagship fund to $1.9bn as investor re-up rate nears 90%",
+      "summary": "Capitol Meridian Partners has closed its second flagship private equity fund on its $1.9bn hard cap, more than doubling the size of its debut vehicle. The post Capitol Meridian Partners doubles flagsh",
+      "company": "Capitol Meridian Partners",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/capitol-meridian-partners-doubles-flagship-fund-to-1-9bn-as-investor-re-up-rate-nears-90.html",
       "date": "Jul 21, 26",
-      "source": "PE Wire",
+      "source": "AltAssets",
       "layer": 5,
       "access": "pe",
       "score": 9,
@@ -417,33 +390,33 @@
       ]
     },
     {
-      "id": "3ce10c76fe59",
-      "title": "Brookfield and CPP Investments acquire LXP Industrial in $5.2bn take-private deal",
-      "summary": "Brookfield Asset Management and CPP Investments have agreed to acquire US industrial real estate investment trust LXP Industrial Trust in an all-cash transaction valued at approximately $5.2bn, accord",
-      "company": "Brookfield and CPP Investments",
-      "link": "https://www.privateequitywire.co.uk/brookfield-and-cpp-investments-acquire-lxp-industrial-in-5-2bn-take-private-deal/",
-      "date": "Jul 21, 26",
-      "source": "PE Wire",
-      "layer": 2,
+      "id": "3bfe25214529",
+      "title": "Financials led US private equity returns in 2025, software\u2019s long dominance faces AI test: HarbourVest",
+      "summary": "Financials generated the strongest one-year returns in US private equity during 2025, outperforming the broader buyout market, while information technology led returns across overseas buyout markets, ",
+      "company": "Financials",
+      "link": "https://www.altassets.net/featured/financials-led-us-private-equity-returns-in-2025-softwares-long-dominance-faces-ai-test-harbourvest.html",
+      "date": "Jul 20, 26",
+      "source": "AltAssets",
+      "layer": 5,
       "access": "pe",
       "score": 9,
       "moments": [
-        "acquisition"
+        "pe_investment"
       ]
     },
     {
-      "id": "68521be34346",
-      "title": "Venezuela's Cashea Raises $100 Million From Global Investors",
-      "summary": "Rounds led by FinSight Ventures and Spice Expeditions, with participation from U.S. endowments, global venture firms and Latin American investors. The full USD 100 million will be invested in Venezuel",
-      "company": "Venezuela's Cashea Raises",
-      "link": "https://www.prnewswire.com/news-releases/venezuelas-cashea-raises-100-million-from-global-investors-302830934.html",
-      "date": "Jul 21, 26",
-      "source": "PR Newswire",
-      "layer": 4,
-      "access": "venture",
-      "score": 9,
+      "id": "2b6dabccc9c6",
+      "title": "Goldman Sachs Alternatives to acquire fintech firm Aegis Hedging Solutions",
+      "summary": "Greenbelt Capital Partners and Baird Capital are exiting Aegis following the transaction. The post Goldman Sachs Alternatives to acquire fintech firm Aegis Hedging Solutions appeared first on PE Hub.",
+      "company": "Goldman Sachs Alternatives to",
+      "link": "https://www.pehub.com/goldman-sachs-alternatives-to-acquire-fintech-firm-aegis-hedging-solutions/",
+      "date": "Jul 22, 26",
+      "source": "PE Hub",
+      "layer": 2,
+      "access": "pe",
+      "score": 8,
       "moments": [
-        "funding_round"
+        "acquisition"
       ]
     },
     {
@@ -462,16 +435,29 @@
       ]
     },
     {
-      "id": "589c9fbf9cc1",
-      "title": "Netflix Q2 Earnings Results In-Line With Expectations, Stock Drops on Lower Q3 Revenue Outlook",
-      "summary": "As investors fret that Netflix&#8217;s viewer-engagement metrics are flagging, the streaming giant reported earnings for the second quarter of 2026 that were in line with Wall Street forecasts. But it",
-      "company": "Netflix Q2 Earnings Results In-Line With",
-      "link": "https://variety.com/2026/tv/news/netflix-q2-2026-earnings-1236812558/",
-      "date": "Jul 16, 26",
-      "source": "Variety Biz",
-      "layer": 2,
-      "access": "public",
-      "score": 16,
+      "id": "032c5f70a04a",
+      "title": "Could the World Cup be back in the US as soon as 2038? Absolutely",
+      "summary": "Explosion in ticketing and hospitality revenue goes along with a Fifa desire to recoup lost TV income in future dealsAs is often the case, it has been left to Donald Trump to say the quiet bit out lou",
+      "company": "Could",
+      "link": "https://www.theguardian.com/football/2026/jul/21/world-cup-back-usa-2038-donald-trump-fifa-football",
+      "date": "Jul 21, 26",
+      "source": "Guardian Sport",
+      "layer": 3,
+      "access": "pe",
+      "score": 17,
+      "moments": []
+    },
+    {
+      "id": "6183989db60b",
+      "title": "Scoop: Trump's Cabinet members are joining TikTok after DOJ shift",
+      "summary": "Most of President Trump's Cabinet will launch TikTok accounts Tuesday, a move that comes days after the Justice Department told federal employees it was safe to use the app because of its sale to a U.",
+      "company": "Scoop",
+      "link": "https://www.axios.com/2026/07/21/trump-tiktok-app-accounts-doj-cabinet",
+      "date": "Jul 21, 26",
+      "source": "Axios",
+      "layer": 3,
+      "access": "pe",
+      "score": 10,
       "moments": []
     },
     {
@@ -488,12 +474,25 @@
       "moments": []
     },
     {
-      "id": "fe422b1dfefc",
-      "title": "FIFA Ticketing Investigation Will Continue After World Cup, New Jersey AG Says",
-      "summary": "Attorney General Jennifer Davenport says regulators remain focused on potentially misleading seat-category maps, phased inventory releases and variable pricing after... The post FIFA Ticketing Investi",
-      "company": "",
-      "link": "https://www.ticketnews.com/2026/07/fifa-ticketing-investigation-will-continue-after-world-cup-new-jersey-ag-says/",
-      "date": "Jul 20, 26",
+      "id": "330567b922bd",
+      "title": "\u2018Trophy\u2019 assets push private markets secondaries to record $121bn",
+      "summary": "TOP STORY: The private markets secondary market reached a record $121 billion in the first half of 2026, as asset managers increasingly used continuation vehicles to retain ownership of high-convictio",
+      "company": "\u2018Trophy\u2019",
+      "link": "https://www.privateequitywire.co.uk/trophy-assets-push-private-markets-secondaries-to-record-121bn/",
+      "date": "Jul 22, 26",
+      "source": "PE Wire",
+      "layer": 3,
+      "access": "pe",
+      "score": 8,
+      "moments": []
+    },
+    {
+      "id": "273065e180e7",
+      "title": "StubHub Hit With Canadian Class Action Lawsuit Over Cancelled World Cup Tickets",
+      "summary": "StubHub has been hit with a proposed class action lawsuit after a Vancouver man purchased tickets to the World Cup... The post StubHub Hit With Canadian Class Action Lawsuit Over Cancelled World Cup T",
+      "company": "StubHub Hit With Canadian Class Action",
+      "link": "https://www.ticketnews.com/2026/07/stubhub-hit-canadian-class-action-world-cup-tickets/",
+      "date": "Jul 21, 26",
       "source": "Ticket News",
       "layer": 3,
       "access": "pe",
@@ -514,29 +513,16 @@
       "moments": []
     },
     {
-      "id": "ccdf8febe714",
-      "title": "Trump's DOJ turns to a never-used court for its next deportation fight",
-      "summary": "The Justice Department is asking a never-before-used federal court to remove an unnamed noncitizen, the first use of a 30-year-old process that could give President Trump a new tool for his deportatio",
-      "company": "Trump's DOJ",
-      "link": "https://www.axios.com/2026/07/19/trump-alien-terrorist-removal-court-first-case",
-      "date": "Jul 19, 26",
-      "source": "Axios",
-      "layer": 3,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "f3d3d9c8d6be",
-      "title": "Citadel Credit Union Named Official Credit Union of Drexel Athletics Through New Multi-Year Partnership",
-      "summary": "PHILADELPHIA, July 21, 2026 /PRNewswire/ -- Drexel Athletics, Citadel Credit Union, and Learfield's Dragons Sports Properties today announced a multi-year partnership naming Citadel the Official Credi",
-      "company": "Citadel Credit Union Named Official Credit",
-      "link": "https://www.prnewswire.com/news-releases/citadel-credit-union-named-official-credit-union-of-drexel-athletics-through-new-multi-year-partnership-302830262.html",
+      "id": "e341d472ed87",
+      "title": "Hugging Face breach: OpenAI claims its models were responsible",
+      "summary": "OpenAI said Tuesday that models it was testing escaped their sandbox and compromised parts of AI platform Hugging Face's production infrastructure last week.Why it matters: It is the latest sign that ",
+      "company": "Hugging Face breach",
+      "link": "https://www.axios.com/2026/07/21/openai-says-hugging-face-breach-caused-by-one-its-models",
       "date": "Jul 21, 26",
-      "source": "PR Newswire",
+      "source": "Axios",
       "layer": 4,
       "access": "pe",
-      "score": 5,
+      "score": 4,
       "moments": []
     },
     {
