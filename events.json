@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-22T14:06:10.830374+00:00",
-  "total": 36,
+  "generated": "2026-07-23T14:12:12.944427+00:00",
+  "total": 37,
   "scraped": [
     {
       "id": "29cf4610e53d",
@@ -20,35 +20,19 @@
       ]
     },
     {
-      "id": "5796bc007ea6",
-      "title": "Clipway scores giant debut fund close at $6.4bn, targets AI edge in secondaries investing",
-      "summary": "Clipway, the secondaries private equity investor launched by a trio of former senior Ardian executives, has stormed to a $6.4bn final close for its debut fund, marking one of the biggest-ever first-ti",
-      "company": "Clipway scores giant debut fund",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/clipway-scores-giant-debut-fund-close-at-6-4bn-targets-ai-edge-in-secondaries-investing.html",
-      "date": "Jul 21, 26",
+      "id": "6ee6327fef94",
+      "title": "Avenue Growth Partners hits hard cap with $155m Fund II as LP demand backs vertical AI strategy",
+      "summary": "Avenue Growth Partners has closed its second fund on its $155m hard cap, more than doubling the size of its debut vehicle amid a continued push from LPs into AI verticals. The post Avenue Growth Partn",
+      "company": "Avenue Growth Partners",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/avenue-growth-partners-hits-hard-cap-with-155m-fund-ii-as-lp-demand-backs-vertical-ai-strategy.html",
+      "date": "Jul 23, 26",
       "source": "AltAssets",
-      "layer": 1,
+      "layer": 2,
       "access": "pe",
-      "score": 21,
+      "score": 18,
       "moments": [
         "pe_investment",
         "fund_launch"
-      ]
-    },
-    {
-      "id": "e87fb6f65baa",
-      "title": "Sterling Organization Acquires Merchants Walk, 271,992-Square-Foot Whole Foods Market-Anchored Shopping Center in Metro Atlanta's East Cobb Submarket...",
-      "summary": "WEST PALM BEACH, Fla., July 22, 2026 /PRNewswire/ -- Sterling Organization, a vertically integrated private equity real estate investment firm headquartered in West Palm Beach, Florida, today announce",
-      "company": "",
-      "link": "https://www.prnewswire.com/news-releases/sterling-organization-acquires-merchants-walk-271-992-square-foot-whole-foods-market-anchored-shopping-center-in-metro-atlantas-east-cobb-submarket-for-93-2-million-302832182.html",
-      "date": "Jul 22, 26",
-      "source": "PR Newswire",
-      "layer": 2,
-      "access": "pe",
-      "score": 19,
-      "moments": [
-        "acquisition",
-        "pe_investment"
       ]
     },
     {
@@ -65,6 +49,22 @@
       "moments": [
         "funding_round",
         "pe_investment"
+      ]
+    },
+    {
+      "id": "37e66a03d9d6",
+      "title": "Camden-backed Triumph Higher Education acquires Culinary Institute of Barcelona",
+      "summary": "Culinary Institute of Barcelona is a private international culinary school, founded in 2017 by Ferran Fisas, Josep Gala and Pep Nogu\u00e9. The post Camden-backed Triumph Higher Education acquires Culinary",
+      "company": "Camden-backed Triumph Higher Education",
+      "link": "https://www.pehub.com/camden-backed-triumph-higher-education-acquires-culinary-institute-of-barcelona/",
+      "date": "Jul 23, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "acquisition",
+        "company_launch"
       ]
     },
     {
@@ -116,6 +116,22 @@
       ]
     },
     {
+      "id": "eae33995bead",
+      "title": "How Syd found new life as an old soul",
+      "summary": "The veteran L.A. musician's new album, 'Beard,' reflects recent changes in her life and business.",
+      "company": "How Syd",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-07-23/syd-beard-odd-future-internet-raphael-saadiq",
+      "date": "Jul 23, 26",
+      "source": "LA Times Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "album_announcement",
+        "company_launch"
+      ]
+    },
+    {
       "id": "233c3f945c1b",
       "title": "World Cup final draws record 62.8M U.S. viewers",
       "summary": "Sunday's FIFA World Cup final drew more than 62.8 million viewers in the U.S., making it the most-watched World Cup final and soccer telecast in American history. Why it matters: The record audience u",
@@ -132,6 +148,22 @@
       ]
     },
     {
+      "id": "21837c6c52d9",
+      "title": "Deal Roundup: Platinum Equity, Nestl\u00e9 to form $5.6bn Peranel JV, Cinven agrees Salsify buyout",
+      "summary": "Platinum Equity and Nestl\u00e9 have agreed to establish Peranel, a 50:50 joint venture valued at $5.6bn that will combine Nestl\u00e9\u2019s waters and premium beverages business into a standalone global platform. ",
+      "company": "Deal Roundup",
+      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-platinum-equity-nestle-to-form-5-6bn-peranel-jv-cinven-agrees-salsify-buyout.html",
+      "date": "Jul 23, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "valuation",
+        "pe_investment"
+      ]
+    },
+    {
       "id": "b5403fd9d666",
       "title": "Golding reaches \u20ac283m first close for sixth buyout fund",
       "summary": "Golding Capital Partners has secured \u20ac283m at the first close of its sixth flagship buyout fund, as the German private markets investor continues to build a diversified European and North American sma",
@@ -145,22 +177,6 @@
       "moments": [
         "pe_investment",
         "fund_launch"
-      ]
-    },
-    {
-      "id": "42d63ce85c5f",
-      "title": "Littlejohn promotes Brian Michaud to managing partner in planned leadership transition",
-      "summary": "Littlejohn &#038; Co has promoted Brian Michaud to managing partner as part of the succession strategy at the mid-market private equity firm, with co-founder and chief executive Michael Klein moving f",
-      "company": "Littlejohn",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/littlejohn-promotes-brian-michaud-to-managing-partner-in-planned-leadership-transition.html",
-      "date": "Jul 20, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "company_launch"
       ]
     },
     {
@@ -210,6 +226,21 @@
       ]
     },
     {
+      "id": "1c3afdb3aace",
+      "title": "Fox, Telemundo Combine for $1.2B in World Cup Ad Sales Revenue",
+      "summary": "As the 2026 FIFA World Cup went about its business of smashing every TV ratings record on the books, the tournament\u2019s stateside media partners made a killing with their respective ad sales efforts. Ac",
+      "company": "Fox Telemundo Combine",
+      "link": "https://www.sportico.com/business/media/2026/fox-telemundo-billion-dollar-world-cup-ad-sales-1234939866/",
+      "date": "Jul 22, 26",
+      "source": "Sportico",
+      "layer": 2,
+      "access": "pe",
+      "score": 18,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
       "id": "4d2abf558b4c",
       "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
       "summary": "AI infrastructure company Infinity announced Monday a $15 million raise at a $100 million valuation from investors including Touring Capital, Principal VC, and researchers from companies such as OpenA",
@@ -222,21 +253,6 @@
       "score": 18,
       "moments": [
         "funding_round"
-      ]
-    },
-    {
-      "id": "9a54e4c2ad14",
-      "title": "Paramount Skydance-Warner Bros. Discovery merger paused by federal judge",
-      "summary": "A federal judge has paused Paramount Skydance's takeover of Warner Bros. Discovery in response to a lawsuit last week from a dozen state attorneys general looking to block the deal on antitrust ground",
-      "company": "Paramount Skydance-Warner Bros Discovery",
-      "link": "https://www.axios.com/2026/07/20/paramount-skydance-warner-merger-paused",
-      "date": "Jul 20, 26",
-      "source": "Axios",
-      "layer": 3,
-      "access": "pe",
-      "score": 17,
-      "moments": [
-        "acquisition"
       ]
     },
     {
@@ -255,6 +271,21 @@
       ]
     },
     {
+      "id": "80f57a52465c",
+      "title": "\u2018George Michael: The Faith Tour\u2019 Concert Tour Film Acquired by Bleecker Street, Universal Pictures Content Group",
+      "summary": "The concert film &#8220;George Michael: The Faith Tour&#8221; has been acquired by Universal Pictures Content Group and Bleecker Street\u2019s event cinema division Crosswalk. Universal Pictures Content Gr",
+      "company": "\u2018George Michael: The Faith Tour\u2019 Concert",
+      "link": "https://variety.com/2026/film/news/george-michael-the-faith-tour-concert-film-bleecker-street-1236818602/",
+      "date": "Jul 23, 26",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
       "id": "d90a7afbd91a",
       "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
       "summary": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.",
@@ -270,18 +301,18 @@
       ]
     },
     {
-      "id": "7361a56776e3",
-      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-      "summary": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
-      "company": "Hermes",
-      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-      "date": "Jul 13, 26",
+      "id": "49d008a0f11d",
+      "title": "Menlo Ventures\u2019 Matt Murphy explains what AI startups founders must do differently",
+      "summary": "Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It\u2019s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#16",
+      "company": "Menlo Ventures\u2019 Matt Murphy",
+      "link": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
+      "date": "Jul 22, 26",
       "source": "TechCrunch Venture",
-      "layer": 1,
+      "layer": 2,
       "access": "venture",
       "score": 15,
       "moments": [
-        "valuation"
+        "company_launch"
       ]
     },
     {
@@ -300,12 +331,12 @@
       ]
     },
     {
-      "id": "543ea8305800",
-      "title": "Eli Manning: \u2018Youth sports taught me so many critical life lessons\u2019",
-      "summary": "The former NY Giants QB turned private equity investor discusses Brand Velocity Group's recent investment in RCX Sports. The post Eli Manning: &#8216;Youth sports taught me so many critical life lesso",
-      "company": "Eli Manning",
-      "link": "https://www.pehub.com/eli-manning-youth-sports-taught-me-so-many-critical-life-lessons/",
-      "date": "Jul 22, 26",
+      "id": "826edfad460c",
+      "title": "Astorg\u2019s Judith Charpentier: How to boost exit optionality; Epiris names Owen Wilson as managing partner; Platinum, Nestl\u00e9 sign $5.6bn beverage JV",
+      "summary": "Morning all, Craig McGlashan here on Europe Wire duty from the London newsroom. It\u2019s been a tumultuous few years for private equity, from the end of ultra-low interest rates to macro instability and a",
+      "company": "Astorg\u2019s Judith Charpentier: How",
+      "link": "https://www.pehub.com/astorgs-judith-charpentier-how-to-boost-exit-optionality-epiris-names-owen-wilson-as-managing-partner-platinum-nestle-sign-5-6bn-beverage-jv/",
+      "date": "Jul 23, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
@@ -330,33 +361,33 @@
       ]
     },
     {
-      "id": "212d572b541a",
-      "title": "Shane Gillis Shatters Two Guinness World Records at Sold-Out Philadelphia Stadium Show",
-      "summary": "Shane Gillis turned his biggest show yet into a record-breaking homecoming. The Pennsylvania-born comedian set two Guinness World Records during... The post Shane Gillis Shatters Two Guinness World Re",
-      "company": "Shane Gillis Shatters Two Guinness World",
-      "link": "https://www.ticketnews.com/2026/07/shane-gillis-shatters-guiness-world-records-philly/",
-      "date": "Jul 21, 26",
-      "source": "Ticket News",
-      "layer": 2,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "record_breaking"
-      ]
-    },
-    {
-      "id": "d854ddaf2772",
-      "title": "Knox Lane acquires health tech firm Cross Country Healthcare Inc",
-      "summary": "In conjunction with the closing of the transaction, Joel Tremblay has been appointed CEO of Cross Country Healthcare. The post Knox Lane acquires health tech firm Cross Country Healthcare Inc appeared",
-      "company": "Knox Lane",
-      "link": "https://www.pehub.com/knox-lane-acquires-health-tech-firm-cross-country-healthcare-inc/",
-      "date": "Jul 22, 26",
+      "id": "dd1777d0f35f",
+      "title": "Vesterra Capital acquires facilities maintenance platform PHFM",
+      "summary": "The transaction establishes PHFM as a standalone, independent provider of interior and exterior facilities maintenance services. The post Vesterra Capital acquires facilities maintenance platform PHFM",
+      "company": "Vesterra Capital",
+      "link": "https://www.pehub.com/vesterra-capital-acquires-facilities-maintenance-platform-phfm/",
+      "date": "Jul 23, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
       "score": 9,
       "moments": [
         "acquisition"
+      ]
+    },
+    {
+      "id": "ddc8dc1ea433",
+      "title": "Exclusive: Coalesce buys Workstreet as cybersecurity challenges proliferate in age of AI",
+      "summary": "'Workstreet fits at the intersection of two powerful trends: the expansion of cybersecurity spending, as well as the growing complexity of regulatory compliance,' Coalesce Capital founder Stephanie Ge",
+      "company": "Exclusive",
+      "link": "https://www.pehub.com/exclusive-coalesce-capital-buys-workstreet-as-cybersecurity-challenges-proliferate-in-age-of-ai/",
+      "date": "Jul 23, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "company_launch"
       ]
     },
     {
@@ -375,48 +406,18 @@
       ]
     },
     {
-      "id": "57b28cc3a2a0",
-      "title": "Capitol Meridian Partners doubles flagship fund to $1.9bn as investor re-up rate nears 90%",
-      "summary": "Capitol Meridian Partners has closed its second flagship private equity fund on its $1.9bn hard cap, more than doubling the size of its debut vehicle. The post Capitol Meridian Partners doubles flagsh",
-      "company": "Capitol Meridian Partners",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/capitol-meridian-partners-doubles-flagship-fund-to-1-9bn-as-investor-re-up-rate-nears-90.html",
-      "date": "Jul 21, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "3bfe25214529",
-      "title": "Financials led US private equity returns in 2025, software\u2019s long dominance faces AI test: HarbourVest",
-      "summary": "Financials generated the strongest one-year returns in US private equity during 2025, outperforming the broader buyout market, while information technology led returns across overseas buyout markets, ",
-      "company": "Financials",
-      "link": "https://www.altassets.net/featured/financials-led-us-private-equity-returns-in-2025-softwares-long-dominance-faces-ai-test-harbourvest.html",
-      "date": "Jul 20, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "2b6dabccc9c6",
-      "title": "Goldman Sachs Alternatives to acquire fintech firm Aegis Hedging Solutions",
-      "summary": "Greenbelt Capital Partners and Baird Capital are exiting Aegis following the transaction. The post Goldman Sachs Alternatives to acquire fintech firm Aegis Hedging Solutions appeared first on PE Hub.",
-      "company": "Goldman Sachs Alternatives to",
-      "link": "https://www.pehub.com/goldman-sachs-alternatives-to-acquire-fintech-firm-aegis-hedging-solutions/",
-      "date": "Jul 22, 26",
-      "source": "PE Hub",
-      "layer": 2,
+      "id": "b9857a2a9cd2",
+      "title": "Yung Miami Signs With WME for Worldwide Representation",
+      "summary": "The former City Girl's record \"Spend Dat\" has been climbing the charts for weeks now and is a strong contender for song of the summer.",
+      "company": "Yung Miami Signs With WME",
+      "link": "https://www.billboard.com/pro/yung-miami-signs-wme-worldwide-representation/",
+      "date": "Jul 23, 26",
+      "source": "Billboard",
+      "layer": 4,
       "access": "pe",
       "score": 8,
       "moments": [
-        "acquisition"
+        "record_deal"
       ]
     },
     {
@@ -435,19 +436,6 @@
       ]
     },
     {
-      "id": "032c5f70a04a",
-      "title": "Could the World Cup be back in the US as soon as 2038? Absolutely",
-      "summary": "Explosion in ticketing and hospitality revenue goes along with a Fifa desire to recoup lost TV income in future dealsAs is often the case, it has been left to Donald Trump to say the quiet bit out lou",
-      "company": "Could",
-      "link": "https://www.theguardian.com/football/2026/jul/21/world-cup-back-usa-2038-donald-trump-fifa-football",
-      "date": "Jul 21, 26",
-      "source": "Guardian Sport",
-      "layer": 3,
-      "access": "pe",
-      "score": 17,
-      "moments": []
-    },
-    {
       "id": "6183989db60b",
       "title": "Scoop: Trump's Cabinet members are joining TikTok after DOJ shift",
       "summary": "Most of President Trump's Cabinet will launch TikTok accounts Tuesday, a move that comes days after the Justice Department told federal employees it was safe to use the app because of its sale to a U.",
@@ -461,13 +449,13 @@
       "moments": []
     },
     {
-      "id": "5e074cebb2a3",
-      "title": "David and Larry Ellison Sued by Paramount Investor Alleging \u2018Illegal\u2019 Side Deal With Donald Trump to Secure U.S. Approval for Warner Bros. Takeover",
-      "summary": "Paramount Skydance chief David Ellison and his tech billionaire dad Larry Ellison have been sued by a Paramount shareholder who alleged they cut an &#8220;illegal&#8221; deal with President Donald Tru",
-      "company": "David",
-      "link": "https://variety.com/2026/film/news/david-larry-ellison-sued-paramount-side-deal-trump-warner-bros-1236812034/",
-      "date": "Jul 15, 26",
-      "source": "Variety Biz",
+      "id": "af94a01557ff",
+      "title": "Sporticast: A Tale of Two Billion-Dollar Sports Family Empires",
+      "summary": "On the 572nd Sporticast episode, hosts Scott Soshnick and Eben Novy-Williams discuss some of the biggest sports business stories of the week, including a breakdown of two very wealthy families that ha",
+      "company": "Sporticast",
+      "link": "https://www.sportico.com/podcasts/sporticast/2026/walton-mittal-sports-empires-ownership-sporticast-podcast-1234939885/",
+      "date": "Jul 23, 26",
+      "source": "Sportico",
       "layer": 3,
       "access": "pe",
       "score": 8,
@@ -487,16 +475,29 @@
       "moments": []
     },
     {
-      "id": "273065e180e7",
-      "title": "StubHub Hit With Canadian Class Action Lawsuit Over Cancelled World Cup Tickets",
-      "summary": "StubHub has been hit with a proposed class action lawsuit after a Vancouver man purchased tickets to the World Cup... The post StubHub Hit With Canadian Class Action Lawsuit Over Cancelled World Cup T",
-      "company": "StubHub Hit With Canadian Class Action",
-      "link": "https://www.ticketnews.com/2026/07/stubhub-hit-canadian-class-action-world-cup-tickets/",
-      "date": "Jul 21, 26",
+      "id": "7b162bc8377a",
+      "title": "CMA Fest Taps SeatGeek as Primary Ticketing Partner",
+      "summary": "SeatGeek is strengthening its foothold in Nashville with a new multi-year deal to become the primary ticketing partner of CMA... The post CMA Fest Taps SeatGeek as Primary Ticketing Partner appeared f",
+      "company": "CMA Fest Taps SeatGeek",
+      "link": "https://www.ticketnews.com/2026/07/cma-fest-taps-seatgeek-primary-ticketing-partner/",
+      "date": "Jul 22, 26",
       "source": "Ticket News",
       "layer": 3,
       "access": "pe",
-      "score": 7,
+      "score": 6,
+      "moments": []
+    },
+    {
+      "id": "38436182ef0c",
+      "title": "Trail Blazers Slash Broadcast Team As Dundon Keeps Cutting Costs",
+      "summary": "James Guillory-Imagn Images",
+      "company": "Trail Blazers Slash Broadcast Team As",
+      "link": "https://frontofficesports.com/tom-dundon-blazers-more-layoffs/",
+      "date": "Jul 22, 26",
+      "source": "Front Office Sports",
+      "layer": 3,
+      "access": "pe",
+      "score": 5,
       "moments": []
     },
     {
@@ -508,6 +509,19 @@
       "date": "Jul 21, 26",
       "source": "Front Office Sports",
       "layer": 4,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "d1d40f922760",
+      "title": "House Judiciary Chair Jim Jordan refers Jack Smith to DOJ over alleged false statement",
+      "summary": "House Judiciary Chair Jim Jordan (R-Ohio) referred former Special Counsel Jack Smith to the Justice Department on Wednesday, alleging he knowingly made false statements during congressional testimony ",
+      "company": "House Judiciary Chair Jim Jordan",
+      "link": "https://www.axios.com/2026/07/23/jim-jordan-jack-smith-doj-referral",
+      "date": "Jul 23, 26",
+      "source": "Axios",
+      "layer": 3,
       "access": "pe",
       "score": 5,
       "moments": []
