@@ -1,22 +1,53 @@
 {
-  "generated": "2026-07-23T14:12:12.944427+00:00",
+  "generated": "2026-07-24T13:54:09.035147+00:00",
   "total": 37,
   "scraped": [
     {
-      "id": "29cf4610e53d",
-      "title": "Dimension launches $800m third fund to back science and compute-focused founders",
-      "summary": "Dimension, a venture firm focused on science and compute-driven companies, has launched its third fund with $800m in capital commitments, almost doubling the firm's total assets under management. The ",
-      "company": "Dimension",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/dimension-launches-800m-third-fund-to-back-science-and-compute-focused-founders.html",
-      "date": "Jul 22, 26",
+      "id": "e7a656636a6f",
+      "title": "Partners Group tops $20bn in a week of infra raises with $5.5bn secondaries fund close",
+      "summary": "Partners Group has taken total fundraising across its latest infrastructure investment programmes beyond $20bn after holding the final close of its dedicated infrastructure secondaries programme at mo",
+      "company": "Partners Group",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/partners-group-tops-20bn-in-a-week-of-infra-raises-with-5-5bn-secondaries-fund-close.html",
+      "date": "Jul 24, 26",
+      "source": "AltAssets",
+      "layer": 1,
+      "access": "pe",
+      "score": 24,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "fc774663260e",
+      "title": "Music Industry Moves: Yung Miami Signs With WME; City Parks Foundation to Honor Joe Killian and Alex Blavatnik",
+      "summary": "Rapper Yung Miami has signed with WME for worldwide representation in all areas. The South Florida rapper and former member of the City Girls will release her solo debut on the relaunched Uptown Recor",
+      "company": "Music Industry Moves",
+      "link": "https://variety.com/2026/music/news/yung-miami-signs-with-wme-1236819319/",
+      "date": "Jul 23, 26",
+      "source": "Variety Music",
+      "layer": 4,
+      "access": "pe",
+      "score": 20,
+      "moments": [
+        "record_deal",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "283a5e370f61",
+      "title": "Deal Roundup: Bain Capital agrees Vitabiotics acquisition, Providence backs UK SME comms provider SCG",
+      "summary": "Bain Capital has agreed to acquire UK vitamins and supplements manufacturer Vitabiotics as the business prepares for its next phase of international expansion. The post Deal Roundup: Bain Capital agre",
+      "company": "Deal Roundup",
+      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-bain-capital-agrees-vitabiotics-acquisition-providence-backs-uk-sme-comms-provider-scg.html",
+      "date": "Jul 24, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
-      "score": 17,
+      "score": 19,
       "moments": [
-        "pe_investment",
-        "fund_launch",
-        "company_launch"
+        "acquisition",
+        "pe_investment"
       ]
     },
     {
@@ -36,38 +67,6 @@
       ]
     },
     {
-      "id": "cfa67ca6858d",
-      "title": "Townsend raises $2bn for real estate secondaries strategy, eyes $3bn",
-      "summary": "Real assets investor Townsend has raised more than $2bn for its latest real estate secondaries strategy, with the global real assets specialist targeting a total raise of $3bn to capitalise on growing",
-      "company": "Townsend",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/townsend-raises-2bn-for-real-estate-secondaries-strategy-eyes-3bn.html",
-      "date": "Jul 22, 26",
-      "source": "AltAssets",
-      "layer": 2,
-      "access": "pe",
-      "score": 18,
-      "moments": [
-        "funding_round",
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "37e66a03d9d6",
-      "title": "Camden-backed Triumph Higher Education acquires Culinary Institute of Barcelona",
-      "summary": "Culinary Institute of Barcelona is a private international culinary school, founded in 2017 by Ferran Fisas, Josep Gala and Pep Nogu\u00e9. The post Camden-backed Triumph Higher Education acquires Culinary",
-      "company": "Camden-backed Triumph Higher Education",
-      "link": "https://www.pehub.com/camden-backed-triumph-higher-education-acquires-culinary-institute-of-barcelona/",
-      "date": "Jul 23, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "acquisition",
-        "company_launch"
-      ]
-    },
-    {
       "id": "1567a39ee171",
       "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
       "summary": "By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls \"the most important partner\" to its founders.",
@@ -81,22 +80,6 @@
       "moments": [
         "fund_launch",
         "company_launch"
-      ]
-    },
-    {
-      "id": "60c9762f695f",
-      "title": "Snow Phipps successor TruArc Partners raises $1.2bn Fund V",
-      "summary": "TruArc Partners has closed its latest private equity fund at $1.2bn, beating its target and coming in more than 40% larger than its predecessor vehicle. The post Snow Phipps successor TruArc Partners ",
-      "company": "Snow Phipps successor TruArc Partners",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/snow-phipps-successor-truarc-partners-raises-1-2bn-fund-v.html",
-      "date": "Jul 22, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "funding_round",
-        "pe_investment"
       ]
     },
     {
@@ -132,19 +115,35 @@
       ]
     },
     {
-      "id": "233c3f945c1b",
-      "title": "World Cup final draws record 62.8M U.S. viewers",
-      "summary": "Sunday's FIFA World Cup final drew more than 62.8 million viewers in the U.S., making it the most-watched World Cup final and soccer telecast in American history. Why it matters: The record audience u",
-      "company": "World Cup",
-      "link": "https://www.axios.com/2026/07/21/world-cup-final-viewership-record",
-      "date": "Jul 21, 26",
-      "source": "Axios",
-      "layer": 1,
+      "id": "5a7994241790",
+      "title": "Tikehau Capital scores \u20ac5.2bn close for European direct lending strategy, up almost 60% on predecessor",
+      "summary": "Tikehau Capital has hit a \u20ac5.2bn final close for the sixth generation of its European direct lending strategy, marking a huge jump in fund size compared to its predecessor vehicle. The post Tikehau Ca",
+      "company": "Tikehau Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/tikehau-capital-scores-e5-2bn-close-for-european-direct-lending-strategy-up-almost-60-on-predecessor.html",
+      "date": "Jul 24, 26",
+      "source": "AltAssets",
+      "layer": 5,
       "access": "pe",
       "score": 13,
       "moments": [
-        "rights_deal",
-        "record_breaking"
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "d4671e8ae3dc",
+      "title": "LLCP closes $2bn lower mid-market fund, bring capital raising to $6.4bn in two years",
+      "summary": "Levine Leichtman Capital Partners has held the final close of its fourth lower middle market fund at its $2bn hard cap, extending a fundraising run that has seen the LA-based private equity firm secur",
+      "company": "LLCP",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/llcp-closes-2bn-lower-mid-market-fund-bring-capital-raising-to-6-4bn-in-two-years.html",
+      "date": "Jul 24, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
@@ -196,21 +195,6 @@
       ]
     },
     {
-      "id": "416f12a01931",
-      "title": "NFL 2025 National Revenue Tops $14B, Teams Get $450M",
-      "summary": "Each of the 32 NFL teams had gross revenue of more than $450 million for the 2025 season, according to multiple people familiar with the league\u2019s finances who were not authorized to speak publicly. Th",
-      "company": "NFL",
-      "link": "https://www.sportico.com/leagues/football/2026/nfl-2025-national-revenue-per-team-1234939659/",
-      "date": "Jul 21, 26",
-      "source": "Sportico",
-      "layer": 1,
-      "access": "pe",
-      "score": 26,
-      "moments": [
-        "rights_deal"
-      ]
-    },
-    {
       "id": "e9c36d3008c4",
       "title": "Knitting Factory Entertainment Acquires Minority Stake in Does Entertainment, Forming Strategic Growth Partnership to Expand National Live...",
       "summary": "Companies Align to Accelerate Venue Development, Talent Buying, Concert Promotion and Strategic Growth Across North America Los Angeles, CA / Wilmington, NC, July 14, 2026 \u2013&#160;Knitting Factory Ente",
@@ -256,6 +240,21 @@
       ]
     },
     {
+      "id": "fd3373576c57",
+      "title": "The Paramount-Warner Bros. Clock Is Ticking: What\u2019s Next for the Megamerger Amid Antitrust Battle With States?",
+      "summary": "David Ellison may have believed Paramount Skydance could have closed the $111 billion takeover of Warner Bros. Discovery by this point. The deal was blessed by the Justice Department in June (reported",
+      "company": "The Paramount-Warner Bros. Clock Is Ticking",
+      "link": "https://variety.com/2026/tv/news/paramount-warner-bros-whats-next-state-antitrust-lawsuit-1236819518/",
+      "date": "Jul 23, 26",
+      "source": "Variety Biz",
+      "layer": 3,
+      "access": "pe",
+      "score": 17,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
       "id": "6c250e94b064",
       "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
       "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
@@ -268,36 +267,6 @@
       "score": 16,
       "moments": [
         "company_launch"
-      ]
-    },
-    {
-      "id": "80f57a52465c",
-      "title": "\u2018George Michael: The Faith Tour\u2019 Concert Tour Film Acquired by Bleecker Street, Universal Pictures Content Group",
-      "summary": "The concert film &#8220;George Michael: The Faith Tour&#8221; has been acquired by Universal Pictures Content Group and Bleecker Street\u2019s event cinema division Crosswalk. Universal Pictures Content Gr",
-      "company": "\u2018George Michael: The Faith Tour\u2019 Concert",
-      "link": "https://variety.com/2026/film/news/george-michael-the-faith-tour-concert-film-bleecker-street-1236818602/",
-      "date": "Jul 23, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "d90a7afbd91a",
-      "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
-      "summary": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.",
-      "company": "Nuclear startup Valar Atomics in talks to",
-      "link": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
-      "date": "Jul 17, 26",
-      "source": "TechCrunch Startups",
-      "layer": 1,
-      "access": "venture",
-      "score": 15,
-      "moments": [
-        "valuation"
       ]
     },
     {
@@ -316,33 +285,93 @@
       ]
     },
     {
-      "id": "e0d8ccde6a4f",
-      "title": "Deal Roundup: CapVest completes deal for energy infra business TSG, Truelink Capital buys Lyons Magnus from Paine Schwartz",
-      "summary": "CapVest has completed its acquisition of a majority stake in European energy infrastructure services provider TSG. The Paris-headquartered company operates across 30 countries, employs more than 7,000",
-      "company": "Deal Roundup",
-      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-capvest-completes-deal-for-energy-infra-business-tsg-truelink-capital-buys-lyons-magnus-from-paine-schwartz.html",
-      "date": "Jul 21, 26",
-      "source": "AltAssets",
-      "layer": 2,
-      "access": "pe",
+      "id": "d90a7afbd91a",
+      "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
+      "summary": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.",
+      "company": "Nuclear startup Valar Atomics in talks to",
+      "link": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
+      "date": "Jul 17, 26",
+      "source": "TechCrunch Venture",
+      "layer": 1,
+      "access": "venture",
       "score": 15,
       "moments": [
-        "acquisition"
+        "valuation"
       ]
     },
     {
-      "id": "826edfad460c",
-      "title": "Astorg\u2019s Judith Charpentier: How to boost exit optionality; Epiris names Owen Wilson as managing partner; Platinum, Nestl\u00e9 sign $5.6bn beverage JV",
-      "summary": "Morning all, Craig McGlashan here on Europe Wire duty from the London newsroom. It\u2019s been a tumultuous few years for private equity, from the end of ultra-low interest rates to macro instability and a",
-      "company": "Astorg\u2019s Judith Charpentier: How",
-      "link": "https://www.pehub.com/astorgs-judith-charpentier-how-to-boost-exit-optionality-epiris-names-owen-wilson-as-managing-partner-platinum-nestle-sign-5-6bn-beverage-jv/",
-      "date": "Jul 23, 26",
-      "source": "PE Hub",
+      "id": "7361a56776e3",
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "summary": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
+      "company": "Hermes",
+      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "date": "Jul 13, 26",
+      "source": "TechCrunch Venture",
+      "layer": 1,
+      "access": "venture",
+      "score": 15,
+      "moments": [
+        "valuation"
+      ]
+    },
+    {
+      "id": "dca7a9c3f46a",
+      "title": "Madonna, a veteran of big stages, just released a new album.",
+      "summary": "",
+      "company": "Madonna",
+      "link": "https://www.nytimes.com/live/2026/07/19/arts/world-cup-halftime-show/madonna-a-veteran-of-big-stages-just-released-a-new-album",
+      "date": "Jul 19, 26",
+      "source": "NYT Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "613e8dd491c2",
+      "title": "Private markets rethink \u2018semi-liquid\u2019 label",
+      "summary": "Private market managers and wealth advisers are reconsidering how they describe funds offering periodic access to private credit and private equity after a wave of redemption requests exposed the limi",
+      "company": "Private",
+      "link": "https://www.privateequitywire.co.uk/private-markets-rethink-semi-liquid-label/",
+      "date": "Jul 24, 26",
+      "source": "PE Wire",
       "layer": 5,
       "access": "pe",
       "score": 12,
       "moments": [
         "pe_investment"
+      ]
+    },
+    {
+      "id": "46f453186aae",
+      "title": "Edelweiss alternatives arm returns 100% of ESOF III capital to investors, with two investments remaining",
+      "summary": "EAAA Alternatives has returned 100% of drawn investor capital from the third series of its performing credit strategy, while retaining two remaining investments it said are on track for realisation. T",
+      "company": "Edelweiss",
+      "link": "https://www.altassets.net/private-equity-news/by-region/asia-by-region/india-asia-by-region/edelweiss-alternatives-arm-returns-100-of-esof-iii-capital-to-investors-with-two-investments-remaining.html",
+      "date": "Jul 24, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "557908949f8f",
+      "title": "Investindustrial agrees to invest in Italian flavors and fragrances maker PA Aromatics",
+      "summary": "PA Aromatics, founded in 1984 by the Montagna family, operates four production plants and supplies more than 8,000 products to multinational and Italian customers. The post Investindustrial agrees to ",
+      "company": "Investindustrial",
+      "link": "https://www.pehub.com/investindustrial-agrees-to-invest-in-italian-flavors-and-fragrances-maker-pa-aromatics/",
+      "date": "Jul 24, 26",
+      "source": "PE Hub",
+      "layer": 4,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "company_launch"
       ]
     },
     {
@@ -361,29 +390,29 @@
       ]
     },
     {
-      "id": "dd1777d0f35f",
-      "title": "Vesterra Capital acquires facilities maintenance platform PHFM",
-      "summary": "The transaction establishes PHFM as a standalone, independent provider of interior and exterior facilities maintenance services. The post Vesterra Capital acquires facilities maintenance platform PHFM",
-      "company": "Vesterra Capital",
-      "link": "https://www.pehub.com/vesterra-capital-acquires-facilities-maintenance-platform-phfm/",
-      "date": "Jul 23, 26",
-      "source": "PE Hub",
-      "layer": 5,
+      "id": "81f72b024cda",
+      "title": "World Cup Rights in Limbo as Media Giants Await Key FIFA Rulings",
+      "summary": "The speculative nattering kicked in at around the same time the last scrap of golden confetti had found a resting place on the turf at, um, New York New Jersey Stadium. As the no-showbiz Spanish team ",
+      "company": "World Cup Rights",
+      "link": "https://www.sportico.com/business/media/2026/world-cup-media-rights-limbo-fifa-expansion-1234940036/",
+      "date": "Jul 24, 26",
+      "source": "Sportico",
+      "layer": 2,
       "access": "pe",
       "score": 9,
       "moments": [
-        "acquisition"
+        "company_launch"
       ]
     },
     {
-      "id": "ddc8dc1ea433",
-      "title": "Exclusive: Coalesce buys Workstreet as cybersecurity challenges proliferate in age of AI",
-      "summary": "'Workstreet fits at the intersection of two powerful trends: the expansion of cybersecurity spending, as well as the growing complexity of regulatory compliance,' Coalesce Capital founder Stephanie Ge",
-      "company": "Exclusive",
-      "link": "https://www.pehub.com/exclusive-coalesce-capital-buys-workstreet-as-cybersecurity-challenges-proliferate-in-age-of-ai/",
+      "id": "ac2f950918da",
+      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+      "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn\u2019t catch.",
+      "company": "AegisAI",
+      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
       "date": "Jul 23, 26",
-      "source": "PE Hub",
-      "layer": 5,
+      "source": "TechCrunch Startups",
+      "layer": 2,
       "access": "pe",
       "score": 9,
       "moments": [
@@ -406,18 +435,18 @@
       ]
     },
     {
-      "id": "b9857a2a9cd2",
-      "title": "Yung Miami Signs With WME for Worldwide Representation",
-      "summary": "The former City Girl's record \"Spend Dat\" has been climbing the charts for weeks now and is a strong contender for song of the summer.",
-      "company": "Yung Miami Signs With WME",
-      "link": "https://www.billboard.com/pro/yung-miami-signs-wme-worldwide-representation/",
-      "date": "Jul 23, 26",
-      "source": "Billboard",
-      "layer": 4,
+      "id": "87a6250c6012",
+      "title": "D4vd\u2019s Tesla was filled with air fresheners when Celeste Rivas Hernandez\u2019s body was discovered with garbage bags containing his DNA, court hears",
+      "summary": "At least 11 air fresheners were found in his car alongside the human remains of the 14-year-old The post D4vd\u2019s Tesla was filled with air fresheners when Celeste Rivas Hernandez\u2019s body was discovered ",
+      "company": "D4vd\u2019s Tesla",
+      "link": "https://www.nme.com/news/music/d4vds-tesla-was-filled-with-air-fresheners-when-celeste-rivas-hernandezs-body-was-discovered-with-garbage-bags-containing-his-dna-court-hears-3958835?utm_source=rss&utm_medium=rss&utm_campaign=d4vds-tesla-was-filled-with-air-fresheners-when-celeste-rivas-hernandezs-body-was-discovered-with-garbage-bags-containing-his-dna-court-hears",
+      "date": "Jul 24, 26",
+      "source": "NME",
+      "layer": 5,
       "access": "pe",
-      "score": 8,
+      "score": 6,
       "moments": [
-        "record_deal"
+        "company_launch"
       ]
     },
     {
@@ -436,13 +465,13 @@
       ]
     },
     {
-      "id": "6183989db60b",
-      "title": "Scoop: Trump's Cabinet members are joining TikTok after DOJ shift",
-      "summary": "Most of President Trump's Cabinet will launch TikTok accounts Tuesday, a move that comes days after the Justice Department told federal employees it was safe to use the app because of its sale to a U.",
-      "company": "Scoop",
-      "link": "https://www.axios.com/2026/07/21/trump-tiktok-app-accounts-doj-cabinet",
-      "date": "Jul 21, 26",
-      "source": "Axios",
+      "id": "0c17db2eaa0b",
+      "title": "Latto to Join Doja Cat on North American Leg of \u2018Tour Ma Vie World Tour\u2019",
+      "summary": "Doja Cat has announced that Latto will join the North American leg of the &#8220;Tour Ma Vie World Tour&#8221; as... The post Latto to Join Doja Cat on North American Leg of \u2018Tour Ma Vie World Tour\u2019 a",
+      "company": "Latto",
+      "link": "https://www.ticketnews.com/2026/07/latto-to-join-doja-cat-on-north-american-leg-of-tour-ma-vie-world-tour/",
+      "date": "Jul 23, 26",
+      "source": "Ticket News",
       "layer": 3,
       "access": "pe",
       "score": 10,
@@ -462,29 +491,16 @@
       "moments": []
     },
     {
-      "id": "330567b922bd",
-      "title": "\u2018Trophy\u2019 assets push private markets secondaries to record $121bn",
-      "summary": "TOP STORY: The private markets secondary market reached a record $121 billion in the first half of 2026, as asset managers increasingly used continuation vehicles to retain ownership of high-convictio",
-      "company": "\u2018Trophy\u2019",
-      "link": "https://www.privateequitywire.co.uk/trophy-assets-push-private-markets-secondaries-to-record-121bn/",
-      "date": "Jul 22, 26",
-      "source": "PE Wire",
+      "id": "04f0bd23d2c0",
+      "title": "DOJ drops New York Times subpoenas over Air Force 1 reports",
+      "summary": "The U.S. government will withdraw subpoenas of New York Times journalists over their reporting on President Trump's Qatari-gifted jet, the Department of Justice said in a Thursday court hearing. Why i",
+      "company": "DOJ",
+      "link": "https://www.axios.com/2026/07/23/trump-doj-withdraws-new-york-times-subpoenas",
+      "date": "Jul 23, 26",
+      "source": "Axios",
       "layer": 3,
       "access": "pe",
       "score": 8,
-      "moments": []
-    },
-    {
-      "id": "7b162bc8377a",
-      "title": "CMA Fest Taps SeatGeek as Primary Ticketing Partner",
-      "summary": "SeatGeek is strengthening its foothold in Nashville with a new multi-year deal to become the primary ticketing partner of CMA... The post CMA Fest Taps SeatGeek as Primary Ticketing Partner appeared f",
-      "company": "CMA Fest Taps SeatGeek",
-      "link": "https://www.ticketnews.com/2026/07/cma-fest-taps-seatgeek-primary-ticketing-partner/",
-      "date": "Jul 22, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 6,
       "moments": []
     },
     {
@@ -496,19 +512,6 @@
       "date": "Jul 22, 26",
       "source": "Front Office Sports",
       "layer": 3,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "b1f7b70bfe1a",
-      "title": "New NCAA Eligibility Policy Hasn\u2019t Slowed Lawsuits\u2014It\u2019s Triggered More",
-      "summary": "Kyle Ross-Imagn Images",
-      "company": "New NCAA Eligibility Policy Hasn\u2019t Slowed",
-      "link": "https://frontofficesports.com/new-ncaa-eligibility-policy-hasnt-slowed-lawsuits-its-triggered-more/",
-      "date": "Jul 21, 26",
-      "source": "Front Office Sports",
-      "layer": 4,
       "access": "pe",
       "score": 5,
       "moments": []
@@ -527,19 +530,6 @@
       "moments": []
     },
     {
-      "id": "e341d472ed87",
-      "title": "Hugging Face breach: OpenAI claims its models were responsible",
-      "summary": "OpenAI said Tuesday that models it was testing escaped their sandbox and compromised parts of AI platform Hugging Face's production infrastructure last week.Why it matters: It is the latest sign that ",
-      "company": "Hugging Face breach",
-      "link": "https://www.axios.com/2026/07/21/openai-says-hugging-face-breach-caused-by-one-its-models",
-      "date": "Jul 21, 26",
-      "source": "Axios",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
       "id": "8f95fdb4c719",
       "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
       "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
@@ -547,6 +537,19 @@
       "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/",
       "date": "May 09, 26",
       "source": "Venues Today",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "722d2aea3b45",
+      "title": "Rockettes Expand 2026 Christmas Spectacular With New Number, Record 230 Shows",
+      "summary": "The Radio City Rockettes are making the Christmas Spectacular bigger than ever for 2026. The holiday production will return to... The post Rockettes Expand 2026 Christmas Spectacular With New Number, ",
+      "company": "Rockettes Expand",
+      "link": "https://www.ticketnews.com/2026/07/rockettes-expand-2026-christmas-spectaclar-new-number/",
+      "date": "Jul 23, 26",
+      "source": "Ticket News",
       "layer": 4,
       "access": "pe",
       "score": 4,
