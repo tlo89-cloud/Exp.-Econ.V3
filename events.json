@@ -1,7 +1,24 @@
 {
-  "generated": "2026-07-24T13:54:09.035147+00:00",
-  "total": 37,
+  "generated": "2026-07-25T13:44:29.189620+00:00",
+  "total": 36,
   "scraped": [
+    {
+      "id": "d255404a1f1b",
+      "title": "New Trump tariffs bring in less money than illegal tariffs",
+      "summary": "The White House has found new legal ways to keep tariffs flowing. But it's not enough to fully replace the revenue from the import taxes the Supreme Court struck down.The intrigue: The administration'",
+      "company": "New Trump",
+      "link": "https://www.axios.com/2026/07/24/tariffs-import-taxes",
+      "date": "Jul 24, 26",
+      "source": "Axios",
+      "layer": 2,
+      "access": "pe",
+      "score": 23,
+      "moments": [
+        "acquisition",
+        "funding_round",
+        "company_launch"
+      ]
+    },
     {
       "id": "e7a656636a6f",
       "title": "Partners Group tops $20bn in a week of infra raises with $5.5bn secondaries fund close",
@@ -16,22 +33,6 @@
       "moments": [
         "pe_investment",
         "fund_launch"
-      ]
-    },
-    {
-      "id": "fc774663260e",
-      "title": "Music Industry Moves: Yung Miami Signs With WME; City Parks Foundation to Honor Joe Killian and Alex Blavatnik",
-      "summary": "Rapper Yung Miami has signed with WME for worldwide representation in all areas. The South Florida rapper and former member of the City Girls will release her solo debut on the relaunched Uptown Recor",
-      "company": "Music Industry Moves",
-      "link": "https://variety.com/2026/music/news/yung-miami-signs-with-wme-1236819319/",
-      "date": "Jul 23, 26",
-      "source": "Variety Music",
-      "layer": 4,
-      "access": "pe",
-      "score": 20,
-      "moments": [
-        "record_deal",
-        "company_launch"
       ]
     },
     {
@@ -210,28 +211,13 @@
       ]
     },
     {
-      "id": "1c3afdb3aace",
-      "title": "Fox, Telemundo Combine for $1.2B in World Cup Ad Sales Revenue",
-      "summary": "As the 2026 FIFA World Cup went about its business of smashing every TV ratings record on the books, the tournament\u2019s stateside media partners made a killing with their respective ad sales efforts. Ac",
-      "company": "Fox Telemundo Combine",
-      "link": "https://www.sportico.com/business/media/2026/fox-telemundo-billion-dollar-world-cup-ad-sales-1234939866/",
-      "date": "Jul 22, 26",
-      "source": "Sportico",
-      "layer": 2,
-      "access": "pe",
-      "score": 18,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
       "id": "4d2abf558b4c",
       "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
       "summary": "AI infrastructure company Infinity announced Monday a $15 million raise at a $100 million valuation from investors including Touring Capital, Principal VC, and researchers from companies such as OpenA",
       "company": "Inference startup Infinity",
       "link": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
       "date": "Jul 20, 26",
-      "source": "TechCrunch Startups",
+      "source": "TechCrunch Venture",
       "layer": 1,
       "access": "venture",
       "score": 18,
@@ -267,6 +253,36 @@
       "score": 16,
       "moments": [
         "company_launch"
+      ]
+    },
+    {
+      "id": "0e31f75627ff",
+      "title": "Wasserman Near Deal to Sell Agency to Providence for $3.4B",
+      "summary": "Providence Equity is nearing a deal to consolidate its ownership in Wasserman\u2014now called The Team\u2014in a deal that values the agency at about $3.4 billion, according to a source with direct knowledge of",
+      "company": "Wasserman Near Deal",
+      "link": "https://www.sportico.com/business/finance/2026/providence-equity-wasserman-agency-sale-billion-1234940141/",
+      "date": "Jul 24, 26",
+      "source": "Sportico",
+      "layer": 4,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "56e0584cf3df",
+      "title": "Avenged Sevenfold surprise release futuristic electronic-tinged new EP \u2018Statica\u2019",
+      "summary": "The California metal band also kick off a co-headline North American tour with Good Charlotte this week The post Avenged Sevenfold surprise release futuristic electronic-tinged new EP \u2018Statica\u2019 appear",
+      "company": "Avenged Sevenfold",
+      "link": "https://www.nme.com/news/music/avenged-sevenfold-surprise-release-futuristic-electronic-tinged-new-ep-statica-3958885?utm_source=rss&utm_medium=rss&utm_campaign=avenged-sevenfold-surprise-release-futuristic-electronic-tinged-new-ep-statica",
+      "date": "Jul 24, 26",
+      "source": "NME",
+      "layer": 5,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "festival_headliner"
       ]
     },
     {
@@ -315,18 +331,18 @@
       ]
     },
     {
-      "id": "dca7a9c3f46a",
-      "title": "Madonna, a veteran of big stages, just released a new album.",
-      "summary": "",
-      "company": "Madonna",
-      "link": "https://www.nytimes.com/live/2026/07/19/arts/world-cup-halftime-show/madonna-a-veteran-of-big-stages-just-released-a-new-album",
-      "date": "Jul 19, 26",
-      "source": "NYT Music",
+      "id": "04357473cbd0",
+      "title": "Sportico Transactions: Moves and Mergers Roundup for July 24",
+      "summary": "Welcome to Sportico\u2019s transactions wire, a weekly rundown of personnel, partnerships and products across the sports business industry. PERSONNEL NHLPA Executive Board Appoints John Gerba as General Co",
+      "company": "Sportico Transactions",
+      "link": "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-roundup-july-24-1234940013/",
+      "date": "Jul 24, 26",
+      "source": "Sportico",
       "layer": 1,
       "access": "pe",
       "score": 14,
       "moments": [
-        "album_announcement"
+        "acquisition"
       ]
     },
     {
@@ -435,21 +451,6 @@
       ]
     },
     {
-      "id": "87a6250c6012",
-      "title": "D4vd\u2019s Tesla was filled with air fresheners when Celeste Rivas Hernandez\u2019s body was discovered with garbage bags containing his DNA, court hears",
-      "summary": "At least 11 air fresheners were found in his car alongside the human remains of the 14-year-old The post D4vd\u2019s Tesla was filled with air fresheners when Celeste Rivas Hernandez\u2019s body was discovered ",
-      "company": "D4vd\u2019s Tesla",
-      "link": "https://www.nme.com/news/music/d4vds-tesla-was-filled-with-air-fresheners-when-celeste-rivas-hernandezs-body-was-discovered-with-garbage-bags-containing-his-dna-court-hears-3958835?utm_source=rss&utm_medium=rss&utm_campaign=d4vds-tesla-was-filled-with-air-fresheners-when-celeste-rivas-hernandezs-body-was-discovered-with-garbage-bags-containing-his-dna-court-hears",
-      "date": "Jul 24, 26",
-      "source": "NME",
-      "layer": 5,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
       "id": "f3a1d1554548",
       "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
       "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
@@ -465,28 +466,15 @@
       ]
     },
     {
-      "id": "0c17db2eaa0b",
-      "title": "Latto to Join Doja Cat on North American Leg of \u2018Tour Ma Vie World Tour\u2019",
-      "summary": "Doja Cat has announced that Latto will join the North American leg of the &#8220;Tour Ma Vie World Tour&#8221; as... The post Latto to Join Doja Cat on North American Leg of \u2018Tour Ma Vie World Tour\u2019 a",
-      "company": "Latto",
-      "link": "https://www.ticketnews.com/2026/07/latto-to-join-doja-cat-on-north-american-leg-of-tour-ma-vie-world-tour/",
-      "date": "Jul 23, 26",
-      "source": "Ticket News",
+      "id": "b07a38f3d620",
+      "title": "Netflix Executives Considered Pulling \u2018Michael Jackson: The Verdict\u2019 Docuseries a Week Before Its Release (EXCLUSIVE)",
+      "summary": "Netflix almost pulled the streamer&#8217;s recent documentary \u201cMichael Jackson: The Verdict\u201d a week before its release for fear of reprisal, Variety has learned. The three-part docuseries re-examines ",
+      "company": "",
+      "link": "https://variety.com/2026/tv/global/michael-jackson-docuseries-netflix-considered-pulling-1236817368/",
+      "date": "Jul 24, 26",
+      "source": "Variety Music",
       "layer": 3,
-      "access": "pe",
-      "score": 10,
-      "moments": []
-    },
-    {
-      "id": "af94a01557ff",
-      "title": "Sporticast: A Tale of Two Billion-Dollar Sports Family Empires",
-      "summary": "On the 572nd Sporticast episode, hosts Scott Soshnick and Eben Novy-Williams discuss some of the biggest sports business stories of the week, including a breakdown of two very wealthy families that ha",
-      "company": "Sporticast",
-      "link": "https://www.sportico.com/podcasts/sporticast/2026/walton-mittal-sports-empires-ownership-sporticast-podcast-1234939885/",
-      "date": "Jul 23, 26",
-      "source": "Sportico",
-      "layer": 3,
-      "access": "pe",
+      "access": "venture",
       "score": 8,
       "moments": []
     },
@@ -504,14 +492,14 @@
       "moments": []
     },
     {
-      "id": "38436182ef0c",
-      "title": "Trail Blazers Slash Broadcast Team As Dundon Keeps Cutting Costs",
-      "summary": "James Guillory-Imagn Images",
-      "company": "Trail Blazers Slash Broadcast Team As",
-      "link": "https://frontofficesports.com/tom-dundon-blazers-more-layoffs/",
-      "date": "Jul 22, 26",
-      "source": "Front Office Sports",
-      "layer": 3,
+      "id": "ba163dd8a56e",
+      "title": "Tour de France 2026: stage 20 from Bourg d\u2019Oisans to Alpe d\u2019Huez \u2013 live",
+      "summary": "Stage 20 runs for brutal 170.9km and concludes at Ale d\u2019Huez Share your thoughts with Tom via email148km to go You have to love Pedersen. He\u2019s trying to bridge across to the peloton and looks like he\u2019",
+      "company": "Tour de France 2026",
+      "link": "https://www.theguardian.com/sport/live/2026/jul/25/tour-de-france-2026-stage-20-from-bourg-doisans-to-alpe-dhuez-live",
+      "date": "Jul 25, 26",
+      "source": "Guardian Sport",
+      "layer": 4,
       "access": "pe",
       "score": 5,
       "moments": []
@@ -543,12 +531,12 @@
       "moments": []
     },
     {
-      "id": "722d2aea3b45",
-      "title": "Rockettes Expand 2026 Christmas Spectacular With New Number, Record 230 Shows",
-      "summary": "The Radio City Rockettes are making the Christmas Spectacular bigger than ever for 2026. The holiday production will return to... The post Rockettes Expand 2026 Christmas Spectacular With New Number, ",
-      "company": "Rockettes Expand",
-      "link": "https://www.ticketnews.com/2026/07/rockettes-expand-2026-christmas-spectaclar-new-number/",
-      "date": "Jul 23, 26",
+      "id": "deedf65d0fea",
+      "title": "Las Vegas Grand Prix Opens 2026 Single-Day Ticket Sign-Ups, Hospitality Deposits",
+      "summary": "Formula 1 fans looking to experience the Las Vegas Grand Prix without committing to a full weekend now have more... The post Las Vegas Grand Prix Opens 2026 Single-Day Ticket Sign-Ups, Hospitality Dep",
+      "company": "Las Vegas Grand Prix Opens",
+      "link": "https://www.ticketnews.com/2026/07/las-vegas-grand-prix-opens-2026-single-day-ticket-sign-ups/",
+      "date": "Jul 24, 26",
       "source": "Ticket News",
       "layer": 4,
       "access": "pe",
