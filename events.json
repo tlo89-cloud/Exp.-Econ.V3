@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-25T13:44:29.189620+00:00",
-  "total": 36,
+  "generated": "2026-07-26T13:38:37.564614+00:00",
+  "total": 35,
   "scraped": [
     {
       "id": "d255404a1f1b",
@@ -241,21 +241,6 @@
       ]
     },
     {
-      "id": "6c250e94b064",
-      "title": "Kiro Eid Built 8X6 Design Studio. Here Is How He Did It Without a Network or Shortcuts",
-      "summary": "There is a particular kind of designer who does not chase the moment. Kirolos &#8220;Kiro&#8221; Eid is one of them. Founded in 2021, 8X6 Design Studio has grown quietly but decisively, from a solo pr",
-      "company": "Kiro Eid Built",
-      "link": "https://venuestoday.com/kiro-eid-built-8x6-design-studio-here-is-how-he-did-it-without-a-network-or-shortcuts/",
-      "date": "Mar 28, 26",
-      "source": "Venues Today",
-      "layer": 2,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
       "id": "0e31f75627ff",
       "title": "Wasserman Near Deal to Sell Agency to Providence for $3.4B",
       "summary": "Providence Equity is nearing a deal to consolidate its ownership in Wasserman\u2014now called The Team\u2014in a deal that values the agency at about $3.4 billion, according to a source with direct knowledge of",
@@ -268,21 +253,6 @@
       "score": 15,
       "moments": [
         "pe_investment"
-      ]
-    },
-    {
-      "id": "56e0584cf3df",
-      "title": "Avenged Sevenfold surprise release futuristic electronic-tinged new EP \u2018Statica\u2019",
-      "summary": "The California metal band also kick off a co-headline North American tour with Good Charlotte this week The post Avenged Sevenfold surprise release futuristic electronic-tinged new EP \u2018Statica\u2019 appear",
-      "company": "Avenged Sevenfold",
-      "link": "https://www.nme.com/news/music/avenged-sevenfold-surprise-release-futuristic-electronic-tinged-new-ep-statica-3958885?utm_source=rss&utm_medium=rss&utm_campaign=avenged-sevenfold-surprise-release-futuristic-electronic-tinged-new-ep-statica",
-      "date": "Jul 24, 26",
-      "source": "NME",
-      "layer": 5,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "festival_headliner"
       ]
     },
     {
@@ -376,6 +346,21 @@
       ]
     },
     {
+      "id": "b6ee44081c26",
+      "title": "Trivium Plots 32-Date North American Headlining Tour",
+      "summary": "The metalheads of Trivium will hit the road this fall for a headlining run across North America. The 32-date \u201cCrown... The post Trivium Plots 32-Date North American Headlining Tour appeared first on T",
+      "company": "Trivium Plots",
+      "link": "https://www.ticketnews.com/2026/07/trivium-plots-32-date-north-american-headlining-tour/",
+      "date": "Jul 24, 26",
+      "source": "Ticket News",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
       "id": "557908949f8f",
       "title": "Investindustrial agrees to invest in Italian flavors and fragrances maker PA Aromatics",
       "summary": "PA Aromatics, founded in 1984 by the Montagna family, operates four production plants and supplies more than 8,000 products to multinational and Italian customers. The post Investindustrial agrees to ",
@@ -451,6 +436,21 @@
       ]
     },
     {
+      "id": "e9161643ef1c",
+      "title": "White House draws new AI line on China",
+      "summary": "The Trump administration this week staked out a new position that could reshape its approach to AI policy, accusing Chinese companies of stealing U.S. technology even as it defends open AI development",
+      "company": "White House",
+      "link": "https://www.axios.com/2026/07/24/white-house-ai-line-china",
+      "date": "Jul 24, 26",
+      "source": "Axios",
+      "layer": 2,
+      "access": "venture",
+      "score": 8,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
       "id": "f3a1d1554548",
       "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
       "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
@@ -489,19 +489,6 @@
       "layer": 3,
       "access": "pe",
       "score": 8,
-      "moments": []
-    },
-    {
-      "id": "ba163dd8a56e",
-      "title": "Tour de France 2026: stage 20 from Bourg d\u2019Oisans to Alpe d\u2019Huez \u2013 live",
-      "summary": "Stage 20 runs for brutal 170.9km and concludes at Ale d\u2019Huez Share your thoughts with Tom via email148km to go You have to love Pedersen. He\u2019s trying to bridge across to the peloton and looks like he\u2019",
-      "company": "Tour de France 2026",
-      "link": "https://www.theguardian.com/sport/live/2026/jul/25/tour-de-france-2026-stage-20-from-bourg-doisans-to-alpe-dhuez-live",
-      "date": "Jul 25, 26",
-      "source": "Guardian Sport",
-      "layer": 4,
-      "access": "pe",
-      "score": 5,
       "moments": []
     },
     {
