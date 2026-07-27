@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-26T13:38:37.564614+00:00",
-  "total": 35,
+  "generated": "2026-07-27T14:46:18.735124+00:00",
+  "total": 31,
   "scraped": [
     {
       "id": "d255404a1f1b",
@@ -52,22 +52,6 @@
       ]
     },
     {
-      "id": "6ee6327fef94",
-      "title": "Avenue Growth Partners hits hard cap with $155m Fund II as LP demand backs vertical AI strategy",
-      "summary": "Avenue Growth Partners has closed its second fund on its $155m hard cap, more than doubling the size of its debut vehicle amid a continued push from LPs into AI verticals. The post Avenue Growth Partn",
-      "company": "Avenue Growth Partners",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/avenue-growth-partners-hits-hard-cap-with-155m-fund-ii-as-lp-demand-backs-vertical-ai-strategy.html",
-      "date": "Jul 23, 26",
-      "source": "AltAssets",
-      "layer": 2,
-      "access": "pe",
-      "score": 18,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
       "id": "1567a39ee171",
       "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
       "summary": "By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls \"the most important partner\" to its founders.",
@@ -81,6 +65,22 @@
       "moments": [
         "fund_launch",
         "company_launch"
+      ]
+    },
+    {
+      "id": "1de462eac3e5",
+      "title": "Ridgeview makes \u00a3545m offer for Pinewood Technologies",
+      "summary": "US technology-focused private equity firm Ridgeview has made a proposal to acquire UK automotive software provider Pinewood Technologies at a valuation of approximately \u00a3545m, according to a report by",
+      "company": "Ridgeview",
+      "link": "https://www.privateequitywire.co.uk/ridgeview-makes-545m-offer-for-pinewood-technologies/",
+      "date": "Jul 27, 26",
+      "source": "PE Wire",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "acquisition",
+        "pe_investment"
       ]
     },
     {
@@ -116,6 +116,22 @@
       ]
     },
     {
+      "id": "98b3e396bdb0",
+      "title": "MG Partners hits \u20ac80m raise for Benelux healthcare push",
+      "summary": "Dutch independent private equity firm MG Partners, a Benelux-focused healthcare investor, has completed the final close of MG Invest VII Co\u00f6peratie. The vehicle is an \u20ac80m fund built to create market-",
+      "company": "MG Partners",
+      "link": "https://www.altassets.net/premium/mg-partners-hits-e80m-raise-for-benelux-healthcare-push.html",
+      "date": "Jul 27, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
       "id": "5a7994241790",
       "title": "Tikehau Capital scores \u20ac5.2bn close for European direct lending strategy, up almost 60% on predecessor",
       "summary": "Tikehau Capital has hit a \u20ac5.2bn final close for the sixth generation of its European direct lending strategy, marking a huge jump in fund size compared to its predecessor vehicle. The post Tikehau Ca",
@@ -148,66 +164,19 @@
       ]
     },
     {
-      "id": "21837c6c52d9",
-      "title": "Deal Roundup: Platinum Equity, Nestl\u00e9 to form $5.6bn Peranel JV, Cinven agrees Salsify buyout",
-      "summary": "Platinum Equity and Nestl\u00e9 have agreed to establish Peranel, a 50:50 joint venture valued at $5.6bn that will combine Nestl\u00e9\u2019s waters and premium beverages business into a standalone global platform. ",
-      "company": "Deal Roundup",
-      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-platinum-equity-nestle-to-form-5-6bn-peranel-jv-cinven-agrees-salsify-buyout.html",
-      "date": "Jul 23, 26",
+      "id": "504af010a7f2",
+      "title": "HAT SGR nears \u20ac200m target as Fund 5 hits \u20ac155m",
+      "summary": "Italian PE firm HAT SGR has reached an interim close on Hat Technology Fund 5 with \u20ac155m in commitments. The milestone was backed by two sources of demand. Backers of the firm&#8217;s earlier vehicles",
+      "company": "HAT SGR",
+      "link": "https://www.altassets.net/premium/hat-sgr-nears-e200m-target-as-fund-5-hits-e155m.html",
+      "date": "Jul 27, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
-      "score": 13,
-      "moments": [
-        "valuation",
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "b5403fd9d666",
-      "title": "Golding reaches \u20ac283m first close for sixth buyout fund",
-      "summary": "Golding Capital Partners has secured \u20ac283m at the first close of its sixth flagship buyout fund, as the German private markets investor continues to build a diversified European and North American sma",
-      "company": "Golding",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/germany-western-europe-europe-by-region/golding-reaches-e283m-first-close-for-sixth-buyout-fund.html",
-      "date": "Jul 22, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
+      "score": 10,
       "moments": [
         "pe_investment",
         "fund_launch"
-      ]
-    },
-    {
-      "id": "d468645b4458",
-      "title": "Alexis Smith of The Feminine Glow Emerges at the Center of the Feminine Energy Coaching Boom",
-      "summary": "DUBAI, UAE &#8211; &#160;The Feminine Glow, the fast-growing femininity and inner work platform founded by Alexis Smith, is gaining national attention as interest in coaching, self-development, and fe",
-      "company": "Alexis Smith",
-      "link": "https://venuestoday.com/alexis-smith-of-the-feminine-glow-emerges-at-the-center-of-the-feminine-energy-coaching-boom/",
-      "date": "Mar 29, 26",
-      "source": "Venues Today",
-      "layer": 2,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "acquisition",
-        "company_launch"
-      ]
-    },
-    {
-      "id": "e9c36d3008c4",
-      "title": "Knitting Factory Entertainment Acquires Minority Stake in Does Entertainment, Forming Strategic Growth Partnership to Expand National Live...",
-      "summary": "Companies Align to Accelerate Venue Development, Talent Buying, Concert Promotion and Strategic Growth Across North America Los Angeles, CA / Wilmington, NC, July 14, 2026 \u2013&#160;Knitting Factory Ente",
-      "company": "",
-      "link": "https://venuestoday.com/knitting-factory-entertainment-acquires-minority-stake-in-does-entertainment-forming-strategic-growth-partnership-to-expand-national-live-entertainment-platform/",
-      "date": "Jul 15, 26",
-      "source": "Venues Today",
-      "layer": 2,
-      "access": "pe",
-      "score": 24,
-      "moments": [
-        "acquisition"
       ]
     },
     {
@@ -286,21 +255,6 @@
       ]
     },
     {
-      "id": "7361a56776e3",
-      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-      "summary": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
-      "company": "Hermes",
-      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-      "date": "Jul 13, 26",
-      "source": "TechCrunch Venture",
-      "layer": 1,
-      "access": "venture",
-      "score": 15,
-      "moments": [
-        "valuation"
-      ]
-    },
-    {
       "id": "04357473cbd0",
       "title": "Sportico Transactions: Moves and Mergers Roundup for July 24",
       "summary": "Welcome to Sportico\u2019s transactions wire, a weekly rundown of personnel, partnerships and products across the sports business industry. PERSONNEL NHLPA Executive Board Appoints John Gerba as General Co",
@@ -316,33 +270,33 @@
       ]
     },
     {
-      "id": "613e8dd491c2",
-      "title": "Private markets rethink \u2018semi-liquid\u2019 label",
-      "summary": "Private market managers and wealth advisers are reconsidering how they describe funds offering periodic access to private credit and private equity after a wave of redemption requests exposed the limi",
-      "company": "Private",
-      "link": "https://www.privateequitywire.co.uk/private-markets-rethink-semi-liquid-label/",
+      "id": "fcbaa5e11d95",
+      "title": "Ministry Announce Final Album (Again) + 2027 Farewell Tour Dates",
+      "summary": "Ethan Miller, Getty Images, \u2117 2026 Cleopatra Records",
+      "company": "Ministry Announce Final Album (Again)",
+      "link": "https://loudwire.com/ministry-hate-to-go-album-farerwell-tour/",
       "date": "Jul 24, 26",
-      "source": "PE Wire",
-      "layer": 5,
+      "source": "Loudwire",
+      "layer": 1,
       "access": "pe",
       "score": 12,
       "moments": [
-        "pe_investment"
+        "tour_announcement"
       ]
     },
     {
-      "id": "46f453186aae",
-      "title": "Edelweiss alternatives arm returns 100% of ESOF III capital to investors, with two investments remaining",
-      "summary": "EAAA Alternatives has returned 100% of drawn investor capital from the third series of its performing credit strategy, while retaining two remaining investments it said are on track for realisation. T",
-      "company": "Edelweiss",
-      "link": "https://www.altassets.net/private-equity-news/by-region/asia-by-region/india-asia-by-region/edelweiss-alternatives-arm-returns-100-of-esof-iii-capital-to-investors-with-two-investments-remaining.html",
-      "date": "Jul 24, 26",
-      "source": "AltAssets",
+      "id": "98872f583c8c",
+      "title": "Lou Koller, frontman of New York hardcore band Sick of It All, dies aged 59",
+      "summary": "Koller, who co-founded the celebrated band in 1986, had been battling cancer of the esophagusLou Koller, the singer and co-founder of New York hardcore band Sick of It All, has died after a battle wit",
+      "company": "Lou Koller",
+      "link": "https://www.theguardian.com/us-news/2026/jul/25/lou-keller-sick-of-it-all-dies-aged-59",
+      "date": "Jul 25, 26",
+      "source": "Guardian Music",
       "layer": 5,
       "access": "pe",
       "score": 12,
       "moments": [
-        "pe_investment"
+        "company_launch"
       ]
     },
     {
@@ -358,36 +312,6 @@
       "score": 12,
       "moments": [
         "festival_headliner"
-      ]
-    },
-    {
-      "id": "557908949f8f",
-      "title": "Investindustrial agrees to invest in Italian flavors and fragrances maker PA Aromatics",
-      "summary": "PA Aromatics, founded in 1984 by the Montagna family, operates four production plants and supplies more than 8,000 products to multinational and Italian customers. The post Investindustrial agrees to ",
-      "company": "Investindustrial",
-      "link": "https://www.pehub.com/investindustrial-agrees-to-invest-in-italian-flavors-and-fragrances-maker-pa-aromatics/",
-      "date": "Jul 24, 26",
-      "source": "PE Hub",
-      "layer": 4,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "ed24e331be68",
-      "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
-      "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
-      "company": "Niloufar Banisaied",
-      "link": "https://venuestoday.com/niloufar-banisaied-is-bringing-timeless-design-and-the-guest-experience-at-the-forefront/",
-      "date": "Jun 09, 26",
-      "source": "Venues Today",
-      "layer": 4,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "company_launch"
       ]
     },
     {
@@ -451,19 +375,58 @@
       ]
     },
     {
-      "id": "f3a1d1554548",
-      "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
-      "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
-      "company": "Navigating",
-      "link": "https://venuestoday.com/navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026/",
-      "date": "Apr 22, 26",
-      "source": "Venues Today",
-      "layer": 3,
+      "id": "697677b9e91b",
+      "title": "Hines lands \u20ac500m in first close of its latest European vehicle",
+      "summary": "Hines has secured more than \u20ac500m in commitments at the first close of its latest European value-add vehicle, Hines European Real Estate Partners IV. Backers of the fund span both returning and first-",
+      "company": "Hines",
+      "link": "https://www.altassets.net/premium/hines-lands-e500m-first-close-as-europe-repricing-ends.html",
+      "date": "Jul 27, 26",
+      "source": "AltAssets",
+      "layer": 2,
       "access": "pe",
-      "score": 6,
+      "score": 8,
       "moments": [
-        "acquisition"
+        "fund_launch"
       ]
+    },
+    {
+      "id": "db209f5c60f5",
+      "title": "Laufey Signs With UTA in All Areas",
+      "summary": "Fast-rising Grammy-winning singer-songwriter Laufey has signed with United Talent Agency for global representation in all areas, the company announced early Monday. UTA will work to secure opportuniti",
+      "company": "Laufey Signs With UTA",
+      "link": "https://variety.com/2026/music/news/laufey-signs-with-uta-all-areas-1236821590/",
+      "date": "Jul 27, 26",
+      "source": "Variety Music",
+      "layer": 4,
+      "access": "pe",
+      "score": 17,
+      "moments": []
+    },
+    {
+      "id": "66a20efa90cb",
+      "title": "Kansas City Chiefs Unveil First Renderings for Proposed $3 Billion Stadium",
+      "summary": "The Kansas City Chiefs have released the first concept renderings for the franchise&#8217;s proposed $3 billion enclosed stadium, which is... The post Kansas City Chiefs Unveil First Renderings for Pr",
+      "company": "Kansas City Chiefs Unveil First Renderings",
+      "link": "https://www.ticketnews.com/2026/07/kansas-city-chiefs-unveil-first-renderings-for-proposed-3-billion-stadium/",
+      "date": "Jul 24, 26",
+      "source": "Ticket News",
+      "layer": 2,
+      "access": "pe",
+      "score": 16,
+      "moments": []
+    },
+    {
+      "id": "69c28bfc7c43",
+      "title": "YouTube Ad Sales Keep Growing at Healthy Clip, Rising 13% to $11 Billion in Q2",
+      "summary": "Video giant YouTube, one of the world&#8217;s biggest entertainment businesses, continues to turn in double-digit increases in ad revenue. YouTube posted ad sales of $11.06 billion for the second quar",
+      "company": "YouTube Ad Sales Keep Growing",
+      "link": "https://variety.com/2026/digital/news/youtube-q2-2026-ad-sales-alphabet-google-earnings-results-1236818132/",
+      "date": "Jul 22, 26",
+      "source": "Variety Biz",
+      "layer": 2,
+      "access": "pe",
+      "score": 13,
+      "moments": []
     },
     {
       "id": "b07a38f3d620",
@@ -489,32 +452,6 @@
       "layer": 3,
       "access": "pe",
       "score": 8,
-      "moments": []
-    },
-    {
-      "id": "d1d40f922760",
-      "title": "House Judiciary Chair Jim Jordan refers Jack Smith to DOJ over alleged false statement",
-      "summary": "House Judiciary Chair Jim Jordan (R-Ohio) referred former Special Counsel Jack Smith to the Justice Department on Wednesday, alleging he knowingly made false statements during congressional testimony ",
-      "company": "House Judiciary Chair Jim Jordan",
-      "link": "https://www.axios.com/2026/07/23/jim-jordan-jack-smith-doj-referral",
-      "date": "Jul 23, 26",
-      "source": "Axios",
-      "layer": 3,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "8f95fdb4c719",
-      "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
-      "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
-      "company": "Global Times",
-      "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/",
-      "date": "May 09, 26",
-      "source": "Venues Today",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
       "moments": []
     },
     {
