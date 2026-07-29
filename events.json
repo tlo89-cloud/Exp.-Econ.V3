@@ -1,24 +1,7 @@
 {
-  "generated": "2026-07-28T14:20:07.368562+00:00",
-  "total": 36,
+  "generated": "2026-07-29T14:20:19.925012+00:00",
+  "total": 38,
   "scraped": [
-    {
-      "id": "d255404a1f1b",
-      "title": "New Trump tariffs bring in less money than illegal tariffs",
-      "summary": "The White House has found new legal ways to keep tariffs flowing. But it's not enough to fully replace the revenue from the import taxes the Supreme Court struck down.The intrigue: The administration'",
-      "company": "New Trump",
-      "link": "https://www.axios.com/2026/07/24/tariffs-import-taxes",
-      "date": "Jul 24, 26",
-      "source": "Axios",
-      "layer": 2,
-      "access": "pe",
-      "score": 23,
-      "moments": [
-        "acquisition",
-        "funding_round",
-        "company_launch"
-      ]
-    },
     {
       "id": "050e20785150",
       "title": "Brookfield\u2019s $2bn PIF-backed fund closes at around $2bn",
@@ -33,6 +16,70 @@
       "moments": [
         "pe_investment",
         "fund_launch"
+      ]
+    },
+    {
+      "id": "f2c856495247",
+      "title": "\u2018He liked to get people\u2019s blood boiling\u2019: metal masters Mastodon on the loss of bandmate Brent Hinds \u2013 and his shocking words before his death",
+      "summary": "The Grammy-winning band had an acrimonious rift with Hinds \u2013 then he died in a motorbike crash. They explain how they\u2019re paying tribute on their new album, and why their love for each other never ende",
+      "company": "\u2018He",
+      "link": "https://www.theguardian.com/music/2026/jul/28/metal-masters-mastodon-on-loss-of-brent-hinds-new-album-marrow-deep-interview",
+      "date": "Jul 28, 26",
+      "source": "Guardian Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 21,
+      "moments": [
+        "album_announcement",
+        "record_breaking"
+      ]
+    },
+    {
+      "id": "b7e96e68b57e",
+      "title": "Providence makes additional investment in talent agency The Team",
+      "summary": "The capital infusion will be used by The Team to acquire founder Casey Wasserman\u2019s remaining ownership stake in the company. The post Providence makes additional investment in talent agency The Team a",
+      "company": "Providence",
+      "link": "https://www.pehub.com/providence-makes-additional-investment-in-talent-agency-the-team/",
+      "date": "Jul 29, 26",
+      "source": "PE Hub",
+      "layer": 4,
+      "access": "pe",
+      "score": 20,
+      "moments": [
+        "acquisition",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "b7c0838bbb97",
+      "title": "Jump Capital bets bigger on crypto with record $350m fund",
+      "summary": "Jump Capital, the Chicago-founded venture firm established in 2012 alongside Jump Trading, has concluded its seventh fund at $350m. According to Crypto News, this fund marks the biggest vehicle in Jum",
+      "company": "Jump Capital",
+      "link": "https://www.altassets.net/private-equity-news/jump-capital-bets-bigger-on-crypto-with-record-350m-fund.html",
+      "date": "Jul 29, 26",
+      "source": "AltAssets",
+      "layer": 1,
+      "access": "venture",
+      "score": 18,
+      "moments": [
+        "fund_launch",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "8800b2f5cdeb",
+      "title": "Levi &amp; Korsinsky Reminds BitGo Holdings, Inc. Investors of the Pending Class Action Lawsuit With a Lead Plaintiff Deadline of August 7, 2026 -...",
+      "summary": "Notice to Pension Funds, Asset Managers, and Fiduciaries Holding BitGo Holdings (BTGO) Shares: Institutional Portfolio Losses May Trigger Fiduciary Review Obligations Following Alleged IPO Misrepresen",
+      "company": "Levi",
+      "link": "https://www.prnewswire.com/news-releases/levi--korsinsky-reminds-bitgo-holdings-inc-investors-of-the-pending-class-action-lawsuit-with-a-lead-plaintiff-deadline-of-august-7-2026---btgo-302837414.html",
+      "date": "Jul 29, 26",
+      "source": "PR Newswire",
+      "layer": 4,
+      "access": "public",
+      "score": 18,
+      "moments": [
+        "ipo",
+        "pe_investment"
       ]
     },
     {
@@ -60,22 +107,6 @@
       "date": "Jul 28, 26",
       "source": "PE Wire",
       "layer": 1,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "acquisition",
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "1de462eac3e5",
-      "title": "Ridgeview makes \u00a3545m offer for Pinewood Technologies",
-      "summary": "US technology-focused private equity firm Ridgeview has made a proposal to acquire UK automotive software provider Pinewood Technologies at a valuation of approximately \u00a3545m, according to a report by",
-      "company": "Ridgeview",
-      "link": "https://www.privateequitywire.co.uk/ridgeview-makes-545m-offer-for-pinewood-technologies/",
-      "date": "Jul 27, 26",
-      "source": "PE Wire",
-      "layer": 5,
       "access": "pe",
       "score": 16,
       "moments": [
@@ -132,60 +163,12 @@
       ]
     },
     {
-      "id": "32737a1d036d",
-      "title": "BC Partners agrees to acquire co-control stake in InfoRLife",
-      "summary": "InfoRLife, a Swiss CDMO specializing in ready-to-use IV infusion bags for hospitals, was founded in 2002 as a division of ACS Dobfar and operates sites in Switzerland, Romania, and Tunisia. The post B",
-      "company": "BC Partners agrees to",
-      "link": "https://www.pehub.com/bc-partners-agrees-to-acquire-co-control-stake-in-inforlife/",
-      "date": "Jul 28, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "acquisition",
-        "company_launch"
-      ]
-    },
-    {
-      "id": "98b3e396bdb0",
-      "title": "MG Partners hits \u20ac80m raise for Benelux healthcare push",
-      "summary": "Dutch independent private equity firm MG Partners, a Benelux-focused healthcare investor, has completed the final close of MG Invest VII Co\u00f6peratie. The vehicle is an \u20ac80m fund built to create market-",
-      "company": "MG Partners",
-      "link": "https://www.altassets.net/premium/mg-partners-hits-e80m-raise-for-benelux-healthcare-push.html",
-      "date": "Jul 27, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
       "id": "582210513ff0",
       "title": "ZQ Capital closes flagship fund at $300m target",
       "summary": "Hong Kong-based PE house ZQ Capital has completed the final close of its flagship fund at its $300m target, with the vehicle finishing oversubscribed. According to Fund Selector Asia, the fundraise dr",
       "company": "ZQ Capital",
       "link": "https://www.altassets.net/premium/zq-capital-closes-flagship-fund-at-300m-target.html",
       "date": "Jul 28, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 10,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "504af010a7f2",
-      "title": "HAT SGR nears \u20ac200m target as Fund 5 hits \u20ac155m",
-      "summary": "Italian PE firm HAT SGR has reached an interim close on Hat Technology Fund 5 with \u20ac155m in commitments. The milestone was backed by two sources of demand. Backers of the firm&#8217;s earlier vehicles",
-      "company": "HAT SGR",
-      "link": "https://www.altassets.net/premium/hat-sgr-nears-e200m-target-as-fund-5-hits-e155m.html",
-      "date": "Jul 27, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -211,18 +194,33 @@
       ]
     },
     {
-      "id": "4d2abf558b4c",
-      "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
-      "summary": "AI infrastructure company Infinity announced Monday a $15 million raise at a $100 million valuation from investors including Touring Capital, Principal VC, and researchers from companies such as OpenA",
-      "company": "Inference startup Infinity",
-      "link": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
-      "date": "Jul 20, 26",
-      "source": "TechCrunch Venture",
+      "id": "6c5dc92f026e",
+      "title": "Why Canceling My Tour Relaunched and Revived My Career As an Independent Artist, by JP Saxe (Guest Column)",
+      "summary": "JP Saxe is a Grammy-nominated singer-songwriter. Last year, he made headlines after scheduling an ambitious headlining tour that he ended up canceling. Instead of making excuses, like many musicians i",
+      "company": "Why Canceling My Tour Relaunched",
+      "link": "https://variety.com/2026/music/news/jp-saxe-why-canceling-tour-revived-career-guest-column-1236822288/",
+      "date": "Jul 28, 26",
+      "source": "Variety Music",
       "layer": 1,
-      "access": "venture",
+      "access": "pe",
+      "score": 19,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "7a82d3d8686e",
+      "title": "Deal Roundup: Bain Capital and Tillman invest $1.5bn in Eaton Fiber, Lafayette Instrument set to acquire Avisoft Bioacoustics",
+      "summary": "Bain Capital and Tillman Global Holdings have announced a $1.5 billion investment in Eaton Fiber, an affiliate of Tillman, to accelerate the expansion of Verizon fiber broadband through fiber network ",
+      "company": "Deal Roundup",
+      "link": "https://www.altassets.net/private-equity-news/by-news-type/deal-news/deal-roundup-bain-capital-and-tillman-invest-1-5bn-in-eaton-fiber-lafayette-instrument-set-to-acquire-avisoft-bioacoustics.html",
+      "date": "Jul 29, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
       "score": 18,
       "moments": [
-        "funding_round"
+        "acquisition"
       ]
     },
     {
@@ -241,27 +239,27 @@
       ]
     },
     {
-      "id": "fd3373576c57",
-      "title": "The Paramount-Warner Bros. Clock Is Ticking: What\u2019s Next for the Megamerger Amid Antitrust Battle With States?",
-      "summary": "David Ellison may have believed Paramount Skydance could have closed the $111 billion takeover of Warner Bros. Discovery by this point. The deal was blessed by the Justice Department in June (reported",
-      "company": "The Paramount-Warner Bros. Clock Is Ticking",
-      "link": "https://variety.com/2026/tv/news/paramount-warner-bros-whats-next-state-antitrust-lawsuit-1236819518/",
-      "date": "Jul 23, 26",
-      "source": "Variety Biz",
-      "layer": 3,
-      "access": "pe",
-      "score": 17,
+      "id": "3c48f4a36e9c",
+      "title": "LemonEdge announces $21M Series A funding round led by Blackstone Innovations Investments and joined by BNY, to modernize private markets...",
+      "summary": "NEW YORK, July 29, 2026 /PRNewswire/ -- LemonEdge, a modern fund accounting platform built for private markets, has completed a $21 million Series A investment round to accelerate product development ",
+      "company": "LemonEdge",
+      "link": "https://www.prnewswire.com/news-releases/lemonedge-announces-21m-series-a-funding-round-led-by-blackstone-innovations-investments-and-joined-by-bny-to-modernize-private-markets-infrastructure-302837890.html",
+      "date": "Jul 29, 26",
+      "source": "PR Newswire",
+      "layer": 2,
+      "access": "venture",
+      "score": 18,
       "moments": [
-        "acquisition"
+        "funding_round"
       ]
     },
     {
-      "id": "0e31f75627ff",
-      "title": "Wasserman Near Deal to Sell Agency to Providence for $3.4B",
-      "summary": "Providence Equity is nearing a deal to consolidate its ownership in Wasserman\u2014now called The Team\u2014in a deal that values the agency at about $3.4 billion, according to a source with direct knowledge of",
-      "company": "Wasserman Near Deal",
-      "link": "https://www.sportico.com/business/finance/2026/providence-equity-wasserman-agency-sale-billion-1234940141/",
-      "date": "Jul 24, 26",
+      "id": "086a2f341eae",
+      "title": "JPMorgan\u2019s Ohio State Deal Shows Evolution of College Sports",
+      "summary": "In 2022, JPMorgan Chase bankers were retained to help Florida State University explore potential private equity funding for its athletic department. Four years later, the bank announced its first spon",
+      "company": "JPMorgan\u2019s Ohio State Deal Shows Evolution",
+      "link": "https://www.sportico.com/business/finance/2026/ohio-state-patch-jpmorgan-chase-million-1234940274/",
+      "date": "Jul 28, 26",
       "source": "Sportico",
       "layer": 4,
       "access": "pe",
@@ -271,18 +269,18 @@
       ]
     },
     {
-      "id": "e58f7cc886e5",
-      "title": "Rhiannon Giddens Signs With WME (EXCLUSIVE)",
-      "summary": "Grammy- and Pulitzer-winning musician Rhiannon Giddens, one of the leading artists in the roots and Americana realm, has signed with WME for representation in music worldwide, she and the agency annou",
-      "company": "Rhiannon Giddens Signs With WME (EXCLUSIVE)",
-      "link": "https://variety.com/2026/music/news/rhiannon-giddens-wme-signs-representation-1236822088/",
-      "date": "Jul 28, 26",
-      "source": "Variety Music",
-      "layer": 1,
+      "id": "5d0feace7e8e",
+      "title": "World Cup Boycott Proposed as Opposition to Controversial FIFA Private Investment Plan Grows",
+      "summary": "Opposition is growing in the soccer world to a plan by the sport\u2019s governing body, FIFA, to spin off its events, principally the World Cup, as a separate commercial entity and invite investors to take",
+      "company": "World Cup Boycott Proposed",
+      "link": "https://variety.com/2026/biz/global/world-cup-boycott-opposition-fifa-plan-1236823227/",
+      "date": "Jul 29, 26",
+      "source": "Variety Biz",
+      "layer": 5,
       "access": "pe",
       "score": 15,
       "moments": [
-        "record_deal"
+        "company_launch"
       ]
     },
     {
@@ -298,36 +296,6 @@
       "score": 15,
       "moments": [
         "acquisition"
-      ]
-    },
-    {
-      "id": "38191f09d096",
-      "title": "FEP acquires Australian Planet Fitness franchisee Bravo Fit",
-      "summary": "The sellers include Planet Fitness, which has exited its minority ownership position as a result of the transaction. The post FEP acquires Australian Planet Fitness franchisee Bravo Fit appeared first",
-      "company": "FEP",
-      "link": "https://www.pehub.com/fep-acquires-australian-planet-fitness-franchisee-bravo-fit/",
-      "date": "Jul 28, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "1670fc64e045",
-      "title": "Elon Musk\u2019s Boring Company reportedly raising funding at a $20B valuation",
-      "summary": "Elon Musk's tunneling startup is reportedly in talks for a major new funding round.",
-      "company": "Elon Musk\u2019s Boring Company",
-      "link": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
-      "date": "Jul 25, 26",
-      "source": "TechCrunch Venture",
-      "layer": 1,
-      "access": "venture",
-      "score": 15,
-      "moments": [
-        "valuation"
       ]
     },
     {
@@ -356,6 +324,21 @@
       "layer": 4,
       "access": "pe",
       "score": 11,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "46aed39e4e35",
+      "title": "Beehive Block Party and beyond: SoLa and Live Nation train entertainment's next generation",
+      "summary": "South Los Angeles youth planned the 2026 Beehive Block Party through the SoLa Live Accelerator, a partnership program between the SoLa Foundation and Live Nation that trains aspiring live entertainmen",
+      "company": "Beehive Block Party and beyond",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-07-29/sola-live-nation-train-entertainments-next-generation",
+      "date": "Jul 29, 26",
+      "source": "LA Times Music",
+      "layer": 3,
+      "access": "pe",
+      "score": 9,
       "moments": [
         "company_launch"
       ]
@@ -391,48 +374,48 @@
       ]
     },
     {
-      "id": "ee98d40fe9f6",
-      "title": "Mutares agrees to acquire Free2move car-sharing business from Stellantis",
-      "summary": "Free2move operates free-floating car-sharing services across 14 cities in Europe and the US. The post Mutares agrees to acquire Free2move car-sharing business from Stellantis appeared first on PE Hub.",
-      "company": "Mutares agrees to",
-      "link": "https://www.pehub.com/mutares-agrees-to-acquire-free2move-car-sharing-business-from-stellantis/",
+      "id": "bfdc39c7387b",
+      "title": "Mac Sabbath Serves Up Fall Headlining Dates Before Joining GWAR",
+      "summary": "Mac Sabbath is taking its fast-food-fueled metal spectacle back on the road this fall, serving up a run of headlining... The post Mac Sabbath Serves Up Fall Headlining Dates Before Joining GWAR appear",
+      "company": "Mac Sabbath Serves Up Fall Headlining",
+      "link": "https://www.ticketnews.com/2026/07/mac-sabbath-serves-up-headlining-datews/",
       "date": "Jul 28, 26",
-      "source": "PE Hub",
-      "layer": 4,
+      "source": "Ticket News",
+      "layer": 5,
       "access": "pe",
-      "score": 8,
+      "score": 9,
       "moments": [
-        "acquisition"
+        "festival_headliner"
       ]
     },
     {
-      "id": "e9161643ef1c",
-      "title": "White House draws new AI line on China",
-      "summary": "The Trump administration this week staked out a new position that could reshape its approach to AI policy, accusing Chinese companies of stealing U.S. technology even as it defends open AI development",
-      "company": "White House",
-      "link": "https://www.axios.com/2026/07/24/white-house-ai-line-china",
-      "date": "Jul 24, 26",
-      "source": "Axios",
-      "layer": 2,
-      "access": "venture",
-      "score": 8,
+      "id": "84975ae70c8f",
+      "title": "French DJ and \u2018Nightcall\u2019 star Kavinsky found dead in Paris home",
+      "summary": "The electronic music star performed at the Olympics closing ceremony in 2024 The post French DJ and &#8216;Nightcall&#8217; star Kavinsky found dead in Paris home appeared first on NME.",
+      "company": "French DJ",
+      "link": "https://www.nme.com/news/music/french-dj-kavinsky-found-dead-in-paris-home-3959591?utm_source=rss&utm_medium=rss&utm_campaign=french-dj-kavinsky-found-dead-in-paris-home",
+      "date": "Jul 29, 26",
+      "source": "NME",
+      "layer": 5,
+      "access": "pe",
+      "score": 6,
       "moments": [
         "company_launch"
       ]
     },
     {
-      "id": "697677b9e91b",
-      "title": "Hines lands \u20ac500m in first close of its latest European vehicle",
-      "summary": "Hines has secured more than \u20ac500m in commitments at the first close of its latest European value-add vehicle, Hines European Real Estate Partners IV. Backers of the fund span both returning and first-",
-      "company": "Hines",
-      "link": "https://www.altassets.net/premium/hines-lands-e500m-first-close-as-europe-repricing-ends.html",
-      "date": "Jul 27, 26",
-      "source": "AltAssets",
-      "layer": 2,
+      "id": "27bfc1b64fea",
+      "title": "Gemspring-backed Key Line merges with utility services firm Palouse Power",
+      "summary": "Roseburg, Oregon-based Key Line and Quincy, Washington-based Palouse provide construction and maintenance services across electric distribution, transmission, substation, and communications infrastruc",
+      "company": "Gemspring-backed Key Line",
+      "link": "https://www.pehub.com/gemspring-backed-key-line-merges-with-utility-services-firm-palouse-power/",
+      "date": "Jul 29, 26",
+      "source": "PE Hub",
+      "layer": 5,
       "access": "pe",
-      "score": 8,
+      "score": 6,
       "moments": [
-        "fund_launch"
+        "acquisition"
       ]
     },
     {
@@ -451,16 +434,29 @@
       ]
     },
     {
-      "id": "db209f5c60f5",
-      "title": "Laufey Signs With UTA in All Areas",
-      "summary": "Fast-rising Grammy-winning singer-songwriter Laufey has signed with United Talent Agency for global representation in all areas, the company announced early Monday. UTA will work to secure opportuniti",
-      "company": "Laufey Signs With UTA",
-      "link": "https://variety.com/2026/music/news/laufey-signs-with-uta-all-areas-1236821590/",
-      "date": "Jul 27, 26",
-      "source": "Variety Music",
-      "layer": 4,
+      "id": "9bbc939464d3",
+      "title": "California AG Bonta Calls DOJ\u2019s Live Nation Settlement a \u2018Slap on the Wrist Sweetheart Deal\u2019",
+      "summary": "Bonta pointed to the states\u2019 Ticketmaster monopoly verdict as evidence that federal officials abandoned a viable antitrust case, while attorneys... The post California AG Bonta Calls DOJ\u2019s Live Nation",
+      "company": "California AG Bonta Calls DOJ\u2019s Live",
+      "link": "https://www.ticketnews.com/2026/07/california-ag-bonta-calls-dojs-live-nation-settlement-a-slap-on-the-wrist-sweetheart-deal/",
+      "date": "Jul 28, 26",
+      "source": "Ticket News",
+      "layer": 3,
       "access": "pe",
-      "score": 17,
+      "score": 16,
+      "moments": []
+    },
+    {
+      "id": "65218509674d",
+      "title": "HYBE Smashes Quarterly Records as BTS Comeback Powers $993M Revenue Surge",
+      "summary": "HYBE has posted the biggest quarter in its history, fueled by BTS\u2019 blockbuster comeback, accelerating tour activity and continued growth... The post HYBE Smashes Quarterly Records as BTS Comeback Powe",
+      "company": "HYBE Smashes Quarterly Records",
+      "link": "https://www.ticketnews.com/2026/07/hybe-smashes-records-bts-comeback-powers-surge/",
+      "date": "Jul 29, 26",
+      "source": "Ticket News",
+      "layer": 2,
+      "access": "pe",
+      "score": 13,
       "moments": []
     },
     {
@@ -477,29 +473,55 @@
       "moments": []
     },
     {
-      "id": "b42617eb125f",
-      "title": "Djalal Khimdjee named CEO of Africa50 investment fund",
-      "summary": "Africa50 has named Djalal Khimdjee as CEO of the Africa50 Principal Investment Fund effective 1 August 2026. Khimdjee arrives with over 25 years in infrastructure investing, development finance and se",
-      "company": "Djalal Khimdjee",
-      "link": "https://www.altassets.net/premium/djalal-khimdjee-named-ceo-of-africa50-investment-fund.html",
-      "date": "Jul 27, 26",
-      "source": "AltAssets",
+      "id": "a12c03aaf526",
+      "title": "Royals Stadium\u2019s $600M in City Funding Faces Local Opposition",
+      "summary": "Rick Osentoski-Imagn Images",
+      "company": "Royals Stadium\u2019s",
+      "link": "https://frontofficesports.com/royals-stadiums-600m-in-city-funding-faces-local-opposition/",
+      "date": "Jul 28, 26",
+      "source": "Front Office Sports",
       "layer": 2,
       "access": "pe",
       "score": 10,
       "moments": []
     },
     {
-      "id": "06797b0ccc9a",
-      "title": "Live Nation, States Clash Over New Antitrust Ruling Before Post-Trial Hearing",
-      "summary": "A Second Circuit decision involving radio-ratings data says illegal tying can be imposed through pricing and policy rather than an... The post Live Nation, States Clash Over New Antitrust Ruling Befor",
-      "company": "Live Nation States Clash Over New",
-      "link": "https://www.ticketnews.com/2026/07/live-nation-states-clash-over-new-antitrust-ruling-before-post-trial-hearing/",
-      "date": "Jul 27, 26",
-      "source": "Ticket News",
+      "id": "9238350fcd3e",
+      "title": "With Dodger Stadium show, Fuerza Regida are living out their Mexican American dreams",
+      "summary": "In June, the San Bernardino band embarked on its This Is Our Dream stadium tour across nine U.S. cities. The tour does more than showcase the band's recent mainstream success \u2014 it honors the years of ",
+      "company": "With Dodger Stadium",
+      "link": "https://www.latimes.com/delos/story/2026-07-24/fuerza-regida-dodger-stadium-this-is-our-dream-tour-interview",
+      "date": "Jul 24, 26",
+      "source": "LA Times Music",
+      "layer": 2,
+      "access": "pe",
+      "score": 8,
+      "moments": []
+    },
+    {
+      "id": "eb0ed6bc7862",
+      "title": "Kalshi Pays Social Account That Makes Anti-Black, Anti-Muslim Posts",
+      "summary": "An anonymous X account that frequently posts anti-Black and anti-Muslim messages collects checks from Kalshi, the prediction market operator valued at more than $20 billion. The user, who goes by Wall",
+      "company": "Kalshi Pays Social Account That Makes",
+      "link": "https://www.sportico.com/business/sports-betting/2026/kalshi-anti-muslim-anti-black-posts-social-media-affiliate-1234940266/",
+      "date": "Jul 28, 26",
+      "source": "Sportico",
       "layer": 3,
       "access": "pe",
-      "score": 9,
+      "score": 7,
+      "moments": []
+    },
+    {
+      "id": "8a1160d4967a",
+      "title": "Gotham Sports App to Wind Down as MSG, YES Network Secure DAZN Pact",
+      "summary": "Two years after the launch of the Gotham Sports app, YES Network and MSG Networks have decided to pull the plug on their joint streaming venture. In lieu of any further investment in the collaboration",
+      "company": "Gotham Sports App",
+      "link": "https://www.sportico.com/business/media/2026/msg-yes-network-dazn-gotham-sports-app-1234940378/",
+      "date": "Jul 29, 26",
+      "source": "Sportico",
+      "layer": 3,
+      "access": "venture",
+      "score": 5,
       "moments": []
     },
     {
@@ -516,19 +538,6 @@
       "moments": []
     },
     {
-      "id": "82d2aaa0d997",
-      "title": "Brillio Named an OpenAI Select Partner to Help Enterprises Move AI into Production",
-      "summary": "The partnership combines OpenAI's frontier AI capabilities and Brillio's engineering-first approach to help enterprises operationalize AI at scale. Enterprise AI has entered a new phase. Success is no",
-      "company": "Brillio Named",
-      "link": "https://www.prnewswire.com/news-releases/brillio-named-an-openai-select-partner-to-help-enterprises-move-ai-into-production-302836622.html",
-      "date": "Jul 28, 26",
-      "source": "PR Newswire",
-      "layer": 4,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
       "id": "8f95fdb4c719",
       "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
       "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
@@ -537,6 +546,19 @@
       "date": "May 09, 26",
       "source": "Venues Today",
       "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "9b139fd01d1e",
+      "title": "Raskin Probes Whether Trump Ties Shielded FIFA\u2019s World Cup Ticketing Practices",
+      "summary": "House Judiciary Committee ranking member seeks FIFA\u2019s communications with federal officials about consumer complaints, pricing and third-party sellers as part... The post Raskin Probes Whether Trump T",
+      "company": "Raskin Probes Whether Trump Ties Shielded",
+      "link": "https://www.ticketnews.com/2026/07/raskin-probes-whether-trump-ties-shielded-fifas-world-cup-ticketing-practices/",
+      "date": "Jul 28, 26",
+      "source": "Ticket News",
+      "layer": 3,
       "access": "pe",
       "score": 4,
       "moments": []
