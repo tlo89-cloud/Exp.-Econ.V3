@@ -1,55 +1,7 @@
 {
-  "generated": "2026-07-29T14:20:19.925012+00:00",
-  "total": 38,
+  "generated": "2026-07-30T14:12:07.405219+00:00",
+  "total": 33,
   "scraped": [
-    {
-      "id": "050e20785150",
-      "title": "Brookfield\u2019s $2bn PIF-backed fund closes at around $2bn",
-      "summary": "Brookfield has secured approximately $2bn at the first close of its new private equity vehicle anchored by Saudi Arabia&#8217;s Public Investment Fund (PIF). The fund, named Brookfield Middle East Par",
-      "company": "Brookfield\u2019s",
-      "link": "https://www.altassets.net/private-equity-news/brookfields-2bn-pif-backed-fund-closes-at-around-2bn.html",
-      "date": "Jul 28, 26",
-      "source": "AltAssets",
-      "layer": 1,
-      "access": "pe",
-      "score": 24,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "f2c856495247",
-      "title": "\u2018He liked to get people\u2019s blood boiling\u2019: metal masters Mastodon on the loss of bandmate Brent Hinds \u2013 and his shocking words before his death",
-      "summary": "The Grammy-winning band had an acrimonious rift with Hinds \u2013 then he died in a motorbike crash. They explain how they\u2019re paying tribute on their new album, and why their love for each other never ende",
-      "company": "\u2018He",
-      "link": "https://www.theguardian.com/music/2026/jul/28/metal-masters-mastodon-on-loss-of-brent-hinds-new-album-marrow-deep-interview",
-      "date": "Jul 28, 26",
-      "source": "Guardian Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 21,
-      "moments": [
-        "album_announcement",
-        "record_breaking"
-      ]
-    },
-    {
-      "id": "b7e96e68b57e",
-      "title": "Providence makes additional investment in talent agency The Team",
-      "summary": "The capital infusion will be used by The Team to acquire founder Casey Wasserman\u2019s remaining ownership stake in the company. The post Providence makes additional investment in talent agency The Team a",
-      "company": "Providence",
-      "link": "https://www.pehub.com/providence-makes-additional-investment-in-talent-agency-the-team/",
-      "date": "Jul 29, 26",
-      "source": "PE Hub",
-      "layer": 4,
-      "access": "pe",
-      "score": 20,
-      "moments": [
-        "acquisition",
-        "company_launch"
-      ]
-    },
     {
       "id": "b7c0838bbb97",
       "title": "Jump Capital bets bigger on crypto with record $350m fund",
@@ -67,67 +19,19 @@
       ]
     },
     {
-      "id": "8800b2f5cdeb",
-      "title": "Levi &amp; Korsinsky Reminds BitGo Holdings, Inc. Investors of the Pending Class Action Lawsuit With a Lead Plaintiff Deadline of August 7, 2026 -...",
-      "summary": "Notice to Pension Funds, Asset Managers, and Fiduciaries Holding BitGo Holdings (BTGO) Shares: Institutional Portfolio Losses May Trigger Fiduciary Review Obligations Following Alleged IPO Misrepresen",
-      "company": "Levi",
-      "link": "https://www.prnewswire.com/news-releases/levi--korsinsky-reminds-bitgo-holdings-inc-investors-of-the-pending-class-action-lawsuit-with-a-lead-plaintiff-deadline-of-august-7-2026---btgo-302837414.html",
-      "date": "Jul 29, 26",
+      "id": "53ea6ae7a3e9",
+      "title": "SueWallSt Reminds Shareholders of a Lead Plaintiff Deadline of August 4, 2026 in PicS N.V. Lawsuit - PICS",
+      "summary": "Pension Funds and Asset Managers Holding PicS N.V. Shares From the $434 Million IPO Face Fiduciary Obligations to Evaluate Recovery Options as Credit Portfolio Losses Exceed $10 Per Share NEW YORK, Ju",
+      "company": "SueWallSt Reminds Shareholders",
+      "link": "https://www.prnewswire.com/news-releases/suewallst-reminds-shareholders-of-a-lead-plaintiff-deadline-of-august-4-2026-in-pics-nv-lawsuit---pics-302839030.html",
+      "date": "Jul 30, 26",
       "source": "PR Newswire",
-      "layer": 4,
+      "layer": 5,
       "access": "public",
-      "score": 18,
+      "score": 16,
       "moments": [
         "ipo",
         "pe_investment"
-      ]
-    },
-    {
-      "id": "1567a39ee171",
-      "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
-      "summary": "By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls \"the most important partner\" to its founders.",
-      "company": "Why Greylock",
-      "link": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
-      "date": "Jul 16, 26",
-      "source": "TechCrunch Venture",
-      "layer": 1,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "fund_launch",
-        "company_launch"
-      ]
-    },
-    {
-      "id": "2d609a3be7e9",
-      "title": "Ares weighs acquisition of buyout firm Leonard Green",
-      "summary": "Ares Management has held discussions over a potential acquisition of buyout firm Leonard Green &#038; Partners in a deal that would significantly expand its private equity platform and accelerate cons",
-      "company": "Ares",
-      "link": "https://www.privateequitywire.co.uk/ares-weighs-acquisition-of-buyout-firm-leonard-green/",
-      "date": "Jul 28, 26",
-      "source": "PE Wire",
-      "layer": 1,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "acquisition",
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "a5c16846f816",
-      "title": "GCM Grosvenor rakes in $1.2bn from its first CSF fund",
-      "summary": "GCM Grosvenor has secured its final close of its first Credit Secondaries Fund (CSF), securing $1.2bn in commitments for the platform. The funding was raised both within and alongside CSF, a result th",
-      "company": "GCM Grosvenor",
-      "link": "https://www.altassets.net/premium/gcm-grosvenor-rakes-in-1-2bn-from-its-first-csf-fund.html",
-      "date": "Jul 28, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "fund_launch",
-        "company_launch"
       ]
     },
     {
@@ -163,19 +67,19 @@
       ]
     },
     {
-      "id": "582210513ff0",
-      "title": "ZQ Capital closes flagship fund at $300m target",
-      "summary": "Hong Kong-based PE house ZQ Capital has completed the final close of its flagship fund at its $300m target, with the vehicle finishing oversubscribed. According to Fund Selector Asia, the fundraise dr",
-      "company": "ZQ Capital",
-      "link": "https://www.altassets.net/premium/zq-capital-closes-flagship-fund-at-300m-target.html",
-      "date": "Jul 28, 26",
-      "source": "AltAssets",
-      "layer": 5,
+      "id": "a51cda94db20",
+      "title": "See Smashing Pumpkins Bring Out \u2018Brady Bunch\u2019 Actor for \u2018It\u2019s a Sunshine Day\u2019 Cover",
+      "summary": "Two months after Billy Corgan interviewed actor Barry Williams on his podcast, the pair reunite at Lollapalooza aftershow at Chicago's Riviera Theatre",
+      "company": "See Smashing Pumpkins Bring Out \u2018Brady",
+      "link": "https://www.rollingstone.com/music/music-news/smashing-pumpkins-greg-brady-bunch-actor-its-a-sunshine-day-1235600863/",
+      "date": "Jul 30, 26",
+      "source": "Rolling Stone Music",
+      "layer": 1,
       "access": "pe",
       "score": 10,
       "moments": [
-        "pe_investment",
-        "fund_launch"
+        "surprise_appearance",
+        "festival_headliner"
       ]
     },
     {
@@ -194,18 +98,33 @@
       ]
     },
     {
-      "id": "6c5dc92f026e",
-      "title": "Why Canceling My Tour Relaunched and Revived My Career As an Independent Artist, by JP Saxe (Guest Column)",
-      "summary": "JP Saxe is a Grammy-nominated singer-songwriter. Last year, he made headlines after scheduling an ambitious headlining tour that he ended up canceling. Instead of making excuses, like many musicians i",
-      "company": "Why Canceling My Tour Relaunched",
-      "link": "https://variety.com/2026/music/news/jp-saxe-why-canceling-tour-revived-career-guest-column-1236822288/",
-      "date": "Jul 28, 26",
-      "source": "Variety Music",
+      "id": "f86c63166755",
+      "title": "RISE to Feature Terri Carmichael Jackson, Jessica Caggiano on WNBA",
+      "summary": "During RISE Women&#8217;s Sports last fall, WNBPA Executive Director Terri Carmichael Jackson outlined a vision for a transformational future for the WNBA. A future where player compensation, investme",
+      "company": "RISE",
+      "link": "https://www.sportico.com/business/sports/2026/rise-to-feature-wnba-leaders-talking-new-cba-1234940287/",
+      "date": "Jul 30, 26",
+      "source": "Sportico",
       "layer": 1,
       "access": "pe",
-      "score": 19,
+      "score": 21,
       "moments": [
-        "festival_headliner"
+        "rights_deal"
+      ]
+    },
+    {
+      "id": "4d2abf558b4c",
+      "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
+      "summary": "AI infrastructure company Infinity announced Monday a $15 million raise at a $100 million valuation from investors including Touring Capital, Principal VC, and researchers from companies such as OpenA",
+      "company": "Inference startup Infinity",
+      "link": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
+      "date": "Jul 20, 26",
+      "source": "TechCrunch Venture",
+      "layer": 1,
+      "access": "venture",
+      "score": 18,
+      "moments": [
+        "funding_round"
       ]
     },
     {
@@ -224,48 +143,18 @@
       ]
     },
     {
-      "id": "9f9dc9d93cb6",
-      "title": "Deal Roundup: Great American Holdings acquires Trampe Settles, Micross to snap up AEMtec",
-      "summary": "Great American Holdings, a provider of financial advisory, valuation, asset disposition, and investment banking services and majority-owned by funds managed by Oaktree Capital Management, has announce",
-      "company": "Deal Roundup",
-      "link": "https://www.altassets.net/premium/deal-roundup-great-american-holdings-acquires-trampe-settles-micross-to-snap-up-aemtec.html",
-      "date": "Jul 28, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 18,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "3c48f4a36e9c",
-      "title": "LemonEdge announces $21M Series A funding round led by Blackstone Innovations Investments and joined by BNY, to modernize private markets...",
-      "summary": "NEW YORK, July 29, 2026 /PRNewswire/ -- LemonEdge, a modern fund accounting platform built for private markets, has completed a $21 million Series A investment round to accelerate product development ",
-      "company": "LemonEdge",
-      "link": "https://www.prnewswire.com/news-releases/lemonedge-announces-21m-series-a-funding-round-led-by-blackstone-innovations-investments-and-joined-by-bny-to-modernize-private-markets-infrastructure-302837890.html",
-      "date": "Jul 29, 26",
-      "source": "PR Newswire",
-      "layer": 2,
-      "access": "venture",
-      "score": 18,
-      "moments": [
-        "funding_round"
-      ]
-    },
-    {
-      "id": "086a2f341eae",
-      "title": "JPMorgan\u2019s Ohio State Deal Shows Evolution of College Sports",
-      "summary": "In 2022, JPMorgan Chase bankers were retained to help Florida State University explore potential private equity funding for its athletic department. Four years later, the bank announced its first spon",
-      "company": "JPMorgan\u2019s Ohio State Deal Shows Evolution",
-      "link": "https://www.sportico.com/business/finance/2026/ohio-state-patch-jpmorgan-chase-million-1234940274/",
-      "date": "Jul 28, 26",
-      "source": "Sportico",
+      "id": "29182d615829",
+      "title": "Ryan Bingham Signs With WME (EXCLUSIVE)",
+      "summary": "Singer-songwriter-actor and \u201cYellowstone\u201d star Ryan Bingham has signed with WME for worldwide representation in music, the company announced on Thursday. He continues to be represented by Jack Whigham",
+      "company": "Ryan Bingham Signs With WME (EXCLUSIVE)",
+      "link": "https://variety.com/2026/music/news/ryan-bingham-signs-with-wme-1236823915/",
+      "date": "Jul 30, 26",
+      "source": "Variety Music",
       "layer": 4,
       "access": "pe",
-      "score": 15,
+      "score": 16,
       "moments": [
-        "pe_investment"
+        "record_deal"
       ]
     },
     {
@@ -299,6 +188,36 @@
       ]
     },
     {
+      "id": "40e6e6a4388e",
+      "title": "MRC backs Nexus Power",
+      "summary": "The investment will support Nexus Power's geographic expansion, targeted acquisitions in design engineering, and team growth. The post MRC backs Nexus Power appeared first on PE Hub.",
+      "company": "MRC",
+      "link": "https://www.pehub.com/mrc-backs-nexus-power/",
+      "date": "Jul 30, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "1670fc64e045",
+      "title": "Elon Musk\u2019s Boring Company reportedly raising funding at a $20B valuation",
+      "summary": "Elon Musk's tunneling startup is reportedly in talks for a major new funding round.",
+      "company": "Elon Musk\u2019s Boring Company",
+      "link": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
+      "date": "Jul 25, 26",
+      "source": "TechCrunch Venture",
+      "layer": 1,
+      "access": "venture",
+      "score": 15,
+      "moments": [
+        "valuation"
+      ]
+    },
+    {
       "id": "49d008a0f11d",
       "title": "Menlo Ventures\u2019 Matt Murphy explains what AI startups founders must do differently",
       "summary": "Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It\u2019s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#16",
@@ -311,6 +230,21 @@
       "score": 15,
       "moments": [
         "company_launch"
+      ]
+    },
+    {
+      "id": "d90a7afbd91a",
+      "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
+      "summary": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.",
+      "company": "Nuclear startup Valar Atomics in talks to",
+      "link": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
+      "date": "Jul 17, 26",
+      "source": "TechCrunch Venture",
+      "layer": 1,
+      "access": "venture",
+      "score": 15,
+      "moments": [
+        "valuation"
       ]
     },
     {
@@ -344,71 +278,56 @@
       ]
     },
     {
-      "id": "ac2f950918da",
-      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-      "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn\u2019t catch.",
-      "company": "AegisAI",
-      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-      "date": "Jul 23, 26",
-      "source": "TechCrunch Startups",
-      "layer": 2,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "eb582a1d5adf",
-      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-      "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
-      "company": "OpenAI",
-      "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-      "date": "Jul 15, 26",
-      "source": "TechCrunch Venture",
-      "layer": 3,
-      "access": "venture",
-      "score": 9,
-      "moments": [
-        "valuation"
-      ]
-    },
-    {
-      "id": "bfdc39c7387b",
-      "title": "Mac Sabbath Serves Up Fall Headlining Dates Before Joining GWAR",
-      "summary": "Mac Sabbath is taking its fast-food-fueled metal spectacle back on the road this fall, serving up a run of headlining... The post Mac Sabbath Serves Up Fall Headlining Dates Before Joining GWAR appear",
-      "company": "Mac Sabbath Serves Up Fall Headlining",
-      "link": "https://www.ticketnews.com/2026/07/mac-sabbath-serves-up-headlining-datews/",
-      "date": "Jul 28, 26",
-      "source": "Ticket News",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "84975ae70c8f",
-      "title": "French DJ and \u2018Nightcall\u2019 star Kavinsky found dead in Paris home",
-      "summary": "The electronic music star performed at the Olympics closing ceremony in 2024 The post French DJ and &#8216;Nightcall&#8217; star Kavinsky found dead in Paris home appeared first on NME.",
-      "company": "French DJ",
-      "link": "https://www.nme.com/news/music/french-dj-kavinsky-found-dead-in-paris-home-3959591?utm_source=rss&utm_medium=rss&utm_campaign=french-dj-kavinsky-found-dead-in-paris-home",
-      "date": "Jul 29, 26",
+      "id": "8041c127dadb",
+      "title": "The Strokes\u2019 \u2018Is This It\u2019 turns 25: Producer Gordon Raphael talks bottling magic and if it could ever happen again",
+      "summary": "The man behind the desk of the NYC icons' first two records tells us about the \"miracle\" of their debut, the scene that it came from, the \"landfill indie\" that followed, and how we don't know how good",
+      "company": "The Strokes\u2019 \u2018Is This It\u2019",
+      "link": "https://www.nme.com/news/music/the-strokes-interview-is-this-it-25-years-gordon-raphael-indie-legacy-future-3959735?utm_source=rss&utm_medium=rss&utm_campaign=the-strokes-interview-is-this-it-25-years-gordon-raphael-indie-legacy-future",
+      "date": "Jul 30, 26",
       "source": "NME",
       "layer": 5,
       "access": "pe",
       "score": 6,
       "moments": [
-        "company_launch"
+        "festival_headliner"
       ]
     },
     {
-      "id": "27bfc1b64fea",
-      "title": "Gemspring-backed Key Line merges with utility services firm Palouse Power",
-      "summary": "Roseburg, Oregon-based Key Line and Quincy, Washington-based Palouse provide construction and maintenance services across electric distribution, transmission, substation, and communications infrastruc",
-      "company": "Gemspring-backed Key Line",
-      "link": "https://www.pehub.com/gemspring-backed-key-line-merges-with-utility-services-firm-palouse-power/",
+      "id": "cc159d6f6f7f",
+      "title": "TSG Consumer to acquire body care brand Saltair",
+      "summary": "Saltair was backed by Prelude Growth Partners. The post TSG Consumer to acquire body care brand Saltair appeared first on PE Hub.",
+      "company": "TSG Consumer to",
+      "link": "https://www.pehub.com/tsg-consumer-to-acquire-body-care-brand-saltair/",
+      "date": "Jul 30, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "43e1f95a90fb",
+      "title": "Exclusive: Blackstone to acquire DarkVision from Koch",
+      "summary": "'DarkVision\u2019s asset integrity services play a vital role in helping customers meet increasing environmental and safety standards, while improving efficiency and utilization of aging existing critical ",
+      "company": "Exclusive",
+      "link": "https://www.pehub.com/exclusive-blackstone-to-carve-out-darkvision-from-koch/",
+      "date": "Jul 30, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "c7a62e8c28c3",
+      "title": "Vista Equity Partners to acquire software firm Quantios from Hg",
+      "summary": "Hg first invested in the business in 2022, then TrustQuay, and in 2023, merged it with ViewPoint, which was owned by EQT, to create Quantios. The post Vista Equity Partners to acquire software firm Qu",
+      "company": "Vista Equity Partners to",
+      "link": "https://www.pehub.com/vista-equity-partners-to-acquire-software-firm-quantios-from-hg/",
       "date": "Jul 29, 26",
       "source": "PE Hub",
       "layer": 5,
@@ -416,6 +335,21 @@
       "score": 6,
       "moments": [
         "acquisition"
+      ]
+    },
+    {
+      "id": "7573a2342639",
+      "title": "GTCR wraps up capital solutions vehicle with $1.25bn raise",
+      "summary": "GTCR has closed its first ever Capital Solutions Fund, bringing in roughly $1.25bn in total commitments across the vehicle and its affiliated entities. The capital came almost entirely from investors ",
+      "company": "GTCR",
+      "link": "https://www.altassets.net/premium/gtcr-wraps-up-capital-solutions-vehicle-with-1-25bn-raise.html",
+      "date": "Jul 30, 26",
+      "source": "AltAssets",
+      "layer": 4,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "company_launch"
       ]
     },
     {
@@ -434,16 +368,16 @@
       ]
     },
     {
-      "id": "9bbc939464d3",
-      "title": "California AG Bonta Calls DOJ\u2019s Live Nation Settlement a \u2018Slap on the Wrist Sweetheart Deal\u2019",
-      "summary": "Bonta pointed to the states\u2019 Ticketmaster monopoly verdict as evidence that federal officials abandoned a viable antitrust case, while attorneys... The post California AG Bonta Calls DOJ\u2019s Live Nation",
-      "company": "California AG Bonta Calls DOJ\u2019s Live",
-      "link": "https://www.ticketnews.com/2026/07/california-ag-bonta-calls-dojs-live-nation-settlement-a-slap-on-the-wrist-sweetheart-deal/",
-      "date": "Jul 28, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 16,
+      "id": "7bb04dd3137a",
+      "title": "Lost Money on Embecta Corp. (EMBC)? Join Class Action Suit Seeking Recovery - Contact SueWallSt",
+      "summary": "Important Notice Regarding Alleged Pen Needle Revenue Misrepresentations That Cost Embecta Investors Over 57% of Share Value NEW YORK, July 30, 2026 /PRNewswire/ -- SueWallSt notifies investors in Emb",
+      "company": "Lost Money",
+      "link": "https://www.prnewswire.com/news-releases/lost-money-on-embecta-corp-embc-join-class-action-suit-seeking-recovery---contact-suewallst-302839041.html",
+      "date": "Jul 30, 26",
+      "source": "PR Newswire",
+      "layer": 2,
+      "access": "public",
+      "score": 13,
       "moments": []
     },
     {
@@ -499,6 +433,19 @@
       "moments": []
     },
     {
+      "id": "84da86e16614",
+      "title": "Anthropic, OpenAI blow past Starbucks, McDonald's amid AI boom",
+      "summary": "Data: Company reports, Funda via \"Key Context\"; Chart: Ben Berkowitz/AxiosAI revenue is accelerating so fast that it's starting to dwarf some of the world's most recognizable brands.Why it matters: AI",
+      "company": "Anthropic OpenAI",
+      "link": "https://www.axios.com/2026/07/28/anthropic-openai-revenue-mcdonalds-starbucks-yum",
+      "date": "Jul 28, 26",
+      "source": "Axios",
+      "layer": 2,
+      "access": "pe",
+      "score": 8,
+      "moments": []
+    },
+    {
       "id": "eb0ed6bc7862",
       "title": "Kalshi Pays Social Account That Makes Anti-Black, Anti-Muslim Posts",
       "summary": "An anonymous X account that frequently posts anti-Black and anti-Muslim messages collects checks from Kalshi, the prediction market operator valued at more than $20 billion. The user, who goes by Wall",
@@ -525,19 +472,6 @@
       "moments": []
     },
     {
-      "id": "6202cbbbb2b4",
-      "title": "Expect More NCAA Lawsuits If Protect College Sports Act Stalls",
-      "summary": "U.S. Senate Majority Leader John Thune (R-S.D.)&#160;acknowledging&#160;that a vote on the Protect College Sports Act (PCSA) is unlikely to happen before the Senate takes a five-week recess beginning ",
-      "company": "Expect More NCAA Lawsuits If Protect",
-      "link": "https://www.sportico.com/law/analysis/2026/protect-college-sports-act-political-legal-future-1234940179/",
-      "date": "Jul 28, 26",
-      "source": "Sportico",
-      "layer": 4,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
       "id": "8f95fdb4c719",
       "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
       "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
@@ -546,19 +480,6 @@
       "date": "May 09, 26",
       "source": "Venues Today",
       "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "9b139fd01d1e",
-      "title": "Raskin Probes Whether Trump Ties Shielded FIFA\u2019s World Cup Ticketing Practices",
-      "summary": "House Judiciary Committee ranking member seeks FIFA\u2019s communications with federal officials about consumer complaints, pricing and third-party sellers as part... The post Raskin Probes Whether Trump T",
-      "company": "Raskin Probes Whether Trump Ties Shielded",
-      "link": "https://www.ticketnews.com/2026/07/raskin-probes-whether-trump-ties-shielded-fifas-world-cup-ticketing-practices/",
-      "date": "Jul 28, 26",
-      "source": "Ticket News",
-      "layer": 3,
       "access": "pe",
       "score": 4,
       "moments": []
