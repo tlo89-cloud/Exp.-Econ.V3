@@ -1,37 +1,53 @@
 {
-  "generated": "2026-07-30T14:12:07.405219+00:00",
+  "generated": "2026-07-31T14:19:05.088544+00:00",
   "total": 33,
   "scraped": [
     {
-      "id": "b7c0838bbb97",
-      "title": "Jump Capital bets bigger on crypto with record $350m fund",
-      "summary": "Jump Capital, the Chicago-founded venture firm established in 2012 alongside Jump Trading, has concluded its seventh fund at $350m. According to Crypto News, this fund marks the biggest vehicle in Jum",
-      "company": "Jump Capital",
-      "link": "https://www.altassets.net/private-equity-news/jump-capital-bets-bigger-on-crypto-with-record-350m-fund.html",
-      "date": "Jul 29, 26",
-      "source": "AltAssets",
+      "id": "f2c856495247",
+      "title": "\u2018He liked to get people\u2019s blood boiling\u2019: metal masters Mastodon on the loss of bandmate Brent Hinds \u2013 and his shocking words before his death",
+      "summary": "The Grammy-winning band had an acrimonious rift with Hinds \u2013 then he died in a motorbike crash. They explain how they\u2019re paying tribute on their new album, and why their love for each other never ende",
+      "company": "\u2018He",
+      "link": "https://www.theguardian.com/music/2026/jul/28/metal-masters-mastodon-on-loss-of-brent-hinds-new-album-marrow-deep-interview",
+      "date": "Jul 28, 26",
+      "source": "Guardian Music",
       "layer": 1,
-      "access": "venture",
-      "score": 18,
+      "access": "pe",
+      "score": 21,
       "moments": [
-        "fund_launch",
-        "company_launch"
+        "album_announcement",
+        "record_breaking"
       ]
     },
     {
-      "id": "53ea6ae7a3e9",
-      "title": "SueWallSt Reminds Shareholders of a Lead Plaintiff Deadline of August 4, 2026 in PicS N.V. Lawsuit - PICS",
-      "summary": "Pension Funds and Asset Managers Holding PicS N.V. Shares From the $434 Million IPO Face Fiduciary Obligations to Evaluate Recovery Options as Credit Portfolio Losses Exceed $10 Per Share NEW YORK, Ju",
-      "company": "SueWallSt Reminds Shareholders",
-      "link": "https://www.prnewswire.com/news-releases/suewallst-reminds-shareholders-of-a-lead-plaintiff-deadline-of-august-4-2026-in-pics-nv-lawsuit---pics-302839030.html",
+      "id": "f245fcebe143",
+      "title": "Fcukers Plot Fall North American Headlining Shows",
+      "summary": "The New York-based duo Fcukers have announced a round of tour dates across North America this fall. Following a pair... The post Fcukers Plot Fall North American Headlining Shows appeared first on Tic",
+      "company": "Fcukers Plot Fall North American Headlining",
+      "link": "https://www.ticketnews.com/2026/07/fcukers-plot-fall-north-american-tour/",
       "date": "Jul 30, 26",
-      "source": "PR Newswire",
+      "source": "Ticket News",
       "layer": 5,
-      "access": "public",
+      "access": "pe",
       "score": 16,
       "moments": [
-        "ipo",
-        "pe_investment"
+        "tour_announcement",
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "d26be015022e",
+      "title": "Lorde Brings Out Charli XCX, Takes Headlining Victory Lap at Lollapalooza 2026",
+      "summary": "The singer returned to the annual Chicago fest after her set was cut short in 2017",
+      "company": "Lorde Brings Out Charli XCX Takes",
+      "link": "https://www.rollingstone.com/music/music-live-reviews/lorde-performance-lollapalooza-2026-1235594679/",
+      "date": "Jul 31, 26",
+      "source": "Rolling Stone Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "surprise_appearance",
+        "festival_headliner"
       ]
     },
     {
@@ -67,49 +83,35 @@
       ]
     },
     {
-      "id": "a51cda94db20",
-      "title": "See Smashing Pumpkins Bring Out \u2018Brady Bunch\u2019 Actor for \u2018It\u2019s a Sunshine Day\u2019 Cover",
-      "summary": "Two months after Billy Corgan interviewed actor Barry Williams on his podcast, the pair reunite at Lollapalooza aftershow at Chicago's Riviera Theatre",
-      "company": "See Smashing Pumpkins Bring Out \u2018Brady",
-      "link": "https://www.rollingstone.com/music/music-news/smashing-pumpkins-greg-brady-bunch-actor-its-a-sunshine-day-1235600863/",
-      "date": "Jul 30, 26",
+      "id": "8e78d5ded628",
+      "title": "Sombr Brings Out 5 Seconds of Summer During High-Octane Lollapalooza Set",
+      "summary": "The musicians surprise performed \u201cShe Looks So Perfect\u201d for the fest\u2019s massive crowd Thursday night",
+      "company": "Sombr Brings Out",
+      "link": "https://www.rollingstone.com/music/music-news/sombr-5-seconds-of-summer-performance-lollapalooza-2026-1235600361/",
+      "date": "Jul 31, 26",
       "source": "Rolling Stone Music",
       "layer": 1,
       "access": "pe",
-      "score": 10,
+      "score": 12,
       "moments": [
         "surprise_appearance",
         "festival_headliner"
       ]
     },
     {
-      "id": "e9c36d3008c4",
-      "title": "Knitting Factory Entertainment Acquires Minority Stake in Does Entertainment, Forming Strategic Growth Partnership to Expand National Live...",
-      "summary": "Companies Align to Accelerate Venue Development, Talent Buying, Concert Promotion and Strategic Growth Across North America Los Angeles, CA / Wilmington, NC, July 14, 2026 \u2013&#160;Knitting Factory Ente",
-      "company": "",
-      "link": "https://venuestoday.com/knitting-factory-entertainment-acquires-minority-stake-in-does-entertainment-forming-strategic-growth-partnership-to-expand-national-live-entertainment-platform/",
-      "date": "Jul 15, 26",
-      "source": "Venues Today",
-      "layer": 2,
-      "access": "pe",
-      "score": 24,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "f86c63166755",
-      "title": "RISE to Feature Terri Carmichael Jackson, Jessica Caggiano on WNBA",
-      "summary": "During RISE Women&#8217;s Sports last fall, WNBPA Executive Director Terri Carmichael Jackson outlined a vision for a transformational future for the WNBA. A future where player compensation, investme",
-      "company": "RISE",
-      "link": "https://www.sportico.com/business/sports/2026/rise-to-feature-wnba-leaders-talking-new-cba-1234940287/",
+      "id": "a51cda94db20",
+      "title": "See Smashing Pumpkins Bring Out \u2018Brady Bunch\u2019 Actor for \u2018It\u2019s a Sunshine Day\u2019 Cover",
+      "summary": "Two months after Billy Corgan interviewed actor Barry Williams on his podcast, the pair reunite at Lollapalooza aftershow at Chicago\u2019s Riviera Theatre",
+      "company": "See Smashing Pumpkins Bring Out \u2018Brady",
+      "link": "https://www.rollingstone.com/music/music-news/smashing-pumpkins-greg-brady-bunch-actor-its-a-sunshine-day-1235600863/",
       "date": "Jul 30, 26",
-      "source": "Sportico",
+      "source": "Rolling Stone News",
       "layer": 1,
       "access": "pe",
-      "score": 21,
+      "score": 10,
       "moments": [
-        "rights_deal"
+        "surprise_appearance",
+        "festival_headliner"
       ]
     },
     {
@@ -158,63 +160,18 @@
       ]
     },
     {
-      "id": "5d0feace7e8e",
-      "title": "World Cup Boycott Proposed as Opposition to Controversial FIFA Private Investment Plan Grows",
-      "summary": "Opposition is growing in the soccer world to a plan by the sport\u2019s governing body, FIFA, to spin off its events, principally the World Cup, as a separate commercial entity and invite investors to take",
-      "company": "World Cup Boycott Proposed",
-      "link": "https://variety.com/2026/biz/global/world-cup-boycott-opposition-fifa-plan-1236823227/",
-      "date": "Jul 29, 26",
-      "source": "Variety Biz",
-      "layer": 5,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "2f7c328d33bb",
-      "title": "David Ellison Addresses Paramount-Warner Bros. Merger Delay Amid State AGs\u2019 Lawsuit in Staff Memo: \u2018The Facts and the Law Are on Our Side\u2019",
-      "summary": "Paramount CEO David Ellison, in a companywide memo, sought to project confidence that his $111 billion takeover of Warner Bros. Discovery will &#8212; eventually &#8212; cross the finish line. On Frid",
-      "company": "",
-      "link": "https://variety.com/2026/film/news/david-ellison-memo-paramount-warner-bros-merger-delay-state-lawsuit-1236821825/",
-      "date": "Jul 27, 26",
-      "source": "Variety Biz",
-      "layer": 3,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "40e6e6a4388e",
-      "title": "MRC backs Nexus Power",
-      "summary": "The investment will support Nexus Power's geographic expansion, targeted acquisitions in design engineering, and team growth. The post MRC backs Nexus Power appeared first on PE Hub.",
-      "company": "MRC",
-      "link": "https://www.pehub.com/mrc-backs-nexus-power/",
-      "date": "Jul 30, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "1670fc64e045",
-      "title": "Elon Musk\u2019s Boring Company reportedly raising funding at a $20B valuation",
-      "summary": "Elon Musk's tunneling startup is reportedly in talks for a major new funding round.",
-      "company": "Elon Musk\u2019s Boring Company",
-      "link": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
-      "date": "Jul 25, 26",
-      "source": "TechCrunch Venture",
+      "id": "75b54460f8da",
+      "title": "Buffalo Traffic Jam Were Just Two Dudes in Montana. Now They\u2019re Headliners",
+      "summary": "On the strength of streaming single \u201cFool\u2019s Gold,\u201d the band release their debut album and hit the road with a fresh brand of folk-country",
+      "company": "Buffalo Traffic Jam Were Just Two",
+      "link": "https://www.rollingstone.com/music/music-features/buffalo-traffic-jam-fools-gold-1235601218/",
+      "date": "Jul 31, 26",
+      "source": "Rolling Stone Music",
       "layer": 1,
-      "access": "venture",
+      "access": "pe",
       "score": 15,
       "moments": [
-        "valuation"
+        "festival_headliner"
       ]
     },
     {
@@ -233,33 +190,108 @@
       ]
     },
     {
-      "id": "d90a7afbd91a",
-      "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
-      "summary": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.",
-      "company": "Nuclear startup Valar Atomics in talks to",
-      "link": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
-      "date": "Jul 17, 26",
-      "source": "TechCrunch Venture",
-      "layer": 1,
-      "access": "venture",
-      "score": 15,
+      "id": "a62079a4dc97",
+      "title": "Goldman Sachs, Brightstar, Health Wave target senior care; Sustainability trends incentivize Apax\u2019s \u20ac1.5bn medical packaging deal",
+      "summary": "Supply and demand gaps in senior care have created dealmaking opportunitie, and investors such as Goldman Sachs, Brightstar and Health Wave are among the firms transacting in the segment; a look at a ",
+      "company": "Goldman Sachs Brightstar Health Wave",
+      "link": "https://www.pehub.com/goldman-sachs-brightstar-health-wave-target-senior-care-sustainability-trends-incentivize-apaxs-e1-5bn-medical-packaging-deal/",
+      "date": "Jul 31, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
       "moments": [
-        "valuation"
+        "acquisition"
       ]
     },
     {
-      "id": "ed24e331be68",
-      "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
-      "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
-      "company": "Niloufar Banisaied",
-      "link": "https://venuestoday.com/niloufar-banisaied-is-bringing-timeless-design-and-the-guest-experience-at-the-forefront/",
-      "date": "Jun 09, 26",
-      "source": "Venues Today",
+      "id": "3405401ef9b6",
+      "title": "Apheon-backed Haudecoeur acquires Natur Food and Heliadis in European push",
+      "summary": "Haudecoeur specializes in importing and distributing world food products in France, and the two add-ons mark its first international expansion into Germany and Belgium. The post Apheon-backed Haudecoe",
+      "company": "Apheon-backed Haudecoeur",
+      "link": "https://www.pehub.com/apheon-backed-haudecoeur-acquires-natur-food-and-heliadis-in-european-push/",
+      "date": "Jul 31, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "cb292c637b05",
+      "title": "Blackstone and Permira-backed IPOs deliver muted market debut",
+      "summary": "Private equity firms Blackstone and Permira received a subdued reception from public market investors on Thursday as portfolio companies Jersey Mike's and Reformation made their stock market debuts, a",
+      "company": "Blackstone",
+      "link": "https://www.privateequitywire.co.uk/blackstone-and-permira-backed-ipos-deliver-muted-market-debut/",
+      "date": "Jul 31, 26",
+      "source": "PE Wire",
+      "layer": 5,
+      "access": "public",
+      "score": 12,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "5e32c28a5ca5",
+      "title": "Omers appoints CAAT exec to lead private equity funds strategy",
+      "summary": "Omers has appointed Adam Buzanis as head of funds as the Canadian pension fund continues to expand its private equity fund investment platform and increase its focus on co-investments and external man",
+      "company": "Omers",
+      "link": "https://www.privateequitywire.co.uk/omers-appoints-caat-exec-to-lead-private-equity-funds-strategy/",
+      "date": "Jul 31, 26",
+      "source": "PE Wire",
       "layer": 4,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "d101ce73e65b",
+      "title": "PE targets tailwinds in senior care: 7 deals",
+      "summary": "Goldman Sachs, Brightstar Capital, Hidden River and Pacific Avenue are among the PE firms transacting in the senior care market. The post PE targets tailwinds in senior care: 7 deals appeared first on",
+      "company": "PE targets tailwinds in senior care",
+      "link": "https://www.pehub.com/pe-targets-tailwinds-in-senior-care-7-deals/",
+      "date": "Jul 31, 26",
+      "source": "PE Hub",
+      "layer": 2,
       "access": "pe",
       "score": 11,
       "moments": [
-        "company_launch"
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "6e74bcb163ac",
+      "title": "Blue Jackets Merge TV and Radio Broadcasts",
+      "summary": "Jerome Miron-Imagn Images",
+      "company": "Blue Jackets Merge TV",
+      "link": "https://frontofficesports.com/blue-jackets-merge-radio-tv/",
+      "date": "Jul 30, 26",
+      "source": "Front Office Sports",
+      "layer": 3,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "ca80459e9c61",
+      "title": "Can Mary Beth Barone Revive Feminist Standup?",
+      "summary": "A decade ago, Amy Schumer became the only woman to headline Madison Square Garden. With a new Netflix special, Barone is looking to break out in a very different atmosphere.",
+      "company": "Can Mary Beth Barone Revive Feminist",
+      "link": "https://www.nytimes.com/2026/07/31/arts/television/mary-beth-barone-galaxy-brain-comedy.html",
+      "date": "Jul 31, 26",
+      "source": "NYT Arts",
+      "layer": 3,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "festival_headliner"
       ]
     },
     {
@@ -278,63 +310,48 @@
       ]
     },
     {
-      "id": "8041c127dadb",
-      "title": "The Strokes\u2019 \u2018Is This It\u2019 turns 25: Producer Gordon Raphael talks bottling magic and if it could ever happen again",
-      "summary": "The man behind the desk of the NYC icons' first two records tells us about the \"miracle\" of their debut, the scene that it came from, the \"landfill indie\" that followed, and how we don't know how good",
-      "company": "The Strokes\u2019 \u2018Is This It\u2019",
-      "link": "https://www.nme.com/news/music/the-strokes-interview-is-this-it-25-years-gordon-raphael-indie-legacy-future-3959735?utm_source=rss&utm_medium=rss&utm_campaign=the-strokes-interview-is-this-it-25-years-gordon-raphael-indie-legacy-future",
-      "date": "Jul 30, 26",
-      "source": "NME",
-      "layer": 5,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "cc159d6f6f7f",
-      "title": "TSG Consumer to acquire body care brand Saltair",
-      "summary": "Saltair was backed by Prelude Growth Partners. The post TSG Consumer to acquire body care brand Saltair appeared first on PE Hub.",
-      "company": "TSG Consumer to",
-      "link": "https://www.pehub.com/tsg-consumer-to-acquire-body-care-brand-saltair/",
-      "date": "Jul 30, 26",
+      "id": "8522f38de277",
+      "title": "Platinum Equity invests in lighting company LMPG",
+      "summary": "LMPG founder Fran\u00e7ois-Xavier Souvay, W Investments, and president and CEO Peter Timotheatos and the company\u2019s management team are rolling their equity and will remain significant investors in the busi",
+      "company": "Platinum Equity",
+      "link": "https://www.pehub.com/platinum-equity-invests-in-lighting-company-lmpg/",
+      "date": "Jul 31, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
-      "score": 6,
+      "score": 9,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "8e08f5cc458f",
+      "title": "KKR-backed Spectris acquires sensor business Sentech",
+      "summary": "Based in London, Spectris is a supplier of high-tech precision instrumentation, test equipment, and software for industrial applications. The post KKR-backed Spectris acquires sensor business Sentech ",
+      "company": "KKR-backed Spectris",
+      "link": "https://www.pehub.com/kkr-backed-spectris-acquires-sensor-business-sentech/",
+      "date": "Jul 31, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
       "moments": [
         "acquisition"
       ]
     },
     {
-      "id": "43e1f95a90fb",
-      "title": "Exclusive: Blackstone to acquire DarkVision from Koch",
-      "summary": "'DarkVision\u2019s asset integrity services play a vital role in helping customers meet increasing environmental and safety standards, while improving efficiency and utilization of aging existing critical ",
-      "company": "Exclusive",
-      "link": "https://www.pehub.com/exclusive-blackstone-to-carve-out-darkvision-from-koch/",
-      "date": "Jul 30, 26",
-      "source": "PE Hub",
+      "id": "aa03e4b4f30e",
+      "title": "KKR posts record PE exits as second-quarter earnings beat expectations",
+      "summary": "TOP STORY: KKR delivered stronger-than-expected second-quarter results after completing a record level of private equity exits, highlighting the firm's ability to generate liquidity for investors desp",
+      "company": "KKR",
+      "link": "https://www.privateequitywire.co.uk/kkr-posts-record-pe-exits-as-second-quarter-earnings-beat-expectations/",
+      "date": "Jul 31, 26",
+      "source": "PE Wire",
       "layer": 5,
-      "access": "pe",
-      "score": 6,
+      "access": "public",
+      "score": 9,
       "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "c7a62e8c28c3",
-      "title": "Vista Equity Partners to acquire software firm Quantios from Hg",
-      "summary": "Hg first invested in the business in 2022, then TrustQuay, and in 2023, merged it with ViewPoint, which was owned by EQT, to create Quantios. The post Vista Equity Partners to acquire software firm Qu",
-      "company": "Vista Equity Partners to",
-      "link": "https://www.pehub.com/vista-equity-partners-to-acquire-software-firm-quantios-from-hg/",
-      "date": "Jul 29, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "acquisition"
+        "pe_investment"
       ]
     },
     {
@@ -353,41 +370,78 @@
       ]
     },
     {
-      "id": "f3a1d1554548",
-      "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
-      "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
-      "company": "Navigating",
-      "link": "https://venuestoday.com/navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026/",
-      "date": "Apr 22, 26",
-      "source": "Venues Today",
+      "id": "9b317e6299fe",
+      "title": "Live Nation Revenue Hits $7.7B as DOJ Antitrust Fight Looms",
+      "summary": "Live Nation\u2019s concert machine kept roaring in the second quarter, delivering record attendance, accelerating ticket sales and another sizable revenue... The post Live Nation Revenue Hits $7.7B as DOJ ",
+      "company": "Live Nation Revenue Hits",
+      "link": "https://www.ticketnews.com/2026/07/live-nation-revenue-7-7-billion-doj-antitrust-fight-looms/",
+      "date": "Jul 30, 26",
+      "source": "Ticket News",
       "layer": 3,
       "access": "pe",
-      "score": 6,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "7bb04dd3137a",
-      "title": "Lost Money on Embecta Corp. (EMBC)? Join Class Action Suit Seeking Recovery - Contact SueWallSt",
-      "summary": "Important Notice Regarding Alleged Pen Needle Revenue Misrepresentations That Cost Embecta Investors Over 57% of Share Value NEW YORK, July 30, 2026 /PRNewswire/ -- SueWallSt notifies investors in Emb",
-      "company": "Lost Money",
-      "link": "https://www.prnewswire.com/news-releases/lost-money-on-embecta-corp-embc-join-class-action-suit-seeking-recovery---contact-suewallst-302839041.html",
-      "date": "Jul 30, 26",
-      "source": "PR Newswire",
-      "layer": 2,
-      "access": "public",
-      "score": 13,
+      "score": 27,
       "moments": []
     },
     {
-      "id": "65218509674d",
-      "title": "HYBE Smashes Quarterly Records as BTS Comeback Powers $993M Revenue Surge",
-      "summary": "HYBE has posted the biggest quarter in its history, fueled by BTS\u2019 blockbuster comeback, accelerating tour activity and continued growth... The post HYBE Smashes Quarterly Records as BTS Comeback Powe",
-      "company": "HYBE Smashes Quarterly Records",
-      "link": "https://www.ticketnews.com/2026/07/hybe-smashes-records-bts-comeback-powers-surge/",
-      "date": "Jul 29, 26",
+      "id": "4857407ef453",
+      "title": "DC Open Quadruples Revenues: How It Rewrote Its Economics",
+      "summary": "WASHINGTON D.C.\u2014The Mubadala DC Open has quadrupled its revenues since 2019, the tennis tournament&#8217;s chairman Mark Ein told Sportico. That is due to increases across all revenue categories, incl",
+      "company": "DC Open Quadruples Revenues",
+      "link": "https://www.sportico.com/leagues/tennis/2026/dc-open-tennis-prize-money-revenue-1234940642/",
+      "date": "Jul 31, 26",
+      "source": "Sportico",
+      "layer": 2,
+      "access": "pe",
+      "score": 15,
+      "moments": []
+    },
+    {
+      "id": "4ab91a9629d5",
+      "title": "Bollen Green: Maker of Viral Fitness Toy Branches Out to Soccer",
+      "summary": "The 2026 World Cup drew more fans than any of its predecessors, shattered U.S. viewership records in multiple matches and, when the ink dries, is estimated to have generated $15 billion in revenue, bl",
+      "company": "Bollen Green",
+      "link": "https://www.sportico.com/business/commerce/2026/boxbollen-soccer-fitness-toy-product-footbollen-1234940473/",
+      "date": "Jul 30, 26",
+      "source": "Sportico",
+      "layer": 2,
+      "access": "pe",
+      "score": 14,
+      "moments": []
+    },
+    {
+      "id": "8c9de1e55b7d",
+      "title": "Amazon Q2 Ad Revenue Up 26% as Tech Giant\u2019s Profit Booms to $62.6 Billion on Anthropic Investments",
+      "summary": "Amazon reported its second-quarter 2026 earnings Thursday, revealing it beat Wall Street&#8217;s estimates with more than $200 billion in revenue for the April-June period. Advertising services revenu",
+      "company": "Amazon Q2 Ad Revenue Up",
+      "link": "https://variety.com/2026/digital/news/amazon-ad-sales-q2-profit-62-billion-anthropic-1236824567/",
+      "date": "Jul 30, 26",
+      "source": "Variety Biz",
+      "layer": 2,
+      "access": "public",
+      "score": 14,
+      "moments": []
+    },
+    {
+      "id": "c8158080f5c6",
+      "title": "Live Nation Unveils 21,000-Capacity S\u00e3o Paulo Arena",
+      "summary": "Live Nation is making a major venue play in Brazil, partnering with Cidade Center Norte to develop what the companies... The post Live Nation Unveils 21,000-Capacity S\u00e3o Paulo Arena appeared first on ",
+      "company": "Live Nation Unveils",
+      "link": "https://www.ticketnews.com/2026/07/live-nation-unveils-21000-capacity-sao-paulo-arena/",
+      "date": "Jul 30, 26",
       "source": "Ticket News",
+      "layer": 2,
+      "access": "pe",
+      "score": 14,
+      "moments": []
+    },
+    {
+      "id": "d40b957f0fc5",
+      "title": "Sony Pictures Revenue Drops 13% in June Quarter, Music Segment Sales Jump 21%",
+      "summary": "Sony Pictures Entertainment posted a sales decline for the June 2026 quarter, offset by growth at Crunchyroll, while Sony&#8217;s music segment saw revenue increase 21%. The PlayStation games unit had",
+      "company": "Sony Pictures Revenue Drops",
+      "link": "https://variety.com/2026/film/news/sony-pictures-earnings-june-2026-music-playstation-sales-1236824839/",
+      "date": "Jul 31, 26",
+      "source": "Variety Biz",
       "layer": 2,
       "access": "pe",
       "score": 13,
@@ -407,81 +461,29 @@
       "moments": []
     },
     {
-      "id": "a12c03aaf526",
-      "title": "Royals Stadium\u2019s $600M in City Funding Faces Local Opposition",
-      "summary": "Rick Osentoski-Imagn Images",
-      "company": "Royals Stadium\u2019s",
-      "link": "https://frontofficesports.com/royals-stadiums-600m-in-city-funding-faces-local-opposition/",
-      "date": "Jul 28, 26",
-      "source": "Front Office Sports",
-      "layer": 2,
-      "access": "pe",
-      "score": 10,
-      "moments": []
-    },
-    {
-      "id": "9238350fcd3e",
-      "title": "With Dodger Stadium show, Fuerza Regida are living out their Mexican American dreams",
-      "summary": "In June, the San Bernardino band embarked on its This Is Our Dream stadium tour across nine U.S. cities. The tour does more than showcase the band's recent mainstream success \u2014 it honors the years of ",
-      "company": "With Dodger Stadium",
-      "link": "https://www.latimes.com/delos/story/2026-07-24/fuerza-regida-dodger-stadium-this-is-our-dream-tour-interview",
-      "date": "Jul 24, 26",
-      "source": "LA Times Music",
-      "layer": 2,
-      "access": "pe",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "84da86e16614",
-      "title": "Anthropic, OpenAI blow past Starbucks, McDonald's amid AI boom",
-      "summary": "Data: Company reports, Funda via \"Key Context\"; Chart: Ben Berkowitz/AxiosAI revenue is accelerating so fast that it's starting to dwarf some of the world's most recognizable brands.Why it matters: AI",
-      "company": "Anthropic OpenAI",
-      "link": "https://www.axios.com/2026/07/28/anthropic-openai-revenue-mcdonalds-starbucks-yum",
-      "date": "Jul 28, 26",
-      "source": "Axios",
-      "layer": 2,
-      "access": "pe",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "eb0ed6bc7862",
-      "title": "Kalshi Pays Social Account That Makes Anti-Black, Anti-Muslim Posts",
-      "summary": "An anonymous X account that frequently posts anti-Black and anti-Muslim messages collects checks from Kalshi, the prediction market operator valued at more than $20 billion. The user, who goes by Wall",
-      "company": "Kalshi Pays Social Account That Makes",
-      "link": "https://www.sportico.com/business/sports-betting/2026/kalshi-anti-muslim-anti-black-posts-social-media-affiliate-1234940266/",
-      "date": "Jul 28, 26",
-      "source": "Sportico",
-      "layer": 3,
-      "access": "pe",
-      "score": 7,
-      "moments": []
-    },
-    {
-      "id": "8a1160d4967a",
-      "title": "Gotham Sports App to Wind Down as MSG, YES Network Secure DAZN Pact",
-      "summary": "Two years after the launch of the Gotham Sports app, YES Network and MSG Networks have decided to pull the plug on their joint streaming venture. In lieu of any further investment in the collaboration",
-      "company": "Gotham Sports App",
-      "link": "https://www.sportico.com/business/media/2026/msg-yes-network-dazn-gotham-sports-app-1234940378/",
-      "date": "Jul 29, 26",
-      "source": "Sportico",
-      "layer": 3,
-      "access": "venture",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "8f95fdb4c719",
-      "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
-      "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
-      "company": "Global Times",
-      "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/",
-      "date": "May 09, 26",
-      "source": "Venues Today",
+      "id": "e7d5f449d604",
+      "title": "Boy George Drops Out of London \u2018Jesus Christ Superstar\u2019 Production Following Backlash to Pro-Israel Song",
+      "summary": "Boy George has dropped out of a London production of &#8220;Jesus Christ Superstar&#8221; just days after releasing the controversial pro-Israel song &#8220;We Will Dance Again.&#8221; Paul Kemsley, G",
+      "company": "Boy George Drops Out",
+      "link": "https://variety.com/2026/music/news/boy-george-drops-out-jesus-christ-superstar-pro-israel-song-1236824746/",
+      "date": "Jul 30, 26",
+      "source": "Variety Music",
       "layer": 4,
       "access": "pe",
-      "score": 4,
+      "score": 8,
+      "moments": []
+    },
+    {
+      "id": "f832f5e84b2b",
+      "title": "Resale Marketplace Leaders Examine AI Trends, Evolution of How Consumers Find and Buy Tickets at WTC",
+      "summary": "Executives from TicketNetwork, Gametime, TickPick, AXS, Automatiq and SeatGeek said artificial intelligence will change ticket discovery and distribution, while placing... The post Resale Marketplace ",
+      "company": "Resale Marketplace Leaders Examine AI Trends",
+      "link": "https://www.ticketnews.com/2026/07/resale-marketplace-leaders-examine-ai-trends-evolution-of-how-consumers-find-and-buy-tickets-at-wtc/",
+      "date": "Jul 30, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 6,
       "moments": []
     }
   ]
