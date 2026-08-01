@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-31T14:19:05.088544+00:00",
-  "total": 33,
+  "generated": "2026-08-01T13:37:10.345117+00:00",
+  "total": 40,
   "scraped": [
     {
       "id": "f2c856495247",
@@ -19,32 +19,16 @@
       ]
     },
     {
-      "id": "f245fcebe143",
-      "title": "Fcukers Plot Fall North American Headlining Shows",
-      "summary": "The New York-based duo Fcukers have announced a round of tour dates across North America this fall. Following a pair... The post Fcukers Plot Fall North American Headlining Shows appeared first on Tic",
-      "company": "Fcukers Plot Fall North American Headlining",
-      "link": "https://www.ticketnews.com/2026/07/fcukers-plot-fall-north-american-tour/",
-      "date": "Jul 30, 26",
-      "source": "Ticket News",
-      "layer": 5,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "tour_announcement",
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "d26be015022e",
-      "title": "Lorde Brings Out Charli XCX, Takes Headlining Victory Lap at Lollapalooza 2026",
-      "summary": "The singer returned to the annual Chicago fest after her set was cut short in 2017",
-      "company": "Lorde Brings Out Charli XCX Takes",
-      "link": "https://www.rollingstone.com/music/music-live-reviews/lorde-performance-lollapalooza-2026-1235594679/",
-      "date": "Jul 31, 26",
-      "source": "Rolling Stone Music",
+      "id": "3f3ef789dfe8",
+      "title": "Watch The Smashing Pumpkins bring out Olivia Rodrigo and Yungblud for Lollapalooza 2026 headline set",
+      "summary": "Melissa Auf der Maur also joined the band for their first appearance at their hometown festival in 32 years The post Watch The Smashing Pumpkins bring out Olivia Rodrigo and Yungblud for Lollapalooza ",
+      "company": "Watch The Smashing Pumpkins",
+      "link": "https://www.nme.com/news/music/watch-the-smashing-pumpkins-bring-out-olivia-rodrigo-and-yungblud-for-lollapalooza-2026-headline-set-3960162?utm_source=rss&utm_medium=rss&utm_campaign=watch-the-smashing-pumpkins-bring-out-olivia-rodrigo-and-yungblud-for-lollapalooza-2026-headline-set",
+      "date": "Aug 01, 26",
+      "source": "NME",
       "layer": 1,
       "access": "pe",
-      "score": 15,
+      "score": 20,
       "moments": [
         "surprise_appearance",
         "festival_headliner"
@@ -83,35 +67,33 @@
       ]
     },
     {
-      "id": "8e78d5ded628",
-      "title": "Sombr Brings Out 5 Seconds of Summer During High-Octane Lollapalooza Set",
-      "summary": "The musicians surprise performed \u201cShe Looks So Perfect\u201d for the fest\u2019s massive crowd Thursday night",
-      "company": "Sombr Brings Out",
-      "link": "https://www.rollingstone.com/music/music-news/sombr-5-seconds-of-summer-performance-lollapalooza-2026-1235600361/",
-      "date": "Jul 31, 26",
-      "source": "Rolling Stone Music",
-      "layer": 1,
+      "id": "e9c36d3008c4",
+      "title": "Knitting Factory Entertainment Acquires Minority Stake in Does Entertainment, Forming Strategic Growth Partnership to Expand National Live...",
+      "summary": "Companies Align to Accelerate Venue Development, Talent Buying, Concert Promotion and Strategic Growth Across North America Los Angeles, CA / Wilmington, NC, July 14, 2026 \u2013&#160;Knitting Factory Ente",
+      "company": "",
+      "link": "https://venuestoday.com/knitting-factory-entertainment-acquires-minority-stake-in-does-entertainment-forming-strategic-growth-partnership-to-expand-national-live-entertainment-platform/",
+      "date": "Jul 15, 26",
+      "source": "Venues Today",
+      "layer": 2,
       "access": "pe",
-      "score": 12,
+      "score": 24,
       "moments": [
-        "surprise_appearance",
-        "festival_headliner"
+        "acquisition"
       ]
     },
     {
-      "id": "a51cda94db20",
-      "title": "See Smashing Pumpkins Bring Out \u2018Brady Bunch\u2019 Actor for \u2018It\u2019s a Sunshine Day\u2019 Cover",
-      "summary": "Two months after Billy Corgan interviewed actor Barry Williams on his podcast, the pair reunite at Lollapalooza aftershow at Chicago\u2019s Riviera Theatre",
-      "company": "See Smashing Pumpkins Bring Out \u2018Brady",
-      "link": "https://www.rollingstone.com/music/music-news/smashing-pumpkins-greg-brady-bunch-actor-its-a-sunshine-day-1235600863/",
-      "date": "Jul 30, 26",
-      "source": "Rolling Stone News",
+      "id": "57e053f5af7c",
+      "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
+      "summary": "The new funding brings Index's total available investing capital to $3.5 billion.",
+      "company": "Fresh",
+      "link": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
+      "date": "Jul 31, 26",
+      "source": "TechCrunch Venture",
       "layer": 1,
-      "access": "pe",
-      "score": 10,
+      "access": "venture",
+      "score": 18,
       "moments": [
-        "surprise_appearance",
-        "festival_headliner"
+        "funding_round"
       ]
     },
     {
@@ -145,33 +127,33 @@
       ]
     },
     {
-      "id": "29182d615829",
-      "title": "Ryan Bingham Signs With WME (EXCLUSIVE)",
-      "summary": "Singer-songwriter-actor and \u201cYellowstone\u201d star Ryan Bingham has signed with WME for worldwide representation in music, the company announced on Thursday. He continues to be represented by Jack Whigham",
-      "company": "Ryan Bingham Signs With WME (EXCLUSIVE)",
-      "link": "https://variety.com/2026/music/news/ryan-bingham-signs-with-wme-1236823915/",
-      "date": "Jul 30, 26",
-      "source": "Variety Music",
-      "layer": 4,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "record_deal"
-      ]
-    },
-    {
-      "id": "75b54460f8da",
-      "title": "Buffalo Traffic Jam Were Just Two Dudes in Montana. Now They\u2019re Headliners",
-      "summary": "On the strength of streaming single \u201cFool\u2019s Gold,\u201d the band release their debut album and hit the road with a fresh brand of folk-country",
-      "company": "Buffalo Traffic Jam Were Just Two",
-      "link": "https://www.rollingstone.com/music/music-features/buffalo-traffic-jam-fools-gold-1235601218/",
+      "id": "805247f04d05",
+      "title": "AI Studio Asteria Strikes Strategic Partnership with Virtual Production Studio ZeroSpace (EXCLUSIVE)",
+      "summary": "Asteria, the AI studio co-founded by filmmaker Bryn Mooser and Natasha Lyonne, has struck a strategic partnership with ZeroSpace, a virtual production studio, in the hopes of transforming hybrid model",
+      "company": "",
+      "link": "https://variety.com/2026/biz/news/ai-studio-asteria-strikes-strategic-partnership-zerospace-1236825083/",
       "date": "Jul 31, 26",
-      "source": "Rolling Stone Music",
-      "layer": 1,
+      "source": "Variety Biz",
+      "layer": 4,
       "access": "pe",
       "score": 15,
       "moments": [
-        "festival_headliner"
+        "company_launch"
+      ]
+    },
+    {
+      "id": "1670fc64e045",
+      "title": "Elon Musk\u2019s Boring Company reportedly raising funding at a $20B valuation",
+      "summary": "Elon Musk's tunneling startup is reportedly in talks for a major new funding round.",
+      "company": "Elon Musk\u2019s Boring Company",
+      "link": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
+      "date": "Jul 25, 26",
+      "source": "TechCrunch Venture",
+      "layer": 1,
+      "access": "venture",
+      "score": 15,
+      "moments": [
+        "valuation"
       ]
     },
     {
@@ -187,6 +169,36 @@
       "score": 15,
       "moments": [
         "company_launch"
+      ]
+    },
+    {
+      "id": "42d07eb4487b",
+      "title": "North West\u2019s Debut Headlining Tour Canceled Days Before Scheduled Start",
+      "summary": "North West will no longer be embarking on her debut headlining run. The 13-year-old singer was scheduled to co-headline the... The post North West&#8217;s Debut Headlining Tour Canceled Days Before Sc",
+      "company": "North West\u2019s Debut Headlining Tour Canceled",
+      "link": "https://www.ticketnews.com/2026/07/north-west-debut-headlining-tour-canceled-days-before-start/",
+      "date": "Jul 31, 26",
+      "source": "Ticket News",
+      "layer": 5,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "b55e9c432792",
+      "title": "CBS-NFL Renewal Urgency Eases With Paramount-Warner Deal Stalled",
+      "summary": "In a bid to buck up Paramount Skydance staffers who may have misgivings about the company\u2019s decision to put its $110 billion acquisition of Warner Bros. Discovery on hold, Paramount Skydance CEO David",
+      "company": "",
+      "link": "https://www.sportico.com/business/media/2026/cbs-nfl-rights-renewal-paramount-skydance-wbd-drama-1234940621/",
+      "date": "Jul 31, 26",
+      "source": "Sportico",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "acquisition"
       ]
     },
     {
@@ -265,6 +277,21 @@
       ]
     },
     {
+      "id": "ed24e331be68",
+      "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
+      "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
+      "company": "Niloufar Banisaied",
+      "link": "https://venuestoday.com/niloufar-banisaied-is-bringing-timeless-design-and-the-guest-experience-at-the-forefront/",
+      "date": "Jun 09, 26",
+      "source": "Venues Today",
+      "layer": 4,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
       "id": "6e74bcb163ac",
       "title": "Blue Jackets Merge TV and Radio Broadcasts",
       "summary": "Jerome Miron-Imagn Images",
@@ -273,6 +300,21 @@
       "date": "Jul 30, 26",
       "source": "Front Office Sports",
       "layer": 3,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "04972a57d856",
+      "title": "In Canada: Angine de Poitrine, PUP & More Make SOCAN Polaris Song Prize Short List",
+      "summary": "Also this week: SOCAN acquires the Canadian Musical Reproduction Rights Agency (CMRRA).",
+      "company": "In Canada",
+      "link": "https://www.billboard.com/pro/angine-de-poitrine-polaris-song-prize-list-canada-news/",
+      "date": "Aug 01, 26",
+      "source": "Billboard",
+      "layer": 4,
       "access": "pe",
       "score": 9,
       "moments": [
@@ -310,6 +352,21 @@
       ]
     },
     {
+      "id": "261571e3737b",
+      "title": "AEA Enterprise-backed Meritus acquires industrial gases distributor Metroplex Welding Supply",
+      "summary": "Headquartered in New York City, Meritus is a network of distributors of industrial, medical, and specialty gases and welding and safety supplies. The post AEA Enterprise-backed Meritus acquires indust",
+      "company": "AEA Enterprise-backed Meritus",
+      "link": "https://www.pehub.com/aea-enterprise-backed-meritus-acquires-industrial-gases-distributor-metroplex-welding-supply/",
+      "date": "Jul 31, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
       "id": "8522f38de277",
       "title": "Platinum Equity invests in lighting company LMPG",
       "summary": "LMPG founder Fran\u00e7ois-Xavier Souvay, W Investments, and president and CEO Peter Timotheatos and the company\u2019s management team are rolling their equity and will remain significant investors in the busi",
@@ -340,21 +397,6 @@
       ]
     },
     {
-      "id": "aa03e4b4f30e",
-      "title": "KKR posts record PE exits as second-quarter earnings beat expectations",
-      "summary": "TOP STORY: KKR delivered stronger-than-expected second-quarter results after completing a record level of private equity exits, highlighting the firm's ability to generate liquidity for investors desp",
-      "company": "KKR",
-      "link": "https://www.privateequitywire.co.uk/kkr-posts-record-pe-exits-as-second-quarter-earnings-beat-expectations/",
-      "date": "Jul 31, 26",
-      "source": "PE Wire",
-      "layer": 5,
-      "access": "public",
-      "score": 9,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
       "id": "7573a2342639",
       "title": "GTCR wraps up capital solutions vehicle with $1.25bn raise",
       "summary": "GTCR has closed its first ever Capital Solutions Fund, bringing in roughly $1.25bn in total commitments across the vehicle and its affiliated entities. The capital came almost entirely from investors ",
@@ -367,6 +409,21 @@
       "score": 6,
       "moments": [
         "company_launch"
+      ]
+    },
+    {
+      "id": "f3a1d1554548",
+      "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
+      "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
+      "company": "Navigating",
+      "link": "https://venuestoday.com/navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026/",
+      "date": "Apr 22, 26",
+      "source": "Venues Today",
+      "layer": 3,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "acquisition"
       ]
     },
     {
@@ -393,19 +450,6 @@
       "layer": 2,
       "access": "pe",
       "score": 15,
-      "moments": []
-    },
-    {
-      "id": "4ab91a9629d5",
-      "title": "Bollen Green: Maker of Viral Fitness Toy Branches Out to Soccer",
-      "summary": "The 2026 World Cup drew more fans than any of its predecessors, shattered U.S. viewership records in multiple matches and, when the ink dries, is estimated to have generated $15 billion in revenue, bl",
-      "company": "Bollen Green",
-      "link": "https://www.sportico.com/business/commerce/2026/boxbollen-soccer-fitness-toy-product-footbollen-1234940473/",
-      "date": "Jul 30, 26",
-      "source": "Sportico",
-      "layer": 2,
-      "access": "pe",
-      "score": 14,
       "moments": []
     },
     {
@@ -448,6 +492,19 @@
       "moments": []
     },
     {
+      "id": "4c09e7adea52",
+      "title": "Ticketmaster Outlines AI-Driven Ticket Pricing Future in Earnings Call",
+      "summary": "Live Nation\u2019s ticketing division generated nearly twice as much operating income as its concert business as executives described using artificial... The post Ticketmaster Outlines AI-Driven Ticket Pri",
+      "company": "",
+      "link": "https://www.ticketnews.com/2026/07/ticketmaster-outlines-ai-driven-ticket-pricing-future-in-earnings-call/",
+      "date": "Jul 31, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "public",
+      "score": 13,
+      "moments": []
+    },
+    {
       "id": "593104d35158",
       "title": "Luke Combs review \u2013 regular Joe megastar brings the arena-sized party home",
       "summary": "Murrayfield Stadium, EdinburghDespite his humble persona, the highest-selling country artist of all time has the vocal firepower and heavyweight hits to deliver two hours of crowd-pleasin\u2019 pyrotechnic",
@@ -474,16 +531,55 @@
       "moments": []
     },
     {
-      "id": "f832f5e84b2b",
-      "title": "Resale Marketplace Leaders Examine AI Trends, Evolution of How Consumers Find and Buy Tickets at WTC",
-      "summary": "Executives from TicketNetwork, Gametime, TickPick, AXS, Automatiq and SeatGeek said artificial intelligence will change ticket discovery and distribution, while placing... The post Resale Marketplace ",
-      "company": "Resale Marketplace Leaders Examine AI Trends",
-      "link": "https://www.ticketnews.com/2026/07/resale-marketplace-leaders-examine-ai-trends-evolution-of-how-consumers-find-and-buy-tickets-at-wtc/",
-      "date": "Jul 30, 26",
+      "id": "f1d2c4a0ca28",
+      "title": "Ticketmaster Users Report Site Down Friday",
+      "summary": "Those trying to access tickets on their Ticketmaster accounts Friday afternoon were met with some bad news: the ticketing giant\u2019s... The post Ticketmaster Users Report Site Down Friday appeared first ",
+      "company": "Ticketmaster Users Report Site Down Friday",
+      "link": "https://www.ticketnews.com/2026/07/ticketmaster-users-report-site-down-friday/",
+      "date": "Jul 31, 26",
       "source": "Ticket News",
       "layer": 3,
       "access": "pe",
       "score": 6,
+      "moments": []
+    },
+    {
+      "id": "ef89c4e3f2f2",
+      "title": "Trump's comments reignite Blanche confirmation fight",
+      "summary": "The Trump administration is still pushing lawmakers to confirm acting Attorney General Todd Blanche, even as President Trump defends the \"anti-weaponization\" fund holding Blanche's confirmation hostag",
+      "company": "Trump's",
+      "link": "https://www.axios.com/2026/07/31/trump-blanche-doj-anti-weaponization-fund-dead",
+      "date": "Jul 31, 26",
+      "source": "Axios",
+      "layer": 3,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "140be88dfba3",
+      "title": "D4vd hearing details high hopes and brutal end of girl at heart of murder case",
+      "summary": "Texts reveal that singer and Celeste Rivas Hernandez had been in touch stretching back to when she was 11 years oldThe rising pop singer D4vd and 14-year-old Celeste Rivas Hernandez were in the throes",
+      "company": "D4vd",
+      "link": "https://www.theguardian.com/us-news/2026/aug/01/d4vd-hearing-celeste-rivas-hernandez",
+      "date": "Aug 01, 26",
+      "source": "Guardian Music",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "8f95fdb4c719",
+      "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
+      "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
+      "company": "Global Times",
+      "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/",
+      "date": "May 09, 26",
+      "source": "Venues Today",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
       "moments": []
     }
   ]
