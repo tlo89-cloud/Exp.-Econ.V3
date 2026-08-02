@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-01T13:37:10.345117+00:00",
-  "total": 40,
+  "generated": "2026-08-02T13:37:40.394641+00:00",
+  "total": 38,
   "scraped": [
     {
       "id": "f2c856495247",
@@ -16,22 +16,6 @@
       "moments": [
         "album_announcement",
         "record_breaking"
-      ]
-    },
-    {
-      "id": "3f3ef789dfe8",
-      "title": "Watch The Smashing Pumpkins bring out Olivia Rodrigo and Yungblud for Lollapalooza 2026 headline set",
-      "summary": "Melissa Auf der Maur also joined the band for their first appearance at their hometown festival in 32 years The post Watch The Smashing Pumpkins bring out Olivia Rodrigo and Yungblud for Lollapalooza ",
-      "company": "Watch The Smashing Pumpkins",
-      "link": "https://www.nme.com/news/music/watch-the-smashing-pumpkins-bring-out-olivia-rodrigo-and-yungblud-for-lollapalooza-2026-headline-set-3960162?utm_source=rss&utm_medium=rss&utm_campaign=watch-the-smashing-pumpkins-bring-out-olivia-rodrigo-and-yungblud-for-lollapalooza-2026-headline-set",
-      "date": "Aug 01, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 20,
-      "moments": [
-        "surprise_appearance",
-        "festival_headliner"
       ]
     },
     {
@@ -64,6 +48,22 @@
       "moments": [
         "album_announcement",
         "company_launch"
+      ]
+    },
+    {
+      "id": "ea07ed0fd9a7",
+      "title": "Olivia Rodrigo and Yungblud Join Smashing Pumpkins for Nostalgia-Fueled Lollapalooza Set",
+      "summary": "Billy Corgan delivered \"Luna\" and \"Thirty-Three\" with his surprise guests",
+      "company": "Olivia Rodrigo",
+      "link": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-yungblud-smashing-pumpkins-lollapalooza-1235601995/",
+      "date": "Aug 01, 26",
+      "source": "Rolling Stone Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "surprise_appearance",
+        "festival_headliner"
       ]
     },
     {
@@ -202,6 +202,21 @@
       ]
     },
     {
+      "id": "7978461bc0f7",
+      "title": "Watch Knocked Loose and Denzel Curry perform \u2018Hive Mind\u2019 at Brooklyn skatepark",
+      "summary": "The pair debuted their collaboration at a free pop-up show ahead of their co-headline North American tour The post Watch Knocked Loose and Denzel Curry perform &#8216;Hive Mind&#8217; at Brooklyn skat",
+      "company": "Watch Knocked Loose",
+      "link": "https://www.nme.com/news/music/watch-knocked-loose-and-denzel-curry-perform-hive-mind-at-brooklyn-skatepark-3960256?utm_source=rss&utm_medium=rss&utm_campaign=watch-knocked-loose-and-denzel-curry-perform-hive-mind-at-brooklyn-skatepark",
+      "date": "Aug 01, 26",
+      "source": "NME",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
       "id": "a62079a4dc97",
       "title": "Goldman Sachs, Brightstar, Health Wave target senior care; Sustainability trends incentivize Apax\u2019s \u20ac1.5bn medical packaging deal",
       "summary": "Supply and demand gaps in senior care have created dealmaking opportunitie, and investors such as Goldman Sachs, Brightstar and Health Wave are among the firms transacting in the segment; a look at a ",
@@ -307,18 +322,18 @@
       ]
     },
     {
-      "id": "04972a57d856",
-      "title": "In Canada: Angine de Poitrine, PUP & More Make SOCAN Polaris Song Prize Short List",
-      "summary": "Also this week: SOCAN acquires the Canadian Musical Reproduction Rights Agency (CMRRA).",
-      "company": "In Canada",
-      "link": "https://www.billboard.com/pro/angine-de-poitrine-polaris-song-prize-list-canada-news/",
-      "date": "Aug 01, 26",
-      "source": "Billboard",
-      "layer": 4,
+      "id": "af035757dd89",
+      "title": "Wargasm sign to Hopeless Records and share frenetic new single \u2018Get Down\u2019",
+      "summary": "The duo are preparing to support Scene Queen on a North American tour this autumn The post Wargasm sign to Hopeless Records and share frenetic new single &#8216;Get Down&#8217; appeared first on NME.",
+      "company": "Wargasm",
+      "link": "https://www.nme.com/news/music/wargasm-sign-to-hopeless-records-and-share-frenetic-new-single-get-down-3960303?utm_source=rss&utm_medium=rss&utm_campaign=wargasm-sign-to-hopeless-records-and-share-frenetic-new-single-get-down",
+      "date": "Aug 02, 26",
+      "source": "NME",
+      "layer": 5,
       "access": "pe",
       "score": 9,
       "moments": [
-        "acquisition"
+        "record_deal"
       ]
     },
     {
@@ -357,36 +372,6 @@
       "summary": "Headquartered in New York City, Meritus is a network of distributors of industrial, medical, and specialty gases and welding and safety supplies. The post AEA Enterprise-backed Meritus acquires indust",
       "company": "AEA Enterprise-backed Meritus",
       "link": "https://www.pehub.com/aea-enterprise-backed-meritus-acquires-industrial-gases-distributor-metroplex-welding-supply/",
-      "date": "Jul 31, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "8522f38de277",
-      "title": "Platinum Equity invests in lighting company LMPG",
-      "summary": "LMPG founder Fran\u00e7ois-Xavier Souvay, W Investments, and president and CEO Peter Timotheatos and the company\u2019s management team are rolling their equity and will remain significant investors in the busi",
-      "company": "Platinum Equity",
-      "link": "https://www.pehub.com/platinum-equity-invests-in-lighting-company-lmpg/",
-      "date": "Jul 31, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "8e08f5cc458f",
-      "title": "KKR-backed Spectris acquires sensor business Sentech",
-      "summary": "Based in London, Spectris is a supplier of high-tech precision instrumentation, test equipment, and software for industrial applications. The post KKR-backed Spectris acquires sensor business Sentech ",
-      "company": "KKR-backed Spectris",
-      "link": "https://www.pehub.com/kkr-backed-spectris-acquires-sensor-business-sentech/",
       "date": "Jul 31, 26",
       "source": "PE Hub",
       "layer": 5,
@@ -515,19 +500,6 @@
       "layer": 2,
       "access": "pe",
       "score": 12,
-      "moments": []
-    },
-    {
-      "id": "e7d5f449d604",
-      "title": "Boy George Drops Out of London \u2018Jesus Christ Superstar\u2019 Production Following Backlash to Pro-Israel Song",
-      "summary": "Boy George has dropped out of a London production of &#8220;Jesus Christ Superstar&#8221; just days after releasing the controversial pro-Israel song &#8220;We Will Dance Again.&#8221; Paul Kemsley, G",
-      "company": "Boy George Drops Out",
-      "link": "https://variety.com/2026/music/news/boy-george-drops-out-jesus-christ-superstar-pro-israel-song-1236824746/",
-      "date": "Jul 30, 26",
-      "source": "Variety Music",
-      "layer": 4,
-      "access": "pe",
-      "score": 8,
       "moments": []
     },
     {
