@@ -1,7 +1,24 @@
 {
-  "generated": "2026-08-02T13:37:40.394641+00:00",
-  "total": 38,
+  "generated": "2026-08-03T14:48:25.579881+00:00",
+  "total": 37,
   "scraped": [
+    {
+      "id": "b663a16bf359",
+      "title": "Align Ventures raises $125m second fund after string of successful exits",
+      "summary": "Align Ventures has hit an above-target close for its second early-stage fund in the wake of a series of successful Fund I exits, the firm said. The post Align Ventures raises $125m second fund after s",
+      "company": "Align Ventures",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/align-ventures-raises-125m-second-fund-after-string-of-successful-exits.html",
+      "date": "Aug 03, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 20,
+      "moments": [
+        "funding_round",
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
     {
       "id": "f2c856495247",
       "title": "\u2018He liked to get people\u2019s blood boiling\u2019: metal masters Mastodon on the loss of bandmate Brent Hinds \u2013 and his shocking words before his death",
@@ -16,6 +33,22 @@
       "moments": [
         "album_announcement",
         "record_breaking"
+      ]
+    },
+    {
+      "id": "e12c16405493",
+      "title": "Ares signals appetite for larger PE platform amid acquisition speculation",
+      "summary": "Ares Management is open to expanding its presence in private equity through acquisitions, with chief executive Michael Arougheti indicating the alternative asset manager would benefit from a larger bu",
+      "company": "Ares",
+      "link": "https://www.privateequitywire.co.uk/ares-signals-appetite-for-larger-pe-platform-amid-acquisition-speculation/",
+      "date": "Aug 03, 26",
+      "source": "PE Wire",
+      "layer": 1,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "acquisition",
+        "pe_investment"
       ]
     },
     {
@@ -51,12 +84,28 @@
       ]
     },
     {
-      "id": "ea07ed0fd9a7",
-      "title": "Olivia Rodrigo and Yungblud Join Smashing Pumpkins for Nostalgia-Fueled Lollapalooza Set",
-      "summary": "Billy Corgan delivered \"Luna\" and \"Thirty-Three\" with his surprise guests",
-      "company": "Olivia Rodrigo",
-      "link": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-yungblud-smashing-pumpkins-lollapalooza-1235601995/",
-      "date": "Aug 01, 26",
+      "id": "8fd9a28f6fa9",
+      "title": "Index Ventures doubles down on AI opportunity with $3.5bn across seed, venture and growth strategies",
+      "summary": "Index Ventures has expanded its latest fundraise to $3.5bn across seed, venture and growth investing as the venture firm positions itself to back founders throughout the AI cycle. The post Index Ventu",
+      "company": "Index Ventures",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/index-ventures-doubles-down-on-ai-opportunity-with-3-5bn-across-seed-venture-and-growth-strategies.html",
+      "date": "Aug 03, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "a3c2611d9b61",
+      "title": "Lollapalooza 2026 Day Three: Olivia Dean, Sienna Spiro, and Rain Delays",
+      "summary": "Grammy winner Dean celebrated breaking a U.K. chart record with surprise guest Sam Fender",
+      "company": "Lollapalooza 2026 Day Three",
+      "link": "https://www.rollingstone.com/music/music-news/olivia-dean-sam-fender-performance-lollapalooza-2026-1235598466/",
+      "date": "Aug 02, 26",
       "source": "Rolling Stone Music",
       "layer": 1,
       "access": "pe",
@@ -112,21 +161,6 @@
       ]
     },
     {
-      "id": "7a82d3d8686e",
-      "title": "Deal Roundup: Bain Capital and Tillman invest $1.5bn in Eaton Fiber, Lafayette Instrument set to acquire Avisoft Bioacoustics",
-      "summary": "Bain Capital and Tillman Global Holdings have announced a $1.5 billion investment in Eaton Fiber, an affiliate of Tillman, to accelerate the expansion of Verizon fiber broadband through fiber network ",
-      "company": "Deal Roundup",
-      "link": "https://www.altassets.net/private-equity-news/by-news-type/deal-news/deal-roundup-bain-capital-and-tillman-invest-1-5bn-in-eaton-fiber-lafayette-instrument-set-to-acquire-avisoft-bioacoustics.html",
-      "date": "Jul 29, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 18,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
       "id": "805247f04d05",
       "title": "AI Studio Asteria Strikes Strategic Partnership with Virtual Production Studio ZeroSpace (EXCLUSIVE)",
       "summary": "Asteria, the AI studio co-founded by filmmaker Bryn Mooser and Natasha Lyonne, has struck a strategic partnership with ZeroSpace, a virtual production studio, in the hopes of transforming hybrid model",
@@ -172,6 +206,21 @@
       ]
     },
     {
+      "id": "feae3c48997b",
+      "title": "Hamilton Lane backs $270m single-asset continuation vehicle to extend decade-long Savant investment",
+      "summary": "Hamilton Lane has strengthened its push into GP-led secondaries by acting as the sole lead investor in a $270m single-asset continuation vehicle for Savant Wealth Management. The post Hamilton Lane ba",
+      "company": "Hamilton Lane",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/hamilton-lane-backs-270m-single-asset-continuation-vehicle-to-extend-decade-long-savant-investment.html",
+      "date": "Aug 03, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
       "id": "42d07eb4487b",
       "title": "North West\u2019s Debut Headlining Tour Canceled Days Before Scheduled Start",
       "summary": "North West will no longer be embarking on her debut headlining run. The 13-year-old singer was scheduled to co-headline the... The post North West&#8217;s Debut Headlining Tour Canceled Days Before Sc",
@@ -187,42 +236,42 @@
       ]
     },
     {
-      "id": "b55e9c432792",
-      "title": "CBS-NFL Renewal Urgency Eases With Paramount-Warner Deal Stalled",
-      "summary": "In a bid to buck up Paramount Skydance staffers who may have misgivings about the company\u2019s decision to put its $110 billion acquisition of Warner Bros. Discovery on hold, Paramount Skydance CEO David",
-      "company": "",
-      "link": "https://www.sportico.com/business/media/2026/cbs-nfl-rights-renewal-paramount-skydance-wbd-drama-1234940621/",
-      "date": "Jul 31, 26",
-      "source": "Sportico",
-      "layer": 1,
+      "id": "581a9198f8c7",
+      "title": "Browns Opt for Turf in New Stadium Despite NFLPA Push for Grass",
+      "summary": "Cleveland Browns/HKS",
+      "company": "Browns Opt",
+      "link": "https://frontofficesports.com/browns-opt-for-turf-in-new-stadium-despite-nflpa-push-for-grass/",
+      "date": "Aug 03, 26",
+      "source": "Front Office Sports",
+      "layer": 2,
       "access": "pe",
-      "score": 14,
+      "score": 13,
       "moments": [
-        "acquisition"
+        "venue_announcement"
       ]
     },
     {
-      "id": "7978461bc0f7",
-      "title": "Watch Knocked Loose and Denzel Curry perform \u2018Hive Mind\u2019 at Brooklyn skatepark",
-      "summary": "The pair debuted their collaboration at a free pop-up show ahead of their co-headline North American tour The post Watch Knocked Loose and Denzel Curry perform &#8216;Hive Mind&#8217; at Brooklyn skat",
-      "company": "Watch Knocked Loose",
-      "link": "https://www.nme.com/news/music/watch-knocked-loose-and-denzel-curry-perform-hive-mind-at-brooklyn-skatepark-3960256?utm_source=rss&utm_medium=rss&utm_campaign=watch-knocked-loose-and-denzel-curry-perform-hive-mind-at-brooklyn-skatepark",
-      "date": "Aug 01, 26",
-      "source": "NME",
-      "layer": 5,
+      "id": "40c2e05e107b",
+      "title": "\u2018They are terrified\u2019: Como spark row with fans over controversial new stadium policy",
+      "summary": "Supporters must not miss more than three home gamesSerie A club\u2019s chairman defends new rulesComo, the surprise package of last season\u2019s Serie A, who qualified for the Champions League for the first ti",
+      "company": "\u2018They",
+      "link": "https://www.theguardian.com/football/2026/aug/03/they-are-terrified-como-spark-row-with-fans-over-controversial-new-stadium-policy",
+      "date": "Aug 03, 26",
+      "source": "Guardian Sport",
+      "layer": 2,
       "access": "pe",
-      "score": 12,
+      "score": 13,
       "moments": [
-        "festival_headliner"
+        "venue_announcement"
       ]
     },
     {
-      "id": "a62079a4dc97",
-      "title": "Goldman Sachs, Brightstar, Health Wave target senior care; Sustainability trends incentivize Apax\u2019s \u20ac1.5bn medical packaging deal",
-      "summary": "Supply and demand gaps in senior care have created dealmaking opportunitie, and investors such as Goldman Sachs, Brightstar and Health Wave are among the firms transacting in the segment; a look at a ",
-      "company": "Goldman Sachs Brightstar Health Wave",
-      "link": "https://www.pehub.com/goldman-sachs-brightstar-health-wave-target-senior-care-sustainability-trends-incentivize-apaxs-e1-5bn-medical-packaging-deal/",
-      "date": "Jul 31, 26",
+      "id": "fd8070937b6b",
+      "title": "KKR to buy 50 percent stake in TotalEnergies\u2019 European onshore solar and wind business for \u20ac1.8bn",
+      "summary": "The deal follows the late 2025 acquisition by KKR of TotalEnergies' North American solar business for $1.25 billion The post KKR to buy 50 percent stake in TotalEnergies&#8217; European onshore solar ",
+      "company": "KKR",
+      "link": "https://www.pehub.com/kkr-to-buy-50-percent-stake-in-totalenergies-european-onshore-solar-and-wind-business-for-e1-8bn/",
+      "date": "Aug 03, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
@@ -232,11 +281,11 @@
       ]
     },
     {
-      "id": "3405401ef9b6",
-      "title": "Apheon-backed Haudecoeur acquires Natur Food and Heliadis in European push",
-      "summary": "Haudecoeur specializes in importing and distributing world food products in France, and the two add-ons mark its first international expansion into Germany and Belgium. The post Apheon-backed Haudecoe",
-      "company": "Apheon-backed Haudecoeur",
-      "link": "https://www.pehub.com/apheon-backed-haudecoeur-acquires-natur-food-and-heliadis-in-european-push/",
+      "id": "a62079a4dc97",
+      "title": "Goldman Sachs, Brightstar, Health Wave target senior care; Sustainability trends incentivize Apax\u2019s \u20ac1.5bn medical packaging deal",
+      "summary": "Supply and demand gaps in senior care have created dealmaking opportunitie, and investors such as Goldman Sachs, Brightstar and Health Wave are among the firms transacting in the segment; a look at a ",
+      "company": "Goldman Sachs Brightstar Health Wave",
+      "link": "https://www.pehub.com/goldman-sachs-brightstar-health-wave-target-senior-care-sustainability-trends-incentivize-apaxs-e1-5bn-medical-packaging-deal/",
       "date": "Jul 31, 26",
       "source": "PE Hub",
       "layer": 5,
@@ -262,31 +311,16 @@
       ]
     },
     {
-      "id": "5e32c28a5ca5",
-      "title": "Omers appoints CAAT exec to lead private equity funds strategy",
-      "summary": "Omers has appointed Adam Buzanis as head of funds as the Canadian pension fund continues to expand its private equity fund investment platform and increase its focus on co-investments and external man",
-      "company": "Omers",
-      "link": "https://www.privateequitywire.co.uk/omers-appoints-caat-exec-to-lead-private-equity-funds-strategy/",
-      "date": "Jul 31, 26",
-      "source": "PE Wire",
-      "layer": 4,
+      "id": "3d754cf3a4fe",
+      "title": "Pantheon pulls in $3.2bn for biggest co-investment fund yet",
+      "summary": "Pantheon has closed its largest dedicated co-investment programme to date, raising $3.2bn amid continued investor demand for lower-cost, direct private equity exposure. The post Pantheon pulls in $3.2",
+      "company": "Pantheon",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/pantheon-pulls-in-3-2bn-for-biggest-co-investment-fund-yet.html",
+      "date": "Aug 03, 26",
+      "source": "AltAssets",
+      "layer": 5,
       "access": "pe",
       "score": 12,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "d101ce73e65b",
-      "title": "PE targets tailwinds in senior care: 7 deals",
-      "summary": "Goldman Sachs, Brightstar Capital, Hidden River and Pacific Avenue are among the PE firms transacting in the senior care market. The post PE targets tailwinds in senior care: 7 deals appeared first on",
-      "company": "PE targets tailwinds in senior care",
-      "link": "https://www.pehub.com/pe-targets-tailwinds-in-senior-care-7-deals/",
-      "date": "Jul 31, 26",
-      "source": "PE Hub",
-      "layer": 2,
-      "access": "pe",
-      "score": 11,
       "moments": [
         "pe_investment"
       ]
@@ -322,21 +356,6 @@
       ]
     },
     {
-      "id": "af035757dd89",
-      "title": "Wargasm sign to Hopeless Records and share frenetic new single \u2018Get Down\u2019",
-      "summary": "The duo are preparing to support Scene Queen on a North American tour this autumn The post Wargasm sign to Hopeless Records and share frenetic new single &#8216;Get Down&#8217; appeared first on NME.",
-      "company": "Wargasm",
-      "link": "https://www.nme.com/news/music/wargasm-sign-to-hopeless-records-and-share-frenetic-new-single-get-down-3960303?utm_source=rss&utm_medium=rss&utm_campaign=wargasm-sign-to-hopeless-records-and-share-frenetic-new-single-get-down",
-      "date": "Aug 02, 26",
-      "source": "NME",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "record_deal"
-      ]
-    },
-    {
       "id": "ca80459e9c61",
       "title": "Can Mary Beth Barone Revive Feminist Standup?",
       "summary": "A decade ago, Amy Schumer became the only woman to headline Madison Square Garden. With a new Netflix special, Barone is looking to break out in a very different atmosphere.",
@@ -367,14 +386,14 @@
       ]
     },
     {
-      "id": "261571e3737b",
-      "title": "AEA Enterprise-backed Meritus acquires industrial gases distributor Metroplex Welding Supply",
-      "summary": "Headquartered in New York City, Meritus is a network of distributors of industrial, medical, and specialty gases and welding and safety supplies. The post AEA Enterprise-backed Meritus acquires indust",
-      "company": "AEA Enterprise-backed Meritus",
-      "link": "https://www.pehub.com/aea-enterprise-backed-meritus-acquires-industrial-gases-distributor-metroplex-welding-supply/",
-      "date": "Jul 31, 26",
-      "source": "PE Hub",
-      "layer": 5,
+      "id": "92ac68faa9bc",
+      "title": "Cosmobilis and Park Square Capital acquire WRC commercial rights in landmark motorsport deal",
+      "summary": "French automotive group Cosmobilis and private credit investor Park Square Capital have completed the acquisition of the commercial rights to the FIA World Rally Championship and FIA European Rally Ch",
+      "company": "Cosmobilis and Park Square Capital",
+      "link": "https://www.privateequitywire.co.uk/cosmobilis-and-park-square-capital-acquire-wrc-commercial-rights-in-landmark-motorsport-deal/",
+      "date": "Aug 03, 26",
+      "source": "PE Wire",
+      "layer": 2,
       "access": "pe",
       "score": 9,
       "moments": [
@@ -425,19 +444,6 @@
       "moments": []
     },
     {
-      "id": "4857407ef453",
-      "title": "DC Open Quadruples Revenues: How It Rewrote Its Economics",
-      "summary": "WASHINGTON D.C.\u2014The Mubadala DC Open has quadrupled its revenues since 2019, the tennis tournament&#8217;s chairman Mark Ein told Sportico. That is due to increases across all revenue categories, incl",
-      "company": "DC Open Quadruples Revenues",
-      "link": "https://www.sportico.com/leagues/tennis/2026/dc-open-tennis-prize-money-revenue-1234940642/",
-      "date": "Jul 31, 26",
-      "source": "Sportico",
-      "layer": 2,
-      "access": "pe",
-      "score": 15,
-      "moments": []
-    },
-    {
       "id": "8c9de1e55b7d",
       "title": "Amazon Q2 Ad Revenue Up 26% as Tech Giant\u2019s Profit Booms to $62.6 Billion on Anthropic Investments",
       "summary": "Amazon reported its second-quarter 2026 earnings Thursday, revealing it beat Wall Street&#8217;s estimates with more than $200 billion in revenue for the April-June period. Advertising services revenu",
@@ -447,19 +453,6 @@
       "source": "Variety Biz",
       "layer": 2,
       "access": "public",
-      "score": 14,
-      "moments": []
-    },
-    {
-      "id": "c8158080f5c6",
-      "title": "Live Nation Unveils 21,000-Capacity S\u00e3o Paulo Arena",
-      "summary": "Live Nation is making a major venue play in Brazil, partnering with Cidade Center Norte to develop what the companies... The post Live Nation Unveils 21,000-Capacity S\u00e3o Paulo Arena appeared first on ",
-      "company": "Live Nation Unveils",
-      "link": "https://www.ticketnews.com/2026/07/live-nation-unveils-21000-capacity-sao-paulo-arena/",
-      "date": "Jul 30, 26",
-      "source": "Ticket News",
-      "layer": 2,
-      "access": "pe",
       "score": 14,
       "moments": []
     },
@@ -503,6 +496,19 @@
       "moments": []
     },
     {
+      "id": "ff9693a883f3",
+      "title": "Ariana Grande to take \u2018a step back\u2019 from public life due to \u2018endless, ongoing scrutiny\u2019",
+      "summary": "Singer was due to reunite with Wicked co-star Jonathan Bailey in London production of Sunday in the Park With GeorgeAriana Grande has announced plans to take a break from public-facing work after her ",
+      "company": "Ariana Grande",
+      "link": "https://www.theguardian.com/music/2026/aug/03/ariana-grande-statement-step-back-public-life-eternal-sunshine-tour",
+      "date": "Aug 02, 26",
+      "source": "Guardian Music",
+      "layer": 4,
+      "access": "pe",
+      "score": 7,
+      "moments": []
+    },
+    {
       "id": "f1d2c4a0ca28",
       "title": "Ticketmaster Users Report Site Down Friday",
       "summary": "Those trying to access tickets on their Ticketmaster accounts Friday afternoon were met with some bad news: the ticketing giant\u2019s... The post Ticketmaster Users Report Site Down Friday appeared first ",
@@ -526,19 +532,6 @@
       "layer": 3,
       "access": "pe",
       "score": 5,
-      "moments": []
-    },
-    {
-      "id": "140be88dfba3",
-      "title": "D4vd hearing details high hopes and brutal end of girl at heart of murder case",
-      "summary": "Texts reveal that singer and Celeste Rivas Hernandez had been in touch stretching back to when she was 11 years oldThe rising pop singer D4vd and 14-year-old Celeste Rivas Hernandez were in the throes",
-      "company": "D4vd",
-      "link": "https://www.theguardian.com/us-news/2026/aug/01/d4vd-hearing-celeste-rivas-hernandez",
-      "date": "Aug 01, 26",
-      "source": "Guardian Music",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
       "moments": []
     },
     {
