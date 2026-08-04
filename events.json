@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-03T14:48:25.579881+00:00",
+  "generated": "2026-08-04T14:25:45.966401+00:00",
   "total": 37,
   "scraped": [
     {
@@ -36,35 +36,19 @@
       ]
     },
     {
-      "id": "e12c16405493",
-      "title": "Ares signals appetite for larger PE platform amid acquisition speculation",
-      "summary": "Ares Management is open to expanding its presence in private equity through acquisitions, with chief executive Michael Arougheti indicating the alternative asset manager would benefit from a larger bu",
-      "company": "Ares",
-      "link": "https://www.privateequitywire.co.uk/ares-signals-appetite-for-larger-pe-platform-amid-acquisition-speculation/",
-      "date": "Aug 03, 26",
-      "source": "PE Wire",
-      "layer": 1,
+      "id": "4e410ddc493c",
+      "title": "Naval shipbuilding attracts private equity; Sheridan acquires Carolina Components; KKR to take Integer Holdings private for $5.7bn",
+      "summary": "A look at the growing private equity interest in investing in Naval-centric deals; Sheridan Capital Partners acquires Carolina Components Group, a provider of custom-engineered bioprocessing assemblie",
+      "company": "Naval",
+      "link": "https://www.pehub.com/naval-shipbuilding-attracts-private-equity-sheridan-acquires-carolina-components-kkr-to-take-integer-holdings-private-for-5-7bn/",
+      "date": "Aug 04, 26",
+      "source": "PE Hub",
+      "layer": 5,
       "access": "pe",
       "score": 16,
       "moments": [
         "acquisition",
         "pe_investment"
-      ]
-    },
-    {
-      "id": "2f94e33aba19",
-      "title": "For Los Primos del Este, writing new album 'Dulce Amargo' felt like therapy",
-      "summary": "Since 2017, the band has gained over 2 million listeners on Spotify for its popular norte\u00f1o-sax sound \u2014 a subgenre that grew by 39% in both the U.S. and Mexico in 2024, per Spotify.",
-      "company": "For Los Primos",
-      "link": "https://www.latimes.com/delos/story/2026-07-17/los-primos-del-este-dulce-amargo-interview-mental-health-norteno-sax",
-      "date": "Jul 17, 26",
-      "source": "LA Times Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "album_announcement",
-        "streaming_milestone"
       ]
     },
     {
@@ -84,6 +68,22 @@
       ]
     },
     {
+      "id": "b036c476cc99",
+      "title": "General Electric pension commits $100m to Janus Henderson, Victory Park Capital, Privacore Capital credit interval fund",
+      "summary": "Janus Henderson, Victory Park Capital and Privacore Capital have raised an additional $100m for their private asset-backed credit interval fund AltsABF from General Electric Pension Trust. The post Ge",
+      "company": "General Electric",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100209490.html",
+      "date": "Aug 04, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "lp_commitment"
+      ]
+    },
+    {
       "id": "8fd9a28f6fa9",
       "title": "Index Ventures doubles down on AI opportunity with $3.5bn across seed, venture and growth strategies",
       "summary": "Index Ventures has expanded its latest fundraise to $3.5bn across seed, venture and growth investing as the venture firm positions itself to back founders throughout the AI cycle. The post Index Ventu",
@@ -100,22 +100,6 @@
       ]
     },
     {
-      "id": "a3c2611d9b61",
-      "title": "Lollapalooza 2026 Day Three: Olivia Dean, Sienna Spiro, and Rain Delays",
-      "summary": "Grammy winner Dean celebrated breaking a U.K. chart record with surprise guest Sam Fender",
-      "company": "Lollapalooza 2026 Day Three",
-      "link": "https://www.rollingstone.com/music/music-news/olivia-dean-sam-fender-performance-lollapalooza-2026-1235598466/",
-      "date": "Aug 02, 26",
-      "source": "Rolling Stone Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "surprise_appearance",
-        "festival_headliner"
-      ]
-    },
-    {
       "id": "e9c36d3008c4",
       "title": "Knitting Factory Entertainment Acquires Minority Stake in Does Entertainment, Forming Strategic Growth Partnership to Expand National Live...",
       "summary": "Companies Align to Accelerate Venue Development, Talent Buying, Concert Promotion and Strategic Growth Across North America Los Angeles, CA / Wilmington, NC, July 14, 2026 \u2013&#160;Knitting Factory Ente",
@@ -126,6 +110,21 @@
       "layer": 2,
       "access": "pe",
       "score": 24,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "8c03bce56d9b",
+      "title": "Mutares closes $450m acquisition of SABIC engineering thermoplastics unit",
+      "summary": "The business, rebranded NexPoint Materials under a new chemicals and materials division, employs about 2,800 people and generates roughly $2.5bn in annual revenue. The post Mutares closes $450m acquis",
+      "company": "Mutares",
+      "link": "https://www.pehub.com/mutares-closes-450m-acquisition-of-sabic-engineering-thermoplastics-unit/",
+      "date": "Aug 04, 26",
+      "source": "PE Hub",
+      "layer": 2,
+      "access": "pe",
+      "score": 19,
       "moments": [
         "acquisition"
       ]
@@ -221,18 +220,33 @@
       ]
     },
     {
-      "id": "42d07eb4487b",
-      "title": "North West\u2019s Debut Headlining Tour Canceled Days Before Scheduled Start",
-      "summary": "North West will no longer be embarking on her debut headlining run. The 13-year-old singer was scheduled to co-headline the... The post North West&#8217;s Debut Headlining Tour Canceled Days Before Sc",
-      "company": "North West\u2019s Debut Headlining Tour Canceled",
-      "link": "https://www.ticketnews.com/2026/07/north-west-debut-headlining-tour-canceled-days-before-start/",
-      "date": "Jul 31, 26",
-      "source": "Ticket News",
-      "layer": 5,
+      "id": "8ad0ace7a33e",
+      "title": "Scout Motors Salutes Hard-working Americans at Rolling Stone\u2019s July 4th Stateside Fest",
+      "summary": "It wasn&#8217;t just any Fourth of July. It was America&#8217;s 250th birthday, and fittingly, Rolling Stone brought its inaugural Stateside festival to Kingston, N.Y. \u2014 New York&#8217;s first capital",
+      "company": "Scout Motors Salutes Hard-working Americans",
+      "link": "https://www.rollingstone.com/music/music-news/scout-motors-rolling-stone-july-4th-stateside-1235601199/",
+      "date": "Aug 03, 26",
+      "source": "Rolling Stone News",
+      "layer": 1,
       "access": "pe",
-      "score": 15,
+      "score": 14,
       "moments": [
         "festival_headliner"
+      ]
+    },
+    {
+      "id": "2b06a2a62c5b",
+      "title": "Arca: XXXXX review \u2013 a wild, brilliant album that taps into our bodies\u2019 most feral frequencies",
+      "summary": "(XL)In the follow-up to her Kick series, Arca jumbles the building blocks of electronic music to create a beautiful, disorienting sound worldXXXXX, the new album by Venezuelan producer-vocalist Arca, ",
+      "company": "Arca",
+      "link": "https://www.theguardian.com/music/2026/jul/31/arca-xxxxx-review",
+      "date": "Jul 31, 26",
+      "source": "Guardian Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "album_announcement"
       ]
     },
     {
@@ -266,48 +280,78 @@
       ]
     },
     {
-      "id": "fd8070937b6b",
-      "title": "KKR to buy 50 percent stake in TotalEnergies\u2019 European onshore solar and wind business for \u20ac1.8bn",
-      "summary": "The deal follows the late 2025 acquisition by KKR of TotalEnergies' North American solar business for $1.25 billion The post KKR to buy 50 percent stake in TotalEnergies&#8217; European onshore solar ",
-      "company": "KKR",
-      "link": "https://www.pehub.com/kkr-to-buy-50-percent-stake-in-totalenergies-european-onshore-solar-and-wind-business-for-e1-8bn/",
-      "date": "Aug 03, 26",
-      "source": "PE Hub",
-      "layer": 5,
+      "id": "b0be823b9f80",
+      "title": "Kevin Lyman on making Warped Tour the entry point for a new generation of festivalgoers",
+      "summary": "Warped Tour founder Kevin Lyman talks about the second year of the festival's return to Long Beach with bigger stages but familiar controlled chaos \u2014 merch tents, skate ramps, surprises.",
+      "company": "Kevin Lyman",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-07-23/kevin-lyman-on-making-warped-tour-entry-point-for-new-generation-of-festivalgoers",
+      "date": "Jul 23, 26",
+      "source": "LA Times Music",
+      "layer": 1,
       "access": "pe",
       "score": 12,
       "moments": [
-        "acquisition"
+        "company_launch"
       ]
     },
     {
-      "id": "a62079a4dc97",
-      "title": "Goldman Sachs, Brightstar, Health Wave target senior care; Sustainability trends incentivize Apax\u2019s \u20ac1.5bn medical packaging deal",
-      "summary": "Supply and demand gaps in senior care have created dealmaking opportunitie, and investors such as Goldman Sachs, Brightstar and Health Wave are among the firms transacting in the segment; a look at a ",
-      "company": "Goldman Sachs Brightstar Health Wave",
-      "link": "https://www.pehub.com/goldman-sachs-brightstar-health-wave-target-senior-care-sustainability-trends-incentivize-apaxs-e1-5bn-medical-packaging-deal/",
-      "date": "Jul 31, 26",
+      "id": "23756b5f2d82",
+      "title": "5 reasons private equity is betting big on US Naval investments",
+      "summary": "The US Navy budget is over $300bn, a figure which is larger than the GDP of over 75% of the world\u2019s countries and most economic sectors here in the US, according to Ben Ramundo, a managing director at",
+      "company": "",
+      "link": "https://www.pehub.com/5-reasons-private-equity-is-betting-big-on-us-naval-investments/",
+      "date": "Aug 04, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
-      "score": 12,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "cb292c637b05",
-      "title": "Blackstone and Permira-backed IPOs deliver muted market debut",
-      "summary": "Private equity firms Blackstone and Permira received a subdued reception from public market investors on Thursday as portfolio companies Jersey Mike's and Reformation made their stock market debuts, a",
-      "company": "Blackstone",
-      "link": "https://www.privateequitywire.co.uk/blackstone-and-permira-backed-ipos-deliver-muted-market-debut/",
-      "date": "Jul 31, 26",
-      "source": "PE Wire",
-      "layer": 5,
-      "access": "public",
       "score": 12,
       "moments": [
         "pe_investment"
+      ]
+    },
+    {
+      "id": "416efad672d5",
+      "title": "Bending Spoons to buy Airtable for $1.28B",
+      "summary": "At its peak in 2021, Airtable was valued at over $11 billion, but earlier this year, its shares were said to be trading on the secondary markets at a valuation of $4 billion.",
+      "company": "Bending Spoons",
+      "link": "https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/",
+      "date": "Aug 04, 26",
+      "source": "TechCrunch Startups",
+      "layer": 3,
+      "access": "public",
+      "score": 12,
+      "moments": [
+        "valuation"
+      ]
+    },
+    {
+      "id": "8126d1321ed5",
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+      "company": "Design Arena creators",
+      "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "date": "Aug 03, 26",
+      "source": "TechCrunch Startups",
+      "layer": 2,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "funding_round"
+      ]
+    },
+    {
+      "id": "b8e21d6a04a9",
+      "title": "Base Power raises another $1B to save the grid using backyard batteries",
+      "summary": "Base Power\u2019s $1 billion round will help the startup ramp production of its home batteries.",
+      "company": "Base Power",
+      "link": "https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/",
+      "date": "Aug 03, 26",
+      "source": "TechCrunch Startups",
+      "layer": 4,
+      "access": "venture",
+      "score": 12,
+      "moments": [
+        "funding_round"
       ]
     },
     {
@@ -326,6 +370,36 @@
       ]
     },
     {
+      "id": "5d0ab5c05150",
+      "title": "Kylie Cantrall Plots First Headlining Tour in Support of \u2018Valley Girl Problems\u2019 EP",
+      "summary": "Kylie Cantrall is stepping into the spotlight with her first-ever headlining tour. The singer and actress will launch &#8220;The Valley... The post Kylie Cantrall Plots First Headlining Tour in Suppor",
+      "company": "Kylie Cantrall Plots First Headlining Tour",
+      "link": "https://www.ticketnews.com/2026/08/kylie-cantrall-headlining-tour-ep/",
+      "date": "Aug 03, 26",
+      "source": "Ticket News",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "1859694ef7e3",
+      "title": "Graphite\u2019s Mike Tilbury: Rise of AI content could lead to \u2018rights-clean\u2019 data re-rating; Mutares completes largest-ever deal with Sabic carve-out",
+      "summary": "Mutares has completed its largest deal with the $450 million EV acquisition of Sabic\u2019s engineering thermoplastics business in the Americas and Europe. The post Graphite\u2019s Mike Tilbury: Rise of AI cont",
+      "company": "Graphite\u2019s Mike Tilbury: Rise",
+      "link": "https://www.pehub.com/graphites-mike-tilbury-rise-of-ai-content-could-lead-to-rights-clean-data-re-rating-mutares-completes-largest-ever-deal-with-sabic-carve-out/",
+      "date": "Aug 04, 26",
+      "source": "PE Hub",
+      "layer": 4,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
       "id": "ed24e331be68",
       "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
       "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
@@ -338,36 +412,6 @@
       "score": 11,
       "moments": [
         "company_launch"
-      ]
-    },
-    {
-      "id": "6e74bcb163ac",
-      "title": "Blue Jackets Merge TV and Radio Broadcasts",
-      "summary": "Jerome Miron-Imagn Images",
-      "company": "Blue Jackets Merge TV",
-      "link": "https://frontofficesports.com/blue-jackets-merge-radio-tv/",
-      "date": "Jul 30, 26",
-      "source": "Front Office Sports",
-      "layer": 3,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "ca80459e9c61",
-      "title": "Can Mary Beth Barone Revive Feminist Standup?",
-      "summary": "A decade ago, Amy Schumer became the only woman to headline Madison Square Garden. With a new Netflix special, Barone is looking to break out in a very different atmosphere.",
-      "company": "Can Mary Beth Barone Revive Feminist",
-      "link": "https://www.nytimes.com/2026/07/31/arts/television/mary-beth-barone-galaxy-brain-comedy.html",
-      "date": "Jul 31, 26",
-      "source": "NYT Arts",
-      "layer": 3,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "festival_headliner"
       ]
     },
     {
@@ -386,33 +430,18 @@
       ]
     },
     {
-      "id": "92ac68faa9bc",
-      "title": "Cosmobilis and Park Square Capital acquire WRC commercial rights in landmark motorsport deal",
-      "summary": "French automotive group Cosmobilis and private credit investor Park Square Capital have completed the acquisition of the commercial rights to the FIA World Rally Championship and FIA European Rally Ch",
-      "company": "Cosmobilis and Park Square Capital",
-      "link": "https://www.privateequitywire.co.uk/cosmobilis-and-park-square-capital-acquire-wrc-commercial-rights-in-landmark-motorsport-deal/",
+      "id": "2f4c000e22c9",
+      "title": "NCAA Seeks Stay of Eligibility Injunction, Citing Athlete Ousters",
+      "summary": "Late Sunday, the NCAA filed an emergency motion in hopes that a federal judge will stay a nationwide injunction she granted that allows a potential extra year of eligibility for a class of college ath",
+      "company": "NCAA Seeks Stay",
+      "link": "https://www.sportico.com/law/analysis/2026/ncaa-demands-stay-displaced-athletes-could-sue-1234940860/",
       "date": "Aug 03, 26",
-      "source": "PE Wire",
-      "layer": 2,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "7573a2342639",
-      "title": "GTCR wraps up capital solutions vehicle with $1.25bn raise",
-      "summary": "GTCR has closed its first ever Capital Solutions Fund, bringing in roughly $1.25bn in total commitments across the vehicle and its affiliated entities. The capital came almost entirely from investors ",
-      "company": "GTCR",
-      "link": "https://www.altassets.net/premium/gtcr-wraps-up-capital-solutions-vehicle-with-1-25bn-raise.html",
-      "date": "Jul 30, 26",
-      "source": "AltAssets",
+      "source": "Sportico",
       "layer": 4,
       "access": "pe",
       "score": 6,
       "moments": [
-        "company_launch"
+        "acquisition"
       ]
     },
     {
@@ -429,19 +458,6 @@
       "moments": [
         "acquisition"
       ]
-    },
-    {
-      "id": "9b317e6299fe",
-      "title": "Live Nation Revenue Hits $7.7B as DOJ Antitrust Fight Looms",
-      "summary": "Live Nation\u2019s concert machine kept roaring in the second quarter, delivering record attendance, accelerating ticket sales and another sizable revenue... The post Live Nation Revenue Hits $7.7B as DOJ ",
-      "company": "Live Nation Revenue Hits",
-      "link": "https://www.ticketnews.com/2026/07/live-nation-revenue-7-7-billion-doj-antitrust-fight-looms/",
-      "date": "Jul 30, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 27,
-      "moments": []
     },
     {
       "id": "8c9de1e55b7d",
@@ -470,55 +486,29 @@
       "moments": []
     },
     {
-      "id": "4c09e7adea52",
-      "title": "Ticketmaster Outlines AI-Driven Ticket Pricing Future in Earnings Call",
-      "summary": "Live Nation\u2019s ticketing division generated nearly twice as much operating income as its concert business as executives described using artificial... The post Ticketmaster Outlines AI-Driven Ticket Pri",
-      "company": "",
-      "link": "https://www.ticketnews.com/2026/07/ticketmaster-outlines-ai-driven-ticket-pricing-future-in-earnings-call/",
-      "date": "Jul 31, 26",
-      "source": "Ticket News",
+      "id": "e0c7fe326415",
+      "title": "How Paramount\u2019s Legal Defense United NCAA Antitrust Adversaries",
+      "summary": "For the past six years, antitrust legal giants Beth Wilkinson and Jeffrey Kessler have been locked in a high-profile courtroom battle over whether the NCAA and its member institutions have lived up to",
+      "company": "How Paramount\u2019s Legal Defense United NCAA",
+      "link": "https://www.sportico.com/law/news/2026/ncaa-antitrust-adversaries-defend-paramount-wbd-deal-1234940895/",
+      "date": "Aug 04, 26",
+      "source": "Sportico",
       "layer": 3,
-      "access": "public",
-      "score": 13,
-      "moments": []
-    },
-    {
-      "id": "593104d35158",
-      "title": "Luke Combs review \u2013 regular Joe megastar brings the arena-sized party home",
-      "summary": "Murrayfield Stadium, EdinburghDespite his humble persona, the highest-selling country artist of all time has the vocal firepower and heavyweight hits to deliver two hours of crowd-pleasin\u2019 pyrotechnic",
-      "company": "Luke Combs",
-      "link": "https://www.theguardian.com/music/2026/jul/26/luke-combs-review-regular-joe-megastar-brings-the-arena-sized-party-home",
-      "date": "Jul 26, 26",
-      "source": "Guardian Music",
-      "layer": 2,
-      "access": "pe",
-      "score": 12,
-      "moments": []
-    },
-    {
-      "id": "ff9693a883f3",
-      "title": "Ariana Grande to take \u2018a step back\u2019 from public life due to \u2018endless, ongoing scrutiny\u2019",
-      "summary": "Singer was due to reunite with Wicked co-star Jonathan Bailey in London production of Sunday in the Park With GeorgeAriana Grande has announced plans to take a break from public-facing work after her ",
-      "company": "Ariana Grande",
-      "link": "https://www.theguardian.com/music/2026/aug/03/ariana-grande-statement-step-back-public-life-eternal-sunshine-tour",
-      "date": "Aug 02, 26",
-      "source": "Guardian Music",
-      "layer": 4,
       "access": "pe",
       "score": 7,
       "moments": []
     },
     {
-      "id": "f1d2c4a0ca28",
-      "title": "Ticketmaster Users Report Site Down Friday",
-      "summary": "Those trying to access tickets on their Ticketmaster accounts Friday afternoon were met with some bad news: the ticketing giant\u2019s... The post Ticketmaster Users Report Site Down Friday appeared first ",
-      "company": "Ticketmaster Users Report Site Down Friday",
-      "link": "https://www.ticketnews.com/2026/07/ticketmaster-users-report-site-down-friday/",
-      "date": "Jul 31, 26",
-      "source": "Ticket News",
+      "id": "5ee1a43ccad9",
+      "title": "David Ellison Says Opposition to Paramount-Warner Bros. Is Over His Control of CNN, Claims He Will Not \u2018Bend Newsrooms to My Views\u2019",
+      "summary": "Paramount CEO David Ellison said he believes the antitrust litigation filed by 12 states and the Writers Guild of America isn&#8217;t about market share but about &#8220;whether I can be trusted as a ",
+      "company": "David Ellison Says Opposition",
+      "link": "https://variety.com/2026/tv/news/david-ellison-cnn-paramount-warner-bros-trusted-steward-1236827405/",
+      "date": "Aug 04, 26",
+      "source": "Variety Biz",
       "layer": 3,
       "access": "pe",
-      "score": 6,
+      "score": 7,
       "moments": []
     },
     {
@@ -543,6 +533,19 @@
       "date": "May 09, 26",
       "source": "Venues Today",
       "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "9282ac951404",
+      "title": "California Ticketing Bills Progress, But Lawmakers Show Increasing Concern Over Proposed Price Cap",
+      "summary": "Both measures remain alive ahead of a key Senate fiscal deadline, but AB 1720 now faces a formal Department of... The post California Ticketing Bills Progress, But Lawmakers Show Increasing Concern Ov",
+      "company": "",
+      "link": "https://www.ticketnews.com/2026/08/california-ticketing-bills-progress-but-lawmakers-show-increasing-concern-over-proposed-price-cap/",
+      "date": "Aug 04, 26",
+      "source": "Ticket News",
+      "layer": 3,
       "access": "pe",
       "score": 4,
       "moments": []
