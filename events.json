@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-04T14:25:45.966401+00:00",
+  "generated": "2026-08-05T14:19:36.661059+00:00",
   "total": 37,
   "scraped": [
     {
@@ -20,35 +20,68 @@
       ]
     },
     {
-      "id": "f2c856495247",
-      "title": "\u2018He liked to get people\u2019s blood boiling\u2019: metal masters Mastodon on the loss of bandmate Brent Hinds \u2013 and his shocking words before his death",
-      "summary": "The Grammy-winning band had an acrimonious rift with Hinds \u2013 then he died in a motorbike crash. They explain how they\u2019re paying tribute on their new album, and why their love for each other never ende",
-      "company": "\u2018He",
-      "link": "https://www.theguardian.com/music/2026/jul/28/metal-masters-mastodon-on-loss-of-brent-hinds-new-album-marrow-deep-interview",
-      "date": "Jul 28, 26",
-      "source": "Guardian Music",
+      "id": "7ea8f9e0c9f5",
+      "title": "Game, set, Chat: how tennis players use AI to scout opponents and run their lives",
+      "summary": "The emergence of GenAI has led to a generational shift with stars conflicted on the impact of technology on their sportNot so long ago, Emma Raducanu was on her phone when she found herself wondering ",
+      "company": "Game",
+      "link": "https://www.theguardian.com/sport/2026/aug/05/ai-chatgpt-robots-tennis-players-scouting-technology",
+      "date": "Aug 05, 26",
+      "source": "Guardian Sport",
       "layer": 1,
       "access": "pe",
-      "score": 21,
+      "score": 19,
       "moments": [
-        "album_announcement",
-        "record_breaking"
+        "acquisition",
+        "streaming_milestone",
+        "company_launch"
       ]
     },
     {
-      "id": "4e410ddc493c",
-      "title": "Naval shipbuilding attracts private equity; Sheridan acquires Carolina Components; KKR to take Integer Holdings private for $5.7bn",
-      "summary": "A look at the growing private equity interest in investing in Naval-centric deals; Sheridan Capital Partners acquires Carolina Components Group, a provider of custom-engineered bioprocessing assemblie",
-      "company": "Naval",
-      "link": "https://www.pehub.com/naval-shipbuilding-attracts-private-equity-sheridan-acquires-carolina-components-kkr-to-take-integer-holdings-private-for-5-7bn/",
+      "id": "c37ac4c4e686",
+      "title": "Adams Street tops $5bn for secondaries programme as record deal volumes fuel latest raise",
+      "summary": "Adams Street Partners has raised more than $5bn for its latest secondaries investment programme, as the private markets investor looks to capitalize on a secondary market that surpassed $200bn of annu",
+      "company": "Adams Street",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/adams-street-tops-5bn-for-secondaries-programme-as-record-deal-volumes-fuel-latest-raise.html",
       "date": "Aug 04, 26",
-      "source": "PE Hub",
+      "source": "AltAssets",
+      "layer": 3,
+      "access": "pe",
+      "score": 21,
+      "moments": [
+        "record_deal",
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "ad3c85774f06",
+      "title": "Bridgepoint surges past target with \u20ac5.1bn direct lending fund close",
+      "summary": "Bridgepoint has soared past its fundraising target for its latest European direct lending strategy, closing Bridgepoint Direct Lending IV on \u20ac5.1bn. The post Bridgepoint surges past target with \u20ac5.1bn",
+      "company": "Bridgepoint",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/bridgepoint-surges-past-target-with-e5-1bn-direct-lending-fund-close.html",
+      "date": "Aug 04, 26",
+      "source": "AltAssets",
+      "layer": 1,
+      "access": "pe",
+      "score": 18,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "f7cd339bfe47",
+      "title": "Wynonna Judd Sets Fall 2026 U.S.\u2019The Hard Truth\u2019 Tour Dates",
+      "summary": "Wynonna Judd has announced her fall 2026 &#8220;The Hard Truth Tour,&#8221; a 15-date U.S. headlining run supporting her upcoming solo... The post Wynonna Judd Sets Fall 2026 U.S.\u2019The Hard Truth\u2019 Tour",
+      "company": "Wynonna Judd Sets Fall",
+      "link": "https://www.ticketnews.com/2026/08/wynonna-judd-sets-fall-2026-u-s-the-hard-truth-tour-dates/",
+      "date": "Aug 04, 26",
+      "source": "Ticket News",
       "layer": 5,
       "access": "pe",
       "score": 16,
       "moments": [
-        "acquisition",
-        "pe_investment"
+        "tour_announcement",
+        "festival_headliner"
       ]
     },
     {
@@ -115,21 +148,6 @@
       ]
     },
     {
-      "id": "8c03bce56d9b",
-      "title": "Mutares closes $450m acquisition of SABIC engineering thermoplastics unit",
-      "summary": "The business, rebranded NexPoint Materials under a new chemicals and materials division, employs about 2,800 people and generates roughly $2.5bn in annual revenue. The post Mutares closes $450m acquis",
-      "company": "Mutares",
-      "link": "https://www.pehub.com/mutares-closes-450m-acquisition-of-sabic-engineering-thermoplastics-unit/",
-      "date": "Aug 04, 26",
-      "source": "PE Hub",
-      "layer": 2,
-      "access": "pe",
-      "score": 19,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
       "id": "57e053f5af7c",
       "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
       "summary": "The new funding brings Index's total available investing capital to $3.5 billion.",
@@ -145,33 +163,18 @@
       ]
     },
     {
-      "id": "4d2abf558b4c",
-      "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
-      "summary": "AI infrastructure company Infinity announced Monday a $15 million raise at a $100 million valuation from investors including Touring Capital, Principal VC, and researchers from companies such as OpenA",
-      "company": "Inference startup Infinity",
-      "link": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
-      "date": "Jul 20, 26",
-      "source": "TechCrunch Venture",
-      "layer": 1,
-      "access": "venture",
-      "score": 18,
-      "moments": [
-        "funding_round"
-      ]
-    },
-    {
-      "id": "805247f04d05",
-      "title": "AI Studio Asteria Strikes Strategic Partnership with Virtual Production Studio ZeroSpace (EXCLUSIVE)",
-      "summary": "Asteria, the AI studio co-founded by filmmaker Bryn Mooser and Natasha Lyonne, has struck a strategic partnership with ZeroSpace, a virtual production studio, in the hopes of transforming hybrid model",
-      "company": "",
-      "link": "https://variety.com/2026/biz/news/ai-studio-asteria-strikes-strategic-partnership-zerospace-1236825083/",
-      "date": "Jul 31, 26",
-      "source": "Variety Biz",
-      "layer": 4,
+      "id": "8054ad391c47",
+      "title": "Fuerza Regida to Headline Superstar Q&A at Billboard Latin Music Week 2026",
+      "summary": "The Mexican music superstars, currently on their history-making U.S. stadium tour, will join the event\u2019s star-studded lineup in Miami this October.",
+      "company": "Fuerza Regida",
+      "link": "https://www.billboard.com/music/latin/fuerza-regida-q-a-interview-latin-music-week-2026-1236308729/",
+      "date": "Aug 05, 26",
+      "source": "Billboard",
+      "layer": 2,
       "access": "pe",
       "score": 15,
       "moments": [
-        "company_launch"
+        "festival_headliner"
       ]
     },
     {
@@ -220,18 +223,33 @@
       ]
     },
     {
-      "id": "8ad0ace7a33e",
-      "title": "Scout Motors Salutes Hard-working Americans at Rolling Stone\u2019s July 4th Stateside Fest",
-      "summary": "It wasn&#8217;t just any Fourth of July. It was America&#8217;s 250th birthday, and fittingly, Rolling Stone brought its inaugural Stateside festival to Kingston, N.Y. \u2014 New York&#8217;s first capital",
-      "company": "Scout Motors Salutes Hard-working Americans",
-      "link": "https://www.rollingstone.com/music/music-news/scout-motors-rolling-stone-july-4th-stateside-1235601199/",
-      "date": "Aug 03, 26",
-      "source": "Rolling Stone News",
+      "id": "afbfbe792a6e",
+      "title": "New MLS Commish Berg to Sort Out Roster Rules Before Media Rights",
+      "summary": "The first move Larry Berg made when he was asked about his vision for pursuing the MLS\u2019 next media rights deal was to boot the question over to Don Garber. \u201cAs the incoming commissioner I\u2019m allowed to",
+      "company": "New MLS Commish Berg",
+      "link": "https://www.sportico.com/business/media/2026/mls-commish-berg-media-rights-roster-rules-1234941011/",
+      "date": "Aug 04, 26",
+      "source": "Sportico",
       "layer": 1,
       "access": "pe",
       "score": 14,
       "moments": [
-        "festival_headliner"
+        "rights_deal"
+      ]
+    },
+    {
+      "id": "3d7be40f72f3",
+      "title": "Judge Sets Paramount-Warner Bros. Antitrust Trial for March 2027",
+      "summary": "The judge hearing the antitrust case seeking to block the Paramount-Warner Bros. Discovery merger has issued a preliminary scheduling order, with a trial set to start in March 2027 &#8212; considerabl",
+      "company": "",
+      "link": "https://variety.com/2026/tv/news/paramount-warner-bros-antitrust-trial-date-march-2027-1236827843/",
+      "date": "Aug 04, 26",
+      "source": "Variety Biz",
+      "layer": 3,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "acquisition"
       ]
     },
     {
@@ -265,18 +283,18 @@
       ]
     },
     {
-      "id": "40c2e05e107b",
-      "title": "\u2018They are terrified\u2019: Como spark row with fans over controversial new stadium policy",
-      "summary": "Supporters must not miss more than three home gamesSerie A club\u2019s chairman defends new rulesComo, the surprise package of last season\u2019s Serie A, who qualified for the Champions League for the first ti",
-      "company": "\u2018They",
-      "link": "https://www.theguardian.com/football/2026/aug/03/they-are-terrified-como-spark-row-with-fans-over-controversial-new-stadium-policy",
-      "date": "Aug 03, 26",
-      "source": "Guardian Sport",
-      "layer": 2,
+      "id": "7e75bc3d9862",
+      "title": "Paramount Antitrust Trial Delayed As Ellison Makes Case for Merger",
+      "summary": "REUTERS/Caroline Brehman",
+      "company": "Paramount Antitrust Trial Delayed As Ellison",
+      "link": "https://frontofficesports.com/paramount-antitrust-trial-delayed-as-ellison-makes-case-for-merger/",
+      "date": "Aug 04, 26",
+      "source": "Front Office Sports",
+      "layer": 3,
       "access": "pe",
-      "score": 13,
+      "score": 12,
       "moments": [
-        "venue_announcement"
+        "acquisition"
       ]
     },
     {
@@ -292,21 +310,6 @@
       "score": 12,
       "moments": [
         "company_launch"
-      ]
-    },
-    {
-      "id": "23756b5f2d82",
-      "title": "5 reasons private equity is betting big on US Naval investments",
-      "summary": "The US Navy budget is over $300bn, a figure which is larger than the GDP of over 75% of the world\u2019s countries and most economic sectors here in the US, according to Ben Ramundo, a managing director at",
-      "company": "",
-      "link": "https://www.pehub.com/5-reasons-private-equity-is-betting-big-on-us-naval-investments/",
-      "date": "Aug 04, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "pe_investment"
       ]
     },
     {
@@ -355,6 +358,21 @@
       ]
     },
     {
+      "id": "1c6bd68539a0",
+      "title": "Highland Europe raises record \u20ac1.1bn Fund VI after year of strong exits",
+      "summary": "Highland Europe has raised its largest fund to date, securing \u20ac1.1bn for its sixth vehicle as the growth-stage technology investor looks to capitalise on what it describes as a \"transformational\" peri",
+      "company": "Highland Europe",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/highland-europe-raises-record-e1-1bn-fund-vi-after-year-of-strong-exits.html",
+      "date": "Aug 04, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
       "id": "3d754cf3a4fe",
       "title": "Pantheon pulls in $3.2bn for biggest co-investment fund yet",
       "summary": "Pantheon has closed its largest dedicated co-investment programme to date, raising $3.2bn amid continued investor demand for lower-cost, direct private equity exposure. The post Pantheon pulls in $3.2",
@@ -367,36 +385,6 @@
       "score": 12,
       "moments": [
         "pe_investment"
-      ]
-    },
-    {
-      "id": "5d0ab5c05150",
-      "title": "Kylie Cantrall Plots First Headlining Tour in Support of \u2018Valley Girl Problems\u2019 EP",
-      "summary": "Kylie Cantrall is stepping into the spotlight with her first-ever headlining tour. The singer and actress will launch &#8220;The Valley... The post Kylie Cantrall Plots First Headlining Tour in Suppor",
-      "company": "Kylie Cantrall Plots First Headlining Tour",
-      "link": "https://www.ticketnews.com/2026/08/kylie-cantrall-headlining-tour-ep/",
-      "date": "Aug 03, 26",
-      "source": "Ticket News",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "1859694ef7e3",
-      "title": "Graphite\u2019s Mike Tilbury: Rise of AI content could lead to \u2018rights-clean\u2019 data re-rating; Mutares completes largest-ever deal with Sabic carve-out",
-      "summary": "Mutares has completed its largest deal with the $450 million EV acquisition of Sabic\u2019s engineering thermoplastics business in the Americas and Europe. The post Graphite\u2019s Mike Tilbury: Rise of AI cont",
-      "company": "Graphite\u2019s Mike Tilbury: Rise",
-      "link": "https://www.pehub.com/graphites-mike-tilbury-rise-of-ai-content-could-lead-to-rights-clean-data-re-rating-mutares-completes-largest-ever-deal-with-sabic-carve-out/",
-      "date": "Aug 04, 26",
-      "source": "PE Hub",
-      "layer": 4,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "acquisition"
       ]
     },
     {
@@ -430,12 +418,27 @@
       ]
     },
     {
-      "id": "2f4c000e22c9",
-      "title": "NCAA Seeks Stay of Eligibility Injunction, Citing Athlete Ousters",
-      "summary": "Late Sunday, the NCAA filed an emergency motion in hopes that a federal judge will stay a nationwide injunction she granted that allows a potential extra year of eligibility for a class of college ath",
-      "company": "NCAA Seeks Stay",
-      "link": "https://www.sportico.com/law/analysis/2026/ncaa-demands-stay-displaced-athletes-could-sue-1234940860/",
-      "date": "Aug 03, 26",
+      "id": "666ccc2fe5da",
+      "title": "PE-backed ContextLogic to acquire chemicals manufacturer gChem from EagleTree for $850m",
+      "summary": "gChem will become ContextLogic\u2019s second operating business, following its early 2026 acquisition of US Salt The post PE-backed ContextLogic to acquire chemicals manufacturer gChem from EagleTree for $",
+      "company": "PE-backed ContextLogic to",
+      "link": "https://www.pehub.com/pe-backed-contextlogic-to-acquire-chemicals-manufacturer-gchem-from-eagletree-for-850m/",
+      "date": "Aug 05, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "8821b3e565ba",
+      "title": "Wisne v. NCAA Emergency Motion Demands D-I Transfer Portal Pass",
+      "summary": "The&#160;Wisne v. NCAA&#160;athletes who received an injunction to play another college season are now accusing the NCAA of wrongly preventing them from joining teams. In an emergency motion filed Tue",
+      "company": "Wisne",
+      "link": "https://www.sportico.com/law/analysis/2026/transfer-portal-ncaa-emergency-motion-1234941013/",
+      "date": "Aug 04, 26",
       "source": "Sportico",
       "layer": 4,
       "access": "pe",
@@ -460,42 +463,42 @@
       ]
     },
     {
-      "id": "8c9de1e55b7d",
-      "title": "Amazon Q2 Ad Revenue Up 26% as Tech Giant\u2019s Profit Booms to $62.6 Billion on Anthropic Investments",
-      "summary": "Amazon reported its second-quarter 2026 earnings Thursday, revealing it beat Wall Street&#8217;s estimates with more than $200 billion in revenue for the April-June period. Advertising services revenu",
-      "company": "Amazon Q2 Ad Revenue Up",
-      "link": "https://variety.com/2026/digital/news/amazon-ad-sales-q2-profit-62-billion-anthropic-1236824567/",
-      "date": "Jul 30, 26",
-      "source": "Variety Biz",
+      "id": "593104d35158",
+      "title": "Luke Combs review \u2013 regular Joe megastar brings the arena-sized party home",
+      "summary": "Murrayfield Stadium, EdinburghDespite his humble persona, the highest-selling country artist of all time has the vocal firepower and heavyweight hits to deliver two hours of crowd-pleasin\u2019 pyrotechnic",
+      "company": "Luke Combs",
+      "link": "https://www.theguardian.com/music/2026/jul/26/luke-combs-review-regular-joe-megastar-brings-the-arena-sized-party-home",
+      "date": "Jul 26, 26",
+      "source": "Guardian Music",
       "layer": 2,
-      "access": "public",
-      "score": 14,
+      "access": "pe",
+      "score": 12,
       "moments": []
     },
     {
-      "id": "d40b957f0fc5",
-      "title": "Sony Pictures Revenue Drops 13% in June Quarter, Music Segment Sales Jump 21%",
-      "summary": "Sony Pictures Entertainment posted a sales decline for the June 2026 quarter, offset by growth at Crunchyroll, while Sony&#8217;s music segment saw revenue increase 21%. The PlayStation games unit had",
-      "company": "Sony Pictures Revenue Drops",
-      "link": "https://variety.com/2026/film/news/sony-pictures-earnings-june-2026-music-playstation-sales-1236824839/",
-      "date": "Jul 31, 26",
-      "source": "Variety Biz",
+      "id": "9238350fcd3e",
+      "title": "With Dodger Stadium show, Fuerza Regida are living out their Mexican American dreams",
+      "summary": "In June, the San Bernardino band embarked on its This Is Our Dream stadium tour across nine U.S. cities. The tour does more than showcase the band's recent mainstream success \u2014 it honors the years of ",
+      "company": "With Dodger Stadium",
+      "link": "https://www.latimes.com/delos/story/2026-07-24/fuerza-regida-dodger-stadium-this-is-our-dream-tour-interview",
+      "date": "Jul 24, 26",
+      "source": "LA Times Music",
       "layer": 2,
       "access": "pe",
-      "score": 13,
+      "score": 8,
       "moments": []
     },
     {
-      "id": "e0c7fe326415",
-      "title": "How Paramount\u2019s Legal Defense United NCAA Antitrust Adversaries",
-      "summary": "For the past six years, antitrust legal giants Beth Wilkinson and Jeffrey Kessler have been locked in a high-profile courtroom battle over whether the NCAA and its member institutions have lived up to",
-      "company": "How Paramount\u2019s Legal Defense United NCAA",
-      "link": "https://www.sportico.com/law/news/2026/ncaa-antitrust-adversaries-defend-paramount-wbd-deal-1234940895/",
-      "date": "Aug 04, 26",
-      "source": "Sportico",
-      "layer": 3,
+      "id": "2ac52247141d",
+      "title": "Lopez: Dodger Stadium gondola plan about to hit heavy turbulence as state park defenders play hardball",
+      "summary": "L.A. State Historic Park is a public space, defenders say, not a private playground for billionaires.",
+      "company": "Lopez",
+      "link": "https://www.latimes.com/california/story/2026-08-01/dodger-stadium-gondola-plan-about-to-hit-heavy-turbulence-as-park-defenders-play-hardball",
+      "date": "Aug 01, 26",
+      "source": "LA Times Sports",
+      "layer": 2,
       "access": "pe",
-      "score": 7,
+      "score": 8,
       "moments": []
     },
     {
@@ -512,15 +515,28 @@
       "moments": []
     },
     {
-      "id": "ef89c4e3f2f2",
-      "title": "Trump's comments reignite Blanche confirmation fight",
-      "summary": "The Trump administration is still pushing lawmakers to confirm acting Attorney General Todd Blanche, even as President Trump defends the \"anti-weaponization\" fund holding Blanche's confirmation hostag",
-      "company": "Trump's",
-      "link": "https://www.axios.com/2026/07/31/trump-blanche-doj-anti-weaponization-fund-dead",
-      "date": "Jul 31, 26",
+      "id": "f72fc25f2ccc",
+      "title": "OpenAI to pay $3.2M to settle DOJ worker discrimination case",
+      "summary": "OpenAI agreed Tuesday to pay $3.2 million to settle Justice Department allegations that it discriminated against U.S. workers by favoring temporary visa holders for jobs, according to the DOJ.Why it m",
+      "company": "OpenAI",
+      "link": "https://www.axios.com/2026/08/04/trump-doj-openai-hiring-settlement",
+      "date": "Aug 04, 26",
       "source": "Axios",
       "layer": 3,
       "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "43c45d95019f",
+      "title": "BRCB Deadline Alert: Levi &amp; Korsinsky Reminds Black Rock Coffee Bar, Inc. (BRCB) Investors of Securities Class Action Deadline on August 17, 2026",
+      "summary": "Important Notice Regarding Alleged Store Cannibalization Misrepresentations That Cost BRCB Investors Over 30% in a Single Day NEW YORK, Aug. 5, 2026 /PRNewswire/ -- Levi & Korsinsky, LLP notifies inve",
+      "company": "BRCB Deadline Alert",
+      "link": "https://www.prnewswire.com/news-releases/brcb-deadline-alert-levi--korsinsky-reminds-black-rock-coffee-bar-inc-brcb-investors-of-securities-class-action-deadline-on-august-17-2026-302843315.html",
+      "date": "Aug 05, 26",
+      "source": "PR Newswire",
+      "layer": 4,
+      "access": "public",
       "score": 5,
       "moments": []
     },
@@ -533,19 +549,6 @@
       "date": "May 09, 26",
       "source": "Venues Today",
       "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "9282ac951404",
-      "title": "California Ticketing Bills Progress, But Lawmakers Show Increasing Concern Over Proposed Price Cap",
-      "summary": "Both measures remain alive ahead of a key Senate fiscal deadline, but AB 1720 now faces a formal Department of... The post California Ticketing Bills Progress, But Lawmakers Show Increasing Concern Ov",
-      "company": "",
-      "link": "https://www.ticketnews.com/2026/08/california-ticketing-bills-progress-but-lawmakers-show-increasing-concern-over-proposed-price-cap/",
-      "date": "Aug 04, 26",
-      "source": "Ticket News",
-      "layer": 3,
       "access": "pe",
       "score": 4,
       "moments": []
