@@ -1,24 +1,7 @@
 {
-  "generated": "2026-08-05T14:19:36.661059+00:00",
-  "total": 37,
+  "generated": "2026-08-06T14:22:39.276945+00:00",
+  "total": 36,
   "scraped": [
-    {
-      "id": "b663a16bf359",
-      "title": "Align Ventures raises $125m second fund after string of successful exits",
-      "summary": "Align Ventures has hit an above-target close for its second early-stage fund in the wake of a series of successful Fund I exits, the firm said. The post Align Ventures raises $125m second fund after s",
-      "company": "Align Ventures",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/align-ventures-raises-125m-second-fund-after-string-of-successful-exits.html",
-      "date": "Aug 03, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 20,
-      "moments": [
-        "funding_round",
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
     {
       "id": "7ea8f9e0c9f5",
       "title": "Game, set, Chat: how tennis players use AI to scout opponents and run their lives",
@@ -69,19 +52,51 @@
       ]
     },
     {
-      "id": "f7cd339bfe47",
-      "title": "Wynonna Judd Sets Fall 2026 U.S.\u2019The Hard Truth\u2019 Tour Dates",
-      "summary": "Wynonna Judd has announced her fall 2026 &#8220;The Hard Truth Tour,&#8221; a 15-date U.S. headlining run supporting her upcoming solo... The post Wynonna Judd Sets Fall 2026 U.S.\u2019The Hard Truth\u2019 Tour",
-      "company": "Wynonna Judd Sets Fall",
-      "link": "https://www.ticketnews.com/2026/08/wynonna-judd-sets-fall-2026-u-s-the-hard-truth-tour-dates/",
-      "date": "Aug 04, 26",
-      "source": "Ticket News",
-      "layer": 5,
+      "id": "a1e6cb16594f",
+      "title": "ZZ Top Cancel Hollywood Bowl Concert Due to \u2018Insurmountable Obstacles\u2019",
+      "summary": "Cheap Trick, who have been sharing select tour dates with the band, announced that they would hold an \u201cintimate\u201d show at the Troubadour instead",
+      "company": "ZZ Top Cancel Hollywood Bowl Concert",
+      "link": "https://www.rollingstone.com/music/music-news/zz-top-cancel-hollywood-bowl-concert-cheap-trick-troubador-1235604394/",
+      "date": "Aug 06, 26",
+      "source": "Rolling Stone Music",
+      "layer": 1,
       "access": "pe",
       "score": 16,
       "moments": [
         "tour_announcement",
         "festival_headliner"
+      ]
+    },
+    {
+      "id": "59d445789838",
+      "title": "Europe\u2019s IPO window is open \u2013 but PE firms face a shrinking pool of public market exits",
+      "summary": "Europe\u2019s IPO market has reopened after the 2022 correction, but the backlog of potential listings is rapidly narrowing, creating a more selective exit environment for private equity sponsors, PitchBoo",
+      "company": "Europe\u2019s IPO",
+      "link": "https://www.altassets.net/featured/europes-ipo-window-is-open-but-pe-firms-face-a-shrinking-pool-of-public-market-exits.html",
+      "date": "Aug 06, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "ipo",
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "8098539d8825",
+      "title": "KKR closes record $19.2bn infrastructure fund as firm\u2019s infra platform nears $120bn",
+      "summary": "KKR has raised $19.2bn for its biggest-ever infrastructure investment fund as investor demand for critical infra continues to accelerate - particularly around digital infrastructure, energy transition",
+      "company": "KKR",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/kkr-closes-record-19-2bn-infrastructure-fund-as-firms-infra-platform-nears-120bn.html",
+      "date": "Aug 06, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
@@ -101,35 +116,35 @@
       ]
     },
     {
-      "id": "b036c476cc99",
-      "title": "General Electric pension commits $100m to Janus Henderson, Victory Park Capital, Privacore Capital credit interval fund",
-      "summary": "Janus Henderson, Victory Park Capital and Privacore Capital have raised an additional $100m for their private asset-backed credit interval fund AltsABF from General Electric Pension Trust. The post Ge",
-      "company": "General Electric",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/100209490.html",
-      "date": "Aug 04, 26",
-      "source": "AltAssets",
+      "id": "50e15e270ee9",
+      "title": "Partners Group to acquire Aroma-Zone from Eurazeo",
+      "summary": "Aroma-Zone, founded in 1999, offers a range of beauty and wellness products. The post Partners Group to acquire Aroma-Zone from Eurazeo appeared first on PE Hub.",
+      "company": "Partners Group to",
+      "link": "https://www.pehub.com/partners-group-to-acquire-aroma-zone-from-eurazeo/",
+      "date": "Aug 06, 26",
+      "source": "PE Hub",
       "layer": 5,
       "access": "pe",
       "score": 13,
       "moments": [
-        "pe_investment",
-        "lp_commitment"
+        "acquisition",
+        "company_launch"
       ]
     },
     {
-      "id": "8fd9a28f6fa9",
-      "title": "Index Ventures doubles down on AI opportunity with $3.5bn across seed, venture and growth strategies",
-      "summary": "Index Ventures has expanded its latest fundraise to $3.5bn across seed, venture and growth investing as the venture firm positions itself to back founders throughout the AI cycle. The post Index Ventu",
-      "company": "Index Ventures",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/index-ventures-doubles-down-on-ai-opportunity-with-3-5bn-across-seed-venture-and-growth-strategies.html",
-      "date": "Aug 03, 26",
+      "id": "ff119da4a5a5",
+      "title": "Deal Roundup: Partners Group takes majority stake in AVK, in talks to buy Eurazeo\u2019s Aroma-Zone",
+      "summary": "Partners Group has entered exclusive discussions to acquire a majority stake in Aroma-Zone, a French natural beauty, wellness and selfcare brand, from Eurazeo. The post Deal Roundup: Partners Group ta",
+      "company": "Deal Roundup",
+      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-partners-group-takes-majority-stake-in-avk-in-talks-to-buy-eurazeos-aroma-zone.html",
+      "date": "Aug 06, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
       "score": 13,
       "moments": [
-        "pe_investment",
-        "company_launch"
+        "acquisition",
+        "pe_investment"
       ]
     },
     {
@@ -163,18 +178,18 @@
       ]
     },
     {
-      "id": "8054ad391c47",
-      "title": "Fuerza Regida to Headline Superstar Q&A at Billboard Latin Music Week 2026",
-      "summary": "The Mexican music superstars, currently on their history-making U.S. stadium tour, will join the event\u2019s star-studded lineup in Miami this October.",
-      "company": "Fuerza Regida",
-      "link": "https://www.billboard.com/music/latin/fuerza-regida-q-a-interview-latin-music-week-2026-1236308729/",
+      "id": "e37afb81d1ed",
+      "title": "Music Industry Moves: Alicia Keys Signs With CAA in All Areas; SONA\u2019s Emerging Songwriter Award Nominations Now Open",
+      "summary": "Alicia Keys has signed with CAA in all areas, the company announced earlier this week. Among her many achievements, the singer-songwriter has sold an estimated 65 million records since the release of ",
+      "company": "Music Industry Moves",
+      "link": "https://variety.com/2026/music/news/alicia-keys-signs-with-caa-1236828699/",
       "date": "Aug 05, 26",
-      "source": "Billboard",
-      "layer": 2,
+      "source": "Variety Music",
+      "layer": 1,
       "access": "pe",
-      "score": 15,
+      "score": 16,
       "moments": [
-        "festival_headliner"
+        "record_deal"
       ]
     },
     {
@@ -208,36 +223,6 @@
       ]
     },
     {
-      "id": "feae3c48997b",
-      "title": "Hamilton Lane backs $270m single-asset continuation vehicle to extend decade-long Savant investment",
-      "summary": "Hamilton Lane has strengthened its push into GP-led secondaries by acting as the sole lead investor in a $270m single-asset continuation vehicle for Savant Wealth Management. The post Hamilton Lane ba",
-      "company": "Hamilton Lane",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/hamilton-lane-backs-270m-single-asset-continuation-vehicle-to-extend-decade-long-savant-investment.html",
-      "date": "Aug 03, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "afbfbe792a6e",
-      "title": "New MLS Commish Berg to Sort Out Roster Rules Before Media Rights",
-      "summary": "The first move Larry Berg made when he was asked about his vision for pursuing the MLS\u2019 next media rights deal was to boot the question over to Don Garber. \u201cAs the incoming commissioner I\u2019m allowed to",
-      "company": "New MLS Commish Berg",
-      "link": "https://www.sportico.com/business/media/2026/mls-commish-berg-media-rights-roster-rules-1234941011/",
-      "date": "Aug 04, 26",
-      "source": "Sportico",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "rights_deal"
-      ]
-    },
-    {
       "id": "3d7be40f72f3",
       "title": "Judge Sets Paramount-Warner Bros. Antitrust Trial for March 2027",
       "summary": "The judge hearing the antitrust case seeking to block the Paramount-Warner Bros. Discovery merger has issued a preliminary scheduling order, with a trial set to start in March 2027 &#8212; considerabl",
@@ -253,33 +238,18 @@
       ]
     },
     {
-      "id": "2b06a2a62c5b",
-      "title": "Arca: XXXXX review \u2013 a wild, brilliant album that taps into our bodies\u2019 most feral frequencies",
-      "summary": "(XL)In the follow-up to her Kick series, Arca jumbles the building blocks of electronic music to create a beautiful, disorienting sound worldXXXXX, the new album by Venezuelan producer-vocalist Arca, ",
-      "company": "Arca",
-      "link": "https://www.theguardian.com/music/2026/jul/31/arca-xxxxx-review",
-      "date": "Jul 31, 26",
+      "id": "8b16db290924",
+      "title": "Blue Note to bring world-famous jazz club to London",
+      "summary": "Grammy-winning pianist Robert Glasper will headline opening of club\u2019s first UK venue in Covent Garden next monthThe world-famous New York jazz club Blue Note will open its first UK venue in London nex",
+      "company": "Blue Note",
+      "link": "https://www.theguardian.com/uk-news/2026/aug/06/blue-note-jazz-club-london",
+      "date": "Aug 06, 26",
       "source": "Guardian Music",
       "layer": 1,
       "access": "pe",
       "score": 14,
       "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "581a9198f8c7",
-      "title": "Browns Opt for Turf in New Stadium Despite NFLPA Push for Grass",
-      "summary": "Cleveland Browns/HKS",
-      "company": "Browns Opt",
-      "link": "https://frontofficesports.com/browns-opt-for-turf-in-new-stadium-despite-nflpa-push-for-grass/",
-      "date": "Aug 03, 26",
-      "source": "Front Office Sports",
-      "layer": 2,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "venue_announcement"
+        "festival_headliner"
       ]
     },
     {
@@ -295,21 +265,6 @@
       "score": 12,
       "moments": [
         "acquisition"
-      ]
-    },
-    {
-      "id": "b0be823b9f80",
-      "title": "Kevin Lyman on making Warped Tour the entry point for a new generation of festivalgoers",
-      "summary": "Warped Tour founder Kevin Lyman talks about the second year of the festival's return to Long Beach with bigger stages but familiar controlled chaos \u2014 merch tents, skate ramps, surprises.",
-      "company": "Kevin Lyman",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-07-23/kevin-lyman-on-making-warped-tour-entry-point-for-new-generation-of-festivalgoers",
-      "date": "Jul 23, 26",
-      "source": "LA Times Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "company_launch"
       ]
     },
     {
@@ -358,36 +313,6 @@
       ]
     },
     {
-      "id": "1c6bd68539a0",
-      "title": "Highland Europe raises record \u20ac1.1bn Fund VI after year of strong exits",
-      "summary": "Highland Europe has raised its largest fund to date, securing \u20ac1.1bn for its sixth vehicle as the growth-stage technology investor looks to capitalise on what it describes as a \"transformational\" peri",
-      "company": "Highland Europe",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/highland-europe-raises-record-e1-1bn-fund-vi-after-year-of-strong-exits.html",
-      "date": "Aug 04, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "3d754cf3a4fe",
-      "title": "Pantheon pulls in $3.2bn for biggest co-investment fund yet",
-      "summary": "Pantheon has closed its largest dedicated co-investment programme to date, raising $3.2bn amid continued investor demand for lower-cost, direct private equity exposure. The post Pantheon pulls in $3.2",
-      "company": "Pantheon",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/pantheon-pulls-in-3-2bn-for-biggest-co-investment-fund-yet.html",
-      "date": "Aug 03, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
       "id": "ed24e331be68",
       "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
       "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
@@ -400,6 +325,36 @@
       "score": 11,
       "moments": [
         "company_launch"
+      ]
+    },
+    {
+      "id": "70882b65bd59",
+      "title": "What Is David Ellison\u2019s Breaking Point?",
+      "summary": "David Ellison and the leadership team at Paramount expected to spend much of the summer settling into new digs with Warner Bros. Discovery. A few weeks ago, they privately predicted the merger of the ",
+      "company": "What Is David Ellison\u2019s Breaking Point?",
+      "link": "https://variety.com/2026/film/news/david-ellison-breaking-point-paramount-wb-merger-trial-1236828418/",
+      "date": "Aug 05, 26",
+      "source": "Variety Biz",
+      "layer": 3,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "a41d9df42586",
+      "title": "Joan Jett cancels tour dates due to \u201chealing process\u201d after surgery",
+      "summary": "The legendary rocker was recently treated for a fractured vertebrae The post Joan Jett cancels tour dates due to &#8220;healing process&#8221; after surgery appeared first on NME.",
+      "company": "Joan Jett",
+      "link": "https://www.nme.com/news/music/joan-jett-cancels-tour-dates-due-to-healing-process-after-surgery-3961198?utm_source=rss&utm_medium=rss&utm_campaign=joan-jett-cancels-tour-dates-due-to-healing-process-after-surgery",
+      "date": "Aug 06, 26",
+      "source": "NME",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "tour_announcement"
       ]
     },
     {
@@ -418,33 +373,63 @@
       ]
     },
     {
-      "id": "666ccc2fe5da",
-      "title": "PE-backed ContextLogic to acquire chemicals manufacturer gChem from EagleTree for $850m",
-      "summary": "gChem will become ContextLogic\u2019s second operating business, following its early 2026 acquisition of US Salt The post PE-backed ContextLogic to acquire chemicals manufacturer gChem from EagleTree for $",
-      "company": "PE-backed ContextLogic to",
-      "link": "https://www.pehub.com/pe-backed-contextlogic-to-acquire-chemicals-manufacturer-gchem-from-eagletree-for-850m/",
+      "id": "e133bc6c844d",
+      "title": "Commercials for the ESPN/ABC telecast of the 2027 Super Bowl at SoFi are sold out",
+      "summary": "Disney said 58 brands have bought time on the game, which is the most-watched TV event of the year.",
+      "company": "Commercials",
+      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-08-05/super-bowl-2027-commercials-espn-abc-sold-out",
       "date": "Aug 05, 26",
-      "source": "PE Hub",
+      "source": "LA Times Sports",
+      "layer": 3,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "record_breaking"
+      ]
+    },
+    {
+      "id": "07343cf111b1",
+      "title": "Outernet turns your saved posts into real-world adventures",
+      "summary": "Founded by the creators of viral offline events like San Francisco\u2019s citywide scavenger hunt Pursuit, Outernet's app helps users save places and events they discover online, then nudges them to actual",
+      "company": "Outernet",
+      "link": "https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/",
+      "date": "Aug 03, 26",
+      "source": "TechCrunch Startups",
+      "layer": 5,
+      "access": "venture",
+      "score": 9,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "6e1b6bbf4733",
+      "title": "Bodycote attracts rival \u00a31.56bn buyout approaches from CVC and Veritas Capital",
+      "summary": "UK-listed thermal processing specialist Bodycote has confirmed it is evaluating competing takeover proposals from private equity firms CVC Advisers and Veritas Capital, with each valuing the business ",
+      "company": "Bodycote",
+      "link": "https://www.privateequitywire.co.uk/bodycote-attracts-rival-1-56bn-buyout-approaches-from-cvc-and-veritas-capital/",
+      "date": "Aug 06, 26",
+      "source": "PE Wire",
       "layer": 5,
       "access": "pe",
       "score": 9,
       "moments": [
-        "acquisition"
+        "pe_investment"
       ]
     },
     {
-      "id": "8821b3e565ba",
-      "title": "Wisne v. NCAA Emergency Motion Demands D-I Transfer Portal Pass",
-      "summary": "The&#160;Wisne v. NCAA&#160;athletes who received an injunction to play another college season are now accusing the NCAA of wrongly preventing them from joining teams. In an emergency motion filed Tue",
-      "company": "Wisne",
-      "link": "https://www.sportico.com/law/analysis/2026/transfer-portal-ncaa-emergency-motion-1234941013/",
-      "date": "Aug 04, 26",
-      "source": "Sportico",
-      "layer": 4,
+      "id": "7ff9a22e8361",
+      "title": "HarbourVest hires DWS executive to expand private wealth coverage across Southern Europe",
+      "summary": "HarbourVest Partners has brought in former DWS executive Guido Lombardi as private wealth lead for France, Belgium, Luxembourg and Southern Europe, as the private markets manager continues to expand i",
+      "company": "HarbourVest",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/harbourvest-hires-dws-executive-to-expand-private-wealth-coverage-across-southern-europe.html",
+      "date": "Aug 06, 26",
+      "source": "AltAssets",
+      "layer": 5,
       "access": "pe",
-      "score": 6,
+      "score": 9,
       "moments": [
-        "acquisition"
+        "pe_investment"
       ]
     },
     {
@@ -476,6 +461,32 @@
       "moments": []
     },
     {
+      "id": "978e4329bf60",
+      "title": "FUTU DEADLINE: SueWallSt Reminds Futu Holdings Limited Investors of Upcoming Securities Class Action Deadline",
+      "summary": "The Red Flags: How Futu Holdings Allegedly Concealed a Looming RMB 1.85 Billion CSRC Penalty While Publicly Touting Record Client Growth and Revenue Gains NEW YORK, Aug. 6, 2026 /PRNewswire/ -- SueWal",
+      "company": "FUTU DEADLINE",
+      "link": "https://www.prnewswire.com/news-releases/futu-deadline-suewallst-reminds-futu-holdings-limited-investors-of-upcoming-securities-class-action-deadline-302844809.html",
+      "date": "Aug 06, 26",
+      "source": "PR Newswire",
+      "layer": 2,
+      "access": "pe",
+      "score": 11,
+      "moments": []
+    },
+    {
+      "id": "e37ef37b036f",
+      "title": "BravesVision Rollout Drags Braves Revenue Lower",
+      "summary": "Dale Zanine-Imagn Images",
+      "company": "",
+      "link": "https://frontofficesports.com/bravesvision-rollout-drags-braves-revenue-lower/",
+      "date": "Aug 05, 26",
+      "source": "Front Office Sports",
+      "layer": 2,
+      "access": "pe",
+      "score": 8,
+      "moments": []
+    },
+    {
       "id": "9238350fcd3e",
       "title": "With Dodger Stadium show, Fuerza Regida are living out their Mexican American dreams",
       "summary": "In June, the San Bernardino band embarked on its This Is Our Dream stadium tour across nine U.S. cities. The tour does more than showcase the band's recent mainstream success \u2014 it honors the years of ",
@@ -489,55 +500,29 @@
       "moments": []
     },
     {
-      "id": "2ac52247141d",
-      "title": "Lopez: Dodger Stadium gondola plan about to hit heavy turbulence as state park defenders play hardball",
-      "summary": "L.A. State Historic Park is a public space, defenders say, not a private playground for billionaires.",
-      "company": "Lopez",
-      "link": "https://www.latimes.com/california/story/2026-08-01/dodger-stadium-gondola-plan-about-to-hit-heavy-turbulence-as-park-defenders-play-hardball",
-      "date": "Aug 01, 26",
-      "source": "LA Times Sports",
+      "id": "9725d2772577",
+      "title": "Mohamed Salah to earn upwards of \u00a314.5m per season in two-year Trabzonspor deal",
+      "summary": "Club reveal Egypt star\u2019s salary to Turkish stock exchangeHe will also receive 20% from products sold in his nameMohamed Salah has signed a two-year deal with Trabzonspor, \u2060during which the Egypt forwa",
+      "company": "Mohamed Salah",
+      "link": "https://www.theguardian.com/football/2026/aug/06/mohamed-salah-14m-per-season-two-year-trabzonspor-deal",
+      "date": "Aug 06, 26",
+      "source": "Guardian Sport",
       "layer": 2,
-      "access": "pe",
+      "access": "public",
       "score": 8,
       "moments": []
     },
     {
-      "id": "5ee1a43ccad9",
-      "title": "David Ellison Says Opposition to Paramount-Warner Bros. Is Over His Control of CNN, Claims He Will Not \u2018Bend Newsrooms to My Views\u2019",
-      "summary": "Paramount CEO David Ellison said he believes the antitrust litigation filed by 12 states and the Writers Guild of America isn&#8217;t about market share but about &#8220;whether I can be trusted as a ",
-      "company": "David Ellison Says Opposition",
-      "link": "https://variety.com/2026/tv/news/david-ellison-cnn-paramount-warner-bros-trusted-steward-1236827405/",
-      "date": "Aug 04, 26",
-      "source": "Variety Biz",
-      "layer": 3,
+      "id": "d0e14907bc9a",
+      "title": "Food waste, and the limits of landfills",
+      "summary": "STORIES OF TRANSFORMATION: Investment in energy infrastructure has so far been the central means by which private capital firms are helping to tackle the climate crisis. But another major contributor ",
+      "company": "Food",
+      "link": "https://www.privateequitywire.co.uk/food-waste-and-the-limits-of-landfills/",
+      "date": "Aug 06, 26",
+      "source": "PE Wire",
+      "layer": 4,
       "access": "pe",
       "score": 7,
-      "moments": []
-    },
-    {
-      "id": "f72fc25f2ccc",
-      "title": "OpenAI to pay $3.2M to settle DOJ worker discrimination case",
-      "summary": "OpenAI agreed Tuesday to pay $3.2 million to settle Justice Department allegations that it discriminated against U.S. workers by favoring temporary visa holders for jobs, according to the DOJ.Why it m",
-      "company": "OpenAI",
-      "link": "https://www.axios.com/2026/08/04/trump-doj-openai-hiring-settlement",
-      "date": "Aug 04, 26",
-      "source": "Axios",
-      "layer": 3,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "43c45d95019f",
-      "title": "BRCB Deadline Alert: Levi &amp; Korsinsky Reminds Black Rock Coffee Bar, Inc. (BRCB) Investors of Securities Class Action Deadline on August 17, 2026",
-      "summary": "Important Notice Regarding Alleged Store Cannibalization Misrepresentations That Cost BRCB Investors Over 30% in a Single Day NEW YORK, Aug. 5, 2026 /PRNewswire/ -- Levi & Korsinsky, LLP notifies inve",
-      "company": "BRCB Deadline Alert",
-      "link": "https://www.prnewswire.com/news-releases/brcb-deadline-alert-levi--korsinsky-reminds-black-rock-coffee-bar-inc-brcb-investors-of-securities-class-action-deadline-on-august-17-2026-302843315.html",
-      "date": "Aug 05, 26",
-      "source": "PR Newswire",
-      "layer": 4,
-      "access": "public",
-      "score": 5,
       "moments": []
     },
     {
