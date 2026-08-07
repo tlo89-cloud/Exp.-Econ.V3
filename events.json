@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-06T14:22:39.276945+00:00",
+  "generated": "2026-08-07T13:13:20.147419+00:00",
   "total": 36,
   "scraped": [
     {
@@ -20,30 +20,14 @@
       ]
     },
     {
-      "id": "c37ac4c4e686",
-      "title": "Adams Street tops $5bn for secondaries programme as record deal volumes fuel latest raise",
-      "summary": "Adams Street Partners has raised more than $5bn for its latest secondaries investment programme, as the private markets investor looks to capitalize on a secondary market that surpassed $200bn of annu",
-      "company": "Adams Street",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/adams-street-tops-5bn-for-secondaries-programme-as-record-deal-volumes-fuel-latest-raise.html",
-      "date": "Aug 04, 26",
+      "id": "76756f470c32",
+      "title": "Alpaca Real Estate closes $223m debut fund as AI-driven platform wins institutional backing",
+      "summary": "Alpaca Real Estate has completed the final close of its inaugural fund on about $223m, joining a select group of first-time real estate managers to secure institutional backing in what remains a diffi",
+      "company": "Alpaca Real Estate",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/alpaca-real-estate-closes-223m-debut-fund-as-ai-driven-platform-wins-institutional-backing.html",
+      "date": "Aug 07, 26",
       "source": "AltAssets",
-      "layer": 3,
-      "access": "pe",
-      "score": 21,
-      "moments": [
-        "record_deal",
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "ad3c85774f06",
-      "title": "Bridgepoint surges past target with \u20ac5.1bn direct lending fund close",
-      "summary": "Bridgepoint has soared past its fundraising target for its latest European direct lending strategy, closing Bridgepoint Direct Lending IV on \u20ac5.1bn. The post Bridgepoint surges past target with \u20ac5.1bn",
-      "company": "Bridgepoint",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/bridgepoint-surges-past-target-with-e5-1bn-direct-lending-fund-close.html",
-      "date": "Aug 04, 26",
-      "source": "AltAssets",
-      "layer": 1,
+      "layer": 2,
       "access": "pe",
       "score": 18,
       "moments": [
@@ -52,19 +36,19 @@
       ]
     },
     {
-      "id": "a1e6cb16594f",
-      "title": "ZZ Top Cancel Hollywood Bowl Concert Due to \u2018Insurmountable Obstacles\u2019",
-      "summary": "Cheap Trick, who have been sharing select tour dates with the band, announced that they would hold an \u201cintimate\u201d show at the Troubadour instead",
-      "company": "ZZ Top Cancel Hollywood Bowl Concert",
-      "link": "https://www.rollingstone.com/music/music-news/zz-top-cancel-hollywood-bowl-concert-cheap-trick-troubador-1235604394/",
-      "date": "Aug 06, 26",
-      "source": "Rolling Stone Music",
-      "layer": 1,
+      "id": "65bec13d197a",
+      "title": "White Star Capital closes $250m fourth fund to double down on AI-focused Series A, B investing",
+      "summary": "White Star Capital has held the final close of its fourth flagship venture fund at $250m to target Series A and B dealmaking in AI-driven companies. The post White Star Capital closes $250m fourth fun",
+      "company": "White Star Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/white-star-capital-closes-250m-fourth-fund-to-double-down-on-ai-focused-series-a-b-investing.html",
+      "date": "Aug 07, 26",
+      "source": "AltAssets",
+      "layer": 5,
       "access": "pe",
       "score": 16,
       "moments": [
-        "tour_announcement",
-        "festival_headliner"
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
@@ -116,19 +100,35 @@
       ]
     },
     {
-      "id": "50e15e270ee9",
-      "title": "Partners Group to acquire Aroma-Zone from Eurazeo",
-      "summary": "Aroma-Zone, founded in 1999, offers a range of beauty and wellness products. The post Partners Group to acquire Aroma-Zone from Eurazeo appeared first on PE Hub.",
-      "company": "Partners Group to",
-      "link": "https://www.pehub.com/partners-group-to-acquire-aroma-zone-from-eurazeo/",
-      "date": "Aug 06, 26",
-      "source": "PE Hub",
+      "id": "b09855e4bcb5",
+      "title": "Deal Roundup: Apollo to buy easyJet in \u00a35.7bn deal, Broad Sky exits Smith + Howard to TPG",
+      "summary": "Apollo Global Management has agreed to acquire UK-listed airline easyJet in a \u00a35.7bn transaction, ending a competitive bidding process after rival suitor Castlelake withdrew. The post Deal Roundup: Ap",
+      "company": "Deal Roundup",
+      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-apollo-to-buy-easyjet-in-5-7bn-deal-broad-sky-exits-smith-howard-to-tpg.html",
+      "date": "Aug 07, 26",
+      "source": "AltAssets",
       "layer": 5,
       "access": "pe",
       "score": 13,
       "moments": [
         "acquisition",
-        "company_launch"
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "10e15e5ffacf",
+      "title": "ECP closes $8.1bn flagship fund after lifting hard cap",
+      "summary": "Energy Capital Partners has closed its sixth flagship infrastructure fund on $8.1bn, more than 80% larger than its predecessor and well above its original $5bn target. The post ECP closes $8.1bn flags",
+      "company": "ECP",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/ecp-closes-8-1bn-flagship-fund-after-lifting-hard-cap.html",
+      "date": "Aug 07, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
@@ -163,6 +163,36 @@
       ]
     },
     {
+      "id": "9c2ebed345bf",
+      "title": "Fox Stands Pat on NFL Rights and Punts Renewal Talks to 2030",
+      "summary": "The NFL\u2019s drive to get a multiyear head start on renegotiating its current media rights deals hit a snag Thursday, as a key broadcast partner declared it would retain the contractual status quo until ",
+      "company": "Fox Stands Pat",
+      "link": "https://www.sportico.com/business/media/2026/fox-stands-pat-nfl-rights-murdoch-punts-renewal-talks-2030-1234941236/",
+      "date": "Aug 06, 26",
+      "source": "Sportico",
+      "layer": 1,
+      "access": "pe",
+      "score": 21,
+      "moments": [
+        "rights_deal"
+      ]
+    },
+    {
+      "id": "ead00a135220",
+      "title": "Dazn buys Australia series rights as platforms jostle over England white-ball tour",
+      "summary": "Platform to broadcast Australia Tests against BangladeshUK rights deal is first for Dazn in international cricketDazn has bought the UK rights for Australia\u2019s Test series against Bangladesh this month",
+      "company": "Dazn",
+      "link": "https://www.theguardian.com/sport/2026/aug/07/dazn-australia-test-series-rights-bangladesh-cricket",
+      "date": "Aug 07, 26",
+      "source": "Guardian Sport",
+      "layer": 3,
+      "access": "venture",
+      "score": 20,
+      "moments": [
+        "rights_deal"
+      ]
+    },
+    {
       "id": "57e053f5af7c",
       "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
       "summary": "The new funding brings Index's total available investing capital to $3.5 billion.",
@@ -178,6 +208,21 @@
       ]
     },
     {
+      "id": "c0f4b8ad0139",
+      "title": "Role Model Talks Gracie Abrams, Plugs \u2018Chuck Timely\u2019 Album With \u2018Tonight Show\u2019 Performance",
+      "summary": "The singer-songwriter discusses his new album, touring with Gracie Abrams and his \"enemies list\" for an interview with Jimmy Fallon.",
+      "company": "Role Model Talks Gracie Abrams Plugs",
+      "link": "https://www.billboard.com/music/pop/role-model-interview-performance-chuck-timely-tonight-show-1236311381/",
+      "date": "Aug 07, 26",
+      "source": "Billboard",
+      "layer": 1,
+      "access": "pe",
+      "score": 17,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
       "id": "e37afb81d1ed",
       "title": "Music Industry Moves: Alicia Keys Signs With CAA in All Areas; SONA\u2019s Emerging Songwriter Award Nominations Now Open",
       "summary": "Alicia Keys has signed with CAA in all areas, the company announced earlier this week. Among her many achievements, the singer-songwriter has sold an estimated 65 million records since the release of ",
@@ -190,6 +235,21 @@
       "score": 16,
       "moments": [
         "record_deal"
+      ]
+    },
+    {
+      "id": "64834af1a978",
+      "title": "Rebelution, Usher & Chris Brown, John Mulaney Highlight This Week\u2019s Hottest Concert and Comedy Tickets",
+      "summary": "A three-night Costa Mesa run headlined by Rebelution with Skip Marley and Niko Rubio leads this week\u2019s hottest concert and... The post Rebelution, Usher &#038; Chris Brown, John Mulaney Highlight This",
+      "company": "Rebelution Usher",
+      "link": "https://www.ticketnews.com/2026/08/rebelution-usher-chris-brown-john-mulaney-highlight-this-weeks-hottest-concert-and-comedy-tickets/",
+      "date": "Aug 06, 26",
+      "source": "Ticket News",
+      "layer": 1,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "festival_headliner"
       ]
     },
     {
@@ -223,36 +283,6 @@
       ]
     },
     {
-      "id": "3d7be40f72f3",
-      "title": "Judge Sets Paramount-Warner Bros. Antitrust Trial for March 2027",
-      "summary": "The judge hearing the antitrust case seeking to block the Paramount-Warner Bros. Discovery merger has issued a preliminary scheduling order, with a trial set to start in March 2027 &#8212; considerabl",
-      "company": "",
-      "link": "https://variety.com/2026/tv/news/paramount-warner-bros-antitrust-trial-date-march-2027-1236827843/",
-      "date": "Aug 04, 26",
-      "source": "Variety Biz",
-      "layer": 3,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "8b16db290924",
-      "title": "Blue Note to bring world-famous jazz club to London",
-      "summary": "Grammy-winning pianist Robert Glasper will headline opening of club\u2019s first UK venue in Covent Garden next monthThe world-famous New York jazz club Blue Note will open its first UK venue in London nex",
-      "company": "Blue Note",
-      "link": "https://www.theguardian.com/uk-news/2026/aug/06/blue-note-jazz-club-london",
-      "date": "Aug 06, 26",
-      "source": "Guardian Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
       "id": "7e75bc3d9862",
       "title": "Paramount Antitrust Trial Delayed As Ellison Makes Case for Merger",
       "summary": "REUTERS/Caroline Brehman",
@@ -261,6 +291,21 @@
       "date": "Aug 04, 26",
       "source": "Front Office Sports",
       "layer": 3,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "bc19b136ca2d",
+      "title": "MPK Equity-backed Gorgeous Collective acquires Clean Your Dirty Face",
+      "summary": "The acquisition is the first for Gorgeous Collective since the platform's launch earlier in 2026. The post MPK Equity-backed Gorgeous Collective acquires Clean Your Dirty Face appeared first on PE Hub",
+      "company": "MPK Equity-backed Gorgeous Collective",
+      "link": "https://www.pehub.com/mpk-equity-backed-gorgeous-collective-acquires-clean-your-dirty-face/",
+      "date": "Aug 06, 26",
+      "source": "PE Hub",
+      "layer": 5,
       "access": "pe",
       "score": 12,
       "moments": [
@@ -298,18 +343,18 @@
       ]
     },
     {
-      "id": "b8e21d6a04a9",
-      "title": "Base Power raises another $1B to save the grid using backyard batteries",
-      "summary": "Base Power\u2019s $1 billion round will help the startup ramp production of its home batteries.",
-      "company": "Base Power",
-      "link": "https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/",
-      "date": "Aug 03, 26",
-      "source": "TechCrunch Startups",
-      "layer": 4,
-      "access": "venture",
+      "id": "dec6b5567f7e",
+      "title": "FCC votes to lift broadcast ownership cap",
+      "summary": "The FCC on Thursday voted 2-1 to eliminate the national TV ownership cap rule that bars a single broadcaster from owning stations that reach more than 39% of U.S. TV households.Why it matters: The par",
+      "company": "FCC",
+      "link": "https://www.axios.com/2026/08/06/fcc-broadcast-ownership-cap-vote",
+      "date": "Aug 06, 26",
+      "source": "Axios",
+      "layer": 3,
+      "access": "pe",
       "score": 12,
       "moments": [
-        "funding_round"
+        "acquisition"
       ]
     },
     {
@@ -343,21 +388,6 @@
       ]
     },
     {
-      "id": "a41d9df42586",
-      "title": "Joan Jett cancels tour dates due to \u201chealing process\u201d after surgery",
-      "summary": "The legendary rocker was recently treated for a fractured vertebrae The post Joan Jett cancels tour dates due to &#8220;healing process&#8221; after surgery appeared first on NME.",
-      "company": "Joan Jett",
-      "link": "https://www.nme.com/news/music/joan-jett-cancels-tour-dates-due-to-healing-process-after-surgery-3961198?utm_source=rss&utm_medium=rss&utm_campaign=joan-jett-cancels-tour-dates-due-to-healing-process-after-surgery",
-      "date": "Aug 06, 26",
-      "source": "NME",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "tour_announcement"
-      ]
-    },
-    {
       "id": "46aed39e4e35",
       "title": "Beehive Block Party and beyond: SoLa and Live Nation train entertainment's next generation",
       "summary": "South Los Angeles youth planned the 2026 Beehive Block Party through the SoLa Live Accelerator, a partnership program between the SoLa Foundation and Live Nation that trains aspiring live entertainmen",
@@ -388,48 +418,33 @@
       ]
     },
     {
-      "id": "07343cf111b1",
-      "title": "Outernet turns your saved posts into real-world adventures",
-      "summary": "Founded by the creators of viral offline events like San Francisco\u2019s citywide scavenger hunt Pursuit, Outernet's app helps users save places and events they discover online, then nudges them to actual",
-      "company": "Outernet",
-      "link": "https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/",
-      "date": "Aug 03, 26",
-      "source": "TechCrunch Startups",
+      "id": "d4b587df8f6f",
+      "title": "Sunoco to acquire Court Square-backed oil transporter Offen Petroleum for $600m",
+      "summary": "The target operates a fuel distribution network delivering approximately 2.5 billion gallons annually serving approximately 7,000 customers The post Sunoco to acquire Court Square-backed oil transport",
+      "company": "Sunoco to",
+      "link": "https://www.pehub.com/sunoco-to-acquire-court-square-backed-oil-transporter-offen-petroleum-for-600m/",
+      "date": "Aug 06, 26",
+      "source": "PE Hub",
       "layer": 5,
-      "access": "venture",
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "17416d5960a2",
+      "title": "iCEV Joins U.S. Chamber of Commerce Foundation Leadership Circle",
+      "summary": "CTE curriculum and credentialing leader deepens its commitment to workforce development through national partnership LUBBOCK, Texas, Aug. 7, 2026 /PRNewswire/ -- iCEV, a leading provider of career and",
+      "company": "Joins U.S Chamber",
+      "link": "https://www.prnewswire.com/news-releases/icev-joins-us-chamber-of-commerce-foundation-leadership-circle-302846075.html",
+      "date": "Aug 07, 26",
+      "source": "PR Newswire",
+      "layer": 2,
+      "access": "pe",
       "score": 9,
       "moments": [
         "company_launch"
-      ]
-    },
-    {
-      "id": "6e1b6bbf4733",
-      "title": "Bodycote attracts rival \u00a31.56bn buyout approaches from CVC and Veritas Capital",
-      "summary": "UK-listed thermal processing specialist Bodycote has confirmed it is evaluating competing takeover proposals from private equity firms CVC Advisers and Veritas Capital, with each valuing the business ",
-      "company": "Bodycote",
-      "link": "https://www.privateequitywire.co.uk/bodycote-attracts-rival-1-56bn-buyout-approaches-from-cvc-and-veritas-capital/",
-      "date": "Aug 06, 26",
-      "source": "PE Wire",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "7ff9a22e8361",
-      "title": "HarbourVest hires DWS executive to expand private wealth coverage across Southern Europe",
-      "summary": "HarbourVest Partners has brought in former DWS executive Guido Lombardi as private wealth lead for France, Belgium, Luxembourg and Southern Europe, as the private markets manager continues to expand i",
-      "company": "HarbourVest",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/harbourvest-hires-dws-executive-to-expand-private-wealth-coverage-across-southern-europe.html",
-      "date": "Aug 06, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "pe_investment"
       ]
     },
     {
@@ -448,6 +463,19 @@
       ]
     },
     {
+      "id": "54c712a00dff",
+      "title": "ASSA\u00cd GAINS MARKET SHARE, DELEVERAGES, AND REACHES GROSS REVENUE OF R$ 21.4 BILLION IN Q2",
+      "summary": "Driven by record customer traffic and operating cash generation of R$ 3.3 billion, the Company strengthens its capital structure and advances its strategic priorities for 2026 S\u00c3O PAULO, Aug. 7, 2026 ",
+      "company": "ASSA\u00cd GAINS MARKET SHARE DELEVERAGES AND",
+      "link": "https://www.prnewswire.com/news-releases/assai-gains-market-share-deleverages-and-reaches-gross-revenue-of-r-21-4-billion-in-q2--302845626.html",
+      "date": "Aug 07, 26",
+      "source": "PR Newswire",
+      "layer": 2,
+      "access": "pe",
+      "score": 14,
+      "moments": []
+    },
+    {
       "id": "593104d35158",
       "title": "Luke Combs review \u2013 regular Joe megastar brings the arena-sized party home",
       "summary": "Murrayfield Stadium, EdinburghDespite his humble persona, the highest-selling country artist of all time has the vocal firepower and heavyweight hits to deliver two hours of crowd-pleasin\u2019 pyrotechnic",
@@ -461,55 +489,16 @@
       "moments": []
     },
     {
-      "id": "978e4329bf60",
-      "title": "FUTU DEADLINE: SueWallSt Reminds Futu Holdings Limited Investors of Upcoming Securities Class Action Deadline",
-      "summary": "The Red Flags: How Futu Holdings Allegedly Concealed a Looming RMB 1.85 Billion CSRC Penalty While Publicly Touting Record Client Growth and Revenue Gains NEW YORK, Aug. 6, 2026 /PRNewswire/ -- SueWal",
-      "company": "FUTU DEADLINE",
-      "link": "https://www.prnewswire.com/news-releases/futu-deadline-suewallst-reminds-futu-holdings-limited-investors-of-upcoming-securities-class-action-deadline-302844809.html",
+      "id": "b9783d226269",
+      "title": "Roku Q2 Revenue Up 22% and Net Income Zooms to $164 Million in Huge Beat, Abstains From Providing Outlook Amid Pending Fox Corp. Sale",
+      "summary": "Roku kept its streaming engines blazing in the second quarter of 2026 with earnings that blew past Wall Street estimates. The company reported Q2 revenue of $1.35 billion, up 22%, topping Wall Street ",
+      "company": "Roku Q2 Revenue Up",
+      "link": "https://variety.com/2026/tv/news/roku-q2-2026-earnings-beat-fox-corp-deal-1236829314/",
       "date": "Aug 06, 26",
-      "source": "PR Newswire",
-      "layer": 2,
-      "access": "pe",
-      "score": 11,
-      "moments": []
-    },
-    {
-      "id": "e37ef37b036f",
-      "title": "BravesVision Rollout Drags Braves Revenue Lower",
-      "summary": "Dale Zanine-Imagn Images",
-      "company": "",
-      "link": "https://frontofficesports.com/bravesvision-rollout-drags-braves-revenue-lower/",
-      "date": "Aug 05, 26",
-      "source": "Front Office Sports",
-      "layer": 2,
-      "access": "pe",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "9238350fcd3e",
-      "title": "With Dodger Stadium show, Fuerza Regida are living out their Mexican American dreams",
-      "summary": "In June, the San Bernardino band embarked on its This Is Our Dream stadium tour across nine U.S. cities. The tour does more than showcase the band's recent mainstream success \u2014 it honors the years of ",
-      "company": "With Dodger Stadium",
-      "link": "https://www.latimes.com/delos/story/2026-07-24/fuerza-regida-dodger-stadium-this-is-our-dream-tour-interview",
-      "date": "Jul 24, 26",
-      "source": "LA Times Music",
-      "layer": 2,
-      "access": "pe",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "9725d2772577",
-      "title": "Mohamed Salah to earn upwards of \u00a314.5m per season in two-year Trabzonspor deal",
-      "summary": "Club reveal Egypt star\u2019s salary to Turkish stock exchangeHe will also receive 20% from products sold in his nameMohamed Salah has signed a two-year deal with Trabzonspor, \u2060during which the Egypt forwa",
-      "company": "Mohamed Salah",
-      "link": "https://www.theguardian.com/football/2026/aug/06/mohamed-salah-14m-per-season-two-year-trabzonspor-deal",
-      "date": "Aug 06, 26",
-      "source": "Guardian Sport",
+      "source": "Variety Biz",
       "layer": 2,
       "access": "public",
-      "score": 8,
+      "score": 11,
       "moments": []
     },
     {
@@ -523,6 +512,19 @@
       "layer": 4,
       "access": "pe",
       "score": 7,
+      "moments": []
+    },
+    {
+      "id": "438a9e88cfd0",
+      "title": "Congressional Black Caucus Opposes Protect College Sports Act",
+      "summary": "In a move that lowers the odds of the Protect College Sports Act becoming law, the Congressional Black Caucus\u2014which has more than 60 members\u2014issued a statement on Thursday&#160;opposing the PCSA. \u201cAt ",
+      "company": "",
+      "link": "https://www.sportico.com/law/analysis/2026/congressional-black-caucus-protect-college-sports-act-1234941279/",
+      "date": "Aug 06, 26",
+      "source": "Sportico",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
       "moments": []
     },
     {
