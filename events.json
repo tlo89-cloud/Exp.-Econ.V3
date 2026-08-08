@@ -1,24 +1,7 @@
 {
-  "generated": "2026-08-07T13:13:20.147419+00:00",
-  "total": 36,
+  "generated": "2026-08-08T12:56:46.643819+00:00",
+  "total": 39,
   "scraped": [
-    {
-      "id": "7ea8f9e0c9f5",
-      "title": "Game, set, Chat: how tennis players use AI to scout opponents and run their lives",
-      "summary": "The emergence of GenAI has led to a generational shift with stars conflicted on the impact of technology on their sportNot so long ago, Emma Raducanu was on her phone when she found herself wondering ",
-      "company": "Game",
-      "link": "https://www.theguardian.com/sport/2026/aug/05/ai-chatgpt-robots-tennis-players-scouting-technology",
-      "date": "Aug 05, 26",
-      "source": "Guardian Sport",
-      "layer": 1,
-      "access": "pe",
-      "score": 19,
-      "moments": [
-        "acquisition",
-        "streaming_milestone",
-        "company_launch"
-      ]
-    },
     {
       "id": "76756f470c32",
       "title": "Alpaca Real Estate closes $223m debut fund as AI-driven platform wins institutional backing",
@@ -81,22 +64,6 @@
       "moments": [
         "pe_investment",
         "fund_launch"
-      ]
-    },
-    {
-      "id": "eae33995bead",
-      "title": "How Syd found new life as an old soul",
-      "summary": "The veteran L.A. musician's new album, 'Beard,' reflects recent changes in her life and business.",
-      "company": "How Syd",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-07-23/syd-beard-odd-future-internet-raphael-saadiq",
-      "date": "Jul 23, 26",
-      "source": "LA Times Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "album_announcement",
-        "company_launch"
       ]
     },
     {
@@ -163,36 +130,6 @@
       ]
     },
     {
-      "id": "9c2ebed345bf",
-      "title": "Fox Stands Pat on NFL Rights and Punts Renewal Talks to 2030",
-      "summary": "The NFL\u2019s drive to get a multiyear head start on renegotiating its current media rights deals hit a snag Thursday, as a key broadcast partner declared it would retain the contractual status quo until ",
-      "company": "Fox Stands Pat",
-      "link": "https://www.sportico.com/business/media/2026/fox-stands-pat-nfl-rights-murdoch-punts-renewal-talks-2030-1234941236/",
-      "date": "Aug 06, 26",
-      "source": "Sportico",
-      "layer": 1,
-      "access": "pe",
-      "score": 21,
-      "moments": [
-        "rights_deal"
-      ]
-    },
-    {
-      "id": "ead00a135220",
-      "title": "Dazn buys Australia series rights as platforms jostle over England white-ball tour",
-      "summary": "Platform to broadcast Australia Tests against BangladeshUK rights deal is first for Dazn in international cricketDazn has bought the UK rights for Australia\u2019s Test series against Bangladesh this month",
-      "company": "Dazn",
-      "link": "https://www.theguardian.com/sport/2026/aug/07/dazn-australia-test-series-rights-bangladesh-cricket",
-      "date": "Aug 07, 26",
-      "source": "Guardian Sport",
-      "layer": 3,
-      "access": "venture",
-      "score": 20,
-      "moments": [
-        "rights_deal"
-      ]
-    },
-    {
       "id": "57e053f5af7c",
       "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
       "summary": "The new funding brings Index's total available investing capital to $3.5 billion.",
@@ -205,51 +142,6 @@
       "score": 18,
       "moments": [
         "funding_round"
-      ]
-    },
-    {
-      "id": "c0f4b8ad0139",
-      "title": "Role Model Talks Gracie Abrams, Plugs \u2018Chuck Timely\u2019 Album With \u2018Tonight Show\u2019 Performance",
-      "summary": "The singer-songwriter discusses his new album, touring with Gracie Abrams and his \"enemies list\" for an interview with Jimmy Fallon.",
-      "company": "Role Model Talks Gracie Abrams Plugs",
-      "link": "https://www.billboard.com/music/pop/role-model-interview-performance-chuck-timely-tonight-show-1236311381/",
-      "date": "Aug 07, 26",
-      "source": "Billboard",
-      "layer": 1,
-      "access": "pe",
-      "score": 17,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "e37afb81d1ed",
-      "title": "Music Industry Moves: Alicia Keys Signs With CAA in All Areas; SONA\u2019s Emerging Songwriter Award Nominations Now Open",
-      "summary": "Alicia Keys has signed with CAA in all areas, the company announced earlier this week. Among her many achievements, the singer-songwriter has sold an estimated 65 million records since the release of ",
-      "company": "Music Industry Moves",
-      "link": "https://variety.com/2026/music/news/alicia-keys-signs-with-caa-1236828699/",
-      "date": "Aug 05, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "record_deal"
-      ]
-    },
-    {
-      "id": "64834af1a978",
-      "title": "Rebelution, Usher & Chris Brown, John Mulaney Highlight This Week\u2019s Hottest Concert and Comedy Tickets",
-      "summary": "A three-night Costa Mesa run headlined by Rebelution with Skip Marley and Niko Rubio leads this week\u2019s hottest concert and... The post Rebelution, Usher &#038; Chris Brown, John Mulaney Highlight This",
-      "company": "Rebelution Usher",
-      "link": "https://www.ticketnews.com/2026/08/rebelution-usher-chris-brown-john-mulaney-highlight-this-weeks-hottest-concert-and-comedy-tickets/",
-      "date": "Aug 06, 26",
-      "source": "Ticket News",
-      "layer": 1,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "festival_headliner"
       ]
     },
     {
@@ -268,33 +160,123 @@
       ]
     },
     {
-      "id": "49d008a0f11d",
-      "title": "Menlo Ventures\u2019 Matt Murphy explains what AI startups founders must do differently",
-      "summary": "Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It\u2019s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#16",
-      "company": "Menlo Ventures\u2019 Matt Murphy",
-      "link": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
-      "date": "Jul 22, 26",
-      "source": "TechCrunch Venture",
-      "layer": 2,
-      "access": "venture",
-      "score": 15,
+      "id": "af435fdda411",
+      "title": "Paramount\u2019s U.K. Concessions Give \u2018Powerful Credibility\u2019 to State AGs\u2019 Lawsuit, Block the Merger Coalition Says: \u2018The Dangers\u2019 in U.S. Market \u2018Are...",
+      "summary": "A coalition group campaigning against the proposed merger of Paramount Skydance and Warner Bros. Discovery has said the U.K.\u2019s approval of the merger after obtaining \u201cmajor concessions\u201d lends \u201cpowerfu",
+      "company": "",
+      "link": "https://variety.com/2026/biz/global/paramount-uk-concessions-block-the-merger-1236830054/",
+      "date": "Aug 07, 26",
+      "source": "Variety Biz",
+      "layer": 3,
+      "access": "pe",
+      "score": 14,
       "moments": [
-        "company_launch"
+        "acquisition"
       ]
     },
     {
-      "id": "7e75bc3d9862",
-      "title": "Paramount Antitrust Trial Delayed As Ellison Makes Case for Merger",
-      "summary": "REUTERS/Caroline Brehman",
-      "company": "Paramount Antitrust Trial Delayed As Ellison",
-      "link": "https://frontofficesports.com/paramount-antitrust-trial-delayed-as-ellison-makes-case-for-merger/",
-      "date": "Aug 04, 26",
-      "source": "Front Office Sports",
-      "layer": 3,
+      "id": "f2510273a030",
+      "title": "Earth, Wind, and Fire Postpone San Francisco Concert Due to Band Member\u2019s \u2018Medical Emergency\u2019",
+      "summary": "Unnamed member of funk legends reportedly suffers \u201ccardiac incident\u201d prior to Chase Center tour stop with Lionel Richie; gig will be rescheduled, band says",
+      "company": "Earth Wind",
+      "link": "https://www.rollingstone.com/music/music-news/earth-wind-and-fire-postpone-concert-medical-emergency-1235605127/",
+      "date": "Aug 07, 26",
+      "source": "Rolling Stone News",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "9bfc6b92a7bc",
+      "title": "Pentatonix Set 2026 Holiday Tour Dates Across the U.S. and Canada",
+      "summary": "Pentatonix have announced plans for their 2026 \u201cChristmas in the City Tour,\u201d a North American arena tour featuring 28 dates... The post Pentatonix Set 2026 Holiday Tour Dates Across the U.S. and Canad",
+      "company": "Pentatonix Set",
+      "link": "https://www.ticketnews.com/2026/08/pentatonix-set-2026-holiday-tour-dates-across-the-u-s-and-canada/",
+      "date": "Aug 07, 26",
+      "source": "Ticket News",
+      "layer": 2,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "tour_announcement"
+      ]
+    },
+    {
+      "id": "0ad99d3cfc47",
+      "title": "Live Nation to Acquire Majority Stake in Three Prague Live Entertainment Venues",
+      "summary": "Live Nation has signed an agreement to acquire a majority stake in three of Prague&#8217;s leading live entertainment venues, marking... The post Live Nation to Acquire Majority Stake in Three Prague ",
+      "company": "Live Nation",
+      "link": "https://www.ticketnews.com/2026/08/live-nation-to-acquire-majority-stake-in-three-prague-live-entertainment-venues/",
+      "date": "Aug 07, 26",
+      "source": "Ticket News",
+      "layer": 2,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "bd6db8f3381d",
+      "title": "Chappell Roan Announces \u2018The Super Graphic Spectacular\u2019 Two-Day Fundraiser in Los Angeles to Benefit Trans Youth and LGBTQ+ Communities",
+      "summary": "Chappell Roan and her non-profit The Midwest Princess Project have announced a two-day fundraiser &#8220;The Super Graphic Spectacular&#8221; taking place at Los Angeles&#8217; The Shrine on October 2",
+      "company": "Chappell Roan Announces \u2018The Super Graphic",
+      "link": "https://variety.com/2026/music/news/chappell-roan-super-graphic-spectacular-fundraiser-la-1236830204/",
+      "date": "Aug 07, 26",
+      "source": "Variety Music",
+      "layer": 1,
       "access": "pe",
       "score": 12,
       "moments": [
-        "acquisition"
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "a0d2d5a95f66",
+      "title": "Katseye's Sophia Laforteza announces hiatus before headlining Rose Bowl music festival",
+      "summary": "Katseye member Sophia Laforteza announced she is taking a mental health hiatus ahead of the Head in the Clouds festival in Pasadena, joining member Manon Bannerman in stepping back from the group.",
+      "company": "Katseye's Sophia Laforteza",
+      "link": "https://www.latimes.com/entertainment-arts/story/2026-08-07/katseyes-sophia-laforteza-announces-hiatus-before-rose-bowl-show",
+      "date": "Aug 08, 26",
+      "source": "LA Times Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "5d8e6a333aec",
+      "title": "Karol G's new album may just have you crying at the club",
+      "summary": "The Colombian pop star releases her seventh studio album, 'No Me Arrepiento de Sentir Tanto' \u2014 and in 14 songs, reveals the depths of heartache one can only access when finally tuning out the world.",
+      "company": "Karol G's",
+      "link": "https://www.latimes.com/delos/story/2026-08-06/karol-g-new-album-no-me-arrepiento-de-sentir-tanto",
+      "date": "Aug 07, 26",
+      "source": "LA Times Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "acf0569c2488",
+      "title": "Womad festival review \u2013 \u200bhugely welcome return of joyous planet-spanning music fest",
+      "summary": "Neston Park, Wiltshire\u200bIn a new home after a year off, there\u2019s a thread of fierce political anger running alongside the spirited musical performances \u2013 including standout sets from Barrington Levy and",
+      "company": "Womad",
+      "link": "https://www.theguardian.com/culture/2026/jul/27/womad-festival-review-hugely-welcome-return-of-joyous-planet-spanning-music-fest",
+      "date": "Jul 27, 26",
+      "source": "Guardian Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "festival_headliner"
       ]
     },
     {
@@ -328,21 +310,6 @@
       ]
     },
     {
-      "id": "8126d1321ed5",
-      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-      "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
-      "company": "Design Arena creators",
-      "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-      "date": "Aug 03, 26",
-      "source": "TechCrunch Startups",
-      "layer": 2,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "funding_round"
-      ]
-    },
-    {
       "id": "dec6b5567f7e",
       "title": "FCC votes to lift broadcast ownership cap",
       "summary": "The FCC on Thursday voted 2-1 to eliminate the national TV ownership cap rule that bars a single broadcaster from owning stations that reach more than 39% of U.S. TV households.Why it matters: The par",
@@ -355,6 +322,21 @@
       "score": 12,
       "moments": [
         "acquisition"
+      ]
+    },
+    {
+      "id": "29695ece9844",
+      "title": "Incoming MLS Commissioner Sees \u2018Uncapped Upside\u2019 in Media Rights",
+      "summary": "Front Office Sports",
+      "company": "",
+      "link": "https://frontofficesports.com/larry-berg-uncapped-upside-mls-media-rights/",
+      "date": "Aug 05, 26",
+      "source": "Front Office Sports",
+      "layer": 1,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "rights_deal"
       ]
     },
     {
@@ -388,6 +370,21 @@
       ]
     },
     {
+      "id": "96eba4073936",
+      "title": "Brandi Carlile postpones UK and European tour over \u201cpersonal circumstances\u201d",
+      "summary": "The singer told fans she had been \"so profoundly anxious about this decision\" The post Brandi Carlile postpones UK and European tour over &#8220;personal circumstances&#8221; appeared first on NME.",
+      "company": "Brandi Carlile",
+      "link": "https://www.nme.com/news/music/brandi-carlile-postpones-uk-and-european-tour-over-personal-circumstances-3961458?utm_source=rss&utm_medium=rss&utm_campaign=brandi-carlile-postpones-uk-and-european-tour-over-personal-circumstances",
+      "date": "Aug 08, 26",
+      "source": "NME",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
       "id": "46aed39e4e35",
       "title": "Beehive Block Party and beyond: SoLa and Live Nation train entertainment's next generation",
       "summary": "South Los Angeles youth planned the 2026 Beehive Block Party through the SoLa Live Accelerator, a partnership program between the SoLa Foundation and Live Nation that trains aspiring live entertainmen",
@@ -418,36 +415,6 @@
       ]
     },
     {
-      "id": "d4b587df8f6f",
-      "title": "Sunoco to acquire Court Square-backed oil transporter Offen Petroleum for $600m",
-      "summary": "The target operates a fuel distribution network delivering approximately 2.5 billion gallons annually serving approximately 7,000 customers The post Sunoco to acquire Court Square-backed oil transport",
-      "company": "Sunoco to",
-      "link": "https://www.pehub.com/sunoco-to-acquire-court-square-backed-oil-transporter-offen-petroleum-for-600m/",
-      "date": "Aug 06, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "17416d5960a2",
-      "title": "iCEV Joins U.S. Chamber of Commerce Foundation Leadership Circle",
-      "summary": "CTE curriculum and credentialing leader deepens its commitment to workforce development through national partnership LUBBOCK, Texas, Aug. 7, 2026 /PRNewswire/ -- iCEV, a leading provider of career and",
-      "company": "Joins U.S Chamber",
-      "link": "https://www.prnewswire.com/news-releases/icev-joins-us-chamber-of-commerce-foundation-leadership-circle-302846075.html",
-      "date": "Aug 07, 26",
-      "source": "PR Newswire",
-      "layer": 2,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
       "id": "f3a1d1554548",
       "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
       "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
@@ -461,19 +428,6 @@
       "moments": [
         "acquisition"
       ]
-    },
-    {
-      "id": "54c712a00dff",
-      "title": "ASSA\u00cd GAINS MARKET SHARE, DELEVERAGES, AND REACHES GROSS REVENUE OF R$ 21.4 BILLION IN Q2",
-      "summary": "Driven by record customer traffic and operating cash generation of R$ 3.3 billion, the Company strengthens its capital structure and advances its strategic priorities for 2026 S\u00c3O PAULO, Aug. 7, 2026 ",
-      "company": "ASSA\u00cd GAINS MARKET SHARE DELEVERAGES AND",
-      "link": "https://www.prnewswire.com/news-releases/assai-gains-market-share-deleverages-and-reaches-gross-revenue-of-r-21-4-billion-in-q2--302845626.html",
-      "date": "Aug 07, 26",
-      "source": "PR Newswire",
-      "layer": 2,
-      "access": "pe",
-      "score": 14,
-      "moments": []
     },
     {
       "id": "593104d35158",
@@ -502,6 +456,58 @@
       "moments": []
     },
     {
+      "id": "46a2822550dc",
+      "title": "Foo Fighters Plot 2026 South American Stadium Tour",
+      "summary": "The rock icons Foo Fighters have announced a massive run of stadium shows across South America next year. The brief,... The post Foo Fighters Plot 2026 South American Stadium Tour appeared first on Ti",
+      "company": "Foo Fighters Plot",
+      "link": "https://www.ticketnews.com/2026/08/foo-fighters-plot-2026-south-american-stadium-tour/",
+      "date": "Aug 07, 26",
+      "source": "Ticket News",
+      "layer": 2,
+      "access": "pe",
+      "score": 10,
+      "moments": []
+    },
+    {
+      "id": "f89eb5fbbc47",
+      "title": "Pentatonix Christmas in the City Tour Leads This Week\u2019s Ticket Onsales",
+      "summary": "A major new holiday run from Pentatonix leads this week\u2019s ticket onsales, with more than 20 North American arena dates... The post Pentatonix Christmas in the City Tour Leads This Week\u2019s Ticket Onsale",
+      "company": "Pentatonix Christmas",
+      "link": "https://www.ticketnews.com/2026/08/pentatonix-christmas-in-the-city-tour-leads-this-weeks-ticket-onsales/",
+      "date": "Aug 06, 26",
+      "source": "Ticket News",
+      "layer": 2,
+      "access": "pe",
+      "score": 10,
+      "moments": []
+    },
+    {
+      "id": "3d573ee19913",
+      "title": "FCC Eliminates TV Station Ownership Cap in Win for Nexstar and Other Big Broadcasters",
+      "summary": "The FCC has formally moved to eliminate the longstanding national limit on the number of TV stations that a single entity can own on a 2-1 vote that is likely to draw legal challenges. FCC chief Brend",
+      "company": "FCC Eliminates TV Station Ownership Cap",
+      "link": "https://variety.com/2026/tv/news/fcc-eliminates-tv-station-ownership-cap-nexstar-broadcaster-1236829194/",
+      "date": "Aug 06, 26",
+      "source": "Variety Biz",
+      "layer": 3,
+      "access": "pe",
+      "score": 8,
+      "moments": []
+    },
+    {
+      "id": "f558adc79ca6",
+      "title": "University of Utah and U.S. Army Reserve complete historic land transfer and relocation",
+      "summary": "The partnership marks unprecedented state investment in military infrastructure and the university's future SALT LAKE CITY, Aug. 8, 2026 /PRNewswire/ -- After more than 100 years as neighbors and part",
+      "company": "University",
+      "link": "https://www.prnewswire.com/news-releases/university-of-utah-and-us-army-reserve-complete-historic-land-transfer-and-relocation-302846542.html",
+      "date": "Aug 08, 26",
+      "source": "PR Newswire",
+      "layer": 4,
+      "access": "pe",
+      "score": 8,
+      "moments": []
+    },
+    {
       "id": "d0e14907bc9a",
       "title": "Food waste, and the limits of landfills",
       "summary": "STORIES OF TRANSFORMATION: Investment in energy infrastructure has so far been the central means by which private capital firms are helping to tackle the climate crisis. But another major contributor ",
@@ -522,6 +528,32 @@
       "link": "https://www.sportico.com/law/analysis/2026/congressional-black-caucus-protect-college-sports-act-1234941279/",
       "date": "Aug 06, 26",
       "source": "Sportico",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "94910819cd9c",
+      "title": "Morrissey cancels Las Vegas residency due to \u201cunforeseen logistical challenges\u201d a week before the first show",
+      "summary": "The singer has built a reputation for axing gigs The post Morrissey cancels Las Vegas residency due to \u201cunforeseen logistical challenges\u201d a week before the first show appeared first on NME.",
+      "company": "Morrissey",
+      "link": "https://www.nme.com/news/music/morrissey-cancels-las-vegas-residency-due-to-unforeseen-logistical-challenges-a-week-before-the-first-show-3961448?utm_source=rss&utm_medium=rss&utm_campaign=morrissey-cancels-las-vegas-residency-due-to-unforeseen-logistical-challenges-a-week-before-the-first-show",
+      "date": "Aug 08, 26",
+      "source": "NME",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "163bce225814",
+      "title": "High divers take the plunge in Paris for a new test of reclaimed Seine\u2019s water",
+      "summary": "European Aquatics Championships taking place in cityThreat to water quality tested two years after GamesParis is staging its first high-diving competition in the Seine, with athletes launching themsel",
+      "company": "High",
+      "link": "https://www.theguardian.com/sport/2026/aug/08/high-divers-paris-river-seine-swimming-european-aquatics-championships",
+      "date": "Aug 08, 26",
+      "source": "Guardian Sport",
       "layer": 4,
       "access": "pe",
       "score": 4,
