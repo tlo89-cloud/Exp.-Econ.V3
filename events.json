@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-08T12:56:46.643819+00:00",
-  "total": 39,
+  "generated": "2026-08-09T12:59:20.048664+00:00",
+  "total": 36,
   "scraped": [
     {
       "id": "76756f470c32",
@@ -175,21 +175,6 @@
       ]
     },
     {
-      "id": "f2510273a030",
-      "title": "Earth, Wind, and Fire Postpone San Francisco Concert Due to Band Member\u2019s \u2018Medical Emergency\u2019",
-      "summary": "Unnamed member of funk legends reportedly suffers \u201ccardiac incident\u201d prior to Chase Center tour stop with Lionel Richie; gig will be rescheduled, band says",
-      "company": "Earth Wind",
-      "link": "https://www.rollingstone.com/music/music-news/earth-wind-and-fire-postpone-concert-medical-emergency-1235605127/",
-      "date": "Aug 07, 26",
-      "source": "Rolling Stone News",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
       "id": "9bfc6b92a7bc",
       "title": "Pentatonix Set 2026 Holiday Tour Dates Across the U.S. and Canada",
       "summary": "Pentatonix have announced plans for their 2026 \u201cChristmas in the City Tour,\u201d a North American arena tour featuring 28 dates... The post Pentatonix Set 2026 Holiday Tour Dates Across the U.S. and Canad",
@@ -202,6 +187,21 @@
       "score": 14,
       "moments": [
         "tour_announcement"
+      ]
+    },
+    {
+      "id": "ad1307666488",
+      "title": "Tyga admits he used AI on new album \u2018$tarface\u2019: \u201cI don\u2019t care\u201d",
+      "summary": "\"It's no different than when Auto-Tune came out. Some people were opposed to it, but real artists took it and used it\" The post Tyga admits he used AI on new album &#8216;$tarface&#8217;: &#8220;I don",
+      "company": "Tyga",
+      "link": "https://www.nme.com/news/music/tyga-admits-he-used-ai-on-new-album-tarface-i-dont-care-3961560?utm_source=rss&utm_medium=rss&utm_campaign=tyga-admits-he-used-ai-on-new-album-tarface-i-dont-care",
+      "date": "Aug 09, 26",
+      "source": "NME",
+      "layer": 1,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "album_announcement"
       ]
     },
     {
@@ -295,21 +295,6 @@
       ]
     },
     {
-      "id": "416efad672d5",
-      "title": "Bending Spoons to buy Airtable for $1.28B",
-      "summary": "At its peak in 2021, Airtable was valued at over $11 billion, but earlier this year, its shares were said to be trading on the secondary markets at a valuation of $4 billion.",
-      "company": "Bending Spoons",
-      "link": "https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/",
-      "date": "Aug 04, 26",
-      "source": "TechCrunch Startups",
-      "layer": 3,
-      "access": "public",
-      "score": 12,
-      "moments": [
-        "valuation"
-      ]
-    },
-    {
       "id": "dec6b5567f7e",
       "title": "FCC votes to lift broadcast ownership cap",
       "summary": "The FCC on Thursday voted 2-1 to eliminate the national TV ownership cap rule that bars a single broadcaster from owning stations that reach more than 39% of U.S. TV households.Why it matters: The par",
@@ -370,18 +355,18 @@
       ]
     },
     {
-      "id": "96eba4073936",
-      "title": "Brandi Carlile postpones UK and European tour over \u201cpersonal circumstances\u201d",
-      "summary": "The singer told fans she had been \"so profoundly anxious about this decision\" The post Brandi Carlile postpones UK and European tour over &#8220;personal circumstances&#8221; appeared first on NME.",
-      "company": "Brandi Carlile",
-      "link": "https://www.nme.com/news/music/brandi-carlile-postpones-uk-and-european-tour-over-personal-circumstances-3961458?utm_source=rss&utm_medium=rss&utm_campaign=brandi-carlile-postpones-uk-and-european-tour-over-personal-circumstances",
-      "date": "Aug 08, 26",
+      "id": "1bf0234414e9",
+      "title": "Watch Fontaines D.C. debut new songs \u2018Marianne\u2019 and \u2018Six Shot Morning\u2019 in first full headline show of 2026",
+      "summary": "It comes after guitarist Carlos O\u2019Connell confirmed to NME earlier this year that the band were working on new material The post Watch Fontaines D.C. debut new songs &#8216;Marianne&#8217; and &#8216;",
+      "company": "Watch Fontaines D.C",
+      "link": "https://www.nme.com/news/music/watch-fontaines-d-c-debut-two-new-songs-in-first-full-headline-show-of-2026-3961562?utm_source=rss&utm_medium=rss&utm_campaign=watch-fontaines-d-c-debut-two-new-songs-in-first-full-headline-show-of-2026",
+      "date": "Aug 09, 26",
       "source": "NME",
       "layer": 5,
       "access": "pe",
       "score": 9,
       "moments": [
-        "company_launch"
+        "festival_headliner"
       ]
     },
     {
@@ -495,16 +480,16 @@
       "moments": []
     },
     {
-      "id": "f558adc79ca6",
-      "title": "University of Utah and U.S. Army Reserve complete historic land transfer and relocation",
-      "summary": "The partnership marks unprecedented state investment in military infrastructure and the university's future SALT LAKE CITY, Aug. 8, 2026 /PRNewswire/ -- After more than 100 years as neighbors and part",
-      "company": "University",
-      "link": "https://www.prnewswire.com/news-releases/university-of-utah-and-us-army-reserve-complete-historic-land-transfer-and-relocation-302846542.html",
-      "date": "Aug 08, 26",
-      "source": "PR Newswire",
-      "layer": 4,
+      "id": "7f0eecb666a1",
+      "title": "Trump\u2019s DOJ gains oversight of OpenAI\u2019s green-card employee sponsorships",
+      "summary": "The DOJ alleged that OpenAI did not meaningful attempt to hire U.S. citizens before seeking permanent residence for Visa-holding employees.",
+      "company": "Trump\u2019s DOJ",
+      "link": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
+      "date": "Aug 05, 26",
+      "source": "TechCrunch Startups",
+      "layer": 3,
       "access": "pe",
-      "score": 8,
+      "score": 7,
       "moments": []
     },
     {
@@ -528,32 +513,6 @@
       "link": "https://www.sportico.com/law/analysis/2026/congressional-black-caucus-protect-college-sports-act-1234941279/",
       "date": "Aug 06, 26",
       "source": "Sportico",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "94910819cd9c",
-      "title": "Morrissey cancels Las Vegas residency due to \u201cunforeseen logistical challenges\u201d a week before the first show",
-      "summary": "The singer has built a reputation for axing gigs The post Morrissey cancels Las Vegas residency due to \u201cunforeseen logistical challenges\u201d a week before the first show appeared first on NME.",
-      "company": "Morrissey",
-      "link": "https://www.nme.com/news/music/morrissey-cancels-las-vegas-residency-due-to-unforeseen-logistical-challenges-a-week-before-the-first-show-3961448?utm_source=rss&utm_medium=rss&utm_campaign=morrissey-cancels-las-vegas-residency-due-to-unforeseen-logistical-challenges-a-week-before-the-first-show",
-      "date": "Aug 08, 26",
-      "source": "NME",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "163bce225814",
-      "title": "High divers take the plunge in Paris for a new test of reclaimed Seine\u2019s water",
-      "summary": "European Aquatics Championships taking place in cityThreat to water quality tested two years after GamesParis is staging its first high-diving competition in the Seine, with athletes launching themsel",
-      "company": "High",
-      "link": "https://www.theguardian.com/sport/2026/aug/08/high-divers-paris-river-seine-swimming-european-aquatics-championships",
-      "date": "Aug 08, 26",
-      "source": "Guardian Sport",
       "layer": 4,
       "access": "pe",
       "score": 4,
