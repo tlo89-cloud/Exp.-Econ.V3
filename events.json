@@ -1,7 +1,40 @@
 {
-  "generated": "2026-08-09T12:59:20.048664+00:00",
-  "total": 36,
+  "generated": "2026-08-10T13:18:10.309835+00:00",
+  "total": 34,
   "scraped": [
+    {
+      "id": "36b107011626",
+      "title": "The Biggest Consequence Of An AI IPO Isn\u2019t The IPO Itself. It\u2019s What Happens Afterward.",
+      "summary": "A wave of major AI IPOs could return significant liquidity to limited partners, fueling a new venture fundraising cycle rather than simply affecting public-market valuations. That capital is likely to",
+      "company": "The Biggest Consequence Of An AI",
+      "link": "https://news.crunchbase.com/public/ai-ipo-results-lp-liquidity-gershfeld-flint/",
+      "date": "Aug 10, 26",
+      "source": "Crunchbase News",
+      "layer": 5,
+      "access": "venture",
+      "score": 23,
+      "moments": [
+        "ipo",
+        "pe_investment",
+        "lp_commitment"
+      ]
+    },
+    {
+      "id": "b042bd61cc9d",
+      "title": "See Charli XCX Join the Strokes for \u2018Take It or Leave It\u2019 at Outside Lands",
+      "summary": "Fresh off their album sales battle \u2014 \u201cShe won. She won by a lot,\u201d Julian Casablancas quipped \u2014 Friday night\u2019s headliner at San Francisco fest makes surprise appearance during band\u2019s Saturday set",
+      "company": "See Charli XCX Join",
+      "link": "https://www.rollingstone.com/music/music-news/charli-xcx-the-strokes-take-it-or-leave-it-outside-lands-1235605980/",
+      "date": "Aug 09, 26",
+      "source": "Rolling Stone Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 18,
+      "moments": [
+        "surprise_appearance",
+        "festival_headliner"
+      ]
+    },
     {
       "id": "76756f470c32",
       "title": "Alpaca Real Estate closes $223m debut fund as AI-driven platform wins institutional backing",
@@ -145,6 +178,21 @@
       ]
     },
     {
+      "id": "7205c3bc78c6",
+      "title": "How Norway\u2019s \u00d8yafestivalen Became One of Europe\u2019s Best Music Fests: Balancing Huge Headliners With Homegrown Artists, Prioritizing Gender Parity and...",
+      "summary": "In a year without Glastonbury, music lovers have turned to other festivals in the U.K. and Europe to fill the void. There&#8217;s Primavera Sound in Barcelona, with its proximity to the beach and genr",
+      "company": "How Norway\u2019s \u00d8yafestivalen Became One",
+      "link": "https://variety.com/2026/music/global/norway-oyafestivalen-europe-best-music-fests-1236830561/",
+      "date": "Aug 10, 26",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
       "id": "1670fc64e045",
       "title": "Elon Musk\u2019s Boring Company reportedly raising funding at a $20B valuation",
       "summary": "Elon Musk's tunneling startup is reportedly in talks for a major new funding round.",
@@ -190,21 +238,6 @@
       ]
     },
     {
-      "id": "ad1307666488",
-      "title": "Tyga admits he used AI on new album \u2018$tarface\u2019: \u201cI don\u2019t care\u201d",
-      "summary": "\"It's no different than when Auto-Tune came out. Some people were opposed to it, but real artists took it and used it\" The post Tyga admits he used AI on new album &#8216;$tarface&#8217;: &#8220;I don",
-      "company": "Tyga",
-      "link": "https://www.nme.com/news/music/tyga-admits-he-used-ai-on-new-album-tarface-i-dont-care-3961560?utm_source=rss&utm_medium=rss&utm_campaign=tyga-admits-he-used-ai-on-new-album-tarface-i-dont-care",
-      "date": "Aug 09, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
       "id": "0ad99d3cfc47",
       "title": "Live Nation to Acquire Majority Stake in Three Prague Live Entertainment Venues",
       "summary": "Live Nation has signed an agreement to acquire a majority stake in three of Prague&#8217;s leading live entertainment venues, marking... The post Live Nation to Acquire Majority Stake in Three Prague ",
@@ -217,21 +250,6 @@
       "score": 13,
       "moments": [
         "acquisition"
-      ]
-    },
-    {
-      "id": "bd6db8f3381d",
-      "title": "Chappell Roan Announces \u2018The Super Graphic Spectacular\u2019 Two-Day Fundraiser in Los Angeles to Benefit Trans Youth and LGBTQ+ Communities",
-      "summary": "Chappell Roan and her non-profit The Midwest Princess Project have announced a two-day fundraiser &#8220;The Super Graphic Spectacular&#8221; taking place at Los Angeles&#8217; The Shrine on October 2",
-      "company": "Chappell Roan Announces \u2018The Super Graphic",
-      "link": "https://variety.com/2026/music/news/chappell-roan-super-graphic-spectacular-fundraiser-la-1236830204/",
-      "date": "Aug 07, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "festival_headliner"
       ]
     },
     {
@@ -280,21 +298,6 @@
       ]
     },
     {
-      "id": "bc19b136ca2d",
-      "title": "MPK Equity-backed Gorgeous Collective acquires Clean Your Dirty Face",
-      "summary": "The acquisition is the first for Gorgeous Collective since the platform's launch earlier in 2026. The post MPK Equity-backed Gorgeous Collective acquires Clean Your Dirty Face appeared first on PE Hub",
-      "company": "MPK Equity-backed Gorgeous Collective",
-      "link": "https://www.pehub.com/mpk-equity-backed-gorgeous-collective-acquires-clean-your-dirty-face/",
-      "date": "Aug 06, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
       "id": "dec6b5567f7e",
       "title": "FCC votes to lift broadcast ownership cap",
       "summary": "The FCC on Thursday voted 2-1 to eliminate the national TV ownership cap rule that bars a single broadcaster from owning stations that reach more than 39% of U.S. TV households.Why it matters: The par",
@@ -307,6 +310,21 @@
       "score": 12,
       "moments": [
         "acquisition"
+      ]
+    },
+    {
+      "id": "68d763d6907c",
+      "title": "PE firms tap IPOs as M&A exit market remains challenging",
+      "summary": "TOP STORY: Private equity firms are increasingly looking to public markets to exit portfolio companies as a shortage of strategic buyers continues to constrain traditional M&#038;A routes, according t",
+      "company": "PE",
+      "link": "https://www.privateequitywire.co.uk/pe-firms-tap-ipos-as-ma-exit-market-remains-challenging/",
+      "date": "Aug 10, 26",
+      "source": "PE Wire",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "pe_investment"
       ]
     },
     {
@@ -352,21 +370,6 @@
       "score": 9,
       "moments": [
         "acquisition"
-      ]
-    },
-    {
-      "id": "1bf0234414e9",
-      "title": "Watch Fontaines D.C. debut new songs \u2018Marianne\u2019 and \u2018Six Shot Morning\u2019 in first full headline show of 2026",
-      "summary": "It comes after guitarist Carlos O\u2019Connell confirmed to NME earlier this year that the band were working on new material The post Watch Fontaines D.C. debut new songs &#8216;Marianne&#8217; and &#8216;",
-      "company": "Watch Fontaines D.C",
-      "link": "https://www.nme.com/news/music/watch-fontaines-d-c-debut-two-new-songs-in-first-full-headline-show-of-2026-3961562?utm_source=rss&utm_medium=rss&utm_campaign=watch-fontaines-d-c-debut-two-new-songs-in-first-full-headline-show-of-2026",
-      "date": "Aug 09, 26",
-      "source": "NME",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "festival_headliner"
       ]
     },
     {
@@ -490,32 +493,6 @@
       "layer": 3,
       "access": "pe",
       "score": 7,
-      "moments": []
-    },
-    {
-      "id": "d0e14907bc9a",
-      "title": "Food waste, and the limits of landfills",
-      "summary": "STORIES OF TRANSFORMATION: Investment in energy infrastructure has so far been the central means by which private capital firms are helping to tackle the climate crisis. But another major contributor ",
-      "company": "Food",
-      "link": "https://www.privateequitywire.co.uk/food-waste-and-the-limits-of-landfills/",
-      "date": "Aug 06, 26",
-      "source": "PE Wire",
-      "layer": 4,
-      "access": "pe",
-      "score": 7,
-      "moments": []
-    },
-    {
-      "id": "438a9e88cfd0",
-      "title": "Congressional Black Caucus Opposes Protect College Sports Act",
-      "summary": "In a move that lowers the odds of the Protect College Sports Act becoming law, the Congressional Black Caucus\u2014which has more than 60 members\u2014issued a statement on Thursday&#160;opposing the PCSA. \u201cAt ",
-      "company": "",
-      "link": "https://www.sportico.com/law/analysis/2026/congressional-black-caucus-protect-college-sports-act-1234941279/",
-      "date": "Aug 06, 26",
-      "source": "Sportico",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
       "moments": []
     },
     {
