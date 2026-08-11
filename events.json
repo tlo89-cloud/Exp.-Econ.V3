@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-10T13:18:10.309835+00:00",
-  "total": 34,
+  "generated": "2026-08-11T13:14:28.429750+00:00",
+  "total": 36,
   "scraped": [
     {
       "id": "36b107011626",
@@ -22,11 +22,11 @@
     {
       "id": "b042bd61cc9d",
       "title": "See Charli XCX Join the Strokes for \u2018Take It or Leave It\u2019 at Outside Lands",
-      "summary": "Fresh off their album sales battle \u2014 \u201cShe won. She won by a lot,\u201d Julian Casablancas quipped \u2014 Friday night\u2019s headliner at San Francisco fest makes surprise appearance during band\u2019s Saturday set",
+      "summary": "Fresh off their album-sales battle \u2014 \u201cShe won. She won by a lot,\u201d Julian Casablancas quipped \u2014 Friday night\u2019s headliner at San Francisco fest makes surprise appearance during band\u2019s Saturday set",
       "company": "See Charli XCX Join",
       "link": "https://www.rollingstone.com/music/music-news/charli-xcx-the-strokes-take-it-or-leave-it-outside-lands-1235605980/",
       "date": "Aug 09, 26",
-      "source": "Rolling Stone Music",
+      "source": "Rolling Stone News",
       "layer": 1,
       "access": "pe",
       "score": 18,
@@ -84,16 +84,16 @@
       ]
     },
     {
-      "id": "8098539d8825",
-      "title": "KKR closes record $19.2bn infrastructure fund as firm\u2019s infra platform nears $120bn",
-      "summary": "KKR has raised $19.2bn for its biggest-ever infrastructure investment fund as investor demand for critical infra continues to accelerate - particularly around digital infrastructure, energy transition",
-      "company": "KKR",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/kkr-closes-record-19-2bn-infrastructure-fund-as-firms-infra-platform-nears-120bn.html",
-      "date": "Aug 06, 26",
+      "id": "39ea3fc712c3",
+      "title": "Nextalia secures \u20ac1.1bn first close for second flagship buyout fund, platform tops \u20ac3.4bn AUM",
+      "summary": "Italy-focused private markets manager Nextalia has held a \u20ac1.1bn first close for its second flagship private equity fund, securing one of the country's largest pools of capital dedicated to mid-market",
+      "company": "Nextalia",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/italy-western-europe-europe-by-region/nextalia-secures-e1-1bn-first-close-for-second-flagship-buyout-fund-platform-tops-e3-4bn-aum.html",
+      "date": "Aug 10, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
-      "score": 16,
+      "score": 13,
       "moments": [
         "pe_investment",
         "fund_launch"
@@ -208,6 +208,21 @@
       ]
     },
     {
+      "id": "93ef95c05f2d",
+      "title": "David Ellison Threatens to Pull Paramount Out of California Starting Oct. 1 if States Refuse to Negotiate Settlement in Antitrust Suit",
+      "summary": "David Ellison is eager to reach a swift resolution in the antitrust case filed by 12 states seeking to block the Paramount-Warner Bros. Discovery merger. And he&#8217;s prepared start moving Paramount",
+      "company": "David Ellison Threatens",
+      "link": "https://variety.com/2026/film/news/david-ellison-move-paramount-out-of-california-states-antitrust-lawsuit-1236831936/",
+      "date": "Aug 11, 26",
+      "source": "Variety Biz",
+      "layer": 3,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
       "id": "af435fdda411",
       "title": "Paramount\u2019s U.K. Concessions Give \u2018Powerful Credibility\u2019 to State AGs\u2019 Lawsuit, Block the Merger Coalition Says: \u2018The Dangers\u2019 in U.S. Market \u2018Are...",
       "summary": "A coalition group campaigning against the proposed merger of Paramount Skydance and Warner Bros. Discovery has said the U.K.\u2019s approval of the merger after obtaining \u201cmajor concessions\u201d lends \u201cpowerfu",
@@ -223,33 +238,63 @@
       ]
     },
     {
-      "id": "9bfc6b92a7bc",
-      "title": "Pentatonix Set 2026 Holiday Tour Dates Across the U.S. and Canada",
-      "summary": "Pentatonix have announced plans for their 2026 \u201cChristmas in the City Tour,\u201d a North American arena tour featuring 28 dates... The post Pentatonix Set 2026 Holiday Tour Dates Across the U.S. and Canad",
-      "company": "Pentatonix Set",
-      "link": "https://www.ticketnews.com/2026/08/pentatonix-set-2026-holiday-tour-dates-across-the-u-s-and-canada/",
-      "date": "Aug 07, 26",
-      "source": "Ticket News",
-      "layer": 2,
+      "id": "491c70b3a488",
+      "title": "Ari Emanuel\u2019s Company to Acquire 7 Broadway Theaters and 10 in the West End",
+      "summary": "The purchase of ATG Entertainment, which operates dozens of venues worldwide, will require regulatory approval.",
+      "company": "Ari Emanuel\u2019s Company",
+      "link": "https://www.nytimes.com/2026/08/11/theater/ari-emanuel-atg-entertainment.html",
+      "date": "Aug 11, 26",
+      "source": "NYT Arts",
+      "layer": 1,
       "access": "pe",
-      "score": 14,
+      "score": 13,
       "moments": [
-        "tour_announcement"
+        "acquisition"
       ]
     },
     {
-      "id": "0ad99d3cfc47",
-      "title": "Live Nation to Acquire Majority Stake in Three Prague Live Entertainment Venues",
-      "summary": "Live Nation has signed an agreement to acquire a majority stake in three of Prague&#8217;s leading live entertainment venues, marking... The post Live Nation to Acquire Majority Stake in Three Prague ",
-      "company": "Live Nation",
-      "link": "https://www.ticketnews.com/2026/08/live-nation-to-acquire-majority-stake-in-three-prague-live-entertainment-venues/",
-      "date": "Aug 07, 26",
+      "id": "f6fc4fe7ce0a",
+      "title": "Live Nation Takes Majority Stake in Three Major Prague Venues",
+      "summary": "Live Nation is making a major venue play in Prague, signing an agreement to acquire a majority stake in three... The post Live Nation Takes Majority Stake in Three Major Prague Venues appeared first o",
+      "company": "Live Nation Takes Majority Stake",
+      "link": "https://www.ticketnews.com/2026/08/live-nation-majority-stake-three-major-prague-venues/",
+      "date": "Aug 10, 26",
       "source": "Ticket News",
       "layer": 2,
       "access": "pe",
       "score": 13,
       "moments": [
         "acquisition"
+      ]
+    },
+    {
+      "id": "703bde3363ad",
+      "title": "\u2018Seth MacFarlane Sings The Muppets\u2019 Classic Songs on His New Album: Here\u2019s the Release Date",
+      "summary": "The Emmy winner turns to Kermit and friends for his next project.",
+      "company": "\u2018Seth MacFarlane Sings The Muppets\u2019 Classic",
+      "link": "https://www.billboard.com/music/pop/seth-macfarlane-sings-muppets-songs-new-album-release-date-1236312781/",
+      "date": "Aug 11, 26",
+      "source": "Billboard",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "5c22308dbdfb",
+      "title": "Limp Bizkit to Headline Australia\u2019s Good Things Festival 2026",
+      "summary": "The lineup also features Simple Plan, Spiritbox, Polaris, The All-American Rejects, Bad Religion, and more.",
+      "company": "Limp Bizkit",
+      "link": "https://www.billboard.com/music/concerts/limp-bizkit-good-things-festival-2026-1236313443/",
+      "date": "Aug 11, 26",
+      "source": "Billboard",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "festival_headliner"
       ]
     },
     {
@@ -268,58 +313,13 @@
       ]
     },
     {
-      "id": "5d8e6a333aec",
-      "title": "Karol G's new album may just have you crying at the club",
-      "summary": "The Colombian pop star releases her seventh studio album, 'No Me Arrepiento de Sentir Tanto' \u2014 and in 14 songs, reveals the depths of heartache one can only access when finally tuning out the world.",
-      "company": "Karol G's",
-      "link": "https://www.latimes.com/delos/story/2026-08-06/karol-g-new-album-no-me-arrepiento-de-sentir-tanto",
-      "date": "Aug 07, 26",
-      "source": "LA Times Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "acf0569c2488",
-      "title": "Womad festival review \u2013 \u200bhugely welcome return of joyous planet-spanning music fest",
-      "summary": "Neston Park, Wiltshire\u200bIn a new home after a year off, there\u2019s a thread of fierce political anger running alongside the spirited musical performances \u2013 including standout sets from Barrington Levy and",
-      "company": "Womad",
-      "link": "https://www.theguardian.com/culture/2026/jul/27/womad-festival-review-hugely-welcome-return-of-joyous-planet-spanning-music-fest",
-      "date": "Jul 27, 26",
-      "source": "Guardian Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "dec6b5567f7e",
-      "title": "FCC votes to lift broadcast ownership cap",
-      "summary": "The FCC on Thursday voted 2-1 to eliminate the national TV ownership cap rule that bars a single broadcaster from owning stations that reach more than 39% of U.S. TV households.Why it matters: The par",
-      "company": "FCC",
-      "link": "https://www.axios.com/2026/08/06/fcc-broadcast-ownership-cap-vote",
-      "date": "Aug 06, 26",
-      "source": "Axios",
-      "layer": 3,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "68d763d6907c",
-      "title": "PE firms tap IPOs as M&A exit market remains challenging",
-      "summary": "TOP STORY: Private equity firms are increasingly looking to public markets to exit portfolio companies as a shortage of strategic buyers continues to constrain traditional M&#038;A routes, according t",
-      "company": "PE",
-      "link": "https://www.privateequitywire.co.uk/pe-firms-tap-ipos-as-ma-exit-market-remains-challenging/",
-      "date": "Aug 10, 26",
-      "source": "PE Wire",
+      "id": "abbffb7365bb",
+      "title": "Private equity plays in growing European HVAC market; Exponent closes \u20ac750m CV for H&MV Engineering; Nvidia plans partnerships with host of PE firms",
+      "summary": "Morning all, Craig McGlashan here with the Europe Wire from the London newsroom. There\u2019s another hot week ahead for much of western Europe \u2013 making this a good time to look at how private equity is ba",
+      "company": "Private",
+      "link": "https://www.pehub.com/private-equity-plays-in-growing-european-hvac-market-exponent-closes-e750m-cv-for-h-nvidia-plans-partnerships-with-host-of-pe-firms/",
+      "date": "Aug 11, 26",
+      "source": "PE Hub",
       "layer": 5,
       "access": "pe",
       "score": 12,
@@ -328,18 +328,18 @@
       ]
     },
     {
-      "id": "29695ece9844",
-      "title": "Incoming MLS Commissioner Sees \u2018Uncapped Upside\u2019 in Media Rights",
-      "summary": "Front Office Sports",
-      "company": "",
-      "link": "https://frontofficesports.com/larry-berg-uncapped-upside-mls-media-rights/",
-      "date": "Aug 05, 26",
+      "id": "693b728a124c",
+      "title": "Bills Are \u2018Addressing Feedback\u2019 After New Stadium Debut",
+      "summary": "Imagn Images",
+      "company": "Bills Are \u2018Addressing Feedback\u2019 After New",
+      "link": "https://frontofficesports.com/bills-are-addressing-feedback-after-new-stadium-debut/",
+      "date": "Aug 10, 26",
       "source": "Front Office Sports",
-      "layer": 1,
+      "layer": 2,
       "access": "pe",
       "score": 11,
       "moments": [
-        "rights_deal"
+        "venue_announcement"
       ]
     },
     {
@@ -355,21 +355,6 @@
       "score": 11,
       "moments": [
         "company_launch"
-      ]
-    },
-    {
-      "id": "70882b65bd59",
-      "title": "What Is David Ellison\u2019s Breaking Point?",
-      "summary": "David Ellison and the leadership team at Paramount expected to spend much of the summer settling into new digs with Warner Bros. Discovery. A few weeks ago, they privately predicted the merger of the ",
-      "company": "What Is David Ellison\u2019s Breaking Point?",
-      "link": "https://variety.com/2026/film/news/david-ellison-breaking-point-paramount-wb-merger-trial-1236828418/",
-      "date": "Aug 05, 26",
-      "source": "Variety Biz",
-      "layer": 3,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "acquisition"
       ]
     },
     {
@@ -418,6 +403,45 @@
       ]
     },
     {
+      "id": "8db2dba17ae8",
+      "title": "VIO Med Spa Earns Inc. 5000 Recognition as It Builds for Next Phase of National Growth",
+      "summary": "Company adds 15 new franchise owners as U.S. med spa industry surpasses $17 Billion in annual revenue Next-generation store design lowers development costs and creates a more scalable model for expans",
+      "company": "VIO Med Spa Earns Inc",
+      "link": "https://www.prnewswire.com/news-releases/vio-med-spa-earns-inc-5000-recognition-as-it-builds-for-next-phase-of-national-growth-302848036.html",
+      "date": "Aug 11, 26",
+      "source": "PR Newswire",
+      "layer": 2,
+      "access": "pe",
+      "score": 19,
+      "moments": []
+    },
+    {
+      "id": "1c3212768f53",
+      "title": "Colorado State Taps Oak View Group to Bring More Concerts, Live Events to Canvas Stadium",
+      "summary": "Colorado State University is looking to turn Canvas Stadium into a bigger player on Northern Colorado\u2019s live entertainment circuit, expanding... The post Colorado State Taps Oak View Group to Bring Mo",
+      "company": "Colorado State Taps Oak View Group",
+      "link": "https://www.ticketnews.com/2026/08/colorado-state-oak-view-group-gigs-stadium/",
+      "date": "Aug 10, 26",
+      "source": "Ticket News",
+      "layer": 2,
+      "access": "pe",
+      "score": 14,
+      "moments": []
+    },
+    {
+      "id": "58f5d92873bd",
+      "title": "China\u2019s Tencent Music Reports $1.32 Billion in Q2 Revenue as Ximalaya Integration Marks New Audio Push",
+      "summary": "China&#8217;s Tencent Music Entertainment Group posted total revenues of RMB8.93 billion ($1.32 billion) for the second quarter of 2026 \u2013 a 5.8% year-over-year gain \u2013 as its music services arm deliver",
+      "company": "China\u2019s Tencent Music Reports",
+      "link": "https://variety.com/2026/music/news/tencent-music-q2-2026-earnings-ximalaya-1236831954/",
+      "date": "Aug 11, 26",
+      "source": "Variety Music",
+      "layer": 2,
+      "access": "pe",
+      "score": 13,
+      "moments": []
+    },
+    {
       "id": "593104d35158",
       "title": "Luke Combs review \u2013 regular Joe megastar brings the arena-sized party home",
       "summary": "Murrayfield Stadium, EdinburghDespite his humble persona, the highest-selling country artist of all time has the vocal firepower and heavyweight hits to deliver two hours of crowd-pleasin\u2019 pyrotechnic",
@@ -431,53 +455,14 @@
       "moments": []
     },
     {
-      "id": "b9783d226269",
-      "title": "Roku Q2 Revenue Up 22% and Net Income Zooms to $164 Million in Huge Beat, Abstains From Providing Outlook Amid Pending Fox Corp. Sale",
-      "summary": "Roku kept its streaming engines blazing in the second quarter of 2026 with earnings that blew past Wall Street estimates. The company reported Q2 revenue of $1.35 billion, up 22%, topping Wall Street ",
-      "company": "Roku Q2 Revenue Up",
-      "link": "https://variety.com/2026/tv/news/roku-q2-2026-earnings-beat-fox-corp-deal-1236829314/",
-      "date": "Aug 06, 26",
+      "id": "b4b5f6723fb6",
+      "title": "UTA Signs \u2018Forgotten Island\u2019 Writer-Director Januel Mercado (EXCLUSIVE)",
+      "summary": "United Talent Agency has signed rising filmmaker Januel Mercado for representation in all areas. Mercado is the writer and director of DreamWorks Animation\u2019s upcoming &#8220;Forgotten Island,&#8221; a",
+      "company": "",
+      "link": "https://variety.com/2026/biz/news/uta-signs-forgotten-island-writer-director-januel-mercado-1236831450/",
+      "date": "Aug 10, 26",
       "source": "Variety Biz",
-      "layer": 2,
-      "access": "public",
-      "score": 11,
-      "moments": []
-    },
-    {
-      "id": "46a2822550dc",
-      "title": "Foo Fighters Plot 2026 South American Stadium Tour",
-      "summary": "The rock icons Foo Fighters have announced a massive run of stadium shows across South America next year. The brief,... The post Foo Fighters Plot 2026 South American Stadium Tour appeared first on Ti",
-      "company": "Foo Fighters Plot",
-      "link": "https://www.ticketnews.com/2026/08/foo-fighters-plot-2026-south-american-stadium-tour/",
-      "date": "Aug 07, 26",
-      "source": "Ticket News",
-      "layer": 2,
-      "access": "pe",
-      "score": 10,
-      "moments": []
-    },
-    {
-      "id": "f89eb5fbbc47",
-      "title": "Pentatonix Christmas in the City Tour Leads This Week\u2019s Ticket Onsales",
-      "summary": "A major new holiday run from Pentatonix leads this week\u2019s ticket onsales, with more than 20 North American arena dates... The post Pentatonix Christmas in the City Tour Leads This Week\u2019s Ticket Onsale",
-      "company": "Pentatonix Christmas",
-      "link": "https://www.ticketnews.com/2026/08/pentatonix-christmas-in-the-city-tour-leads-this-weeks-ticket-onsales/",
-      "date": "Aug 06, 26",
-      "source": "Ticket News",
-      "layer": 2,
-      "access": "pe",
-      "score": 10,
-      "moments": []
-    },
-    {
-      "id": "3d573ee19913",
-      "title": "FCC Eliminates TV Station Ownership Cap in Win for Nexstar and Other Big Broadcasters",
-      "summary": "The FCC has formally moved to eliminate the longstanding national limit on the number of TV stations that a single entity can own on a 2-1 vote that is likely to draw legal challenges. FCC chief Brend",
-      "company": "FCC Eliminates TV Station Ownership Cap",
-      "link": "https://variety.com/2026/tv/news/fcc-eliminates-tv-station-ownership-cap-nexstar-broadcaster-1236829194/",
-      "date": "Aug 06, 26",
-      "source": "Variety Biz",
-      "layer": 3,
+      "layer": 4,
       "access": "pe",
       "score": 8,
       "moments": []
@@ -496,6 +481,32 @@
       "moments": []
     },
     {
+      "id": "b0787c87f7ea",
+      "title": "Live Nation Executives Hold Nearly $1 Billion in Stock as New Equity Tranche Vests",
+      "summary": "Live Nation\u2019s top executives saw another multimillion-dollar tranche of previously awarded stock vest last week, adding to equity holdings that... The post Live Nation Executives Hold Nearly $1 Billio",
+      "company": "Live Nation Executives Hold Nearly",
+      "link": "https://www.ticketnews.com/2026/08/live-nation-executives-hold-nearly-1-billion-in-stock-as-new-equity-tranche-vests/",
+      "date": "Aug 10, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "public",
+      "score": 7,
+      "moments": []
+    },
+    {
+      "id": "c421487c2f99",
+      "title": "Bozoma Saint John Signs With CAA (EXCLUSIVE)",
+      "summary": "Bozoma Saint John has signed with CAA for representation. Saint John is a marketing executive and media personality best known serving in high-ranking roles at PepsiCo, Apple, Uber, Endeavor and Netfl",
+      "company": "Bozoma Saint John Signs With CAA",
+      "link": "https://variety.com/2026/tv/news/bozoma-saint-john-caa-1236831326/",
+      "date": "Aug 10, 26",
+      "source": "Variety Biz",
+      "layer": 4,
+      "access": "pe",
+      "score": 6,
+      "moments": []
+    },
+    {
       "id": "8f95fdb4c719",
       "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
       "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
@@ -504,6 +515,19 @@
       "date": "May 09, 26",
       "source": "Venues Today",
       "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "0ce6b27300c8",
+      "title": "Hacker Linked to Ticketmaster Snowflake Breach Pleads Guilty in 165-Company Attack",
+      "summary": "A Canadian hacker tied to the sprawling 2024 cyberattack campaign that included the massive Ticketmaster data breach has pleaded guilty... The post Hacker Linked to Ticketmaster Snowflake Breach Plead",
+      "company": "Hacker Linked",
+      "link": "https://www.ticketnews.com/2026/08/hacker-linked-to-ticketmaster-snowflake-breach-pleads-guilty-in-165-company-attack/",
+      "date": "Aug 10, 26",
+      "source": "Ticket News",
+      "layer": 3,
       "access": "pe",
       "score": 4,
       "moments": []
