@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-11T13:14:28.429750+00:00",
-  "total": 36,
+  "generated": "2026-08-12T13:18:42.265398+00:00",
+  "total": 38,
   "scraped": [
     {
       "id": "36b107011626",
@@ -20,35 +20,35 @@
       ]
     },
     {
-      "id": "b042bd61cc9d",
-      "title": "See Charli XCX Join the Strokes for \u2018Take It or Leave It\u2019 at Outside Lands",
-      "summary": "Fresh off their album-sales battle \u2014 \u201cShe won. She won by a lot,\u201d Julian Casablancas quipped \u2014 Friday night\u2019s headliner at San Francisco fest makes surprise appearance during band\u2019s Saturday set",
-      "company": "See Charli XCX Join",
-      "link": "https://www.rollingstone.com/music/music-news/charli-xcx-the-strokes-take-it-or-leave-it-outside-lands-1235605980/",
-      "date": "Aug 09, 26",
-      "source": "Rolling Stone News",
+      "id": "83995d151d7a",
+      "title": "Apollo S3 doubles down on GP-led secondaries with Monogram continuation vehicle for Mountaintop Beverage",
+      "summary": "Apollo S3 has led another single-asset continuation vehicle, backing Monogram Capital Partners' transfer of drinks manufacturer Mountaintop Beverage into a new fund. The post Apollo S3 doubles down on",
+      "company": "Apollo S3",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/apollo-s3-doubles-down-on-gp-led-secondaries-with-monogram-continuation-vehicle-for-mountaintop-beverage.html",
+      "date": "Aug 12, 26",
+      "source": "AltAssets",
       "layer": 1,
       "access": "pe",
-      "score": 18,
-      "moments": [
-        "surprise_appearance",
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "76756f470c32",
-      "title": "Alpaca Real Estate closes $223m debut fund as AI-driven platform wins institutional backing",
-      "summary": "Alpaca Real Estate has completed the final close of its inaugural fund on about $223m, joining a select group of first-time real estate managers to secure institutional backing in what remains a diffi",
-      "company": "Alpaca Real Estate",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/alpaca-real-estate-closes-223m-debut-fund-as-ai-driven-platform-wins-institutional-backing.html",
-      "date": "Aug 07, 26",
-      "source": "AltAssets",
-      "layer": 2,
-      "access": "pe",
-      "score": 18,
+      "score": 21,
       "moments": [
         "pe_investment",
         "fund_launch"
+      ]
+    },
+    {
+      "id": "2a14493390e0",
+      "title": "Dave Matthews Band Announces 2026 Fall Tour Dates",
+      "summary": "The Dave Matthews Band has announced its 2026 Fall Tour, which will kick off on November 4 at Kohl Center in Madison, WI. The U.S. headline run will include shows at Nashville\u2019s Bridgestone Arena, Uni",
+      "company": "Dave Matthews Band Announces",
+      "link": "https://variety.com/2026/music/news/dave-matthews-band-2026-fall-tour-dates-1236832053/",
+      "date": "Aug 11, 26",
+      "source": "Variety Music",
+      "layer": 2,
+      "access": "pe",
+      "score": 19,
+      "moments": [
+        "tour_announcement",
+        "festival_headliner"
       ]
     },
     {
@@ -68,18 +68,34 @@
       ]
     },
     {
-      "id": "59d445789838",
-      "title": "Europe\u2019s IPO window is open \u2013 but PE firms face a shrinking pool of public market exits",
-      "summary": "Europe\u2019s IPO market has reopened after the 2022 correction, but the backlog of potential listings is rapidly narrowing, creating a more selective exit environment for private equity sponsors, PitchBoo",
-      "company": "Europe\u2019s IPO",
-      "link": "https://www.altassets.net/featured/europes-ipo-window-is-open-but-pe-firms-face-a-shrinking-pool-of-public-market-exits.html",
-      "date": "Aug 06, 26",
+      "id": "54dd72ca35a3",
+      "title": "Canyon tops $500m fund target as opportunistic real estate managers prep for next phase of market dislocation",
+      "summary": "Canyon Partners has completed the final close of its latest US opportunistic real estate strategy on about $570m, beating its initial $500m target. The post Canyon tops $500m fund target as opportunis",
+      "company": "Canyon",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/canyon-tops-fund-target-as-opportunistic-real-estate-managers-position-for-next-phase-of-market-dislocation.html",
+      "date": "Aug 12, 26",
+      "source": "AltAssets",
+      "layer": 2,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "b5bb3b9b3ee6",
+      "title": "Deal Roundup: TPG agrees $925m Lotte Rental buy, Lindsay Goldberg seals Alro Steel deal",
+      "summary": "TPG has agreed to acquire a 61.2% controlling stake in South Korea\u2019s largest car rental company, Lotte Rental, from Hotel Lotte and Busan Lotte Hotel in a transaction valued at KRW1.31tn ($925m). The ",
+      "company": "Deal Roundup",
+      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-tpg-agrees-925m-lotte-rental-buy-lindsay-goldberg-seals-alro-steel-deal.html",
+      "date": "Aug 12, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
-      "score": 16,
+      "score": 13,
       "moments": [
-        "ipo",
+        "acquisition",
         "pe_investment"
       ]
     },
@@ -100,54 +116,6 @@
       ]
     },
     {
-      "id": "b09855e4bcb5",
-      "title": "Deal Roundup: Apollo to buy easyJet in \u00a35.7bn deal, Broad Sky exits Smith + Howard to TPG",
-      "summary": "Apollo Global Management has agreed to acquire UK-listed airline easyJet in a \u00a35.7bn transaction, ending a competitive bidding process after rival suitor Castlelake withdrew. The post Deal Roundup: Ap",
-      "company": "Deal Roundup",
-      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-apollo-to-buy-easyjet-in-5-7bn-deal-broad-sky-exits-smith-howard-to-tpg.html",
-      "date": "Aug 07, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "acquisition",
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "10e15e5ffacf",
-      "title": "ECP closes $8.1bn flagship fund after lifting hard cap",
-      "summary": "Energy Capital Partners has closed its sixth flagship infrastructure fund on $8.1bn, more than 80% larger than its predecessor and well above its original $5bn target. The post ECP closes $8.1bn flags",
-      "company": "ECP",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/ecp-closes-8-1bn-flagship-fund-after-lifting-hard-cap.html",
-      "date": "Aug 07, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "ff119da4a5a5",
-      "title": "Deal Roundup: Partners Group takes majority stake in AVK, in talks to buy Eurazeo\u2019s Aroma-Zone",
-      "summary": "Partners Group has entered exclusive discussions to acquire a majority stake in Aroma-Zone, a French natural beauty, wellness and selfcare brand, from Eurazeo. The post Deal Roundup: Partners Group ta",
-      "company": "Deal Roundup",
-      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-partners-group-takes-majority-stake-in-avk-in-talks-to-buy-eurazeos-aroma-zone.html",
-      "date": "Aug 06, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "acquisition",
-        "pe_investment"
-      ]
-    },
-    {
       "id": "e9c36d3008c4",
       "title": "Knitting Factory Entertainment Acquires Minority Stake in Does Entertainment, Forming Strategic Growth Partnership to Expand National Live...",
       "summary": "Companies Align to Accelerate Venue Development, Talent Buying, Concert Promotion and Strategic Growth Across North America Los Angeles, CA / Wilmington, NC, July 14, 2026 \u2013&#160;Knitting Factory Ente",
@@ -158,6 +126,21 @@
       "layer": 2,
       "access": "pe",
       "score": 24,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "26deb368a7c8",
+      "title": "Ari Emanuel\u2019s Mari Acquires ATG Entertainment, Theater Owner Behind \u2018Wicked\u2019 and \u2018Harry Potter and the Cursed Child\u2019 Productions",
+      "summary": "Mari, Ari Emanuel&#8217;s global events and experiences company, has agreed to acquire U.K.-based theater giant ATG Entertainment from Providence Equity Partners in a multibillion-dollar deal. ATG ope",
+      "company": "",
+      "link": "https://variety.com/2026/biz/global/ari-emanuel-mari-acquires-atg-entertainment-theater-venue-giant-1236832004/",
+      "date": "Aug 11, 26",
+      "source": "Variety Biz",
+      "layer": 1,
+      "access": "pe",
+      "score": 21,
       "moments": [
         "acquisition"
       ]
@@ -178,40 +161,100 @@
       ]
     },
     {
-      "id": "7205c3bc78c6",
-      "title": "How Norway\u2019s \u00d8yafestivalen Became One of Europe\u2019s Best Music Fests: Balancing Huge Headliners With Homegrown Artists, Prioritizing Gender Parity and...",
-      "summary": "In a year without Glastonbury, music lovers have turned to other festivals in the U.K. and Europe to fill the void. There&#8217;s Primavera Sound in Barcelona, with its proximity to the beach and genr",
-      "company": "How Norway\u2019s \u00d8yafestivalen Became One",
-      "link": "https://variety.com/2026/music/global/norway-oyafestivalen-europe-best-music-fests-1236830561/",
-      "date": "Aug 10, 26",
-      "source": "Variety Music",
+      "id": "cc9e212c094f",
+      "title": "EnableComp Acquires Helix Advisory, Advancing Zero Balance Review Technology in Its Complex Revenue Recovery Platform",
+      "summary": "Hospitals no longer leave money on the table because a claim is too small, too complex FRANKLIN, Tenn., Aug. 12, 2026 /PRNewswire/ -- EnableComp\u00ae, the leading provider of technology-driven complex rev",
+      "company": "",
+      "link": "https://www.prnewswire.com/news-releases/enablecomp-acquires-helix-advisory-advancing-zero-balance-review-technology-in-its-complex-revenue-recovery-platform-302848788.html",
+      "date": "Aug 12, 26",
+      "source": "PR Newswire",
+      "layer": 2,
+      "access": "pe",
+      "score": 18,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "9bf8a037d4bf",
+      "title": "Apple TV eyes US broadcast rights to the Open as foray into sports broadcasting continues",
+      "summary": "NBC is current US broadcaster of tournamentStreaming services making inroads into live sportsApple TV has joined the battle to win US rights to golf\u2019s Open Championship in the streaming platform\u2019s lat",
+      "company": "Apple TV",
+      "link": "https://www.theguardian.com/sport/2026/aug/11/apple-tv-eyes-us-broadcast-rights-to-the-open-as-foray-into-sports-broadcasting-continues",
+      "date": "Aug 11, 26",
+      "source": "Guardian Sport",
+      "layer": 3,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "rights_deal"
+      ]
+    },
+    {
+      "id": "1aba7d135c83",
+      "title": "Solar energy draws private equity interest; Providence agrees to sale of live entertainment business ATG",
+      "summary": "ATG operates 70 venues across the UK, the US, Germany, and Spain, including seven on Broadway and 10 in London\u2019s West End. The post Solar energy draws private equity interest; Providence agrees to sal",
+      "company": "Solar",
+      "link": "https://www.pehub.com/solar-energy-draws-private-equity-interest-providence-agrees-to-sale-of-live-entertainment-business-atg/",
+      "date": "Aug 12, 26",
+      "source": "PE Hub",
       "layer": 1,
       "access": "pe",
       "score": 16,
       "moments": [
-        "festival_headliner"
+        "pe_investment"
       ]
     },
     {
-      "id": "1670fc64e045",
-      "title": "Elon Musk\u2019s Boring Company reportedly raising funding at a $20B valuation",
-      "summary": "Elon Musk's tunneling startup is reportedly in talks for a major new funding round.",
-      "company": "Elon Musk\u2019s Boring Company",
-      "link": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
-      "date": "Jul 25, 26",
-      "source": "TechCrunch Venture",
+      "id": "2b52ab1c36c1",
+      "title": "Athletic Brewing Scores MetLife Stadium Deal With Giants, Jets",
+      "summary": "Athletic Brewing is stepping deeper into the NFL, striking a multi-year partnership with MetLife Stadium, the New York Giants and... The post Athletic Brewing Scores MetLife Stadium Deal With Giants, ",
+      "company": "Athletic Brewing Scores MetLife Stadium Deal",
+      "link": "https://www.ticketnews.com/2026/08/athletic-brewing-metlife-stadium-deal-giants-jets/",
+      "date": "Aug 11, 26",
+      "source": "Ticket News",
+      "layer": 1,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "venue_announcement"
+      ]
+    },
+    {
+      "id": "69316ca09f96",
+      "title": "Accel raises $3.5bn across four funds to target early-stage global AI opportunities",
+      "summary": "Global venture capital firm Accel has raised $3.5bn across four new funds aimed at backing early-stage companies, with artificial intelligence expected to remain a major focus across its investment st",
+      "company": "Accel",
+      "link": "https://www.privateequitywire.co.uk/accel-raises-3-5bn-across-four-funds-to-target-early-stage-global-ai-opportunities/",
+      "date": "Aug 12, 26",
+      "source": "PE Wire",
       "layer": 1,
       "access": "venture",
       "score": 15,
       "moments": [
-        "valuation"
+        "funding_round"
       ]
     },
     {
-      "id": "93ef95c05f2d",
-      "title": "David Ellison Threatens to Pull Paramount Out of California Starting Oct. 1 if States Refuse to Negotiate Settlement in Antitrust Suit",
-      "summary": "David Ellison is eager to reach a swift resolution in the antitrust case filed by 12 states seeking to block the Paramount-Warner Bros. Discovery merger. And he&#8217;s prepared start moving Paramount",
-      "company": "David Ellison Threatens",
+      "id": "7caeb6cb223d",
+      "title": "AMSURG Welcomes Louisiana-Based Capital Surgery Center to Its National Network",
+      "summary": "NASHVILLE, Tenn., Aug. 12, 2026 /PRNewswire/ -- AMSURG, a leader in ambulatory surgery center services, announces the expansion of its portfolio with the acquisition of Capital Surgery Center. Located",
+      "company": "",
+      "link": "https://www.prnewswire.com/news-releases/amsurg-welcomes-louisiana-based-capital-surgery-center-to-its-national-network-302846607.html",
+      "date": "Aug 12, 26",
+      "source": "PR Newswire",
+      "layer": 2,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "7f6f1b2acb83",
+      "title": "David Ellison Says He\u2019ll Pull Paramount Out of California Starting Oct. 1 if States Refuse to Negotiate Settlement in Antitrust Suit",
+      "summary": "David Ellison is eager to reach a swift resolution in the antitrust case filed by 12 states seeking to block the Paramount-Warner Bros. Discovery merger. And, in a move seemingly aimed at gaining leve",
+      "company": "David Ellison Says He\u2019ll Pull Paramount",
       "link": "https://variety.com/2026/film/news/david-ellison-move-paramount-out-of-california-states-antitrust-lawsuit-1236831936/",
       "date": "Aug 11, 26",
       "source": "Variety Biz",
@@ -238,93 +281,33 @@
       ]
     },
     {
-      "id": "491c70b3a488",
-      "title": "Ari Emanuel\u2019s Company to Acquire 7 Broadway Theaters and 10 in the West End",
-      "summary": "The purchase of ATG Entertainment, which operates dozens of venues worldwide, will require regulatory approval.",
-      "company": "Ari Emanuel\u2019s Company",
-      "link": "https://www.nytimes.com/2026/08/11/theater/ari-emanuel-atg-entertainment.html",
-      "date": "Aug 11, 26",
-      "source": "NYT Arts",
+      "id": "3a6d36f5a204",
+      "title": "Phoebe Bridgers announces intimate phone-free UK album launch gigs",
+      "summary": "The series of intimate shows will mark the release of her much-anticipated new album, 'Lost Weekend' The post Phoebe Bridgers announces intimate phone-free UK album launch gigs appeared first on NME.",
+      "company": "Phoebe Bridgers",
+      "link": "https://www.nme.com/news/music/phoebe-bridgers-announces-intimate-phone-free-uk-album-launch-gigs-3962122?utm_source=rss&utm_medium=rss&utm_campaign=phoebe-bridgers-announces-intimate-phone-free-uk-album-launch-gigs",
+      "date": "Aug 12, 26",
+      "source": "NME",
       "layer": 1,
       "access": "pe",
-      "score": 13,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "f6fc4fe7ce0a",
-      "title": "Live Nation Takes Majority Stake in Three Major Prague Venues",
-      "summary": "Live Nation is making a major venue play in Prague, signing an agreement to acquire a majority stake in three... The post Live Nation Takes Majority Stake in Three Major Prague Venues appeared first o",
-      "company": "Live Nation Takes Majority Stake",
-      "link": "https://www.ticketnews.com/2026/08/live-nation-majority-stake-three-major-prague-venues/",
-      "date": "Aug 10, 26",
-      "source": "Ticket News",
-      "layer": 2,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "703bde3363ad",
-      "title": "\u2018Seth MacFarlane Sings The Muppets\u2019 Classic Songs on His New Album: Here\u2019s the Release Date",
-      "summary": "The Emmy winner turns to Kermit and friends for his next project.",
-      "company": "\u2018Seth MacFarlane Sings The Muppets\u2019 Classic",
-      "link": "https://www.billboard.com/music/pop/seth-macfarlane-sings-muppets-songs-new-album-release-date-1236312781/",
-      "date": "Aug 11, 26",
-      "source": "Billboard",
-      "layer": 1,
-      "access": "pe",
-      "score": 12,
+      "score": 14,
       "moments": [
         "album_announcement"
       ]
     },
     {
-      "id": "5c22308dbdfb",
-      "title": "Limp Bizkit to Headline Australia\u2019s Good Things Festival 2026",
-      "summary": "The lineup also features Simple Plan, Spiritbox, Polaris, The All-American Rejects, Bad Religion, and more.",
-      "company": "Limp Bizkit",
-      "link": "https://www.billboard.com/music/concerts/limp-bizkit-good-things-festival-2026-1236313443/",
-      "date": "Aug 11, 26",
-      "source": "Billboard",
+      "id": "5c453e236366",
+      "title": "Zara Larsson helps Sombr kick off first European festival headline set at Sziget",
+      "summary": "The Swedish pop star performed before the New Yorker\u2019s bill-topping performance at the Budapest bash The post Zara Larsson helps Sombr kick off first European festival headline set at Sziget appeared ",
+      "company": "Zara Larsson",
+      "link": "https://www.nme.com/news/music/zara-larsson-sombr-sziget-festival-headline-2026-3962067?utm_source=rss&utm_medium=rss&utm_campaign=zara-larsson-sombr-sziget-festival-headline-2026",
+      "date": "Aug 12, 26",
+      "source": "NME",
       "layer": 1,
       "access": "pe",
-      "score": 12,
+      "score": 14,
       "moments": [
         "festival_headliner"
-      ]
-    },
-    {
-      "id": "a0d2d5a95f66",
-      "title": "Katseye's Sophia Laforteza announces hiatus before headlining Rose Bowl music festival",
-      "summary": "Katseye member Sophia Laforteza announced she is taking a mental health hiatus ahead of the Head in the Clouds festival in Pasadena, joining member Manon Bannerman in stepping back from the group.",
-      "company": "Katseye's Sophia Laforteza",
-      "link": "https://www.latimes.com/entertainment-arts/story/2026-08-07/katseyes-sophia-laforteza-announces-hiatus-before-rose-bowl-show",
-      "date": "Aug 08, 26",
-      "source": "LA Times Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "abbffb7365bb",
-      "title": "Private equity plays in growing European HVAC market; Exponent closes \u20ac750m CV for H&MV Engineering; Nvidia plans partnerships with host of PE firms",
-      "summary": "Morning all, Craig McGlashan here with the Europe Wire from the London newsroom. There\u2019s another hot week ahead for much of western Europe \u2013 making this a good time to look at how private equity is ba",
-      "company": "Private",
-      "link": "https://www.pehub.com/private-equity-plays-in-growing-european-hvac-market-exponent-closes-e750m-cv-for-h-nvidia-plans-partnerships-with-host-of-pe-firms/",
-      "date": "Aug 11, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "pe_investment"
       ]
     },
     {
@@ -358,6 +341,36 @@
       ]
     },
     {
+      "id": "39d47878ac4f",
+      "title": "Rod Stewart Cancels Upcoming Tour Dates Following Coronary Stent Procedure",
+      "summary": "Rod Stewart has announced that he will be canceling the next four weeks of performances as part of his &#8220;One Last Time&#8221; farewell tour and &#8220;The Encore Shows&#8221; Las Vegas residency ",
+      "company": "Rod Stewart Cancels Upcoming Tour Dates",
+      "link": "https://variety.com/2026/music/news/rod-stewart-cancels-tour-dates-coronary-stent-procedure-1236832530/",
+      "date": "Aug 11, 26",
+      "source": "Variety Music",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "tour_announcement"
+      ]
+    },
+    {
+      "id": "8813e2e023d6",
+      "title": "Bloodstock announce 27 bands and headliners for 2027 line-up",
+      "summary": "Next year's edition will see headline performances from Mercyful Fate, Electric Callboy and Motionless in White - with 100 more names yet to be announced The post Bloodstock announce 27 bands and head",
+      "company": "Bloodstock",
+      "link": "https://www.nme.com/news/music/bloodstock-announce-27-bands-and-headliners-for-2027-line-up-3962141?utm_source=rss&utm_medium=rss&utm_campaign=bloodstock-announce-27-bands-and-headliners-for-2027-line-up",
+      "date": "Aug 12, 26",
+      "source": "NME",
+      "layer": 5,
+      "access": "public",
+      "score": 9,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
       "id": "46aed39e4e35",
       "title": "Beehive Block Party and beyond: SoLa and Live Nation train entertainment's next generation",
       "summary": "South Los Angeles youth planned the 2026 Beehive Block Party through the SoLa Live Accelerator, a partnership program between the SoLa Foundation and Live Nation that trains aspiring live entertainmen",
@@ -373,18 +386,63 @@
       ]
     },
     {
-      "id": "e133bc6c844d",
-      "title": "Commercials for the ESPN/ABC telecast of the 2027 Super Bowl at SoFi are sold out",
-      "summary": "Disney said 58 brands have bought time on the game, which is the most-watched TV event of the year.",
-      "company": "Commercials",
-      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-08-05/super-bowl-2027-commercials-espn-abc-sold-out",
-      "date": "Aug 05, 26",
-      "source": "LA Times Sports",
-      "layer": 3,
+      "id": "58d01e566513",
+      "title": "PE-backed CHG Healthcare acquires medical staffing firm Krewe Anesthesia",
+      "summary": "Headquartered in Salt Lake City, CHG Healthcare is a hospital staffing firm. The post PE-backed CHG Healthcare acquires medical staffing firm Krewe Anesthesia appeared first on PE Hub.",
+      "company": "PE-backed CHG Healthcare",
+      "link": "https://www.pehub.com/pe-backed-chg-healthcare-acquires-medical-staffing-firm-krewe-anesthesia/",
+      "date": "Aug 11, 26",
+      "source": "PE Hub",
+      "layer": 5,
       "access": "pe",
       "score": 9,
       "moments": [
-        "record_breaking"
+        "acquisition"
+      ]
+    },
+    {
+      "id": "55a647a1b2a1",
+      "title": "Alternative Views with Heitman\u2019s Zubaer Mahboob",
+      "summary": "In Alternative Views, Private Equity Wire\u00ae goes behind closed doors with those in the know to get the latest on private markets. In this episode we discuss the role of in-house research teams with Zub",
+      "company": "Alternative Views",
+      "link": "https://www.privateequitywire.co.uk/alternative-views-with-heitmans-zubaer-mahboob/",
+      "date": "Aug 11, 26",
+      "source": "PE Wire",
+      "layer": 2,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "fcd1bcb36111",
+      "title": "Ontario Teachers\u2019 venture growth helps drive 9.5% first-half return, pension fund tops C$300bn in assets",
+      "summary": "Ontario Teachers\u2019 Pension Plan posted a 9.5% net return for the first six months of 2026, with its venture growth portfolio emerging as the largest contributor to performance as the Canadian pension f",
+      "company": "Ontario Teachers\u2019",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/canada-north-america-by-region/ontario-teachers-venture-growth-helps-drive-9-5-first-half-return-pension-fund-tops-c300bn-in-assets.html",
+      "date": "Aug 10, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "caedca70d437",
+      "title": "High school football player in Arkansas practices with 2ft viper in helmet",
+      "summary": "Two-foot venomous snake found inside helmetPlayer wore gear for nearly an hour without a biteOfficers used water to force reluctant reptile outA high school football player in Arkansas had every right",
+      "company": "High",
+      "link": "https://www.theguardian.com/sport/2026/aug/12/arkansas-football-player-cottonmouth-snake-helmet",
+      "date": "Aug 12, 26",
+      "source": "Guardian Sport",
+      "layer": 4,
+      "access": "pe",
+      "score": 8,
+      "moments": [
+        "company_launch"
       ]
     },
     {
@@ -403,55 +461,29 @@
       ]
     },
     {
-      "id": "8db2dba17ae8",
-      "title": "VIO Med Spa Earns Inc. 5000 Recognition as It Builds for Next Phase of National Growth",
-      "summary": "Company adds 15 new franchise owners as U.S. med spa industry surpasses $17 Billion in annual revenue Next-generation store design lowers development costs and creates a more scalable model for expans",
-      "company": "VIO Med Spa Earns Inc",
-      "link": "https://www.prnewswire.com/news-releases/vio-med-spa-earns-inc-5000-recognition-as-it-builds-for-next-phase-of-national-growth-302848036.html",
+      "id": "6a11897b6dbc",
+      "title": "Marina Signs With UTA in All Areas (EXCLUSIVE)",
+      "summary": "British singer-songwriter and pop diva Marina (formerly Marina and the Diamonds) has signed with United Talent Agency for global representation in all areas, encompassing touring, media, filmed entert",
+      "company": "Marina Signs With UTA",
+      "link": "https://variety.com/2026/music/news/marina-signs-with-uta-1236831777/",
       "date": "Aug 11, 26",
-      "source": "PR Newswire",
-      "layer": 2,
+      "source": "Variety Music",
+      "layer": 4,
       "access": "pe",
-      "score": 19,
+      "score": 22,
       "moments": []
     },
     {
-      "id": "1c3212768f53",
-      "title": "Colorado State Taps Oak View Group to Bring More Concerts, Live Events to Canvas Stadium",
-      "summary": "Colorado State University is looking to turn Canvas Stadium into a bigger player on Northern Colorado\u2019s live entertainment circuit, expanding... The post Colorado State Taps Oak View Group to Bring Mo",
-      "company": "Colorado State Taps Oak View Group",
-      "link": "https://www.ticketnews.com/2026/08/colorado-state-oak-view-group-gigs-stadium/",
-      "date": "Aug 10, 26",
+      "id": "403b974eb74f",
+      "title": "Oak View Group Enters Spain With Celta Stadium Hospitality Deal",
+      "summary": "Oak View Group is making its hospitality debut in Spain through a new partnership with LaLiga club Celta, taking on... The post Oak View Group Enters Spain With Celta Stadium Hospitality Deal appeared",
+      "company": "Oak View Group Enters Spain With",
+      "link": "https://www.ticketnews.com/2026/08/oak-view-group-enters-spain-celta-stadium-hospitality-dela/",
+      "date": "Aug 11, 26",
       "source": "Ticket News",
       "layer": 2,
       "access": "pe",
       "score": 14,
-      "moments": []
-    },
-    {
-      "id": "58f5d92873bd",
-      "title": "China\u2019s Tencent Music Reports $1.32 Billion in Q2 Revenue as Ximalaya Integration Marks New Audio Push",
-      "summary": "China&#8217;s Tencent Music Entertainment Group posted total revenues of RMB8.93 billion ($1.32 billion) for the second quarter of 2026 \u2013 a 5.8% year-over-year gain \u2013 as its music services arm deliver",
-      "company": "China\u2019s Tencent Music Reports",
-      "link": "https://variety.com/2026/music/news/tencent-music-q2-2026-earnings-ximalaya-1236831954/",
-      "date": "Aug 11, 26",
-      "source": "Variety Music",
-      "layer": 2,
-      "access": "pe",
-      "score": 13,
-      "moments": []
-    },
-    {
-      "id": "593104d35158",
-      "title": "Luke Combs review \u2013 regular Joe megastar brings the arena-sized party home",
-      "summary": "Murrayfield Stadium, EdinburghDespite his humble persona, the highest-selling country artist of all time has the vocal firepower and heavyweight hits to deliver two hours of crowd-pleasin\u2019 pyrotechnic",
-      "company": "Luke Combs",
-      "link": "https://www.theguardian.com/music/2026/jul/26/luke-combs-review-regular-joe-megastar-brings-the-arena-sized-party-home",
-      "date": "Jul 26, 26",
-      "source": "Guardian Music",
-      "layer": 2,
-      "access": "pe",
-      "score": 12,
       "moments": []
     },
     {
@@ -468,6 +500,19 @@
       "moments": []
     },
     {
+      "id": "f5ffe86c1859",
+      "title": "Formula E Races to Stream on Disney+ Worldwide",
+      "summary": "Disney and Formula E announced a global streaming deal Tuesday that will bring the all-electric racing series to Disney+ in more than 140 territories, including America. FE events will also stream on ",
+      "company": "Formula",
+      "link": "https://www.sportico.com/leagues/motorsports/2026/formula-e-disney-espn-streaming-cbs-1234941567/",
+      "date": "Aug 11, 26",
+      "source": "Sportico",
+      "layer": 3,
+      "access": "pe",
+      "score": 7,
+      "moments": []
+    },
+    {
       "id": "7f0eecb666a1",
       "title": "Trump\u2019s DOJ gains oversight of OpenAI\u2019s green-card employee sponsorships",
       "summary": "The DOJ alleged that OpenAI did not meaningful attempt to hire U.S. citizens before seeking permanent residence for Visa-holding employees.",
@@ -477,19 +522,6 @@
       "source": "TechCrunch Startups",
       "layer": 3,
       "access": "pe",
-      "score": 7,
-      "moments": []
-    },
-    {
-      "id": "b0787c87f7ea",
-      "title": "Live Nation Executives Hold Nearly $1 Billion in Stock as New Equity Tranche Vests",
-      "summary": "Live Nation\u2019s top executives saw another multimillion-dollar tranche of previously awarded stock vest last week, adding to equity holdings that... The post Live Nation Executives Hold Nearly $1 Billio",
-      "company": "Live Nation Executives Hold Nearly",
-      "link": "https://www.ticketnews.com/2026/08/live-nation-executives-hold-nearly-1-billion-in-stock-as-new-equity-tranche-vests/",
-      "date": "Aug 10, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "public",
       "score": 7,
       "moments": []
     },
@@ -507,6 +539,19 @@
       "moments": []
     },
     {
+      "id": "e494eb4770d6",
+      "title": "Trump's DOJ lays groundwork for subpoena fights with a Democratic Congress",
+      "summary": "Executive privilege can shield President Trump's communications with \"private advisers\" outside of the government, the Justice Department's Office of Legal Counsel concluded Monday.Why it matters: Dem",
+      "company": "Trump's DOJ",
+      "link": "https://www.axios.com/2026/08/11/trump-doj-executive-privilege-democratic-probes",
+      "date": "Aug 11, 26",
+      "source": "Axios",
+      "layer": 3,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
       "id": "8f95fdb4c719",
       "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
       "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
@@ -515,19 +560,6 @@
       "date": "May 09, 26",
       "source": "Venues Today",
       "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "0ce6b27300c8",
-      "title": "Hacker Linked to Ticketmaster Snowflake Breach Pleads Guilty in 165-Company Attack",
-      "summary": "A Canadian hacker tied to the sprawling 2024 cyberattack campaign that included the massive Ticketmaster data breach has pleaded guilty... The post Hacker Linked to Ticketmaster Snowflake Breach Plead",
-      "company": "Hacker Linked",
-      "link": "https://www.ticketnews.com/2026/08/hacker-linked-to-ticketmaster-snowflake-breach-pleads-guilty-in-165-company-attack/",
-      "date": "Aug 10, 26",
-      "source": "Ticket News",
-      "layer": 3,
       "access": "pe",
       "score": 4,
       "moments": []
