@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-12T13:18:42.265398+00:00",
-  "total": 38,
+  "generated": "2026-08-13T13:20:44.006422+00:00",
+  "total": 39,
   "scraped": [
     {
       "id": "36b107011626",
@@ -20,6 +20,22 @@
       ]
     },
     {
+      "id": "374c14ea9835",
+      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+      "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
+      "company": "Lovable",
+      "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+      "date": "Aug 12, 26",
+      "source": "TechCrunch Startups",
+      "layer": 1,
+      "access": "venture",
+      "score": 27,
+      "moments": [
+        "funding_round",
+        "valuation"
+      ]
+    },
+    {
       "id": "83995d151d7a",
       "title": "Apollo S3 doubles down on GP-led secondaries with Monogram continuation vehicle for Mountaintop Beverage",
       "summary": "Apollo S3 has led another single-asset continuation vehicle, backing Monogram Capital Partners' transfer of drinks manufacturer Mountaintop Beverage into a new fund. The post Apollo S3 doubles down on",
@@ -36,35 +52,19 @@
       ]
     },
     {
-      "id": "2a14493390e0",
-      "title": "Dave Matthews Band Announces 2026 Fall Tour Dates",
-      "summary": "The Dave Matthews Band has announced its 2026 Fall Tour, which will kick off on November 4 at Kohl Center in Madison, WI. The U.S. headline run will include shows at Nashville\u2019s Bridgestone Arena, Uni",
-      "company": "Dave Matthews Band Announces",
-      "link": "https://variety.com/2026/music/news/dave-matthews-band-2026-fall-tour-dates-1236832053/",
-      "date": "Aug 11, 26",
-      "source": "Variety Music",
-      "layer": 2,
-      "access": "pe",
-      "score": 19,
-      "moments": [
-        "tour_announcement",
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "65bec13d197a",
-      "title": "White Star Capital closes $250m fourth fund to double down on AI-focused Series A, B investing",
-      "summary": "White Star Capital has held the final close of its fourth flagship venture fund at $250m to target Series A and B dealmaking in AI-driven companies. The post White Star Capital closes $250m fourth fun",
-      "company": "White Star Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/white-star-capital-closes-250m-fourth-fund-to-double-down-on-ai-focused-series-a-b-investing.html",
-      "date": "Aug 07, 26",
+      "id": "f1d3adad02cf",
+      "title": "Accel raises $3.5bn across four early-stage funds as VC giant doubles down on \u2018AI supercycle\u2019",
+      "summary": "Accel has raised $3.5bn across four new early-stage venture funds, reinforcing its long-term conviction that AI is creating a tech supercycle that will accelerate company formation and reshape venture",
+      "company": "Accel",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/accel-raises-3-5bn-across-four-early-stage-funds-as-vc-giant-doubles-down-on-ai-supercycle.html",
+      "date": "Aug 13, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
       "score": 16,
       "moments": [
-        "pe_investment",
-        "fund_launch"
+        "funding_round",
+        "pe_investment"
       ]
     },
     {
@@ -81,6 +81,22 @@
       "moments": [
         "pe_investment",
         "fund_launch"
+      ]
+    },
+    {
+      "id": "cae319de68f4",
+      "title": "Lakers Sell to Bob Iger, Josh Kushner for $12.5 Billion",
+      "summary": "Bob Iger and Josh Kushner are buying the Los Angeles Lakers, Variety has confirmed. The deal values the NBA team at $12.5 billion, according to a source close to the deal. The purchase, from the forme",
+      "company": "Lakers Sell",
+      "link": "https://variety.com/2026/biz/news/bob-iger-buys-lakers-1236833010/",
+      "date": "Aug 12, 26",
+      "source": "Variety Biz",
+      "layer": 1,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "fund_launch",
+        "company_launch"
       ]
     },
     {
@@ -116,6 +132,21 @@
       ]
     },
     {
+      "id": "483b65192577",
+      "title": "The Cure Plays the Hits \u2014 and Robert Smith Tears Up at \u2018Just Like Heaven\u2019 \u2014 in Nostalgic, Whimsical \u00d8yafestivalen Set: Concert Review",
+      "summary": "For the first five minutes of the Cure&#8217;s headlining set at \u00d8yafestivalen in Oslo, Norway, Robert Smith stared out at the packed crowd and smiled. As the band played the long, atmospheric introdu",
+      "company": "The Cure Plays",
+      "link": "https://variety.com/2026/music/global/the-cure-robert-smith-tears-up-oya-fest-review-1236833592/",
+      "date": "Aug 13, 26",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 24,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
       "id": "e9c36d3008c4",
       "title": "Knitting Factory Entertainment Acquires Minority Stake in Does Entertainment, Forming Strategic Growth Partnership to Expand National Live...",
       "summary": "Companies Align to Accelerate Venue Development, Talent Buying, Concert Promotion and Strategic Growth Across North America Los Angeles, CA / Wilmington, NC, July 14, 2026 \u2013&#160;Knitting Factory Ente",
@@ -146,108 +177,63 @@
       ]
     },
     {
-      "id": "57e053f5af7c",
-      "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
-      "summary": "The new funding brings Index's total available investing capital to $3.5 billion.",
-      "company": "Fresh",
-      "link": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
-      "date": "Jul 31, 26",
+      "id": "890d4c50a610",
+      "title": "GLU\u2019s Michael Shuman on new \u2018Pony Boy EP\u2019, album plans and why Queens Of A Stone Age won\u2019t headline stadiums",
+      "summary": "The LA musician spoke to NME about the two sides of his hometown shown in his third EP and \u201cgrinding it out\u201d as a new artist The post GLU\u2019s Michael Shuman on new \u2018Pony Boy EP\u2019, album plans and why Que",
+      "company": "GLU\u2019s Michael Shuman",
+      "link": "https://www.nme.com/features/music-interviews/glu-michael-shuman-interview-pony-boy-ep-queens-of-the-stone-age-3962205?utm_source=rss&utm_medium=rss&utm_campaign=glu-michael-shuman-interview-pony-boy-ep-queens-of-the-stone-age",
+      "date": "Aug 13, 26",
+      "source": "NME",
+      "layer": 1,
+      "access": "pe",
+      "score": 21,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "3d04aec678b3",
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
+      "company": "OpenAI-backed Thrive Holdings",
+      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "date": "Aug 12, 26",
       "source": "TechCrunch Venture",
       "layer": 1,
-      "access": "venture",
-      "score": 18,
+      "access": "pe",
+      "score": 21,
       "moments": [
         "funding_round"
       ]
     },
     {
-      "id": "cc9e212c094f",
-      "title": "EnableComp Acquires Helix Advisory, Advancing Zero Balance Review Technology in Its Complex Revenue Recovery Platform",
-      "summary": "Hospitals no longer leave money on the table because a claim is too small, too complex FRANKLIN, Tenn., Aug. 12, 2026 /PRNewswire/ -- EnableComp\u00ae, the leading provider of technology-driven complex rev",
-      "company": "",
-      "link": "https://www.prnewswire.com/news-releases/enablecomp-acquires-helix-advisory-advancing-zero-balance-review-technology-in-its-complex-revenue-recovery-platform-302848788.html",
+      "id": "f8525b095611",
+      "title": "Steve Lacy Announces \u2018Oh Yeah?\u2019 Fall Tour Dates",
+      "summary": "Grammy-winning artist Steve Lacy announced the Oh yeah? Tour across North America in support of his third studio album, \u201cOh Yeah?,\u201d which was released July 17 on RCA Records and features collaboration",
+      "company": "Steve Lacy Announces \u2018Oh Yeah?\u2019 Fall",
+      "link": "https://variety.com/2026/music/news/steve-lacy-oh-yeah-fall-2026-tour-dates-1236832982/",
       "date": "Aug 12, 26",
-      "source": "PR Newswire",
-      "layer": 2,
-      "access": "pe",
-      "score": 18,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "9bf8a037d4bf",
-      "title": "Apple TV eyes US broadcast rights to the Open as foray into sports broadcasting continues",
-      "summary": "NBC is current US broadcaster of tournamentStreaming services making inroads into live sportsApple TV has joined the battle to win US rights to golf\u2019s Open Championship in the streaming platform\u2019s lat",
-      "company": "Apple TV",
-      "link": "https://www.theguardian.com/sport/2026/aug/11/apple-tv-eyes-us-broadcast-rights-to-the-open-as-foray-into-sports-broadcasting-continues",
-      "date": "Aug 11, 26",
-      "source": "Guardian Sport",
-      "layer": 3,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "rights_deal"
-      ]
-    },
-    {
-      "id": "1aba7d135c83",
-      "title": "Solar energy draws private equity interest; Providence agrees to sale of live entertainment business ATG",
-      "summary": "ATG operates 70 venues across the UK, the US, Germany, and Spain, including seven on Broadway and 10 in London\u2019s West End. The post Solar energy draws private equity interest; Providence agrees to sal",
-      "company": "Solar",
-      "link": "https://www.pehub.com/solar-energy-draws-private-equity-interest-providence-agrees-to-sale-of-live-entertainment-business-atg/",
-      "date": "Aug 12, 26",
-      "source": "PE Hub",
+      "source": "Variety Music",
       "layer": 1,
       "access": "pe",
-      "score": 16,
+      "score": 19,
+      "moments": [
+        "tour_announcement"
+      ]
+    },
+    {
+      "id": "6e882b74efb9",
+      "title": "Private equity invests in travel and tourism; Westbridge to buy stake in financial planner from Foresight",
+      "summary": "WestBridge has agreed to buy a majority stake in Beckett Investment Management, an English financial planning business, from Foresight Group. The post Private equity invests in travel and tourism; Wes",
+      "company": "Private",
+      "link": "https://www.pehub.com/private-equity-invests-in-travel-and-tourism-westbridge-to-buy-stake-in-financial-planner-from-foresight/",
+      "date": "Aug 13, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 15,
       "moments": [
         "pe_investment"
-      ]
-    },
-    {
-      "id": "2b52ab1c36c1",
-      "title": "Athletic Brewing Scores MetLife Stadium Deal With Giants, Jets",
-      "summary": "Athletic Brewing is stepping deeper into the NFL, striking a multi-year partnership with MetLife Stadium, the New York Giants and... The post Athletic Brewing Scores MetLife Stadium Deal With Giants, ",
-      "company": "Athletic Brewing Scores MetLife Stadium Deal",
-      "link": "https://www.ticketnews.com/2026/08/athletic-brewing-metlife-stadium-deal-giants-jets/",
-      "date": "Aug 11, 26",
-      "source": "Ticket News",
-      "layer": 1,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "venue_announcement"
-      ]
-    },
-    {
-      "id": "69316ca09f96",
-      "title": "Accel raises $3.5bn across four funds to target early-stage global AI opportunities",
-      "summary": "Global venture capital firm Accel has raised $3.5bn across four new funds aimed at backing early-stage companies, with artificial intelligence expected to remain a major focus across its investment st",
-      "company": "Accel",
-      "link": "https://www.privateequitywire.co.uk/accel-raises-3-5bn-across-four-funds-to-target-early-stage-global-ai-opportunities/",
-      "date": "Aug 12, 26",
-      "source": "PE Wire",
-      "layer": 1,
-      "access": "venture",
-      "score": 15,
-      "moments": [
-        "funding_round"
-      ]
-    },
-    {
-      "id": "7caeb6cb223d",
-      "title": "AMSURG Welcomes Louisiana-Based Capital Surgery Center to Its National Network",
-      "summary": "NASHVILLE, Tenn., Aug. 12, 2026 /PRNewswire/ -- AMSURG, a leader in ambulatory surgery center services, announces the expansion of its portfolio with the acquisition of Capital Surgery Center. Located",
-      "company": "",
-      "link": "https://www.prnewswire.com/news-releases/amsurg-welcomes-louisiana-based-capital-surgery-center-to-its-national-network-302846607.html",
-      "date": "Aug 12, 26",
-      "source": "PR Newswire",
-      "layer": 2,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "acquisition"
       ]
     },
     {
@@ -266,48 +252,18 @@
       ]
     },
     {
-      "id": "af435fdda411",
-      "title": "Paramount\u2019s U.K. Concessions Give \u2018Powerful Credibility\u2019 to State AGs\u2019 Lawsuit, Block the Merger Coalition Says: \u2018The Dangers\u2019 in U.S. Market \u2018Are...",
-      "summary": "A coalition group campaigning against the proposed merger of Paramount Skydance and Warner Bros. Discovery has said the U.K.\u2019s approval of the merger after obtaining \u201cmajor concessions\u201d lends \u201cpowerfu",
-      "company": "",
-      "link": "https://variety.com/2026/biz/global/paramount-uk-concessions-block-the-merger-1236830054/",
-      "date": "Aug 07, 26",
-      "source": "Variety Biz",
-      "layer": 3,
+      "id": "754303a5aaf4",
+      "title": "Virginia Retirement System highlights active management edge as $135bn pension fund beats long-term target",
+      "summary": "The Virginia Retirement System has reported a 12.1% net investment return for the fiscal year to June 30, 2026, growing its trust fund to $135.2bn. The post Virginia Retirement System highlights activ",
+      "company": "Virginia Retirement System",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/virginia-retirement-system-highlights-active-management-edge-as-135bn-pension-fund-beats-long-term-target.html",
+      "date": "Aug 13, 26",
+      "source": "AltAssets",
+      "layer": 5,
       "access": "pe",
-      "score": 14,
+      "score": 12,
       "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "3a6d36f5a204",
-      "title": "Phoebe Bridgers announces intimate phone-free UK album launch gigs",
-      "summary": "The series of intimate shows will mark the release of her much-anticipated new album, 'Lost Weekend' The post Phoebe Bridgers announces intimate phone-free UK album launch gigs appeared first on NME.",
-      "company": "Phoebe Bridgers",
-      "link": "https://www.nme.com/news/music/phoebe-bridgers-announces-intimate-phone-free-uk-album-launch-gigs-3962122?utm_source=rss&utm_medium=rss&utm_campaign=phoebe-bridgers-announces-intimate-phone-free-uk-album-launch-gigs",
-      "date": "Aug 12, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "5c453e236366",
-      "title": "Zara Larsson helps Sombr kick off first European festival headline set at Sziget",
-      "summary": "The Swedish pop star performed before the New Yorker\u2019s bill-topping performance at the Budapest bash The post Zara Larsson helps Sombr kick off first European festival headline set at Sziget appeared ",
-      "company": "Zara Larsson",
-      "link": "https://www.nme.com/news/music/zara-larsson-sombr-sziget-festival-headline-2026-3962067?utm_source=rss&utm_medium=rss&utm_campaign=zara-larsson-sombr-sziget-festival-headline-2026",
-      "date": "Aug 12, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "festival_headliner"
+        "pe_investment"
       ]
     },
     {
@@ -341,6 +297,21 @@
       ]
     },
     {
+      "id": "a08ccd717230",
+      "title": "Save the Date: Lakers Sale Timing Will Decide Walter\u2019s Tax Bill",
+      "summary": "Mark Walter\u2019s decision to sell the Los Angeles Lakers to Joshua Kushner and Bob Iger for a reported $12.5 billion was a surprising development on Tuesday, and the details of when the transaction close",
+      "company": "Save the Date",
+      "link": "https://www.sportico.com/law/analysis/2026/los-angeles-lakers-sale-date-mark-walter-taxes-1234941746/",
+      "date": "Aug 13, 26",
+      "source": "Sportico",
+      "layer": 2,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "fund_launch"
+      ]
+    },
+    {
       "id": "39d47878ac4f",
       "title": "Rod Stewart Cancels Upcoming Tour Dates Following Coronary Stent Procedure",
       "summary": "Rod Stewart has announced that he will be canceling the next four weeks of performances as part of his &#8220;One Last Time&#8221; farewell tour and &#8220;The Encore Shows&#8221; Las Vegas residency ",
@@ -356,78 +327,18 @@
       ]
     },
     {
-      "id": "8813e2e023d6",
-      "title": "Bloodstock announce 27 bands and headliners for 2027 line-up",
-      "summary": "Next year's edition will see headline performances from Mercyful Fate, Electric Callboy and Motionless in White - with 100 more names yet to be announced The post Bloodstock announce 27 bands and head",
-      "company": "Bloodstock",
-      "link": "https://www.nme.com/news/music/bloodstock-announce-27-bands-and-headliners-for-2027-line-up-3962141?utm_source=rss&utm_medium=rss&utm_campaign=bloodstock-announce-27-bands-and-headliners-for-2027-line-up",
-      "date": "Aug 12, 26",
-      "source": "NME",
-      "layer": 5,
-      "access": "public",
-      "score": 9,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "46aed39e4e35",
-      "title": "Beehive Block Party and beyond: SoLa and Live Nation train entertainment's next generation",
-      "summary": "South Los Angeles youth planned the 2026 Beehive Block Party through the SoLa Live Accelerator, a partnership program between the SoLa Foundation and Live Nation that trains aspiring live entertainmen",
-      "company": "Beehive Block Party and beyond",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-07-29/sola-live-nation-train-entertainments-next-generation",
-      "date": "Jul 29, 26",
-      "source": "LA Times Music",
-      "layer": 3,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "58d01e566513",
-      "title": "PE-backed CHG Healthcare acquires medical staffing firm Krewe Anesthesia",
-      "summary": "Headquartered in Salt Lake City, CHG Healthcare is a hospital staffing firm. The post PE-backed CHG Healthcare acquires medical staffing firm Krewe Anesthesia appeared first on PE Hub.",
-      "company": "PE-backed CHG Healthcare",
-      "link": "https://www.pehub.com/pe-backed-chg-healthcare-acquires-medical-staffing-firm-krewe-anesthesia/",
-      "date": "Aug 11, 26",
+      "id": "25618ad9014d",
+      "title": "Thoma Bravo to take specialty insurance risk exchange platform Accelerant private for more than $4bn",
+      "summary": "Altamont Capital Partners, Accelerant's largest investor, and the company's founders, intend to retain equity ownership alongside Thoma Bravo. The post Thoma Bravo to take specialty insurance risk exc",
+      "company": "Thoma Bravo",
+      "link": "https://www.pehub.com/thoma-bravo-to-take-specialty-insurance-risk-exchange-platform-accelerant-private-for-more-than-4bn/",
+      "date": "Aug 13, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
       "score": 9,
       "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "55a647a1b2a1",
-      "title": "Alternative Views with Heitman\u2019s Zubaer Mahboob",
-      "summary": "In Alternative Views, Private Equity Wire\u00ae goes behind closed doors with those in the know to get the latest on private markets. In this episode we discuss the role of in-house research teams with Zub",
-      "company": "Alternative Views",
-      "link": "https://www.privateequitywire.co.uk/alternative-views-with-heitmans-zubaer-mahboob/",
-      "date": "Aug 11, 26",
-      "source": "PE Wire",
-      "layer": 2,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "fcd1bcb36111",
-      "title": "Ontario Teachers\u2019 venture growth helps drive 9.5% first-half return, pension fund tops C$300bn in assets",
-      "summary": "Ontario Teachers\u2019 Pension Plan posted a 9.5% net return for the first six months of 2026, with its venture growth portfolio emerging as the largest contributor to performance as the Canadian pension f",
-      "company": "Ontario Teachers\u2019",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/canada-north-america-by-region/ontario-teachers-venture-growth-helps-drive-9-5-first-half-return-pension-fund-tops-c300bn-in-assets.html",
-      "date": "Aug 10, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "pe_investment"
+        "company_launch"
       ]
     },
     {
@@ -461,29 +372,55 @@
       ]
     },
     {
-      "id": "6a11897b6dbc",
-      "title": "Marina Signs With UTA in All Areas (EXCLUSIVE)",
-      "summary": "British singer-songwriter and pop diva Marina (formerly Marina and the Diamonds) has signed with United Talent Agency for global representation in all areas, encompassing touring, media, filmed entert",
-      "company": "Marina Signs With UTA",
-      "link": "https://variety.com/2026/music/news/marina-signs-with-uta-1236831777/",
-      "date": "Aug 11, 26",
-      "source": "Variety Music",
-      "layer": 4,
+      "id": "8bd1695315f0",
+      "title": "AEG Presents Expands in Japan With Creativeman Partnership",
+      "summary": "AEG Presents is expanding its presence in Japan through a new strategic partnership with leading concert promoter Creativeman Productions. The... The post AEG Presents Expands in Japan With Creativema",
+      "company": "AEG Presents Expands",
+      "link": "https://www.ticketnews.com/2026/08/aeg-presents-expands-japan-creativeman-partnership/",
+      "date": "Aug 12, 26",
+      "source": "Ticket News",
+      "layer": 3,
       "access": "pe",
-      "score": 22,
+      "score": 18,
       "moments": []
     },
     {
-      "id": "403b974eb74f",
-      "title": "Oak View Group Enters Spain With Celta Stadium Hospitality Deal",
-      "summary": "Oak View Group is making its hospitality debut in Spain through a new partnership with LaLiga club Celta, taking on... The post Oak View Group Enters Spain With Celta Stadium Hospitality Deal appeared",
-      "company": "Oak View Group Enters Spain With",
-      "link": "https://www.ticketnews.com/2026/08/oak-view-group-enters-spain-celta-stadium-hospitality-dela/",
-      "date": "Aug 11, 26",
-      "source": "Ticket News",
+      "id": "bbb6cf276389",
+      "title": "Disney+ secures rights to Gary Neville\u2019s Overlap content in riposte to Lineker\u2019s Netflix deal",
+      "summary": "Multimillion-pound deal puts podcast in streaming battleRooney and Mark Goldbridge join forces for new showDisney+ has secured the rights to broadcast The Overlap\u2019s podcast content in a multimillion p",
+      "company": "Disney+",
+      "link": "https://www.theguardian.com/football/2026/aug/13/disney-buys-rights-gary-neville-overlap-podcast-content-gary-lineker-netflix-deal",
+      "date": "Aug 13, 26",
+      "source": "Guardian Sport",
+      "layer": 3,
+      "access": "pe",
+      "score": 12,
+      "moments": []
+    },
+    {
+      "id": "fbdb4424967d",
+      "title": "AI code-testing startup Blacksmith\u2019s valuation jumps almost 10x in less than a year",
+      "summary": "Blacksmith says revenue has grown more than tenfold over the past year.",
+      "company": "AI",
+      "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+      "date": "Aug 12, 26",
+      "source": "TechCrunch Startups",
+      "layer": 2,
+      "access": "venture",
+      "score": 11,
+      "moments": []
+    },
+    {
+      "id": "0941cf1b491a",
+      "title": "Tampa Overhauls Rays $2.3B Stadium Funding As Clock Ticks",
+      "summary": "Nathan Ray Seebeck-Imagn Images",
+      "company": "Tampa Overhauls Rays",
+      "link": "https://frontofficesports.com/tampa-overhauls-rays-2-3b-stadium-funding-as-clock-ticks/",
+      "date": "Aug 10, 26",
+      "source": "Front Office Sports",
       "layer": 2,
       "access": "pe",
-      "score": 14,
+      "score": 8,
       "moments": []
     },
     {
@@ -500,27 +437,27 @@
       "moments": []
     },
     {
-      "id": "f5ffe86c1859",
-      "title": "Formula E Races to Stream on Disney+ Worldwide",
-      "summary": "Disney and Formula E announced a global streaming deal Tuesday that will bring the all-electric racing series to Disney+ in more than 140 territories, including America. FE events will also stream on ",
-      "company": "Formula",
-      "link": "https://www.sportico.com/leagues/motorsports/2026/formula-e-disney-espn-streaming-cbs-1234941567/",
-      "date": "Aug 11, 26",
-      "source": "Sportico",
-      "layer": 3,
+      "id": "c16fb0cd37cc",
+      "title": "Shaikin: The Shohei Ohtani Economy: A two-mile ride to Dodger Stadium, for $85",
+      "summary": "The Japanese travel agency JTB, which sells tour packages to Japanese fans eager to see the Dodgers in person, launched a shuttle service to Dodger Stadium, with a bilingual guide.",
+      "company": "Shaikin",
+      "link": "https://www.latimes.com/sports/dodgers/story/2026-08-09/dodgers-jtb-dodger-stadium-shuttle-service-ohtani-economy",
+      "date": "Aug 09, 26",
+      "source": "LA Times Sports",
+      "layer": 2,
       "access": "pe",
-      "score": 7,
+      "score": 8,
       "moments": []
     },
     {
-      "id": "7f0eecb666a1",
-      "title": "Trump\u2019s DOJ gains oversight of OpenAI\u2019s green-card employee sponsorships",
-      "summary": "The DOJ alleged that OpenAI did not meaningful attempt to hire U.S. citizens before seeking permanent residence for Visa-holding employees.",
-      "company": "Trump\u2019s DOJ",
-      "link": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
-      "date": "Aug 05, 26",
-      "source": "TechCrunch Startups",
-      "layer": 3,
+      "id": "98f38e7edd31",
+      "title": "Man accused of pissing on family at Morgan Wallen gig arrested",
+      "summary": "The man faces four second-degree assault charges after the incident at Baltimore's M&#038;T Bank Stadium The post Man accused of pissing on family at Morgan Wallen gig arrested appeared first on NME.",
+      "company": "Man",
+      "link": "https://www.nme.com/news/music/man-accused-of-pissing-on-family-at-morgan-wallen-gig-arrested-3962306?utm_source=rss&utm_medium=rss&utm_campaign=man-accused-of-pissing-on-family-at-morgan-wallen-gig-arrested",
+      "date": "Aug 13, 26",
+      "source": "NME",
+      "layer": 2,
       "access": "pe",
       "score": 7,
       "moments": []
@@ -539,6 +476,19 @@
       "moments": []
     },
     {
+      "id": "f72fb0659cc6",
+      "title": "ESPN Boosting Coverage of PGA Tour Playoffs",
+      "summary": "Image: USA Today",
+      "company": "ESPN Boosting Coverage",
+      "link": "https://frontofficesports.com/espn-boosting-coverage-pga-tour-playoffs/",
+      "date": "Aug 12, 26",
+      "source": "Front Office Sports",
+      "layer": 3,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
       "id": "e494eb4770d6",
       "title": "Trump's DOJ lays groundwork for subpoena fights with a Democratic Congress",
       "summary": "Executive privilege can shield President Trump's communications with \"private advisers\" outside of the government, the Justice Department's Office of Legal Counsel concluded Monday.Why it matters: Dem",
@@ -552,6 +502,45 @@
       "moments": []
     },
     {
+      "id": "dda289449b13",
+      "title": "Nucor to Invest $59 Million to Expand Production Capabilities at its Vulcraft Indiana Manufacturing Facility",
+      "summary": "CHARLOTTE, N.C., Aug. 13, 2026 /PRNewswire/ -- Nucor Corporation (NYSE: NUE) announced today that it will invest $59 million to expand its Vulcraft Indiana manufacturing facility in St. Joe, Indiana, ",
+      "company": "Nucor",
+      "link": "https://www.prnewswire.com/news-releases/nucor-to-invest-59-million-to-expand-production-capabilities-at-its-vulcraft-indiana-manufacturing-facility-302850899.html",
+      "date": "Aug 13, 26",
+      "source": "PR Newswire",
+      "layer": 4,
+      "access": "public",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "a1a6f1811abf",
+      "title": "Rory Scovel\u2019s New Netflix Special Reviewed: Winging It Never Sounded So Funny",
+      "summary": "In \u201cShow Must Go On,\u201d the appearance of unpredictability combined with the possibility of catastrophe is riveting.",
+      "company": "Rory Scovel\u2019s New Netflix Special Reviewed:",
+      "link": "https://www.nytimes.com/2026/08/13/arts/television/rory-scovel-comedy-show-must-go-on-review-netflix.html",
+      "date": "Aug 13, 26",
+      "source": "NYT Arts",
+      "layer": 3,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "1317012a088b",
+      "title": "Riverside-backed Western Botanicals invests in dietary supplement developer Yellow Emperor",
+      "summary": "Western Botanicals is a Utah-based company specializing in the manufacture of herbal supplements. The post Riverside-backed Western Botanicals invests in dietary supplement developer Yellow Emperor ap",
+      "company": "Riverside-backed Western Botanicals",
+      "link": "https://www.pehub.com/riverside-backed-western-botanicals-invests-in-dietary-supplement-developer-yellow-emperor/",
+      "date": "Aug 12, 26",
+      "source": "PE Hub",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
       "id": "8f95fdb4c719",
       "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
       "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
@@ -560,6 +549,19 @@
       "date": "May 09, 26",
       "source": "Venues Today",
       "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "9100fc34e44a",
+      "title": "StubHub Sales Surge 34% as World Cup Powers Strong Q2",
+      "summary": "StubHub posted a sharp jump in second-quarter sales and returned to profitability as strong demand for live events \u2014 led... The post StubHub Sales Surge 34% as World Cup Powers Strong Q2 appeared firs",
+      "company": "StubHub Sales Surge",
+      "link": "https://www.ticketnews.com/2026/08/stubhub-sales-surge-34-world-cup-powers-strong-q2/",
+      "date": "Aug 12, 26",
+      "source": "Ticket News",
+      "layer": 3,
       "access": "pe",
       "score": 4,
       "moments": []
