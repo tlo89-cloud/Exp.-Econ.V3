@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T13:20:44.006422+00:00",
-  "total": 39,
+  "generated": "2026-08-14T13:15:49.320385+00:00",
+  "total": 34,
   "scraped": [
     {
       "id": "36b107011626",
@@ -36,6 +36,38 @@
       ]
     },
     {
+      "id": "55353577a12b",
+      "title": "Music Industry Moves: MNEK Signs With 1916 Enterprises for Management; UnitedMasters Ups Four Execs",
+      "summary": "1916 Enterprises has signed Grammy-nominated artist-songwriter-producer MNEK for management, the company has announced. The partnership comes in advance of MNEK forthcoming album \u201cBulldozer!!,\u201d due Se",
+      "company": "Music Industry Moves",
+      "link": "https://variety.com/2026/music/news/mnek-signs-with-1916-enterprises-1236833781/",
+      "date": "Aug 13, 26",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 26,
+      "moments": [
+        "record_deal",
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "3a1033d7da3a",
+      "title": "Royal Blood announce 2026 UK headline tour",
+      "summary": "Dates come in support of their upcoming album \u2018Dead Company\u2019 The post Royal Blood announce 2026 UK headline tour appeared first on NME.",
+      "company": "Royal Blood",
+      "link": "https://www.nme.com/news/music/royal-blood-announce-2026-uk-headline-tour-buy-tickets-3962653?utm_source=rss&utm_medium=rss&utm_campaign=royal-blood-announce-2026-uk-headline-tour-buy-tickets",
+      "date": "Aug 14, 26",
+      "source": "NME",
+      "layer": 1,
+      "access": "pe",
+      "score": 21,
+      "moments": [
+        "tour_announcement",
+        "festival_headliner"
+      ]
+    },
+    {
       "id": "83995d151d7a",
       "title": "Apollo S3 doubles down on GP-led secondaries with Monogram continuation vehicle for Mountaintop Beverage",
       "summary": "Apollo S3 has led another single-asset continuation vehicle, backing Monogram Capital Partners' transfer of drinks manufacturer Mountaintop Beverage into a new fund. The post Apollo S3 doubles down on",
@@ -49,6 +81,22 @@
       "moments": [
         "pe_investment",
         "fund_launch"
+      ]
+    },
+    {
+      "id": "a390bc8cc4fe",
+      "title": "OpenAI sheds senior execs in pre-IPO refresh",
+      "summary": "A wave of top OpenAI executives \u2014 including Sam Altman's top deputy, a longtime chief operating officer and the chief revenue officer \u2014 has left in the span of a month as the company retools its leade",
+      "company": "OpenAI",
+      "link": "https://www.axios.com/2026/08/14/openai-executive-greg-brockman-ipo",
+      "date": "Aug 14, 26",
+      "source": "Axios",
+      "layer": 2,
+      "access": "pe",
+      "score": 19,
+      "moments": [
+        "ipo",
+        "company_launch"
       ]
     },
     {
@@ -177,21 +225,6 @@
       ]
     },
     {
-      "id": "890d4c50a610",
-      "title": "GLU\u2019s Michael Shuman on new \u2018Pony Boy EP\u2019, album plans and why Queens Of A Stone Age won\u2019t headline stadiums",
-      "summary": "The LA musician spoke to NME about the two sides of his hometown shown in his third EP and \u201cgrinding it out\u201d as a new artist The post GLU\u2019s Michael Shuman on new \u2018Pony Boy EP\u2019, album plans and why Que",
-      "company": "GLU\u2019s Michael Shuman",
-      "link": "https://www.nme.com/features/music-interviews/glu-michael-shuman-interview-pony-boy-ep-queens-of-the-stone-age-3962205?utm_source=rss&utm_medium=rss&utm_campaign=glu-michael-shuman-interview-pony-boy-ep-queens-of-the-stone-age",
-      "date": "Aug 13, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 21,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
       "id": "3d04aec678b3",
       "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
       "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
@@ -207,33 +240,18 @@
       ]
     },
     {
-      "id": "f8525b095611",
-      "title": "Steve Lacy Announces \u2018Oh Yeah?\u2019 Fall Tour Dates",
-      "summary": "Grammy-winning artist Steve Lacy announced the Oh yeah? Tour across North America in support of his third studio album, \u201cOh Yeah?,\u201d which was released July 17 on RCA Records and features collaboration",
-      "company": "Steve Lacy Announces \u2018Oh Yeah?\u2019 Fall",
-      "link": "https://variety.com/2026/music/news/steve-lacy-oh-yeah-fall-2026-tour-dates-1236832982/",
-      "date": "Aug 12, 26",
-      "source": "Variety Music",
-      "layer": 1,
+      "id": "2ff6dca2401e",
+      "title": "Cardi B Will Headline a Caribbean Stadium for the First Time at BZR WKND Jamaica 2026",
+      "summary": "After a smash arena run, Bardi is leveling up to stadium status.",
+      "company": "Cardi",
+      "link": "https://www.billboard.com/music/music-news/cardi-b-caribbean-bzr-wknd-jamaica-2026-1236314253/",
+      "date": "Aug 14, 26",
+      "source": "Billboard",
+      "layer": 2,
       "access": "pe",
-      "score": 19,
+      "score": 17,
       "moments": [
-        "tour_announcement"
-      ]
-    },
-    {
-      "id": "6e882b74efb9",
-      "title": "Private equity invests in travel and tourism; Westbridge to buy stake in financial planner from Foresight",
-      "summary": "WestBridge has agreed to buy a majority stake in Beckett Investment Management, an English financial planning business, from Foresight Group. The post Private equity invests in travel and tourism; Wes",
-      "company": "Private",
-      "link": "https://www.pehub.com/private-equity-invests-in-travel-and-tourism-westbridge-to-buy-stake-in-financial-planner-from-foresight/",
-      "date": "Aug 13, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "pe_investment"
+        "festival_headliner"
       ]
     },
     {
@@ -267,21 +285,6 @@
       ]
     },
     {
-      "id": "693b728a124c",
-      "title": "Bills Are \u2018Addressing Feedback\u2019 After New Stadium Debut",
-      "summary": "Imagn Images",
-      "company": "Bills Are \u2018Addressing Feedback\u2019 After New",
-      "link": "https://frontofficesports.com/bills-are-addressing-feedback-after-new-stadium-debut/",
-      "date": "Aug 10, 26",
-      "source": "Front Office Sports",
-      "layer": 2,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "venue_announcement"
-      ]
-    },
-    {
       "id": "ed24e331be68",
       "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
       "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
@@ -312,48 +315,78 @@
       ]
     },
     {
-      "id": "39d47878ac4f",
-      "title": "Rod Stewart Cancels Upcoming Tour Dates Following Coronary Stent Procedure",
-      "summary": "Rod Stewart has announced that he will be canceling the next four weeks of performances as part of his &#8220;One Last Time&#8221; farewell tour and &#8220;The Encore Shows&#8221; Las Vegas residency ",
-      "company": "Rod Stewart Cancels Upcoming Tour Dates",
-      "link": "https://variety.com/2026/music/news/rod-stewart-cancels-tour-dates-coronary-stent-procedure-1236832530/",
-      "date": "Aug 11, 26",
-      "source": "Variety Music",
-      "layer": 5,
+      "id": "937247b61937",
+      "title": "Bears Call Indiana Stadium Plans Their \u2018Sole Focus\u2019",
+      "summary": "Kirby Lee-Imagn Images",
+      "company": "Bears Call Indiana Stadium Plans Their",
+      "link": "https://frontofficesports.com/bears-indiana-stadium-sole-focus/",
+      "date": "Aug 14, 26",
+      "source": "Front Office Sports",
+      "layer": 2,
       "access": "pe",
       "score": 9,
       "moments": [
-        "tour_announcement"
+        "venue_announcement"
       ]
     },
     {
-      "id": "25618ad9014d",
-      "title": "Thoma Bravo to take specialty insurance risk exchange platform Accelerant private for more than $4bn",
-      "summary": "Altamont Capital Partners, Accelerant's largest investor, and the company's founders, intend to retain equity ownership alongside Thoma Bravo. The post Thoma Bravo to take specialty insurance risk exc",
-      "company": "Thoma Bravo",
-      "link": "https://www.pehub.com/thoma-bravo-to-take-specialty-insurance-risk-exchange-platform-accelerant-private-for-more-than-4bn/",
+      "id": "232d06202d6f",
+      "title": "Warner Bros. Discovery CEO David Zaslav Beneficiary of $21.7 Million Stock Sale as Paramount Merger Is Stuck on Hold",
+      "summary": "David Zaslav, president and CEO of Warner Bros. Discovery, has now sold over $195 million worth of stock since the media company clinched a deal to be acquired by David Ellison&#8217;s Paramount Skyda",
+      "company": "Warner Bros Discovery CEO David Zaslav",
+      "link": "https://variety.com/2026/tv/news/warner-bros-discovery-david-zaslav-sells-21-7-million-stock-1236834226/",
       "date": "Aug 13, 26",
-      "source": "PE Hub",
+      "source": "Variety Biz",
+      "layer": 3,
+      "access": "public",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "fcd1bcb36111",
+      "title": "Ontario Teachers\u2019 venture growth helps drive 9.5% first-half return, pension fund tops C$300bn in assets",
+      "summary": "Ontario Teachers\u2019 Pension Plan posted a 9.5% net return for the first six months of 2026, with its venture growth portfolio emerging as the largest contributor to performance as the Canadian pension f",
+      "company": "Ontario Teachers\u2019",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/canada-north-america-by-region/ontario-teachers-venture-growth-helps-drive-9-5-first-half-return-pension-fund-tops-c300bn-in-assets.html",
+      "date": "Aug 10, 26",
+      "source": "AltAssets",
       "layer": 5,
       "access": "pe",
       "score": 9,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "6e522090699e",
+      "title": "Silkroad Innovation Hub\u2019s Road to Battlefield competition continues",
+      "summary": "The Road to Battlefield competition is now in its second year, and its purpose is to give founders across Central Eurasia a direct route to Startup Battlefield",
+      "company": "Silkroad Innovation Hub\u2019s Road",
+      "link": "https://techcrunch.com/2026/08/12/silkroad-innovation-hubs-road-to-battlefield-competition-continues/",
+      "date": "Aug 12, 26",
+      "source": "TechCrunch Startups",
+      "layer": 5,
+      "access": "venture",
+      "score": 6,
       "moments": [
         "company_launch"
       ]
     },
     {
-      "id": "caedca70d437",
-      "title": "High school football player in Arkansas practices with 2ft viper in helmet",
-      "summary": "Two-foot venomous snake found inside helmetPlayer wore gear for nearly an hour without a biteOfficers used water to force reluctant reptile outA high school football player in Arkansas had every right",
-      "company": "High",
-      "link": "https://www.theguardian.com/sport/2026/aug/12/arkansas-football-player-cottonmouth-snake-helmet",
-      "date": "Aug 12, 26",
-      "source": "Guardian Sport",
-      "layer": 4,
+      "id": "44a703116a7f",
+      "title": "MarketAnywhere Emerges as the Best Flyer Distribution Service in the USA",
+      "summary": "As the best flyer distribution service in the USA, MarketAnywhere is giving businesses a smarter way to run local campaigns. As businesses increasingly look for ways to cut through digital ad fatigue,",
+      "company": "MarketAnywhere Emerges",
+      "link": "https://venuestoday.com/marketanywhere-emerges-as-the-best-flyer-distribution-service-in-the-usa/",
+      "date": "Jun 13, 26",
+      "source": "Venues Today",
+      "layer": 5,
       "access": "pe",
-      "score": 8,
+      "score": 6,
       "moments": [
-        "company_launch"
+        "acquisition"
       ]
     },
     {
@@ -372,29 +405,16 @@
       ]
     },
     {
-      "id": "8bd1695315f0",
-      "title": "AEG Presents Expands in Japan With Creativeman Partnership",
-      "summary": "AEG Presents is expanding its presence in Japan through a new strategic partnership with leading concert promoter Creativeman Productions. The... The post AEG Presents Expands in Japan With Creativema",
-      "company": "AEG Presents Expands",
-      "link": "https://www.ticketnews.com/2026/08/aeg-presents-expands-japan-creativeman-partnership/",
-      "date": "Aug 12, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 18,
-      "moments": []
-    },
-    {
-      "id": "bbb6cf276389",
-      "title": "Disney+ secures rights to Gary Neville\u2019s Overlap content in riposte to Lineker\u2019s Netflix deal",
-      "summary": "Multimillion-pound deal puts podcast in streaming battleRooney and Mark Goldbridge join forces for new showDisney+ has secured the rights to broadcast The Overlap\u2019s podcast content in a multimillion p",
-      "company": "Disney+",
-      "link": "https://www.theguardian.com/football/2026/aug/13/disney-buys-rights-gary-neville-overlap-podcast-content-gary-lineker-netflix-deal",
+      "id": "b0618159fadb",
+      "title": "Creator Agency Fixated Taps Mary Murcko as Chief Revenue Officer",
+      "summary": "Media biz veteran Mary Murcko has joined Fixated, an agency that provides support services for creators ranging from talent representation to creator economy support services. Murcko has been tapped t",
+      "company": "Creator Agency Fixated Taps Mary Murcko",
+      "link": "https://variety.com/2026/biz/news/mary-murcko-fixated-chief-revenue-officer-creator-economy-1236833514/",
       "date": "Aug 13, 26",
-      "source": "Guardian Sport",
-      "layer": 3,
+      "source": "Variety Biz",
+      "layer": 4,
       "access": "pe",
-      "score": 12,
+      "score": 15,
       "moments": []
     },
     {
@@ -411,68 +431,16 @@
       "moments": []
     },
     {
-      "id": "0941cf1b491a",
-      "title": "Tampa Overhauls Rays $2.3B Stadium Funding As Clock Ticks",
-      "summary": "Nathan Ray Seebeck-Imagn Images",
-      "company": "Tampa Overhauls Rays",
-      "link": "https://frontofficesports.com/tampa-overhauls-rays-2-3b-stadium-funding-as-clock-ticks/",
-      "date": "Aug 10, 26",
-      "source": "Front Office Sports",
-      "layer": 2,
-      "access": "pe",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "b4b5f6723fb6",
-      "title": "UTA Signs \u2018Forgotten Island\u2019 Writer-Director Januel Mercado (EXCLUSIVE)",
-      "summary": "United Talent Agency has signed rising filmmaker Januel Mercado for representation in all areas. Mercado is the writer and director of DreamWorks Animation\u2019s upcoming &#8220;Forgotten Island,&#8221; a",
-      "company": "",
-      "link": "https://variety.com/2026/biz/news/uta-signs-forgotten-island-writer-director-januel-mercado-1236831450/",
-      "date": "Aug 10, 26",
-      "source": "Variety Biz",
-      "layer": 4,
-      "access": "pe",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "c16fb0cd37cc",
-      "title": "Shaikin: The Shohei Ohtani Economy: A two-mile ride to Dodger Stadium, for $85",
-      "summary": "The Japanese travel agency JTB, which sells tour packages to Japanese fans eager to see the Dodgers in person, launched a shuttle service to Dodger Stadium, with a bilingual guide.",
-      "company": "Shaikin",
-      "link": "https://www.latimes.com/sports/dodgers/story/2026-08-09/dodgers-jtb-dodger-stadium-shuttle-service-ohtani-economy",
-      "date": "Aug 09, 26",
-      "source": "LA Times Sports",
-      "layer": 2,
-      "access": "pe",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "98f38e7edd31",
-      "title": "Man accused of pissing on family at Morgan Wallen gig arrested",
-      "summary": "The man faces four second-degree assault charges after the incident at Baltimore's M&#038;T Bank Stadium The post Man accused of pissing on family at Morgan Wallen gig arrested appeared first on NME.",
-      "company": "Man",
-      "link": "https://www.nme.com/news/music/man-accused-of-pissing-on-family-at-morgan-wallen-gig-arrested-3962306?utm_source=rss&utm_medium=rss&utm_campaign=man-accused-of-pissing-on-family-at-morgan-wallen-gig-arrested",
+      "id": "11f44b7a41a4",
+      "title": "Trump wins legal battle to keep cheap imports subject to tariffs",
+      "summary": "A federal trade court ruled Thursday that President Trump can block cheap imports \u2014 including from Chinese retailers like Temu and Shein \u2014 from entering the U.S. tariff-free. Why it matters: It's a wi",
+      "company": "Trump",
+      "link": "https://www.axios.com/2026/08/13/trump-de-minimis-tariff-court",
       "date": "Aug 13, 26",
-      "source": "NME",
+      "source": "Axios",
       "layer": 2,
       "access": "pe",
       "score": 7,
-      "moments": []
-    },
-    {
-      "id": "c421487c2f99",
-      "title": "Bozoma Saint John Signs With CAA (EXCLUSIVE)",
-      "summary": "Bozoma Saint John has signed with CAA for representation. Saint John is a marketing executive and media personality best known serving in high-ranking roles at PepsiCo, Apple, Uber, Endeavor and Netfl",
-      "company": "Bozoma Saint John Signs With CAA",
-      "link": "https://variety.com/2026/tv/news/bozoma-saint-john-caa-1236831326/",
-      "date": "Aug 10, 26",
-      "source": "Variety Biz",
-      "layer": 4,
-      "access": "pe",
-      "score": 6,
       "moments": []
     },
     {
@@ -502,19 +470,6 @@
       "moments": []
     },
     {
-      "id": "dda289449b13",
-      "title": "Nucor to Invest $59 Million to Expand Production Capabilities at its Vulcraft Indiana Manufacturing Facility",
-      "summary": "CHARLOTTE, N.C., Aug. 13, 2026 /PRNewswire/ -- Nucor Corporation (NYSE: NUE) announced today that it will invest $59 million to expand its Vulcraft Indiana manufacturing facility in St. Joe, Indiana, ",
-      "company": "Nucor",
-      "link": "https://www.prnewswire.com/news-releases/nucor-to-invest-59-million-to-expand-production-capabilities-at-its-vulcraft-indiana-manufacturing-facility-302850899.html",
-      "date": "Aug 13, 26",
-      "source": "PR Newswire",
-      "layer": 4,
-      "access": "public",
-      "score": 5,
-      "moments": []
-    },
-    {
       "id": "a1a6f1811abf",
       "title": "Rory Scovel\u2019s New Netflix Special Reviewed: Winging It Never Sounded So Funny",
       "summary": "In \u201cShow Must Go On,\u201d the appearance of unpredictability combined with the possibility of catastrophe is riveting.",
@@ -528,14 +483,14 @@
       "moments": []
     },
     {
-      "id": "1317012a088b",
-      "title": "Riverside-backed Western Botanicals invests in dietary supplement developer Yellow Emperor",
-      "summary": "Western Botanicals is a Utah-based company specializing in the manufacture of herbal supplements. The post Riverside-backed Western Botanicals invests in dietary supplement developer Yellow Emperor ap",
-      "company": "Riverside-backed Western Botanicals",
-      "link": "https://www.pehub.com/riverside-backed-western-botanicals-invests-in-dietary-supplement-developer-yellow-emperor/",
-      "date": "Aug 12, 26",
-      "source": "PE Hub",
-      "layer": 4,
+      "id": "b5615312891a",
+      "title": "The Lakers have become a poker chip for some of the most powerful men in America",
+      "summary": "One of the most famous teams in the world is about to change hands for the second time in less than a year for more than $12bn. Will anyone push back?One of the most brutal lessons we must learn as fa",
+      "company": "The Lakers",
+      "link": "https://www.theguardian.com/sport/2026/aug/13/the-lakers-have-become-a-poker-chip-for-some-of-the-most-powerful-men-in-america",
+      "date": "Aug 13, 26",
+      "source": "Guardian Sport",
+      "layer": 3,
       "access": "pe",
       "score": 4,
       "moments": []
@@ -549,19 +504,6 @@
       "date": "May 09, 26",
       "source": "Venues Today",
       "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "9100fc34e44a",
-      "title": "StubHub Sales Surge 34% as World Cup Powers Strong Q2",
-      "summary": "StubHub posted a sharp jump in second-quarter sales and returned to profitability as strong demand for live events \u2014 led... The post StubHub Sales Surge 34% as World Cup Powers Strong Q2 appeared firs",
-      "company": "StubHub Sales Surge",
-      "link": "https://www.ticketnews.com/2026/08/stubhub-sales-surge-34-world-cup-powers-strong-q2/",
-      "date": "Aug 12, 26",
-      "source": "Ticket News",
-      "layer": 3,
       "access": "pe",
       "score": 4,
       "moments": []
