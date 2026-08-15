@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-14T13:15:49.320385+00:00",
+  "generated": "2026-08-15T12:44:48.097649+00:00",
   "total": 34,
   "scraped": [
     {
@@ -33,38 +33,6 @@
       "moments": [
         "funding_round",
         "valuation"
-      ]
-    },
-    {
-      "id": "55353577a12b",
-      "title": "Music Industry Moves: MNEK Signs With 1916 Enterprises for Management; UnitedMasters Ups Four Execs",
-      "summary": "1916 Enterprises has signed Grammy-nominated artist-songwriter-producer MNEK for management, the company has announced. The partnership comes in advance of MNEK forthcoming album \u201cBulldozer!!,\u201d due Se",
-      "company": "Music Industry Moves",
-      "link": "https://variety.com/2026/music/news/mnek-signs-with-1916-enterprises-1236833781/",
-      "date": "Aug 13, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 26,
-      "moments": [
-        "record_deal",
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "3a1033d7da3a",
-      "title": "Royal Blood announce 2026 UK headline tour",
-      "summary": "Dates come in support of their upcoming album \u2018Dead Company\u2019 The post Royal Blood announce 2026 UK headline tour appeared first on NME.",
-      "company": "Royal Blood",
-      "link": "https://www.nme.com/news/music/royal-blood-announce-2026-uk-headline-tour-buy-tickets-3962653?utm_source=rss&utm_medium=rss&utm_campaign=royal-blood-announce-2026-uk-headline-tour-buy-tickets",
-      "date": "Aug 14, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 21,
-      "moments": [
-        "tour_announcement",
-        "festival_headliner"
       ]
     },
     {
@@ -132,19 +100,35 @@
       ]
     },
     {
-      "id": "cae319de68f4",
-      "title": "Lakers Sell to Bob Iger, Josh Kushner for $12.5 Billion",
-      "summary": "Bob Iger and Josh Kushner are buying the Los Angeles Lakers, Variety has confirmed. The deal values the NBA team at $12.5 billion, according to a source close to the deal. The purchase, from the forme",
-      "company": "Lakers Sell",
-      "link": "https://variety.com/2026/biz/news/bob-iger-buys-lakers-1236833010/",
-      "date": "Aug 12, 26",
+      "id": "47ef2e8a1b78",
+      "title": "Digital Brand Architects Acquires Creator Management Firm V1sion Ventures",
+      "summary": "Digital Brand Architects has snapped up creator management firm V1sion Ventures, which represents a range of digital stars including Keith Lee, Leigh Soriano, Joy Burnett, Chelsea Jordan, Rachel Wilso",
+      "company": "",
+      "link": "https://variety.com/2026/digital/news/digital-brand-architects-v1sion-ventures-acquire-creators-1236834437/",
+      "date": "Aug 14, 26",
       "source": "Variety Biz",
       "layer": 1,
+      "access": "venture",
+      "score": 13,
+      "moments": [
+        "acquisition",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "16e01ae69345",
+      "title": "Continuim more than doubles fund size with $548m Fund III after just 32 days in market",
+      "summary": "Continuim Equity Partners has more than doubled the size of its flagship fund in two years, closing its third manufacturing and industrial-focused vehicle on $548m after just 32 days in market. The po",
+      "company": "Continuim",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/continuim-more-than-doubles-fund-size-with-548m-fund-iii-after-just-32-days-in-market.html",
+      "date": "Aug 14, 26",
+      "source": "AltAssets",
+      "layer": 5,
       "access": "pe",
       "score": 13,
       "moments": [
-        "fund_launch",
-        "company_launch"
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
@@ -164,18 +148,18 @@
       ]
     },
     {
-      "id": "39ea3fc712c3",
-      "title": "Nextalia secures \u20ac1.1bn first close for second flagship buyout fund, platform tops \u20ac3.4bn AUM",
-      "summary": "Italy-focused private markets manager Nextalia has held a \u20ac1.1bn first close for its second flagship private equity fund, securing one of the country's largest pools of capital dedicated to mid-market",
-      "company": "Nextalia",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/italy-western-europe-europe-by-region/nextalia-secures-e1-1bn-first-close-for-second-flagship-buyout-fund-platform-tops-e3-4bn-aum.html",
-      "date": "Aug 10, 26",
+      "id": "1c6f8337cfb6",
+      "title": "Polar Asset Management launches second SRT fund, strikes $215m first close",
+      "summary": "Canadian investor Polar Asset Management has secured more than $215m for the first close of its second dedicated significant risk transfer (SRT) fund, expanding a strategy that has emerged as a key wa",
+      "company": "Polar Asset Management",
+      "link": "https://www.altassets.net/private-equity-news/by-news-type/fund-news/funds-closed/polar-asset-management-launches-second-srt-fund-strikes-215m-first-close.html",
+      "date": "Aug 11, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
-      "score": 13,
+      "score": 10,
       "moments": [
-        "pe_investment",
+        "acquisition",
         "fund_launch"
       ]
     },
@@ -210,21 +194,6 @@
       ]
     },
     {
-      "id": "26deb368a7c8",
-      "title": "Ari Emanuel\u2019s Mari Acquires ATG Entertainment, Theater Owner Behind \u2018Wicked\u2019 and \u2018Harry Potter and the Cursed Child\u2019 Productions",
-      "summary": "Mari, Ari Emanuel&#8217;s global events and experiences company, has agreed to acquire U.K.-based theater giant ATG Entertainment from Providence Equity Partners in a multibillion-dollar deal. ATG ope",
-      "company": "",
-      "link": "https://variety.com/2026/biz/global/ari-emanuel-mari-acquires-atg-entertainment-theater-venue-giant-1236832004/",
-      "date": "Aug 11, 26",
-      "source": "Variety Biz",
-      "layer": 1,
-      "access": "pe",
-      "score": 21,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
       "id": "3d04aec678b3",
       "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
       "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
@@ -240,33 +209,48 @@
       ]
     },
     {
-      "id": "2ff6dca2401e",
-      "title": "Cardi B Will Headline a Caribbean Stadium for the First Time at BZR WKND Jamaica 2026",
-      "summary": "After a smash arena run, Bardi is leveling up to stadium status.",
-      "company": "Cardi",
-      "link": "https://www.billboard.com/music/music-news/cardi-b-caribbean-bzr-wknd-jamaica-2026-1236314253/",
-      "date": "Aug 14, 26",
-      "source": "Billboard",
-      "layer": 2,
-      "access": "pe",
-      "score": 17,
+      "id": "57e053f5af7c",
+      "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
+      "summary": "The new funding brings Index's total available investing capital to $3.5 billion.",
+      "company": "Fresh",
+      "link": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
+      "date": "Jul 31, 26",
+      "source": "TechCrunch Venture",
+      "layer": 1,
+      "access": "venture",
+      "score": 18,
       "moments": [
-        "festival_headliner"
+        "funding_round"
       ]
     },
     {
-      "id": "7f6f1b2acb83",
-      "title": "David Ellison Says He\u2019ll Pull Paramount Out of California Starting Oct. 1 if States Refuse to Negotiate Settlement in Antitrust Suit",
-      "summary": "David Ellison is eager to reach a swift resolution in the antitrust case filed by 12 states seeking to block the Paramount-Warner Bros. Discovery merger. And, in a move seemingly aimed at gaining leve",
-      "company": "David Ellison Says He\u2019ll Pull Paramount",
-      "link": "https://variety.com/2026/film/news/david-ellison-move-paramount-out-of-california-states-antitrust-lawsuit-1236831936/",
-      "date": "Aug 11, 26",
-      "source": "Variety Biz",
-      "layer": 3,
+      "id": "58d1501f25d5",
+      "title": "What Bob Iger's Angel City ownership can illuminate about his impending Lakers acquisition",
+      "summary": "The NWSL is a long way from the NBA, but the Iger family's management of Angel City FC may hint at what's in store for the Lakers.",
+      "company": "What Bob Iger's Angel City",
+      "link": "https://www.latimes.com/sports/soccer/angel-city-fc/story/2026-08-12/bob-iger-angel-city-ownership-lakers-purchase",
+      "date": "Aug 12, 26",
+      "source": "LA Times Sports",
+      "layer": 1,
       "access": "pe",
       "score": 14,
       "moments": [
         "acquisition"
+      ]
+    },
+    {
+      "id": "4b3e32984d68",
+      "title": "Emily Eavis confirms Glastonbury 2027 headliners booked as she responds to Madonna rumours",
+      "summary": "\"Pretty much 95 per cent of the stories you read are not true\" The post Emily Eavis confirms Glastonbury 2027 headliners booked as she responds to Madonna rumours appeared first on NME.",
+      "company": "Emily Eavis",
+      "link": "https://www.nme.com/news/music/emily-eavis-confirms-glastonbury-2027-headliners-booked-as-she-responds-to-madonna-rumours-3962795?utm_source=rss&utm_medium=rss&utm_campaign=emily-eavis-confirms-glastonbury-2027-headliners-booked-as-she-responds-to-madonna-rumours",
+      "date": "Aug 14, 26",
+      "source": "NME",
+      "layer": 1,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "festival_headliner"
       ]
     },
     {
@@ -285,6 +269,21 @@
       ]
     },
     {
+      "id": "073a8c78bbf1",
+      "title": "EMERGING, Promethean eye $300m for hospitality tech fund built around $185m continuation portfolio",
+      "summary": "EMERGING and Promethean Investments have launched a $300m-targeting hospitality and experiential entertainment investment vehicle, using a roughly $185m portfolio of identified assets as the foundatio",
+      "company": "EMERGING Promethean",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/emerging-promethean-eye-300m-for-hospitality-tech-fund-built-around-185m-continuation-portfolio.html",
+      "date": "Aug 14, 26",
+      "source": "AltAssets",
+      "layer": 4,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
       "id": "ed24e331be68",
       "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
       "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
@@ -297,21 +296,6 @@
       "score": 11,
       "moments": [
         "company_launch"
-      ]
-    },
-    {
-      "id": "a08ccd717230",
-      "title": "Save the Date: Lakers Sale Timing Will Decide Walter\u2019s Tax Bill",
-      "summary": "Mark Walter\u2019s decision to sell the Los Angeles Lakers to Joshua Kushner and Bob Iger for a reported $12.5 billion was a surprising development on Tuesday, and the details of when the transaction close",
-      "company": "Save the Date",
-      "link": "https://www.sportico.com/law/analysis/2026/los-angeles-lakers-sale-date-mark-walter-taxes-1234941746/",
-      "date": "Aug 13, 26",
-      "source": "Sportico",
-      "layer": 2,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "fund_launch"
       ]
     },
     {
@@ -330,12 +314,12 @@
       ]
     },
     {
-      "id": "232d06202d6f",
-      "title": "Warner Bros. Discovery CEO David Zaslav Beneficiary of $21.7 Million Stock Sale as Paramount Merger Is Stuck on Hold",
-      "summary": "David Zaslav, president and CEO of Warner Bros. Discovery, has now sold over $195 million worth of stock since the media company clinched a deal to be acquired by David Ellison&#8217;s Paramount Skyda",
+      "id": "ad1785747be2",
+      "title": "Warner Bros. Discovery CEO David Zaslav Beneficiary of $27.1 Million in Stock Sales as Paramount Merger Is Stuck on Hold",
+      "summary": "David Zaslav, president and CEO of Warner Bros. Discovery, has now sold roughly $200 million worth of stock since the media company clinched a deal to be acquired by David Ellison&#8217;s Paramount Sk",
       "company": "Warner Bros Discovery CEO David Zaslav",
-      "link": "https://variety.com/2026/tv/news/warner-bros-discovery-david-zaslav-sells-21-7-million-stock-1236834226/",
-      "date": "Aug 13, 26",
+      "link": "https://variety.com/2026/tv/news/warner-bros-discovery-david-zaslav-sells-27-million-stock-1236834226/",
+      "date": "Aug 14, 26",
       "source": "Variety Biz",
       "layer": 3,
       "access": "public",
@@ -345,44 +329,44 @@
       ]
     },
     {
-      "id": "fcd1bcb36111",
-      "title": "Ontario Teachers\u2019 venture growth helps drive 9.5% first-half return, pension fund tops C$300bn in assets",
-      "summary": "Ontario Teachers\u2019 Pension Plan posted a 9.5% net return for the first six months of 2026, with its venture growth portfolio emerging as the largest contributor to performance as the Canadian pension f",
-      "company": "Ontario Teachers\u2019",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/canada-north-america-by-region/ontario-teachers-venture-growth-helps-drive-9-5-first-half-return-pension-fund-tops-c300bn-in-assets.html",
-      "date": "Aug 10, 26",
-      "source": "AltAssets",
+      "id": "1491e1019784",
+      "title": "Are Radiohead heading to Tokyo in 2027? Summer Sonic tease return \u2013 will more world tour dates follow?",
+      "summary": "The band have previously confirmed that they plan to hit the road again in 2027 and beyond The post Are Radiohead heading to Tokyo in 2027? Summer Sonic tease return \u2013 will more world tour dates follo",
+      "company": "Are Radiohead",
+      "link": "https://www.nme.com/news/music/are-radiohead-heading-to-tokyo-in-2027-summer-sonic-tease-return-will-more-world-tour-dates-follow-3962813?utm_source=rss&utm_medium=rss&utm_campaign=are-radiohead-heading-to-tokyo-in-2027-summer-sonic-tease-return-will-more-world-tour-dates-follow",
+      "date": "Aug 15, 26",
+      "source": "NME",
       "layer": 5,
       "access": "pe",
       "score": 9,
       "moments": [
-        "pe_investment"
+        "tour_announcement"
       ]
     },
     {
-      "id": "6e522090699e",
-      "title": "Silkroad Innovation Hub\u2019s Road to Battlefield competition continues",
-      "summary": "The Road to Battlefield competition is now in its second year, and its purpose is to give founders across Central Eurasia a direct route to Startup Battlefield",
-      "company": "Silkroad Innovation Hub\u2019s Road",
-      "link": "https://techcrunch.com/2026/08/12/silkroad-innovation-hubs-road-to-battlefield-competition-continues/",
-      "date": "Aug 12, 26",
-      "source": "TechCrunch Startups",
+      "id": "d493357f2593",
+      "title": "Behrman-backed Shurco acquires manufacturer Heavy Motions Inc",
+      "summary": "Based in Yankton, South Dakota, Shurco is a manufacturer of cargo covering, cargo control and containment systems. The post Behrman-backed Shurco acquires manufacturer Heavy Motions Inc appeared first",
+      "company": "Behrman-backed Shurco",
+      "link": "https://www.pehub.com/behrman-backed-shurco-acquires-manufacturer-heavy-motions-inc/",
+      "date": "Aug 14, 26",
+      "source": "PE Hub",
       "layer": 5,
-      "access": "venture",
-      "score": 6,
+      "access": "pe",
+      "score": 9,
       "moments": [
-        "company_launch"
+        "acquisition"
       ]
     },
     {
-      "id": "44a703116a7f",
-      "title": "MarketAnywhere Emerges as the Best Flyer Distribution Service in the USA",
-      "summary": "As the best flyer distribution service in the USA, MarketAnywhere is giving businesses a smarter way to run local campaigns. As businesses increasingly look for ways to cut through digital ad fatigue,",
-      "company": "MarketAnywhere Emerges",
-      "link": "https://venuestoday.com/marketanywhere-emerges-as-the-best-flyer-distribution-service-in-the-usa/",
-      "date": "Jun 13, 26",
-      "source": "Venues Today",
-      "layer": 5,
+      "id": "799d44bda4e2",
+      "title": "If Paramount Leaves California, It Might Cut Costs but Wouldn\u2019t Save on State Taxes",
+      "summary": "Paramount is threatening to leave California if it cannot reach a deal with Attorney General Rob Bonta to allow it to acquire Warner Bros. Discovery. Puck reported the threat on Tuesday, following a s",
+      "company": "If Paramount Leaves California It Might",
+      "link": "https://variety.com/2026/film/news/paramount-state-taxes-leaving-california-1236833420/",
+      "date": "Aug 14, 26",
+      "source": "Variety Biz",
+      "layer": 3,
       "access": "pe",
       "score": 6,
       "moments": [
@@ -431,14 +415,53 @@
       "moments": []
     },
     {
-      "id": "11f44b7a41a4",
-      "title": "Trump wins legal battle to keep cheap imports subject to tariffs",
-      "summary": "A federal trade court ruled Thursday that President Trump can block cheap imports \u2014 including from Chinese retailers like Temu and Shein \u2014 from entering the U.S. tariff-free. Why it matters: It's a wi",
-      "company": "Trump",
-      "link": "https://www.axios.com/2026/08/13/trump-de-minimis-tariff-court",
-      "date": "Aug 13, 26",
-      "source": "Axios",
+      "id": "82dbb89c0c5a",
+      "title": "Luke Combs Sets 2027 \u2018My Kinda Saturday Night Tour\u2019 Stadium Run",
+      "summary": "Luke Combs is taking his \u201cMy Kinda Saturday Night Tour\u201d into 2027, announcing a new series of North American stadium... The post Luke Combs Sets 2027 \u2018My Kinda Saturday Night Tour\u2019 Stadium Run appeare",
+      "company": "Luke Combs Sets",
+      "link": "https://www.ticketnews.com/2026/08/luke-combs-sets-2027-my-kinda-saturday-night-tour-stadium-run/",
+      "date": "Aug 14, 26",
+      "source": "Ticket News",
       "layer": 2,
+      "access": "pe",
+      "score": 10,
+      "moments": []
+    },
+    {
+      "id": "7868285e0b12",
+      "title": "\u2018The Radio Doesn\u2019t Play Songs for Me Anymore\u2019: Tailgaters at the Foo Fighters\u2019 Stadium Tour Mourn the Dimming Light of Rock Music",
+      "summary": "\u201cThe radio doesn&#8217;t play songs for me anymore,\u201d says Bob, 54, who is situated in a lawn chair, deciding between a drag from the Marlboro Red in his left hand and the Budweiser can in his right. H",
+      "company": "\u2018The Radio Doesn\u2019t Play Songs",
+      "link": "https://variety.com/2026/music/features/foo-fighters-tailgating-fans-debate-rock-music-concert-1236834649/",
+      "date": "Aug 14, 26",
+      "source": "Variety Music",
+      "layer": 2,
+      "access": "pe",
+      "score": 8,
+      "moments": []
+    },
+    {
+      "id": "7a34c7ef5dec",
+      "title": "Aizen Enters into Collaboration with San Diego Biopharma to Advance Oral Biologics",
+      "summary": "Multi-program deal with revenue potential of $100 million per target SAN DIEGO, Aug. 15, 2026 /PRNewswire/ -- Aizen Therapeutics, an AI-native biotechnology company focused on building oral biologics,",
+      "company": "Aizen Enters",
+      "link": "https://www.prnewswire.com/news-releases/aizen-enters-into-collaboration-with-san-diego-biopharma-to-advance-oral-biologics-302848775.html",
+      "date": "Aug 15, 26",
+      "source": "PR Newswire",
+      "layer": 2,
+      "access": "pe",
+      "score": 8,
+      "moments": []
+    },
+    {
+      "id": "37e3c8ad4c4f",
+      "title": "Jayden Daniels\u2019 LSU Number Feud Raises NIL, IP Law Questions",
+      "summary": "Jayden Daniels sending a cease-and-desist letter to LSU raises the prospect of a legal battle that could attract attention from other former college stars, should they seek leverage with their alma ma",
+      "company": "Jayden Daniels\u2019 LSU Number Feud Raises",
+      "link": "https://www.sportico.com/law/analysis/2026/jayden-daniels-lsu-jersey-legal-issues-nil-1234942015/",
+      "date": "Aug 15, 26",
+      "source": "Sportico",
+      "layer": 3,
       "access": "pe",
       "score": 7,
       "moments": []
@@ -457,19 +480,6 @@
       "moments": []
     },
     {
-      "id": "e494eb4770d6",
-      "title": "Trump's DOJ lays groundwork for subpoena fights with a Democratic Congress",
-      "summary": "Executive privilege can shield President Trump's communications with \"private advisers\" outside of the government, the Justice Department's Office of Legal Counsel concluded Monday.Why it matters: Dem",
-      "company": "Trump's DOJ",
-      "link": "https://www.axios.com/2026/08/11/trump-doj-executive-privilege-democratic-probes",
-      "date": "Aug 11, 26",
-      "source": "Axios",
-      "layer": 3,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
       "id": "a1a6f1811abf",
       "title": "Rory Scovel\u2019s New Netflix Special Reviewed: Winging It Never Sounded So Funny",
       "summary": "In \u201cShow Must Go On,\u201d the appearance of unpredictability combined with the possibility of catastrophe is riveting.",
@@ -477,19 +487,6 @@
       "link": "https://www.nytimes.com/2026/08/13/arts/television/rory-scovel-comedy-show-must-go-on-review-netflix.html",
       "date": "Aug 13, 26",
       "source": "NYT Arts",
-      "layer": 3,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "b5615312891a",
-      "title": "The Lakers have become a poker chip for some of the most powerful men in America",
-      "summary": "One of the most famous teams in the world is about to change hands for the second time in less than a year for more than $12bn. Will anyone push back?One of the most brutal lessons we must learn as fa",
-      "company": "The Lakers",
-      "link": "https://www.theguardian.com/sport/2026/aug/13/the-lakers-have-become-a-poker-chip-for-some-of-the-most-powerful-men-in-america",
-      "date": "Aug 13, 26",
-      "source": "Guardian Sport",
       "layer": 3,
       "access": "pe",
       "score": 4,
