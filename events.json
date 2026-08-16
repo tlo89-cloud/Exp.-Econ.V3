@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-15T12:44:48.097649+00:00",
-  "total": 34,
+  "generated": "2026-08-16T12:47:13.054173+00:00",
+  "total": 36,
   "scraped": [
     {
       "id": "36b107011626",
@@ -164,21 +164,6 @@
       ]
     },
     {
-      "id": "483b65192577",
-      "title": "The Cure Plays the Hits \u2014 and Robert Smith Tears Up at \u2018Just Like Heaven\u2019 \u2014 in Nostalgic, Whimsical \u00d8yafestivalen Set: Concert Review",
-      "summary": "For the first five minutes of the Cure&#8217;s headlining set at \u00d8yafestivalen in Oslo, Norway, Robert Smith stared out at the packed crowd and smiled. As the band played the long, atmospheric introdu",
-      "company": "The Cure Plays",
-      "link": "https://variety.com/2026/music/global/the-cure-robert-smith-tears-up-oya-fest-review-1236833592/",
-      "date": "Aug 13, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 24,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
       "id": "e9c36d3008c4",
       "title": "Knitting Factory Entertainment Acquires Minority Stake in Does Entertainment, Forming Strategic Growth Partnership to Expand National Live...",
       "summary": "Companies Align to Accelerate Venue Development, Talent Buying, Concert Promotion and Strategic Growth Across North America Los Angeles, CA / Wilmington, NC, July 14, 2026 \u2013&#160;Knitting Factory Ente",
@@ -224,6 +209,36 @@
       ]
     },
     {
+      "id": "406f96ce0fea",
+      "title": "Karol G's Latin American fantasia lands elegantly at SoFi Stadium",
+      "summary": "As part of her \"Viajando Por El Mundo Tropitour,\" Grammy-winning Colombian superstar Karol G headlined the first of three nights at the SoFi Stadium in Inglewood. Ernesto Lechner reviews for the L.A. ",
+      "company": "Karol G's Latin American",
+      "link": "https://www.latimes.com/delos/story/2026-08-15/karol-g-tropitour-sofi-stadium-los-angeles-elena-rose-concert-review",
+      "date": "Aug 16, 26",
+      "source": "LA Times Music",
+      "layer": 2,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "45297acf1f8a",
+      "title": "Queens Of The Stone Age announce new album \u2018Perfecth\u2019 in bloody reveal video",
+      "summary": "Watch Josh Homme and Dean Fertita play a messed-up game of five-finger fillet as they share the title and release date of their ninth album The post Queens Of The Stone Age announce new album &#8216;P",
+      "company": "Queens Of The Stone Age",
+      "link": "https://www.nme.com/news/music/queens-of-the-stone-age-announce-new-album-perfecth-in-bloody-reveal-video-3962948?utm_source=rss&utm_medium=rss&utm_campaign=queens-of-the-stone-age-announce-new-album-perfecth-in-bloody-reveal-video",
+      "date": "Aug 16, 26",
+      "source": "NME",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
       "id": "58d1501f25d5",
       "title": "What Bob Iger's Angel City ownership can illuminate about his impending Lakers acquisition",
       "summary": "The NWSL is a long way from the NBA, but the Iger family's management of Angel City FC may hint at what's in store for the Lakers.",
@@ -239,16 +254,16 @@
       ]
     },
     {
-      "id": "4b3e32984d68",
-      "title": "Emily Eavis confirms Glastonbury 2027 headliners booked as she responds to Madonna rumours",
-      "summary": "\"Pretty much 95 per cent of the stories you read are not true\" The post Emily Eavis confirms Glastonbury 2027 headliners booked as she responds to Madonna rumours appeared first on NME.",
-      "company": "Emily Eavis",
-      "link": "https://www.nme.com/news/music/emily-eavis-confirms-glastonbury-2027-headliners-booked-as-she-responds-to-madonna-rumours-3962795?utm_source=rss&utm_medium=rss&utm_campaign=emily-eavis-confirms-glastonbury-2027-headliners-booked-as-she-responds-to-madonna-rumours",
-      "date": "Aug 14, 26",
-      "source": "NME",
+      "id": "be9d810584c6",
+      "title": "The Best Moments From KCON LA 2026 (So Far)",
+      "summary": "Day 2 delivered unexpected covers of pop classics by Justin Timberlake and One Direction as ZEROBASEONE headlined the concert.",
+      "company": "The Best Moments From KCON LA",
+      "link": "https://www.billboard.com/lists/kcon-2026-la-best-moments-recap/",
+      "date": "Aug 16, 26",
+      "source": "Billboard",
       "layer": 1,
       "access": "pe",
-      "score": 13,
+      "score": 12,
       "moments": [
         "festival_headliner"
       ]
@@ -329,26 +344,26 @@
       ]
     },
     {
-      "id": "1491e1019784",
-      "title": "Are Radiohead heading to Tokyo in 2027? Summer Sonic tease return \u2013 will more world tour dates follow?",
-      "summary": "The band have previously confirmed that they plan to hit the road again in 2027 and beyond The post Are Radiohead heading to Tokyo in 2027? Summer Sonic tease return \u2013 will more world tour dates follo",
-      "company": "Are Radiohead",
-      "link": "https://www.nme.com/news/music/are-radiohead-heading-to-tokyo-in-2027-summer-sonic-tease-return-will-more-world-tour-dates-follow-3962813?utm_source=rss&utm_medium=rss&utm_campaign=are-radiohead-heading-to-tokyo-in-2027-summer-sonic-tease-return-will-more-world-tour-dates-follow",
-      "date": "Aug 15, 26",
-      "source": "NME",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "tour_announcement"
-      ]
-    },
-    {
       "id": "d493357f2593",
       "title": "Behrman-backed Shurco acquires manufacturer Heavy Motions Inc",
       "summary": "Based in Yankton, South Dakota, Shurco is a manufacturer of cargo covering, cargo control and containment systems. The post Behrman-backed Shurco acquires manufacturer Heavy Motions Inc appeared first",
       "company": "Behrman-backed Shurco",
       "link": "https://www.pehub.com/behrman-backed-shurco-acquires-manufacturer-heavy-motions-inc/",
+      "date": "Aug 14, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "64622a0a4a79",
+      "title": "Charger-backed Wolf-Gordon acquires two interior surfaces providers Andor Willow and Walls & Interiors",
+      "summary": "Wolf-Gordon is a New York City-based provider of wallcoverings and high-performance interior surface finishes serving the architecture and design community. The post Charger-backed Wolf-Gordon acquire",
+      "company": "Charger-backed Wolf-Gordon",
+      "link": "https://www.pehub.com/charger-backed-wolf-gordon-acquires-two-interior-surfaces-providers-andor-willow-and-walls-interiors/",
       "date": "Aug 14, 26",
       "source": "PE Hub",
       "layer": 5,
@@ -415,15 +430,15 @@
       "moments": []
     },
     {
-      "id": "82dbb89c0c5a",
-      "title": "Luke Combs Sets 2027 \u2018My Kinda Saturday Night Tour\u2019 Stadium Run",
-      "summary": "Luke Combs is taking his \u201cMy Kinda Saturday Night Tour\u201d into 2027, announcing a new series of North American stadium... The post Luke Combs Sets 2027 \u2018My Kinda Saturday Night Tour\u2019 Stadium Run appeare",
-      "company": "Luke Combs Sets",
-      "link": "https://www.ticketnews.com/2026/08/luke-combs-sets-2027-my-kinda-saturday-night-tour-stadium-run/",
-      "date": "Aug 14, 26",
+      "id": "78c2a2eacf5b",
+      "title": "StubHub\u2019s Stock Slides After Earnings Call as Media Focus on Fulfillment Failures Continues",
+      "summary": "StubHub\u2019s blockbuster World Cup quarter delivered record ticket sales, but the same tournament also exposed fulfillment problems that became expensive... The post StubHub&#8217;s Stock Slides After Ea",
+      "company": "StubHub\u2019s Stock Slides After Earnings Call",
+      "link": "https://www.ticketnews.com/2026/08/stubhubs-stock-slides-after-earnings-call-as-media-focus-on-fulfillment-failures-continues/",
+      "date": "Aug 15, 26",
       "source": "Ticket News",
-      "layer": 2,
-      "access": "pe",
+      "layer": 3,
+      "access": "public",
       "score": 10,
       "moments": []
     },
@@ -435,19 +450,6 @@
       "link": "https://variety.com/2026/music/features/foo-fighters-tailgating-fans-debate-rock-music-concert-1236834649/",
       "date": "Aug 14, 26",
       "source": "Variety Music",
-      "layer": 2,
-      "access": "pe",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "7a34c7ef5dec",
-      "title": "Aizen Enters into Collaboration with San Diego Biopharma to Advance Oral Biologics",
-      "summary": "Multi-program deal with revenue potential of $100 million per target SAN DIEGO, Aug. 15, 2026 /PRNewswire/ -- Aizen Therapeutics, an AI-native biotechnology company focused on building oral biologics,",
-      "company": "Aizen Enters",
-      "link": "https://www.prnewswire.com/news-releases/aizen-enters-into-collaboration-with-san-diego-biopharma-to-advance-oral-biologics-302848775.html",
-      "date": "Aug 15, 26",
-      "source": "PR Newswire",
       "layer": 2,
       "access": "pe",
       "score": 8,
@@ -467,6 +469,19 @@
       "moments": []
     },
     {
+      "id": "11f44b7a41a4",
+      "title": "Trump wins legal battle to keep cheap imports subject to tariffs",
+      "summary": "A federal trade court ruled Thursday that President Trump can block cheap imports \u2014 including from Chinese retailers like Temu and Shein \u2014 from entering the U.S. tariff-free. Why it matters: It's a wi",
+      "company": "Trump",
+      "link": "https://www.axios.com/2026/08/13/trump-de-minimis-tariff-court",
+      "date": "Aug 13, 26",
+      "source": "Axios",
+      "layer": 2,
+      "access": "pe",
+      "score": 7,
+      "moments": []
+    },
+    {
       "id": "f72fb0659cc6",
       "title": "ESPN Boosting Coverage of PGA Tour Playoffs",
       "summary": "Image: USA Today",
@@ -480,16 +495,29 @@
       "moments": []
     },
     {
-      "id": "a1a6f1811abf",
-      "title": "Rory Scovel\u2019s New Netflix Special Reviewed: Winging It Never Sounded So Funny",
-      "summary": "In \u201cShow Must Go On,\u201d the appearance of unpredictability combined with the possibility of catastrophe is riveting.",
-      "company": "Rory Scovel\u2019s New Netflix Special Reviewed:",
-      "link": "https://www.nytimes.com/2026/08/13/arts/television/rory-scovel-comedy-show-must-go-on-review-netflix.html",
+      "id": "75167ca91af5",
+      "title": "A Bulldog in Business: How Moving into the Booth Opened Other Doors for Dodger Great Orel Hershiser",
+      "summary": "Orel Hershiser knows that he is a bona fide Los Angeles icon. But he has no illusions \u2014 he wouldn\u2019t have the business opportunities he enjoys today without the platform provided by his broadcasting gi",
+      "company": "A Bulldog in Business",
+      "link": "https://variety.com/2026/tv/news/orel-hershiser-bulldog-business-broadcasting-1236833448/",
       "date": "Aug 13, 26",
-      "source": "NYT Arts",
+      "source": "Variety Biz",
       "layer": 3,
       "access": "pe",
-      "score": 4,
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "45504bfa1335",
+      "title": "Shaikin: For Dodgers' Charley Steiner, a complete game three years in the making",
+      "summary": "For the first time since beating his cancer into remission, radio play-by-play broadcaster Charley Steiner called a complete game for the Dodgers.",
+      "company": "Shaikin",
+      "link": "https://www.latimes.com/sports/dodgers/story/2026-08-16/dodgers-charley-steiner-calls-complete-game-cancer-treatment",
+      "date": "Aug 16, 26",
+      "source": "LA Times Sports",
+      "layer": 3,
+      "access": "pe",
+      "score": 5,
       "moments": []
     },
     {
