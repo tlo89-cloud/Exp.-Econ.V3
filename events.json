@@ -1,24 +1,7 @@
 {
-  "generated": "2026-08-16T12:47:13.054173+00:00",
+  "generated": "2026-08-17T12:51:52.119541+00:00",
   "total": 36,
   "scraped": [
-    {
-      "id": "36b107011626",
-      "title": "The Biggest Consequence Of An AI IPO Isn\u2019t The IPO Itself. It\u2019s What Happens Afterward.",
-      "summary": "A wave of major AI IPOs could return significant liquidity to limited partners, fueling a new venture fundraising cycle rather than simply affecting public-market valuations. That capital is likely to",
-      "company": "The Biggest Consequence Of An AI",
-      "link": "https://news.crunchbase.com/public/ai-ipo-results-lp-liquidity-gershfeld-flint/",
-      "date": "Aug 10, 26",
-      "source": "Crunchbase News",
-      "layer": 5,
-      "access": "venture",
-      "score": 23,
-      "moments": [
-        "ipo",
-        "pe_investment",
-        "lp_commitment"
-      ]
-    },
     {
       "id": "374c14ea9835",
       "title": "Lovable confirms new $13.3B valuation, raises another $400M",
@@ -209,6 +192,21 @@
       ]
     },
     {
+      "id": "2f12cf869aec",
+      "title": "Portugal. The Man Announces 2026 Australian East Coast Tour Dates",
+      "summary": "The shows follow the release of the group's tenth studio album, SHISH, out last November.",
+      "company": "Portugal The Man Announces",
+      "link": "https://www.billboard.com/music/concerts/portugal-the-man-announces-2026-australian-tour-dates-1236317476/",
+      "date": "Aug 17, 26",
+      "source": "Billboard",
+      "layer": 1,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "tour_announcement"
+      ]
+    },
+    {
       "id": "406f96ce0fea",
       "title": "Karol G's Latin American fantasia lands elegantly at SoFi Stadium",
       "summary": "As part of her \"Viajando Por El Mundo Tropitour,\" Grammy-winning Colombian superstar Karol G headlined the first of three nights at the SoFi Stadium in Inglewood. Ernesto Lechner reviews for the L.A. ",
@@ -224,48 +222,48 @@
       ]
     },
     {
-      "id": "45297acf1f8a",
-      "title": "Queens Of The Stone Age announce new album \u2018Perfecth\u2019 in bloody reveal video",
-      "summary": "Watch Josh Homme and Dean Fertita play a messed-up game of five-finger fillet as they share the title and release date of their ninth album The post Queens Of The Stone Age announce new album &#8216;P",
-      "company": "Queens Of The Stone Age",
-      "link": "https://www.nme.com/news/music/queens-of-the-stone-age-announce-new-album-perfecth-in-bloody-reveal-video-3962948?utm_source=rss&utm_medium=rss&utm_campaign=queens-of-the-stone-age-announce-new-album-perfecth-in-bloody-reveal-video",
-      "date": "Aug 16, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "58d1501f25d5",
-      "title": "What Bob Iger's Angel City ownership can illuminate about his impending Lakers acquisition",
-      "summary": "The NWSL is a long way from the NBA, but the Iger family's management of Angel City FC may hint at what's in store for the Lakers.",
-      "company": "What Bob Iger's Angel City",
-      "link": "https://www.latimes.com/sports/soccer/angel-city-fc/story/2026-08-12/bob-iger-angel-city-ownership-lakers-purchase",
-      "date": "Aug 12, 26",
-      "source": "LA Times Sports",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "be9d810584c6",
-      "title": "The Best Moments From KCON LA 2026 (So Far)",
-      "summary": "Day 2 delivered unexpected covers of pop classics by Justin Timberlake and One Direction as ZEROBASEONE headlined the concert.",
-      "company": "The Best Moments From KCON LA",
-      "link": "https://www.billboard.com/lists/kcon-2026-la-best-moments-recap/",
-      "date": "Aug 16, 26",
+      "id": "c23c5c37b0bd",
+      "title": "Glastonbury 2027 Potential Headliners Ranked: Who Could Lead Next Year\u2019s Festival?",
+      "summary": "After taking a fallow year, the festival is gearing up for a blockbuster return next summer.",
+      "company": "Glastonbury 2027 Potential Headliners Ranked",
+      "link": "https://www.billboard.com/lists/glastonbury-2027-festival-potential-headliners-line-up/",
+      "date": "Aug 17, 26",
       "source": "Billboard",
       "layer": 1,
       "access": "pe",
-      "score": 12,
+      "score": 14,
       "moments": [
         "festival_headliner"
+      ]
+    },
+    {
+      "id": "7e799ea38a32",
+      "title": "Ariana Grande Brings Out \u2018Wicked\u2019 Co-Star Cynthia Erivo for \u2018For Good\u2019 and \u2018Get Happy/Happy Days Are Here Again\u2019 at London Concert",
+      "summary": "Ariana Grande brought out Cynthia Erivo to perform at her Aug. 16 Eternal Sunshine tour stop at London&#8217;s O2. The \u201cWicked\u201d stars sang \u201cFor Good\u201d and \u201cGet Happy/Happy Days Are Here Again&#8221; on",
+      "company": "Ariana Grande Brings Out \u2018Wicked\u2019 Co-Star",
+      "link": "https://variety.com/2026/music/news/ariana-grande-cynthia-erivo-eternal-sunshine-london-wicked-1236835738/",
+      "date": "Aug 16, 26",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "surprise_appearance"
+      ]
+    },
+    {
+      "id": "4cc0402ecf67",
+      "title": "BNPP AM Prime eyes up to five European GP stakes from current vintage; Providence to acquire valuation and property risk data biz",
+      "summary": "Providence Equity Partners announced on Friday it has entered into an agreement to acquire Hometrack. The post BNPP AM Prime eyes up to five European GP stakes from current vintage; Providence to acqu",
+      "company": "BNPP AM Prime",
+      "link": "https://www.pehub.com/bnpp-am-prime-eyes-up-to-five-european-gp-stakes-from-current-vintage-providence-to-acquire-valuation-and-property-risk-data-biz/",
+      "date": "Aug 17, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "acquisition"
       ]
     },
     {
@@ -344,33 +342,33 @@
       ]
     },
     {
-      "id": "d493357f2593",
-      "title": "Behrman-backed Shurco acquires manufacturer Heavy Motions Inc",
-      "summary": "Based in Yankton, South Dakota, Shurco is a manufacturer of cargo covering, cargo control and containment systems. The post Behrman-backed Shurco acquires manufacturer Heavy Motions Inc appeared first",
-      "company": "Behrman-backed Shurco",
-      "link": "https://www.pehub.com/behrman-backed-shurco-acquires-manufacturer-heavy-motions-inc/",
-      "date": "Aug 14, 26",
-      "source": "PE Hub",
+      "id": "b3f89a8a9032",
+      "title": "Frankie Valli responds to brother\u2019s claims he\u2019s retiring",
+      "summary": "The Four Seasons legend recently cancelled his remaining 2026 tour dates to focus on his health The post Frankie Valli responds to brother&#8217;s claims he&#8217;s retiring appeared first on NME.",
+      "company": "Frankie Valli",
+      "link": "https://www.nme.com/news/music/frankie-valli-responds-to-brothers-claims-hes-retiring-3963087?utm_source=rss&utm_medium=rss&utm_campaign=frankie-valli-responds-to-brothers-claims-hes-retiring",
+      "date": "Aug 17, 26",
+      "source": "NME",
       "layer": 5,
       "access": "pe",
       "score": 9,
       "moments": [
-        "acquisition"
+        "tour_announcement"
       ]
     },
     {
-      "id": "64622a0a4a79",
-      "title": "Charger-backed Wolf-Gordon acquires two interior surfaces providers Andor Willow and Walls & Interiors",
-      "summary": "Wolf-Gordon is a New York City-based provider of wallcoverings and high-performance interior surface finishes serving the architecture and design community. The post Charger-backed Wolf-Gordon acquire",
-      "company": "Charger-backed Wolf-Gordon",
-      "link": "https://www.pehub.com/charger-backed-wolf-gordon-acquires-two-interior-surfaces-providers-andor-willow-and-walls-interiors/",
-      "date": "Aug 14, 26",
+      "id": "abd55b3c7589",
+      "title": "Francisco Partners\u2019 DJ Deb: \u2018Exits will come back, but it may take a little time\u2019",
+      "summary": "'My guess is 2021-24 will end up being bad vintages in private equity, while 2025-28 will be great vintages,' FP's DJ Deb told PE Hub in a wide-ranging interview about how the firm will deploy its rec",
+      "company": "Francisco Partners\u2019 DJ Deb: \u2018Exits",
+      "link": "https://www.pehub.com/francisco-partners-dj-deb-exits-will-come-back-but-it-may-take-a-little-time/",
+      "date": "Aug 17, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
       "score": 9,
       "moments": [
-        "acquisition"
+        "pe_investment"
       ]
     },
     {
@@ -469,13 +467,13 @@
       "moments": []
     },
     {
-      "id": "11f44b7a41a4",
-      "title": "Trump wins legal battle to keep cheap imports subject to tariffs",
-      "summary": "A federal trade court ruled Thursday that President Trump can block cheap imports \u2014 including from Chinese retailers like Temu and Shein \u2014 from entering the U.S. tariff-free. Why it matters: It's a wi",
-      "company": "Trump",
-      "link": "https://www.axios.com/2026/08/13/trump-de-minimis-tariff-court",
-      "date": "Aug 13, 26",
-      "source": "Axios",
+      "id": "b57f0f553b2c",
+      "title": "Jamming Station: Totnes venue, music hub and lifeline for young people launches \u00a350,000 \u201cdo-or-die\u201d appeal",
+      "summary": "\"For many of our young people, this is the place where they finally find their tribe\" The post Jamming Station: Totnes venue, music hub and lifeline for young people launches \u00a350,000 &#8220;do-or-die&",
+      "company": "Jamming Station",
+      "link": "https://www.nme.com/news/music/jamming-station-totnes-venue-music-hub-and-lifeline-for-young-people-launches-50000-do-or-die-appeal-3963150?utm_source=rss&utm_medium=rss&utm_campaign=jamming-station-totnes-venue-music-hub-and-lifeline-for-young-people-launches-50000-do-or-die-appeal",
+      "date": "Aug 17, 26",
+      "source": "NME",
       "layer": 2,
       "access": "pe",
       "score": 7,
