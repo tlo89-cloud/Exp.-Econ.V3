@@ -1,7 +1,23 @@
 {
-  "generated": "2026-08-17T12:51:52.119541+00:00",
+  "generated": "2026-08-18T12:54:01.684777+00:00",
   "total": 36,
   "scraped": [
+    {
+      "id": "f741a76a8c19",
+      "title": "NBA Ad Sales Soar to $2.1 Billion in First Season of New Rights Deals",
+      "summary": "The first season under the NBA\u2019s blockbuster media rights package proved to be a lollapalooza for the league\u2019s distribution partners, as coverage of the 2025-26 campaign generated a record $2.11 billi",
+      "company": "NBA Ad Sales Soar",
+      "link": "https://www.sportico.com/business/media/2026/nba-ad-sales-media-rights-deal-tv-1234942133/",
+      "date": "Aug 17, 26",
+      "source": "Sportico",
+      "layer": 1,
+      "access": "pe",
+      "score": 33,
+      "moments": [
+        "rights_deal",
+        "festival_headliner"
+      ]
+    },
     {
       "id": "374c14ea9835",
       "title": "Lovable confirms new $13.3B valuation, raises another $400M",
@@ -16,22 +32,6 @@
       "moments": [
         "funding_round",
         "valuation"
-      ]
-    },
-    {
-      "id": "83995d151d7a",
-      "title": "Apollo S3 doubles down on GP-led secondaries with Monogram continuation vehicle for Mountaintop Beverage",
-      "summary": "Apollo S3 has led another single-asset continuation vehicle, backing Monogram Capital Partners' transfer of drinks manufacturer Mountaintop Beverage into a new fund. The post Apollo S3 doubles down on",
-      "company": "Apollo S3",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/apollo-s3-doubles-down-on-gp-led-secondaries-with-monogram-continuation-vehicle-for-mountaintop-beverage.html",
-      "date": "Aug 12, 26",
-      "source": "AltAssets",
-      "layer": 1,
-      "access": "pe",
-      "score": 21,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
       ]
     },
     {
@@ -51,6 +51,38 @@
       ]
     },
     {
+      "id": "31415151ca03",
+      "title": "Homestead Capital launches first agri credit fund with $150m pension anchor",
+      "summary": "Homestead Capital has held the first close of its debut commingled agriculture private credit fund, securing a $150m anchor commitment from a large US state pension system as it expands beyond the far",
+      "company": "Homestead Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/homestead-capital-launches-first-agri-credit-fund-with-150m-pension-anchor.html",
+      "date": "Aug 18, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "08fbf690f804",
+      "title": "Ninety One closes third Africa credit fund with $404m of new firepower",
+      "summary": "Investment house Ninety One has closed its third Africa Credit Opportunities fund on $404m including leverage, almost doubling the capital raised across its emerging market senior credit strategy to $",
+      "company": "Ninety One",
+      "link": "https://www.altassets.net/private-equity-news/by-region/africa-by-region/ninety-one-closes-third-africa-credit-fund-with-404m-of-new-firepower.html",
+      "date": "Aug 18, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
       "id": "f1d3adad02cf",
       "title": "Accel raises $3.5bn across four early-stage funds as VC giant doubles down on \u2018AI supercycle\u2019",
       "summary": "Accel has raised $3.5bn across four new early-stage venture funds, reinforcing its long-term conviction that AI is creating a tech supercycle that will accelerate company formation and reshape venture",
@@ -64,6 +96,22 @@
       "moments": [
         "funding_round",
         "pe_investment"
+      ]
+    },
+    {
+      "id": "cfba8589f4ad",
+      "title": "Beabadoobee, Jorja Smith & Nemzzz Set to Headline All-New Spotify \u2018Hometown\u2019 Series",
+      "summary": "The streaming platform will also partner with each artist to support local community initiatives.",
+      "company": "Beabadoobee Jorja Smith",
+      "link": "https://www.billboard.com/music/music-news/beabadoobee-jorja-smith-nemzzz-spotify-hometown-series-1236318586/",
+      "date": "Aug 18, 26",
+      "source": "Billboard",
+      "layer": 1,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "festival_headliner",
+        "streaming_milestone"
       ]
     },
     {
@@ -83,6 +131,22 @@
       ]
     },
     {
+      "id": "055708ab0db8",
+      "title": "Jonas Brothers Announce 45-City \u2018Burning Up\u2019 North American Tour Dates",
+      "summary": "The Jonas Brothers, who have been road warriors in recent years, have announced a massive 45-city North American tour that continues their \u201cBurning Up Tour All Over Again.\u201d Magnus Ferrell, Franklin Jo",
+      "company": "Jonas Brothers Announce",
+      "link": "https://variety.com/2026/music/news/jonas-brothers-2026-burning-up-north-american-tour-dates-1236836312/",
+      "date": "Aug 17, 26",
+      "source": "Variety Music",
+      "layer": 3,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "tour_announcement",
+        "surprise_appearance"
+      ]
+    },
+    {
       "id": "47ef2e8a1b78",
       "title": "Digital Brand Architects Acquires Creator Management Firm V1sion Ventures",
       "summary": "Digital Brand Architects has snapped up creator management firm V1sion Ventures, which represents a range of digital stars including Keith Lee, Leigh Soriano, Joy Burnett, Chelsea Jordan, Rachel Wilso",
@@ -96,6 +160,22 @@
       "moments": [
         "acquisition",
         "company_launch"
+      ]
+    },
+    {
+      "id": "62ec8219cf89",
+      "title": "Exclusive: THL to acquire Queue-It from GRO Capital as \u2018agentic commerce\u2019 grows",
+      "summary": "The Queue-It deal is THL\u2019s second investment out of THL Automation Fund II. The post Exclusive: THL to acquire Queue-It from GRO Capital as &#8216;agentic commerce&#8217; grows appeared first on PE Hu",
+      "company": "Exclusive",
+      "link": "https://www.pehub.com/exclusive-thl-views-agentic-commerce-as-tailwind-in-agreement-to-acquire-queue-it-from-gro-capital/",
+      "date": "Aug 18, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "acquisition",
+        "fund_launch"
       ]
     },
     {
@@ -131,22 +211,6 @@
       ]
     },
     {
-      "id": "1c6f8337cfb6",
-      "title": "Polar Asset Management launches second SRT fund, strikes $215m first close",
-      "summary": "Canadian investor Polar Asset Management has secured more than $215m for the first close of its second dedicated significant risk transfer (SRT) fund, expanding a strategy that has emerged as a key wa",
-      "company": "Polar Asset Management",
-      "link": "https://www.altassets.net/private-equity-news/by-news-type/fund-news/funds-closed/polar-asset-management-launches-second-srt-fund-strikes-215m-first-close.html",
-      "date": "Aug 11, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 10,
-      "moments": [
-        "acquisition",
-        "fund_launch"
-      ]
-    },
-    {
       "id": "e9c36d3008c4",
       "title": "Knitting Factory Entertainment Acquires Minority Stake in Does Entertainment, Forming Strategic Growth Partnership to Expand National Live...",
       "summary": "Companies Align to Accelerate Venue Development, Talent Buying, Concert Promotion and Strategic Growth Across North America Los Angeles, CA / Wilmington, NC, July 14, 2026 \u2013&#160;Knitting Factory Ente",
@@ -177,6 +241,21 @@
       ]
     },
     {
+      "id": "42f359b3dc04",
+      "title": "Man/Woman/Chainsaw add biggest London headline show to date to 2026 tour due to phenomenal demand",
+      "summary": "Dates come in support of their debut album \u2018Cannonball\u2019 The post Man/Woman/Chainsaw add biggest London headline show to date to 2026 tour due to phenomenal demand appeared first on NME.",
+      "company": "Man/Woman/Chainsaw",
+      "link": "https://www.nme.com/news/music/man-woman-chainsaw-add-biggest-london-headline-show-to-date-to-2026-tour-due-to-phenomenal-demand-buy-tickets-3963431?utm_source=rss&utm_medium=rss&utm_campaign=man-woman-chainsaw-add-biggest-london-headline-show-to-date-to-2026-tour-due-to-phenomenal-demand-buy-tickets",
+      "date": "Aug 18, 26",
+      "source": "NME",
+      "layer": 1,
+      "access": "pe",
+      "score": 19,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
       "id": "57e053f5af7c",
       "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
       "summary": "The new funding brings Index's total available investing capital to $3.5 billion.",
@@ -192,18 +271,18 @@
       ]
     },
     {
-      "id": "2f12cf869aec",
-      "title": "Portugal. The Man Announces 2026 Australian East Coast Tour Dates",
-      "summary": "The shows follow the release of the group's tenth studio album, SHISH, out last November.",
-      "company": "Portugal The Man Announces",
-      "link": "https://www.billboard.com/music/concerts/portugal-the-man-announces-2026-australian-tour-dates-1236317476/",
+      "id": "da1de2593582",
+      "title": "Allison Russell Sets North American Tour in Support of \u2018In The Hour of Chaos\u2019",
+      "summary": "Allison Russell is taking her latest album on the road this fall, announcing a North American headline tour in support... The post Allison Russell Sets North American Tour in Support of \u2018In The Hour o",
+      "company": "Allison Russell Sets North American Tour",
+      "link": "https://www.ticketnews.com/2026/08/allison-russell-sets-north-american-tour-in-support-of-in-the-hour-of-chaos/",
       "date": "Aug 17, 26",
-      "source": "Billboard",
+      "source": "Ticket News",
       "layer": 1,
       "access": "pe",
-      "score": 15,
+      "score": 17,
       "moments": [
-        "tour_announcement"
+        "festival_headliner"
       ]
     },
     {
@@ -222,48 +301,33 @@
       ]
     },
     {
-      "id": "c23c5c37b0bd",
-      "title": "Glastonbury 2027 Potential Headliners Ranked: Who Could Lead Next Year\u2019s Festival?",
-      "summary": "After taking a fallow year, the festival is gearing up for a blockbuster return next summer.",
-      "company": "Glastonbury 2027 Potential Headliners Ranked",
-      "link": "https://www.billboard.com/lists/glastonbury-2027-festival-potential-headliners-line-up/",
-      "date": "Aug 17, 26",
-      "source": "Billboard",
-      "layer": 1,
+      "id": "5f0f43d24604",
+      "title": "CAMO Hospitality Raises $4 million to Reclaim the Hotel Guest Room from Third-Party Delivery Apps",
+      "summary": "Funding follows more than 200% year-over-year growth as CAMO helps hotels capture a share of the estimated $5 billion guest spend annually on delivery to U.S. hotel rooms ANAHEIM, Calif., Aug. 18, 202",
+      "company": "CAMO Hospitality Raises",
+      "link": "https://www.prnewswire.com/news-releases/camo-hospitality-raises-4-million-to-reclaim-the-hotel-guest-room-from-third-party-delivery-apps-302853966.html",
+      "date": "Aug 18, 26",
+      "source": "PR Newswire",
+      "layer": 4,
       "access": "pe",
-      "score": 14,
+      "score": 15,
       "moments": [
-        "festival_headliner"
+        "funding_round"
       ]
     },
     {
-      "id": "7e799ea38a32",
-      "title": "Ariana Grande Brings Out \u2018Wicked\u2019 Co-Star Cynthia Erivo for \u2018For Good\u2019 and \u2018Get Happy/Happy Days Are Here Again\u2019 at London Concert",
-      "summary": "Ariana Grande brought out Cynthia Erivo to perform at her Aug. 16 Eternal Sunshine tour stop at London&#8217;s O2. The \u201cWicked\u201d stars sang \u201cFor Good\u201d and \u201cGet Happy/Happy Days Are Here Again&#8221; on",
-      "company": "Ariana Grande Brings Out \u2018Wicked\u2019 Co-Star",
-      "link": "https://variety.com/2026/music/news/ariana-grande-cynthia-erivo-eternal-sunshine-london-wicked-1236835738/",
-      "date": "Aug 16, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "surprise_appearance"
-      ]
-    },
-    {
-      "id": "4cc0402ecf67",
-      "title": "BNPP AM Prime eyes up to five European GP stakes from current vintage; Providence to acquire valuation and property risk data biz",
-      "summary": "Providence Equity Partners announced on Friday it has entered into an agreement to acquire Hometrack. The post BNPP AM Prime eyes up to five European GP stakes from current vintage; Providence to acqu",
-      "company": "BNPP AM Prime",
-      "link": "https://www.pehub.com/bnpp-am-prime-eyes-up-to-five-european-gp-stakes-from-current-vintage-providence-to-acquire-valuation-and-property-risk-data-biz/",
-      "date": "Aug 17, 26",
+      "id": "0094d4d00c08",
+      "title": "Hg agrees growth investment in Nourish Care as Livingbridge retains minority stake",
+      "summary": "Nourish Care, founded in 2011 and headquartered in Bournemouth, UK, provides software that helps care teams plan, record and coordinate support for people in residential and home care settings. The po",
+      "company": "Hg",
+      "link": "https://www.pehub.com/hg-agrees-growth-investment-in-nourish-care-as-livingbridge-retains-minority-stake/",
+      "date": "Aug 18, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
       "score": 12,
       "moments": [
-        "acquisition"
+        "company_launch"
       ]
     },
     {
@@ -279,6 +343,21 @@
       "score": 12,
       "moments": [
         "pe_investment"
+      ]
+    },
+    {
+      "id": "9af4ccdd7bbd",
+      "title": "Paramount Asks States to Shoulder Costs of Delaying Warner Bros. Deal",
+      "summary": "Paramount\u2019s $111 billion deal to acquire Warner Bros. Discovery has been postponed until the conclusion of a trial, a delay the studio says could cost it millions of dollars.",
+      "company": "Paramount Asks States",
+      "link": "https://www.nytimes.com/2026/08/17/business/paramount-warner-bros-antitrust-trial.html",
+      "date": "Aug 17, 26",
+      "source": "NYT Arts",
+      "layer": 3,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "acquisition"
       ]
     },
     {
@@ -342,36 +421,6 @@
       ]
     },
     {
-      "id": "b3f89a8a9032",
-      "title": "Frankie Valli responds to brother\u2019s claims he\u2019s retiring",
-      "summary": "The Four Seasons legend recently cancelled his remaining 2026 tour dates to focus on his health The post Frankie Valli responds to brother&#8217;s claims he&#8217;s retiring appeared first on NME.",
-      "company": "Frankie Valli",
-      "link": "https://www.nme.com/news/music/frankie-valli-responds-to-brothers-claims-hes-retiring-3963087?utm_source=rss&utm_medium=rss&utm_campaign=frankie-valli-responds-to-brothers-claims-hes-retiring",
-      "date": "Aug 17, 26",
-      "source": "NME",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "tour_announcement"
-      ]
-    },
-    {
-      "id": "abd55b3c7589",
-      "title": "Francisco Partners\u2019 DJ Deb: \u2018Exits will come back, but it may take a little time\u2019",
-      "summary": "'My guess is 2021-24 will end up being bad vintages in private equity, while 2025-28 will be great vintages,' FP's DJ Deb told PE Hub in a wide-ranging interview about how the firm will deploy its rec",
-      "company": "Francisco Partners\u2019 DJ Deb: \u2018Exits",
-      "link": "https://www.pehub.com/francisco-partners-dj-deb-exits-will-come-back-but-it-may-take-a-little-time/",
-      "date": "Aug 17, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
       "id": "799d44bda4e2",
       "title": "If Paramount Leaves California, It Might Cut Costs but Wouldn\u2019t Save on State Taxes",
       "summary": "Paramount is threatening to leave California if it cannot reach a deal with Attorney General Rob Bonta to allow it to acquire Warner Bros. Discovery. Puck reported the threat on Tuesday, following a s",
@@ -384,6 +433,21 @@
       "score": 6,
       "moments": [
         "acquisition"
+      ]
+    },
+    {
+      "id": "eb982f243d63",
+      "title": "Fifa chief sacked after criticism of Infantino\u2019s World Cup sell-off plan",
+      "summary": "Kevin Lamour said Fifa administration was \u2018deceived\u2019Chief operating officer knew he could lose his jobThe Fifa chief operating officer, Kevin Lamour, has been sacked after openly criticising Gianni In",
+      "company": "Fifa",
+      "link": "https://www.theguardian.com/football/2026/aug/17/fifa-chief-sacked-criticism-infantino-world-cup-sell-off-plan-kevin-lamour",
+      "date": "Aug 17, 26",
+      "source": "Guardian Sport",
+      "layer": 2,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "festival_headliner"
       ]
     },
     {
@@ -402,107 +466,42 @@
       ]
     },
     {
-      "id": "b0618159fadb",
-      "title": "Creator Agency Fixated Taps Mary Murcko as Chief Revenue Officer",
-      "summary": "Media biz veteran Mary Murcko has joined Fixated, an agency that provides support services for creators ranging from talent representation to creator economy support services. Murcko has been tapped t",
-      "company": "Creator Agency Fixated Taps Mary Murcko",
-      "link": "https://variety.com/2026/biz/news/mary-murcko-fixated-chief-revenue-officer-creator-economy-1236833514/",
-      "date": "Aug 13, 26",
-      "source": "Variety Biz",
-      "layer": 4,
+      "id": "881848504255",
+      "title": "Jeanie Buss reportedly attempting to halt her siblings\u2019 attempt to sell remaining stake in Lakers",
+      "summary": "Jeanie Buss wants to remain as controlling ownerFamily were set to sell stake to Bob Iger and Josh JushnerJeanie Buss is reportedly challenging her siblings\u2019 attempt to sell the family\u2019s remaining sta",
+      "company": "Jeanie Buss",
+      "link": "https://www.theguardian.com/sport/2026/aug/17/jeanie-buss-reportedly-attempting-to-halt-her-siblings-attempt-to-sell-remaining-stake-in-lakers",
+      "date": "Aug 18, 26",
+      "source": "Guardian Sport",
+      "layer": 3,
       "access": "pe",
-      "score": 15,
-      "moments": []
-    },
-    {
-      "id": "fbdb4424967d",
-      "title": "AI code-testing startup Blacksmith\u2019s valuation jumps almost 10x in less than a year",
-      "summary": "Blacksmith says revenue has grown more than tenfold over the past year.",
-      "company": "AI",
-      "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
-      "date": "Aug 12, 26",
-      "source": "TechCrunch Startups",
-      "layer": 2,
-      "access": "venture",
       "score": 11,
       "moments": []
     },
     {
-      "id": "78c2a2eacf5b",
-      "title": "StubHub\u2019s Stock Slides After Earnings Call as Media Focus on Fulfillment Failures Continues",
-      "summary": "StubHub\u2019s blockbuster World Cup quarter delivered record ticket sales, but the same tournament also exposed fulfillment problems that became expensive... The post StubHub&#8217;s Stock Slides After Ea",
-      "company": "StubHub\u2019s Stock Slides After Earnings Call",
-      "link": "https://www.ticketnews.com/2026/08/stubhubs-stock-slides-after-earnings-call-as-media-focus-on-fulfillment-failures-continues/",
-      "date": "Aug 15, 26",
+      "id": "9e2a1326c5d7",
+      "title": "Live Nation To Turn San Diego\u2019s Wonder Bread Building Into New Music Venue",
+      "summary": "Live Nation is adding a new mid-size music venue to San Diego, with plans to transform the city\u2019s historic Wonder... The post Live Nation To Turn San Diego\u2019s Wonder Bread Building Into New Music Venue",
+      "company": "Live Nation To Turn San Diego\u2019s",
+      "link": "https://www.ticketnews.com/2026/08/live-nation-turn-wonder-bread-building-music-venue/",
+      "date": "Aug 17, 26",
       "source": "Ticket News",
-      "layer": 3,
-      "access": "public",
-      "score": 10,
+      "layer": 2,
+      "access": "pe",
+      "score": 9,
       "moments": []
     },
     {
-      "id": "7868285e0b12",
-      "title": "\u2018The Radio Doesn\u2019t Play Songs for Me Anymore\u2019: Tailgaters at the Foo Fighters\u2019 Stadium Tour Mourn the Dimming Light of Rock Music",
-      "summary": "\u201cThe radio doesn&#8217;t play songs for me anymore,\u201d says Bob, 54, who is situated in a lawn chair, deciding between a drag from the Marlboro Red in his left hand and the Budweiser can in his right. H",
-      "company": "\u2018The Radio Doesn\u2019t Play Songs",
-      "link": "https://variety.com/2026/music/features/foo-fighters-tailgating-fans-debate-rock-music-concert-1236834649/",
-      "date": "Aug 14, 26",
-      "source": "Variety Music",
+      "id": "b34be24bc4c2",
+      "title": "Bad Bunny to Bring \u2018Deb\u00ed Tirar M\u00e1s Fotos\u2019 Tour Back to Puerto Rico",
+      "summary": "The Puerto Rican superstar will wrap his global trek with performances at San Juan\u2019s Hiram Bithorn Stadium",
+      "company": "Bad Bunny",
+      "link": "https://www.rollingstone.com/music/music-latin/bad-bunny-debi-tirar-mas-fotos-world-tour-puerto-rico-dates-1235603327/",
+      "date": "Aug 17, 26",
+      "source": "Rolling Stone Music",
       "layer": 2,
       "access": "pe",
       "score": 8,
-      "moments": []
-    },
-    {
-      "id": "37e3c8ad4c4f",
-      "title": "Jayden Daniels\u2019 LSU Number Feud Raises NIL, IP Law Questions",
-      "summary": "Jayden Daniels sending a cease-and-desist letter to LSU raises the prospect of a legal battle that could attract attention from other former college stars, should they seek leverage with their alma ma",
-      "company": "Jayden Daniels\u2019 LSU Number Feud Raises",
-      "link": "https://www.sportico.com/law/analysis/2026/jayden-daniels-lsu-jersey-legal-issues-nil-1234942015/",
-      "date": "Aug 15, 26",
-      "source": "Sportico",
-      "layer": 3,
-      "access": "pe",
-      "score": 7,
-      "moments": []
-    },
-    {
-      "id": "b57f0f553b2c",
-      "title": "Jamming Station: Totnes venue, music hub and lifeline for young people launches \u00a350,000 \u201cdo-or-die\u201d appeal",
-      "summary": "\"For many of our young people, this is the place where they finally find their tribe\" The post Jamming Station: Totnes venue, music hub and lifeline for young people launches \u00a350,000 &#8220;do-or-die&",
-      "company": "Jamming Station",
-      "link": "https://www.nme.com/news/music/jamming-station-totnes-venue-music-hub-and-lifeline-for-young-people-launches-50000-do-or-die-appeal-3963150?utm_source=rss&utm_medium=rss&utm_campaign=jamming-station-totnes-venue-music-hub-and-lifeline-for-young-people-launches-50000-do-or-die-appeal",
-      "date": "Aug 17, 26",
-      "source": "NME",
-      "layer": 2,
-      "access": "pe",
-      "score": 7,
-      "moments": []
-    },
-    {
-      "id": "f72fb0659cc6",
-      "title": "ESPN Boosting Coverage of PGA Tour Playoffs",
-      "summary": "Image: USA Today",
-      "company": "ESPN Boosting Coverage",
-      "link": "https://frontofficesports.com/espn-boosting-coverage-pga-tour-playoffs/",
-      "date": "Aug 12, 26",
-      "source": "Front Office Sports",
-      "layer": 3,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "75167ca91af5",
-      "title": "A Bulldog in Business: How Moving into the Booth Opened Other Doors for Dodger Great Orel Hershiser",
-      "summary": "Orel Hershiser knows that he is a bona fide Los Angeles icon. But he has no illusions \u2014 he wouldn\u2019t have the business opportunities he enjoys today without the platform provided by his broadcasting gi",
-      "company": "A Bulldog in Business",
-      "link": "https://variety.com/2026/tv/news/orel-hershiser-bulldog-business-broadcasting-1236833448/",
-      "date": "Aug 13, 26",
-      "source": "Variety Biz",
-      "layer": 3,
-      "access": "pe",
-      "score": 5,
       "moments": []
     },
     {
@@ -513,6 +512,19 @@
       "link": "https://www.latimes.com/sports/dodgers/story/2026-08-16/dodgers-charley-steiner-calls-complete-game-cancer-treatment",
       "date": "Aug 16, 26",
       "source": "LA Times Sports",
+      "layer": 3,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "b26c8d60e2dc",
+      "title": "Trump's views can factor into prosecutions, Attorney General Todd Blanche says",
+      "summary": "Attorney General Todd Blanche refused Sunday to pledge the Justice Department's independence from the White House, saying he would consider President Trump's views on individual prosecutions.Why it ma",
+      "company": "Trump's",
+      "link": "https://www.axios.com/2026/08/16/todd-blanche-doj-independence-trump",
+      "date": "Aug 16, 26",
+      "source": "Axios",
       "layer": 3,
       "access": "pe",
       "score": 5,
