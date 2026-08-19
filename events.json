@@ -1,7 +1,24 @@
 {
-  "generated": "2026-08-18T12:54:01.684777+00:00",
-  "total": 36,
+  "generated": "2026-08-19T12:55:04.925676+00:00",
+  "total": 35,
   "scraped": [
+    {
+      "id": "f77bf8f7a3b9",
+      "title": "Reach Capital raises $265m Fund V as former edtech specialist broadens into health, work",
+      "summary": "Reach Capital has closed its largest fund to date at $265m amid a further expansion beyond the education technology specialism on which the venture manager built its business. The post Reach Capital r",
+      "company": "Reach Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/reach-capital-raises-265m-fund-v-as-former-edtech-specialist-broadens-into-health-work.html",
+      "date": "Aug 19, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 23,
+      "moments": [
+        "funding_round",
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
     {
       "id": "f741a76a8c19",
       "title": "NBA Ad Sales Soar to $2.1 Billion in First Season of New Rights Deals",
@@ -19,35 +36,67 @@
       ]
     },
     {
-      "id": "374c14ea9835",
-      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
-      "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
-      "company": "Lovable",
-      "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
-      "date": "Aug 12, 26",
-      "source": "TechCrunch Startups",
-      "layer": 1,
-      "access": "venture",
-      "score": 27,
+      "id": "2ad53583f6be",
+      "title": "Deal Roundup: KKR takes minority stake in BookMyShow, Rockbridge exits CheckedUp to Providence Equity Partners",
+      "summary": "KKR has agreed to acquire a minority stake in Indian ticketing and entertainment platform BookMyShow, backing the company\u2019s expansion in live events and experiences. The post Deal Roundup: KKR takes m",
+      "company": "Deal Roundup",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/deal-roundup-kkr-takes-minority-stake-in-bookmyshow-rockbridge-exits-checkedup-to-providence-equity-partners.html",
+      "date": "Aug 19, 26",
+      "source": "AltAssets",
+      "layer": 3,
+      "access": "pe",
+      "score": 18,
       "moments": [
-        "funding_round",
-        "valuation"
+        "acquisition",
+        "pe_investment"
       ]
     },
     {
-      "id": "a390bc8cc4fe",
-      "title": "OpenAI sheds senior execs in pre-IPO refresh",
-      "summary": "A wave of top OpenAI executives \u2014 including Sam Altman's top deputy, a longtime chief operating officer and the chief revenue officer \u2014 has left in the span of a month as the company retools its leade",
-      "company": "OpenAI",
-      "link": "https://www.axios.com/2026/08/14/openai-executive-greg-brockman-ipo",
-      "date": "Aug 14, 26",
-      "source": "Axios",
-      "layer": 2,
+      "id": "cbf6ac9b3f18",
+      "title": "CataCap acquires majority stake in Danish data protection firm B4Restore",
+      "summary": "B4Restore, founded in 2003, provides backup, storage and business continuity services to enterprises and managed service providers from Danish data centers. The post CataCap acquires majority stake in",
+      "company": "CataCap",
+      "link": "https://www.pehub.com/catacap-acquires-majority-stake-in-danish-data-protection-firm-b4restore/",
+      "date": "Aug 19, 26",
+      "source": "PE Hub",
+      "layer": 5,
       "access": "pe",
-      "score": 19,
+      "score": 16,
       "moments": [
-        "ipo",
+        "acquisition",
         "company_launch"
+      ]
+    },
+    {
+      "id": "4040904ca0d9",
+      "title": "KKR targets $9bn acquisition of US gas and power distributor UGI",
+      "summary": "TOP STORY: KKR has made a roughly $9bn offer to acquire UGI, the Pennsylvania-based natural gas and electricity distributor, in a move that could give the private equity firm exposure to rising demand",
+      "company": "KKR",
+      "link": "https://www.privateequitywire.co.uk/kkr-targets-9bn-acquisition-of-us-gas-and-power-distributor-ugi/",
+      "date": "Aug 19, 26",
+      "source": "PE Wire",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "acquisition",
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "31cf15528507",
+      "title": "Broadwing beats target with $440m debut fund as emerging manager scales buy-and-build strategy",
+      "summary": "Broadwing Capital has closed its inaugural institutional private equity fund on $440m, beating its $350m target, as the four-year-old manager looks to scale a lower mid-market buy-and-build strategy t",
+      "company": "Broadwing",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/broadwing-beats-target-with-440m-debut-fund-as-emerging-manager-scales-buy-and-build-strategy.html",
+      "date": "Aug 19, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "acquisition",
+        "pe_investment"
       ]
     },
     {
@@ -83,99 +132,19 @@
       ]
     },
     {
-      "id": "f1d3adad02cf",
-      "title": "Accel raises $3.5bn across four early-stage funds as VC giant doubles down on \u2018AI supercycle\u2019",
-      "summary": "Accel has raised $3.5bn across four new early-stage venture funds, reinforcing its long-term conviction that AI is creating a tech supercycle that will accelerate company formation and reshape venture",
-      "company": "Accel",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/accel-raises-3-5bn-across-four-early-stage-funds-as-vc-giant-doubles-down-on-ai-supercycle.html",
-      "date": "Aug 13, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "funding_round",
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "cfba8589f4ad",
-      "title": "Beabadoobee, Jorja Smith & Nemzzz Set to Headline All-New Spotify \u2018Hometown\u2019 Series",
-      "summary": "The streaming platform will also partner with each artist to support local community initiatives.",
-      "company": "Beabadoobee Jorja Smith",
-      "link": "https://www.billboard.com/music/music-news/beabadoobee-jorja-smith-nemzzz-spotify-hometown-series-1236318586/",
+      "id": "e5a79a94b3af",
+      "title": "Daniel Ek\u2019s body-scanning startup Neko Health opens first US office, in New York",
+      "summary": "The scanning and bloodwork health startup founded by Spotify's founder will officially launch in New York in about a month.",
+      "company": "Daniel Ek\u2019s",
+      "link": "https://techcrunch.com/2026/08/18/daniel-eks-body-scanning-startup-neko-health-opens-first-us-office-in-new-york/",
       "date": "Aug 18, 26",
-      "source": "Billboard",
-      "layer": 1,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "festival_headliner",
-        "streaming_milestone"
-      ]
-    },
-    {
-      "id": "54dd72ca35a3",
-      "title": "Canyon tops $500m fund target as opportunistic real estate managers prep for next phase of market dislocation",
-      "summary": "Canyon Partners has completed the final close of its latest US opportunistic real estate strategy on about $570m, beating its initial $500m target. The post Canyon tops $500m fund target as opportunis",
-      "company": "Canyon",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/canyon-tops-fund-target-as-opportunistic-real-estate-managers-position-for-next-phase-of-market-dislocation.html",
-      "date": "Aug 12, 26",
-      "source": "AltAssets",
-      "layer": 2,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "055708ab0db8",
-      "title": "Jonas Brothers Announce 45-City \u2018Burning Up\u2019 North American Tour Dates",
-      "summary": "The Jonas Brothers, who have been road warriors in recent years, have announced a massive 45-city North American tour that continues their \u201cBurning Up Tour All Over Again.\u201d Magnus Ferrell, Franklin Jo",
-      "company": "Jonas Brothers Announce",
-      "link": "https://variety.com/2026/music/news/jonas-brothers-2026-burning-up-north-american-tour-dates-1236836312/",
-      "date": "Aug 17, 26",
-      "source": "Variety Music",
-      "layer": 3,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "tour_announcement",
-        "surprise_appearance"
-      ]
-    },
-    {
-      "id": "47ef2e8a1b78",
-      "title": "Digital Brand Architects Acquires Creator Management Firm V1sion Ventures",
-      "summary": "Digital Brand Architects has snapped up creator management firm V1sion Ventures, which represents a range of digital stars including Keith Lee, Leigh Soriano, Joy Burnett, Chelsea Jordan, Rachel Wilso",
-      "company": "",
-      "link": "https://variety.com/2026/digital/news/digital-brand-architects-v1sion-ventures-acquire-creators-1236834437/",
-      "date": "Aug 14, 26",
-      "source": "Variety Biz",
+      "source": "TechCrunch Startups",
       "layer": 1,
       "access": "venture",
       "score": 13,
       "moments": [
-        "acquisition",
+        "streaming_milestone",
         "company_launch"
-      ]
-    },
-    {
-      "id": "62ec8219cf89",
-      "title": "Exclusive: THL to acquire Queue-It from GRO Capital as \u2018agentic commerce\u2019 grows",
-      "summary": "The Queue-It deal is THL\u2019s second investment out of THL Automation Fund II. The post Exclusive: THL to acquire Queue-It from GRO Capital as &#8216;agentic commerce&#8217; grows appeared first on PE Hu",
-      "company": "Exclusive",
-      "link": "https://www.pehub.com/exclusive-thl-views-agentic-commerce-as-tailwind-in-agreement-to-acquire-queue-it-from-gro-capital/",
-      "date": "Aug 18, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "acquisition",
-        "fund_launch"
       ]
     },
     {
@@ -192,22 +161,6 @@
       "moments": [
         "pe_investment",
         "fund_launch"
-      ]
-    },
-    {
-      "id": "b5bb3b9b3ee6",
-      "title": "Deal Roundup: TPG agrees $925m Lotte Rental buy, Lindsay Goldberg seals Alro Steel deal",
-      "summary": "TPG has agreed to acquire a 61.2% controlling stake in South Korea\u2019s largest car rental company, Lotte Rental, from Hotel Lotte and Busan Lotte Hotel in a transaction valued at KRW1.31tn ($925m). The ",
-      "company": "Deal Roundup",
-      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-tpg-agrees-925m-lotte-rental-buy-lindsay-goldberg-seals-alro-steel-deal.html",
-      "date": "Aug 12, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "acquisition",
-        "pe_investment"
       ]
     },
     {
@@ -241,18 +194,33 @@
       ]
     },
     {
-      "id": "42f359b3dc04",
-      "title": "Man/Woman/Chainsaw add biggest London headline show to date to 2026 tour due to phenomenal demand",
-      "summary": "Dates come in support of their debut album \u2018Cannonball\u2019 The post Man/Woman/Chainsaw add biggest London headline show to date to 2026 tour due to phenomenal demand appeared first on NME.",
-      "company": "Man/Woman/Chainsaw",
-      "link": "https://www.nme.com/news/music/man-woman-chainsaw-add-biggest-london-headline-show-to-date-to-2026-tour-due-to-phenomenal-demand-buy-tickets-3963431?utm_source=rss&utm_medium=rss&utm_campaign=man-woman-chainsaw-add-biggest-london-headline-show-to-date-to-2026-tour-due-to-phenomenal-demand-buy-tickets",
+      "id": "3adcb455e4cb",
+      "title": "C+C Music Factory Co-Founder Robert Clivill\u00e9s Sues Freedom Williams for $30 Million, Alleging He Wrongfully Claimed Trademark Despite Never Being a...",
+      "summary": "Whatever fallout came as a result of the canceled Freedom 250 concerts on the National Mall in Washington this summer, we can add a lawsuit that otherwise might not have happened. One prominent figure",
+      "company": "",
+      "link": "https://variety.com/2026/music/news/cc-music-factory-robert-clivilles-sues-freedom-williams-1236837138/",
       "date": "Aug 18, 26",
-      "source": "NME",
+      "source": "Variety Music",
       "layer": 1,
       "access": "pe",
+      "score": 20,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "032be9cb9ec6",
+      "title": "Nonprofit Production Banner Waterwell Doubles Funding for Unseen Iran Grants to Artists Representing the Diaspora in Film, TV, Theater and More",
+      "summary": "Nonprofit production venture Waterwell, co-founded by &#8220;Succession&#8221; player Arian Moayed, and nonprofit Nimruz has doubled the funding for their program of Unseen Iran Grants now in its seco",
+      "company": "",
+      "link": "https://variety.com/2026/biz/news/arian-moayed-unseen-iran-grants-waterwell-nimruz-1236836821/",
+      "date": "Aug 18, 26",
+      "source": "Variety Biz",
+      "layer": 1,
+      "access": "venture",
       "score": 19,
       "moments": [
-        "festival_headliner"
+        "company_launch"
       ]
     },
     {
@@ -271,16 +239,31 @@
       ]
     },
     {
-      "id": "da1de2593582",
-      "title": "Allison Russell Sets North American Tour in Support of \u2018In The Hour of Chaos\u2019",
-      "summary": "Allison Russell is taking her latest album on the road this fall, announcing a North American headline tour in support... The post Allison Russell Sets North American Tour in Support of \u2018In The Hour o",
-      "company": "Allison Russell Sets North American Tour",
-      "link": "https://www.ticketnews.com/2026/08/allison-russell-sets-north-american-tour-in-support-of-in-the-hour-of-chaos/",
-      "date": "Aug 17, 26",
-      "source": "Ticket News",
+      "id": "5e6462050193",
+      "title": "Broadway Goes Coachella for a Weekend in the Country",
+      "summary": "Among the stars and stans at a Hudson River retreat, two reporters beheld the big belters and niche merchandise at a new musical theater festival.",
+      "company": "Broadway Goes Coachella",
+      "link": "https://www.nytimes.com/2026/08/18/theater/broadway-musicals-festival-kingston.html",
+      "date": "Aug 18, 26",
+      "source": "NYT Arts",
       "layer": 1,
       "access": "pe",
       "score": 17,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "80d2d7881775",
+      "title": "Will Green Day ever headline Glastonbury? We asked them",
+      "summary": "\u201cIt\u2019s the last great festival that we haven\u2019t done\u201d The post Will Green Day ever headline Glastonbury? We asked them appeared first on NME.",
+      "company": "Will Green Day",
+      "link": "https://www.nme.com/news/music/will-green-day-ever-headline-glastonbury-we-asked-them-3963599?utm_source=rss&utm_medium=rss&utm_campaign=will-green-day-ever-headline-glastonbury-we-asked-them",
+      "date": "Aug 19, 26",
+      "source": "NME",
+      "layer": 1,
+      "access": "pe",
+      "score": 16,
       "moments": [
         "festival_headliner"
       ]
@@ -301,48 +284,18 @@
       ]
     },
     {
-      "id": "5f0f43d24604",
-      "title": "CAMO Hospitality Raises $4 million to Reclaim the Hotel Guest Room from Third-Party Delivery Apps",
-      "summary": "Funding follows more than 200% year-over-year growth as CAMO helps hotels capture a share of the estimated $5 billion guest spend annually on delivery to U.S. hotel rooms ANAHEIM, Calif., Aug. 18, 202",
-      "company": "CAMO Hospitality Raises",
-      "link": "https://www.prnewswire.com/news-releases/camo-hospitality-raises-4-million-to-reclaim-the-hotel-guest-room-from-third-party-delivery-apps-302853966.html",
+      "id": "7bc707ca5d21",
+      "title": "Miranda Lambert to Headline Opening Night at Nashville\u2019s The Truth",
+      "summary": "Miranda Lambert will headline the opening night of The Truth, a new 4,400-capacity venue in Nashville\u2019s Wedgewood-Houston neighborhood, on Thursday,... The post Miranda Lambert to Headline Opening Nig",
+      "company": "Miranda Lambert",
+      "link": "https://www.ticketnews.com/2026/08/miranda-lambert-to-headline-opening-night-at-nashvilles-the-truth/",
       "date": "Aug 18, 26",
-      "source": "PR Newswire",
-      "layer": 4,
+      "source": "Ticket News",
+      "layer": 2,
       "access": "pe",
-      "score": 15,
+      "score": 14,
       "moments": [
-        "funding_round"
-      ]
-    },
-    {
-      "id": "0094d4d00c08",
-      "title": "Hg agrees growth investment in Nourish Care as Livingbridge retains minority stake",
-      "summary": "Nourish Care, founded in 2011 and headquartered in Bournemouth, UK, provides software that helps care teams plan, record and coordinate support for people in residential and home care settings. The po",
-      "company": "Hg",
-      "link": "https://www.pehub.com/hg-agrees-growth-investment-in-nourish-care-as-livingbridge-retains-minority-stake/",
-      "date": "Aug 18, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "754303a5aaf4",
-      "title": "Virginia Retirement System highlights active management edge as $135bn pension fund beats long-term target",
-      "summary": "The Virginia Retirement System has reported a 12.1% net investment return for the fiscal year to June 30, 2026, growing its trust fund to $135.2bn. The post Virginia Retirement System highlights activ",
-      "company": "Virginia Retirement System",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/virginia-retirement-system-highlights-active-management-edge-as-135bn-pension-fund-beats-long-term-target.html",
-      "date": "Aug 13, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "pe_investment"
+        "festival_headliner"
       ]
     },
     {
@@ -406,48 +359,33 @@
       ]
     },
     {
-      "id": "ad1785747be2",
-      "title": "Warner Bros. Discovery CEO David Zaslav Beneficiary of $27.1 Million in Stock Sales as Paramount Merger Is Stuck on Hold",
-      "summary": "David Zaslav, president and CEO of Warner Bros. Discovery, has now sold roughly $200 million worth of stock since the media company clinched a deal to be acquired by David Ellison&#8217;s Paramount Sk",
-      "company": "Warner Bros Discovery CEO David Zaslav",
-      "link": "https://variety.com/2026/tv/news/warner-bros-discovery-david-zaslav-sells-27-million-stock-1236834226/",
-      "date": "Aug 14, 26",
-      "source": "Variety Biz",
-      "layer": 3,
-      "access": "public",
+      "id": "d57d7a794b2f",
+      "title": "PSG invests in construction software provider XBE",
+      "summary": "XBE founder and CEO Sean Devine and Banneker Partners will each retain significant ownership positions and Devine will continue to lead the company. The post PSG invests in construction software provi",
+      "company": "PSG",
+      "link": "https://www.pehub.com/psg-invests-in-construction-software-provider-xbe/",
+      "date": "Aug 19, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
       "score": 9,
       "moments": [
-        "acquisition"
+        "company_launch"
       ]
     },
     {
-      "id": "799d44bda4e2",
-      "title": "If Paramount Leaves California, It Might Cut Costs but Wouldn\u2019t Save on State Taxes",
-      "summary": "Paramount is threatening to leave California if it cannot reach a deal with Attorney General Rob Bonta to allow it to acquire Warner Bros. Discovery. Puck reported the threat on Tuesday, following a s",
-      "company": "If Paramount Leaves California It Might",
-      "link": "https://variety.com/2026/film/news/paramount-state-taxes-leaving-california-1236833420/",
-      "date": "Aug 14, 26",
-      "source": "Variety Biz",
-      "layer": 3,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "eb982f243d63",
-      "title": "Fifa chief sacked after criticism of Infantino\u2019s World Cup sell-off plan",
-      "summary": "Kevin Lamour said Fifa administration was \u2018deceived\u2019Chief operating officer knew he could lose his jobThe Fifa chief operating officer, Kevin Lamour, has been sacked after openly criticising Gianni In",
-      "company": "Fifa",
-      "link": "https://www.theguardian.com/football/2026/aug/17/fifa-chief-sacked-criticism-infantino-world-cup-sell-off-plan-kevin-lamour",
-      "date": "Aug 17, 26",
-      "source": "Guardian Sport",
+      "id": "0505a2002eec",
+      "title": "Machine Investment Group Closes Second Investment Fund at $350 Million Hard Cap",
+      "summary": "Fund II investment vehicle includes $350 million in primary commitments and $120 million in co-investments to date NEW YORK and WASHINGTON, Aug. 19, 2026 /PRNewswire/ -- Machine Investment Group, LP (",
+      "company": "",
+      "link": "https://www.prnewswire.com/news-releases/machine-investment-group-closes-second-investment-fund-at-350-million-hard-cap-302854847.html",
+      "date": "Aug 19, 26",
+      "source": "PR Newswire",
       "layer": 2,
       "access": "pe",
-      "score": 6,
+      "score": 9,
       "moments": [
-        "festival_headliner"
+        "fund_launch"
       ]
     },
     {
@@ -468,7 +406,7 @@
     {
       "id": "881848504255",
       "title": "Jeanie Buss reportedly attempting to halt her siblings\u2019 attempt to sell remaining stake in Lakers",
-      "summary": "Jeanie Buss wants to remain as controlling ownerFamily were set to sell stake to Bob Iger and Josh JushnerJeanie Buss is reportedly challenging her siblings\u2019 attempt to sell the family\u2019s remaining sta",
+      "summary": "Jeanie Buss wants to remain as controlling ownerFamily were set to sell stake to Bob Iger and Josh KushnerJeanie Buss is reportedly challenging her siblings\u2019 attempt to sell the family\u2019s remaining sta",
       "company": "Jeanie Buss",
       "link": "https://www.theguardian.com/sport/2026/aug/17/jeanie-buss-reportedly-attempting-to-halt-her-siblings-attempt-to-sell-remaining-stake-in-lakers",
       "date": "Aug 18, 26",
@@ -479,12 +417,12 @@
       "moments": []
     },
     {
-      "id": "9e2a1326c5d7",
-      "title": "Live Nation To Turn San Diego\u2019s Wonder Bread Building Into New Music Venue",
-      "summary": "Live Nation is adding a new mid-size music venue to San Diego, with plans to transform the city\u2019s historic Wonder... The post Live Nation To Turn San Diego\u2019s Wonder Bread Building Into New Music Venue",
-      "company": "Live Nation To Turn San Diego\u2019s",
-      "link": "https://www.ticketnews.com/2026/08/live-nation-turn-wonder-bread-building-music-venue/",
-      "date": "Aug 17, 26",
+      "id": "163d60b17857",
+      "title": "Oak View Group Taps Tyler Bates to Lead Programming at UBS Arena",
+      "summary": "Oak View Group has named Tyler Bates Senior Vice President, Programming of UBS Arena, putting the veteran live entertainment executive... The post Oak View Group Taps Tyler Bates to Lead Programming a",
+      "company": "Oak View Group Taps Tyler Bates",
+      "link": "https://www.ticketnews.com/2026/08/oak-view-group-tyler-bates-ubs-arena/",
+      "date": "Aug 18, 26",
       "source": "Ticket News",
       "layer": 2,
       "access": "pe",
@@ -492,13 +430,26 @@
       "moments": []
     },
     {
-      "id": "b34be24bc4c2",
-      "title": "Bad Bunny to Bring \u2018Deb\u00ed Tirar M\u00e1s Fotos\u2019 Tour Back to Puerto Rico",
-      "summary": "The Puerto Rican superstar will wrap his global trek with performances at San Juan\u2019s Hiram Bithorn Stadium",
-      "company": "Bad Bunny",
-      "link": "https://www.rollingstone.com/music/music-latin/bad-bunny-debi-tirar-mas-fotos-world-tour-puerto-rico-dates-1235603327/",
-      "date": "Aug 17, 26",
-      "source": "Rolling Stone Music",
+      "id": "47c5c942af9e",
+      "title": "Perplexity\u2019s free AI offer left it with millions more users in India",
+      "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
+      "company": "Perplexity\u2019s",
+      "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+      "date": "Aug 18, 26",
+      "source": "TechCrunch Startups",
+      "layer": 2,
+      "access": "pe",
+      "score": 8,
+      "moments": []
+    },
+    {
+      "id": "3c1f93e6d25a",
+      "title": "America's debt is getting more expensive",
+      "summary": "Governments around the world are entering a new era of higher borrowing costs already deeply indebted. More revenue will go toward interest payments as old debt gets refinanced at today's higher rates",
+      "company": "America's",
+      "link": "https://www.axios.com/2026/08/18/debt-revenue-interest-defense-spending",
+      "date": "Aug 18, 26",
+      "source": "Axios",
       "layer": 2,
       "access": "pe",
       "score": 8,
@@ -528,6 +479,32 @@
       "layer": 3,
       "access": "pe",
       "score": 5,
+      "moments": []
+    },
+    {
+      "id": "1361d9098fe1",
+      "title": "BlackRock-backed HPS and Oaktree take control of Hollywood production supplier MBS",
+      "summary": "Private credit investors HPS Investment Partners and Oaktree Capital Management have taken control of MBS Group after the production equipment supplier defaulted on its debt, highlighting the mounting",
+      "company": "BlackRock-backed HPS",
+      "link": "https://www.privateequitywire.co.uk/blackrock-backed-hps-and-oaktree-take-control-of-hollywood-production-supplier-mbs/",
+      "date": "Aug 19, 26",
+      "source": "PE Wire",
+      "layer": 4,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "c3160e2f8305",
+      "title": "Christian metal band Demon Hunter sues Netflix over \u2018KPop Demon Hunters\u2019 trademark",
+      "summary": "The complaint claims customers are confusing their gigs with the animated group The post Christian metal band Demon Hunter sues Netflix over &#8216;KPop Demon Hunters&#8217; trademark appeared first o",
+      "company": "Christian",
+      "link": "https://www.nme.com/news/christian-metal-band-demon-hunter-sues-netflix-over-kpop-demon-hunters-trademark-3963646?utm_source=rss&utm_medium=rss&utm_campaign=christian-metal-band-demon-hunter-sues-netflix-over-kpop-demon-hunters-trademark",
+      "date": "Aug 19, 26",
+      "source": "NME",
+      "layer": 3,
+      "access": "pe",
+      "score": 4,
       "moments": []
     },
     {
