@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19T12:55:04.925676+00:00",
+  "generated": "2026-08-20T12:56:34.795173+00:00",
   "total": 35,
   "scraped": [
     {
@@ -20,19 +20,19 @@
       ]
     },
     {
-      "id": "f741a76a8c19",
-      "title": "NBA Ad Sales Soar to $2.1 Billion in First Season of New Rights Deals",
-      "summary": "The first season under the NBA\u2019s blockbuster media rights package proved to be a lollapalooza for the league\u2019s distribution partners, as coverage of the 2025-26 campaign generated a record $2.11 billi",
-      "company": "NBA Ad Sales Soar",
-      "link": "https://www.sportico.com/business/media/2026/nba-ad-sales-media-rights-deal-tv-1234942133/",
-      "date": "Aug 17, 26",
-      "source": "Sportico",
-      "layer": 1,
+      "id": "523bc4c1dbb3",
+      "title": "Machine Investment Group hits $350m hard cap Fund II close, 42% above debut vehicle size",
+      "summary": "Machine Investment Group has increased the primary capital in its flagship real estate strategy by more than 40%, closing Machine Real Estate Fund II at its $350m hard cap. The post Machine Investment",
+      "company": "Machine Investment Group",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/machine-investment-group-hits-350m-hard-cap-fund-ii-close-42-above-debut-vehicle-size.html",
+      "date": "Aug 20, 26",
+      "source": "AltAssets",
+      "layer": 2,
       "access": "pe",
-      "score": 33,
+      "score": 18,
       "moments": [
-        "rights_deal",
-        "festival_headliner"
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
@@ -52,30 +52,14 @@
       ]
     },
     {
-      "id": "cbf6ac9b3f18",
-      "title": "CataCap acquires majority stake in Danish data protection firm B4Restore",
-      "summary": "B4Restore, founded in 2003, provides backup, storage and business continuity services to enterprises and managed service providers from Danish data centers. The post CataCap acquires majority stake in",
-      "company": "CataCap",
-      "link": "https://www.pehub.com/catacap-acquires-majority-stake-in-danish-data-protection-firm-b4restore/",
-      "date": "Aug 19, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "acquisition",
-        "company_launch"
-      ]
-    },
-    {
-      "id": "4040904ca0d9",
-      "title": "KKR targets $9bn acquisition of US gas and power distributor UGI",
-      "summary": "TOP STORY: KKR has made a roughly $9bn offer to acquire UGI, the Pennsylvania-based natural gas and electricity distributor, in a move that could give the private equity firm exposure to rising demand",
-      "company": "KKR",
-      "link": "https://www.privateequitywire.co.uk/kkr-targets-9bn-acquisition-of-us-gas-and-power-distributor-ugi/",
-      "date": "Aug 19, 26",
+      "id": "472100cb1dee",
+      "title": "EQT takes majority stake in Melbourne Storm",
+      "summary": "Swedish private equity firm EQT has acquired a majority interest in Australian rugby league club Melbourne Storm, marking its first direct investment in a professional sports team according to a repor",
+      "company": "EQT",
+      "link": "https://www.privateequitywire.co.uk/eqt-takes-majority-stake-in-melbourne-storm/",
+      "date": "Aug 20, 26",
       "source": "PE Wire",
-      "layer": 5,
+      "layer": 1,
       "access": "pe",
       "score": 16,
       "moments": [
@@ -148,22 +132,6 @@
       ]
     },
     {
-      "id": "16e01ae69345",
-      "title": "Continuim more than doubles fund size with $548m Fund III after just 32 days in market",
-      "summary": "Continuim Equity Partners has more than doubled the size of its flagship fund in two years, closing its third manufacturing and industrial-focused vehicle on $548m after just 32 days in market. The po",
-      "company": "Continuim",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/continuim-more-than-doubles-fund-size-with-548m-fund-iii-after-just-32-days-in-market.html",
-      "date": "Aug 14, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
       "id": "e9c36d3008c4",
       "title": "Knitting Factory Entertainment Acquires Minority Stake in Does Entertainment, Forming Strategic Growth Partnership to Expand National Live...",
       "summary": "Companies Align to Accelerate Venue Development, Talent Buying, Concert Promotion and Strategic Growth Across North America Los Angeles, CA / Wilmington, NC, July 14, 2026 \u2013&#160;Knitting Factory Ente",
@@ -191,21 +159,6 @@
       "score": 21,
       "moments": [
         "funding_round"
-      ]
-    },
-    {
-      "id": "3adcb455e4cb",
-      "title": "C+C Music Factory Co-Founder Robert Clivill\u00e9s Sues Freedom Williams for $30 Million, Alleging He Wrongfully Claimed Trademark Despite Never Being a...",
-      "summary": "Whatever fallout came as a result of the canceled Freedom 250 concerts on the National Mall in Washington this summer, we can add a lawsuit that otherwise might not have happened. One prominent figure",
-      "company": "",
-      "link": "https://variety.com/2026/music/news/cc-music-factory-robert-clivilles-sues-freedom-williams-1236837138/",
-      "date": "Aug 18, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 20,
-      "moments": [
-        "company_launch"
       ]
     },
     {
@@ -254,21 +207,6 @@
       ]
     },
     {
-      "id": "80d2d7881775",
-      "title": "Will Green Day ever headline Glastonbury? We asked them",
-      "summary": "\u201cIt\u2019s the last great festival that we haven\u2019t done\u201d The post Will Green Day ever headline Glastonbury? We asked them appeared first on NME.",
-      "company": "Will Green Day",
-      "link": "https://www.nme.com/news/music/will-green-day-ever-headline-glastonbury-we-asked-them-3963599?utm_source=rss&utm_medium=rss&utm_campaign=will-green-day-ever-headline-glastonbury-we-asked-them",
-      "date": "Aug 19, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
       "id": "406f96ce0fea",
       "title": "Karol G's Latin American fantasia lands elegantly at SoFi Stadium",
       "summary": "As part of her \"Viajando Por El Mundo Tropitour,\" Grammy-winning Colombian superstar Karol G headlined the first of three nights at the SoFi Stadium in Inglewood. Ernesto Lechner reviews for the L.A. ",
@@ -284,14 +222,29 @@
       ]
     },
     {
-      "id": "7bc707ca5d21",
-      "title": "Miranda Lambert to Headline Opening Night at Nashville\u2019s The Truth",
-      "summary": "Miranda Lambert will headline the opening night of The Truth, a new 4,400-capacity venue in Nashville\u2019s Wedgewood-Houston neighborhood, on Thursday,... The post Miranda Lambert to Headline Opening Nig",
-      "company": "Miranda Lambert",
-      "link": "https://www.ticketnews.com/2026/08/miranda-lambert-to-headline-opening-night-at-nashvilles-the-truth/",
-      "date": "Aug 18, 26",
+      "id": "4d71f45da52a",
+      "title": "The Jay-Z Resurgence Has Reached TikTok",
+      "summary": "Following three anniversary concerts at Yankee Stadium, Jay-Z has found a new audience online. The clearest evidence comes from a 13-year-old single that young listeners have turned into an unlikely h",
+      "company": "The Jay-Z Resurgence Has Reached TikTok",
+      "link": "https://www.rollingstone.com/music/music-features/jay-z-resurgence-tiktok-tom-ford-1235611488/",
+      "date": "Aug 19, 26",
+      "source": "Rolling Stone Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "787d2efe91b6",
+      "title": "System of a Down to Headline One-Night-Only Rio de Janeiro Concert With Faith No More",
+      "summary": "System of a Down will return to Brazil next year for a special one-night concert at Rio de Janeiro\u2019s Maracan\u00e3... The post System of a Down to Headline One-Night-Only Rio de Janeiro Concert With Faith ",
+      "company": "System",
+      "link": "https://www.ticketnews.com/2026/08/system-of-a-down-to-headline-one-night-only-rio-de-janeiro-concert-with-faith-no-more/",
+      "date": "Aug 19, 26",
       "source": "Ticket News",
-      "layer": 2,
+      "layer": 1,
       "access": "pe",
       "score": 14,
       "moments": [
@@ -299,31 +252,16 @@
       ]
     },
     {
-      "id": "9af4ccdd7bbd",
-      "title": "Paramount Asks States to Shoulder Costs of Delaying Warner Bros. Deal",
-      "summary": "Paramount\u2019s $111 billion deal to acquire Warner Bros. Discovery has been postponed until the conclusion of a trial, a delay the studio says could cost it millions of dollars.",
-      "company": "Paramount Asks States",
-      "link": "https://www.nytimes.com/2026/08/17/business/paramount-warner-bros-antitrust-trial.html",
-      "date": "Aug 17, 26",
-      "source": "NYT Arts",
-      "layer": 3,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "073a8c78bbf1",
-      "title": "EMERGING, Promethean eye $300m for hospitality tech fund built around $185m continuation portfolio",
-      "summary": "EMERGING and Promethean Investments have launched a $300m-targeting hospitality and experiential entertainment investment vehicle, using a roughly $185m portfolio of identified assets as the foundatio",
-      "company": "EMERGING Promethean",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/emerging-promethean-eye-300m-for-hospitality-tech-fund-built-around-185m-continuation-portfolio.html",
-      "date": "Aug 14, 26",
-      "source": "AltAssets",
-      "layer": 4,
-      "access": "pe",
-      "score": 11,
+      "id": "cdcf858a9df1",
+      "title": "CVC agrees majority investment in UK rental platform OpenRent",
+      "summary": "OpenRent, founded in 2012, is a direct-to-landlord rental platform used by more than 8.8 million landlords and tenants, with more than one in five UK tenancies now running through it. The post CVC agr",
+      "company": "CVC",
+      "link": "https://www.pehub.com/cvc-agrees-majority-investment-in-uk-rental-platform-openrent/",
+      "date": "Aug 20, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "venture",
+      "score": 12,
       "moments": [
         "company_launch"
       ]
@@ -344,27 +282,42 @@
       ]
     },
     {
-      "id": "937247b61937",
-      "title": "Bears Call Indiana Stadium Plans Their \u2018Sole Focus\u2019",
-      "summary": "Kirby Lee-Imagn Images",
-      "company": "Bears Call Indiana Stadium Plans Their",
-      "link": "https://frontofficesports.com/bears-indiana-stadium-sole-focus/",
-      "date": "Aug 14, 26",
-      "source": "Front Office Sports",
-      "layer": 2,
+      "id": "f29ae814b97a",
+      "title": "Reading & Leeds 2026: check out the full stage times",
+      "summary": "Florence + The Machine, Charli XCX, Fontaines D.C., Dave, RAYE and Chase &#038; Status are this year's headliners The post Reading &#038; Leeds 2026: check out the full stage times appeared first on N",
+      "company": "Reading & Leeds 2026",
+      "link": "https://www.nme.com/news/music/reading-leeds-2026-check-out-the-full-stage-times-3963739?utm_source=rss&utm_medium=rss&utm_campaign=reading-leeds-2026-check-out-the-full-stage-times",
+      "date": "Aug 19, 26",
+      "source": "NME",
+      "layer": 5,
       "access": "pe",
       "score": 9,
       "moments": [
-        "venue_announcement"
+        "festival_headliner"
       ]
     },
     {
-      "id": "d57d7a794b2f",
-      "title": "PSG invests in construction software provider XBE",
-      "summary": "XBE founder and CEO Sean Devine and Banneker Partners will each retain significant ownership positions and Devine will continue to lead the company. The post PSG invests in construction software provi",
-      "company": "PSG",
-      "link": "https://www.pehub.com/psg-invests-in-construction-software-provider-xbe/",
+      "id": "443f3c7255e6",
+      "title": "Bill Rasmussen, who founded ESPN as the first 24/7 all-sports network, dies at 93",
+      "summary": "Bill Rasmussen, the founder of ESPN who revolutionized sports media, has died. He was 93 and suffered from Parkinson's disease.",
+      "company": "Bill Rasmussen",
+      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-08-19/espn-founder-bill-rasmussen-dead-at-93",
       "date": "Aug 19, 26",
+      "source": "LA Times Sports",
+      "layer": 3,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "24d3a7d674c4",
+      "title": "Phoenix Equity Partners backs Irish occupational health provider Medmark",
+      "summary": "Founded in 1987, Medmark provides occupational health, health screening, workplace medical assessment and employee wellbeing services to more than 500,000 employees from nine locations across Ireland.",
+      "company": "Phoenix Equity Partners",
+      "link": "https://www.pehub.com/phoenix-equity-partners-backs-irish-occupational-health-provider-medmark/",
+      "date": "Aug 20, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
@@ -374,18 +327,63 @@
       ]
     },
     {
-      "id": "0505a2002eec",
-      "title": "Machine Investment Group Closes Second Investment Fund at $350 Million Hard Cap",
-      "summary": "Fund II investment vehicle includes $350 million in primary commitments and $120 million in co-investments to date NEW YORK and WASHINGTON, Aug. 19, 2026 /PRNewswire/ -- Machine Investment Group, LP (",
-      "company": "",
-      "link": "https://www.prnewswire.com/news-releases/machine-investment-group-closes-second-investment-fund-at-350-million-hard-cap-302854847.html",
+      "id": "f7e84594bb76",
+      "title": "Vistria-backed Risepoint acquires healthcare edtech firm Keypath\u2019s North American operations",
+      "summary": "Based in Schaumburg, Illinois, Keypath is backed by Sterling Partners. The post Vistria-backed Risepoint acquires healthcare edtech firm Keypath&#8217;s North American operations appeared first on PE ",
+      "company": "Vistria-backed Risepoint",
+      "link": "https://www.pehub.com/vistria-backed-risepoint-acquires-healthcare-edtech-firm-keypaths-north-american-operations/",
       "date": "Aug 19, 26",
-      "source": "PR Newswire",
-      "layer": 2,
+      "source": "PE Hub",
+      "layer": 5,
       "access": "pe",
       "score": 9,
       "moments": [
-        "fund_launch"
+        "acquisition"
+      ]
+    },
+    {
+      "id": "ac89e7e70540",
+      "title": "Continental Resources to acquire Quantum-backed FireBird",
+      "summary": "FireBird is a Texas-based upstream oil and gas company focused on the responsible development of assets in the Midland Basin. The post Continental Resources to acquire Quantum-backed FireBird appeared",
+      "company": "Continental Resources to",
+      "link": "https://www.pehub.com/continental-resources-to-acquire-quantum-backed-firebird/",
+      "date": "Aug 20, 26",
+      "source": "PE Hub",
+      "layer": 2,
+      "access": "pe",
+      "score": 8,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "47567bd12a68",
+      "title": "Netflix Buys Wu-Tang Clan Doc \u2018The Disciple\u2019 Directed by Joanna Natasegara (EXCLUSIVE)",
+      "summary": "&#8220;The Disciple: A Wu-Tang Fable&#8221; the Sundance-bowing doc that unravelled the story of Dutch-Moroccan rapper and producer Cilvaringz and the making of the controversial Wu-Tang Clan record &",
+      "company": "Netflix Buys Wu-Tang Clan Doc \u2018The",
+      "link": "https://variety.com/2026/film/global/netflix-buys-wu-tang-clan-doc-the-disciple-1236838138/",
+      "date": "Aug 19, 26",
+      "source": "Variety Music",
+      "layer": 3,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "71ef80a50a30",
+      "title": "\u2018Building the Band\u2019 Group Soulidified Signs to Atlantic Records (EXCLUSIVE)",
+      "summary": "Soulidified has signed to Atlantic Records, just a year after they were introduced to the world on Netflix&#8217;s &#8220;Building the Band,&#8221; Variety can exclusively announce. The group, consist",
+      "company": "\u2018Building",
+      "link": "https://variety.com/2026/music/news/soulidified-signs-to-atlantic-records-building-the-band-1236837558/",
+      "date": "Aug 19, 26",
+      "source": "Variety Music",
+      "layer": 3,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "record_deal"
       ]
     },
     {
@@ -404,29 +402,16 @@
       ]
     },
     {
-      "id": "881848504255",
-      "title": "Jeanie Buss reportedly attempting to halt her siblings\u2019 attempt to sell remaining stake in Lakers",
-      "summary": "Jeanie Buss wants to remain as controlling ownerFamily were set to sell stake to Bob Iger and Josh KushnerJeanie Buss is reportedly challenging her siblings\u2019 attempt to sell the family\u2019s remaining sta",
-      "company": "Jeanie Buss",
-      "link": "https://www.theguardian.com/sport/2026/aug/17/jeanie-buss-reportedly-attempting-to-halt-her-siblings-attempt-to-sell-remaining-stake-in-lakers",
-      "date": "Aug 18, 26",
-      "source": "Guardian Sport",
+      "id": "fac099e42899",
+      "title": "DICE Deepens US Live Music Push With Five New Partnerships",
+      "summary": "DICE is adding a new slate of independent venues and promoters to its U.S. ticketing network, striking partnerships in New... The post DICE Deepens US Live Music Push With Five New Partnerships appear",
+      "company": "DICE Deepens US Live Music Push",
+      "link": "https://www.ticketnews.com/2026/08/dice-deepens-us-live-music-push-new-partnerships/",
+      "date": "Aug 19, 26",
+      "source": "Ticket News",
       "layer": 3,
       "access": "pe",
-      "score": 11,
-      "moments": []
-    },
-    {
-      "id": "163d60b17857",
-      "title": "Oak View Group Taps Tyler Bates to Lead Programming at UBS Arena",
-      "summary": "Oak View Group has named Tyler Bates Senior Vice President, Programming of UBS Arena, putting the veteran live entertainment executive... The post Oak View Group Taps Tyler Bates to Lead Programming a",
-      "company": "Oak View Group Taps Tyler Bates",
-      "link": "https://www.ticketnews.com/2026/08/oak-view-group-tyler-bates-ubs-arena/",
-      "date": "Aug 18, 26",
-      "source": "Ticket News",
-      "layer": 2,
-      "access": "pe",
-      "score": 9,
+      "score": 14,
       "moments": []
     },
     {
@@ -456,55 +441,68 @@
       "moments": []
     },
     {
-      "id": "45504bfa1335",
-      "title": "Shaikin: For Dodgers' Charley Steiner, a complete game three years in the making",
-      "summary": "For the first time since beating his cancer into remission, radio play-by-play broadcaster Charley Steiner called a complete game for the Dodgers.",
-      "company": "Shaikin",
-      "link": "https://www.latimes.com/sports/dodgers/story/2026-08-16/dodgers-charley-steiner-calls-complete-game-cancer-treatment",
-      "date": "Aug 16, 26",
-      "source": "LA Times Sports",
-      "layer": 3,
+      "id": "998b04696609",
+      "title": "\u2018Kpop Demon Hunters\u2019 Voices of Jinu and Abby Set One-Off Gig at Outernet in London",
+      "summary": "The Saja Boys are set to work their magic on the U.K. Andrew Choi and Neckwav \u2013 who play Jinu and Abby in Netflix\u2019s global hit \u201cKPop Demon Hunters\u201d \u2013 will play a one-off gig at Outernet Live in London",
+      "company": "\u2018Kpop Demon Hunters\u2019 Voices",
+      "link": "https://variety.com/2026/film/global/kpop-demon-hunters-jinu-abby-saja-boys-london-1236838851/",
+      "date": "Aug 20, 26",
+      "source": "Variety Music",
+      "layer": 2,
       "access": "pe",
-      "score": 5,
+      "score": 7,
       "moments": []
     },
     {
-      "id": "b26c8d60e2dc",
-      "title": "Trump's views can factor into prosecutions, Attorney General Todd Blanche says",
-      "summary": "Attorney General Todd Blanche refused Sunday to pledge the Justice Department's independence from the White House, saying he would consider President Trump's views on individual prosecutions.Why it ma",
-      "company": "Trump's",
-      "link": "https://www.axios.com/2026/08/16/todd-blanche-doj-independence-trump",
-      "date": "Aug 16, 26",
-      "source": "Axios",
-      "layer": 3,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "1361d9098fe1",
-      "title": "BlackRock-backed HPS and Oaktree take control of Hollywood production supplier MBS",
-      "summary": "Private credit investors HPS Investment Partners and Oaktree Capital Management have taken control of MBS Group after the production equipment supplier defaulted on its debt, highlighting the mounting",
-      "company": "BlackRock-backed HPS",
-      "link": "https://www.privateequitywire.co.uk/blackrock-backed-hps-and-oaktree-take-control-of-hollywood-production-supplier-mbs/",
+      "id": "e03fd3117a09",
+      "title": "Ariana Grande Granted Permission to Issue Expedited Subpoenas to Reveal Hacker Identities",
+      "summary": "Ariana Grande has been granted permission to subpoena information that will help reveal the identities of anonymous hackers who allegedly leaked unreleased songs and footage from recording sessions an",
+      "company": "Ariana Grande Granted Permission",
+      "link": "https://variety.com/2026/music/news/ariana-grande-permitted-subpoena-reveal-hacker-identities-1236838661/",
       "date": "Aug 19, 26",
-      "source": "PE Wire",
+      "source": "Variety Music",
+      "layer": 3,
+      "access": "pe",
+      "score": 7,
+      "moments": []
+    },
+    {
+      "id": "23f0cfbbd998",
+      "title": "Gang of Youths talk easing into a new era on \u2018Things Take Time\u2019: \u201cIt felt like a proper break with the past\u201d",
+      "summary": "Frontman David Le\u2019aupepe told NME about his band\u2019s obsession with death and rebirth, why an arena-sized return was never on the cards, and what to expect from the open-hearted rockers next The post Ga",
+      "company": "Gang",
+      "link": "https://www.nme.com/news/music/gang-of-youths-interview-david-le-aupepe-things-take-time-new-album-tour-3963715?utm_source=rss&utm_medium=rss&utm_campaign=gang-of-youths-interview-david-le-aupepe-things-take-time-new-album-tour",
+      "date": "Aug 19, 26",
+      "source": "NME",
+      "layer": 2,
+      "access": "pe",
+      "score": 7,
+      "moments": []
+    },
+    {
+      "id": "fac5f1d58358",
+      "title": "Latest Nielsen Tweaks Won\u2019t Lead to Another Huge Sports Ratings Boom",
+      "summary": "In advance of the official launch of the 2026-27 broadcast season, Nielsen is trotting out a number of new enhancements to its TV measurement scheme. While the refinements are designed to provide a mo",
+      "company": "Latest Nielsen Tweaks Won\u2019t Lead",
+      "link": "https://www.sportico.com/business/media/2026/nielsen-co-viewing-tweaks-sports-tv-ratings-1234942338/",
+      "date": "Aug 19, 26",
+      "source": "Sportico",
+      "layer": 3,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "73c81ab85ff4",
+      "title": "\u2018Insidious: Out of the Further\u2019 Review: Bringing Back the Dead",
+      "summary": "The sixth installment of the horror franchise tries to revamp it, but its reputation has declined with each new attempt at jump scares.",
+      "company": "\u2018Insidious: Out",
+      "link": "https://www.nytimes.com/2026/08/20/movies/insidious-out-of-the-further-review.html",
+      "date": "Aug 20, 26",
+      "source": "NYT Arts",
       "layer": 4,
       "access": "pe",
       "score": 5,
-      "moments": []
-    },
-    {
-      "id": "c3160e2f8305",
-      "title": "Christian metal band Demon Hunter sues Netflix over \u2018KPop Demon Hunters\u2019 trademark",
-      "summary": "The complaint claims customers are confusing their gigs with the animated group The post Christian metal band Demon Hunter sues Netflix over &#8216;KPop Demon Hunters&#8217; trademark appeared first o",
-      "company": "Christian",
-      "link": "https://www.nme.com/news/christian-metal-band-demon-hunter-sues-netflix-over-kpop-demon-hunters-trademark-3963646?utm_source=rss&utm_medium=rss&utm_campaign=christian-metal-band-demon-hunter-sues-netflix-over-kpop-demon-hunters-trademark",
-      "date": "Aug 19, 26",
-      "source": "NME",
-      "layer": 3,
-      "access": "pe",
-      "score": 4,
       "moments": []
     },
     {
