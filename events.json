@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-21T12:56:08.092193+00:00",
+  "generated": "2026-08-22T12:47:36.599084+00:00",
   "total": 35,
   "scraped": [
     {
@@ -132,22 +132,6 @@
       ]
     },
     {
-      "id": "e5a79a94b3af",
-      "title": "Daniel Ek\u2019s body-scanning startup Neko Health opens first US office, in New York",
-      "summary": "The scanning and bloodwork health startup founded by Spotify's founder will officially launch in New York in about a month.",
-      "company": "Daniel Ek\u2019s",
-      "link": "https://techcrunch.com/2026/08/18/daniel-eks-body-scanning-startup-neko-health-opens-first-us-office-in-new-york/",
-      "date": "Aug 18, 26",
-      "source": "TechCrunch Startups",
-      "layer": 1,
-      "access": "venture",
-      "score": 13,
-      "moments": [
-        "streaming_milestone",
-        "company_launch"
-      ]
-    },
-    {
       "id": "8567654d8934",
       "title": "Minority stake sales emerge as private equity\u2019s latest answer to the DPI squeeze",
       "summary": "Private equity sponsors are increasingly turning to minority stake sales and hybrid capital as pressure to generate distributions collides with a still-challenging exit environment, according to a new",
@@ -210,33 +194,33 @@
       ]
     },
     {
-      "id": "032be9cb9ec6",
-      "title": "Nonprofit Production Banner Waterwell Doubles Funding for Unseen Iran Grants to Artists Representing the Diaspora in Film, TV, Theater and More",
-      "summary": "Nonprofit production venture Waterwell, co-founded by &#8220;Succession&#8221; player Arian Moayed, and nonprofit Nimruz has doubled the funding for their program of Unseen Iran Grants now in its seco",
-      "company": "",
-      "link": "https://variety.com/2026/biz/news/arian-moayed-unseen-iran-grants-waterwell-nimruz-1236836821/",
-      "date": "Aug 18, 26",
-      "source": "Variety Biz",
-      "layer": 1,
-      "access": "venture",
-      "score": 19,
+      "id": "94c964512a3a",
+      "title": "Marc Lore to Sell Timberwolves, Lynx at $4.5 Billion Valuation",
+      "summary": "The Minnesota Timberwolves are being sold again only 14 months after Marc Lore and Alex Rodriguez secured the franchise after a protracted sales process that lasted four years. Marc Stad, a limited pa",
+      "company": "Marc Lore",
+      "link": "https://www.sportico.com/business/team-sales/2026/minnesota-timberwolves-lynx-sold-stad-1234942577/",
+      "date": "Aug 21, 26",
+      "source": "Sportico",
+      "layer": 3,
+      "access": "pe",
+      "score": 18,
       "moments": [
-        "company_launch"
+        "lp_commitment"
       ]
     },
     {
-      "id": "3076280b4a52",
-      "title": "Jorja Smith to headline The O2 as part of London venue\u2019s 20th birthday celebrations",
-      "summary": "Other artists celebrating the milestone include Don Omar and Maisie Peters The post Jorja Smith to headline The O2 as part of London venue&#8217;s 20th birthday celebrations appeared first on NME.",
-      "company": "Jorja Smith",
-      "link": "https://www.nme.com/news/music/jorja-smith-to-headline-the-o2-as-part-of-london-venues-20th-birthday-celebrations-3963959?utm_source=rss&utm_medium=rss&utm_campaign=jorja-smith-to-headline-the-o2-as-part-of-london-venues-20th-birthday-celebrations",
+      "id": "810f15365bad",
+      "title": "Vertical Media on Track to Generate $150 Billion in 2026 as the Booming Sector Fights Crowded Content Field and High Subscriber Acquisition Costs",
+      "summary": "There\u2019s no doubt that 2026 will go down as a milestone year for the growth in popularity of vertical media content in the U.S. The sector is booming but still incredibly diffuse. That will change as m",
+      "company": "Vertical Media",
+      "link": "https://variety.com/2026/digital/news/vertical-media-150-billion-tiktok-microdramas-owl-co-1236840519/",
       "date": "Aug 21, 26",
-      "source": "NME",
-      "layer": 1,
+      "source": "Variety Biz",
+      "layer": 2,
       "access": "pe",
-      "score": 16,
+      "score": 18,
       "moments": [
-        "festival_headliner"
+        "acquisition"
       ]
     },
     {
@@ -270,18 +254,33 @@
       ]
     },
     {
-      "id": "37f65c0f81f0",
-      "title": "Jamie T previews material and delivers fan favourites at intimate London gig as he announces 2026 UK tour",
-      "summary": "See what went down at Jamie T's first live performance in almost exactly two years as he previewed new album 'Ghosts (100 Days Of Morning)\u2019 and shared news of more December shows The post Jamie T prev",
-      "company": "Jamie",
-      "link": "https://www.nme.com/news/music/jamie-t-london-scala-gig-photos-footage-setlist-2026-uk-tour-tickets-3963883?utm_source=rss&utm_medium=rss&utm_campaign=jamie-t-london-scala-gig-photos-footage-setlist-2026-uk-tour-tickets",
+      "id": "2ce35080d2bc",
+      "title": "Sportico Transactions: Moves and Mergers Roundup for Aug. 21",
+      "summary": "Welcome to Sportico\u2019s transactions wire, a weekly rundown of personnel, partnerships and products across the sports business industry. PERSONNEL Legends Global Appoints Aimee Carroll as President of M",
+      "company": "Sportico Transactions",
+      "link": "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-roundup-aug-21-1234942542/",
       "date": "Aug 21, 26",
-      "source": "NME",
+      "source": "Sportico",
+      "layer": 2,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "9c343694bbd0",
+      "title": "Sam Smith Wears Their Heart on Their Sleeve With the Lovestruck \u2018Hazel Eyes\u2019: Album Review",
+      "summary": "It\u2019s sometimes easy to forget what a massively successful artist Sam Smith is: five Grammys, an estimated 65 million albums sold and nearly 60 billion streams, a James Bond theme and multiple No. 1 si",
+      "company": "Sam Smith Wears Their Heart",
+      "link": "https://variety.com/2026/music/news/sam-smith-hazel-eyes-album-review-1236837727/",
+      "date": "Aug 21, 26",
+      "source": "Variety Music",
       "layer": 1,
       "access": "pe",
       "score": 14,
       "moments": [
-        "album_announcement"
+        "streaming_milestone"
       ]
     },
     {
@@ -300,6 +299,51 @@
       ]
     },
     {
+      "id": "561b279a5f07",
+      "title": "KKR-backed Arctos in talks to acquire 10% stake in Atlanta Falcons",
+      "summary": "KKR-backed sports investment firm Arctos Partners is in discussions to acquire a 10% minority interest in NFL franchise the Atlanta Falcons, according to a report by Bloomberg citing unnamed people fa",
+      "company": "KKR-backed Arctos in talks to",
+      "link": "https://www.privateequitywire.co.uk/kkr-backed-arctos-in-talks-to-acquire-10-stake-in-atlanta-falcons/",
+      "date": "Aug 21, 26",
+      "source": "PE Wire",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "dc2a0cc972d1",
+      "title": "Bonnaroo cancels 2027 edition as extreme weather pounds music festivals",
+      "summary": "The Bonnaroo Music and Arts Festival in Tennessee will take a year off in 2027 after years of weather disruptions and efforts to improve the festival grounds.",
+      "company": "Bonnaroo",
+      "link": "https://www.latimes.com/entertainment-arts/story/2026-08-21/bonnaroo-canceled-2027-extreme-weather",
+      "date": "Aug 21, 26",
+      "source": "LA Times Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "ca8c4797748b",
+      "title": "Add to playlist: the heartbreak post-mortems of Cape Town\u2019s Rowlene and the week\u2019s best new tracks",
+      "summary": "The South African singer has been a memorable guest artist, but the unhurried, emotional tracks on new album Some Strings Attached show she\u2019s ready for the spotlightFrom Cape Town, South AfricaRecomme",
+      "company": "Add to playlist",
+      "link": "https://www.theguardian.com/music/2026/aug/14/add-to-playlist-rowlene",
+      "date": "Aug 14, 26",
+      "source": "Guardian Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
       "id": "8fcca9b98a64",
       "title": "Battle Investment Group completes sale of TRS Services to Allied Power Group",
       "summary": "TRS Services, founded in 1998, provides maintenance, repair, and overhaul services for industrial gas turbine components from two facilities in Houston. The post Battle Investment Group completes sale",
@@ -315,14 +359,14 @@
       ]
     },
     {
-      "id": "420ca4301d28",
-      "title": "Jaafar Jackson says \u2018Michael 2\u2019 will show child abuse scandal from Michael Jackson\u2019s \u201cpoint of view\u201d",
-      "summary": "The follow-up to the highest-grossing biopic of all time is due to start shooting later this year The post Jaafar Jackson says &#8216;Michael 2&#8217; will show child abuse scandal from Michael Jackso",
-      "company": "Jaafar Jackson",
-      "link": "https://www.nme.com/news/film/jaafar-jackson-says-michael-2-will-show-child-abuse-scandal-from-michael-jacksons-point-of-view-3963953?utm_source=rss&utm_medium=rss&utm_campaign=jaafar-jackson-says-michael-2-will-show-child-abuse-scandal-from-michael-jacksons-point-of-view",
-      "date": "Aug 21, 26",
-      "source": "NME",
-      "layer": 5,
+      "id": "b3ec9eaaa364",
+      "title": "Robbie Williams to Perform at Australia\u2019s Melbourne Cup Day",
+      "summary": "The record-breaking British pop star will play the Flemington mounting yard before kicking off his BRITPOP arena run.",
+      "company": "Robbie Williams",
+      "link": "https://www.billboard.com/music/concerts/robbie-williams-2026-melbourne-cup-1236322393/",
+      "date": "Aug 22, 26",
+      "source": "Billboard",
+      "layer": 2,
       "access": "pe",
       "score": 9,
       "moments": [
@@ -345,103 +389,81 @@
       ]
     },
     {
-      "id": "2f3ee2ac8f6c",
-      "title": "StubHub, viagogo Target Arts Sector With New Spektrix Integration",
-      "summary": "StubHub and viagogo have partnered with arts and culture technology provider Spektrix, giving venues and cultural organizations a new way... The post StubHub, viagogo Target Arts Sector With New Spekt",
-      "company": "StubHub",
-      "link": "https://www.ticketnews.com/2026/08/stubhub-viagogo-target-arts-sector-spektrix-integration/",
-      "date": "Aug 20, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 11,
-      "moments": []
-    },
-    {
-      "id": "353123d61da5",
-      "title": "Lincoln City Taps Oak View Group to Upgrade ProAmpac Stadium Hospitality",
-      "summary": "Lincoln City FC has partnered with Oak View Group as the club looks to overhaul the food, drink and hospitality... The post Lincoln City Taps Oak View Group to Upgrade ProAmpac Stadium Hospitality app",
-      "company": "Lincoln City Taps Oak View Group",
-      "link": "https://www.ticketnews.com/2026/08/lincoln-city-taps-oak-view-group-upgrade-proampac-stadium/",
-      "date": "Aug 20, 26",
-      "source": "Ticket News",
-      "layer": 2,
-      "access": "pe",
-      "score": 11,
-      "moments": []
-    },
-    {
-      "id": "e10f9b5b1423",
-      "title": "Christian Metal Band Demon Hunter Sues Netflix Over \u2018KPop Demon Hunters,\u2019 Citing Trademark Infringement",
-      "summary": "Christian metal band Demon Hunters have filed a lawsuit against Netflix and AEG Presents over the streamer\u2019s mega-hit animated film \u201cKPop Demon Hunters.\u201d The band, which filed the lawsuit under its co",
-      "company": "Christian Metal Band Demon Hunter Sues",
-      "link": "https://variety.com/2026/music/global/christian-metal-band-netflix-kpop-demon-hunters-1236839131/",
-      "date": "Aug 20, 26",
-      "source": "Variety Music",
-      "layer": 3,
+      "id": "515b92cfbcd0",
+      "title": "PE-backed Ode with Anthropic acquires AI services firm Casper Studios",
+      "summary": "Ode is a San Francisco-based enterprise AI transformation company. The post PE-backed Ode with Anthropic acquires AI services firm Casper Studios appeared first on PE Hub.",
+      "company": "PE-backed Ode with Anthropic",
+      "link": "https://www.pehub.com/pe-backed-ode-with-anthropic-acquires-ai-services-firm-casper-studios/",
+      "date": "Aug 21, 26",
+      "source": "PE Hub",
+      "layer": 5,
       "access": "pe",
       "score": 9,
-      "moments": []
+      "moments": [
+        "acquisition"
+      ]
     },
     {
-      "id": "6540f5e3d7a8",
-      "title": "Watch Jonas Brothers Debut New Single \u2018Listen When Sad\u2019 Live at Madison Square Garden",
-      "summary": "The trio brought their Burning Up Tour: All Over Again to the New York City venue on Thursday night",
-      "company": "Watch Jonas Brothers Debut New Single",
-      "link": "https://www.rollingstone.com/music/music-news/jonas-brothers-listen-when-sad-new-single-live-msg-1235612635/",
+      "id": "4ec448288095",
+      "title": "Michael Jackson movie sequel will address child abuse allegations from \u201chis point of view\u201d says Jaafar Jackson",
+      "summary": "The record-breaking biopic was forced to reshoot scenes referencing the allegations after the discovery of a clause in a legal settlement The post Michael Jackson movie sequel will address child abuse",
+      "company": "Michael Jackson",
+      "link": "https://www.nme.com/news/film/michael-jackson-movie-sequel-will-address-child-abuse-allegations-from-his-point-of-view-says-jaafar-jackson-3964065?utm_source=rss&utm_medium=rss&utm_campaign=michael-jackson-movie-sequel-will-address-child-abuse-allegations-from-his-point-of-view-says-jaafar-jackson",
+      "date": "Aug 22, 26",
+      "source": "NME",
+      "layer": 3,
+      "access": "pe",
+      "score": 8,
+      "moments": [
+        "record_breaking"
+      ]
+    },
+    {
+      "id": "fa3a91e13429",
+      "title": "The Weeknd wraps five-night sold-out run at Wembley Stadium and raises more than $350k for charity",
+      "summary": "The UK leg of the 'After Hours Til Dawn' tour attracted more than 450,000 fans The post The Weeknd wraps five-night sold-out run at Wembley Stadium and raises more than $350k for charity appeared firs",
+      "company": "The Weeknd",
+      "link": "https://www.nme.com/news/music/the-weeknd-wraps-five-night-sold-out-run-at-wembley-stadium-and-raises-more-than-350k-for-charity-3964041?utm_source=rss&utm_medium=rss&utm_campaign=the-weeknd-wraps-five-night-sold-out-run-at-wembley-stadium-and-raises-more-than-350k-for-charity",
       "date": "Aug 21, 26",
-      "source": "Rolling Stone Music",
+      "source": "NME",
       "layer": 2,
       "access": "pe",
-      "score": 8,
+      "score": 13,
       "moments": []
     },
     {
-      "id": "47c5c942af9e",
-      "title": "Perplexity\u2019s free AI offer left it with millions more users in India",
-      "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
-      "company": "Perplexity\u2019s",
-      "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
-      "date": "Aug 18, 26",
-      "source": "TechCrunch Startups",
+      "id": "400b013fb50b",
+      "title": "Carlyle, Longshore, Serent go for RCM platforms; Federal rules drive SEVA to healthcare price transparency sector",
+      "summary": "Vendors providing revenue cycle management are attracting attention from PE dealmakers, like Carlyle, Longshore Capital Partners and Serent Capital; SEVA announced an investment in the healthcare pric",
+      "company": "Carlyle Longshore Serent",
+      "link": "https://www.pehub.com/carlyle-longshore-serent-go-for-rcm-platforms-federal-rules-drive-seva-to-healthcare-price-transparency-sector/",
+      "date": "Aug 21, 26",
+      "source": "PE Hub",
       "layer": 2,
       "access": "pe",
-      "score": 8,
+      "score": 13,
       "moments": []
     },
     {
-      "id": "3c1f93e6d25a",
-      "title": "America's debt is getting more expensive",
-      "summary": "Governments around the world are entering a new era of higher borrowing costs already deeply indebted. More revenue will go toward interest payments as old debt gets refinanced at today's higher rates",
-      "company": "America's",
-      "link": "https://www.axios.com/2026/08/18/debt-revenue-interest-defense-spending",
-      "date": "Aug 18, 26",
+      "id": "116b323f1f34",
+      "title": "Scoop: DOJ, TikTok settle for $400 million in children's privacy suit",
+      "summary": "The Justice Department and TikTok, along with parent company ByteDance, have reached a $400 million settlement to resolve allegations of violating children's online privacy laws, per an announcement f",
+      "company": "Scoop",
+      "link": "https://www.axios.com/2026/08/21/doj-tiktok-biden-lawsuit-settlement",
+      "date": "Aug 21, 26",
       "source": "Axios",
-      "layer": 2,
+      "layer": 3,
       "access": "pe",
       "score": 8,
       "moments": []
     },
     {
-      "id": "00a0efb17dac",
-      "title": "Sunrise Capital Investors Named No. 1155 on the 2026 Inc. 5000 List, the Most Prestigious Ranking of America's Fastest-Growing Private Companies",
-      "summary": "Company Recognized for 302% Three-Year Revenue Growth, Earning a Place Among the Nation's Most Successful Independent Businesses TAMPA, Fla., Aug. 21, 2026 /PRNewswire/ -- Sunrise Capital Investors to",
-      "company": "Sunrise Capital Investors Named No",
-      "link": "https://www.prnewswire.com/news-releases/sunrise-capital-investors-named-no-1155-on-the-2026-inc-5000-list-the-most-prestigious-ranking-of-americas-fastest-growing-private-companies-302856960.html",
+      "id": "0c4ee4ddbd0a",
+      "title": "\u2018Prehistoric Planet: Ice Age\u2019 Soundtrack Features New Music by Composers Hans Zimmer, Kara Talve and An\u017ee Rozman",
+      "summary": "The soundtrack for Apple TV&#8217;s &#8220;Prehistoric Planet: Ice Age&#8221; has been released, featuring music by Hans Zimmer and fellow composers Kara Talve and An\u017ee Rozman. The score was written b",
+      "company": "",
+      "link": "https://variety.com/2026/artisans/awards/prehistoric-planet-ice-age-soundtrack-hans-zimmer-1236839961/",
       "date": "Aug 21, 26",
-      "source": "PR Newswire",
-      "layer": 2,
-      "access": "pe",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "e03fd3117a09",
-      "title": "Ariana Grande Granted Permission to Issue Expedited Subpoenas to Reveal Hacker Identities",
-      "summary": "Ariana Grande has been granted permission to subpoena information that will help reveal the identities of anonymous hackers who allegedly leaked unreleased songs and footage from recording sessions an",
-      "company": "Ariana Grande Granted Permission",
-      "link": "https://variety.com/2026/music/news/ariana-grande-permitted-subpoena-reveal-hacker-identities-1236838661/",
-      "date": "Aug 19, 26",
       "source": "Variety Music",
       "layer": 3,
       "access": "pe",
@@ -449,13 +471,13 @@
       "moments": []
     },
     {
-      "id": "d930d400cdf0",
-      "title": "Ticketmaster cancels tout tickets to Olivia Rodrigo\u2019s \u2018The Unraveled Tour\u2019, and fans can now get them at face value",
-      "summary": "The huge tour kicks off in North America next month The post Ticketmaster cancels tout tickets to Olivia Rodrigo\u2019s &#8216;The Unraveled Tour&#8217;, and fans can now get them at face value appeared fi",
-      "company": "Ticketmaster",
-      "link": "https://www.nme.com/news/music/ticketmaster-cancels-tout-tickets-to-olivia-rodrigos-the-unraveled-tour-and-fans-can-now-get-them-at-face-value-3963930?utm_source=rss&utm_medium=rss&utm_campaign=ticketmaster-cancels-tout-tickets-to-olivia-rodrigos-the-unraveled-tour-and-fans-can-now-get-them-at-face-value",
+      "id": "27e3781c8308",
+      "title": "Ticketmaster Claims It \u2018Recovered\u2019 Olivia Rodrigo Tickets From Scalpers, Will List for Face Value",
+      "summary": "Ticketmaster revealed that it had \u201crecovered\u201d tickets for Olivia Rodrigo\u2019s \u201cThe Unraveled Tour\u201d from scalpers and will re-list them for... The post Ticketmaster Claims It \u2018Recovered\u2019 Olivia Rodrigo Ti",
+      "company": "",
+      "link": "https://www.ticketnews.com/2026/08/ticketmaster-claims-it-recovered-olivia-rodrigo-tickets-from-scalpers-will-list-for-face-value/",
       "date": "Aug 21, 26",
-      "source": "NME",
+      "source": "Ticket News",
       "layer": 3,
       "access": "pe",
       "score": 7,
@@ -470,19 +492,6 @@
       "date": "Aug 20, 26",
       "source": "Front Office Sports",
       "layer": 4,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "a8c70ce4c4a2",
-      "title": "Noah Reed, Katy Winge Form New Nuggets Broadcast Team",
-      "summary": "Jerome Miron-Imagn Images",
-      "company": "Noah Reed Katy Winge Form New",
-      "link": "https://frontofficesports.com/noah-reed-katy-winge-nuggets-broadcast-team/",
-      "date": "Aug 19, 26",
-      "source": "Front Office Sports",
-      "layer": 3,
       "access": "pe",
       "score": 5,
       "moments": []
