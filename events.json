@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-22T12:47:36.599084+00:00",
-  "total": 35,
+  "generated": "2026-08-23T12:48:11.556786+00:00",
+  "total": 37,
   "scraped": [
     {
       "id": "f77bf8f7a3b9",
@@ -164,6 +164,21 @@
       ]
     },
     {
+      "id": "e9c36d3008c4",
+      "title": "Knitting Factory Entertainment Acquires Minority Stake in Does Entertainment, Forming Strategic Growth Partnership to Expand National Live...",
+      "summary": "Companies Align to Accelerate Venue Development, Talent Buying, Concert Promotion and Strategic Growth Across North America Los Angeles, CA / Wilmington, NC, July 14, 2026 \u2013&#160;Knitting Factory Ente",
+      "company": "",
+      "link": "https://venuestoday.com/knitting-factory-entertainment-acquires-minority-stake-in-does-entertainment-forming-strategic-growth-partnership-to-expand-national-live-entertainment-platform/",
+      "date": "Jul 15, 26",
+      "source": "Venues Today",
+      "layer": 2,
+      "access": "pe",
+      "score": 24,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
       "id": "3d04aec678b3",
       "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
       "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
@@ -284,6 +299,21 @@
       ]
     },
     {
+      "id": "637addc71362",
+      "title": "See King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Queens Show",
+      "summary": "E Street Band drummer fills in for his son and friend of the band Jay Weinberg at Australian psych-rockers' Forest Hills Stadium concert",
+      "company": "See King Gizzard",
+      "link": "https://www.rollingstone.com/music/music-news/king-gizzard-and-the-lizard-wizard-max-weinberg-queens-show-1235613346/",
+      "date": "Aug 22, 26",
+      "source": "Rolling Stone Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "surprise_appearance"
+      ]
+    },
+    {
       "id": "cb54bb1374ba",
       "title": "PE backs specialty-focused healthcare RCM services: 8 deals",
       "summary": "Carlyle, Francisco Partners, New Mountain and Serent are among the PE firms investing in revenue cycle management platforms. The post PE backs specialty-focused healthcare RCM services: 8 deals appear",
@@ -314,33 +344,18 @@
       ]
     },
     {
-      "id": "dc2a0cc972d1",
-      "title": "Bonnaroo cancels 2027 edition as extreme weather pounds music festivals",
-      "summary": "The Bonnaroo Music and Arts Festival in Tennessee will take a year off in 2027 after years of weather disruptions and efforts to improve the festival grounds.",
-      "company": "Bonnaroo",
-      "link": "https://www.latimes.com/entertainment-arts/story/2026-08-21/bonnaroo-canceled-2027-extreme-weather",
-      "date": "Aug 21, 26",
-      "source": "LA Times Music",
+      "id": "c326e3623813",
+      "title": "Watch Zara Larsson and PinkPantheress perform \u2018Stateside\u2019 together for first time at All Points East",
+      "summary": "The surprise appearance marked one of the biggest pop crossover moments of the London festival The post Watch Zara Larsson and PinkPantheress perform &#8216;Stateside&#8217; together for first time at",
+      "company": "Watch Zara Larsson",
+      "link": "https://www.nme.com/news/music/watch-zara-larsson-and-pinkpantheress-perform-stateside-together-for-first-time-at-all-points-east-3964165?utm_source=rss&utm_medium=rss&utm_campaign=watch-zara-larsson-and-pinkpantheress-perform-stateside-together-for-first-time-at-all-points-east",
+      "date": "Aug 23, 26",
+      "source": "NME",
       "layer": 1,
       "access": "pe",
       "score": 13,
       "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "ca8c4797748b",
-      "title": "Add to playlist: the heartbreak post-mortems of Cape Town\u2019s Rowlene and the week\u2019s best new tracks",
-      "summary": "The South African singer has been a memorable guest artist, but the unhurried, emotional tracks on new album Some Strings Attached show she\u2019s ready for the spotlightFrom Cape Town, South AfricaRecomme",
-      "company": "Add to playlist",
-      "link": "https://www.theguardian.com/music/2026/aug/14/add-to-playlist-rowlene",
-      "date": "Aug 14, 26",
-      "source": "Guardian Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "album_announcement"
+        "surprise_appearance"
       ]
     },
     {
@@ -359,31 +374,16 @@
       ]
     },
     {
-      "id": "b3ec9eaaa364",
-      "title": "Robbie Williams to Perform at Australia\u2019s Melbourne Cup Day",
-      "summary": "The record-breaking British pop star will play the Flemington mounting yard before kicking off his BRITPOP arena run.",
-      "company": "Robbie Williams",
-      "link": "https://www.billboard.com/music/concerts/robbie-williams-2026-melbourne-cup-1236322393/",
-      "date": "Aug 22, 26",
-      "source": "Billboard",
-      "layer": 2,
+      "id": "ed24e331be68",
+      "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
+      "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
+      "company": "Niloufar Banisaied",
+      "link": "https://venuestoday.com/niloufar-banisaied-is-bringing-timeless-design-and-the-guest-experience-at-the-forefront/",
+      "date": "Jun 09, 26",
+      "source": "Venues Today",
+      "layer": 4,
       "access": "pe",
-      "score": 9,
-      "moments": [
-        "record_breaking"
-      ]
-    },
-    {
-      "id": "443f3c7255e6",
-      "title": "Bill Rasmussen, who founded ESPN as the first 24/7 all-sports network, dies at 93",
-      "summary": "Bill Rasmussen, the founder of ESPN who revolutionized sports media, has died. He was 93 and suffered from Parkinson's disease.",
-      "company": "Bill Rasmussen",
-      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-08-19/espn-founder-bill-rasmussen-dead-at-93",
-      "date": "Aug 19, 26",
-      "source": "LA Times Sports",
-      "layer": 3,
-      "access": "pe",
-      "score": 9,
+      "score": 11,
       "moments": [
         "company_launch"
       ]
@@ -404,32 +404,19 @@
       ]
     },
     {
-      "id": "4ec448288095",
-      "title": "Michael Jackson movie sequel will address child abuse allegations from \u201chis point of view\u201d says Jaafar Jackson",
-      "summary": "The record-breaking biopic was forced to reshoot scenes referencing the allegations after the discovery of a clause in a legal settlement The post Michael Jackson movie sequel will address child abuse",
-      "company": "Michael Jackson",
-      "link": "https://www.nme.com/news/film/michael-jackson-movie-sequel-will-address-child-abuse-allegations-from-his-point-of-view-says-jaafar-jackson-3964065?utm_source=rss&utm_medium=rss&utm_campaign=michael-jackson-movie-sequel-will-address-child-abuse-allegations-from-his-point-of-view-says-jaafar-jackson",
-      "date": "Aug 22, 26",
-      "source": "NME",
+      "id": "f3a1d1554548",
+      "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
+      "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
+      "company": "Navigating",
+      "link": "https://venuestoday.com/navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026/",
+      "date": "Apr 22, 26",
+      "source": "Venues Today",
       "layer": 3,
       "access": "pe",
-      "score": 8,
+      "score": 6,
       "moments": [
-        "record_breaking"
+        "acquisition"
       ]
-    },
-    {
-      "id": "fa3a91e13429",
-      "title": "The Weeknd wraps five-night sold-out run at Wembley Stadium and raises more than $350k for charity",
-      "summary": "The UK leg of the 'After Hours Til Dawn' tour attracted more than 450,000 fans The post The Weeknd wraps five-night sold-out run at Wembley Stadium and raises more than $350k for charity appeared firs",
-      "company": "The Weeknd",
-      "link": "https://www.nme.com/news/music/the-weeknd-wraps-five-night-sold-out-run-at-wembley-stadium-and-raises-more-than-350k-for-charity-3964041?utm_source=rss&utm_medium=rss&utm_campaign=the-weeknd-wraps-five-night-sold-out-run-at-wembley-stadium-and-raises-more-than-350k-for-charity",
-      "date": "Aug 21, 26",
-      "source": "NME",
-      "layer": 2,
-      "access": "pe",
-      "score": 13,
-      "moments": []
     },
     {
       "id": "400b013fb50b",
@@ -442,6 +429,19 @@
       "layer": 2,
       "access": "pe",
       "score": 13,
+      "moments": []
+    },
+    {
+      "id": "ac196e758499",
+      "title": "Bruno Mars Is the Greatest Showman Alive on The Romantic Tour",
+      "summary": "At a sold-out MetLife Stadium, singer made an undeniable case, nobody does it like him.",
+      "company": "Bruno Mars Is",
+      "link": "https://www.rollingstone.com/music/music-live-reviews/bruno-mars-the-romantic-tour-metlife-stadium-live-review-1235613332/",
+      "date": "Aug 22, 26",
+      "source": "Rolling Stone Music",
+      "layer": 2,
+      "access": "pe",
+      "score": 8,
       "moments": []
     },
     {
@@ -484,6 +484,19 @@
       "moments": []
     },
     {
+      "id": "012b46a816ce",
+      "title": "Christian Metal Band Demon Hunter Files Trademark Lawsuit Against Netflix Over \u2018Kpop Demon Hunters\u2019",
+      "summary": "The Christian metal band Demon Hunter has filed a trademark lawsuit in federal court against Netflix over their highly-successful film... The post Christian Metal Band Demon Hunter Files Trademark Law",
+      "company": "Christian Metal Band Demon Hunter Files",
+      "link": "https://www.ticketnews.com/2026/08/metal-band-demon-hunter-trademark-lawsuit-netflix/",
+      "date": "Aug 21, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 7,
+      "moments": []
+    },
+    {
       "id": "bd4b9b4d1cb8",
       "title": "With New Lawsuit, 5th Year Eligibility Battle Reaches NCAA D-II, D-III",
       "summary": "USA TODAY Network via Reuters Connect",
@@ -517,6 +530,19 @@
       "link": "https://www.latimes.com/entertainment-arts/story/2026-08-20/post-malone-engaged-christy-lee",
       "date": "Aug 20, 26",
       "source": "LA Times Music",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "8f95fdb4c719",
+      "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
+      "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
+      "company": "Global Times",
+      "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/",
+      "date": "May 09, 26",
+      "source": "Venues Today",
       "layer": 4,
       "access": "pe",
       "score": 4,
