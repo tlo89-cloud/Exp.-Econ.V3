@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T12:48:11.556786+00:00",
-  "total": 37,
+  "generated": "2026-08-24T12:58:31.381845+00:00",
+  "total": 34,
   "scraped": [
     {
       "id": "f77bf8f7a3b9",
@@ -36,6 +36,22 @@
       ]
     },
     {
+      "id": "2f2a9cbb6416",
+      "title": "Azalea raises $1bn across three PE products, but flagship fund size shrinks 35%",
+      "summary": "Temasek-backed Azalea Investment Management has raised more than $1bn across three private equity products, with the launch of its first evergreen vehicle helping offset a substantial reduction in the",
+      "company": "Azalea",
+      "link": "https://www.altassets.net/private-equity-news/by-region/asia-by-region/singapore-asia-by-region-by-region/azalea-raises-1bn-across-three-pe-products-but-flagship-fund-size-shrinks-35.html",
+      "date": "Aug 24, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 19,
+      "moments": [
+        "funding_round",
+        "pe_investment"
+      ]
+    },
+    {
       "id": "523bc4c1dbb3",
       "title": "Machine Investment Group hits $350m hard cap Fund II close, 42% above debut vehicle size",
       "summary": "Machine Investment Group has increased the primary capital in its flagship real estate strategy by more than 40%, closing Machine Real Estate Fund II at its $350m hard cap. The post Machine Investment",
@@ -68,38 +84,6 @@
       ]
     },
     {
-      "id": "d5314a307378",
-      "title": "OceanSound Partners-backed Certerra acquires Skyrise Engineering and Testing in Florida",
-      "summary": "Skyrise Engineering and Testing, founded in 2022, has grown into one of South Florida's most trusted geotechnical and materials testing firms, led by founders Eric Stern and Richard Fesdjian, who brin",
-      "company": "OceanSound Partners-backed Certerra",
-      "link": "https://www.pehub.com/oceansound-partners-backed-certerra-acquires-skyrise-engineering-and-testing-in-florida/",
-      "date": "Aug 20, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "acquisition",
-        "company_launch"
-      ]
-    },
-    {
-      "id": "472100cb1dee",
-      "title": "EQT takes majority stake in Melbourne Storm",
-      "summary": "Swedish private equity firm EQT has acquired a majority interest in Australian rugby league club Melbourne Storm, marking its first direct investment in a professional sports team according to a repor",
-      "company": "EQT",
-      "link": "https://www.privateequitywire.co.uk/eqt-takes-majority-stake-in-melbourne-storm/",
-      "date": "Aug 20, 26",
-      "source": "PE Wire",
-      "layer": 1,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "acquisition",
-        "pe_investment"
-      ]
-    },
-    {
       "id": "31cf15528507",
       "title": "Broadwing beats target with $440m debut fund as emerging manager scales buy-and-build strategy",
       "summary": "Broadwing Capital has closed its inaugural institutional private equity fund on $440m, beating its $350m target, as the four-year-old manager looks to scale a lower mid-market buy-and-build strategy t",
@@ -113,22 +97,6 @@
       "moments": [
         "acquisition",
         "pe_investment"
-      ]
-    },
-    {
-      "id": "31415151ca03",
-      "title": "Homestead Capital launches first agri credit fund with $150m pension anchor",
-      "summary": "Homestead Capital has held the first close of its debut commingled agriculture private credit fund, securing a $150m anchor commitment from a large US state pension system as it expands beyond the far",
-      "company": "Homestead Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/homestead-capital-launches-first-agri-credit-fund-with-150m-pension-anchor.html",
-      "date": "Aug 18, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
       ]
     },
     {
@@ -161,21 +129,6 @@
       "moments": [
         "pe_investment",
         "fund_launch"
-      ]
-    },
-    {
-      "id": "e9c36d3008c4",
-      "title": "Knitting Factory Entertainment Acquires Minority Stake in Does Entertainment, Forming Strategic Growth Partnership to Expand National Live...",
-      "summary": "Companies Align to Accelerate Venue Development, Talent Buying, Concert Promotion and Strategic Growth Across North America Los Angeles, CA / Wilmington, NC, July 14, 2026 \u2013&#160;Knitting Factory Ente",
-      "company": "",
-      "link": "https://venuestoday.com/knitting-factory-entertainment-acquires-minority-stake-in-does-entertainment-forming-strategic-growth-partnership-to-expand-national-live-entertainment-platform/",
-      "date": "Jul 15, 26",
-      "source": "Venues Today",
-      "layer": 2,
-      "access": "pe",
-      "score": 24,
-      "moments": [
-        "acquisition"
       ]
     },
     {
@@ -269,6 +222,21 @@
       ]
     },
     {
+      "id": "a078e8cf94de",
+      "title": "PE firms deploy AI teams to transform portfolio companies",
+      "summary": "Private equity firms are increasingly embedding artificial intelligence specialists within portfolio companies as sponsors look to use the technology to develop new products, improve operations and cr",
+      "company": "PE",
+      "link": "https://www.privateequitywire.co.uk/pe-firms-deploy-ai-teams-to-transform-portfolio-companies/",
+      "date": "Aug 24, 26",
+      "source": "PE Wire",
+      "layer": 2,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
       "id": "2ce35080d2bc",
       "title": "Sportico Transactions: Moves and Mergers Roundup for Aug. 21",
       "summary": "Welcome to Sportico\u2019s transactions wire, a weekly rundown of personnel, partnerships and products across the sports business industry. PERSONNEL Legends Global Appoints Aimee Carroll as President of M",
@@ -281,21 +249,6 @@
       "score": 14,
       "moments": [
         "acquisition"
-      ]
-    },
-    {
-      "id": "9c343694bbd0",
-      "title": "Sam Smith Wears Their Heart on Their Sleeve With the Lovestruck \u2018Hazel Eyes\u2019: Album Review",
-      "summary": "It\u2019s sometimes easy to forget what a massively successful artist Sam Smith is: five Grammys, an estimated 65 million albums sold and nearly 60 billion streams, a James Bond theme and multiple No. 1 si",
-      "company": "Sam Smith Wears Their Heart",
-      "link": "https://variety.com/2026/music/news/sam-smith-hazel-eyes-album-review-1236837727/",
-      "date": "Aug 21, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "streaming_milestone"
       ]
     },
     {
@@ -329,63 +282,93 @@
       ]
     },
     {
-      "id": "561b279a5f07",
-      "title": "KKR-backed Arctos in talks to acquire 10% stake in Atlanta Falcons",
-      "summary": "KKR-backed sports investment firm Arctos Partners is in discussions to acquire a 10% minority interest in NFL franchise the Atlanta Falcons, according to a report by Bloomberg citing unnamed people fa",
-      "company": "KKR-backed Arctos in talks to",
-      "link": "https://www.privateequitywire.co.uk/kkr-backed-arctos-in-talks-to-acquire-10-stake-in-atlanta-falcons/",
+      "id": "dc2a0cc972d1",
+      "title": "Bonnaroo cancels 2027 edition as extreme weather pounds music festivals",
+      "summary": "The Bonnaroo Music and Arts Festival in Tennessee will take a year off in 2027 after years of weather disruptions and efforts to improve the festival grounds.",
+      "company": "Bonnaroo",
+      "link": "https://www.latimes.com/entertainment-arts/story/2026-08-21/bonnaroo-canceled-2027-extreme-weather",
       "date": "Aug 21, 26",
-      "source": "PE Wire",
+      "source": "LA Times Music",
       "layer": 1,
       "access": "pe",
-      "score": 14,
+      "score": 13,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "ca8c4797748b",
+      "title": "Add to playlist: the heartbreak post-mortems of Cape Town\u2019s Rowlene and the week\u2019s best new tracks",
+      "summary": "The South African singer has been a memorable guest artist, but the unhurried, emotional tracks on new album Some Strings Attached show she\u2019s ready for the spotlightFrom Cape Town, South AfricaRecomme",
+      "company": "Add to playlist",
+      "link": "https://www.theguardian.com/music/2026/aug/14/add-to-playlist-rowlene",
+      "date": "Aug 14, 26",
+      "source": "Guardian Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "66d290036880",
+      "title": "Hilltop Hoods to Headline Castaway Festival Across Three Australian Cities",
+      "summary": "The Adelaide hip-hop trio tops a lineup with Violent Soho and Amy Shark across three Australian cities this November through March.",
+      "company": "Hilltop Hoods",
+      "link": "https://www.billboard.com/music/concerts/hilltop-hoods-castaway-festival-1236322667/",
+      "date": "Aug 24, 26",
+      "source": "Billboard",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "874cfb9ab101",
+      "title": "How Busta Rhymes Turned 300 Unreleased J Dilla Beats Into His New Album",
+      "summary": "The ever-lively rapper discusses showmanship, rap\u2019s generational connections and sorting through an archive of J Dilla beats for his new album.",
+      "company": "How Busta Rhymes Turned",
+      "link": "https://www.nytimes.com/2026/08/21/arts/music/busta-rhymes-popcast-interview-dillagence-2.html",
+      "date": "Aug 21, 26",
+      "source": "NYT Arts",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "43afa5e07410",
+      "title": "Thompson Street\u2019s ATIS acquires AuditMate to expand elevator asset platform",
+      "summary": "AuditMate, billed as a leading elevator asset management technology platform, helps building owners and property managers track maintenance performance and cut risk. The post Thompson Street&#8217;s A",
+      "company": "Thompson Street\u2019s ATIS",
+      "link": "https://www.pehub.com/thompson-streets-atis-acquires-auditmate-to-expand-elevator-asset-platform/",
+      "date": "Aug 24, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
       "moments": [
         "acquisition"
       ]
     },
     {
-      "id": "c326e3623813",
-      "title": "Watch Zara Larsson and PinkPantheress perform \u2018Stateside\u2019 together for first time at All Points East",
-      "summary": "The surprise appearance marked one of the biggest pop crossover moments of the London festival The post Watch Zara Larsson and PinkPantheress perform &#8216;Stateside&#8217; together for first time at",
-      "company": "Watch Zara Larsson",
-      "link": "https://www.nme.com/news/music/watch-zara-larsson-and-pinkpantheress-perform-stateside-together-for-first-time-at-all-points-east-3964165?utm_source=rss&utm_medium=rss&utm_campaign=watch-zara-larsson-and-pinkpantheress-perform-stateside-together-for-first-time-at-all-points-east",
-      "date": "Aug 23, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "surprise_appearance"
-      ]
-    },
-    {
-      "id": "8fcca9b98a64",
-      "title": "Battle Investment Group completes sale of TRS Services to Allied Power Group",
-      "summary": "TRS Services, founded in 1998, provides maintenance, repair, and overhaul services for industrial gas turbine components from two facilities in Houston. The post Battle Investment Group completes sale",
-      "company": "Battle Investment Group",
-      "link": "https://www.pehub.com/battle-investment-group-completes-sale-of-trs-services-to-allied-power-group/",
-      "date": "Aug 20, 26",
+      "id": "56c8fc8644d5",
+      "title": "Telecoms in demand amid UK take-private boom as Waterland joins Gamma pursuit",
+      "summary": "Gamma Communications confirmed on Friday that Waterland Private Equity is among the firms in discussions to take the company private. The post Telecoms in demand amid UK take-private boom as Waterland",
+      "company": "Telecoms",
+      "link": "https://www.pehub.com/telecoms-in-demand-amid-uk-take-private-boom-as-waterland-joins-gamma-pursuit/",
+      "date": "Aug 24, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
-      "score": 12,
+      "score": 9,
       "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "ed24e331be68",
-      "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
-      "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
-      "company": "Niloufar Banisaied",
-      "link": "https://venuestoday.com/niloufar-banisaied-is-bringing-timeless-design-and-the-guest-experience-at-the-forefront/",
-      "date": "Jun 09, 26",
-      "source": "Venues Today",
-      "layer": 4,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "company_launch"
+        "pe_investment"
       ]
     },
     {
@@ -404,19 +387,17 @@
       ]
     },
     {
-      "id": "f3a1d1554548",
-      "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
-      "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
-      "company": "Navigating",
-      "link": "https://venuestoday.com/navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026/",
-      "date": "Apr 22, 26",
-      "source": "Venues Today",
-      "layer": 3,
+      "id": "d0aa8749ed72",
+      "title": "AEG Partners With Archer Aviation to Bring Air Taxis to L.A. Live",
+      "summary": "The partnership would see Archer build a takeoff and landing site at or near the entertainment district that includes Crypto.com Arena, Peacock Theater, The NOVO and more.",
+      "company": "AEG Partners With Archer Aviation",
+      "link": "https://www.billboard.com/pro/aeg-partners-with-archer-aviation-for-air-taxis-at-la-live/",
+      "date": "Aug 24, 26",
+      "source": "Billboard",
+      "layer": 2,
       "access": "pe",
-      "score": 6,
-      "moments": [
-        "acquisition"
-      ]
+      "score": 14,
+      "moments": []
     },
     {
       "id": "400b013fb50b",
@@ -429,19 +410,6 @@
       "layer": 2,
       "access": "pe",
       "score": 13,
-      "moments": []
-    },
-    {
-      "id": "ac196e758499",
-      "title": "Bruno Mars Is the Greatest Showman Alive on The Romantic Tour",
-      "summary": "At a sold-out MetLife Stadium, singer made an undeniable case, nobody does it like him.",
-      "company": "Bruno Mars Is",
-      "link": "https://www.rollingstone.com/music/music-live-reviews/bruno-mars-the-romantic-tour-metlife-stadium-live-review-1235613332/",
-      "date": "Aug 22, 26",
-      "source": "Rolling Stone Music",
-      "layer": 2,
-      "access": "pe",
-      "score": 8,
       "moments": []
     },
     {
@@ -497,6 +465,19 @@
       "moments": []
     },
     {
+      "id": "2a839752906f",
+      "title": "\u2018The Natural Next Step\u2019: Brenda Song Takes Rams Fandom to Broadcast Booth",
+      "summary": "REUTERS/Mario Anzuoni",
+      "company": "\u2018The Natural Next Step\u2019: Brenda Song",
+      "link": "https://frontofficesports.com/natural-next-step-brenda-song-takes-rams-fandom-broadcast-booth/",
+      "date": "Aug 23, 26",
+      "source": "Front Office Sports",
+      "layer": 3,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
       "id": "bd4b9b4d1cb8",
       "title": "With New Lawsuit, 5th Year Eligibility Battle Reaches NCAA D-II, D-III",
       "summary": "USA TODAY Network via Reuters Connect",
@@ -510,19 +491,6 @@
       "moments": []
     },
     {
-      "id": "73c81ab85ff4",
-      "title": "\u2018Insidious: Out of the Further\u2019 Review: Bringing Back the Dead",
-      "summary": "The sixth installment of the horror franchise tries to revamp it, but its reputation has declined with each new attempt at jump scares.",
-      "company": "\u2018Insidious: Out",
-      "link": "https://www.nytimes.com/2026/08/20/movies/insidious-out-of-the-further-review.html",
-      "date": "Aug 20, 26",
-      "source": "NYT Arts",
-      "layer": 4,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
       "id": "0c2e6b59f14f",
       "title": "Post Malone is officially off the market: He is engaged to stylist Christy Lee",
       "summary": "Post Malone is engaged to girlfriend and stylist Christy Lee. He seemingly popped the question in Utah this week after more than a year of dating.",
@@ -530,19 +498,6 @@
       "link": "https://www.latimes.com/entertainment-arts/story/2026-08-20/post-malone-engaged-christy-lee",
       "date": "Aug 20, 26",
       "source": "LA Times Music",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "8f95fdb4c719",
-      "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
-      "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
-      "company": "Global Times",
-      "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/",
-      "date": "May 09, 26",
-      "source": "Venues Today",
       "layer": 4,
       "access": "pe",
       "score": 4,
