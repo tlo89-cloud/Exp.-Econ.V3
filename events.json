@@ -1,7 +1,24 @@
 {
-  "generated": "2026-08-24T12:58:31.381845+00:00",
-  "total": 34,
+  "generated": "2026-08-25T12:54:17.438539+00:00",
+  "total": 35,
   "scraped": [
+    {
+      "id": "e097353b67d6",
+      "title": "CVC-backed TMF Group acquires fund administrator Navigator Partners",
+      "summary": "Navigator Partners, founded in Helsinki in 2002, serves more than 800 private equity, family office and foundation clients across the Nordics. The post CVC-backed TMF Group acquires fund administrator",
+      "company": "CVC-backed TMF Group",
+      "link": "https://www.pehub.com/cvc-backed-tmf-group-acquires-fund-administrator-navigator-partners/",
+      "date": "Aug 24, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 23,
+      "moments": [
+        "acquisition",
+        "pe_investment",
+        "company_launch"
+      ]
+    },
     {
       "id": "f77bf8f7a3b9",
       "title": "Reach Capital raises $265m Fund V as former edtech specialist broadens into health, work",
@@ -33,6 +50,22 @@
       "moments": [
         "pe_investment",
         "fund_launch"
+      ]
+    },
+    {
+      "id": "7d2d14821677",
+      "title": "Shore Capital-backed Sweetmore Bakeries acquires Fantasy Baking in California",
+      "summary": "Fantasy Baking, founded in 1979 and based in Sylmar, California, manufactures private label and branded sweet baked goods, including cookies, fruit-filled bars and dessert bars, backed by an in-house ",
+      "company": "Shore Capital-backed Sweetmore Bakeries",
+      "link": "https://www.pehub.com/shore-capital-backed-sweetmore-bakeries-acquires-fantasy-baking-in-california/",
+      "date": "Aug 25, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 19,
+      "moments": [
+        "acquisition",
+        "company_launch"
       ]
     },
     {
@@ -84,19 +117,51 @@
       ]
     },
     {
-      "id": "31cf15528507",
-      "title": "Broadwing beats target with $440m debut fund as emerging manager scales buy-and-build strategy",
-      "summary": "Broadwing Capital has closed its inaugural institutional private equity fund on $440m, beating its $350m target, as the four-year-old manager looks to scale a lower mid-market buy-and-build strategy t",
-      "company": "Broadwing",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/broadwing-beats-target-with-440m-debut-fund-as-emerging-manager-scales-buy-and-build-strategy.html",
-      "date": "Aug 19, 26",
-      "source": "AltAssets",
+      "id": "6d52df50d708",
+      "title": "Quad-C-backed Flow Service Partners acquires Altman Air Conditioning in Florida",
+      "summary": "Altman Air Conditioning, founded in 1985, is a commercial HVAC and mechanical services provider serving South Florida. The post Quad-C-backed Flow Service Partners acquires Altman Air Conditioning in ",
+      "company": "Quad-C-backed Flow Service Partners",
+      "link": "https://www.pehub.com/quad-c-backed-flow-service-partners-acquires-altman-air-conditioning-in-florida/",
+      "date": "Aug 25, 26",
+      "source": "PE Hub",
       "layer": 5,
       "access": "pe",
       "score": 16,
       "moments": [
         "acquisition",
-        "pe_investment"
+        "company_launch"
+      ]
+    },
+    {
+      "id": "aa43b6f23a67",
+      "title": "Siguler Guff boosts India firepower with $500m GEMGO II close",
+      "summary": "Siguler Guff has raised $500m across its second Global Emerging Markets Growth Opportunities fund, co-investment vehicles and separately managed accounts - more than doubling the amount of capital its",
+      "company": "Siguler Guff",
+      "link": "https://www.altassets.net/private-equity-news/by-region/asia-by-region/india-asia-by-region/siguler-guff-boosts-india-firepower-with-500m-gemgo-ii-close.html",
+      "date": "Aug 24, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "0bc51fa766e0",
+      "title": "CIP triples growth markets fund size to $3bn, Fund II already more than half committed",
+      "summary": "Copenhagen Infrastructure Partners has closed its second Growth Markets Fund at about $3bn, nearly tripling the $1bn raised for its predecessor. The post CIP triples growth markets fund size to $3bn, ",
+      "company": "CIP",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/denmark-western-europe-europe-by-region/cip-triples-growth-markets-fund-size-to-3bn-fund-ii-already-more-than-half-committed.html",
+      "date": "Aug 25, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
@@ -116,19 +181,18 @@
       ]
     },
     {
-      "id": "91247ca66579",
-      "title": "Crestline scales European capital solutions strategy by 75% with $625m Fund II close",
-      "summary": "Crestline Management has raised $625m for its second European Capital Solutions fund, increasing the strategy\u2019s fund size by nearly 75%. The post Crestline scales European capital solutions strategy b",
-      "company": "Crestline",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/crestline-scales-european-capital-solutions-strategy-by-75-with-625m-fund-ii-close.html",
-      "date": "Aug 21, 26",
-      "source": "AltAssets",
-      "layer": 5,
+      "id": "e9c36d3008c4",
+      "title": "Knitting Factory Entertainment Acquires Minority Stake in Does Entertainment, Forming Strategic Growth Partnership to Expand National Live...",
+      "summary": "Companies Align to Accelerate Venue Development, Talent Buying, Concert Promotion and Strategic Growth Across North America Los Angeles, CA / Wilmington, NC, July 14, 2026 \u2013&#160;Knitting Factory Ente",
+      "company": "",
+      "link": "https://venuestoday.com/knitting-factory-entertainment-acquires-minority-stake-in-does-entertainment-forming-strategic-growth-partnership-to-expand-national-live-entertainment-platform/",
+      "date": "Jul 15, 26",
+      "source": "Venues Today",
+      "layer": 2,
       "access": "pe",
-      "score": 13,
+      "score": 24,
       "moments": [
-        "pe_investment",
-        "fund_launch"
+        "acquisition"
       ]
     },
     {
@@ -162,21 +226,6 @@
       ]
     },
     {
-      "id": "94c964512a3a",
-      "title": "Marc Lore to Sell Timberwolves, Lynx at $4.5 Billion Valuation",
-      "summary": "The Minnesota Timberwolves are being sold again only 14 months after Marc Lore and Alex Rodriguez secured the franchise after a protracted sales process that lasted four years. Marc Stad, a limited pa",
-      "company": "Marc Lore",
-      "link": "https://www.sportico.com/business/team-sales/2026/minnesota-timberwolves-lynx-sold-stad-1234942577/",
-      "date": "Aug 21, 26",
-      "source": "Sportico",
-      "layer": 3,
-      "access": "pe",
-      "score": 18,
-      "moments": [
-        "lp_commitment"
-      ]
-    },
-    {
       "id": "810f15365bad",
       "title": "Vertical Media on Track to Generate $150 Billion in 2026 as the Booming Sector Fights Crowded Content Field and High Subscriber Acquisition Costs",
       "summary": "There\u2019s no doubt that 2026 will go down as a milestone year for the growth in popularity of vertical media content in the U.S. The sector is booming but still incredibly diffuse. That will change as m",
@@ -189,6 +238,21 @@
       "score": 18,
       "moments": [
         "acquisition"
+      ]
+    },
+    {
+      "id": "c223832fd126",
+      "title": "Bonnaroo Organizers Cancel 2027 Event for \u2018Much-Needed Year Off\u2019",
+      "summary": "Bonnaroo festivalgoers will have to wait at least another year for a music festival on The Farm. Bonnaroo organizers released... The post Bonnaroo Organizers Cancel 2027 Event for &#8216;Much-Needed Y",
+      "company": "Bonnaroo Organizers Cancel",
+      "link": "https://www.ticketnews.com/2026/08/bonnaroo-cancels-2027-event-much-needed-year-off/",
+      "date": "Aug 24, 26",
+      "source": "Ticket News",
+      "layer": 1,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "festival_headliner"
       ]
     },
     {
@@ -207,33 +271,18 @@
       ]
     },
     {
-      "id": "5c3d0328d5eb",
-      "title": "Why have private equity firms taken an interest in buying professional sports teams?",
-      "summary": "The booming business of sports has attracted a flood of private equity investment and even the most notable franchises require the influx of cash to keep up in the arms race.",
-      "company": "Why",
-      "link": "https://www.latimes.com/sports/lakers/story/2026-08-21/private-equity-firms-buying-professional-sports-teams",
-      "date": "Aug 21, 26",
-      "source": "LA Times Sports",
-      "layer": 1,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "a078e8cf94de",
-      "title": "PE firms deploy AI teams to transform portfolio companies",
-      "summary": "Private equity firms are increasingly embedding artificial intelligence specialists within portfolio companies as sponsors look to use the technology to develop new products, improve operations and cr",
-      "company": "PE",
-      "link": "https://www.privateequitywire.co.uk/pe-firms-deploy-ai-teams-to-transform-portfolio-companies/",
-      "date": "Aug 24, 26",
-      "source": "PE Wire",
+      "id": "5e7d47fe1ef7",
+      "title": "Why Bootstrapped Businesses Are More Relevant Than Ever",
+      "summary": "The traditional VC model funds a risky search for product-market fit, argues guest author Richard de Silva of Lateral Investment Management, while bootstrapped founders typically start with known cust",
+      "company": "",
+      "link": "https://news.crunchbase.com/startups/bootstrapped-self-funded-business-ai-relevancy-desilva-lateral/",
+      "date": "Aug 25, 26",
+      "source": "Crunchbase News",
       "layer": 2,
-      "access": "pe",
+      "access": "venture",
       "score": 15,
       "moments": [
-        "pe_investment"
+        "company_launch"
       ]
     },
     {
@@ -249,36 +298,6 @@
       "score": 14,
       "moments": [
         "acquisition"
-      ]
-    },
-    {
-      "id": "637addc71362",
-      "title": "See King Gizzard and the Lizard Wizard Bring Out Max Weinberg at Queens Show",
-      "summary": "E Street Band drummer fills in for his son and friend of the band Jay Weinberg at Australian psych-rockers' Forest Hills Stadium concert",
-      "company": "See King Gizzard",
-      "link": "https://www.rollingstone.com/music/music-news/king-gizzard-and-the-lizard-wizard-max-weinberg-queens-show-1235613346/",
-      "date": "Aug 22, 26",
-      "source": "Rolling Stone Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "surprise_appearance"
-      ]
-    },
-    {
-      "id": "cb54bb1374ba",
-      "title": "PE backs specialty-focused healthcare RCM services: 8 deals",
-      "summary": "Carlyle, Francisco Partners, New Mountain and Serent are among the PE firms investing in revenue cycle management platforms. The post PE backs specialty-focused healthcare RCM services: 8 deals appear",
-      "company": "PE",
-      "link": "https://www.pehub.com/pe-backs-specialty-focused-healthcare-rcm-services-8-deals/",
-      "date": "Aug 21, 26",
-      "source": "PE Hub",
-      "layer": 2,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "pe_investment"
       ]
     },
     {
@@ -312,27 +331,12 @@
       ]
     },
     {
-      "id": "66d290036880",
-      "title": "Hilltop Hoods to Headline Castaway Festival Across Three Australian Cities",
-      "summary": "The Adelaide hip-hop trio tops a lineup with Violent Soho and Amy Shark across three Australian cities this November through March.",
-      "company": "Hilltop Hoods",
-      "link": "https://www.billboard.com/music/concerts/hilltop-hoods-castaway-festival-1236322667/",
-      "date": "Aug 24, 26",
-      "source": "Billboard",
-      "layer": 1,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
       "id": "874cfb9ab101",
       "title": "How Busta Rhymes Turned 300 Unreleased J Dilla Beats Into His New Album",
       "summary": "The ever-lively rapper discusses showmanship, rap\u2019s generational connections and sorting through an archive of J Dilla beats for his new album.",
       "company": "How Busta Rhymes Turned",
       "link": "https://www.nytimes.com/2026/08/21/arts/music/busta-rhymes-popcast-interview-dillagence-2.html",
-      "date": "Aug 21, 26",
+      "date": "Aug 24, 26",
       "source": "NYT Arts",
       "layer": 1,
       "access": "pe",
@@ -342,74 +346,115 @@
       ]
     },
     {
-      "id": "43afa5e07410",
-      "title": "Thompson Street\u2019s ATIS acquires AuditMate to expand elevator asset platform",
-      "summary": "AuditMate, billed as a leading elevator asset management technology platform, helps building owners and property managers track maintenance performance and cut risk. The post Thompson Street&#8217;s A",
-      "company": "Thompson Street\u2019s ATIS",
-      "link": "https://www.pehub.com/thompson-streets-atis-acquires-auditmate-to-expand-elevator-asset-platform/",
-      "date": "Aug 24, 26",
-      "source": "PE Hub",
-      "layer": 5,
+      "id": "39360fa29e8b",
+      "title": "Alabama Shakes Return With New Album \u2018I Must Be Dreaming\u2019",
+      "summary": "One of the biggest rock bands of its time paused after two albums. A one-off gig led to a tour and then a new LP, \u201cI Must Be Dreaming.\u201d",
+      "company": "Alabama Shakes Return With New Album",
+      "link": "https://www.nytimes.com/2026/08/20/arts/music/alabama-shakes-i-must-be-dreaming-interview.html",
+      "date": "Aug 20, 26",
+      "source": "NYT Music",
+      "layer": 1,
       "access": "pe",
-      "score": 9,
+      "score": 12,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "a0d2d5a95f66",
+      "title": "Katseye's Sophia Laforteza announces hiatus before headlining Rose Bowl music festival",
+      "summary": "Katseye member Sophia Laforteza announced she is taking a mental health hiatus ahead of the Head in the Clouds festival in Pasadena, joining member Manon Bannerman in stepping back from the group.",
+      "company": "Katseye's Sophia Laforteza",
+      "link": "https://www.latimes.com/entertainment-arts/story/2026-08-07/katseyes-sophia-laforteza-announces-hiatus-before-rose-bowl-show",
+      "date": "Aug 08, 26",
+      "source": "LA Times Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "ed24e331be68",
+      "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
+      "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
+      "company": "Niloufar Banisaied",
+      "link": "https://venuestoday.com/niloufar-banisaied-is-bringing-timeless-design-and-the-guest-experience-at-the-forefront/",
+      "date": "Jun 09, 26",
+      "source": "Venues Today",
+      "layer": 4,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "f3a1d1554548",
+      "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
+      "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
+      "company": "Navigating",
+      "link": "https://venuestoday.com/navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026/",
+      "date": "Apr 22, 26",
+      "source": "Venues Today",
+      "layer": 3,
+      "access": "pe",
+      "score": 6,
       "moments": [
         "acquisition"
       ]
     },
     {
-      "id": "56c8fc8644d5",
-      "title": "Telecoms in demand amid UK take-private boom as Waterland joins Gamma pursuit",
-      "summary": "Gamma Communications confirmed on Friday that Waterland Private Equity is among the firms in discussions to take the company private. The post Telecoms in demand amid UK take-private boom as Waterland",
-      "company": "Telecoms",
-      "link": "https://www.pehub.com/telecoms-in-demand-amid-uk-take-private-boom-as-waterland-joins-gamma-pursuit/",
-      "date": "Aug 24, 26",
-      "source": "PE Hub",
-      "layer": 5,
+      "id": "106a5215f3ca",
+      "title": "Russian stadium says it will not host Kanye concerts \u2013 but promoter says shows have not been cancelled",
+      "summary": "The controversial rapper now known as Ye was due to play two huge shows at St Petersburg\u2019s Gazprom Arena, which now states it cannot host performances for contractual reasonsThe St Petersburg stadium ",
+      "company": "Russian",
+      "link": "https://www.theguardian.com/music/2026/aug/25/kanye-west-ye-russia-concert-st-petersburg-gazprom-arena",
+      "date": "Aug 25, 26",
+      "source": "Guardian Music",
+      "layer": 2,
       "access": "pe",
-      "score": 9,
-      "moments": [
-        "pe_investment"
-      ]
+      "score": 17,
+      "moments": []
     },
     {
-      "id": "515b92cfbcd0",
-      "title": "PE-backed Ode with Anthropic acquires AI services firm Casper Studios",
-      "summary": "Ode is a San Francisco-based enterprise AI transformation company. The post PE-backed Ode with Anthropic acquires AI services firm Casper Studios appeared first on PE Hub.",
-      "company": "PE-backed Ode with Anthropic",
-      "link": "https://www.pehub.com/pe-backed-ode-with-anthropic-acquires-ai-services-firm-casper-studios/",
-      "date": "Aug 21, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "d0aa8749ed72",
-      "title": "AEG Partners With Archer Aviation to Bring Air Taxis to L.A. Live",
-      "summary": "The partnership would see Archer build a takeoff and landing site at or near the entertainment district that includes Crypto.com Arena, Peacock Theater, The NOVO and more.",
-      "company": "AEG Partners With Archer Aviation",
-      "link": "https://www.billboard.com/pro/aeg-partners-with-archer-aviation-for-air-taxis-at-la-live/",
-      "date": "Aug 24, 26",
-      "source": "Billboard",
+      "id": "7baa34a3f2c1",
+      "title": "WuXi Biologics Reports Strong Profitable Growth in H1 2026",
+      "summary": "Revenue of RMB 11.8 billion grew 18.4% YoY (23.4% YoY in USD) IFRS gross profit margin expanded to 46.2% (+350 bps YoY) and adjusted gross profit margin expanded to 48.4% (+280 bps YoY), despite forei",
+      "company": "",
+      "link": "https://www.prnewswire.com/news-releases/wuxi-biologics-reports-strong-profitable-growth-in-h1-2026-302859399.html",
+      "date": "Aug 25, 26",
+      "source": "PR Newswire",
       "layer": 2,
       "access": "pe",
       "score": 14,
       "moments": []
     },
     {
-      "id": "400b013fb50b",
-      "title": "Carlyle, Longshore, Serent go for RCM platforms; Federal rules drive SEVA to healthcare price transparency sector",
-      "summary": "Vendors providing revenue cycle management are attracting attention from PE dealmakers, like Carlyle, Longshore Capital Partners and Serent Capital; SEVA announced an investment in the healthcare pric",
-      "company": "Carlyle Longshore Serent",
-      "link": "https://www.pehub.com/carlyle-longshore-serent-go-for-rcm-platforms-federal-rules-drive-seva-to-healthcare-price-transparency-sector/",
-      "date": "Aug 21, 26",
-      "source": "PE Hub",
-      "layer": 2,
+      "id": "c8e5454e7ab7",
+      "title": "Report: DOJ Settled Live Nation Case on Trump\u2019s Orders After Oval Office Meeting With Rapino",
+      "summary": "President Donald Trump personally directed a senior Justice Department official to settle the government\u2019s antitrust case against Live Nation Entertainment... The post Report: DOJ Settled Live Nation ",
+      "company": "Report",
+      "link": "https://www.ticketnews.com/2026/08/report-doj-settled-live-nation-case-on-trumps-orders-after-oval-office-meeting-with-rapino/",
+      "date": "Aug 24, 26",
+      "source": "Ticket News",
+      "layer": 3,
       "access": "pe",
-      "score": 13,
+      "score": 14,
+      "moments": []
+    },
+    {
+      "id": "4723a286c6f7",
+      "title": "Ticketmaster Expands Into East Africa With Quicket Launch in Kenya and Uganda",
+      "summary": "Ticketmaster is expanding into East Africa with the launch of its Quicket ticketing platform in Kenya and Uganda. The expansion... The post Ticketmaster Expands Into East Africa With Quicket Launch in",
+      "company": "Ticketmaster Expands Into East Africa With",
+      "link": "https://www.ticketnews.com/2026/08/ticketmaster-expands-into-east-africa-with-quicket-launch-in-kenya-and-uganda/",
+      "date": "Aug 24, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 9,
       "moments": []
     },
     {
@@ -426,42 +471,16 @@
       "moments": []
     },
     {
-      "id": "0c4ee4ddbd0a",
-      "title": "\u2018Prehistoric Planet: Ice Age\u2019 Soundtrack Features New Music by Composers Hans Zimmer, Kara Talve and An\u017ee Rozman",
-      "summary": "The soundtrack for Apple TV&#8217;s &#8220;Prehistoric Planet: Ice Age&#8221; has been released, featuring music by Hans Zimmer and fellow composers Kara Talve and An\u017ee Rozman. The score was written b",
-      "company": "",
-      "link": "https://variety.com/2026/artisans/awards/prehistoric-planet-ice-age-soundtrack-hans-zimmer-1236839961/",
-      "date": "Aug 21, 26",
-      "source": "Variety Music",
+      "id": "4594fefa5384",
+      "title": "Paramount Antitrust Talks Face New Stumbling Block",
+      "summary": "REUTERS/Daniel Cole",
+      "company": "Paramount Antitrust Talks Face New Stumbling",
+      "link": "https://frontofficesports.com/paramount-antitrust-talks-face-new-stumbling-block/",
+      "date": "Aug 24, 26",
+      "source": "Front Office Sports",
       "layer": 3,
       "access": "pe",
-      "score": 7,
-      "moments": []
-    },
-    {
-      "id": "27e3781c8308",
-      "title": "Ticketmaster Claims It \u2018Recovered\u2019 Olivia Rodrigo Tickets From Scalpers, Will List for Face Value",
-      "summary": "Ticketmaster revealed that it had \u201crecovered\u201d tickets for Olivia Rodrigo\u2019s \u201cThe Unraveled Tour\u201d from scalpers and will re-list them for... The post Ticketmaster Claims It \u2018Recovered\u2019 Olivia Rodrigo Ti",
-      "company": "",
-      "link": "https://www.ticketnews.com/2026/08/ticketmaster-claims-it-recovered-olivia-rodrigo-tickets-from-scalpers-will-list-for-face-value/",
-      "date": "Aug 21, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 7,
-      "moments": []
-    },
-    {
-      "id": "012b46a816ce",
-      "title": "Christian Metal Band Demon Hunter Files Trademark Lawsuit Against Netflix Over \u2018Kpop Demon Hunters\u2019",
-      "summary": "The Christian metal band Demon Hunter has filed a trademark lawsuit in federal court against Netflix over their highly-successful film... The post Christian Metal Band Demon Hunter Files Trademark Law",
-      "company": "Christian Metal Band Demon Hunter Files",
-      "link": "https://www.ticketnews.com/2026/08/metal-band-demon-hunter-trademark-lawsuit-netflix/",
-      "date": "Aug 21, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 7,
+      "score": 5,
       "moments": []
     },
     {
@@ -478,19 +497,6 @@
       "moments": []
     },
     {
-      "id": "bd4b9b4d1cb8",
-      "title": "With New Lawsuit, 5th Year Eligibility Battle Reaches NCAA D-II, D-III",
-      "summary": "USA TODAY Network via Reuters Connect",
-      "company": "With New Lawsuit",
-      "link": "https://frontofficesports.com/with-new-lawsuit-5th-year-eligibility-battle-reaches-ncaa-d-ii-d-iii/",
-      "date": "Aug 20, 26",
-      "source": "Front Office Sports",
-      "layer": 4,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
       "id": "0c2e6b59f14f",
       "title": "Post Malone is officially off the market: He is engaged to stylist Christy Lee",
       "summary": "Post Malone is engaged to girlfriend and stylist Christy Lee. He seemingly popped the question in Utah this week after more than a year of dating.",
@@ -498,6 +504,19 @@
       "link": "https://www.latimes.com/entertainment-arts/story/2026-08-20/post-malone-engaged-christy-lee",
       "date": "Aug 20, 26",
       "source": "LA Times Music",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "8f95fdb4c719",
+      "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
+      "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
+      "company": "Global Times",
+      "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/",
+      "date": "May 09, 26",
+      "source": "Venues Today",
       "layer": 4,
       "access": "pe",
       "score": 4,
