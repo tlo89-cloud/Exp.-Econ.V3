@@ -1,23 +1,7 @@
 {
-  "generated": "2026-08-26T13:00:02.767257+00:00",
-  "total": 35,
+  "generated": "2026-08-27T22:02:39.935510+00:00",
+  "total": 36,
   "scraped": [
-    {
-      "id": "2f9552384c5f",
-      "title": "Unrivaled Hoops Valuation Hits $650M in New Funding Round",
-      "summary": "Unrivaled, the 3&#215;3 women\u2019s professional basketball league, has completed an oversubscribed Series C fundraise at a value of $650 million, as the nearly three-year-old organization contemplates fu",
-      "company": "Unrivaled Hoops Valuation Hits",
-      "link": "https://www.sportico.com/leagues/basketball/2026/unrivaled-basketball-valuation-funding-raise-1234942880/",
-      "date": "Aug 26, 26",
-      "source": "Sportico",
-      "layer": 1,
-      "access": "venture",
-      "score": 31,
-      "moments": [
-        "funding_round",
-        "company_launch"
-      ]
-    },
     {
       "id": "020aace6d27e",
       "title": "Makers Fund closes $250m Fund IV raise, half the size of Fund III, amid gaming market \u201creset\u201d",
@@ -32,6 +16,38 @@
       "moments": [
         "pe_investment",
         "fund_launch"
+      ]
+    },
+    {
+      "id": "ab7dc8ff540e",
+      "title": "BV Investment-backed Imagenet acquires data firm Analytica Consulting",
+      "summary": "Founded in 2015, Analytica Consulting works with US government agencies and commercial organizations across healthcare, life sciences, manufacturing and education. The post BV Investment-backed Imagen",
+      "company": "BV Investment-backed Imagenet",
+      "link": "https://www.pehub.com/bv-investment-backed-imagenet-acquires-data-firm-analytica-consulting/",
+      "date": "Aug 27, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 19,
+      "moments": [
+        "acquisition",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "a88c813b463b",
+      "title": "Sixth Street and Carlyle-Dynasty consortium join $9.6bn Seahawks ownership group",
+      "summary": "Sixth Street Partners and a consortium comprising Carlyle Group and Dynasty Equity are among the private equity investors joining the ownership group behind the $9.6bn acquisition of the Seattle Seaha",
+      "company": "Sixth Street and Carlyle-Dynasty consortium",
+      "link": "https://www.privateequitywire.co.uk/sixth-street-and-carlyle-dynasty-consortium-join-9-6bn-seahawks-ownership-group/",
+      "date": "Aug 27, 26",
+      "source": "PE Wire",
+      "layer": 1,
+      "access": "pe",
+      "score": 19,
+      "moments": [
+        "acquisition",
+        "pe_investment"
       ]
     },
     {
@@ -67,6 +83,38 @@
       ]
     },
     {
+      "id": "6b789dd624da",
+      "title": "JPMorgan\u2019s David Sweet talks \u2018battleship defensibility\u2019 of fire safety platforms; KKR\u2019s Industrial Physics scoops up electrical testing firm from...",
+      "summary": "Talking with JPMorgan business services banker David Sweet to go over the fire protection and life safety market and the high valuations PE firms are paying for companies in the space; KKR-backed Indu",
+      "company": "JPMorgan\u2019s David Sweet",
+      "link": "https://www.pehub.com/jpmorgans-david-sweet-talks-battleship-defensibility-of-fire-safety-platforms-kkrs-industrial-physics-scoops-up-electrical-testing-firm-from-branford-castle/",
+      "date": "Aug 27, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "acquisition",
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "e8bd9585c14f",
+      "title": "From the Spotify Mafia to the Lovable Mafia: inside Stockholm\u2019s founder network",
+      "summary": "Vibe-coding darling&#160;Lovable just raised $400 million at a&#160;$13.3 billion&#160;valuation,&#160;roughly doubling&#160;its worth in eight months. But Lovable&#160;isn\u2019t&#160;the only Stockholm s",
+      "company": "From the Spotify Mafia to the Lovable Mafia",
+      "link": "https://techcrunch.com/podcast/from-the-spotify-mafia-to-the-lovable-mafia-inside-stockholms-founder-network/",
+      "date": "Aug 26, 26",
+      "source": "TechCrunch Venture",
+      "layer": 1,
+      "access": "public",
+      "score": 16,
+      "moments": [
+        "streaming_milestone",
+        "company_launch"
+      ]
+    },
+    {
       "id": "aa43b6f23a67",
       "title": "Siguler Guff boosts India firepower with $500m GEMGO II close",
       "summary": "Siguler Guff has raised $500m across its second Global Emerging Markets Growth Opportunities fund, co-investment vehicles and separately managed accounts - more than doubling the amount of capital its",
@@ -77,6 +125,38 @@
       "layer": 5,
       "access": "pe",
       "score": 16,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "61de3f518d4a",
+      "title": "RedBird in advanced talks to invest in Puck at $250m valuation",
+      "summary": "RedBird Capital is in advanced negotiations to acquire a significant stake in digital media company Puck in a transaction that would value the business at around $250m, according to a report by the Fi",
+      "company": "RedBird",
+      "link": "https://www.privateequitywire.co.uk/redbird-in-advanced-talks-to-invest-in-puck-at-250m-valuation/",
+      "date": "Aug 27, 26",
+      "source": "PE Wire",
+      "layer": 1,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "acquisition",
+        "valuation"
+      ]
+    },
+    {
+      "id": "314911627c66",
+      "title": "Capital F closes $17m debut fund targeting $15tn \u2018female economy\u2019, women make up nearly 85% of LP base",
+      "summary": "Capital F, a venture capital firm targeting tech businesses serving markets where women drive purchasing and product demand, has closed its debut fund on $17. The post Capital F closes $17m debut fund",
+      "company": "Capital F",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/capital-f-closes-17m-debut-fund-targeting-15tn-female-economy-women-make-up-nearly-85-of-lp-base.html",
+      "date": "Aug 27, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
       "moments": [
         "pe_investment",
         "fund_launch"
@@ -131,53 +211,6 @@
       ]
     },
     {
-      "id": "91247ca66579",
-      "title": "Crestline scales European capital solutions strategy by 75% with $625m Fund II close",
-      "summary": "Crestline Management has raised $625m for its second European Capital Solutions fund, increasing the strategy\u2019s fund size by nearly 75%. The post Crestline scales European capital solutions strategy b",
-      "company": "Crestline",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/crestline-scales-european-capital-solutions-strategy-by-75-with-625m-fund-ii-close.html",
-      "date": "Aug 21, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "cc4f087a7b51",
-      "title": "Accel-KKR-backed Basware to acquire Trustpair",
-      "summary": "Trustpair is a Nacha Preferred Partner that verifies suppliers' bank account details for finance teams using ERP and procurement platforms such as SAP, Oracle and Coupa. The post Accel-KKR-backed Basw",
-      "company": "Accel-KKR-backed Basware to",
-      "link": "https://www.pehub.com/accel-kkr-backed-basware-to-acquire-trustpair/",
-      "date": "Aug 26, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 10,
-      "moments": [
-        "acquisition",
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "50eadc2ba49b",
-      "title": "Stability AI Raises $76 Million in Funding Round Backed by Universal Music Group, Warner Music Group, Sony Music Group and Electronic Arts (EXCLUSIVE)",
-      "summary": "Stability AI, the AI startup backed by the likes of James Cameron and Sean Parker, has raised $76 million in a Series B funding round from a roster of investors including some of the entertainment ind",
-      "company": "Stability AI Raises",
-      "link": "https://variety.com/2026/biz/news/stability-ai-raises-76-million-funding-round-1236842351/",
-      "date": "Aug 25, 26",
-      "source": "Variety Biz",
-      "layer": 1,
-      "access": "venture",
-      "score": 24,
-      "moments": [
-        "funding_round"
-      ]
-    },
-    {
       "id": "e9c36d3008c4",
       "title": "Knitting Factory Entertainment Acquires Minority Stake in Does Entertainment, Forming Strategic Growth Partnership to Expand National Live...",
       "summary": "Companies Align to Accelerate Venue Development, Talent Buying, Concert Promotion and Strategic Growth Across North America Los Angeles, CA / Wilmington, NC, July 14, 2026 \u2013&#160;Knitting Factory Ente",
@@ -190,21 +223,6 @@
       "score": 24,
       "moments": [
         "acquisition"
-      ]
-    },
-    {
-      "id": "3d04aec678b3",
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-      "company": "OpenAI-backed Thrive Holdings",
-      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "date": "Aug 12, 26",
-      "source": "TechCrunch Venture",
-      "layer": 1,
-      "access": "pe",
-      "score": 21,
-      "moments": [
-        "funding_round"
       ]
     },
     {
@@ -223,18 +241,18 @@
       ]
     },
     {
-      "id": "810f15365bad",
-      "title": "Vertical Media on Track to Generate $150 Billion in 2026 as the Booming Sector Fights Crowded Content Field and High Subscriber Acquisition Costs",
-      "summary": "There\u2019s no doubt that 2026 will go down as a milestone year for the growth in popularity of vertical media content in the U.S. The sector is booming but still incredibly diffuse. That will change as m",
-      "company": "Vertical Media",
-      "link": "https://variety.com/2026/digital/news/vertical-media-150-billion-tiktok-microdramas-owl-co-1236840519/",
-      "date": "Aug 21, 26",
-      "source": "Variety Biz",
-      "layer": 2,
+      "id": "66dc1d8c4068",
+      "title": "The NFL Now Owns a Piece of DAZN, Too",
+      "summary": "DAZN acquiring EverPass means the NFL\u2019s investment arm will become a minority owner in yet another media company. RedBird Capital and the NFL\u2019s 32 Equity founded EverPass, which makes live game stream",
+      "company": "The NFL Now Owns",
+      "link": "https://www.sportico.com/business/media/2026/dazn-everpass-acquisition-nfl-ownership-espn-1234943119/",
+      "date": "Aug 27, 26",
+      "source": "Sportico",
+      "layer": 1,
       "access": "pe",
-      "score": 18,
+      "score": 16,
       "moments": [
-        "acquisition"
+        "company_launch"
       ]
     },
     {
@@ -268,6 +286,21 @@
       ]
     },
     {
+      "id": "751d79b33792",
+      "title": "10 minutes backstage with Jill Scott at the YouTube Theater",
+      "summary": "Backstage during her L.A. tour stop, we caught up with the Grammy-winning singer to talk about why she wanted a phone-free show, the impact of her new album and more.",
+      "company": "Jill Scott",
+      "link": "https://www.latimes.com/travel/story/2026-08-21/10-minutes-backstage-with-jill-scott-at-youtube-theater",
+      "date": "Aug 21, 26",
+      "source": "LA Times Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
       "id": "dc2a0cc972d1",
       "title": "Bonnaroo cancels 2027 edition as extreme weather pounds music festivals",
       "summary": "The Bonnaroo Music and Arts Festival in Tennessee will take a year off in 2027 after years of weather disruptions and efforts to improve the festival grounds.",
@@ -280,51 +313,6 @@
       "score": 13,
       "moments": [
         "festival_headliner"
-      ]
-    },
-    {
-      "id": "ca8c4797748b",
-      "title": "Add to playlist: the heartbreak post-mortems of Cape Town\u2019s Rowlene and the week\u2019s best new tracks",
-      "summary": "The South African singer has been a memorable guest artist, but the unhurried, emotional tracks on new album Some Strings Attached show she\u2019s ready for the spotlightFrom Cape Town, South AfricaRecomme",
-      "company": "Add to playlist",
-      "link": "https://www.theguardian.com/music/2026/aug/14/add-to-playlist-rowlene",
-      "date": "Aug 14, 26",
-      "source": "Guardian Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "874cfb9ab101",
-      "title": "How Busta Rhymes Turned 300 Unreleased J Dilla Beats Into His New Album",
-      "summary": "The ever-lively rapper discusses showmanship, rap\u2019s generational connections and sorting through an archive of J Dilla beats for his new album.",
-      "company": "How Busta Rhymes Turned",
-      "link": "https://www.nytimes.com/2026/08/21/arts/music/busta-rhymes-popcast-interview-dillagence-2.html",
-      "date": "Aug 24, 26",
-      "source": "NYT Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "fec0e437a61d",
-      "title": "Granite Asia tops $500m for first private credit strategy two years after GGV split",
-      "summary": "Granite Asia has surpassed $500m for its first pan-Asian private credit strategy, marking a rapid expansion beyond the venture capital business it inherited from GGV Capital after the firm's US-Asia s",
-      "company": "Granite Asia",
-      "link": "https://www.altassets.net/private-equity-news/by-region/asia-by-region/granite-asia-tops-500m-for-first-private-credit-strategy-two-years-after-ggv-split.html",
-      "date": "Aug 26, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "pe_investment"
       ]
     },
     {
@@ -364,7 +352,7 @@
       "company": "Russian Stadium Says It Won\u2019t Host",
       "link": "https://www.nytimes.com/2026/08/24/arts/music/ye-concerts-canceled-russia-gazprom-arena.html",
       "date": "Aug 25, 26",
-      "source": "NYT Arts",
+      "source": "NYT Music",
       "layer": 2,
       "access": "pe",
       "score": 15,
@@ -384,12 +372,25 @@
       "moments": []
     },
     {
-      "id": "4e342c3cb037",
-      "title": "Sky Sports agrees US Open contract extension after boost in female audience figures",
-      "summary": "Raducanu\u2019s 2021 win played role in Sky interestSky\u2019s tennis audience in 2025 was 60% femaleSky Sports has agreed a new deal to extend its live coverage of the US Open. The three-year contract extensio",
-      "company": "Sky Sports",
-      "link": "https://www.theguardian.com/sport/2026/aug/26/sky-sports-us-open-tennis-contract-extension-boost-female-audience-figures",
+      "id": "8d564eb547c4",
+      "title": "Iowa and Montana Ask Supreme Court to Block \u2018Politicized\u2019 Paramount-Warner Bros. Antitrust Suit Filed by California and 11 Other States",
+      "summary": "In a long-shot move, two Republican attorneys general are hoping the Supreme Court will intervene to stop the antitrust lawsuit brought by 12 Democratic state AGs seeking to block Paramount\u2019s takeover",
+      "company": "Iowa",
+      "link": "https://variety.com/2026/film/news/iowa-montana-lawsuit-supreme-court-block-politicized-paramount-warner-bros-california-1236843929/",
       "date": "Aug 26, 26",
+      "source": "Variety Biz",
+      "layer": 3,
+      "access": "pe",
+      "score": 10,
+      "moments": []
+    },
+    {
+      "id": "05117ed8f0ed",
+      "title": "Pakistan complain to Sky after interview with Imran Khan\u2019s sons over father\u2019s treatment",
+      "summary": "Former captain in solitary confinement since 2023Tourists threatened to refuse to return to field after lunchThe Pakistan Cricket Board made a formal complaint to Sky Sports after they broadcast an in",
+      "company": "Pakistan",
+      "link": "https://www.theguardian.com/sport/2026/aug/27/england-pakistan-second-test-imran-khan-sons-sky",
+      "date": "Aug 27, 26",
       "source": "Guardian Sport",
       "layer": 3,
       "access": "pe",
@@ -397,39 +398,52 @@
       "moments": []
     },
     {
-      "id": "3107b561cb3d",
-      "title": "META PCs Named to 2026 Inc. 5000\u00ae List of America's Fastest-Growing Private Companies",
-      "summary": "Arizona-based custom PC builder ranks No. 1,747 with 200 percent three-year revenue growth, marking its second consecutive year on Inc.'s national ranking. PHOENIX, Aug. 26, 2026 /PRNewswire/ -- META ",
-      "company": "META PCs Named",
-      "link": "https://www.prnewswire.com/news-releases/meta-pcs-named-to-2026-inc-5000-list-of-americas-fastest-growing-private-companies-302859975.html",
+      "id": "d412b339ef94",
+      "title": "Nvidia projects 70% revenue growth in 2028",
+      "summary": "Nvidia projected 70% revenue growth in its next fiscal year, sending its stock up in after-hours trading, while the company defended its decision to provide capital solutions to its customers.Why it m",
+      "company": "Nvidia",
+      "link": "https://www.axios.com/2026/08/26/nvidia-earnings-jensen-huang-ai",
       "date": "Aug 26, 26",
-      "source": "PR Newswire",
+      "source": "Axios",
       "layer": 2,
-      "access": "pe",
+      "access": "public",
       "score": 8,
       "moments": []
     },
     {
-      "id": "4594fefa5384",
-      "title": "Paramount Antitrust Talks Face New Stumbling Block",
-      "summary": "REUTERS/Daniel Cole",
-      "company": "Paramount Antitrust Talks Face New Stumbling",
-      "link": "https://frontofficesports.com/paramount-antitrust-talks-face-new-stumbling-block/",
-      "date": "Aug 24, 26",
-      "source": "Front Office Sports",
+      "id": "87d46e6e0653",
+      "title": "Sports Is a Universal Language, With Some Help From AI Translations",
+      "summary": "Today&#8217;s guest columnist is Ben Reynolds, CEO of Spalk.TV. As the World Cup showed us, sport is the language of the world.&#160;&#160; The numbers tell the story. Sixty-three million Americans wa",
+      "company": "Sports Is",
+      "link": "https://www.sportico.com/business/media/2026/sports-universal-language-with-help-from-translation-tech-1234942825/",
+      "date": "Aug 27, 26",
+      "source": "Sportico",
       "layer": 3,
       "access": "pe",
       "score": 5,
       "moments": []
     },
     {
-      "id": "2a839752906f",
-      "title": "\u2018The Natural Next Step\u2019: Brenda Song Takes Rams Fandom to Broadcast Booth",
-      "summary": "REUTERS/Mario Anzuoni",
-      "company": "\u2018The Natural Next Step\u2019: Brenda Song",
-      "link": "https://frontofficesports.com/natural-next-step-brenda-song-takes-rams-fandom-broadcast-booth/",
-      "date": "Aug 23, 26",
+      "id": "27fefcee9e93",
+      "title": "Good Good Golf Pulls Out of PGA Tour Sponsorship",
+      "summary": "REUTERS/Nick Lachance",
+      "company": "Good Good Golf Pulls Out",
+      "link": "https://frontofficesports.com/good-good-golf-pga-tour/",
+      "date": "Aug 27, 26",
       "source": "Front Office Sports",
+      "layer": 4,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "fbd5626334c0",
+      "title": "Find Out When the 2026 Billboard Latin Music Awards Finalists Will Be Revealed",
+      "summary": "The awards ceremony will be broadcast live on Telemundo on Oct. 22.",
+      "company": "Find Out When",
+      "link": "https://www.billboard.com/music/latin/2026-billboard-latin-music-awards-finalists-1236326724/",
+      "date": "Aug 27, 26",
+      "source": "Billboard",
       "layer": 3,
       "access": "pe",
       "score": 5,
@@ -449,15 +463,28 @@
       "moments": []
     },
     {
-      "id": "ce7f2d8a0a7f",
-      "title": "Rob Zombie + Marilyn Manson Kick Off Summer Tour - See Setlists",
-      "summary": "Ethan Miller, Getty Images, Gary Miller, Getty Images, Live Nation",
-      "company": "Rob Zombie",
-      "link": "https://loudwire.com/rob-zombie-marilyn-manson-2026-tour-setlist/",
-      "date": "Aug 21, 26",
-      "source": "Loudwire",
-      "layer": 3,
+      "id": "124a4c450ba4",
+      "title": "Dolly Parton: A Life in Pictures",
+      "summary": "Parton made her mark in the country arenas of Nashville, and then crossed over into the pop world, Hollywood and beyond.",
+      "company": "Dolly Parton",
+      "link": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-photos-life-career.html",
+      "date": "Aug 27, 26",
+      "source": "NYT Music",
+      "layer": 2,
       "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "76300c4e699f",
+      "title": "Will the DOJ\u2019s investigation into a16z spook other VCs?",
+      "summary": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
+      "company": "Will",
+      "link": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
+      "date": "Aug 22, 26",
+      "source": "TechCrunch Venture",
+      "layer": 3,
+      "access": "venture",
       "score": 5,
       "moments": []
     },
@@ -468,22 +495,9 @@
       "company": "Why",
       "link": "https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/",
       "date": "Aug 21, 26",
-      "source": "TechCrunch Startups",
+      "source": "TechCrunch Venture",
       "layer": 3,
       "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "503493e7cf17",
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on ",
-      "company": "The DOJ",
-      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "date": "Aug 21, 26",
-      "source": "TechCrunch Startups",
-      "layer": 3,
-      "access": "venture",
       "score": 5,
       "moments": []
     },
