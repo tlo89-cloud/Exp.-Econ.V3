@@ -1,23 +1,7 @@
 {
-  "generated": "2026-08-27T22:02:39.935510+00:00",
-  "total": 36,
+  "generated": "2026-08-28T21:59:49.959340+00:00",
+  "total": 32,
   "scraped": [
-    {
-      "id": "020aace6d27e",
-      "title": "Makers Fund closes $250m Fund IV raise, half the size of Fund III, amid gaming market \u201creset\u201d",
-      "summary": "Gaming specialist Makers Fund has closed its fourth flagship vehicle at $250m \u2013 half the size of the $500m Fund III it raised at the height of the last gaming investment cycle in 2022. The post Makers",
-      "company": "Makers Fund",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/makers-fund-halves-flagship-size-to-250m-after-500m-fund-iii-as-gaming-vc-market-resets.html",
-      "date": "Aug 21, 26",
-      "source": "AltAssets",
-      "layer": 1,
-      "access": "pe",
-      "score": 21,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
     {
       "id": "ab7dc8ff540e",
       "title": "BV Investment-backed Imagenet acquires data firm Analytica Consulting",
@@ -35,46 +19,30 @@
       ]
     },
     {
-      "id": "a88c813b463b",
-      "title": "Sixth Street and Carlyle-Dynasty consortium join $9.6bn Seahawks ownership group",
-      "summary": "Sixth Street Partners and a consortium comprising Carlyle Group and Dynasty Equity are among the private equity investors joining the ownership group behind the $9.6bn acquisition of the Seattle Seaha",
-      "company": "Sixth Street and Carlyle-Dynasty consortium",
-      "link": "https://www.privateequitywire.co.uk/sixth-street-and-carlyle-dynasty-consortium-join-9-6bn-seahawks-ownership-group/",
-      "date": "Aug 27, 26",
-      "source": "PE Wire",
-      "layer": 1,
-      "access": "pe",
-      "score": 19,
-      "moments": [
-        "acquisition",
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "2f2a9cbb6416",
-      "title": "Azalea raises $1bn across three PE products, but flagship fund size shrinks 35%",
-      "summary": "Temasek-backed Azalea Investment Management has raised more than $1bn across three private equity products, with the launch of its first evergreen vehicle helping offset a substantial reduction in the",
-      "company": "Azalea",
-      "link": "https://www.altassets.net/private-equity-news/by-region/asia-by-region/singapore-asia-by-region-by-region/azalea-raises-1bn-across-three-pe-products-but-flagship-fund-size-shrinks-35.html",
-      "date": "Aug 24, 26",
+      "id": "ac7ae0e6d42a",
+      "title": "Permanent Capital Ventures scales to $200m Fund II, two years after launch",
+      "summary": "Permanent Capital Ventures has raised a $200m second fund targeting Series A applied AI investments, rapidly scaling a venture platform that only began investing in early 2024. The post Permanent Capi",
+      "company": "Permanent Capital Ventures",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/permanent-capital-ventures-scales-to-200m-fund-ii-two-years-after-launch.html",
+      "date": "Aug 28, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
       "score": 19,
       "moments": [
-        "funding_round",
-        "pe_investment"
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
-      "id": "523bc4c1dbb3",
-      "title": "Machine Investment Group hits $350m hard cap Fund II close, 42% above debut vehicle size",
-      "summary": "Machine Investment Group has increased the primary capital in its flagship real estate strategy by more than 40%, closing Machine Real Estate Fund II at its $350m hard cap. The post Machine Investment",
-      "company": "Machine Investment Group",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/machine-investment-group-hits-350m-hard-cap-fund-ii-close-42-above-debut-vehicle-size.html",
-      "date": "Aug 20, 26",
+      "id": "4b93cc004f2f",
+      "title": "LGT Capital Partners beats target with \u20ac850m European small buyout fund close",
+      "summary": "LGT Capital Partners has raised \u20ac850m for its seventh dedicated European small buyout fund, exceeding its \u20ac800m target. The post LGT Capital Partners beats target with \u20ac850m European small buyout fund",
+      "company": "LGT Capital Partners",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/switzerland-western-europe-europe-by-region/lgt-capital-partners-beats-target-with-e850m-european-small-buyout-fund-close.html",
+      "date": "Aug 28, 26",
       "source": "AltAssets",
-      "layer": 2,
+      "layer": 1,
       "access": "pe",
       "score": 18,
       "moments": [
@@ -115,35 +83,51 @@
       ]
     },
     {
-      "id": "aa43b6f23a67",
-      "title": "Siguler Guff boosts India firepower with $500m GEMGO II close",
-      "summary": "Siguler Guff has raised $500m across its second Global Emerging Markets Growth Opportunities fund, co-investment vehicles and separately managed accounts - more than doubling the amount of capital its",
-      "company": "Siguler Guff",
-      "link": "https://www.altassets.net/private-equity-news/by-region/asia-by-region/india-asia-by-region/siguler-guff-boosts-india-firepower-with-500m-gemgo-ii-close.html",
-      "date": "Aug 24, 26",
+      "id": "02573612ed90",
+      "title": "Music Industry Moves: Warner Music and Blavatnik Family Foundation Announce 2026 Grantees; Spotify Ups Joe Hadley",
+      "summary": "The Warner Music Group / Blavatnik Family Foundation Social Justice Fund has announced its first slate of 2026 grantees \u2013 a docket that includes 17 organizations and an investment of almost $6 million",
+      "company": "Music Industry Moves",
+      "link": "https://variety.com/2026/music/news/meghan-trainor-signs-with-uta-1236842423/",
+      "date": "Aug 28, 26",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "streaming_milestone",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "b42b71b5227b",
+      "title": "GenNx360 scores $865m Fund IV close after $1.3bn of realisations in past year",
+      "summary": "GenNx360 Capital Partners has nearly doubled the size of its flagship private equity fund with an $865m Fund IV close, substantially beating its original target after returning more than $1.3bn to inv",
+      "company": "GenNx360",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/gennx360-scores-865m-fund-iv-close-after-1-3bn-of-realisations-in-past-year.html",
+      "date": "Aug 28, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
-      "score": 16,
+      "score": 13,
       "moments": [
         "pe_investment",
         "fund_launch"
       ]
     },
     {
-      "id": "61de3f518d4a",
-      "title": "RedBird in advanced talks to invest in Puck at $250m valuation",
-      "summary": "RedBird Capital is in advanced negotiations to acquire a significant stake in digital media company Puck in a transaction that would value the business at around $250m, according to a report by the Fi",
-      "company": "RedBird",
-      "link": "https://www.privateequitywire.co.uk/redbird-in-advanced-talks-to-invest-in-puck-at-250m-valuation/",
-      "date": "Aug 27, 26",
-      "source": "PE Wire",
-      "layer": 1,
+      "id": "1b75fe329fee",
+      "title": "Einride founders launch Navisalma to blend VC with private equity-style company building",
+      "summary": "Einride founders Robert Falck and Linn\u00e9a Kornehed Falck have launched Navisalma, a new European venture platform designed to combine venture investing with private equity-style operational value creat",
+      "company": "Einride",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/sweden-western-europe-europe-by-region/einride-founders-launch-navisalma-to-blend-vc-with-private-equity-style-company-building.html",
+      "date": "Aug 28, 26",
+      "source": "AltAssets",
+      "layer": 5,
       "access": "pe",
       "score": 13,
       "moments": [
-        "acquisition",
-        "valuation"
+        "pe_investment",
+        "company_launch"
       ]
     },
     {
@@ -195,49 +179,18 @@
       ]
     },
     {
-      "id": "8567654d8934",
-      "title": "Minority stake sales emerge as private equity\u2019s latest answer to the DPI squeeze",
-      "summary": "Private equity sponsors are increasingly turning to minority stake sales and hybrid capital as pressure to generate distributions collides with a still-challenging exit environment, according to a new",
-      "company": "Minority",
-      "link": "https://www.altassets.net/featured/minority-stake-sales-emerge-as-private-equitys-latest-answer-to-the-dpi-squeeze.html",
-      "date": "Aug 21, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "acquisition",
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "e9c36d3008c4",
-      "title": "Knitting Factory Entertainment Acquires Minority Stake in Does Entertainment, Forming Strategic Growth Partnership to Expand National Live...",
-      "summary": "Companies Align to Accelerate Venue Development, Talent Buying, Concert Promotion and Strategic Growth Across North America Los Angeles, CA / Wilmington, NC, July 14, 2026 \u2013&#160;Knitting Factory Ente",
-      "company": "",
-      "link": "https://venuestoday.com/knitting-factory-entertainment-acquires-minority-stake-in-does-entertainment-forming-strategic-growth-partnership-to-expand-national-live-entertainment-platform/",
-      "date": "Jul 15, 26",
-      "source": "Venues Today",
-      "layer": 2,
-      "access": "pe",
-      "score": 24,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "b3ef5e41dd8d",
-      "title": "Women\u2019s Basketball League Unrivaled Raises More Than $100 Million From Carmelo Anthony, Ashton Kutcher, Alex Morgan, University of California Fund...",
-      "summary": "Unrivaled, the women&#8217;s three-on-three basketball league, announced that its Series C fundraise has surpassed an initial $100 million target and is now oversubscribed &#8212; valuing the league a",
-      "company": "",
-      "link": "https://variety.com/2026/tv/news/unrivaled-raises-more-than-100-million-carmelo-anthony-ashton-kutcher-alex-morgan-uc-investments-1236843699/",
-      "date": "Aug 26, 26",
-      "source": "Variety Biz",
+      "id": "202eaa0bd32f",
+      "title": "R&B Up-And-Comer of the Month TheARTI$t On The Moment She Realized \u2018This Is My Purpose\u2019",
+      "summary": "The rising Jersey artist talks about her viral single \"Sober,\" new album 'DND' and touring with Kehlani.",
+      "company": "R&B Up-And-Comer",
+      "link": "https://www.billboard.com/music/rb-hip-hop/theartist-new-album-kehlani-tour-up-and-coming-rb-artist-1236327462/",
+      "date": "Aug 28, 26",
+      "source": "Billboard",
       "layer": 1,
-      "access": "venture",
-      "score": 20,
+      "access": "pe",
+      "score": 21,
       "moments": [
-        "funding_round"
+        "album_announcement"
       ]
     },
     {
@@ -286,6 +239,21 @@
       ]
     },
     {
+      "id": "309cadb8a46d",
+      "title": "Jamie T tells us about his current headspace ahead of new album: \u201cI\u2019m really happy to be where I am\u201d",
+      "summary": "The London musician is set to release his sixth album \u2018Ghosts (100 Days Of Mourning)\u2019 in October The post Jamie T tells us about his current headspace ahead of new album: \u201cI\u2019m really happy to be where",
+      "company": "Jamie",
+      "link": "https://www.nme.com/news/music/jamie-t-reading-2026-interview-headspace-new-album-3965384?utm_source=rss&utm_medium=rss&utm_campaign=jamie-t-reading-2026-interview-headspace-new-album",
+      "date": "Aug 28, 26",
+      "source": "NME",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
       "id": "751d79b33792",
       "title": "10 minutes backstage with Jill Scott at the YouTube Theater",
       "summary": "Backstage during her L.A. tour stop, we caught up with the Grammy-winning singer to talk about why she wanted a phone-free show, the impact of her new album and more.",
@@ -301,48 +269,48 @@
       ]
     },
     {
-      "id": "dc2a0cc972d1",
-      "title": "Bonnaroo cancels 2027 edition as extreme weather pounds music festivals",
-      "summary": "The Bonnaroo Music and Arts Festival in Tennessee will take a year off in 2027 after years of weather disruptions and efforts to improve the festival grounds.",
-      "company": "Bonnaroo",
-      "link": "https://www.latimes.com/entertainment-arts/story/2026-08-21/bonnaroo-canceled-2027-extreme-weather",
-      "date": "Aug 21, 26",
-      "source": "LA Times Music",
+      "id": "f6c62ce0227a",
+      "title": "California moves to restrict PE investment in law firms",
+      "summary": "California lawmakers have approved legislation that would significantly restrict private equity and other corporate investors from influencing the operations of law firms, potentially making the state",
+      "company": "California",
+      "link": "https://www.privateequitywire.co.uk/california-moves-to-restrict-pe-investment-in-law-firms/",
+      "date": "Aug 28, 26",
+      "source": "PE Wire",
       "layer": 1,
       "access": "pe",
-      "score": 13,
+      "score": 14,
       "moments": [
-        "festival_headliner"
+        "pe_investment"
       ]
     },
     {
-      "id": "ed24e331be68",
-      "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
-      "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
-      "company": "Niloufar Banisaied",
-      "link": "https://venuestoday.com/niloufar-banisaied-is-bringing-timeless-design-and-the-guest-experience-at-the-forefront/",
-      "date": "Jun 09, 26",
-      "source": "Venues Today",
-      "layer": 4,
-      "access": "pe",
+      "id": "f24bbca570c3",
+      "title": "MassMutual Ventures launches $150m second climate fund as strategy incorporates AI, real assets",
+      "summary": "MassMutual Ventures has launched a $150m second climate technology fund, maintaining the expanded scale of its first vehicle while sharpening its investment strategy around AI and technology targeting",
+      "company": "MassMutual Ventures",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/massmutual-ventures-launches-150m-second-climate-fund-as-strategy-incorporates-ai-real-assets.html",
+      "date": "Aug 28, 26",
+      "source": "AltAssets",
+      "layer": 2,
+      "access": "venture",
       "score": 11,
       "moments": [
-        "company_launch"
+        "fund_launch"
       ]
     },
     {
-      "id": "f3a1d1554548",
-      "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
-      "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
-      "company": "Navigating",
-      "link": "https://venuestoday.com/navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026/",
-      "date": "Apr 22, 26",
-      "source": "Venues Today",
-      "layer": 3,
-      "access": "pe",
-      "score": 6,
+      "id": "3c9b233d774b",
+      "title": "Bamboo Insurance Files Registration Statement for Proposed Initial Public Offering",
+      "summary": "MIDVALE, Utah, Aug. 28, 2026 /PRNewswire/ -- Bamboo Insurance Services, Inc. (\"Bamboo Insurance\") today announced that it has filed a registration statement on Form S-1 with the U.S. Securities and Ex",
+      "company": "",
+      "link": "https://www.prnewswire.com/news-releases/bamboo-insurance-files-registration-statement-for-proposed-initial-public-offering-302863171.html",
+      "date": "Aug 28, 26",
+      "source": "PR Newswire",
+      "layer": 4,
+      "access": "public",
+      "score": 8,
       "moments": [
-        "acquisition"
+        "ipo"
       ]
     },
     {
@@ -359,68 +327,55 @@
       "moments": []
     },
     {
-      "id": "e7679674db24",
-      "title": "Kennedy Center's survival depends on Trump, DOJ says in new filing",
-      "summary": "The Trump administration argued in a Monday court filing that the John F. Kennedy Center for the Performing Arts must undergo proposed renovations and a cash infusion to survive. Why it matters: It's ",
-      "company": "Kennedy Center's",
-      "link": "https://www.axios.com/2026/08/25/trump-kennedy-center-taken-down",
-      "date": "Aug 25, 26",
-      "source": "Axios",
+      "id": "bdf6c9be6345",
+      "title": "Sub Focus to donate \u00a31 for every ticket of UK tour to Save Our Scene and grassroots levy",
+      "summary": "\u201cI\u2019m lucky enough to have the opportunity to help support the grassroots venues I came up with\u201d The post Sub Focus to donate \u00a31 for every ticket of UK tour to Save Our Scene and grassroots levy appear",
+      "company": "Sub Focus",
+      "link": "https://www.nme.com/news/music/sub-focus-ticket-levy-uk-tour-save-our-scene-and-grassroots-levy-3965395?utm_source=rss&utm_medium=rss&utm_campaign=sub-focus-ticket-levy-uk-tour-save-our-scene-and-grassroots-levy",
+      "date": "Aug 28, 26",
+      "source": "NME",
       "layer": 2,
-      "access": "pe",
-      "score": 14,
-      "moments": []
-    },
-    {
-      "id": "8d564eb547c4",
-      "title": "Iowa and Montana Ask Supreme Court to Block \u2018Politicized\u2019 Paramount-Warner Bros. Antitrust Suit Filed by California and 11 Other States",
-      "summary": "In a long-shot move, two Republican attorneys general are hoping the Supreme Court will intervene to stop the antitrust lawsuit brought by 12 Democratic state AGs seeking to block Paramount\u2019s takeover",
-      "company": "Iowa",
-      "link": "https://variety.com/2026/film/news/iowa-montana-lawsuit-supreme-court-block-politicized-paramount-warner-bros-california-1236843929/",
-      "date": "Aug 26, 26",
-      "source": "Variety Biz",
-      "layer": 3,
       "access": "pe",
       "score": 10,
       "moments": []
     },
     {
-      "id": "05117ed8f0ed",
-      "title": "Pakistan complain to Sky after interview with Imran Khan\u2019s sons over father\u2019s treatment",
-      "summary": "Former captain in solitary confinement since 2023Tourists threatened to refuse to return to field after lunchThe Pakistan Cricket Board made a formal complaint to Sky Sports after they broadcast an in",
-      "company": "Pakistan",
-      "link": "https://www.theguardian.com/sport/2026/aug/27/england-pakistan-second-test-imran-khan-sons-sky",
-      "date": "Aug 27, 26",
-      "source": "Guardian Sport",
-      "layer": 3,
-      "access": "pe",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "d412b339ef94",
-      "title": "Nvidia projects 70% revenue growth in 2028",
-      "summary": "Nvidia projected 70% revenue growth in its next fiscal year, sending its stock up in after-hours trading, while the company defended its decision to provide capital solutions to its customers.Why it m",
-      "company": "Nvidia",
-      "link": "https://www.axios.com/2026/08/26/nvidia-earnings-jensen-huang-ai",
-      "date": "Aug 26, 26",
-      "source": "Axios",
+      "id": "fec831122a3c",
+      "title": "Post Malone Shelves Asia and Australia Tour Months After Cutting U.S. Stadium Dates",
+      "summary": "Post Malone has postponed upcoming legs of his \u201cBig Ass World Tour\u201d across Asia and Australia, shelving a run of... The post Post Malone Shelves Asia and Australia Tour Months After Cutting U.S. Stadi",
+      "company": "Post Malone Shelves Asia",
+      "link": "https://www.ticketnews.com/2026/08/post-malone-asia-australia-tour-postponed/",
+      "date": "Aug 28, 26",
+      "source": "Ticket News",
       "layer": 2,
-      "access": "public",
+      "access": "pe",
+      "score": 10,
+      "moments": []
+    },
+    {
+      "id": "f4a602cc2ed5",
+      "title": "Kalshi\u2019s Appeal Loss to Nevada Brings Revenue Growth Risk",
+      "summary": "Kalshi\u2019s request for an injunction allowing it to offer sports-related prediction market bets in Nevada while litigation with the state plays out was rejected by the 9th Circuit Court of Appeals in a ",
+      "company": "Kalshi\u2019s Appeal Loss",
+      "link": "https://www.sportico.com/business/sports-betting/2026/kalshi-nevada-circuit-appeal-loss-explain-1234943227/",
+      "date": "Aug 28, 26",
+      "source": "Sportico",
+      "layer": 2,
+      "access": "pe",
       "score": 8,
       "moments": []
     },
     {
-      "id": "87d46e6e0653",
-      "title": "Sports Is a Universal Language, With Some Help From AI Translations",
-      "summary": "Today&#8217;s guest columnist is Ben Reynolds, CEO of Spalk.TV. As the World Cup showed us, sport is the language of the world.&#160;&#160; The numbers tell the story. Sixty-three million Americans wa",
-      "company": "Sports Is",
-      "link": "https://www.sportico.com/business/media/2026/sports-universal-language-with-help-from-translation-tech-1234942825/",
-      "date": "Aug 27, 26",
-      "source": "Sportico",
-      "layer": 3,
+      "id": "6b27958c00aa",
+      "title": "Tampa City Council Narrowly Approves Rays Stadium Funding",
+      "summary": "Lon Horwedel-Imagn Images",
+      "company": "Tampa City Council Narrowly Approves Rays",
+      "link": "https://frontofficesports.com/tampa-city-council-narrowly-approves-rays-stadium-funding/",
+      "date": "Aug 28, 26",
+      "source": "Front Office Sports",
+      "layer": 2,
       "access": "pe",
-      "score": 5,
+      "score": 8,
       "moments": []
     },
     {
@@ -437,40 +392,14 @@
       "moments": []
     },
     {
-      "id": "fbd5626334c0",
-      "title": "Find Out When the 2026 Billboard Latin Music Awards Finalists Will Be Revealed",
-      "summary": "The awards ceremony will be broadcast live on Telemundo on Oct. 22.",
-      "company": "Find Out When",
-      "link": "https://www.billboard.com/music/latin/2026-billboard-latin-music-awards-finalists-1236326724/",
-      "date": "Aug 27, 26",
-      "source": "Billboard",
+      "id": "6832d2534349",
+      "title": "Christian band Demon Hunter files trademark lawsuit against Netflix over 'consumer confusion'",
+      "summary": "The band alleges in its lawsuit that Netflix and others \"created a substantial likelihood of confusion\" among consumers with the streamer's hit film \"KPop Demon Hunters.\"",
+      "company": "Christian",
+      "link": "https://www.latimes.com/entertainment-arts/story/2026-08-19/christian-band-demon-hunter-kpop-demon-hunters-trademark-lawsuit-netflix",
+      "date": "Aug 20, 26",
+      "source": "LA Times Music",
       "layer": 3,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "165eca81f330",
-      "title": "Netflix Responds to Demon Hunter's Trademark Lawsuit",
-      "summary": "Photo by Sunder Muthukumaran on Unsplash, Stephen J. Cohen, Getty Images",
-      "company": "Netflix Responds",
-      "link": "https://loudwire.com/netflix-responds-demon-hunter-lawsuit-k-pop-movie/",
-      "date": "Aug 21, 26",
-      "source": "Loudwire",
-      "layer": 3,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "124a4c450ba4",
-      "title": "Dolly Parton: A Life in Pictures",
-      "summary": "Parton made her mark in the country arenas of Nashville, and then crossed over into the pop world, Hollywood and beyond.",
-      "company": "Dolly Parton",
-      "link": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-photos-life-career.html",
-      "date": "Aug 27, 26",
-      "source": "NYT Music",
-      "layer": 2,
       "access": "pe",
       "score": 5,
       "moments": []
@@ -502,6 +431,32 @@
       "moments": []
     },
     {
+      "id": "503493e7cf17",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on ",
+      "company": "The DOJ",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "date": "Aug 21, 26",
+      "source": "TechCrunch Venture",
+      "layer": 3,
+      "access": "venture",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "21842a59f515",
+      "title": "Executive Turntable: Anh Do Named Global Head of Music at TBWA\\Media Arts Lab",
+      "summary": "In this week's column, PRG appoints two to the company's C-suite, WME has a new head of marketing and more music industry hires and promotions.",
+      "company": "Executive Turntable",
+      "link": "https://www.billboard.com/lists/exec-turntable-anh-do-global-head-of-music-media-arts-lab/",
+      "date": "Aug 28, 26",
+      "source": "Billboard",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
       "id": "0c2e6b59f14f",
       "title": "Post Malone is officially off the market: He is engaged to stylist Christy Lee",
       "summary": "Post Malone is engaged to girlfriend and stylist Christy Lee. He seemingly popped the question in Utah this week after more than a year of dating.",
@@ -509,19 +464,6 @@
       "link": "https://www.latimes.com/entertainment-arts/story/2026-08-20/post-malone-engaged-christy-lee",
       "date": "Aug 20, 26",
       "source": "LA Times Music",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "8f95fdb4c719",
-      "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
-      "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
-      "company": "Global Times",
-      "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/",
-      "date": "May 09, 26",
-      "source": "Venues Today",
       "layer": 4,
       "access": "pe",
       "score": 4,
