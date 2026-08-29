@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-28T21:59:49.959340+00:00",
-  "total": 32,
+  "generated": "2026-08-29T16:29:57.022819+00:00",
+  "total": 33,
   "scraped": [
     {
       "id": "ab7dc8ff540e",
@@ -179,18 +179,33 @@
       ]
     },
     {
-      "id": "202eaa0bd32f",
-      "title": "R&B Up-And-Comer of the Month TheARTI$t On The Moment She Realized \u2018This Is My Purpose\u2019",
-      "summary": "The rising Jersey artist talks about her viral single \"Sober,\" new album 'DND' and touring with Kehlani.",
-      "company": "R&B Up-And-Comer",
-      "link": "https://www.billboard.com/music/rb-hip-hop/theartist-new-album-kehlani-tour-up-and-coming-rb-artist-1236327462/",
-      "date": "Aug 28, 26",
+      "id": "e9c36d3008c4",
+      "title": "Knitting Factory Entertainment Acquires Minority Stake in Does Entertainment, Forming Strategic Growth Partnership to Expand National Live...",
+      "summary": "Companies Align to Accelerate Venue Development, Talent Buying, Concert Promotion and Strategic Growth Across North America Los Angeles, CA / Wilmington, NC, July 14, 2026 \u2013&#160;Knitting Factory Ente",
+      "company": "",
+      "link": "https://venuestoday.com/knitting-factory-entertainment-acquires-minority-stake-in-does-entertainment-forming-strategic-growth-partnership-to-expand-national-live-entertainment-platform/",
+      "date": "Jul 15, 26",
+      "source": "Venues Today",
+      "layer": 2,
+      "access": "pe",
+      "score": 24,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "67b4a464da91",
+      "title": "Charli xcx Makes a Striking Statement With Reading Festival Headline Set: 5 Best Moments",
+      "summary": "Charli gave her first U.K. performance since the release of her eighth studio album Music, Fashion, Film.",
+      "company": "Charli",
+      "link": "https://www.billboard.com/lists/charli-xcx-reading-festival-2026-best-moments/",
+      "date": "Aug 29, 26",
       "source": "Billboard",
       "layer": 1,
       "access": "pe",
-      "score": 21,
+      "score": 20,
       "moments": [
-        "album_announcement"
+        "festival_headliner"
       ]
     },
     {
@@ -239,21 +254,6 @@
       ]
     },
     {
-      "id": "309cadb8a46d",
-      "title": "Jamie T tells us about his current headspace ahead of new album: \u201cI\u2019m really happy to be where I am\u201d",
-      "summary": "The London musician is set to release his sixth album \u2018Ghosts (100 Days Of Mourning)\u2019 in October The post Jamie T tells us about his current headspace ahead of new album: \u201cI\u2019m really happy to be where",
-      "company": "Jamie",
-      "link": "https://www.nme.com/news/music/jamie-t-reading-2026-interview-headspace-new-album-3965384?utm_source=rss&utm_medium=rss&utm_campaign=jamie-t-reading-2026-interview-headspace-new-album",
-      "date": "Aug 28, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
       "id": "751d79b33792",
       "title": "10 minutes backstage with Jill Scott at the YouTube Theater",
       "summary": "Backstage during her L.A. tour stop, we caught up with the Grammy-winning singer to talk about why she wanted a phone-free show, the impact of her new album and more.",
@@ -284,6 +284,21 @@
       ]
     },
     {
+      "id": "48ea2ed179cf",
+      "title": "Billy Strings Announces Winter 2027 U.S. Tour Dates",
+      "summary": "Billy Strings is extending his touring schedule into 2027, announcing 10 U.S. shows for February that will take the bluegrass... The post Billy Strings Announces Winter 2027 U.S. Tour Dates appeared f",
+      "company": "Billy Strings Announces Winter",
+      "link": "https://www.ticketnews.com/2026/08/billy-strings-announces-winter-2027-u-s-tour-dates/",
+      "date": "Aug 28, 26",
+      "source": "Ticket News",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "tour_announcement"
+      ]
+    },
+    {
       "id": "f24bbca570c3",
       "title": "MassMutual Ventures launches $150m second climate fund as strategy incorporates AI, real assets",
       "summary": "MassMutual Ventures has launched a $150m second climate technology fund, maintaining the expanded scale of its first vehicle while sharpening its investment strategy around AI and technology targeting",
@@ -299,18 +314,48 @@
       ]
     },
     {
-      "id": "3c9b233d774b",
-      "title": "Bamboo Insurance Files Registration Statement for Proposed Initial Public Offering",
-      "summary": "MIDVALE, Utah, Aug. 28, 2026 /PRNewswire/ -- Bamboo Insurance Services, Inc. (\"Bamboo Insurance\") today announced that it has filed a registration statement on Form S-1 with the U.S. Securities and Ex",
-      "company": "",
-      "link": "https://www.prnewswire.com/news-releases/bamboo-insurance-files-registration-statement-for-proposed-initial-public-offering-302863171.html",
-      "date": "Aug 28, 26",
-      "source": "PR Newswire",
+      "id": "ed24e331be68",
+      "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
+      "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
+      "company": "Niloufar Banisaied",
+      "link": "https://venuestoday.com/niloufar-banisaied-is-bringing-timeless-design-and-the-guest-experience-at-the-forefront/",
+      "date": "Jun 09, 26",
+      "source": "Venues Today",
       "layer": 4,
-      "access": "public",
-      "score": 8,
+      "access": "pe",
+      "score": 11,
       "moments": [
-        "ipo"
+        "company_launch"
+      ]
+    },
+    {
+      "id": "bf10a44f9356",
+      "title": "Juanes, Alejandro Sanz & More Launch Marea Viva to Rebuild Choc\u00f3 After Earthquake & More Uplifting Moments",
+      "summary": "Plus, Amazon Music honors Juan Gabriel\u2019s legacy, and Eladio Carri\u00f3n earns the Hispanic Heritage Foundation\u2019s Inspira Award.",
+      "company": "Juanes Alejandro Sanz",
+      "link": "https://www.billboard.com/music/latin/juanes-choco-relief-juan-gabriel-tribute-mon-laferte-tour-1236327727/",
+      "date": "Aug 29, 26",
+      "source": "Billboard",
+      "layer": 2,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "f3a1d1554548",
+      "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
+      "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
+      "company": "Navigating",
+      "link": "https://venuestoday.com/navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026/",
+      "date": "Apr 22, 26",
+      "source": "Venues Today",
+      "layer": 3,
+      "access": "pe",
+      "score": 6,
+      "moments": [
+        "acquisition"
       ]
     },
     {
@@ -324,19 +369,6 @@
       "layer": 2,
       "access": "pe",
       "score": 15,
-      "moments": []
-    },
-    {
-      "id": "bdf6c9be6345",
-      "title": "Sub Focus to donate \u00a31 for every ticket of UK tour to Save Our Scene and grassroots levy",
-      "summary": "\u201cI\u2019m lucky enough to have the opportunity to help support the grassroots venues I came up with\u201d The post Sub Focus to donate \u00a31 for every ticket of UK tour to Save Our Scene and grassroots levy appear",
-      "company": "Sub Focus",
-      "link": "https://www.nme.com/news/music/sub-focus-ticket-levy-uk-tour-save-our-scene-and-grassroots-levy-3965395?utm_source=rss&utm_medium=rss&utm_campaign=sub-focus-ticket-levy-uk-tour-save-our-scene-and-grassroots-levy",
-      "date": "Aug 28, 26",
-      "source": "NME",
-      "layer": 2,
-      "access": "pe",
-      "score": 10,
       "moments": []
     },
     {
@@ -360,19 +392,6 @@
       "link": "https://www.sportico.com/business/sports-betting/2026/kalshi-nevada-circuit-appeal-loss-explain-1234943227/",
       "date": "Aug 28, 26",
       "source": "Sportico",
-      "layer": 2,
-      "access": "pe",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "6b27958c00aa",
-      "title": "Tampa City Council Narrowly Approves Rays Stadium Funding",
-      "summary": "Lon Horwedel-Imagn Images",
-      "company": "Tampa City Council Narrowly Approves Rays",
-      "link": "https://frontofficesports.com/tampa-city-council-narrowly-approves-rays-stadium-funding/",
-      "date": "Aug 28, 26",
-      "source": "Front Office Sports",
       "layer": 2,
       "access": "pe",
       "score": 8,
@@ -444,19 +463,6 @@
       "moments": []
     },
     {
-      "id": "21842a59f515",
-      "title": "Executive Turntable: Anh Do Named Global Head of Music at TBWA\\Media Arts Lab",
-      "summary": "In this week's column, PRG appoints two to the company's C-suite, WME has a new head of marketing and more music industry hires and promotions.",
-      "company": "Executive Turntable",
-      "link": "https://www.billboard.com/lists/exec-turntable-anh-do-global-head-of-music-media-arts-lab/",
-      "date": "Aug 28, 26",
-      "source": "Billboard",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
       "id": "0c2e6b59f14f",
       "title": "Post Malone is officially off the market: He is engaged to stylist Christy Lee",
       "summary": "Post Malone is engaged to girlfriend and stylist Christy Lee. He seemingly popped the question in Utah this week after more than a year of dating.",
@@ -464,6 +470,19 @@
       "link": "https://www.latimes.com/entertainment-arts/story/2026-08-20/post-malone-engaged-christy-lee",
       "date": "Aug 20, 26",
       "source": "LA Times Music",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "8f95fdb4c719",
+      "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
+      "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
+      "company": "Global Times",
+      "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/",
+      "date": "May 09, 26",
+      "source": "Venues Today",
       "layer": 4,
       "access": "pe",
       "score": 4,
