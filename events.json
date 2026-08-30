@@ -1,7 +1,23 @@
 {
-  "generated": "2026-08-29T16:29:57.022819+00:00",
-  "total": 33,
+  "generated": "2026-08-30T16:22:57.499853+00:00",
+  "total": 35,
   "scraped": [
+    {
+      "id": "34ea70bcb4ed",
+      "title": "Olivia Rodrigo\u2019s Daisy Chain Fields Music Festival Proves There Is Hope For Us All: 13 Best Moments",
+      "summary": "Inside the inaugural all-women festival founded and headlined by the pop superstar.",
+      "company": "Olivia Rodrigo\u2019s Daisy Chain Fields Music",
+      "link": "https://www.billboard.com/lists/olivia-rodrigo-daisy-chain-fields-music-festival-recap/",
+      "date": "Aug 30, 26",
+      "source": "Billboard",
+      "layer": 1,
+      "access": "pe",
+      "score": 19,
+      "moments": [
+        "festival_headliner",
+        "company_launch"
+      ]
+    },
     {
       "id": "ab7dc8ff540e",
       "title": "BV Investment-backed Imagenet acquires data firm Analytica Consulting",
@@ -194,36 +210,6 @@
       ]
     },
     {
-      "id": "67b4a464da91",
-      "title": "Charli xcx Makes a Striking Statement With Reading Festival Headline Set: 5 Best Moments",
-      "summary": "Charli gave her first U.K. performance since the release of her eighth studio album Music, Fashion, Film.",
-      "company": "Charli",
-      "link": "https://www.billboard.com/lists/charli-xcx-reading-festival-2026-best-moments/",
-      "date": "Aug 29, 26",
-      "source": "Billboard",
-      "layer": 1,
-      "access": "pe",
-      "score": 20,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "66dc1d8c4068",
-      "title": "The NFL Now Owns a Piece of DAZN, Too",
-      "summary": "DAZN acquiring EverPass means the NFL\u2019s investment arm will become a minority owner in yet another media company. RedBird Capital and the NFL\u2019s 32 Equity founded EverPass, which makes live game stream",
-      "company": "The NFL Now Owns",
-      "link": "https://www.sportico.com/business/media/2026/dazn-everpass-acquisition-nfl-ownership-espn-1234943119/",
-      "date": "Aug 27, 26",
-      "source": "Sportico",
-      "layer": 1,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
       "id": "406f96ce0fea",
       "title": "Karol G's Latin American fantasia lands elegantly at SoFi Stadium",
       "summary": "As part of her \"Viajando Por El Mundo Tropitour,\" Grammy-winning Colombian superstar Karol G headlined the first of three nights at the SoFi Stadium in Inglewood. Ernesto Lechner reviews for the L.A. ",
@@ -299,6 +285,21 @@
       ]
     },
     {
+      "id": "dc2a0cc972d1",
+      "title": "Bonnaroo cancels 2027 edition as extreme weather pounds music festivals",
+      "summary": "The Bonnaroo Music and Arts Festival in Tennessee will take a year off in 2027 after years of weather disruptions and efforts to improve the festival grounds.",
+      "company": "Bonnaroo",
+      "link": "https://www.latimes.com/entertainment-arts/story/2026-08-21/bonnaroo-canceled-2027-extreme-weather",
+      "date": "Aug 21, 26",
+      "source": "LA Times Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
       "id": "f24bbca570c3",
       "title": "MassMutual Ventures launches $150m second climate fund as strategy incorporates AI, real assets",
       "summary": "MassMutual Ventures has launched a $150m second climate technology fund, maintaining the expanded scale of its first vehicle while sharpening its investment strategy around AI and technology targeting",
@@ -329,16 +330,16 @@
       ]
     },
     {
-      "id": "bf10a44f9356",
-      "title": "Juanes, Alejandro Sanz & More Launch Marea Viva to Rebuild Choc\u00f3 After Earthquake & More Uplifting Moments",
-      "summary": "Plus, Amazon Music honors Juan Gabriel\u2019s legacy, and Eladio Carri\u00f3n earns the Hispanic Heritage Foundation\u2019s Inspira Award.",
-      "company": "Juanes Alejandro Sanz",
-      "link": "https://www.billboard.com/music/latin/juanes-choco-relief-juan-gabriel-tribute-mon-laferte-tour-1236327727/",
-      "date": "Aug 29, 26",
-      "source": "Billboard",
-      "layer": 2,
+      "id": "cd2e87dd3f2a",
+      "title": "Hospitality boom and $100 chicken nuggets: how the US Open became obscenely expensive",
+      "summary": "Record crowds, premium seats and an unchecked resale market are transforming the self-styled people\u2019s slam \u2013 and leaving ordinary fans fighting to get through the gatesIt takes a truly exceptional aff",
+      "company": "Hospitality",
+      "link": "https://www.theguardian.com/sport/2026/aug/30/us-open-ticket-prices-usta-resale-affordability",
+      "date": "Aug 30, 26",
+      "source": "Guardian Sport",
+      "layer": 4,
       "access": "pe",
-      "score": 6,
+      "score": 9,
       "moments": [
         "company_launch"
       ]
@@ -369,6 +370,19 @@
       "layer": 2,
       "access": "pe",
       "score": 15,
+      "moments": []
+    },
+    {
+      "id": "8da3d43886eb",
+      "title": "Parksy (parksy.com) Mapped Parking Around 12 of America's Biggest Venues: Nearly 2,000 Options Near Madison Square Garden, 18 Near Hard Rock Stadium",
+      "summary": "Car space demand is not a shortage of parking. It is a shortage of introductions. \u2014 Daniel Battaglia, Parksy LOS ANGELES, Aug. 30, 2026 /PRNewswire/ -- Parksy ( parksy.com ), the free parking marketpl",
+      "company": "Parksy",
+      "link": "https://www.prnewswire.com/news-releases/parksy-parksycom-mapped-parking-around-12-of-americas-biggest-venues-nearly-2-000-options-near-madison-square-garden-18-near-hard-rock-stadium-302864386.html",
+      "date": "Aug 30, 26",
+      "source": "PR Newswire",
+      "layer": 2,
+      "access": "pe",
+      "score": 10,
       "moments": []
     },
     {
@@ -470,6 +484,19 @@
       "link": "https://www.latimes.com/entertainment-arts/story/2026-08-20/post-malone-engaged-christy-lee",
       "date": "Aug 20, 26",
       "source": "LA Times Music",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "22444a7d4a76",
+      "title": "YFORE lance le syst\u00e8me de d\u00e9tection embarqu\u00e9e ODMS pour renforcer la s\u00e9curit\u00e9 du poste de pilotage",
+      "summary": "SUWANEE, G\u00e9orgie, 30 ao\u00fbt 2026 /PRNewswire/ -- \u00c0 l'occasion de l'inauguration officielle de son site de production nord-am\u00e9ricain en G\u00e9orgie, le fournisseur mondial YFORE Technology a pr\u00e9sent\u00e9 son sys",
+      "company": "YFORE",
+      "link": "https://www.prnewswire.com/news-releases/yfore-lance-le-systeme-de-detection-embarquee-odms-pour-renforcer-la-securite-du-poste-de-pilotage-302864364.html",
+      "date": "Aug 30, 26",
+      "source": "PR Newswire",
       "layer": 4,
       "access": "pe",
       "score": 4,
