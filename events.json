@@ -1,23 +1,7 @@
 {
-  "generated": "2026-08-30T16:22:57.499853+00:00",
-  "total": 35,
+  "generated": "2026-08-31T18:58:44.046404+00:00",
+  "total": 33,
   "scraped": [
-    {
-      "id": "34ea70bcb4ed",
-      "title": "Olivia Rodrigo\u2019s Daisy Chain Fields Music Festival Proves There Is Hope For Us All: 13 Best Moments",
-      "summary": "Inside the inaugural all-women festival founded and headlined by the pop superstar.",
-      "company": "Olivia Rodrigo\u2019s Daisy Chain Fields Music",
-      "link": "https://www.billboard.com/lists/olivia-rodrigo-daisy-chain-fields-music-festival-recap/",
-      "date": "Aug 30, 26",
-      "source": "Billboard",
-      "layer": 1,
-      "access": "pe",
-      "score": 19,
-      "moments": [
-        "festival_headliner",
-        "company_launch"
-      ]
-    },
     {
       "id": "ab7dc8ff540e",
       "title": "BV Investment-backed Imagenet acquires data firm Analytica Consulting",
@@ -67,22 +51,6 @@
       ]
     },
     {
-      "id": "6b789dd624da",
-      "title": "JPMorgan\u2019s David Sweet talks \u2018battleship defensibility\u2019 of fire safety platforms; KKR\u2019s Industrial Physics scoops up electrical testing firm from...",
-      "summary": "Talking with JPMorgan business services banker David Sweet to go over the fire protection and life safety market and the high valuations PE firms are paying for companies in the space; KKR-backed Indu",
-      "company": "JPMorgan\u2019s David Sweet",
-      "link": "https://www.pehub.com/jpmorgans-david-sweet-talks-battleship-defensibility-of-fire-safety-platforms-kkrs-industrial-physics-scoops-up-electrical-testing-firm-from-branford-castle/",
-      "date": "Aug 27, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "acquisition",
-        "pe_investment"
-      ]
-    },
-    {
       "id": "e8bd9585c14f",
       "title": "From the Spotify Mafia to the Lovable Mafia: inside Stockholm\u2019s founder network",
       "summary": "Vibe-coding darling&#160;Lovable just raised $400 million at a&#160;$13.3 billion&#160;valuation,&#160;roughly doubling&#160;its worth in eight months. But Lovable&#160;isn\u2019t&#160;the only Stockholm s",
@@ -93,22 +61,6 @@
       "layer": 1,
       "access": "public",
       "score": 16,
-      "moments": [
-        "streaming_milestone",
-        "company_launch"
-      ]
-    },
-    {
-      "id": "02573612ed90",
-      "title": "Music Industry Moves: Warner Music and Blavatnik Family Foundation Announce 2026 Grantees; Spotify Ups Joe Hadley",
-      "summary": "The Warner Music Group / Blavatnik Family Foundation Social Justice Fund has announced its first slate of 2026 grantees \u2013 a docket that includes 17 organizations and an investment of almost $6 million",
-      "company": "Music Industry Moves",
-      "link": "https://variety.com/2026/music/news/meghan-trainor-signs-with-uta-1236842423/",
-      "date": "Aug 28, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 15,
       "moments": [
         "streaming_milestone",
         "company_launch"
@@ -195,6 +147,22 @@
       ]
     },
     {
+      "id": "2e2e1736065f",
+      "title": "Accrual Equity Partners, Dansons Capital Group acquire Shasta Pools",
+      "summary": "Shasta Pools, which the company describes as Phoenix Metro's most recognized pool builder, has built or renovated more than 150,000 pools across Maricopa County since its founding in 1966. The post Ac",
+      "company": "",
+      "link": "https://www.pehub.com/accrual-equity-partners-dansons-capital-group-acquire-shasta-pools/",
+      "date": "Aug 31, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 10,
+      "moments": [
+        "acquisition",
+        "company_launch"
+      ]
+    },
+    {
       "id": "e9c36d3008c4",
       "title": "Knitting Factory Entertainment Acquires Minority Stake in Does Entertainment, Forming Strategic Growth Partnership to Expand National Live...",
       "summary": "Companies Align to Accelerate Venue Development, Talent Buying, Concert Promotion and Strategic Growth Across North America Los Angeles, CA / Wilmington, NC, July 14, 2026 \u2013&#160;Knitting Factory Ente",
@@ -210,18 +178,33 @@
       ]
     },
     {
-      "id": "406f96ce0fea",
-      "title": "Karol G's Latin American fantasia lands elegantly at SoFi Stadium",
-      "summary": "As part of her \"Viajando Por El Mundo Tropitour,\" Grammy-winning Colombian superstar Karol G headlined the first of three nights at the SoFi Stadium in Inglewood. Ernesto Lechner reviews for the L.A. ",
-      "company": "Karol G's Latin American",
-      "link": "https://www.latimes.com/delos/story/2026-08-15/karol-g-tropitour-sofi-stadium-los-angeles-elena-rose-concert-review",
-      "date": "Aug 16, 26",
-      "source": "LA Times Music",
-      "layer": 2,
+      "id": "e3b29af1e4d9",
+      "title": "Music Industry Moves: Yoshiki Signs With BMG",
+      "summary": "Japanese superstar singer-songwriter Yoshiki has signed a global distribution and publishing administration agreement with BMG through his record label, Melodee. BMG will provide global distribution f",
+      "company": "Music Industry Moves",
+      "link": "https://variety.com/2026/music/news/yoshiki-signs-with-bmg-1236847324/",
+      "date": "Aug 31, 26",
+      "source": "Variety Music",
+      "layer": 1,
       "access": "pe",
-      "score": 15,
+      "score": 17,
       "moments": [
-        "festival_headliner"
+        "record_deal"
+      ]
+    },
+    {
+      "id": "87b4d58f3de7",
+      "title": "Daisy Chain Fields review \u2013 Olivia Rodrigo\u2019s women-led festival is electric amid extreme heat",
+      "summary": "Great Park, Irvine, CaliforniaPerformances from Rodrigo, Stevie Nicks, Chappell Roan and Sarah McLachlan raise $20m for charity yet are marred by poor planning for heatwaveShortly after singing the cl",
+      "company": "Daisy Chain Fields",
+      "link": "https://www.theguardian.com/music/2026/aug/30/daisy-chain-fields-festival-review-olivia-rodrigo",
+      "date": "Aug 30, 26",
+      "source": "Guardian Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "funding_round"
       ]
     },
     {
@@ -300,6 +283,36 @@
       ]
     },
     {
+      "id": "3083d0f55e82",
+      "title": "Venus Williams bows out after 2am following latest start in US Open history",
+      "summary": "Kenin wins 6-2, 7-6 (6) in late-night contestWilliams loses 15th straight tour-level matchFirst-round clash finally begins at 12.13amSunday had become Monday by the time Venus Williams finally emerged",
+      "company": "Venus Williams",
+      "link": "https://www.theguardian.com/sport/2026/aug/31/venus-williams-sofia-kenin-us-open-first-round",
+      "date": "Aug 31, 26",
+      "source": "Guardian Sport",
+      "layer": 2,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "943fa2519dc3",
+      "title": "Grass Is Latest Issue With Bills\u2019 New Stadium",
+      "summary": "Gregory Fisher-Imagn Images",
+      "company": "Grass Is Latest Issue With Bills\u2019",
+      "link": "https://frontofficesports.com/grass-is-latest-issue-with-bills-new-stadium/",
+      "date": "Aug 30, 26",
+      "source": "Front Office Sports",
+      "layer": 2,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "venue_announcement"
+      ]
+    },
+    {
       "id": "f24bbca570c3",
       "title": "MassMutual Ventures launches $150m second climate fund as strategy incorporates AI, real assets",
       "summary": "MassMutual Ventures has launched a $150m second climate technology fund, maintaining the expanded scale of its first vehicle while sharpening its investment strategy around AI and technology targeting",
@@ -325,21 +338,6 @@
       "layer": 4,
       "access": "pe",
       "score": 11,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "cd2e87dd3f2a",
-      "title": "Hospitality boom and $100 chicken nuggets: how the US Open became obscenely expensive",
-      "summary": "Record crowds, premium seats and an unchecked resale market are transforming the self-styled people\u2019s slam \u2013 and leaving ordinary fans fighting to get through the gatesIt takes a truly exceptional aff",
-      "company": "Hospitality",
-      "link": "https://www.theguardian.com/sport/2026/aug/30/us-open-ticket-prices-usta-resale-affordability",
-      "date": "Aug 30, 26",
-      "source": "Guardian Sport",
-      "layer": 4,
-      "access": "pe",
-      "score": 9,
       "moments": [
         "company_launch"
       ]
@@ -373,19 +371,6 @@
       "moments": []
     },
     {
-      "id": "8da3d43886eb",
-      "title": "Parksy (parksy.com) Mapped Parking Around 12 of America's Biggest Venues: Nearly 2,000 Options Near Madison Square Garden, 18 Near Hard Rock Stadium",
-      "summary": "Car space demand is not a shortage of parking. It is a shortage of introductions. \u2014 Daniel Battaglia, Parksy LOS ANGELES, Aug. 30, 2026 /PRNewswire/ -- Parksy ( parksy.com ), the free parking marketpl",
-      "company": "Parksy",
-      "link": "https://www.prnewswire.com/news-releases/parksy-parksycom-mapped-parking-around-12-of-americas-biggest-venues-nearly-2-000-options-near-madison-square-garden-18-near-hard-rock-stadium-302864386.html",
-      "date": "Aug 30, 26",
-      "source": "PR Newswire",
-      "layer": 2,
-      "access": "pe",
-      "score": 10,
-      "moments": []
-    },
-    {
       "id": "fec831122a3c",
       "title": "Post Malone Shelves Asia and Australia Tour Months After Cutting U.S. Stadium Dates",
       "summary": "Post Malone has postponed upcoming legs of his \u201cBig Ass World Tour\u201d across Asia and Australia, shelving a run of... The post Post Malone Shelves Asia and Australia Tour Months After Cutting U.S. Stadi",
@@ -399,16 +384,16 @@
       "moments": []
     },
     {
-      "id": "f4a602cc2ed5",
-      "title": "Kalshi\u2019s Appeal Loss to Nevada Brings Revenue Growth Risk",
-      "summary": "Kalshi\u2019s request for an injunction allowing it to offer sports-related prediction market bets in Nevada while litigation with the state plays out was rejected by the 9th Circuit Court of Appeals in a ",
-      "company": "Kalshi\u2019s Appeal Loss",
-      "link": "https://www.sportico.com/business/sports-betting/2026/kalshi-nevada-circuit-appeal-loss-explain-1234943227/",
-      "date": "Aug 28, 26",
-      "source": "Sportico",
+      "id": "e5ec7e27d8b0",
+      "title": "PHFA issues RFP to fund mixed-use development projects",
+      "summary": "Funding priority will be given to proposals from third-class cities HARRISBURG, Pa., Aug. 31, 2026 /PRNewswire/ -- The Pennsylvania Housing Finance Agency today is issuing a Request for Proposals for ",
+      "company": "PHFA",
+      "link": "https://www.prnewswire.com/news-releases/phfa-issues-rfp-to-fund-mixed-use-development-projects-302865251.html",
+      "date": "Aug 31, 26",
+      "source": "PR Newswire",
       "layer": 2,
       "access": "pe",
-      "score": 8,
+      "score": 9,
       "moments": []
     },
     {
@@ -484,19 +469,6 @@
       "link": "https://www.latimes.com/entertainment-arts/story/2026-08-20/post-malone-engaged-christy-lee",
       "date": "Aug 20, 26",
       "source": "LA Times Music",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "22444a7d4a76",
-      "title": "YFORE lance le syst\u00e8me de d\u00e9tection embarqu\u00e9e ODMS pour renforcer la s\u00e9curit\u00e9 du poste de pilotage",
-      "summary": "SUWANEE, G\u00e9orgie, 30 ao\u00fbt 2026 /PRNewswire/ -- \u00c0 l'occasion de l'inauguration officielle de son site de production nord-am\u00e9ricain en G\u00e9orgie, le fournisseur mondial YFORE Technology a pr\u00e9sent\u00e9 son sys",
-      "company": "YFORE",
-      "link": "https://www.prnewswire.com/news-releases/yfore-lance-le-systeme-de-detection-embarquee-odms-pour-renforcer-la-securite-du-poste-de-pilotage-302864364.html",
-      "date": "Aug 30, 26",
-      "source": "PR Newswire",
       "layer": 4,
       "access": "pe",
       "score": 4,
