@@ -1,14 +1,30 @@
 {
-  "generated": "2026-08-31T18:58:44.046404+00:00",
-  "total": 33,
+  "generated": "2026-09-01T16:20:09.880763+00:00",
+  "total": 35,
   "scraped": [
     {
-      "id": "ab7dc8ff540e",
-      "title": "BV Investment-backed Imagenet acquires data firm Analytica Consulting",
-      "summary": "Founded in 2015, Analytica Consulting works with US government agencies and commercial organizations across healthcare, life sciences, manufacturing and education. The post BV Investment-backed Imagen",
-      "company": "BV Investment-backed Imagenet",
-      "link": "https://www.pehub.com/bv-investment-backed-imagenet-acquires-data-firm-analytica-consulting/",
-      "date": "Aug 27, 26",
+      "id": "fe0ecfa3ca42",
+      "title": "Ares scales inherited Japan logistics strategy to record $4bn fund after GCP acquisition",
+      "summary": "Ares Management has closed its fifth Japan logistics development fund at a JPY612bn ($4bn) hard cap, increasing the strategy by nearly 50% from its predecessor just over a year after acquiring the pla",
+      "company": "Ares",
+      "link": "https://www.altassets.net/private-equity-news/by-region/asia-by-region/japan-asia-by-region/ares-scales-inherited-japan-logistics-strategy-to-record-4bn-fund-after-gcp-acquisition.html",
+      "date": "Sep 01, 26",
+      "source": "AltAssets",
+      "layer": 1,
+      "access": "pe",
+      "score": 20,
+      "moments": [
+        "acquisition",
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "0f6035d44bd1",
+      "title": "Valeas Capital, Kudu-backed Sequoia Financial acquires BSW Wealth Partners",
+      "summary": "Boulder, Colorado-based BSW Wealth Partners, founded in 1992, managed approximately $2.3 billion in client assets as of June 30, 2026 across offices in Boulder and Denver. The post Valeas Capital, Kud",
+      "company": "Valeas Capital Kudu-backed Sequoia Financial",
+      "link": "https://www.pehub.com/valeas-capital-kudu-backed-sequoia-financial-acquires-bsw-wealth-partners/",
+      "date": "Sep 01, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
@@ -67,6 +83,22 @@
       ]
     },
     {
+      "id": "9638df2049cb",
+      "title": "LeapFrog names ex-Helios IR head Doble to lead fundraising after $1bn Fund IV close",
+      "summary": "LeapFrog Investments has hired former Helios Investment Partners global investor relations head Virginia Doble as partner and global head of Investor Solutions, putting her in charge of fundraising, c",
+      "company": "LeapFrog",
+      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/leapfrog-names-ex-helios-ir-head-doble-to-lead-fundraising-after-1bn-fund-iv-close.html",
+      "date": "Sep 01, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
       "id": "b42b71b5227b",
       "title": "GenNx360 scores $865m Fund IV close after $1.3bn of realisations in past year",
       "summary": "GenNx360 Capital Partners has nearly doubled the size of its flagship private equity fund with an $865m Fund IV close, substantially beating its original target after returning more than $1.3bn to inv",
@@ -95,70 +127,6 @@
       "score": 13,
       "moments": [
         "pe_investment",
-        "company_launch"
-      ]
-    },
-    {
-      "id": "314911627c66",
-      "title": "Capital F closes $17m debut fund targeting $15tn \u2018female economy\u2019, women make up nearly 85% of LP base",
-      "summary": "Capital F, a venture capital firm targeting tech businesses serving markets where women drive purchasing and product demand, has closed its debut fund on $17. The post Capital F closes $17m debut fund",
-      "company": "Capital F",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/capital-f-closes-17m-debut-fund-targeting-15tn-female-economy-women-make-up-nearly-85-of-lp-base.html",
-      "date": "Aug 27, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "2a8bf224b3ff",
-      "title": "Fiat Ventures rebrands as FGV Capital, seals oversubscribed $35m Fund II close",
-      "summary": "Fiat Ventures has rebranded as FGV Capital alongside closing its second fund at $35m - 40% above its original target. The post Fiat Ventures rebrands as FGV Capital, seals oversubscribed $35m Fund II ",
-      "company": "Fiat Ventures",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/fiat-ventures-rebrands-as-fgv-capital-seals-oversubscribed-35m-fund-ii-close.html",
-      "date": "Aug 26, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "0bc51fa766e0",
-      "title": "CIP triples growth markets fund size to $3bn, Fund II already more than half committed",
-      "summary": "Copenhagen Infrastructure Partners has closed its second Growth Markets Fund at about $3bn, nearly tripling the $1bn raised for its predecessor. The post CIP triples growth markets fund size to $3bn, ",
-      "company": "CIP",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/denmark-western-europe-europe-by-region/cip-triples-growth-markets-fund-size-to-3bn-fund-ii-already-more-than-half-committed.html",
-      "date": "Aug 25, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "2e2e1736065f",
-      "title": "Accrual Equity Partners, Dansons Capital Group acquire Shasta Pools",
-      "summary": "Shasta Pools, which the company describes as Phoenix Metro's most recognized pool builder, has built or renovated more than 150,000 pools across Maricopa County since its founding in 1966. The post Ac",
-      "company": "",
-      "link": "https://www.pehub.com/accrual-equity-partners-dansons-capital-group-acquire-shasta-pools/",
-      "date": "Aug 31, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 10,
-      "moments": [
-        "acquisition",
         "company_launch"
       ]
     },
@@ -193,18 +161,18 @@
       ]
     },
     {
-      "id": "87b4d58f3de7",
-      "title": "Daisy Chain Fields review \u2013 Olivia Rodrigo\u2019s women-led festival is electric amid extreme heat",
-      "summary": "Great Park, Irvine, CaliforniaPerformances from Rodrigo, Stevie Nicks, Chappell Roan and Sarah McLachlan raise $20m for charity yet are marred by poor planning for heatwaveShortly after singing the cl",
-      "company": "Daisy Chain Fields",
-      "link": "https://www.theguardian.com/music/2026/aug/30/daisy-chain-fields-festival-review-olivia-rodrigo",
-      "date": "Aug 30, 26",
-      "source": "Guardian Music",
+      "id": "d9a278760290",
+      "title": "Miley Cyrus Announces New Album \u2018Bass Persuades,\u2019 Sets Two Shows for Hollywood Bowl",
+      "summary": "Miley Cyrus has announced her new album &#8220;Bass Persuades,&#8221; releasing on September 18 via Atlantic Records. Cyrus will also make a rare return to the stage with a two-night stint at Hollywoo",
+      "company": "Miley Cyrus Announces New Album \u2018Bass",
+      "link": "https://variety.com/2026/music/news/miley-cyrus-new-album-bass-persuades-hollywood-bowl-1236847024/",
+      "date": "Sep 01, 26",
+      "source": "Variety Music",
       "layer": 1,
       "access": "pe",
       "score": 16,
       "moments": [
-        "funding_round"
+        "album_announcement"
       ]
     },
     {
@@ -223,6 +191,21 @@
       ]
     },
     {
+      "id": "ea5db3efdef5",
+      "title": "End Of The Road 2026: check out the stage times",
+      "summary": "The festival will celebrate its 20th anniversary from September 3 with headliners Pulp, CMAT, Mac DeMarco and Geese The post End Of The Road 2026: check out the stage times appeared first on NME.",
+      "company": "End Of The Road 2026",
+      "link": "https://www.nme.com/news/music/end-of-the-road-2026-check-out-the-stage-times-3966379?utm_source=rss&utm_medium=rss&utm_campaign=end-of-the-road-2026-check-out-the-stage-times",
+      "date": "Sep 01, 26",
+      "source": "NME",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
       "id": "751d79b33792",
       "title": "10 minutes backstage with Jill Scott at the YouTube Theater",
       "summary": "Backstage during her L.A. tour stop, we caught up with the Grammy-winning singer to talk about why she wanted a phone-free show, the impact of her new album and more.",
@@ -238,59 +221,59 @@
       ]
     },
     {
-      "id": "f6c62ce0227a",
-      "title": "California moves to restrict PE investment in law firms",
-      "summary": "California lawmakers have approved legislation that would significantly restrict private equity and other corporate investors from influencing the operations of law firms, potentially making the state",
-      "company": "California",
-      "link": "https://www.privateequitywire.co.uk/california-moves-to-restrict-pe-investment-in-law-firms/",
-      "date": "Aug 28, 26",
-      "source": "PE Wire",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "48ea2ed179cf",
-      "title": "Billy Strings Announces Winter 2027 U.S. Tour Dates",
-      "summary": "Billy Strings is extending his touring schedule into 2027, announcing 10 U.S. shows for February that will take the bluegrass... The post Billy Strings Announces Winter 2027 U.S. Tour Dates appeared f",
-      "company": "Billy Strings Announces Winter",
-      "link": "https://www.ticketnews.com/2026/08/billy-strings-announces-winter-2027-u-s-tour-dates/",
-      "date": "Aug 28, 26",
+      "id": "0f8762fd9e82",
+      "title": "Michael Bubl\u00e9 to Open Guadalajara\u2019s New Coliseo GNP Seguros in September",
+      "summary": "Michael Bubl\u00e9 will headline the first concert at Guadalajara\u2019s new Coliseo GNP Seguros, with the Grammy Award-winning singer scheduled to... The post Michael Bubl\u00e9 to Open Guadalajara\u2019s New Coliseo GN",
+      "company": "Michael Bubl\u00e9",
+      "link": "https://www.ticketnews.com/2026/09/michael-buble-to-open-guadalajaras-new-coliseo-gnp-seguros-in-september/",
+      "date": "Sep 01, 26",
       "source": "Ticket News",
       "layer": 1,
       "access": "pe",
       "score": 14,
       "moments": [
-        "tour_announcement"
+        "festival_headliner"
       ]
     },
     {
-      "id": "dc2a0cc972d1",
-      "title": "Bonnaroo cancels 2027 edition as extreme weather pounds music festivals",
-      "summary": "The Bonnaroo Music and Arts Festival in Tennessee will take a year off in 2027 after years of weather disruptions and efforts to improve the festival grounds.",
-      "company": "Bonnaroo",
-      "link": "https://www.latimes.com/entertainment-arts/story/2026-08-21/bonnaroo-canceled-2027-extreme-weather",
-      "date": "Aug 21, 26",
-      "source": "LA Times Music",
-      "layer": 1,
+      "id": "c914cb70abd7",
+      "title": "Alex Eala has one career main-draw win at the US Open. She\u2019s already a global star",
+      "summary": "Alex Eala has become the Philippines\u2019 biggest sporting star since Manny Pacquiao. Now the 21-year-old\u2019s traveling army of fans have descended on Flushing MeadowsThe crowd began to swell in Louis Armst",
+      "company": "Alex Eala",
+      "link": "https://www.theguardian.com/sport/2026/sep/01/alex-eala-us-open-philippines",
+      "date": "Sep 01, 26",
+      "source": "Guardian Sport",
+      "layer": 2,
       "access": "pe",
-      "score": 13,
+      "score": 12,
       "moments": [
         "festival_headliner"
       ]
     },
     {
-      "id": "3083d0f55e82",
-      "title": "Venus Williams bows out after 2am following latest start in US Open history",
-      "summary": "Kenin wins 6-2, 7-6 (6) in late-night contestWilliams loses 15th straight tour-level matchFirst-round clash finally begins at 12.13amSunday had become Monday by the time Venus Williams finally emerged",
-      "company": "Venus Williams",
-      "link": "https://www.theguardian.com/sport/2026/aug/31/venus-williams-sofia-kenin-us-open-first-round",
-      "date": "Aug 31, 26",
-      "source": "Guardian Sport",
-      "layer": 2,
+      "id": "6b998d59c0f1",
+      "title": "GI Partners bets on vehicle tracking; Revisiting Women in PE; What SBA proposals mean for PE investors",
+      "summary": "GI Partners closes majority investment in Otodata, a provider of remote monitoring and vehicle tracking technology; checking in with Buyouts\u2019 Women in PE 2020; how new rules proposed by teh SBA could ",
+      "company": "GI Partners",
+      "link": "https://www.pehub.com/gi-partners-bets-on-vehicle-tracking-revisiting-women-in-pe-what-sba-proposals-mean-for-pe-investors/",
+      "date": "Sep 01, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "259e53a2aae3",
+      "title": "Permira, CPP Investments complete $3.7bn acquisition of fund administrator JTC",
+      "summary": "JTC is a global fund administration, corporate and trust services platform that has combined sustained double-digit organic growth with a strategy of complementary acquisitions. The post Permira, CPP ",
+      "company": "Permira CPP Investments",
+      "link": "https://www.pehub.com/permira-cpp-investments-complete-3-7bn-acquisition-of-fund-administrator-jtc/",
+      "date": "Sep 01, 26",
+      "source": "PE Hub",
+      "layer": 5,
       "access": "pe",
       "score": 12,
       "moments": [
@@ -298,11 +281,26 @@
       ]
     },
     {
-      "id": "943fa2519dc3",
+      "id": "bb47c81b8d3f",
+      "title": "RangeWater Real Estate Acquires Bell Buckhead West, Expanding Investment Portfolio in one of Atlanta's High-Performing Multifamily Submarkets",
+      "summary": "Joint Venture with Heitman Investment Management Adds 280 Units in One of Atlanta's Most Supply-Constrained Neighborhoods ATLANTA, Sept. 1, 2026 /PRNewswire/ -- RangeWater Real Estate has acquired Bel",
+      "company": "",
+      "link": "https://www.prnewswire.com/news-releases/rangewater-real-estate-acquires-bell-buckhead-west-expanding-investment-portfolio-in-one-of-atlantas-high-performing-multifamily-submarkets-302866541.html",
+      "date": "Sep 01, 26",
+      "source": "PR Newswire",
+      "layer": 2,
+      "access": "venture",
+      "score": 12,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "f8e1cfc6892e",
       "title": "Grass Is Latest Issue With Bills\u2019 New Stadium",
       "summary": "Gregory Fisher-Imagn Images",
       "company": "Grass Is Latest Issue With Bills\u2019",
-      "link": "https://frontofficesports.com/grass-is-latest-issue-with-bills-new-stadium/",
+      "link": "https://frontofficesports.com/article/grass-is-latest-issue-with-bills-new-stadium/",
       "date": "Aug 30, 26",
       "source": "Front Office Sports",
       "layer": 2,
@@ -343,6 +341,21 @@
       ]
     },
     {
+      "id": "008f9314f8ff",
+      "title": "Kehlani reschedules tour dates after being hospitalized for 'so much pain'",
+      "summary": "Kehlani has rescheduled the two shows she had to postpone on her world tour after being in 'so much pain' she was 'unable to swallow.'",
+      "company": "Kehlani",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-08-28/kehlani-tour-dates-rescheduled-hospitalized-pain",
+      "date": "Aug 28, 26",
+      "source": "LA Times Music",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "tour_announcement"
+      ]
+    },
+    {
       "id": "f3a1d1554548",
       "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
       "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
@@ -358,53 +371,53 @@
       ]
     },
     {
-      "id": "b4da16884701",
-      "title": "Russian Stadium Says It Won\u2019t Host Ye Concerts",
-      "summary": "Gazprom Arena in St. Petersburg said that two October concerts would not take place there, citing a lack of rental agreements.",
-      "company": "Russian Stadium Says It Won\u2019t Host",
-      "link": "https://www.nytimes.com/2026/08/24/arts/music/ye-concerts-canceled-russia-gazprom-arena.html",
-      "date": "Aug 25, 26",
-      "source": "NYT Music",
+      "id": "0056ef8e2273",
+      "title": "Searchlight Capital to invest in Aderian",
+      "summary": "Aderian is a Nordic managed IT services provider with more than 10,000 SME customers in Sweden and Norway and SKr2.5 billion in revenue. The post Searchlight Capital to invest in Aderian appeared firs",
+      "company": "Searchlight Capital",
+      "link": "https://www.pehub.com/searchlight-capital-to-invest-in-aderian/",
+      "date": "Sep 01, 26",
+      "source": "PE Hub",
       "layer": 2,
       "access": "pe",
-      "score": 15,
+      "score": 13,
       "moments": []
     },
     {
-      "id": "fec831122a3c",
-      "title": "Post Malone Shelves Asia and Australia Tour Months After Cutting U.S. Stadium Dates",
-      "summary": "Post Malone has postponed upcoming legs of his \u201cBig Ass World Tour\u201d across Asia and Australia, shelving a run of... The post Post Malone Shelves Asia and Australia Tour Months After Cutting U.S. Stadi",
-      "company": "Post Malone Shelves Asia",
-      "link": "https://www.ticketnews.com/2026/08/post-malone-asia-australia-tour-postponed/",
-      "date": "Aug 28, 26",
-      "source": "Ticket News",
+      "id": "5b8a5eb4d030",
+      "title": "Kneecap announce massive \u2018Fenian\u2019 world tour \u2013 including 2026 UK and Ireland arena dates",
+      "summary": "Tickets go on sale later this week The post Kneecap announce massive &#8216;Fenian&#8217; world tour \u2013 including 2026 UK and Ireland arena dates appeared first on NME.",
+      "company": "Kneecap",
+      "link": "https://www.nme.com/news/music/kneecap-announce-fenian-world-tour-2026-uk-ireland-arena-dates-3966329?utm_source=rss&utm_medium=rss&utm_campaign=kneecap-announce-fenian-world-tour-2026-uk-ireland-arena-dates",
+      "date": "Sep 01, 26",
+      "source": "NME",
       "layer": 2,
       "access": "pe",
       "score": 10,
       "moments": []
     },
     {
-      "id": "e5ec7e27d8b0",
-      "title": "PHFA issues RFP to fund mixed-use development projects",
-      "summary": "Funding priority will be given to proposals from third-class cities HARRISBURG, Pa., Aug. 31, 2026 /PRNewswire/ -- The Pennsylvania Housing Finance Agency today is issuing a Request for Proposals for ",
-      "company": "PHFA",
-      "link": "https://www.prnewswire.com/news-releases/phfa-issues-rfp-to-fund-mixed-use-development-projects-302865251.html",
-      "date": "Aug 31, 26",
-      "source": "PR Newswire",
-      "layer": 2,
+      "id": "f0ce8cddf580",
+      "title": "StubHub Bets on Open Distribution as Ticketing Industry Rethinks the Walled Garden",
+      "summary": "StubHub is accelerating its effort to become a distribution partner for primary ticketing companies, a strategy that increasingly puts the... The post StubHub Bets on Open Distribution as Ticketing In",
+      "company": "StubHub Bets",
+      "link": "https://www.ticketnews.com/2026/09/stubhub-bets-on-open-distribution-as-ticketing-industry-rethinks-the-walled-garden/",
+      "date": "Sep 01, 26",
+      "source": "Ticket News",
+      "layer": 3,
       "access": "pe",
-      "score": 9,
+      "score": 6,
       "moments": []
     },
     {
-      "id": "27fefcee9e93",
-      "title": "Good Good Golf Pulls Out of PGA Tour Sponsorship",
-      "summary": "REUTERS/Nick Lachance",
-      "company": "Good Good Golf Pulls Out",
-      "link": "https://frontofficesports.com/good-good-golf-pga-tour/",
-      "date": "Aug 27, 26",
-      "source": "Front Office Sports",
-      "layer": 4,
+      "id": "4cad3a4398ea",
+      "title": "Doja Cat Opens Up About Cocaine Use, Struggling With Alcohol & Dealing With Self-Hate Issues: \u2018You\u2019re Not Indestructible\u2019",
+      "summary": "The star brought her signature candor to TikTok on Aug. 31.",
+      "company": "Doja Cat Opens Up About Cocaine",
+      "link": "https://www.billboard.com/music/rb-hip-hop/doja-cat-cocaine-use-self-hate-image-issues-1236329886/",
+      "date": "Sep 01, 26",
+      "source": "Billboard",
+      "layer": 3,
       "access": "pe",
       "score": 5,
       "moments": []
@@ -417,6 +430,19 @@
       "link": "https://www.latimes.com/entertainment-arts/story/2026-08-19/christian-band-demon-hunter-kpop-demon-hunters-trademark-lawsuit-netflix",
       "date": "Aug 20, 26",
       "source": "LA Times Music",
+      "layer": 3,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "5b542d2fd176",
+      "title": "BBC axes \u2018iconic\u2019 Ski Sunday winter sports show after nearly 50 years on TV",
+      "summary": "Corporation cites audience shifts and financial concernsBroadcaster under fire over approach to sports rightsA staple of Sunday afternoon TV for almost 50 years, with an instantly recognisable theme t",
+      "company": "BBC",
+      "link": "https://www.theguardian.com/sport/2026/sep/01/bbc-axes-ski-sunday-winter-sports-show",
+      "date": "Sep 01, 26",
+      "source": "Guardian Sport",
       "layer": 3,
       "access": "pe",
       "score": 5,
@@ -449,15 +475,15 @@
       "moments": []
     },
     {
-      "id": "503493e7cf17",
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on ",
-      "company": "The DOJ",
-      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "date": "Aug 21, 26",
-      "source": "TechCrunch Venture",
+      "id": "bc8a29897f4d",
+      "title": "Apple, OpenAI legal fight keeps escalating. Here's how we got here",
+      "summary": "Apple and OpenAI are escalating their legal fight over allegations that the ChatGPT maker used Apple employees to obtain closely guarded hardware secrets.Why it matters: If the case makes it to the di",
+      "company": "Apple OpenAI",
+      "link": "https://www.axios.com/2026/09/01/apple-openai-lawsuit-ai-gpt-devices",
+      "date": "Sep 01, 26",
+      "source": "Axios",
       "layer": 3,
-      "access": "venture",
+      "access": "pe",
       "score": 5,
       "moments": []
     },
