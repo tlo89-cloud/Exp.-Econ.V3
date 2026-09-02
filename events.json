@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-01T16:20:09.880763+00:00",
+  "generated": "2026-09-02T16:17:47.177016+00:00",
   "total": 35,
   "scraped": [
     {
@@ -19,35 +19,19 @@
       ]
     },
     {
-      "id": "0f6035d44bd1",
-      "title": "Valeas Capital, Kudu-backed Sequoia Financial acquires BSW Wealth Partners",
-      "summary": "Boulder, Colorado-based BSW Wealth Partners, founded in 1992, managed approximately $2.3 billion in client assets as of June 30, 2026 across offices in Boulder and Denver. The post Valeas Capital, Kud",
-      "company": "Valeas Capital Kudu-backed Sequoia Financial",
-      "link": "https://www.pehub.com/valeas-capital-kudu-backed-sequoia-financial-acquires-bsw-wealth-partners/",
-      "date": "Sep 01, 26",
-      "source": "PE Hub",
-      "layer": 5,
+      "id": "3716ab647239",
+      "title": "Kaskade, Electronic Music Icon, Signs With Pacific Music Group in Asia Partnership (EXCLUSIVE)",
+      "summary": "Kaskade has signed with Pacific Music Group (PMG) in a strategic partnership focused on expanding the electronic artist&#8217;s presence across Asia, the Pan-Asian entertainment company has revealed. ",
+      "company": "Kaskade Electronic Music Icon Signs With",
+      "link": "https://variety.com/2026/music/news/kaskade-signs-pacific-music-group-asia-1236849131/",
+      "date": "Sep 02, 26",
+      "source": "Variety Music",
+      "layer": 1,
       "access": "pe",
-      "score": 19,
+      "score": 18,
       "moments": [
-        "acquisition",
-        "company_launch"
-      ]
-    },
-    {
-      "id": "ac7ae0e6d42a",
-      "title": "Permanent Capital Ventures scales to $200m Fund II, two years after launch",
-      "summary": "Permanent Capital Ventures has raised a $200m second fund targeting Series A applied AI investments, rapidly scaling a venture platform that only began investing in early 2024. The post Permanent Capi",
-      "company": "Permanent Capital Ventures",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/permanent-capital-ventures-scales-to-200m-fund-ii-two-years-after-launch.html",
-      "date": "Aug 28, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 19,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
+        "record_deal",
+        "festival_headliner"
       ]
     },
     {
@@ -67,6 +51,38 @@
       ]
     },
     {
+      "id": "6c7686be6c79",
+      "title": "Rebecca Black on the Evolution of Song Virality: \u2018No Longer Are We Being Told What to Listen to\u2019",
+      "summary": "Ahead of her new album Age of the Exhibitionist, Rebecca Black joins the Billboard On the Record podcast to talk about virality then and now, and why she never signed a label deal.",
+      "company": "Rebecca Black",
+      "link": "https://www.billboard.com/pro/rebecca-black-on-the-evolution-of-song-virality/",
+      "date": "Sep 02, 26",
+      "source": "Billboard",
+      "layer": 1,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "album_announcement",
+        "record_deal"
+      ]
+    },
+    {
+      "id": "51f5259a1a4b",
+      "title": "Aks\u00eca-backed Valsa completes acquisition of I Maestri del Forno",
+      "summary": "The Pastorano-based producer makes ambient baked goods such as saltimbocca, pucce, panuozzi and pizza bases for the retail channel, and was founded in 2018 on its founders' multi-sector experience. Th",
+      "company": "Aks\u00eca-backed Valsa",
+      "link": "https://www.pehub.com/aksia-backed-valsa-completes-acquisition-of-i-maestri-del-forno/",
+      "date": "Sep 02, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "acquisition",
+        "company_launch"
+      ]
+    },
+    {
       "id": "e8bd9585c14f",
       "title": "From the Spotify Mafia to the Lovable Mafia: inside Stockholm\u2019s founder network",
       "summary": "Vibe-coding darling&#160;Lovable just raised $400 million at a&#160;$13.3 billion&#160;valuation,&#160;roughly doubling&#160;its worth in eight months. But Lovable&#160;isn\u2019t&#160;the only Stockholm s",
@@ -80,6 +96,22 @@
       "moments": [
         "streaming_milestone",
         "company_launch"
+      ]
+    },
+    {
+      "id": "48821bf6e728",
+      "title": "Deal Roundup: Epiris agrees \u00a31.08bn take-private of Gamma Communications, Yellow Wood to buy Nestl\u00e9 VMS platform for $1bn",
+      "summary": "Epiris has agreed a cash acquisition of Unified Communications as a Service specialist Gamma Communications which gives the FTSE 250 business a roughly \u00a31.08bn enterprise value. The post Deal Roundup:",
+      "company": "Deal Roundup",
+      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-epiris-agrees-1-08bn-take-private-of-gamma-communications-yellow-wood-to-buy-nestle-vms-platform-for-1bn.html",
+      "date": "Sep 02, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "acquisition",
+        "pe_investment"
       ]
     },
     {
@@ -99,12 +131,28 @@
       ]
     },
     {
-      "id": "b42b71b5227b",
-      "title": "GenNx360 scores $865m Fund IV close after $1.3bn of realisations in past year",
-      "summary": "GenNx360 Capital Partners has nearly doubled the size of its flagship private equity fund with an $865m Fund IV close, substantially beating its original target after returning more than $1.3bn to inv",
-      "company": "GenNx360",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/gennx360-scores-865m-fund-iv-close-after-1-3bn-of-realisations-in-past-year.html",
-      "date": "Aug 28, 26",
+      "id": "4609b246eed6",
+      "title": "OpenAI, Anthropic aim to balance safety, progress as IPOs near",
+      "summary": "OpenAI and Anthropic are trying to strike a delicate balance: convincing Wall Street that their businesses are sound and fast-growing, while at the same time assuring governments and the world that th",
+      "company": "OpenAI Anthropic",
+      "link": "https://www.axios.com/2026/09/02/openai-anthropic-fable-astra-ipo",
+      "date": "Sep 02, 26",
+      "source": "Axios",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "ipo",
+        "record_breaking"
+      ]
+    },
+    {
+      "id": "9b066fb6ac13",
+      "title": "Andreessen Horowitz adds $1.75bn to Growth V just eight months after $6.75bn close",
+      "summary": "Andreessen Horowitz has added $1.75bn of fresh capital to its fifth growth fund, increasing the vehicle to $8.5bn less than eight months after closing the vehicle. The post Andreessen Horowitz adds $1",
+      "company": "Andreessen Horowitz",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/andreessen-horowitz-adds-1-75bn-to-growth-v-just-eight-months-after-6-75bn-close.html",
+      "date": "Sep 02, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -112,22 +160,6 @@
       "moments": [
         "pe_investment",
         "fund_launch"
-      ]
-    },
-    {
-      "id": "1b75fe329fee",
-      "title": "Einride founders launch Navisalma to blend VC with private equity-style company building",
-      "summary": "Einride founders Robert Falck and Linn\u00e9a Kornehed Falck have launched Navisalma, a new European venture platform designed to combine venture investing with private equity-style operational value creat",
-      "company": "Einride",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/sweden-western-europe-europe-by-region/einride-founders-launch-navisalma-to-blend-vc-with-private-equity-style-company-building.html",
-      "date": "Aug 28, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "company_launch"
       ]
     },
     {
@@ -146,153 +178,108 @@
       ]
     },
     {
-      "id": "e3b29af1e4d9",
-      "title": "Music Industry Moves: Yoshiki Signs With BMG",
-      "summary": "Japanese superstar singer-songwriter Yoshiki has signed a global distribution and publishing administration agreement with BMG through his record label, Melodee. BMG will provide global distribution f",
-      "company": "Music Industry Moves",
-      "link": "https://variety.com/2026/music/news/yoshiki-signs-with-bmg-1236847324/",
-      "date": "Aug 31, 26",
-      "source": "Variety Music",
-      "layer": 1,
+      "id": "26aa17af8cfe",
+      "title": "Intera-backed Suvia Group expands to Belgium with AutoRepairGroup acquisition",
+      "summary": "The Heverlee-based body repair group runs 14 workshops across Belgium, employs more than 450 people and completes over 45,000 repairs a year, with 2026 revenue set to top \u20ac80m at a 10% EBITDA margin. ",
+      "company": "Intera-backed Suvia Group",
+      "link": "https://www.pehub.com/intera-backed-suvia-group-expands-to-belgium-with-autorepairgroup-acquisition/",
+      "date": "Sep 02, 26",
+      "source": "PE Hub",
+      "layer": 2,
       "access": "pe",
       "score": 17,
       "moments": [
-        "record_deal"
+        "acquisition"
       ]
     },
     {
-      "id": "d9a278760290",
-      "title": "Miley Cyrus Announces New Album \u2018Bass Persuades,\u2019 Sets Two Shows for Hollywood Bowl",
-      "summary": "Miley Cyrus has announced her new album &#8220;Bass Persuades,&#8221; releasing on September 18 via Atlantic Records. Cyrus will also make a rare return to the stage with a two-night stint at Hollywoo",
-      "company": "Miley Cyrus Announces New Album \u2018Bass",
-      "link": "https://variety.com/2026/music/news/miley-cyrus-new-album-bass-persuades-hollywood-bowl-1236847024/",
-      "date": "Sep 01, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "5e7d47fe1ef7",
-      "title": "Why Bootstrapped Businesses Are More Relevant Than Ever",
-      "summary": "The traditional VC model funds a risky search for product-market fit, argues guest author Richard de Silva of Lateral Investment Management, while bootstrapped founders typically start with known cust",
-      "company": "",
-      "link": "https://news.crunchbase.com/startups/bootstrapped-self-funded-business-ai-relevancy-desilva-lateral/",
-      "date": "Aug 25, 26",
-      "source": "Crunchbase News",
-      "layer": 2,
-      "access": "venture",
-      "score": 15,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "ea5db3efdef5",
-      "title": "End Of The Road 2026: check out the stage times",
-      "summary": "The festival will celebrate its 20th anniversary from September 3 with headliners Pulp, CMAT, Mac DeMarco and Geese The post End Of The Road 2026: check out the stage times appeared first on NME.",
-      "company": "End Of The Road 2026",
-      "link": "https://www.nme.com/news/music/end-of-the-road-2026-check-out-the-stage-times-3966379?utm_source=rss&utm_medium=rss&utm_campaign=end-of-the-road-2026-check-out-the-stage-times",
-      "date": "Sep 01, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "751d79b33792",
-      "title": "10 minutes backstage with Jill Scott at the YouTube Theater",
-      "summary": "Backstage during her L.A. tour stop, we caught up with the Grammy-winning singer to talk about why she wanted a phone-free show, the impact of her new album and more.",
-      "company": "Jill Scott",
-      "link": "https://www.latimes.com/travel/story/2026-08-21/10-minutes-backstage-with-jill-scott-at-youtube-theater",
-      "date": "Aug 21, 26",
-      "source": "LA Times Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "0f8762fd9e82",
-      "title": "Michael Bubl\u00e9 to Open Guadalajara\u2019s New Coliseo GNP Seguros in September",
-      "summary": "Michael Bubl\u00e9 will headline the first concert at Guadalajara\u2019s new Coliseo GNP Seguros, with the Grammy Award-winning singer scheduled to... The post Michael Bubl\u00e9 to Open Guadalajara\u2019s New Coliseo GN",
-      "company": "Michael Bubl\u00e9",
-      "link": "https://www.ticketnews.com/2026/09/michael-buble-to-open-guadalajaras-new-coliseo-gnp-seguros-in-september/",
-      "date": "Sep 01, 26",
-      "source": "Ticket News",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "c914cb70abd7",
-      "title": "Alex Eala has one career main-draw win at the US Open. She\u2019s already a global star",
-      "summary": "Alex Eala has become the Philippines\u2019 biggest sporting star since Manny Pacquiao. Now the 21-year-old\u2019s traveling army of fans have descended on Flushing MeadowsThe crowd began to swell in Louis Armst",
-      "company": "Alex Eala",
-      "link": "https://www.theguardian.com/sport/2026/sep/01/alex-eala-us-open-philippines",
-      "date": "Sep 01, 26",
-      "source": "Guardian Sport",
+      "id": "a3653f35ff37",
+      "title": "Ocean Avenue said to eye $750m for latest fund targeting independent sponsor co-invest deals",
+      "summary": "Special situations investor Ocean Avenue Capital Partners is back in the fundraising market eyeing up to $750m for its latest investment vehicle, which will target co-investments alongside independent",
+      "company": "Ocean Avenue",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/ocean-avenue-said-to-eye-750m-for-latest-fund-targeting-independent-sponsor-co-invest-deals.html",
+      "date": "Sep 02, 26",
+      "source": "AltAssets",
       "layer": 2,
       "access": "pe",
-      "score": 12,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "6b998d59c0f1",
-      "title": "GI Partners bets on vehicle tracking; Revisiting Women in PE; What SBA proposals mean for PE investors",
-      "summary": "GI Partners closes majority investment in Otodata, a provider of remote monitoring and vehicle tracking technology; checking in with Buyouts\u2019 Women in PE 2020; how new rules proposed by teh SBA could ",
-      "company": "GI Partners",
-      "link": "https://www.pehub.com/gi-partners-bets-on-vehicle-tracking-revisiting-women-in-pe-what-sba-proposals-mean-for-pe-investors/",
-      "date": "Sep 01, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
+      "score": 17,
       "moments": [
         "pe_investment"
       ]
     },
     {
-      "id": "259e53a2aae3",
-      "title": "Permira, CPP Investments complete $3.7bn acquisition of fund administrator JTC",
-      "summary": "JTC is a global fund administration, corporate and trust services platform that has combined sustained double-digit organic growth with a strategy of complementary acquisitions. The post Permira, CPP ",
-      "company": "Permira CPP Investments",
-      "link": "https://www.pehub.com/permira-cpp-investments-complete-3-7bn-acquisition-of-fund-administrator-jtc/",
-      "date": "Sep 01, 26",
-      "source": "PE Hub",
+      "id": "87b4d58f3de7",
+      "title": "Daisy Chain Fields review \u2013 Olivia Rodrigo\u2019s women-led festival is electric amid extreme heat",
+      "summary": "Great Park, Irvine, CaliforniaPerformances from Rodrigo, Stevie Nicks, Chappell Roan and Sarah McLachlan raise $20m for charity yet are marred by poor planning for heatwaveShortly after singing the cl",
+      "company": "Daisy Chain Fields",
+      "link": "https://www.theguardian.com/music/2026/aug/30/daisy-chain-fields-festival-review-olivia-rodrigo",
+      "date": "Aug 30, 26",
+      "source": "Guardian Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "funding_round"
+      ]
+    },
+    {
+      "id": "c7e41d7c9649",
+      "title": "Olivia Rodrigo and Cameron Crowe on Her \u2018Favorite Song\u2019 From Her New Album",
+      "summary": "The musician, who did an acoustic performance for her \u201cThe Cure Unraveled\u201d installation at L.A.\u2019s Grammy Museum, also talked about her Daisy Chain Fields festival",
+      "company": "Olivia Rodrigo",
+      "link": "https://www.rollingstone.com/music/music-features/olivia-rodrigo-cameron-crowe-the-cure-unraveled-exhibit-1235618338/",
+      "date": "Sep 02, 26",
+      "source": "Rolling Stone Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "187352475c6d",
+      "title": "Jake Bugg announces \u201cvulnerable\u201d new album \u2018Alamo\u2019 with country-leaning single \u2018Never Can Tell\u2019 and 2027 UK and Ireland tour",
+      "summary": "\u201cThe last couple of years have been tough for me and I\u2019ve had a lot of struggles\u2026 I\u2019m trying to navigate those and figure out where they stem from\u201d The post Jake Bugg announces &#8220;vulnerable&#8221",
+      "company": "Jake Bugg",
+      "link": "https://www.nme.com/news/music/jake-bugg-announces-album-alamo-single-never-can-tell-2027-uk-ireland-tour-tickets-3966578?utm_source=rss&utm_medium=rss&utm_campaign=jake-bugg-announces-album-alamo-single-never-can-tell-2027-uk-ireland-tour-tickets",
+      "date": "Sep 02, 26",
+      "source": "NME",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "4ac7ddfd56bd",
+      "title": "The IPO Window Is Closing. Here Are 8 Startups To Watch.",
+      "summary": "In the first half of this year, 58 venture-backed companies joined the public listings at $1 billion or above, per Crunchbase data. With the year\u2019s end now in sight, a small window remains for other s",
+      "company": "The IPO Window Is Closing Here",
+      "link": "https://news.crunchbase.com/public/startups-to-watch-ipo-ai-chips-fintech-2026/",
+      "date": "Sep 02, 26",
+      "source": "Crunchbase News",
+      "layer": 5,
+      "access": "venture",
+      "score": 12,
+      "moments": [
+        "ipo"
+      ]
+    },
+    {
+      "id": "a3222172fbb8",
+      "title": "Axcel scales flagship fund to \u20ac2.1bn hard cap as Northern Europe expansion accelerates",
+      "summary": "Nordic buyout house Axcel has closed its eighth flagship fund at a \u20ac2.1bn hard cap, increasing the strategy by 60% from its 2024 predecessor vehicle. The post Axcel scales flagship fund to \u20ac2.1bn hard",
+      "company": "Axcel",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/norway-western-europe-europe-by-region/axcel-scales-flagship-fund-to-e2-1bn-hard-cap-as-northern-europe-expansion-accelerates.html",
+      "date": "Sep 02, 26",
+      "source": "AltAssets",
       "layer": 5,
       "access": "pe",
       "score": 12,
       "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "bb47c81b8d3f",
-      "title": "RangeWater Real Estate Acquires Bell Buckhead West, Expanding Investment Portfolio in one of Atlanta's High-Performing Multifamily Submarkets",
-      "summary": "Joint Venture with Heitman Investment Management Adds 280 Units in One of Atlanta's Most Supply-Constrained Neighborhoods ATLANTA, Sept. 1, 2026 /PRNewswire/ -- RangeWater Real Estate has acquired Bel",
-      "company": "",
-      "link": "https://www.prnewswire.com/news-releases/rangewater-real-estate-acquires-bell-buckhead-west-expanding-investment-portfolio-in-one-of-atlantas-high-performing-multifamily-submarkets-302866541.html",
-      "date": "Sep 01, 26",
-      "source": "PR Newswire",
-      "layer": 2,
-      "access": "venture",
-      "score": 12,
-      "moments": [
-        "acquisition"
+        "pe_investment"
       ]
     },
     {
@@ -311,18 +298,18 @@
       ]
     },
     {
-      "id": "f24bbca570c3",
-      "title": "MassMutual Ventures launches $150m second climate fund as strategy incorporates AI, real assets",
-      "summary": "MassMutual Ventures has launched a $150m second climate technology fund, maintaining the expanded scale of its first vehicle while sharpening its investment strategy around AI and technology targeting",
-      "company": "MassMutual Ventures",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/massmutual-ventures-launches-150m-second-climate-fund-as-strategy-incorporates-ai-real-assets.html",
-      "date": "Aug 28, 26",
-      "source": "AltAssets",
-      "layer": 2,
-      "access": "venture",
+      "id": "3c97217d9b16",
+      "title": "Serent Capital-backed Aria Care Partners acquires Precision Mobile Care",
+      "summary": "Utah-based Precision Mobile Care, which delivers mobile onsite dental care to residents across more than half of the state's skilled nursing communities, has partnered with Aria on resident insurance ",
+      "company": "Serent Capital-backed Aria Care Partners",
+      "link": "https://www.pehub.com/serent-capital-backed-aria-care-partners-acquires-precision-mobile-care/",
+      "date": "Sep 01, 26",
+      "source": "PE Hub",
+      "layer": 4,
+      "access": "pe",
       "score": 11,
       "moments": [
-        "fund_launch"
+        "acquisition"
       ]
     },
     {
@@ -356,6 +343,36 @@
       ]
     },
     {
+      "id": "31b784c17e35",
+      "title": "Sunderland pip Crystal Palace in battle of the private jets to land Malick Fofana",
+      "summary": "Both clubs send planes to France to acquire Lyon wingerSunderland submit deal sheet for \u00a331m transfer Sunderland and Crystal Palace were involved in an extraordinary deadline-day tug of war that concl",
+      "company": "Sunderland",
+      "link": "https://www.theguardian.com/football/2026/sep/01/sunderland-pip-crystal-palace-in-battle-of-the-private-jets-to-land-malick-fofana",
+      "date": "Sep 01, 26",
+      "source": "Guardian Sport",
+      "layer": 2,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "ee5d1b0a64b3",
+      "title": "TicketSmarter Owner Kustom Entertainment Strikes $112 Million Deal for TFL",
+      "summary": "Kustom Entertainment has agreed to acquire ticketing technology and distribution company TFL in a $112 million deal, but completion of... The post TicketSmarter Owner Kustom Entertainment Strikes $112",
+      "company": "",
+      "link": "https://www.ticketnews.com/2026/09/kustom-entertainment-tfl-acquisition/",
+      "date": "Sep 01, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 8,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
       "id": "f3a1d1554548",
       "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
       "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
@@ -371,55 +388,55 @@
       ]
     },
     {
-      "id": "0056ef8e2273",
-      "title": "Searchlight Capital to invest in Aderian",
-      "summary": "Aderian is a Nordic managed IT services provider with more than 10,000 SME customers in Sweden and Norway and SKr2.5 billion in revenue. The post Searchlight Capital to invest in Aderian appeared firs",
-      "company": "Searchlight Capital",
-      "link": "https://www.pehub.com/searchlight-capital-to-invest-in-aderian/",
+      "id": "f8c567c6d367",
+      "title": "Alanis Morissette Accuses Longtime Live Nation Israel Executive of Extortion in Tour Manager Lawsuit",
+      "summary": "Alanis Morissette has sued her former tour manager Keren Urinov, a longtime Israeli live entertainment executive who spent years running... The post Alanis Morissette Accuses Longtime Live Nation Isra",
+      "company": "",
+      "link": "https://www.ticketnews.com/2026/09/alanis-morissette-keren-urinov-extortion-lawsuit/",
       "date": "Sep 01, 26",
-      "source": "PE Hub",
-      "layer": 2,
-      "access": "pe",
-      "score": 13,
-      "moments": []
-    },
-    {
-      "id": "5b8a5eb4d030",
-      "title": "Kneecap announce massive \u2018Fenian\u2019 world tour \u2013 including 2026 UK and Ireland arena dates",
-      "summary": "Tickets go on sale later this week The post Kneecap announce massive &#8216;Fenian&#8217; world tour \u2013 including 2026 UK and Ireland arena dates appeared first on NME.",
-      "company": "Kneecap",
-      "link": "https://www.nme.com/news/music/kneecap-announce-fenian-world-tour-2026-uk-ireland-arena-dates-3966329?utm_source=rss&utm_medium=rss&utm_campaign=kneecap-announce-fenian-world-tour-2026-uk-ireland-arena-dates",
-      "date": "Sep 01, 26",
-      "source": "NME",
-      "layer": 2,
+      "source": "Ticket News",
+      "layer": 3,
       "access": "pe",
       "score": 10,
       "moments": []
     },
     {
-      "id": "f0ce8cddf580",
-      "title": "StubHub Bets on Open Distribution as Ticketing Industry Rethinks the Walled Garden",
-      "summary": "StubHub is accelerating its effort to become a distribution partner for primary ticketing companies, a strategy that increasingly puts the... The post StubHub Bets on Open Distribution as Ticketing In",
-      "company": "StubHub Bets",
-      "link": "https://www.ticketnews.com/2026/09/stubhub-bets-on-open-distribution-as-ticketing-industry-rethinks-the-walled-garden/",
+      "id": "36cdee2482b4",
+      "title": "California Ticket Bill Survives Last-Minute Revolt from Industry Lobby, Heads to Newsom",
+      "summary": "A California ticketing bill that many of the venue and music-industry groups behind it were trying to kill just hours... The post California Ticket Bill Survives Last-Minute Revolt from Industry Lobby",
+      "company": "",
+      "link": "https://www.ticketnews.com/2026/09/california-ab-1349-passes-newsom-ticket-bill/",
       "date": "Sep 01, 26",
       "source": "Ticket News",
-      "layer": 3,
+      "layer": 2,
       "access": "pe",
-      "score": 6,
+      "score": 9,
       "moments": []
     },
     {
-      "id": "4cad3a4398ea",
-      "title": "Doja Cat Opens Up About Cocaine Use, Struggling With Alcohol & Dealing With Self-Hate Issues: \u2018You\u2019re Not Indestructible\u2019",
-      "summary": "The star brought her signature candor to TikTok on Aug. 31.",
-      "company": "Doja Cat Opens Up About Cocaine",
-      "link": "https://www.billboard.com/music/rb-hip-hop/doja-cat-cocaine-use-self-hate-image-issues-1236329886/",
+      "id": "b1d5b525d011",
+      "title": "Alex Eala, Left Off Ashe, Sends US Open Ticket Prices Soaring",
+      "summary": "The Grand Slams keep underestimating Alex Eala\u2019s popularity. Eala\u2019s first-round 2026 U.S. Open match against American Mary Stoiana is scheduled for the Tuesday night session in Louis Armstrong Stadium",
+      "company": "Alex Eala Left Off Ashe Sends",
+      "link": "https://www.sportico.com/leagues/tennis/2026/alex-eala-us-open-2026-ticket-prices-1234943612/",
       "date": "Sep 01, 26",
-      "source": "Billboard",
-      "layer": 3,
+      "source": "Sportico",
+      "layer": 2,
       "access": "pe",
-      "score": 5,
+      "score": 8,
+      "moments": []
+    },
+    {
+      "id": "680777cb8148",
+      "title": "US Open Unveils Record Player Pay but Resists Revenue Share",
+      "summary": "REUTERS/Loren Elliott",
+      "company": "US Open Unveils Record Player Pay",
+      "link": "https://frontofficesports.com/article/us-open-unveils-record-player-pay-resists-revenue-share/",
+      "date": "Aug 29, 26",
+      "source": "Front Office Sports",
+      "layer": 2,
+      "access": "pe",
+      "score": 8,
       "moments": []
     },
     {
@@ -436,19 +453,6 @@
       "moments": []
     },
     {
-      "id": "5b542d2fd176",
-      "title": "BBC axes \u2018iconic\u2019 Ski Sunday winter sports show after nearly 50 years on TV",
-      "summary": "Corporation cites audience shifts and financial concernsBroadcaster under fire over approach to sports rightsA staple of Sunday afternoon TV for almost 50 years, with an instantly recognisable theme t",
-      "company": "BBC",
-      "link": "https://www.theguardian.com/sport/2026/sep/01/bbc-axes-ski-sunday-winter-sports-show",
-      "date": "Sep 01, 26",
-      "source": "Guardian Sport",
-      "layer": 3,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
       "id": "76300c4e699f",
       "title": "Will the DOJ\u2019s investigation into a16z spook other VCs?",
       "summary": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
@@ -458,19 +462,6 @@
       "source": "TechCrunch Venture",
       "layer": 3,
       "access": "venture",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "341dd5936e20",
-      "title": "Why is the DOJ investigating Andreessen Horowitz\u2019s board seats?",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on ",
-      "company": "Why",
-      "link": "https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/",
-      "date": "Aug 21, 26",
-      "source": "TechCrunch Venture",
-      "layer": 3,
-      "access": "pe",
       "score": 5,
       "moments": []
     },
@@ -509,6 +500,19 @@
       "date": "May 09, 26",
       "source": "Venues Today",
       "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "95177bb026c7",
+      "title": "Marlins Man Ticket Dispute Adds to StubHub\u2019s Mounting Consumer Scrutiny",
+      "summary": "StubHub says it has resolved a high-profile ticket dispute with Laurence Leavy, better known as \u201cMarlins Man,\u201d after the prominent... The post Marlins Man Ticket Dispute Adds to StubHub\u2019s Mounting Con",
+      "company": "Marlins Man Ticket Dispute Adds",
+      "link": "https://www.ticketnews.com/2026/09/marlins-man-stubhub-ticket-dispute/",
+      "date": "Sep 01, 26",
+      "source": "Ticket News",
+      "layer": 3,
       "access": "pe",
       "score": 4,
       "moments": []
