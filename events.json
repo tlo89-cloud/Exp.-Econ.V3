@@ -1,78 +1,62 @@
 {
-  "generated": "2026-09-02T16:17:47.177016+00:00",
-  "total": 35,
+  "generated": "2026-09-03T16:08:25.589482+00:00",
+  "total": 33,
   "scraped": [
     {
-      "id": "fe0ecfa3ca42",
-      "title": "Ares scales inherited Japan logistics strategy to record $4bn fund after GCP acquisition",
-      "summary": "Ares Management has closed its fifth Japan logistics development fund at a JPY612bn ($4bn) hard cap, increasing the strategy by nearly 50% from its predecessor just over a year after acquiring the pla",
-      "company": "Ares",
-      "link": "https://www.altassets.net/private-equity-news/by-region/asia-by-region/japan-asia-by-region/ares-scales-inherited-japan-logistics-strategy-to-record-4bn-fund-after-gcp-acquisition.html",
-      "date": "Sep 01, 26",
-      "source": "AltAssets",
-      "layer": 1,
+      "id": "67f9113750d2",
+      "title": "Former Apple Engineers\u2019 Physical AI Startup Lyte Raises $165M At $1.6B Valuation",
+      "summary": "Lyte, a physical AI startup building sensing and perception technology for robots, has raised a Maverick Silicon-led $165 million Series C funding at a $1.6 billion post-money valuation.",
+      "company": "Former Apple Engineers\u2019 Physical AI Startup",
+      "link": "https://news.crunchbase.com/venture/robotics-ai-startup-lyte-seriesc-raise-maverick/",
+      "date": "Sep 02, 26",
+      "source": "Crunchbase News",
+      "layer": 5,
+      "access": "venture",
+      "score": 25,
+      "moments": [
+        "funding_round",
+        "valuation"
+      ]
+    },
+    {
+      "id": "ac576b4f5bce",
+      "title": "Bridgepoint acquires majority stake in insurance-tech platform VIPR from Tenzing",
+      "summary": "Founded in 2009, London-based VIPR processes around 500,000 bordereaux annually, representing about $12 billion in gross written premium across the global insurance market. The post Bridgepoint acquir",
+      "company": "Bridgepoint",
+      "link": "https://www.pehub.com/bridgepoint-acquires-majority-stake-in-insurance-tech-platform-vipr-from-tenzing/",
+      "date": "Sep 03, 26",
+      "source": "PE Hub",
+      "layer": 4,
       "access": "pe",
-      "score": 20,
+      "score": 24,
       "moments": [
         "acquisition",
-        "pe_investment"
+        "company_launch"
       ]
     },
     {
-      "id": "3716ab647239",
-      "title": "Kaskade, Electronic Music Icon, Signs With Pacific Music Group in Asia Partnership (EXCLUSIVE)",
-      "summary": "Kaskade has signed with Pacific Music Group (PMG) in a strategic partnership focused on expanding the electronic artist&#8217;s presence across Asia, the Pan-Asian entertainment company has revealed. ",
-      "company": "Kaskade Electronic Music Icon Signs With",
-      "link": "https://variety.com/2026/music/news/kaskade-signs-pacific-music-group-asia-1236849131/",
-      "date": "Sep 02, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 18,
-      "moments": [
-        "record_deal",
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "4b93cc004f2f",
-      "title": "LGT Capital Partners beats target with \u20ac850m European small buyout fund close",
-      "summary": "LGT Capital Partners has raised \u20ac850m for its seventh dedicated European small buyout fund, exceeding its \u20ac800m target. The post LGT Capital Partners beats target with \u20ac850m European small buyout fund",
-      "company": "LGT Capital Partners",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/switzerland-western-europe-europe-by-region/lgt-capital-partners-beats-target-with-e850m-european-small-buyout-fund-close.html",
-      "date": "Aug 28, 26",
+      "id": "f13cca66e79f",
+      "title": "Bowery Capital GP Loren Straub launches Prompt Capital, targets $40m for debut fund",
+      "summary": "Long-time Bowery Capital general partner Loren Straub has launched her own venture firm, Prompt Capital, and is seeking up to $40m for its debut fund. The post Bowery Capital GP Loren Straub launches ",
+      "company": "Bowery Capital GP Loren Straub",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/bowery-capital-gp-loren-straub-launches-prompt-capital-targets-40m-for-debut-fund.html",
+      "date": "Sep 03, 26",
       "source": "AltAssets",
-      "layer": 1,
+      "layer": 5,
       "access": "pe",
-      "score": 18,
+      "score": 19,
       "moments": [
         "pe_investment",
         "fund_launch"
       ]
     },
     {
-      "id": "6c7686be6c79",
-      "title": "Rebecca Black on the Evolution of Song Virality: \u2018No Longer Are We Being Told What to Listen to\u2019",
-      "summary": "Ahead of her new album Age of the Exhibitionist, Rebecca Black joins the Billboard On the Record podcast to talk about virality then and now, and why she never signed a label deal.",
-      "company": "Rebecca Black",
-      "link": "https://www.billboard.com/pro/rebecca-black-on-the-evolution-of-song-virality/",
-      "date": "Sep 02, 26",
-      "source": "Billboard",
-      "layer": 1,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "album_announcement",
-        "record_deal"
-      ]
-    },
-    {
-      "id": "51f5259a1a4b",
-      "title": "Aks\u00eca-backed Valsa completes acquisition of I Maestri del Forno",
-      "summary": "The Pastorano-based producer makes ambient baked goods such as saltimbocca, pucce, panuozzi and pizza bases for the retail channel, and was founded in 2018 on its founders' multi-sector experience. Th",
-      "company": "Aks\u00eca-backed Valsa",
-      "link": "https://www.pehub.com/aksia-backed-valsa-completes-acquisition-of-i-maestri-del-forno/",
-      "date": "Sep 02, 26",
+      "id": "5f50e9f6094a",
+      "title": "CAI Capital-backed GreenArrow acquires MSL Electric in add-on",
+      "summary": "Anaheim, California-based MSL Electric, founded in 2002, is a union electrical contractor delivering traffic signal, intelligent transportation system and lighting projects for municipal, county and s",
+      "company": "CAI Capital-backed GreenArrow",
+      "link": "https://www.pehub.com/cai-capital-backed-greenarrow-acquires-msl-electric-in-add-on/",
+      "date": "Sep 03, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
@@ -99,6 +83,22 @@
       ]
     },
     {
+      "id": "10140951331c",
+      "title": "Carlyle, Bain and Oaktree line up bids for Serie A international media business",
+      "summary": "Carlyle, Bain Capital and Oaktree are among the private equity firms preparing bids for a minority stake in the company that holds Serie A\u2019s international media rights, according to a report by Reuter",
+      "company": "Carlyle Bain",
+      "link": "https://www.privateequitywire.co.uk/carlyle-bain-and-oaktree-line-up-bids-for-serie-a-international-media-business/",
+      "date": "Sep 03, 26",
+      "source": "PE Wire",
+      "layer": 1,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "rights_deal",
+        "pe_investment"
+      ]
+    },
+    {
       "id": "48821bf6e728",
       "title": "Deal Roundup: Epiris agrees \u00a31.08bn take-private of Gamma Communications, Yellow Wood to buy Nestl\u00e9 VMS platform for $1bn",
       "summary": "Epiris has agreed a cash acquisition of Unified Communications as a Service specialist Gamma Communications which gives the FTSE 250 business a roughly \u00a31.08bn enterprise value. The post Deal Roundup:",
@@ -115,19 +115,19 @@
       ]
     },
     {
-      "id": "9638df2049cb",
-      "title": "LeapFrog names ex-Helios IR head Doble to lead fundraising after $1bn Fund IV close",
-      "summary": "LeapFrog Investments has hired former Helios Investment Partners global investor relations head Virginia Doble as partner and global head of Investor Solutions, putting her in charge of fundraising, c",
-      "company": "LeapFrog",
-      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/leapfrog-names-ex-helios-ir-head-doble-to-lead-fundraising-after-1bn-fund-iv-close.html",
-      "date": "Sep 01, 26",
-      "source": "AltAssets",
-      "layer": 5,
+      "id": "e2b82d280538",
+      "title": "The Avalanches announce massive 31-song tracklist for new album \u2018No Bad Memories\u2019, featuring Rivers Cuomo, Karen O, Haley Joel Osment, Mike Patton,...",
+      "summary": "Jamie xx, Yellow Magic Orchestra founder Haruomi Hosono, Suzanne Ciani and plenty more will also feature on the record The post The Avalanches announce massive 31-song tracklist for new album &#8216;N",
+      "company": "The Avalanches",
+      "link": "https://www.nme.com/news/music/the-avalanches-tracklist-no-bad-memories-rivers-cuomo-karen-o-haley-joel-osment-mike-patton-barry-cant-swim-3966807?utm_source=rss&utm_medium=rss&utm_campaign=the-avalanches-tracklist-no-bad-memories-rivers-cuomo-karen-o-haley-joel-osment-mike-patton-barry-cant-swim",
+      "date": "Sep 03, 26",
+      "source": "NME",
+      "layer": 1,
       "access": "pe",
-      "score": 16,
+      "score": 15,
       "moments": [
-        "pe_investment",
-        "fund_launch"
+        "album_announcement",
+        "company_launch"
       ]
     },
     {
@@ -147,12 +147,12 @@
       ]
     },
     {
-      "id": "9b066fb6ac13",
-      "title": "Andreessen Horowitz adds $1.75bn to Growth V just eight months after $6.75bn close",
-      "summary": "Andreessen Horowitz has added $1.75bn of fresh capital to its fifth growth fund, increasing the vehicle to $8.5bn less than eight months after closing the vehicle. The post Andreessen Horowitz adds $1",
-      "company": "Andreessen Horowitz",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/andreessen-horowitz-adds-1-75bn-to-growth-v-just-eight-months-after-6-75bn-close.html",
-      "date": "Sep 02, 26",
+      "id": "b2fc7649c08c",
+      "title": "Avallon scales up MBO strategy with \u20ac171.5m Fund IV first close, eyes \u20ac260m",
+      "summary": "Polish private equity house Avallon MBO has held a \u20ac171.5m first close for its fourth flagship fund, already surpassing the total raised by its predecessor as its targets a potential \u20ac260m final close",
+      "company": "Avallon",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/central-and-eastern-europe-by-region/poland-central-and-eastern-europe/avallon-scales-up-mbo-strategy-with-e171-5m-fund-iv-first-close-eyes-e260m.html",
+      "date": "Sep 03, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -163,48 +163,19 @@
       ]
     },
     {
-      "id": "e9c36d3008c4",
-      "title": "Knitting Factory Entertainment Acquires Minority Stake in Does Entertainment, Forming Strategic Growth Partnership to Expand National Live...",
-      "summary": "Companies Align to Accelerate Venue Development, Talent Buying, Concert Promotion and Strategic Growth Across North America Los Angeles, CA / Wilmington, NC, July 14, 2026 \u2013&#160;Knitting Factory Ente",
-      "company": "",
-      "link": "https://venuestoday.com/knitting-factory-entertainment-acquires-minority-stake-in-does-entertainment-forming-strategic-growth-partnership-to-expand-national-live-entertainment-platform/",
-      "date": "Jul 15, 26",
-      "source": "Venues Today",
-      "layer": 2,
-      "access": "pe",
-      "score": 24,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "26aa17af8cfe",
-      "title": "Intera-backed Suvia Group expands to Belgium with AutoRepairGroup acquisition",
-      "summary": "The Heverlee-based body repair group runs 14 workshops across Belgium, employs more than 450 people and completes over 45,000 repairs a year, with 2026 revenue set to top \u20ac80m at a 10% EBITDA margin. ",
-      "company": "Intera-backed Suvia Group",
-      "link": "https://www.pehub.com/intera-backed-suvia-group-expands-to-belgium-with-autorepairgroup-acquisition/",
-      "date": "Sep 02, 26",
+      "id": "c8e43093809c",
+      "title": "Sycamore Partners exits Hot Topic; LLCP\u2019s Matthew Rich shares Colt Group value creation plans; ACP\u2019s Chris Jones on Marco\u2019s add-on strategy",
+      "summary": "Sycamore Partners has sold Los Angeles-based retailer Hot Topic to Spencer Spirit Holdings; talking with Matthew Rich, a partner at LLCP, about the value creation strategy and opportunities the firm s",
+      "company": "Sycamore Partners",
+      "link": "https://www.pehub.com/sycamore-partners-exits-hot-topic-llcps-matthew-rich-shares-colt-group-value-creation-plans-acps-chris-jones-on-marcos-add-on-strategy/",
+      "date": "Sep 03, 26",
       "source": "PE Hub",
-      "layer": 2,
-      "access": "pe",
-      "score": 17,
+      "layer": 5,
+      "access": "public",
+      "score": 10,
       "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "a3653f35ff37",
-      "title": "Ocean Avenue said to eye $750m for latest fund targeting independent sponsor co-invest deals",
-      "summary": "Special situations investor Ocean Avenue Capital Partners is back in the fundraising market eyeing up to $750m for its latest investment vehicle, which will target co-investments alongside independent",
-      "company": "Ocean Avenue",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/ocean-avenue-said-to-eye-750m-for-latest-fund-targeting-independent-sponsor-co-invest-deals.html",
-      "date": "Sep 02, 26",
-      "source": "AltAssets",
-      "layer": 2,
-      "access": "pe",
-      "score": 17,
-      "moments": [
-        "pe_investment"
+        "acquisition",
+        "company_launch"
       ]
     },
     {
@@ -223,59 +194,104 @@
       ]
     },
     {
-      "id": "c7e41d7c9649",
-      "title": "Olivia Rodrigo and Cameron Crowe on Her \u2018Favorite Song\u2019 From Her New Album",
-      "summary": "The musician, who did an acoustic performance for her \u201cThe Cure Unraveled\u201d installation at L.A.\u2019s Grammy Museum, also talked about her Daisy Chain Fields festival",
-      "company": "Olivia Rodrigo",
-      "link": "https://www.rollingstone.com/music/music-features/olivia-rodrigo-cameron-crowe-the-cure-unraveled-exhibit-1235618338/",
-      "date": "Sep 02, 26",
-      "source": "Rolling Stone Music",
+      "id": "73b15300742a",
+      "title": "2025 NFL Season Marked a Historic Step Forward for Sony + NFL Partnership with Capture of 130,000 Images by The AP, 1,100+ Hours of Broadcast...",
+      "summary": "Building on more than a decade of partnership, Sony + NFL are moving into the 2026 Season maintaining focus on advancing the game and laying a strong foundation for future innovation SAN DIEGO, Sept. ",
+      "company": "NFL Season Marked",
+      "link": "https://www.prnewswire.com/news-releases/2025-nfl-season-marked-a-historic-step-forward-for-sony--nfl-partnership-with-capture-of-130-000-images-by-the-ap-1-100-hours-of-broadcast-television-deployment-of-2-300-coachs-headsets-and-collaboration-on-600-officiating-302868586.html",
+      "date": "Sep 03, 26",
+      "source": "PR Newswire",
       "layer": 1,
       "access": "pe",
+      "score": 16,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "d4de21523550",
+      "title": "Kustom Details Post-Merger TFL Roadmap Spanning Primary Tickets, Resale and Live Event Production",
+      "summary": "Kustom Entertainment is offering a clearer picture of what it plans to build if its pending $112 million acquisition of... The post Kustom Details Post-Merger TFL Roadmap Spanning Primary Tickets, Res",
+      "company": "",
+      "link": "https://www.ticketnews.com/2026/09/kustom-tfl-ticketing-roadmap/",
+      "date": "Sep 03, 26",
+      "source": "Ticket News",
+      "layer": 4,
+      "access": "pe",
       "score": 14,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "dc2a0cc972d1",
+      "title": "Bonnaroo cancels 2027 edition as extreme weather pounds music festivals",
+      "summary": "The Bonnaroo Music and Arts Festival in Tennessee will take a year off in 2027 after years of weather disruptions and efforts to improve the festival grounds.",
+      "company": "Bonnaroo",
+      "link": "https://www.latimes.com/entertainment-arts/story/2026-08-21/bonnaroo-canceled-2027-extreme-weather",
+      "date": "Aug 21, 26",
+      "source": "LA Times Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "432051dc2507",
+      "title": "Queens of the Stone Age\u2019s Josh Homme kicked a woman and his ex-wife alleged domestic abuse. Why the cosy makeover?",
+      "summary": "Like Johnny Depp and Chris Brown before him, Homme has got past his chequered history to retain an adoring fanbase. Almost a decade post-#MeToo, audiences no longer seem to careAs part of the promo fo",
+      "company": "Queens",
+      "link": "https://www.theguardian.com/music/2026/sep/03/queens-of-the-stone-ages-josh-homme-kicked-a-woman-and-his-ex-wife-alleged-domestic-abuse-why-the-cosy-makeover",
+      "date": "Sep 03, 26",
+      "source": "Guardian Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 13,
       "moments": [
         "album_announcement"
       ]
     },
     {
-      "id": "187352475c6d",
-      "title": "Jake Bugg announces \u201cvulnerable\u201d new album \u2018Alamo\u2019 with country-leaning single \u2018Never Can Tell\u2019 and 2027 UK and Ireland tour",
-      "summary": "\u201cThe last couple of years have been tough for me and I\u2019ve had a lot of struggles\u2026 I\u2019m trying to navigate those and figure out where they stem from\u201d The post Jake Bugg announces &#8220;vulnerable&#8221",
-      "company": "Jake Bugg",
-      "link": "https://www.nme.com/news/music/jake-bugg-announces-album-alamo-single-never-can-tell-2027-uk-ireland-tour-tickets-3966578?utm_source=rss&utm_medium=rss&utm_campaign=jake-bugg-announces-album-alamo-single-never-can-tell-2027-uk-ireland-tour-tickets",
+      "id": "27a902c22b92",
+      "title": "Haruomi Hosono, Architect of Japanese Pop, Pushes West",
+      "summary": "After recent endorsements from Vampire Weekend and Harry Styles, Haruomi Hosono, 79, returns to the U.S. with a new album and tour.",
+      "company": "Haruomi Hosono Architect",
+      "link": "https://www.nytimes.com/2026/09/02/arts/music/haruomi-hosono-yours-sincerely.html",
       "date": "Sep 02, 26",
-      "source": "NME",
+      "source": "NYT Arts",
       "layer": 1,
       "access": "pe",
-      "score": 14,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "4ac7ddfd56bd",
-      "title": "The IPO Window Is Closing. Here Are 8 Startups To Watch.",
-      "summary": "In the first half of this year, 58 venture-backed companies joined the public listings at $1 billion or above, per Crunchbase data. With the year\u2019s end now in sight, a small window remains for other s",
-      "company": "The IPO Window Is Closing Here",
-      "link": "https://news.crunchbase.com/public/startups-to-watch-ipo-ai-chips-fintech-2026/",
-      "date": "Sep 02, 26",
-      "source": "Crunchbase News",
-      "layer": 5,
-      "access": "venture",
       "score": 12,
       "moments": [
-        "ipo"
+        "album_announcement"
       ]
     },
     {
-      "id": "a3222172fbb8",
-      "title": "Axcel scales flagship fund to \u20ac2.1bn hard cap as Northern Europe expansion accelerates",
-      "summary": "Nordic buyout house Axcel has closed its eighth flagship fund at a \u20ac2.1bn hard cap, increasing the strategy by 60% from its 2024 predecessor vehicle. The post Axcel scales flagship fund to \u20ac2.1bn hard",
-      "company": "Axcel",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/norway-western-europe-europe-by-region/axcel-scales-flagship-fund-to-e2-1bn-hard-cap-as-northern-europe-expansion-accelerates.html",
-      "date": "Sep 02, 26",
-      "source": "AltAssets",
+      "id": "e849dba12220",
+      "title": "Align Capital Partners acquires Trident Solutions in platform investment",
+      "summary": "Plano, Texas-based Trident Solutions, a manufacturer of branded safety marking, identification and damage prevention products, serves more than 1,700 customers across utility, commercial and industria",
+      "company": "Align Capital Partners",
+      "link": "https://www.pehub.com/align-capital-partners-acquires-trident-solutions-in-platform-investment/",
+      "date": "Sep 03, 26",
+      "source": "PE Hub",
       "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "34e99952a2f0",
+      "title": "CVC raises record $10bn for latest secondaries fund",
+      "summary": "TOP STORY: CVC Capital Partners has raised $10bn for its latest secondaries vehicle, marking the largest fund the firm has assembled to invest in the secondary market for private equity assets, accord",
+      "company": "CVC",
+      "link": "https://www.privateequitywire.co.uk/cvc-raises-record-10bn-for-latest-secondaries-fund/",
+      "date": "Sep 03, 26",
+      "source": "PE Wire",
+      "layer": 3,
       "access": "pe",
       "score": 12,
       "moments": [
@@ -283,171 +299,124 @@
       ]
     },
     {
-      "id": "f8e1cfc6892e",
-      "title": "Grass Is Latest Issue With Bills\u2019 New Stadium",
-      "summary": "Gregory Fisher-Imagn Images",
-      "company": "Grass Is Latest Issue With Bills\u2019",
-      "link": "https://frontofficesports.com/article/grass-is-latest-issue-with-bills-new-stadium/",
-      "date": "Aug 30, 26",
-      "source": "Front Office Sports",
+      "id": "7a15353bdb57",
+      "title": "RocketSports-1 Announces Activewear Expansion to 37 Walmart Stores Across 18 States",
+      "summary": "Atlanta, Georgia, Sept. 02, 2026 (GLOBE NEWSWIRE) -- RocketSports-1, the activewear brand founded by designer Jon Dabney, announced that its women\u2019s activewear is now available in 37 Walmart stores ac",
+      "company": "",
+      "link": "https://www.globenewswire.com/news-release/2026/09/02/3355557/0/en/rocketsports-1-announces-activewear-expansion-to-37-walmart-stores-across-18-states.html",
+      "date": "Sep 02, 26",
+      "source": "GlobeNewsWire Deals",
       "layer": 2,
       "access": "pe",
-      "score": 11,
-      "moments": [
-        "venue_announcement"
-      ]
-    },
-    {
-      "id": "3c97217d9b16",
-      "title": "Serent Capital-backed Aria Care Partners acquires Precision Mobile Care",
-      "summary": "Utah-based Precision Mobile Care, which delivers mobile onsite dental care to residents across more than half of the state's skilled nursing communities, has partnered with Aria on resident insurance ",
-      "company": "Serent Capital-backed Aria Care Partners",
-      "link": "https://www.pehub.com/serent-capital-backed-aria-care-partners-acquires-precision-mobile-care/",
-      "date": "Sep 01, 26",
-      "source": "PE Hub",
-      "layer": 4,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "ed24e331be68",
-      "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
-      "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
-      "company": "Niloufar Banisaied",
-      "link": "https://venuestoday.com/niloufar-banisaied-is-bringing-timeless-design-and-the-guest-experience-at-the-forefront/",
-      "date": "Jun 09, 26",
-      "source": "Venues Today",
-      "layer": 4,
-      "access": "pe",
-      "score": 11,
+      "score": 12,
       "moments": [
         "company_launch"
       ]
     },
     {
-      "id": "008f9314f8ff",
-      "title": "Kehlani reschedules tour dates after being hospitalized for 'so much pain'",
-      "summary": "Kehlani has rescheduled the two shows she had to postpone on her world tour after being in 'so much pain' she was 'unable to swallow.'",
-      "company": "Kehlani",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-08-28/kehlani-tour-dates-rescheduled-hospitalized-pain",
-      "date": "Aug 28, 26",
-      "source": "LA Times Music",
-      "layer": 5,
+      "id": "a722661d5648",
+      "title": "Inside Camelback Productions\u2019 Plans for a New 1,400-Acre, AI-Powered Production and Entertainment Complex \u2014 in Arizona (EXCLUSIVE)",
+      "summary": "Anita Verma-Lallian, founder of Camelback Productions, doesn\u2019t see the future of film production in Los Angeles. Instead, in her vision, it is on a complex one hour\u2019s drive west of Phoenix, complete w",
+      "company": "Inside Camelback Productions\u2019 Plans",
+      "link": "https://variety.com/2026/biz/news/inside-camelback-productions-ai-powered-production-arizona-1236849577/",
+      "date": "Sep 02, 26",
+      "source": "Variety Biz",
+      "layer": 2,
       "access": "pe",
-      "score": 9,
+      "score": 10,
       "moments": [
-        "tour_announcement"
+        "company_launch"
       ]
     },
     {
-      "id": "31b784c17e35",
-      "title": "Sunderland pip Crystal Palace in battle of the private jets to land Malick Fofana",
-      "summary": "Both clubs send planes to France to acquire Lyon wingerSunderland submit deal sheet for \u00a331m transfer Sunderland and Crystal Palace were involved in an extraordinary deadline-day tug of war that concl",
-      "company": "Sunderland",
-      "link": "https://www.theguardian.com/football/2026/sep/01/sunderland-pip-crystal-palace-in-battle-of-the-private-jets-to-land-malick-fofana",
-      "date": "Sep 01, 26",
-      "source": "Guardian Sport",
+      "id": "45f361a7ddeb",
+      "title": "Cosmetic Physician Partners Welcomes Sullivan Surgery &amp; Spa to Its National Network",
+      "summary": "ANNAPOLIS, Md., Sept. 3, 2026 /PRNewswire/ -- Sullivan Surgery & Spa, the Maryland plastic surgery and medical aesthetics practice founded by board-certified plastic surgeon Kelly Sullivan, MD, FACS, ",
+      "company": "",
+      "link": "https://www.prnewswire.com/news-releases/cosmetic-physician-partners-welcomes-sullivan-surgery--spa-to-its-national-network-302869210.html",
+      "date": "Sep 03, 26",
+      "source": "PR Newswire",
       "layer": 2,
       "access": "pe",
       "score": 9,
       "moments": [
-        "acquisition"
+        "company_launch"
       ]
     },
     {
-      "id": "ee5d1b0a64b3",
-      "title": "TicketSmarter Owner Kustom Entertainment Strikes $112 Million Deal for TFL",
-      "summary": "Kustom Entertainment has agreed to acquire ticketing technology and distribution company TFL in a $112 million deal, but completion of... The post TicketSmarter Owner Kustom Entertainment Strikes $112",
-      "company": "",
-      "link": "https://www.ticketnews.com/2026/09/kustom-entertainment-tfl-acquisition/",
-      "date": "Sep 01, 26",
+      "id": "673e3e59e2fd",
+      "title": "Ye Adds AT&T Stadium Show to 2026 Stadium Tour",
+      "summary": "Ye will bring his 2026 stadium tour to North Texas this fall, with a performance scheduled for Saturday, November 7,... The post Ye Adds AT&amp;T Stadium Show to 2026 Stadium Tour appeared first on Ti",
+      "company": "Ye Adds AT&T Stadium Show",
+      "link": "https://www.ticketnews.com/2026/09/ye-adds-att-stadium-show-to-2026-stadium-tour/",
+      "date": "Sep 03, 26",
       "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 8,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "f3a1d1554548",
-      "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
-      "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
-      "company": "Navigating",
-      "link": "https://venuestoday.com/navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026/",
-      "date": "Apr 22, 26",
-      "source": "Venues Today",
-      "layer": 3,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "f8c567c6d367",
-      "title": "Alanis Morissette Accuses Longtime Live Nation Israel Executive of Extortion in Tour Manager Lawsuit",
-      "summary": "Alanis Morissette has sued her former tour manager Keren Urinov, a longtime Israeli live entertainment executive who spent years running... The post Alanis Morissette Accuses Longtime Live Nation Isra",
-      "company": "",
-      "link": "https://www.ticketnews.com/2026/09/alanis-morissette-keren-urinov-extortion-lawsuit/",
-      "date": "Sep 01, 26",
-      "source": "Ticket News",
-      "layer": 3,
+      "layer": 2,
       "access": "pe",
       "score": 10,
       "moments": []
     },
     {
-      "id": "36cdee2482b4",
-      "title": "California Ticket Bill Survives Last-Minute Revolt from Industry Lobby, Heads to Newsom",
-      "summary": "A California ticketing bill that many of the venue and music-industry groups behind it were trying to kill just hours... The post California Ticket Bill Survives Last-Minute Revolt from Industry Lobby",
-      "company": "",
-      "link": "https://www.ticketnews.com/2026/09/california-ab-1349-passes-newsom-ticket-bill/",
-      "date": "Sep 01, 26",
-      "source": "Ticket News",
-      "layer": 2,
-      "access": "pe",
-      "score": 9,
-      "moments": []
-    },
-    {
-      "id": "b1d5b525d011",
-      "title": "Alex Eala, Left Off Ashe, Sends US Open Ticket Prices Soaring",
-      "summary": "The Grand Slams keep underestimating Alex Eala\u2019s popularity. Eala\u2019s first-round 2026 U.S. Open match against American Mary Stoiana is scheduled for the Tuesday night session in Louis Armstrong Stadium",
-      "company": "Alex Eala Left Off Ashe Sends",
-      "link": "https://www.sportico.com/leagues/tennis/2026/alex-eala-us-open-2026-ticket-prices-1234943612/",
-      "date": "Sep 01, 26",
-      "source": "Sportico",
+      "id": "4581515ab4f8",
+      "title": "BTS' run at SoFi Stadium is a test of K-pop's lasting cultural penetration",
+      "summary": "The K-pop boy band is on tour for the first time since its seven members completed their mandatory South Korean military service.",
+      "company": "BTS'",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-09-02/bts-sofi-stadium-arirang-world-tour-review",
+      "date": "Sep 02, 26",
+      "source": "LA Times Music",
       "layer": 2,
       "access": "pe",
       "score": 8,
       "moments": []
     },
     {
-      "id": "680777cb8148",
-      "title": "US Open Unveils Record Player Pay but Resists Revenue Share",
-      "summary": "REUTERS/Loren Elliott",
-      "company": "US Open Unveils Record Player Pay",
-      "link": "https://frontofficesports.com/article/us-open-unveils-record-player-pay-resists-revenue-share/",
-      "date": "Aug 29, 26",
+      "id": "7306440758f7",
+      "title": "Swanson: Martin Jarmond's UCLA legacy marred by football turmoil, money woes and donor blunders",
+      "summary": "Martin Jarmond pulling UCLA out of the Pac-12 and trying to find revenue outside the Rose Bowl were among the biggest mistakes of his tenure as athletic director.",
+      "company": "Swanson",
+      "link": "https://www.latimes.com/sports/ucla/story/2026-09-01/martin-jarmond-ucla-legacy-football-turmoil-money-woes",
+      "date": "Sep 01, 26",
+      "source": "LA Times Sports",
+      "layer": 2,
+      "access": "pe",
+      "score": 8,
+      "moments": []
+    },
+    {
+      "id": "97e52a492a4e",
+      "title": "PPI Urges Judge to Reject Live Nation Settlement, Break Ticketmaster Into Multiple Companies",
+      "summary": "The Progressive Policy Institute is urging the federal judge reviewing the Justice Department\u2019s proposed settlement with Live Nation and Ticketmaster... The post PPI Urges Judge to Reject Live Nation ",
+      "company": "PPI Urges Judge",
+      "link": "https://www.ticketnews.com/2026/09/ppi-live-nation-ticketmaster-settlement-breakup/",
+      "date": "Sep 03, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 6,
+      "moments": []
+    },
+    {
+      "id": "b5f44541ca69",
+      "title": "Kroenke Inherits Uncertain Angels TV Network, Stadium Fight",
+      "summary": "Rhona Wise-Imagn Images",
+      "company": "Kroenke Inherits Uncertain Angels TV Network",
+      "link": "https://frontofficesports.com/article/stan-kroenke-angels-purchase-media-stadium-trout/",
+      "date": "Sep 02, 26",
       "source": "Front Office Sports",
       "layer": 2,
       "access": "pe",
-      "score": 8,
+      "score": 5,
       "moments": []
     },
     {
-      "id": "6832d2534349",
-      "title": "Christian band Demon Hunter files trademark lawsuit against Netflix over 'consumer confusion'",
-      "summary": "The band alleges in its lawsuit that Netflix and others \"created a substantial likelihood of confusion\" among consumers with the streamer's hit film \"KPop Demon Hunters.\"",
-      "company": "Christian",
-      "link": "https://www.latimes.com/entertainment-arts/story/2026-08-19/christian-band-demon-hunter-kpop-demon-hunters-trademark-lawsuit-netflix",
-      "date": "Aug 20, 26",
-      "source": "LA Times Music",
-      "layer": 3,
+      "id": "d7eacff9603f",
+      "title": "Sluggish Dodgers open homestand with lopsided loss to Cardinals",
+      "summary": "A shift to September and return home didn't boost the lagging Dodgers, who suffered a 13-8 loss to the St. Louis Cardinals Tuesday at Dodger Stadium.",
+      "company": "Sluggish Dodgers",
+      "link": "https://www.latimes.com/sports/dodgers/story/2026-09-01/sluggish-dodgers-open-homestand-with-lopsided-loss-to-cardinals-game-recap",
+      "date": "Sep 02, 26",
+      "source": "LA Times Sports",
+      "layer": 2,
       "access": "pe",
       "score": 5,
       "moments": []
@@ -466,6 +435,19 @@
       "moments": []
     },
     {
+      "id": "7ca4c2b3881b",
+      "title": "Widespread AI outage underway",
+      "summary": "OpenAI's ChatGPT, Anthropic's Claude, and xAI's Grok are all down Thursday morning, according to the outage company Downdetector. Why it matters: Outages are common, but it's unusual for all three to ",
+      "company": "Widespread AI",
+      "link": "https://www.axios.com/2026/09/03/chatgpt-claude-grok-outages",
+      "date": "Sep 03, 26",
+      "source": "Axios",
+      "layer": 4,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
       "id": "bc8a29897f4d",
       "title": "Apple, OpenAI legal fight keeps escalating. Here's how we got here",
       "summary": "Apple and OpenAI are escalating their legal fight over allegations that the ChatGPT maker used Apple employees to obtain closely guarded hardware secrets.Why it matters: If the case makes it to the di",
@@ -479,38 +461,25 @@
       "moments": []
     },
     {
-      "id": "0c2e6b59f14f",
-      "title": "Post Malone is officially off the market: He is engaged to stylist Christy Lee",
-      "summary": "Post Malone is engaged to girlfriend and stylist Christy Lee. He seemingly popped the question in Utah this week after more than a year of dating.",
-      "company": "Post Malone is officially off the market",
-      "link": "https://www.latimes.com/entertainment-arts/story/2026-08-20/post-malone-engaged-christy-lee",
-      "date": "Aug 20, 26",
-      "source": "LA Times Music",
+      "id": "0daeb695476d",
+      "title": "Seat Unique Named UK, Ireland Sales Platform for Euro 2028 Hospitality",
+      "summary": "Seat Unique has been appointed as an official online sales platform for UEFA Euro 2028 hospitality in the United Kingdom... The post Seat Unique Named UK, Ireland Sales Platform for Euro 2028 Hospital",
+      "company": "Seat Unique Named UK Ireland Sales",
+      "link": "https://www.ticketnews.com/2026/09/seat-unique-named-uk-ireland-sales-platform-for-euro-2028-hospitality/",
+      "date": "Sep 02, 26",
+      "source": "Ticket News",
       "layer": 4,
       "access": "pe",
       "score": 4,
       "moments": []
     },
     {
-      "id": "8f95fdb4c719",
-      "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
-      "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
-      "company": "Global Times",
-      "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/",
-      "date": "May 09, 26",
-      "source": "Venues Today",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "95177bb026c7",
-      "title": "Marlins Man Ticket Dispute Adds to StubHub\u2019s Mounting Consumer Scrutiny",
-      "summary": "StubHub says it has resolved a high-profile ticket dispute with Laurence Leavy, better known as \u201cMarlins Man,\u201d after the prominent... The post Marlins Man Ticket Dispute Adds to StubHub\u2019s Mounting Con",
-      "company": "Marlins Man Ticket Dispute Adds",
-      "link": "https://www.ticketnews.com/2026/09/marlins-man-stubhub-ticket-dispute/",
-      "date": "Sep 01, 26",
+      "id": "278318a8f7ae",
+      "title": "NIVA Urges California Governor to Veto AB 1349 Days After Website Called for Continued Support",
+      "summary": "California\u2019s newly passed ticketing reform bill is facing a veto campaign from one of the organizations that helped develop it... The post NIVA Urges California Governor to Veto AB 1349 Days After Web",
+      "company": "NIVA Urges California Governor",
+      "link": "https://www.ticketnews.com/2026/09/niva-ab-1349-veto-late-support/",
+      "date": "Sep 02, 26",
       "source": "Ticket News",
       "layer": 3,
       "access": "pe",
