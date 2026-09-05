@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T16:03:02.335553+00:00",
-  "total": 31,
+  "generated": "2026-09-05T14:53:18.453236+00:00",
+  "total": 33,
   "scraped": [
     {
       "id": "30537fb3bdf8",
@@ -116,6 +116,36 @@
       ]
     },
     {
+      "id": "e9c36d3008c4",
+      "title": "Knitting Factory Entertainment Acquires Minority Stake in Does Entertainment, Forming Strategic Growth Partnership to Expand National Live...",
+      "summary": "Companies Align to Accelerate Venue Development, Talent Buying, Concert Promotion and Strategic Growth Across North America Los Angeles, CA / Wilmington, NC, July 14, 2026 \u2013&#160;Knitting Factory Ente",
+      "company": "",
+      "link": "https://venuestoday.com/knitting-factory-entertainment-acquires-minority-stake-in-does-entertainment-forming-strategic-growth-partnership-to-expand-national-live-entertainment-platform/",
+      "date": "Jul 15, 26",
+      "source": "Venues Today",
+      "layer": 2,
+      "access": "pe",
+      "score": 24,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "9320a69f32d0",
+      "title": "Jay-Z Brings Out Lauryn Hill and Wyclef at \u2018Jay-Z30\u2019 London Concert",
+      "summary": "Jay-Z\u2019s \u201cJay-Z30\u201d tour has been filled with guest appearances and his opening night at London\u2019s Tottenham Hotspur Stadium was no exception: He brought out Lauryn Hill and Wyclef for a mini-Fugees reun",
+      "company": "Jay-Z Brings Out Lauryn Hill",
+      "link": "https://variety.com/2026/music/news/jay-z-brings-out-lauryn-hill-london-1236852170/",
+      "date": "Sep 04, 26",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 19,
+      "moments": [
+        "surprise_appearance"
+      ]
+    },
+    {
       "id": "7d2a73eb17ca",
       "title": "Flexpoint, Frazier, WindRose eye specialty pharmacies; Pharmacy tech needs drive HIG to back Outcomes One",
       "summary": "Multi-state, specialty pharmacies with robust margins and revenues are primary targets for PE dealmakers; a look at HIG Capital\u2019s acquisition of Outcomes One, a provider of clinical network services a",
@@ -191,21 +221,6 @@
       ]
     },
     {
-      "id": "91e69ae0ebf7",
-      "title": "Geese open End of the Road 2026 with ferocious set marking first European festival headline show",
-      "summary": "Here's what went down as Cameron Winter and co kicked things off at EOTR's 20th anniversary The post Geese open End of the Road 2026 with ferocious set marking first European festival headline show ap",
-      "company": "Geese",
-      "link": "https://www.nme.com/news/music/geese-end-of-the-road-2026-photos-footage-setlist-3966996?utm_source=rss&utm_medium=rss&utm_campaign=geese-end-of-the-road-2026-photos-footage-setlist",
-      "date": "Sep 04, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
       "id": "24843b4b82fd",
       "title": "Predictable revenues pull PE to specialty pharmacies: 5 deals",
       "summary": "Court Square, Frazier Healthcare, Linden Capital and WindRose are among the PE firms investing in specialty pharmacies. The post Predictable revenues pull PE to specialty pharmacies: 5 deals appeared ",
@@ -221,33 +236,48 @@
       ]
     },
     {
-      "id": "dc2a0cc972d1",
-      "title": "Bonnaroo cancels 2027 edition as extreme weather pounds music festivals",
-      "summary": "The Bonnaroo Music and Arts Festival in Tennessee will take a year off in 2027 after years of weather disruptions and efforts to improve the festival grounds.",
-      "company": "Bonnaroo",
-      "link": "https://www.latimes.com/entertainment-arts/story/2026-08-21/bonnaroo-canceled-2027-extreme-weather",
-      "date": "Aug 21, 26",
-      "source": "LA Times Music",
+      "id": "579dec478311",
+      "title": "Scorpions Postpone Remaining 2026 Tour Dates Until 2027",
+      "summary": "Scorpions have postponed their remaining 2026 tour dates, moving concerts in Mexico and an eight-show Las Vegas residency to August... The post Scorpions Postpone Remaining 2026 Tour Dates Until 2027 ",
+      "company": "Scorpions Postpone Remaining",
+      "link": "https://www.ticketnews.com/2026/09/scorpions-postpone-remaining-2026-tour-dates-until-2027/",
+      "date": "Sep 04, 26",
+      "source": "Ticket News",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "tour_announcement"
+      ]
+    },
+    {
+      "id": "24f110cd937a",
+      "title": "Big Sean and Kanye West reunite after feud with surprise appearance at Chicago concert",
+      "summary": "It comes five years after West said signing Big Sean in 2007 was the \"worst thing\" he's ever done The post Big Sean and Kanye West reunite after feud with surprise appearance at Chicago concert appear",
+      "company": "Big Sean",
+      "link": "https://www.nme.com/news/music/big-sean-and-kanye-west-reunite-after-feud-with-surprise-appearance-at-chicago-concert-3967161?utm_source=rss&utm_medium=rss&utm_campaign=big-sean-and-kanye-west-reunite-after-feud-with-surprise-appearance-at-chicago-concert",
+      "date": "Sep 05, 26",
+      "source": "NME",
       "layer": 1,
       "access": "pe",
       "score": 13,
       "moments": [
-        "festival_headliner"
+        "surprise_appearance"
       ]
     },
     {
-      "id": "27a902c22b92",
-      "title": "Haruomi Hosono, Architect of Japanese Pop, Pushes West",
-      "summary": "After recent endorsements from Vampire Weekend and Harry Styles, Haruomi Hosono, 79, returns to the U.S. with a new album and tour.",
-      "company": "Haruomi Hosono Architect",
-      "link": "https://www.nytimes.com/2026/09/02/arts/music/haruomi-hosono-yours-sincerely.html",
-      "date": "Sep 02, 26",
-      "source": "NYT Music",
-      "layer": 1,
+      "id": "25a9b691b47c",
+      "title": "Sportico Transactions: Moves and Mergers Roundup for Sept. 4",
+      "summary": "Welcome to Sportico\u2019s transactions wire, a weekly rundown of personnel, partnerships and products across the sports business industry. PERSONNEL O&#8217;Connor Named GM of Huntington Bank Field, Home ",
+      "company": "Sportico Transactions",
+      "link": "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-roundup-sept-4-2026-1234943968/",
+      "date": "Sep 04, 26",
+      "source": "Sportico",
+      "layer": 2,
       "access": "pe",
       "score": 12,
       "moments": [
-        "album_announcement"
+        "acquisition"
       ]
     },
     {
@@ -326,6 +356,21 @@
       ]
     },
     {
+      "id": "ed24e331be68",
+      "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
+      "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
+      "company": "Niloufar Banisaied",
+      "link": "https://venuestoday.com/niloufar-banisaied-is-bringing-timeless-design-and-the-guest-experience-at-the-forefront/",
+      "date": "Jun 09, 26",
+      "source": "Venues Today",
+      "layer": 4,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
       "id": "a722661d5648",
       "title": "Inside Camelback Productions\u2019 Plans for a New 1,400-Acre, AI-Powered Production and Entertainment Complex \u2014 in Arizona (EXCLUSIVE)",
       "summary": "Anita Verma-Lallian, founder of Camelback Productions, doesn\u2019t see the future of film production in Los Angeles. Instead, in her vision, it is on a complex one hour\u2019s drive west of Phoenix, complete w",
@@ -341,32 +386,34 @@
       ]
     },
     {
-      "id": "acdac2dda2aa",
-      "title": "Garth Brooks Plays Surprise Set at Denver Bar Under the Alias Yukon Jack",
-      "summary": "The country star is set to play multiple shows at Ball Arena in Denver this weekend.",
-      "company": "Garth Brooks Plays Surprise Set",
-      "link": "https://www.billboard.com/music/country/garth-brooks-surprise-set-denver-bar-yukon-jack-alias-1236334315/",
+      "id": "2c0bc5568544",
+      "title": "Scott Hanson on Ads Coming to RedZone",
+      "summary": "Scott Hanson on RedZone's 300th episode and the show's future under the ESPN merger.",
+      "company": "Scott Hanson",
+      "link": "https://frontofficesports.com/videos/scott-hanson-on-ads-coming-to-redzone/",
       "date": "Sep 04, 26",
-      "source": "Billboard",
-      "layer": 2,
+      "source": "Front Office Sports",
+      "layer": 3,
       "access": "pe",
       "score": 9,
       "moments": [
-        "surprise_appearance"
+        "acquisition"
       ]
     },
     {
-      "id": "ca9fd815d31b",
-      "title": "Rogers Stadium in Toronto Is Damaged by Thunderstorm Before AC/DC Show",
-      "summary": "The music venue, which opened in 2025, was built specifically for large concerts. The fate of its next show, featuring AC/DC, is unclear.",
-      "company": "Rogers Stadium",
-      "link": "https://www.nytimes.com/2026/09/03/world/canada/toronto-rogers-stadium-thunderstorm-damage.html",
-      "date": "Sep 04, 26",
-      "source": "NYT Music",
-      "layer": 2,
+      "id": "f3a1d1554548",
+      "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
+      "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
+      "company": "Navigating",
+      "link": "https://venuestoday.com/navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026/",
+      "date": "Apr 22, 26",
+      "source": "Venues Today",
+      "layer": 3,
       "access": "pe",
-      "score": 15,
-      "moments": []
+      "score": 6,
+      "moments": [
+        "acquisition"
+      ]
     },
     {
       "id": "e1d2b1560df5",
@@ -392,19 +439,6 @@
       "layer": 3,
       "access": "pe",
       "score": 8,
-      "moments": []
-    },
-    {
-      "id": "d8dc3109d38a",
-      "title": "Broadcasters and governing bodies make tax plea for TV coverage of women\u2019s sport",
-      "summary": "Letter sent to chancellor, John Healey, on Friday\u2018Audience demand for women\u2019s sport is growing\u2019The chief executives of the Football Association, Rugby Football Union and England and Wales Cricket Boar",
-      "company": "Broadcasters",
-      "link": "https://www.theguardian.com/sport/2026/sep/04/broadcasters-governing-bodies-tax-plea-tv-coverage-womens-sport",
-      "date": "Sep 04, 26",
-      "source": "Guardian Sport",
-      "layer": 3,
-      "access": "pe",
-      "score": 7,
       "moments": []
     },
     {
@@ -447,14 +481,14 @@
       "moments": []
     },
     {
-      "id": "cec360a63cac",
-      "title": "Ontario Fines SeatGeek Over Ticket Resale Rules Company Says Remain Unclear",
-      "summary": "Ontario has imposed three administrative penalties totaling C$25,000 against SeatGeek Canada under its new ticket resale rules, including a C$10,000... The post Ontario Fines SeatGeek Over Ticket Resa",
-      "company": "Ontario Fines SeatGeek Over Ticket Resale",
-      "link": "https://www.ticketnews.com/2026/09/ontario-seatgeek-ticket-resale-fine/",
-      "date": "Sep 03, 26",
-      "source": "Ticket News",
-      "layer": 3,
+      "id": "8f95fdb4c719",
+      "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
+      "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
+      "company": "Global Times",
+      "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/",
+      "date": "May 09, 26",
+      "source": "Venues Today",
+      "layer": 4,
       "access": "pe",
       "score": 4,
       "moments": []
