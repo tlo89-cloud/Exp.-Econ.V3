@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-05T14:53:18.453236+00:00",
+  "generated": "2026-09-06T15:13:14.846415+00:00",
   "total": 33,
   "scraped": [
     {
@@ -161,6 +161,21 @@
       ]
     },
     {
+      "id": "9ffa45d1486b",
+      "title": "Kid Cudi Defends Kanye West After Ending Feud: Kanye \u2018Apologized and It Was Sincere\u2019 After Antisemitic Outbursts",
+      "summary": "After feuding for the past few years, Kanye West and Kid Cudi have made up and reunited during West&#8217;s Chicago concert on Friday night. West performed the past two nights in his hometown of Chica",
+      "company": "Kid Cudi Defends Kanye West After",
+      "link": "https://variety.com/2026/music/news/kid-cudi-kanye-west-end-feud-antisemitic-1236852747/",
+      "date": "Sep 05, 26",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "surprise_appearance"
+      ]
+    },
+    {
       "id": "b3866dd4272d",
       "title": "Rising Pop Badass Ad\u00e9la Arrives in a Big Way With \u2018Prima\u2019: Album Review",
       "summary": "Being eliminated from the \u201cDream Academy\u201d reality-TV series that produced Katseye might be the best thing that ever happened to 22-year-old Slovakian native Ad\u00e9la Jergov\u00e1: After a summer of lighting u",
@@ -206,6 +221,36 @@
       ]
     },
     {
+      "id": "a4992caebceb",
+      "title": "System of a Down Release \u2018Johnny\u2019 to Streaming for the First Time",
+      "summary": "The 25th anniversary Toxicity reissue also corrects a two-decade tracklist error and arrives alongside a run of stadium tour dates.",
+      "company": "System",
+      "link": "https://www.billboard.com/music/rock/system-of-a-down-1236335101/",
+      "date": "Sep 06, 26",
+      "source": "Billboard",
+      "layer": 2,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "tour_announcement"
+      ]
+    },
+    {
+      "id": "5f1c4c79761d",
+      "title": "Everton 2-2 Manchester United: Premier League \u2013 live",
+      "summary": "Minute-by-minute updates from the action at Hill Dickinson StadiumTransfer failures leave Everton scrambling | Mail Tim\u201cSelected scuttlebut,\u201d says Ian Copestake, promisingly, \u201cfrom Everton fans on the",
+      "company": "Everton 2-2 Manchester United",
+      "link": "https://www.theguardian.com/football/live/2026/sep/06/everton-v-manchester-united-premier-league-live",
+      "date": "Sep 06, 26",
+      "source": "Guardian Sport",
+      "layer": 1,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "venue_announcement"
+      ]
+    },
+    {
       "id": "9851df5dce80",
       "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
       "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
@@ -233,36 +278,6 @@
       "score": 14,
       "moments": [
         "pe_investment"
-      ]
-    },
-    {
-      "id": "579dec478311",
-      "title": "Scorpions Postpone Remaining 2026 Tour Dates Until 2027",
-      "summary": "Scorpions have postponed their remaining 2026 tour dates, moving concerts in Mexico and an eight-show Las Vegas residency to August... The post Scorpions Postpone Remaining 2026 Tour Dates Until 2027 ",
-      "company": "Scorpions Postpone Remaining",
-      "link": "https://www.ticketnews.com/2026/09/scorpions-postpone-remaining-2026-tour-dates-until-2027/",
-      "date": "Sep 04, 26",
-      "source": "Ticket News",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "tour_announcement"
-      ]
-    },
-    {
-      "id": "24f110cd937a",
-      "title": "Big Sean and Kanye West reunite after feud with surprise appearance at Chicago concert",
-      "summary": "It comes five years after West said signing Big Sean in 2007 was the \"worst thing\" he's ever done The post Big Sean and Kanye West reunite after feud with surprise appearance at Chicago concert appear",
-      "company": "Big Sean",
-      "link": "https://www.nme.com/news/music/big-sean-and-kanye-west-reunite-after-feud-with-surprise-appearance-at-chicago-concert-3967161?utm_source=rss&utm_medium=rss&utm_campaign=big-sean-and-kanye-west-reunite-after-feud-with-surprise-appearance-at-chicago-concert",
-      "date": "Sep 05, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "surprise_appearance"
       ]
     },
     {
@@ -366,21 +381,6 @@
       "layer": 4,
       "access": "pe",
       "score": 11,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "a722661d5648",
-      "title": "Inside Camelback Productions\u2019 Plans for a New 1,400-Acre, AI-Powered Production and Entertainment Complex \u2014 in Arizona (EXCLUSIVE)",
-      "summary": "Anita Verma-Lallian, founder of Camelback Productions, doesn\u2019t see the future of film production in Los Angeles. Instead, in her vision, it is on a complex one hour\u2019s drive west of Phoenix, complete w",
-      "company": "Inside Camelback Productions\u2019 Plans",
-      "link": "https://variety.com/2026/biz/news/inside-camelback-productions-ai-powered-production-arizona-1236849577/",
-      "date": "Sep 02, 26",
-      "source": "Variety Biz",
-      "layer": 2,
-      "access": "pe",
-      "score": 10,
       "moments": [
         "company_launch"
       ]
