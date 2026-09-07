@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-06T15:13:14.846415+00:00",
+  "generated": "2026-09-07T17:34:46.629660+00:00",
   "total": 33,
   "scraped": [
     {
@@ -84,35 +84,19 @@
       ]
     },
     {
-      "id": "7f7dde301235",
-      "title": "Tyree & D\u2019Angelo nearly doubles flagship size with rapid $650m Fund IV hard-cap close",
-      "summary": "Lower mid-market buyout house Tyree &#038; D'Angelo Partners has nearly doubled the size of its flagship fund series after racing to a $650m hard-cap close for Fund IV in less than two-and-a-half mont",
-      "company": "Tyree",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/tyree-dangelo-nearly-doubles-flagship-size-with-rapid-650m-fund-iv-hard-cap-close.html",
-      "date": "Sep 04, 26",
+      "id": "b5035f1903f7",
+      "title": "Claret Capital scales flagship growth debt fund by almost 50% with \u20ac440m Fund IV close",
+      "summary": "Claret Capital Partners has scaled its flagship growth debt strategy by almost 50% through the \u20ac440m close of Fund IV. The post Claret Capital scales flagship growth debt fund by almost 50% with \u20ac440m",
+      "company": "Claret Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/claret-capital-scales-flagship-growth-debt-fund-by-almost-50-with-e440m-fund-iv-close.html",
+      "date": "Sep 07, 26",
       "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "4609b246eed6",
-      "title": "OpenAI, Anthropic aim to balance safety, progress as IPOs near",
-      "summary": "OpenAI and Anthropic are trying to strike a delicate balance: convincing Wall Street that their businesses are sound and fast-growing, while at the same time assuring governments and the world that th",
-      "company": "OpenAI Anthropic",
-      "link": "https://www.axios.com/2026/09/02/openai-anthropic-fable-astra-ipo",
-      "date": "Sep 02, 26",
-      "source": "Axios",
       "layer": 5,
       "access": "pe",
       "score": 13,
       "moments": [
-        "ipo",
-        "record_breaking"
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
@@ -128,6 +112,21 @@
       "score": 24,
       "moments": [
         "acquisition"
+      ]
+    },
+    {
+      "id": "6875ac5047ae",
+      "title": "Jay-Z 30 tour review \u2013 the sheer profusion of nailed-on classics is dizzying",
+      "summary": "Tottenham Hotspur Stadium, LondonEven though Beyonc\u00e9 rumours prove unfounded, there are plenty of guests, from Idris Elba to Lauryn Hill \u2013 but this show doesn\u2019t need cameos to lift itJay-Z\u2019s first sol",
+      "company": "Jay-Z",
+      "link": "https://www.theguardian.com/music/2026/sep/05/jay-z-30-tour-review",
+      "date": "Sep 05, 26",
+      "source": "Guardian Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 20,
+      "moments": [
+        "company_launch"
       ]
     },
     {
@@ -176,21 +175,6 @@
       ]
     },
     {
-      "id": "b3866dd4272d",
-      "title": "Rising Pop Badass Ad\u00e9la Arrives in a Big Way With \u2018Prima\u2019: Album Review",
-      "summary": "Being eliminated from the \u201cDream Academy\u201d reality-TV series that produced Katseye might be the best thing that ever happened to 22-year-old Slovakian native Ad\u00e9la Jergov\u00e1: After a summer of lighting u",
-      "company": "Rising Pop Badass Ad\u00e9la Arrives",
-      "link": "https://variety.com/2026/music/reviews/adela-prima-album-review-1236851079/",
-      "date": "Sep 04, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
       "id": "87b4d58f3de7",
       "title": "Daisy Chain Fields review \u2013 Olivia Rodrigo\u2019s women-led festival is electric amid extreme heat",
       "summary": "Great Park, Irvine, CaliforniaPerformances from Rodrigo, Stevie Nicks, Chappell Roan and Sarah McLachlan raise $20m for charity yet are marred by poor planning for heatwaveShortly after singing the cl",
@@ -203,51 +187,6 @@
       "score": 16,
       "moments": [
         "funding_round"
-      ]
-    },
-    {
-      "id": "93d51e79f82a",
-      "title": "KKR to sell minority stake in Nordic Bioscience to company founder",
-      "summary": "KKR helped the business double its revenue and expand its capabilities across R&#038;D services, clinical diagnostics and drug development. The post KKR to sell minority stake in Nordic Bioscience to ",
-      "company": "KKR",
-      "link": "https://www.pehub.com/kkr-to-sell-minority-stake-in-nordic-bioscience-to-company-founder/",
-      "date": "Sep 03, 26",
-      "source": "PE Hub",
-      "layer": 2,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "a4992caebceb",
-      "title": "System of a Down Release \u2018Johnny\u2019 to Streaming for the First Time",
-      "summary": "The 25th anniversary Toxicity reissue also corrects a two-decade tracklist error and arrives alongside a run of stadium tour dates.",
-      "company": "System",
-      "link": "https://www.billboard.com/music/rock/system-of-a-down-1236335101/",
-      "date": "Sep 06, 26",
-      "source": "Billboard",
-      "layer": 2,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "tour_announcement"
-      ]
-    },
-    {
-      "id": "5f1c4c79761d",
-      "title": "Everton 2-2 Manchester United: Premier League \u2013 live",
-      "summary": "Minute-by-minute updates from the action at Hill Dickinson StadiumTransfer failures leave Everton scrambling | Mail Tim\u201cSelected scuttlebut,\u201d says Ian Copestake, promisingly, \u201cfrom Everton fans on the",
-      "company": "Everton 2-2 Manchester United",
-      "link": "https://www.theguardian.com/football/live/2026/sep/06/everton-v-manchester-united-premier-league-live",
-      "date": "Sep 06, 26",
-      "source": "Guardian Sport",
-      "layer": 1,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "venue_announcement"
       ]
     },
     {
@@ -281,6 +220,21 @@
       ]
     },
     {
+      "id": "579dec478311",
+      "title": "Scorpions Postpone Remaining 2026 Tour Dates Until 2027",
+      "summary": "Scorpions have postponed their remaining 2026 tour dates, moving concerts in Mexico and an eight-show Las Vegas residency to August... The post Scorpions Postpone Remaining 2026 Tour Dates Until 2027 ",
+      "company": "Scorpions Postpone Remaining",
+      "link": "https://www.ticketnews.com/2026/09/scorpions-postpone-remaining-2026-tour-dates-until-2027/",
+      "date": "Sep 04, 26",
+      "source": "Ticket News",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "tour_announcement"
+      ]
+    },
+    {
       "id": "25a9b691b47c",
       "title": "Sportico Transactions: Moves and Mergers Roundup for Sept. 4",
       "summary": "Welcome to Sportico\u2019s transactions wire, a weekly rundown of personnel, partnerships and products across the sports business industry. PERSONNEL O&#8217;Connor Named GM of Huntington Bank Field, Home ",
@@ -293,6 +247,21 @@
       "score": 12,
       "moments": [
         "acquisition"
+      ]
+    },
+    {
+      "id": "f5bf4a9c07bc",
+      "title": "Jamie T adds more dates to 2026 UK headline tour due to demand",
+      "summary": "New shows include a second night at London\u2019s Olympia The post Jamie T adds more dates to 2026 UK headline tour due to demand appeared first on NME.",
+      "company": "Jamie",
+      "link": "https://www.nme.com/news/music/jamie-t-adds-more-dates-to-2026-uk-headline-tour-buy-tickets-3967435?utm_source=rss&utm_medium=rss&utm_campaign=jamie-t-adds-more-dates-to-2026-uk-headline-tour-buy-tickets",
+      "date": "Sep 07, 26",
+      "source": "NME",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "festival_headliner"
       ]
     },
     {
@@ -311,12 +280,27 @@
       ]
     },
     {
-      "id": "067f5bc7312c",
-      "title": "Blue Owl hires Schroders exec to lead Swiss private wealth, as $319bn manager opens Zurich office",
-      "summary": "Blue Owl Capital has hired Schroders executive Philippe Benedetti to lead its Swiss private wealth business, as the $319bn alternatives manager continues its expansion outside of the US by opening a S",
-      "company": "Blue Owl",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/switzerland-western-europe-europe-by-region/blue-owl-hires-schroders-exec-to-lead-swiss-private-wealth-as-319bn-manager-opens-zurich-office.html",
-      "date": "Sep 03, 26",
+      "id": "db43650a931e",
+      "title": "SEC proposal could give PE more freedom over political donations",
+      "summary": "The US Securities and Exchange Commission is proposing to scrap its \u201cpay-to-play\u201d rule for investment advisers, potentially giving private equity firms greater scope to make political contributions wh",
+      "company": "SEC",
+      "link": "https://www.privateequitywire.co.uk/sec-proposal-could-give-pe-more-freedom-over-political-donations/",
+      "date": "Sep 07, 26",
+      "source": "PE Wire",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "017fcd0c9ad9",
+      "title": "Software sell-off reaches private equity portfolios as global buyout returns turn negative: HarbourVest",
+      "summary": "The public-market software repricing has begun feeding visibly into private equity valuations, helping push global buyout returns negative in the first quarter despite most other sectors suffering onl",
+      "company": "Software",
+      "link": "https://www.altassets.net/featured/software-sell-off-reaches-private-equity-portfolios-as-global-buyout-returns-turn-negative-harbourvest.html",
+      "date": "Sep 07, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -326,12 +310,12 @@
       ]
     },
     {
-      "id": "046fdeb93ec5",
-      "title": "CVC secondaries scores $10bn as flagship fund almost quadruples in size since 2019",
-      "summary": "CVC Secondary Partners has closed its sixth global private equity secondaries fund on $10bn, continuing a rapid expansion of the firm's firepower in the asset class. The post CVC secondaries scores $1",
-      "company": "CVC",
-      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/cvc-secondaries-scores-10bn-as-flagship-fund-almost-quadruples-in-size-since-2019.html",
-      "date": "Sep 03, 26",
+      "id": "64d97d96b3b4",
+      "title": "NIIF brings in PAG private equity fundraising head",
+      "summary": "India's National Investment and Infrastructure Fund has brought in PAG's private equity fundraising head Gauravjit Singh to lead its global capital formation effort after mobilising about $3bn of new ",
+      "company": "NIIF",
+      "link": "https://www.altassets.net/private-equity-news/by-region/asia-by-region/india-asia-by-region/niif-brings-in-pag-private-equity-fundraising-head.html",
+      "date": "Sep 07, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -356,18 +340,33 @@
       ]
     },
     {
-      "id": "05447de81e5b",
-      "title": "NIVA, NITO Rally Around Vanderbilt\u2019s $11B Anti-Resale Research as Methodology Raises Questions",
-      "summary": "A Vanderbilt University white paper estimating that ticket resale markups and platform fees cost American consumers $11.3 billion annually has... The post NIVA, NITO Rally Around Vanderbilt\u2019s $11B Ant",
-      "company": "NIVA NITO Rally Around Vanderbilt\u2019s",
-      "link": "https://www.ticketnews.com/2026/09/vanderbilt-11-billion-ticket-study-resale-cap/",
-      "date": "Sep 04, 26",
-      "source": "Ticket News",
-      "layer": 5,
+      "id": "a33dba0fdd4b",
+      "title": "Rauw Alejandro Turns His Past, Present & Future Into a Three-Act Spectacle at Forest Hills Stadium: \u20182027 Will Be Completely Ra\u00fal\u2019",
+      "summary": "The Puerto Rican star discussed Red Bull Chapters, a production that fused his personal history with an athletic approach to live performance.",
+      "company": "Rauw Alejandro Turns His Past Present",
+      "link": "https://www.billboard.com/music/latin/rauw-alejandro-red-bull-chapters-forest-hills-stadium-interview-1236335190/",
+      "date": "Sep 06, 26",
+      "source": "Billboard",
+      "layer": 2,
       "access": "pe",
-      "score": 12,
+      "score": 11,
       "moments": [
-        "funding_round"
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "9c3b35a9807c",
+      "title": "AI boosts software productivity by up to 10x \u2013 now firms must redesign how they operate, Astorg says",
+      "summary": "Private equity firm Astorg says software businesses in its portfolio are already seeing teams operate at roughly three times their previous productivity - with improvements of up to 10x in specific de",
+      "company": "AI",
+      "link": "https://www.altassets.net/featured/astorg-ai-software-gains-of-up-to-10x-demand-operating-model-rethink.html",
+      "date": "Sep 07, 26",
+      "source": "AltAssets",
+      "layer": 2,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "pe_investment"
       ]
     },
     {
