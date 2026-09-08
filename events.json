@@ -1,24 +1,7 @@
 {
-  "generated": "2026-09-07T17:34:46.629660+00:00",
+  "generated": "2026-09-08T16:21:07.757368+00:00",
   "total": 33,
   "scraped": [
-    {
-      "id": "30537fb3bdf8",
-      "title": "Ex-KKR impact head\u2019s MS+PARTNERS hits \u20ac150m first close for debut European buyout fund",
-      "summary": "MS+PARTNERS, co-founded by former KKR European impact head Stanislas de Joussineau, has reached a near-\u20ac150m first close for its debut pan-European private equity fund - almost halfway to its \u20ac300m ta",
-      "company": "Ex-KKR",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/ex-kkr-impact-heads-mspartners-hits-e150m-first-close-for-debut-european-buyout-fund.html",
-      "date": "Sep 04, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 23,
-      "moments": [
-        "pe_investment",
-        "fund_launch",
-        "company_launch"
-      ]
-    },
     {
       "id": "37b1a984d359",
       "title": "Deal Roundup: Carlyle, Dynasty Equity Sixth Street close minority investments in $9.6bn Khosla family buyout of Seattle Seahawks",
@@ -52,22 +35,6 @@
       ]
     },
     {
-      "id": "30198baab854",
-      "title": "EQT agrees to acquire McGill and Partners from Warburg Pincus for $2bn",
-      "summary": "McGill and Partners is an independent specialty (re)insurance broker founded in 2019 that has grown to more than 600 colleagues across seven countries, serving over 1,000 clients and generating revenu",
-      "company": "EQT agrees to",
-      "link": "https://www.pehub.com/eqt-agrees-to-acquire-mcgill-and-partners-from-warburg-pincus-for-2bn/",
-      "date": "Sep 04, 26",
-      "source": "PE Hub",
-      "layer": 1,
-      "access": "pe",
-      "score": 23,
-      "moments": [
-        "acquisition",
-        "company_launch"
-      ]
-    },
-    {
       "id": "e8bd9585c14f",
       "title": "From the Spotify Mafia to the Lovable Mafia: inside Stockholm\u2019s founder network",
       "summary": "Vibe-coding darling&#160;Lovable just raised $400 million at a&#160;$13.3 billion&#160;valuation,&#160;roughly doubling&#160;its worth in eight months. But Lovable&#160;isn\u2019t&#160;the only Stockholm s",
@@ -81,6 +48,38 @@
       "moments": [
         "streaming_milestone",
         "company_launch"
+      ]
+    },
+    {
+      "id": "79a575481fa4",
+      "title": "Deal Roundup: EQT, PSG join record \u20ac3bn Mistral round, Blackstone rolls CIRSA into \u20ac2.8bn Lottomatica merger",
+      "summary": "Mistral has raised \u20ac3bn in a Series D round valuing the French AI company at more than \u20ac21bn, in what it says is the largest-ever equity fundraising by a European technology company. The post Deal Rou",
+      "company": "Deal Roundup",
+      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-eqt-psg-join-record-e3bn-mistral-round-blackstone-rolls-cirsa-into-e2-8bn-lottomatica-merger.html",
+      "date": "Sep 08, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "acquisition",
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "f861069e9c85",
+      "title": "Tasman Capital expects A$200m Fund IV to be substantially deployed by March final close",
+      "summary": "Tasman Capital Partners expects its fourth private equity fund to be substantially deployed by the time it reaches a planned final close in March next year, having already put its first two platform i",
+      "company": "Tasman Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/australasia-by-region/australia-australasia-by-region/tasman-capital-expects-a200m-fund-iv-to-be-largely-deployed-by-march-final-close.html",
+      "date": "Sep 08, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
@@ -130,33 +129,18 @@
       ]
     },
     {
-      "id": "9320a69f32d0",
-      "title": "Jay-Z Brings Out Lauryn Hill and Wyclef at \u2018Jay-Z30\u2019 London Concert",
-      "summary": "Jay-Z\u2019s \u201cJay-Z30\u201d tour has been filled with guest appearances and his opening night at London\u2019s Tottenham Hotspur Stadium was no exception: He brought out Lauryn Hill and Wyclef for a mini-Fugees reun",
-      "company": "Jay-Z Brings Out Lauryn Hill",
-      "link": "https://variety.com/2026/music/news/jay-z-brings-out-lauryn-hill-london-1236852170/",
-      "date": "Sep 04, 26",
+      "id": "823eab9133f2",
+      "title": "Stevie Wonder Announces \u2018Songs in the Key of Life\u2019 50th Anniversary Tour Dates",
+      "summary": "Stevie Wonder has announced dates for his \u201cSongs in the Key of Life Performances &#8211; 50th Anniversary Tour,\u201d a celebration of his generation-defining 1976 double album. The tour, promoted by Live ",
+      "company": "Stevie Wonder Announces \u2018Songs",
+      "link": "https://variety.com/2026/music/news/stevie-wonder-songs-in-the-key-of-life-50th-anniversary-tour-dates-1236854667/",
+      "date": "Sep 08, 26",
       "source": "Variety Music",
       "layer": 1,
       "access": "pe",
-      "score": 19,
+      "score": 18,
       "moments": [
-        "surprise_appearance"
-      ]
-    },
-    {
-      "id": "7d2a73eb17ca",
-      "title": "Flexpoint, Frazier, WindRose eye specialty pharmacies; Pharmacy tech needs drive HIG to back Outcomes One",
-      "summary": "Multi-state, specialty pharmacies with robust margins and revenues are primary targets for PE dealmakers; a look at HIG Capital\u2019s acquisition of Outcomes One, a provider of clinical network services a",
-      "company": "Flexpoint Frazier WindRose",
-      "link": "https://www.pehub.com/flexpoint-frazier-windrose-eye-specialty-pharmacies-pharmacy-tech-needs-drive-hig-to-back-outcomes-one/",
-      "date": "Sep 04, 26",
-      "source": "PE Hub",
-      "layer": 2,
-      "access": "pe",
-      "score": 17,
-      "moments": [
-        "acquisition"
+        "tour_announcement"
       ]
     },
     {
@@ -205,18 +189,18 @@
       ]
     },
     {
-      "id": "24843b4b82fd",
-      "title": "Predictable revenues pull PE to specialty pharmacies: 5 deals",
-      "summary": "Court Square, Frazier Healthcare, Linden Capital and WindRose are among the PE firms investing in specialty pharmacies. The post Predictable revenues pull PE to specialty pharmacies: 5 deals appeared ",
-      "company": "Predictable",
-      "link": "https://www.pehub.com/predictable-revenues-pull-pe-to-specialty-pharmacies-5-deals/",
-      "date": "Sep 04, 26",
-      "source": "PE Hub",
+      "id": "200beae8dbf7",
+      "title": "White Fleet Drilling's WFD 450, the Largest Jack-Up Rig Operating in the Gulf of America, Launches Multi-Well Drilling Program on Arena Energy's...",
+      "summary": "$65 Million Acquisition and Refurbishment Investment Unlocks Previously Inaccessible Drilling Opportunities on the Gulf of America Shelf THE WOODLANDS, Texas, Sept. 8, 2026 /PRNewswire/ -- Arena Energ",
+      "company": "White Fleet Drilling's WFD",
+      "link": "https://www.prnewswire.com/news-releases/white-fleet-drillings-wfd-450-the-largest-jack-up-rig-operating-in-the-gulf-of-america-launches-multi-well-drilling-program-on-arena-energys-shelf-assets-302872547.html",
+      "date": "Sep 08, 26",
+      "source": "PR Newswire",
       "layer": 2,
       "access": "pe",
-      "score": 14,
+      "score": 15,
       "moments": [
-        "pe_investment"
+        "acquisition"
       ]
     },
     {
@@ -250,18 +234,63 @@
       ]
     },
     {
-      "id": "f5bf4a9c07bc",
-      "title": "Jamie T adds more dates to 2026 UK headline tour due to demand",
-      "summary": "New shows include a second night at London\u2019s Olympia The post Jamie T adds more dates to 2026 UK headline tour due to demand appeared first on NME.",
-      "company": "Jamie",
-      "link": "https://www.nme.com/news/music/jamie-t-adds-more-dates-to-2026-uk-headline-tour-buy-tickets-3967435?utm_source=rss&utm_medium=rss&utm_campaign=jamie-t-adds-more-dates-to-2026-uk-headline-tour-buy-tickets",
-      "date": "Sep 07, 26",
-      "source": "NME",
+      "id": "27a902c22b92",
+      "title": "Haruomi Hosono, Architect of Japanese Pop, Pushes West",
+      "summary": "After recent endorsements from Vampire Weekend and Harry Styles, Haruomi Hosono, 79, returns to the U.S. with a new album and tour.",
+      "company": "Haruomi Hosono Architect",
+      "link": "https://www.nytimes.com/2026/09/02/arts/music/haruomi-hosono-yours-sincerely.html",
+      "date": "Sep 02, 26",
+      "source": "NYT Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "6b825b9a0c0d",
+      "title": "Mill Point Capital names Littlejohn veteran Michael Kaplan managing partner",
+      "summary": "Mill Point Capital is a lower-middle-market private equity firm focused on control investments in business services, industrials and IT services companies across North America. The post Mill Point Cap",
+      "company": "Mill Point Capital",
+      "link": "https://www.pehub.com/mill-point-capital-names-littlejohn-veteran-michael-kaplan-managing-partner/",
+      "date": "Sep 08, 26",
+      "source": "PE Hub",
       "layer": 5,
       "access": "pe",
       "score": 12,
       "moments": [
-        "festival_headliner"
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "ca5b98a4059a",
+      "title": "Hudson Hill closes CV for InXpress; Warburg Pincus, Berkshire Partners to sell Consolidated Precision Products to GE Aerospace for $11.75bn",
+      "summary": "Exploring Hudson Hill Capital\u2019s single-asset continuation vehicle for InXpress, an international and domestic parcel and freight services provider; Warburg Pincus and Berkshire Partners agree to sell ",
+      "company": "Hudson Hill",
+      "link": "https://www.pehub.com/hudson-hill-closes-cv-for-inxpress-warburg-pincus-berkshire-partners-to-sell-consolidated-precision-products-to-ge-aerospace-for-11-75bn/",
+      "date": "Sep 08, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "9aa4417a6006",
+      "title": "Altaline Capital completes growth investment in insurance consultancy RRC",
+      "summary": "Risk &#038; Regulatory Consulting, founded in 1988 and based in Farmington, Connecticut, provides actuarial, financial/IT and compliance support to US insurance regulators across 44 states and employs",
+      "company": "Altaline Capital",
+      "link": "https://www.pehub.com/altaline-capital-completes-growth-investment-in-insurance-consultancy-rrc/",
+      "date": "Sep 08, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "company_launch"
       ]
     },
     {
@@ -280,51 +309,6 @@
       ]
     },
     {
-      "id": "db43650a931e",
-      "title": "SEC proposal could give PE more freedom over political donations",
-      "summary": "The US Securities and Exchange Commission is proposing to scrap its \u201cpay-to-play\u201d rule for investment advisers, potentially giving private equity firms greater scope to make political contributions wh",
-      "company": "SEC",
-      "link": "https://www.privateequitywire.co.uk/sec-proposal-could-give-pe-more-freedom-over-political-donations/",
-      "date": "Sep 07, 26",
-      "source": "PE Wire",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "017fcd0c9ad9",
-      "title": "Software sell-off reaches private equity portfolios as global buyout returns turn negative: HarbourVest",
-      "summary": "The public-market software repricing has begun feeding visibly into private equity valuations, helping push global buyout returns negative in the first quarter despite most other sectors suffering onl",
-      "company": "Software",
-      "link": "https://www.altassets.net/featured/software-sell-off-reaches-private-equity-portfolios-as-global-buyout-returns-turn-negative-harbourvest.html",
-      "date": "Sep 07, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "64d97d96b3b4",
-      "title": "NIIF brings in PAG private equity fundraising head",
-      "summary": "India's National Investment and Infrastructure Fund has brought in PAG's private equity fundraising head Gauravjit Singh to lead its global capital formation effort after mobilising about $3bn of new ",
-      "company": "NIIF",
-      "link": "https://www.altassets.net/private-equity-news/by-region/asia-by-region/india-asia-by-region/niif-brings-in-pag-private-equity-fundraising-head.html",
-      "date": "Sep 07, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
       "id": "7a15353bdb57",
       "title": "RocketSports-1 Announces Activewear Expansion to 37 Walmart Stores Across 18 States",
       "summary": "Atlanta, Georgia, Sept. 02, 2026 (GLOBE NEWSWIRE) -- RocketSports-1, the activewear brand founded by designer Jon Dabney, announced that its women\u2019s activewear is now available in 37 Walmart stores ac",
@@ -337,21 +321,6 @@
       "score": 12,
       "moments": [
         "company_launch"
-      ]
-    },
-    {
-      "id": "a33dba0fdd4b",
-      "title": "Rauw Alejandro Turns His Past, Present & Future Into a Three-Act Spectacle at Forest Hills Stadium: \u20182027 Will Be Completely Ra\u00fal\u2019",
-      "summary": "The Puerto Rican star discussed Red Bull Chapters, a production that fused his personal history with an athletic approach to live performance.",
-      "company": "Rauw Alejandro Turns His Past Present",
-      "link": "https://www.billboard.com/music/latin/rauw-alejandro-red-bull-chapters-forest-hills-stadium-interview-1236335190/",
-      "date": "Sep 06, 26",
-      "source": "Billboard",
-      "layer": 2,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "festival_headliner"
       ]
     },
     {
@@ -385,6 +354,21 @@
       ]
     },
     {
+      "id": "a722661d5648",
+      "title": "Inside Camelback Productions\u2019 Plans for a New 1,400-Acre, AI-Powered Production and Entertainment Complex \u2014 in Arizona (EXCLUSIVE)",
+      "summary": "Anita Verma-Lallian, founder of Camelback Productions, doesn\u2019t see the future of film production in Los Angeles. Instead, in her vision, it is on a complex one hour\u2019s drive west of Phoenix, complete w",
+      "company": "Inside Camelback Productions\u2019 Plans",
+      "link": "https://variety.com/2026/biz/news/inside-camelback-productions-ai-powered-production-arizona-1236849577/",
+      "date": "Sep 02, 26",
+      "source": "Variety Biz",
+      "layer": 2,
+      "access": "pe",
+      "score": 10,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
       "id": "2c0bc5568544",
       "title": "Scott Hanson on Ads Coming to RedZone",
       "summary": "Scott Hanson on RedZone's 300th episode and the show's future under the ESPN merger.",
@@ -397,6 +381,21 @@
       "score": 9,
       "moments": [
         "acquisition"
+      ]
+    },
+    {
+      "id": "ede3cc109aae",
+      "title": "Apollo portfolio companies face higher borrowing costs amid \u2018sponsor premium\u2019",
+      "summary": "Companies backed by Apollo Global Management are paying roughly one percentage point more to borrow in the leveraged loan market than those backed by other private equity sponsors, according to a repo",
+      "company": "Apollo",
+      "link": "https://www.privateequitywire.co.uk/apollo-portfolio-companies-face-higher-borrowing-costs-amid-sponsor-premium-2/",
+      "date": "Sep 08, 26",
+      "source": "PE Wire",
+      "layer": 4,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "pe_investment"
       ]
     },
     {
@@ -415,42 +414,29 @@
       ]
     },
     {
-      "id": "e1d2b1560df5",
-      "title": "Insurance, healthcare and energy metering deals round out the week; A&D in focus in They Said It",
-      "summary": "VIPR\u2019s platform processes around 500,000 bordereaux annually, representing about $12 billion of gross written premium, across a base of blue-chip customers. The post Insurance, healthcare and energy m",
-      "company": "Insurance",
-      "link": "https://www.pehub.com/insurance-healthcare-and-energy-metering-deals-round-out-the-week-ad-in-focus-in-they-said-it/",
-      "date": "Sep 04, 26",
-      "source": "PE Hub",
-      "layer": 4,
-      "access": "pe",
-      "score": 10,
-      "moments": []
-    },
-    {
-      "id": "6c592c15ae53",
-      "title": "SeatGeek Urges Rejection of Live Nation Settlement, Warns It Could Entrench Ticketmaster",
-      "summary": "SeatGeek is urging a federal judge to reject the Justice Department\u2019s proposed settlement with Live Nation and Ticketmaster, arguing that... The post SeatGeek Urges Rejection of Live Nation Settlement",
-      "company": "SeatGeek Urges Rejection",
-      "link": "https://www.ticketnews.com/2026/09/seatgeek-live-nation-settlement-ticketmaster/",
-      "date": "Sep 04, 26",
+      "id": "d4bd3fbcefc2",
+      "title": "Taylor Swift Promoter Says Live Nation Shut Him Out as AEG Calls for Ticketmaster Breakup",
+      "summary": "One of the country&#8217;s biggest concert companies and the veteran promoter behind Taylor Swift&#8217;s Eras Tour are urging a federal... The post Taylor Swift Promoter Says Live Nation Shut Him Out",
+      "company": "Taylor Swift Promoter Says Live Nation",
+      "link": "https://www.ticketnews.com/2026/09/aeg-louis-messina-live-nation-settlement/",
+      "date": "Sep 08, 26",
       "source": "Ticket News",
       "layer": 3,
       "access": "pe",
-      "score": 8,
+      "score": 20,
       "moments": []
     },
     {
-      "id": "f5ebd15c8430",
-      "title": "Ticketmaster Updates App With Watchlist, Personalized Recommendations and Smarter Search",
-      "summary": "Ticketmaster has rolled out an updated mobile app designed to help fans discover events, monitor upcoming ticket sales and find... The post Ticketmaster Updates App With Watchlist, Personalized Recomm",
-      "company": "",
-      "link": "https://www.ticketnews.com/2026/09/ticketmaster-updates-app-with-watchlist-personalized-recommendations-and-smarter-search/",
-      "date": "Sep 03, 26",
-      "source": "Ticket News",
-      "layer": 3,
+      "id": "ca9fd815d31b",
+      "title": "Rogers Stadium in Toronto Is Damaged by Thunderstorm Before AC/DC Show",
+      "summary": "The music venue, which opened in 2025, was built specifically for large concerts. The fate of its next show, featuring AC/DC, is unclear.",
+      "company": "Rogers Stadium",
+      "link": "https://www.nytimes.com/2026/09/03/world/canada/toronto-rogers-stadium-thunderstorm-damage.html",
+      "date": "Sep 04, 26",
+      "source": "NYT Music",
+      "layer": 2,
       "access": "pe",
-      "score": 7,
+      "score": 15,
       "moments": []
     },
     {
@@ -467,16 +453,16 @@
       "moments": []
     },
     {
-      "id": "7ca4c2b3881b",
-      "title": "Widespread AI outage underway",
-      "summary": "OpenAI's ChatGPT, Anthropic's Claude, and xAI's Grok are all down Thursday morning, according to the outage company Downdetector. Why it matters: Outages are common, but it's unusual for all three to ",
-      "company": "Widespread AI",
-      "link": "https://www.axios.com/2026/09/03/chatgpt-claude-grok-outages",
-      "date": "Sep 03, 26",
-      "source": "Axios",
-      "layer": 4,
+      "id": "f6267861f0e2",
+      "title": "Poshmark Introduces \"Try Yourself On\u2122,\" Inviting Fashion Exploration Across Millions of Closets",
+      "summary": "Poshmark's largest integrated brand campaign to date brings a stronger focus on fashion, inspiration and discovery to the brand REDWOOD CITY, Calif., Sept. 8, 2026 /PRNewswire/ -- What if your next fa",
+      "company": "",
+      "link": "https://www.prnewswire.com/news-releases/poshmark-introduces-try-yourself-on-inviting-fashion-exploration-across-millions-of-closets-302871874.html",
+      "date": "Sep 08, 26",
+      "source": "PR Newswire",
+      "layer": 3,
       "access": "pe",
-      "score": 5,
+      "score": 4,
       "moments": []
     },
     {
@@ -488,6 +474,19 @@
       "date": "May 09, 26",
       "source": "Venues Today",
       "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "71dd7ff44607",
+      "title": "Irish Regulator Accuses Ticketmaster of Misleading Oasis Ticket Buyers With \u201cPlatinum\u201d Offers",
+      "summary": "Ireland\u2019s consumer watchdog has accused Ticketmaster of misleading Oasis ticket buyers over both its \u201cPlatinum\u201d ticket designation and the way... The post Irish Regulator Accuses Ticketmaster of Misle",
+      "company": "Irish Regulator Accuses Ticketmaster",
+      "link": "https://www.ticketnews.com/2026/09/ticketmaster-oasis-ireland-consumer-law-charges/",
+      "date": "Sep 08, 26",
+      "source": "Ticket News",
+      "layer": 3,
       "access": "pe",
       "score": 4,
       "moments": []
