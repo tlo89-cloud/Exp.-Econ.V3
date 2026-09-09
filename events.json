@@ -1,23 +1,7 @@
 {
-  "generated": "2026-09-08T16:21:07.757368+00:00",
-  "total": 33,
+  "generated": "2026-09-09T16:16:28.834352+00:00",
+  "total": 34,
   "scraped": [
-    {
-      "id": "37b1a984d359",
-      "title": "Deal Roundup: Carlyle, Dynasty Equity Sixth Street close minority investments in $9.6bn Khosla family buyout of Seattle Seahawks",
-      "summary": "Carlyle and sports-focused private equity firm Dynasty Equity were among minority investments in current Super Bowl holders the Seattle Seahawks, supporting the Khosla family\u2019s $9.6bn acquisition of t",
-      "company": "Deal Roundup",
-      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-carlyle-dynasty-equity-sixth-street-close-minority-investments-in-9-6bn-khosla-family-buyout-of-seattle-seahawks.html",
-      "date": "Sep 04, 26",
-      "source": "AltAssets",
-      "layer": 1,
-      "access": "pe",
-      "score": 26,
-      "moments": [
-        "acquisition",
-        "pe_investment"
-      ]
-    },
     {
       "id": "67f9113750d2",
       "title": "Former Apple Engineers\u2019 Physical AI Startup Lyte Raises $165M At $1.6B Valuation",
@@ -35,19 +19,51 @@
       ]
     },
     {
-      "id": "e8bd9585c14f",
-      "title": "From the Spotify Mafia to the Lovable Mafia: inside Stockholm\u2019s founder network",
-      "summary": "Vibe-coding darling&#160;Lovable just raised $400 million at a&#160;$13.3 billion&#160;valuation,&#160;roughly doubling&#160;its worth in eight months. But Lovable&#160;isn\u2019t&#160;the only Stockholm s",
-      "company": "From the Spotify Mafia to the Lovable Mafia",
-      "link": "https://techcrunch.com/podcast/from-the-spotify-mafia-to-the-lovable-mafia-inside-stockholms-founder-network/",
-      "date": "Aug 26, 26",
-      "source": "TechCrunch Venture",
+      "id": "4ee110182b14",
+      "title": "New Water Capital acquires lid manufacturer LidWorks; Carlyle, Clearlake among PE firms targeting cybersecurity firms",
+      "summary": "Also mentioned are Carlyle, Dynasty Equity and Sixth Street's minority stake investments in the NFL's Seattle Seahawks. The post New Water Capital acquires lid manufacturer LidWorks; Carlyle, Clearlak",
+      "company": "New Water Capital",
+      "link": "https://www.pehub.com/new-water-capital-acquires-lid-manufacturer-lidworks-carlyle-clearlake-among-pe-firms-targeting-cybersecurity-firms/",
+      "date": "Sep 09, 26",
+      "source": "PE Hub",
       "layer": 1,
-      "access": "public",
+      "access": "pe",
+      "score": 20,
+      "moments": [
+        "acquisition",
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "ebe8a80e6d3f",
+      "title": "David Byrne\u2019s Night tribute \u2013 featuring members of English Teacher, The Pogues and more \u2013 announce 2027 UK tour",
+      "summary": "Dates include a slot at London\u2019s Troxy, which will be their biggest headline show yet The post David Byrne&#8217;s Night tribute \u2013 featuring members of English Teacher, The Pogues and more \u2013 announce ",
+      "company": "David Byrne\u2019s Night",
+      "link": "https://www.nme.com/news/music/david-byrnes-night-tribute-featuring-members-of-english-teacher-the-pogues-and-more-announce-2027-uk-tour-3967974?utm_source=rss&utm_medium=rss&utm_campaign=david-byrnes-night-tribute-featuring-members-of-english-teacher-the-pogues-and-more-announce-2027-uk-tour",
+      "date": "Sep 09, 26",
+      "source": "NME",
+      "layer": 5,
+      "access": "pe",
       "score": 16,
       "moments": [
-        "streaming_milestone",
-        "company_launch"
+        "tour_announcement",
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "dd6de562669f",
+      "title": "British Business Bank launches \u00a3210m South East UK fund, hands equity mandate to Maven",
+      "summary": "The British Business Bank has launched a \u00a3210m investment fund targeting SMEs across South East England, with Maven Capital Partners taking responsibility for its equity strategy and FSE Group managin",
+      "company": "British Business Bank",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/british-business-bank-launches-210m-south-east-uk-fund-hands-equity-mandate-to-maven.html",
+      "date": "Sep 09, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
@@ -67,28 +83,92 @@
       ]
     },
     {
-      "id": "f861069e9c85",
-      "title": "Tasman Capital expects A$200m Fund IV to be substantially deployed by March final close",
-      "summary": "Tasman Capital Partners expects its fourth private equity fund to be substantially deployed by the time it reaches a planned final close in March next year, having already put its first two platform i",
-      "company": "Tasman Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/australasia-by-region/australia-australasia-by-region/tasman-capital-expects-a200m-fund-iv-to-be-largely-deployed-by-march-final-close.html",
+      "id": "fdc341a02e4f",
+      "title": "Nate Amos Is an Acclaimed Songwriter. He\u2019s Not Sure How That Happened, Either",
+      "summary": "With a new album out as This Is Lorelei, he\u2019s making sense of his newfound position as someone who gets covered by MJ Lenderman and Cameron Winter",
+      "company": "Nate Amos Is",
+      "link": "https://www.rollingstone.com/music/music-features/this-is-lorelei-new-music-interview-1235619223/",
+      "date": "Sep 09, 26",
+      "source": "Rolling Stone Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "album_announcement",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "ece7cfa32912",
+      "title": "Sara Bareilles Confronted Grief, and Found Herself",
+      "summary": "Her new album, \u201cGood Grief,\u201d mourns friends including her Broadway co-star Gavin Creel. She\u2019s also adapting the Meg Wolitzer novel \u201cThe Interestings\u201d into a musical.",
+      "company": "Sara Bareilles Confronted Grief",
+      "link": "https://www.nytimes.com/2026/09/09/arts/sara-bareilles-good-grief-interestings.html",
+      "date": "Sep 09, 26",
+      "source": "NYT Arts",
+      "layer": 1,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "album_announcement",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "518ef64f5f3b",
+      "title": "Glastonbury tickets break \u00a3400 for first time as on-sale date is announced",
+      "summary": "Tickets set to cost \u00a3408 at return for Somerset festival after a fallow year, a jump from \u00a3378.50 in 2025After a fallow year in 2026, Glastonbury festival fans can start to get excited \u2013 and nervous \u2013",
+      "company": "Glastonbury",
+      "link": "https://www.theguardian.com/music/2026/sep/08/glastonbury-tickets-break-400-for-first-time-as-on-sale-date-is-announced",
       "date": "Sep 08, 26",
+      "source": "Guardian Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "acquisition",
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "f1fa69cd568a",
+      "title": "Warburg Pincus, Berkshire Partners seal $11.75bn CPP exit to GE Aerospace, Cerberus sells Tenet for $1.6bn",
+      "summary": "GE Aerospace has agreed to acquire Consolidated Precision Products from Warburg Pincus and Berkshire Partners for $11.75bn, handing the sponsors an exit from the aerospace castings specialist. The pos",
+      "company": "Warburg Pincus Berkshire Partners",
+      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/warburg-pincus-berkshire-partners-seal-11-75bn-cpp-exit-to-ge-aerospace-cerberus-sells-tenet-for-1-6bn.html",
+      "date": "Sep 09, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
-      "score": 16,
+      "score": 13,
+      "moments": [
+        "acquisition",
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "a4fe936f8604",
+      "title": "UK government pension backing helps Clean Growth Fund II pass halfway for \u00a3150m-targeting climate VC strategy",
+      "summary": "Clean Growth Fund has reached an \u00a381.5m second close for its second climate technology fund, including a sizeable commitment from the \u00a3120bn UK local government pension pool Border to Coast. The post ",
+      "company": "UK",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/uk-government-pension-backing-helps-clean-growth-fund-ii-pass-halfway-for-150m-targeting-climate-vc-strategy.html",
+      "date": "Sep 09, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
       "moments": [
         "pe_investment",
         "fund_launch"
       ]
     },
     {
-      "id": "b5035f1903f7",
-      "title": "Claret Capital scales flagship growth debt fund by almost 50% with \u20ac440m Fund IV close",
-      "summary": "Claret Capital Partners has scaled its flagship growth debt strategy by almost 50% through the \u20ac440m close of Fund IV. The post Claret Capital scales flagship growth debt fund by almost 50% with \u20ac440m",
-      "company": "Claret Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/claret-capital-scales-flagship-growth-debt-fund-by-almost-50-with-e440m-fund-iv-close.html",
-      "date": "Sep 07, 26",
+      "id": "456e7393a5d8",
+      "title": "TrueBridge more than doubles VC secondaries strategy with $508m Fund II close",
+      "summary": "TrueBridge Capital Partners has more than doubled the size of its dedicated venture secondaries strategy after closing its second fund on $508m, two years after raising $230m for its predecessor. The ",
+      "company": "TrueBridge",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/truebridge-more-than-doubles-vc-secondaries-strategy-with-508m-fund-ii-close.html",
+      "date": "Sep 09, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -114,6 +194,36 @@
       ]
     },
     {
+      "id": "7dac0d23fbef",
+      "title": "Paramount Repeats Demand That States and WGA Post $1.88 Billion Bond Over Warner Bros. Merger Delay, After AGs Argue Company Is Trying to \u2018Offload...",
+      "summary": "Paramount Skydance on Tuesday reiterated its demand in a court filing that 12 states and the WGA &#8212; whose antitrust lawsuits seek to block its takeover of Warner Bros. Discovery &#8212; post $1.8",
+      "company": "Paramount Repeats Demand That States",
+      "link": "https://variety.com/2026/film/news/paramount-rdemands-states-wga-post-bond-warner-bros-merger-delay-1236855184/",
+      "date": "Sep 08, 26",
+      "source": "Variety Biz",
+      "layer": 3,
+      "access": "pe",
+      "score": 22,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "4b7781a9e29a",
+      "title": "BTS, Beyonc\u00e9, George Strait & More: The Highest Grossing Artists at Each NFL Stadium",
+      "summary": "Here's a city-by-city look at the biggest concerts at each of the 30 NFL stadiums in the United States.",
+      "company": "BTS Beyonc\u00e9 George Strait",
+      "link": "https://www.billboard.com/lists/nfl-stadiums-highest-grossing-acts/",
+      "date": "Sep 09, 26",
+      "source": "Billboard",
+      "layer": 1,
+      "access": "pe",
+      "score": 21,
+      "moments": [
+        "record_breaking"
+      ]
+    },
+    {
       "id": "6875ac5047ae",
       "title": "Jay-Z 30 tour review \u2013 the sheer profusion of nailed-on classics is dizzying",
       "summary": "Tottenham Hotspur Stadium, LondonEven though Beyonc\u00e9 rumours prove unfounded, there are plenty of guests, from Idris Elba to Lauryn Hill \u2013 but this show doesn\u2019t need cameos to lift itJay-Z\u2019s first sol",
@@ -129,48 +239,18 @@
       ]
     },
     {
-      "id": "823eab9133f2",
-      "title": "Stevie Wonder Announces \u2018Songs in the Key of Life\u2019 50th Anniversary Tour Dates",
-      "summary": "Stevie Wonder has announced dates for his \u201cSongs in the Key of Life Performances &#8211; 50th Anniversary Tour,\u201d a celebration of his generation-defining 1976 double album. The tour, promoted by Live ",
-      "company": "Stevie Wonder Announces \u2018Songs",
-      "link": "https://variety.com/2026/music/news/stevie-wonder-songs-in-the-key-of-life-50th-anniversary-tour-dates-1236854667/",
-      "date": "Sep 08, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 18,
-      "moments": [
-        "tour_announcement"
-      ]
-    },
-    {
-      "id": "9ffa45d1486b",
-      "title": "Kid Cudi Defends Kanye West After Ending Feud: Kanye \u2018Apologized and It Was Sincere\u2019 After Antisemitic Outbursts",
-      "summary": "After feuding for the past few years, Kanye West and Kid Cudi have made up and reunited during West&#8217;s Chicago concert on Friday night. West performed the past two nights in his hometown of Chica",
-      "company": "Kid Cudi Defends Kanye West After",
-      "link": "https://variety.com/2026/music/news/kid-cudi-kanye-west-end-feud-antisemitic-1236852747/",
-      "date": "Sep 05, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "surprise_appearance"
-      ]
-    },
-    {
-      "id": "87b4d58f3de7",
-      "title": "Daisy Chain Fields review \u2013 Olivia Rodrigo\u2019s women-led festival is electric amid extreme heat",
-      "summary": "Great Park, Irvine, CaliforniaPerformances from Rodrigo, Stevie Nicks, Chappell Roan and Sarah McLachlan raise $20m for charity yet are marred by poor planning for heatwaveShortly after singing the cl",
-      "company": "Daisy Chain Fields",
-      "link": "https://www.theguardian.com/music/2026/aug/30/daisy-chain-fields-festival-review-olivia-rodrigo",
-      "date": "Aug 30, 26",
+      "id": "71092027d4fd",
+      "title": "Evanescence review \u2013 devastating power and range from one of rock\u2019s great vocal talents",
+      "summary": "First Direct Arena, LeedsThe titanic choruses and stormy metal riffs of latest album Sanctuary are the perfect foundation for Amy Lee\u2019s astonishing, skyscraping vocal range To watch Evanescence in con",
+      "company": "Evanescence",
+      "link": "https://www.theguardian.com/music/2026/sep/09/evanescence-review-first-direct-arena-leeds",
+      "date": "Sep 09, 26",
       "source": "Guardian Music",
       "layer": 1,
       "access": "pe",
-      "score": 16,
+      "score": 19,
       "moments": [
-        "funding_round"
+        "company_launch"
       ]
     },
     {
@@ -189,108 +269,18 @@
       ]
     },
     {
-      "id": "200beae8dbf7",
-      "title": "White Fleet Drilling's WFD 450, the Largest Jack-Up Rig Operating in the Gulf of America, Launches Multi-Well Drilling Program on Arena Energy's...",
-      "summary": "$65 Million Acquisition and Refurbishment Investment Unlocks Previously Inaccessible Drilling Opportunities on the Gulf of America Shelf THE WOODLANDS, Texas, Sept. 8, 2026 /PRNewswire/ -- Arena Energ",
-      "company": "White Fleet Drilling's WFD",
-      "link": "https://www.prnewswire.com/news-releases/white-fleet-drillings-wfd-450-the-largest-jack-up-rig-operating-in-the-gulf-of-america-launches-multi-well-drilling-program-on-arena-energys-shelf-assets-302872547.html",
+      "id": "a73aae61f655",
+      "title": "Esports Was Supposed to Be Bigger Than the NBA. What Happened?",
+      "summary": "This story appears in The Hollywood Reporter + Sportico\u2019s September 2026 Sports issue. Click here to read more. Remember when professional esports team FaZe Clan IPO-ed at a $725 million valuation? Fo",
+      "company": "Esports Was Supposed",
+      "link": "https://www.sportico.com/business/sports/2026/what-happened-to-esports-1234943596/",
       "date": "Sep 08, 26",
-      "source": "PR Newswire",
-      "layer": 2,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "579dec478311",
-      "title": "Scorpions Postpone Remaining 2026 Tour Dates Until 2027",
-      "summary": "Scorpions have postponed their remaining 2026 tour dates, moving concerts in Mexico and an eight-show Las Vegas residency to August... The post Scorpions Postpone Remaining 2026 Tour Dates Until 2027 ",
-      "company": "Scorpions Postpone Remaining",
-      "link": "https://www.ticketnews.com/2026/09/scorpions-postpone-remaining-2026-tour-dates-until-2027/",
-      "date": "Sep 04, 26",
-      "source": "Ticket News",
+      "source": "Sportico",
       "layer": 1,
       "access": "pe",
       "score": 14,
       "moments": [
-        "tour_announcement"
-      ]
-    },
-    {
-      "id": "25a9b691b47c",
-      "title": "Sportico Transactions: Moves and Mergers Roundup for Sept. 4",
-      "summary": "Welcome to Sportico\u2019s transactions wire, a weekly rundown of personnel, partnerships and products across the sports business industry. PERSONNEL O&#8217;Connor Named GM of Huntington Bank Field, Home ",
-      "company": "Sportico Transactions",
-      "link": "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-roundup-sept-4-2026-1234943968/",
-      "date": "Sep 04, 26",
-      "source": "Sportico",
-      "layer": 2,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "27a902c22b92",
-      "title": "Haruomi Hosono, Architect of Japanese Pop, Pushes West",
-      "summary": "After recent endorsements from Vampire Weekend and Harry Styles, Haruomi Hosono, 79, returns to the U.S. with a new album and tour.",
-      "company": "Haruomi Hosono Architect",
-      "link": "https://www.nytimes.com/2026/09/02/arts/music/haruomi-hosono-yours-sincerely.html",
-      "date": "Sep 02, 26",
-      "source": "NYT Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "6b825b9a0c0d",
-      "title": "Mill Point Capital names Littlejohn veteran Michael Kaplan managing partner",
-      "summary": "Mill Point Capital is a lower-middle-market private equity firm focused on control investments in business services, industrials and IT services companies across North America. The post Mill Point Cap",
-      "company": "Mill Point Capital",
-      "link": "https://www.pehub.com/mill-point-capital-names-littlejohn-veteran-michael-kaplan-managing-partner/",
-      "date": "Sep 08, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "ca5b98a4059a",
-      "title": "Hudson Hill closes CV for InXpress; Warburg Pincus, Berkshire Partners to sell Consolidated Precision Products to GE Aerospace for $11.75bn",
-      "summary": "Exploring Hudson Hill Capital\u2019s single-asset continuation vehicle for InXpress, an international and domestic parcel and freight services provider; Warburg Pincus and Berkshire Partners agree to sell ",
-      "company": "Hudson Hill",
-      "link": "https://www.pehub.com/hudson-hill-closes-cv-for-inxpress-warburg-pincus-berkshire-partners-to-sell-consolidated-precision-products-to-ge-aerospace-for-11-75bn/",
-      "date": "Sep 08, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "9aa4417a6006",
-      "title": "Altaline Capital completes growth investment in insurance consultancy RRC",
-      "summary": "Risk &#038; Regulatory Consulting, founded in 1988 and based in Farmington, Connecticut, provides actuarial, financial/IT and compliance support to US insurance regulators across 44 states and employs",
-      "company": "Altaline Capital",
-      "link": "https://www.pehub.com/altaline-capital-completes-growth-investment-in-insurance-consultancy-rrc/",
-      "date": "Sep 08, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "company_launch"
+        "ipo"
       ]
     },
     {
@@ -324,21 +314,6 @@
       ]
     },
     {
-      "id": "9c3b35a9807c",
-      "title": "AI boosts software productivity by up to 10x \u2013 now firms must redesign how they operate, Astorg says",
-      "summary": "Private equity firm Astorg says software businesses in its portfolio are already seeing teams operate at roughly three times their previous productivity - with improvements of up to 10x in specific de",
-      "company": "AI",
-      "link": "https://www.altassets.net/featured/astorg-ai-software-gains-of-up-to-10x-demand-operating-model-rethink.html",
-      "date": "Sep 07, 26",
-      "source": "AltAssets",
-      "layer": 2,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
       "id": "ed24e331be68",
       "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
       "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
@@ -369,51 +344,6 @@
       ]
     },
     {
-      "id": "2c0bc5568544",
-      "title": "Scott Hanson on Ads Coming to RedZone",
-      "summary": "Scott Hanson on RedZone's 300th episode and the show's future under the ESPN merger.",
-      "company": "Scott Hanson",
-      "link": "https://frontofficesports.com/videos/scott-hanson-on-ads-coming-to-redzone/",
-      "date": "Sep 04, 26",
-      "source": "Front Office Sports",
-      "layer": 3,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "ede3cc109aae",
-      "title": "Apollo portfolio companies face higher borrowing costs amid \u2018sponsor premium\u2019",
-      "summary": "Companies backed by Apollo Global Management are paying roughly one percentage point more to borrow in the leveraged loan market than those backed by other private equity sponsors, according to a repo",
-      "company": "Apollo",
-      "link": "https://www.privateequitywire.co.uk/apollo-portfolio-companies-face-higher-borrowing-costs-amid-sponsor-premium-2/",
-      "date": "Sep 08, 26",
-      "source": "PE Wire",
-      "layer": 4,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "f3a1d1554548",
-      "title": "Navigating the Technical Talent Landscape in Central Europe: Why Poland is the Strategic Hub for 2026",
-      "summary": "The global tech landscape has undergone a tectonic shift over the last few years. As remote-first cultures stabilize and the demand for specialized engineers\u2014particularly in AI, cybersecurity, and clo",
-      "company": "Navigating",
-      "link": "https://venuestoday.com/navigating-the-technical-talent-landscape-in-central-europe-why-poland-is-the-strategic-hub-for-2026/",
-      "date": "Apr 22, 26",
-      "source": "Venues Today",
-      "layer": 3,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
       "id": "d4bd3fbcefc2",
       "title": "Taylor Swift Promoter Says Live Nation Shut Him Out as AEG Calls for Ticketmaster Breakup",
       "summary": "One of the country&#8217;s biggest concert companies and the veteran promoter behind Taylor Swift&#8217;s Eras Tour are urging a federal... The post Taylor Swift Promoter Says Live Nation Shut Him Out",
@@ -424,6 +354,19 @@
       "layer": 3,
       "access": "pe",
       "score": 20,
+      "moments": []
+    },
+    {
+      "id": "7c1b938e73ef",
+      "title": "Louis Messina, Taylor Swift\u2019s Tour Promoter, Urges Judge to Reject Live Nation/Ticketmaster Antitrust Settlement: \u2018I Could Go Out of Business Like...",
+      "summary": "You might think that the man who promoted Taylor Swift&#8217;s Eras Tour, as well as all of her other global outings, would be powerful enough not to feel intimidated by Live Nation and Ticketmaster. ",
+      "company": "Louis Messina Taylor Swift\u2019s Tour Promoter",
+      "link": "https://variety.com/2026/music/news/louis-messina-taylor-swift-promoter-live-nation-ticketmaster-1236855357/",
+      "date": "Sep 09, 26",
+      "source": "Variety Music",
+      "layer": 3,
+      "access": "pe",
+      "score": 16,
       "moments": []
     },
     {
@@ -440,27 +383,92 @@
       "moments": []
     },
     {
-      "id": "6a2fb4c76d89",
-      "title": "House Democrat says his phone calls with a state legislator were wiretapped by FBI",
-      "summary": "Rep. Suhas Subramanyam (D-Va.) said Thursday he was informed by the Department of Justice that his phone calls with a Virginia state legislator in the spring were wiretapped.Why it matters: The Democr",
-      "company": "House Democrat",
-      "link": "https://www.axios.com/2026/09/03/fbi-doj-wiretap-subramanyam-lucas-virginia-trump",
-      "date": "Sep 03, 26",
-      "source": "Axios",
+      "id": "81d96d64e2fa",
+      "title": "Santander Arena Launches in Santiago Following Live Nation Venue Takeover",
+      "summary": "Santiago\u2019s former Movistar Arena has officially begun operating as Santander Arena, completing a naming-rights change announced earlier this summer at... The post Santander Arena Launches in Santiago ",
+      "company": "Santander Arena Launches",
+      "link": "https://www.ticketnews.com/2026/09/santander-arena-launches-in-santiago-following-live-nation-venue-takeover/",
+      "date": "Sep 08, 26",
+      "source": "Ticket News",
+      "layer": 2,
+      "access": "pe",
+      "score": 14,
+      "moments": []
+    },
+    {
+      "id": "c70c71613c91",
+      "title": "Radiohead to Return to Australia and Japan for Limited 2027 Tour",
+      "summary": "Radiohead will return to Australia and Japan in 2027 for a 21-show tour built around extended arena runs in four... The post Radiohead to Return to Australia and Japan for Limited 2027 Tour appeared f",
+      "company": "Radiohead",
+      "link": "https://www.ticketnews.com/2026/09/radiohead-to-return-to-australia-and-japan-for-limited-2027-tour/",
+      "date": "Sep 08, 26",
+      "source": "Ticket News",
+      "layer": 2,
+      "access": "pe",
+      "score": 10,
+      "moments": []
+    },
+    {
+      "id": "db18b0b689bb",
+      "title": "Megan Moroney Announces 2027 Australian Leg of Cloud 9 Tour",
+      "summary": "Megan Moroney is extending her \u201cCloud 9 Tour\u201d into 2027 with three arena shows in Australia. The country singer will... The post Megan Moroney Announces 2027 Australian Leg of Cloud 9 Tour appeared fi",
+      "company": "Megan Moroney Announces",
+      "link": "https://www.ticketnews.com/2026/09/megan-moroney-announces-2027-australian-leg-of-cloud-9-tour/",
+      "date": "Sep 08, 26",
+      "source": "Ticket News",
+      "layer": 2,
+      "access": "pe",
+      "score": 10,
+      "moments": []
+    },
+    {
+      "id": "6aca72ecc67d",
+      "title": "SEC\u2019s LSU Threat Puts Conference Autonomy to the Test",
+      "summary": "As Congress weighs whether to grant the NCAA a limited antitrust exception to bring more order to the chaos of college sports, conferences have intriguingly become willing to litigate against their ow",
+      "company": "SEC\u2019s LSU Threat Puts Conference Autonomy",
+      "link": "https://www.sportico.com/law/analysis/2026/ncaa-conferences-power-struggle-lsu-texas-tech-1234944285/",
+      "date": "Sep 09, 26",
+      "source": "Sportico",
+      "layer": 3,
+      "access": "pe",
+      "score": 7,
+      "moments": []
+    },
+    {
+      "id": "33467f08ab3e",
+      "title": "Staind Kick Off 25th Anniversary 'Break the Cycle' Tour",
+      "summary": "Adam Bettcher, Getty Images, Live Nation",
+      "company": "Staind Kick Off",
+      "link": "https://loudwire.com/staind-25th-anniversary-break-the-cycle-tour-2026-setlists-video/",
+      "date": "Sep 09, 26",
+      "source": "Loudwire",
       "layer": 3,
       "access": "pe",
       "score": 5,
       "moments": []
     },
     {
-      "id": "f6267861f0e2",
-      "title": "Poshmark Introduces \"Try Yourself On\u2122,\" Inviting Fashion Exploration Across Millions of Closets",
-      "summary": "Poshmark's largest integrated brand campaign to date brings a stronger focus on fashion, inspiration and discovery to the brand REDWOOD CITY, Calif., Sept. 8, 2026 /PRNewswire/ -- What if your next fa",
-      "company": "",
-      "link": "https://www.prnewswire.com/news-releases/poshmark-introduces-try-yourself-on-inviting-fashion-exploration-across-millions-of-closets-302871874.html",
-      "date": "Sep 08, 26",
-      "source": "PR Newswire",
-      "layer": 3,
+      "id": "a3b19107680b",
+      "title": "Vuelta a Espa\u00f1a: Matthew \u2060Brennan rounds off famous five with sprint success",
+      "summary": "Young British rider squeezes out Meeus and Cort NielsenMas moves step closer to landing first Grand Tour victoryMatthew Brennan claimed a fifth Vuelta a Espa\u00f1a stage victory on Wednesday as the young ",
+      "company": "Vuelta",
+      "link": "https://www.theguardian.com/sport/2026/sep/09/vuelta-espana-matthew-brennan-fifth-stage-win-cycling",
+      "date": "Sep 09, 26",
+      "source": "Guardian Sport",
+      "layer": 4,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "7d9596ab0e1d",
+      "title": "\u2018Liberation,\u2019 \u2018Purpose\u2019 and 39 More Shows to See in the U.S. This Fall",
+      "summary": "This season is rich with sharp productions, like Bess Wohl\u2019s and Branden Jacobs-Jenkins\u2019s Pulitzer winners, Cole Escola\u2019s \u201cOh, Mary!\u201d and the hip-hop musical \u201cMexodus.\u201d",
+      "company": "\u2018Liberation,\u2019 \u2018Purpose\u2019",
+      "link": "https://www.nytimes.com/2026/09/09/theater/liberation-purpose-oh-mary-mexodus-shows-in-us-2026.html",
+      "date": "Sep 09, 26",
+      "source": "NYT Arts",
+      "layer": 4,
       "access": "pe",
       "score": 4,
       "moments": []
