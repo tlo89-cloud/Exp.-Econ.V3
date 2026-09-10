@@ -1,7 +1,24 @@
 {
-  "generated": "2026-09-09T16:16:28.834352+00:00",
+  "generated": "2026-09-10T16:07:33.267488+00:00",
   "total": 34,
   "scraped": [
+    {
+      "id": "c7376aeb32c9",
+      "title": "Luma closes $410m debut life-sciences fund after scoring $1.55bn first exit",
+      "summary": "New York investment firm Luma Group has closed its debut life-sciences venture fund on $410m, in the wake of securing its first portfolio-company exit through Eli Lilly\u2019s acquisition of Vaccine Compan",
+      "company": "Luma",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/luma-closes-410m-debut-life-sciences-fund-after-scoring-1-55bn-first-exit.html",
+      "date": "Sep 10, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 23,
+      "moments": [
+        "acquisition",
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
     {
       "id": "67f9113750d2",
       "title": "Former Apple Engineers\u2019 Physical AI Startup Lyte Raises $165M At $1.6B Valuation",
@@ -19,83 +36,35 @@
       ]
     },
     {
-      "id": "4ee110182b14",
-      "title": "New Water Capital acquires lid manufacturer LidWorks; Carlyle, Clearlake among PE firms targeting cybersecurity firms",
-      "summary": "Also mentioned are Carlyle, Dynasty Equity and Sixth Street's minority stake investments in the NFL's Seattle Seahawks. The post New Water Capital acquires lid manufacturer LidWorks; Carlyle, Clearlak",
-      "company": "New Water Capital",
-      "link": "https://www.pehub.com/new-water-capital-acquires-lid-manufacturer-lidworks-carlyle-clearlake-among-pe-firms-targeting-cybersecurity-firms/",
-      "date": "Sep 09, 26",
-      "source": "PE Hub",
-      "layer": 1,
-      "access": "pe",
-      "score": 20,
-      "moments": [
-        "acquisition",
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "ebe8a80e6d3f",
-      "title": "David Byrne\u2019s Night tribute \u2013 featuring members of English Teacher, The Pogues and more \u2013 announce 2027 UK tour",
-      "summary": "Dates include a slot at London\u2019s Troxy, which will be their biggest headline show yet The post David Byrne&#8217;s Night tribute \u2013 featuring members of English Teacher, The Pogues and more \u2013 announce ",
-      "company": "David Byrne\u2019s Night",
-      "link": "https://www.nme.com/news/music/david-byrnes-night-tribute-featuring-members-of-english-teacher-the-pogues-and-more-announce-2027-uk-tour-3967974?utm_source=rss&utm_medium=rss&utm_campaign=david-byrnes-night-tribute-featuring-members-of-english-teacher-the-pogues-and-more-announce-2027-uk-tour",
-      "date": "Sep 09, 26",
-      "source": "NME",
-      "layer": 5,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "tour_announcement",
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "dd6de562669f",
-      "title": "British Business Bank launches \u00a3210m South East UK fund, hands equity mandate to Maven",
-      "summary": "The British Business Bank has launched a \u00a3210m investment fund targeting SMEs across South East England, with Maven Capital Partners taking responsibility for its equity strategy and FSE Group managin",
-      "company": "British Business Bank",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/british-business-bank-launches-210m-south-east-uk-fund-hands-equity-mandate-to-maven.html",
-      "date": "Sep 09, 26",
+      "id": "b44fe26dec8d",
+      "title": "CEECAT hits \u20ac135m first close for Fund III as EIF, EBRD commit \u20ac80m",
+      "summary": "CEECAT Capital has reached a \u20ac135m first close for its third Emerging Europe-focused private equity fund after securing \u20ac80m of combined commitments from the European Investment Fund and European Bank",
+      "company": "CEECAT",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/central-and-eastern-europe-by-region/turkey-central-and-eastern-europe/100209923.html",
+      "date": "Sep 10, 26",
       "source": "AltAssets",
-      "layer": 5,
+      "layer": 2,
       "access": "pe",
-      "score": 16,
+      "score": 18,
       "moments": [
         "pe_investment",
         "fund_launch"
       ]
     },
     {
-      "id": "79a575481fa4",
-      "title": "Deal Roundup: EQT, PSG join record \u20ac3bn Mistral round, Blackstone rolls CIRSA into \u20ac2.8bn Lottomatica merger",
-      "summary": "Mistral has raised \u20ac3bn in a Series D round valuing the French AI company at more than \u20ac21bn, in what it says is the largest-ever equity fundraising by a European technology company. The post Deal Rou",
-      "company": "Deal Roundup",
-      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-eqt-psg-join-record-e3bn-mistral-round-blackstone-rolls-cirsa-into-e2-8bn-lottomatica-merger.html",
-      "date": "Sep 08, 26",
-      "source": "AltAssets",
+      "id": "96001314a96d",
+      "title": "Blackstone targets liquid cooling with FCH; FFL scoops up office of the CFO biz Waylin Partners",
+      "summary": "Blackstone agrees to acquire a provider of data center cooling services and components; FFL Partners completes investment in a provider of services focused on the office of the chief financial officer",
+      "company": "Blackstone",
+      "link": "https://www.pehub.com/blackstone-targets-liquid-cooling-with-fch-ffl-scoops-up-office-of-the-cfo-biz-waylin-partners/",
+      "date": "Sep 10, 26",
+      "source": "PE Hub",
       "layer": 5,
       "access": "pe",
       "score": 16,
       "moments": [
         "acquisition",
         "pe_investment"
-      ]
-    },
-    {
-      "id": "fdc341a02e4f",
-      "title": "Nate Amos Is an Acclaimed Songwriter. He\u2019s Not Sure How That Happened, Either",
-      "summary": "With a new album out as This Is Lorelei, he\u2019s making sense of his newfound position as someone who gets covered by MJ Lenderman and Cameron Winter",
-      "company": "Nate Amos Is",
-      "link": "https://www.rollingstone.com/music/music-features/this-is-lorelei-new-music-interview-1235619223/",
-      "date": "Sep 09, 26",
-      "source": "Rolling Stone Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "album_announcement",
-        "company_launch"
       ]
     },
     {
@@ -115,19 +84,51 @@
       ]
     },
     {
-      "id": "518ef64f5f3b",
-      "title": "Glastonbury tickets break \u00a3400 for first time as on-sale date is announced",
-      "summary": "Tickets set to cost \u00a3408 at return for Somerset festival after a fallow year, a jump from \u00a3378.50 in 2025After a fallow year in 2026, Glastonbury festival fans can start to get excited \u2013 and nervous \u2013",
-      "company": "Glastonbury",
-      "link": "https://www.theguardian.com/music/2026/sep/08/glastonbury-tickets-break-400-for-first-time-as-on-sale-date-is-announced",
-      "date": "Sep 08, 26",
-      "source": "Guardian Music",
-      "layer": 1,
+      "id": "d6c91d60e3e4",
+      "title": "ARCHIMED closes three-times oversubscribed MED IV fund at \u20ac1.5bn hard cap",
+      "summary": "Healthcare specialist ARCHIMED has more than doubled the size of its small-cap flagship strategy after closing MED IV at its \u20ac1.5bn hard cap, following demand for roughly three times the available cap",
+      "company": "ARCHIMED",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/archimed-closes-three-times-oversubscribed-med-iv-fund-at-e1-5bn-hard-cap.html",
+      "date": "Sep 10, 26",
+      "source": "AltAssets",
+      "layer": 5,
       "access": "pe",
-      "score": 15,
+      "score": 13,
       "moments": [
-        "acquisition",
-        "festival_headliner"
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "92a56c8d0e0e",
+      "title": "EIG nearly doubles infrastructure debt fund to $1.9bn, total raised for latest series tops $4bn",
+      "summary": "EIG has nearly doubled the size of its senior infrastructure debt fund series with a $1.9bn final close for its sixth vehicle, taking total capital raised across the strategy's latest fundraising to $",
+      "company": "EIG",
+      "link": "https://www.altassets.net/private-equity-news/by-news-type/fund-news/funds-closed/eig-nearly-doubles-infrastructure-debt-fund-to-1-9bn-total-raised-for-latest-series-tops-4bn.html",
+      "date": "Sep 10, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "692a799fd9ad",
+      "title": "Jefferies builds $4bn European direct-lending capacity as AllianzGI anchors inaugural fund",
+      "summary": "Jefferies Credit Partners has built almost $4bn of lending capacity for its European direct-lending strategy after holding the first close of its inaugural European Direct Lending Fund, anchored by Al",
+      "company": "Jefferies",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/jefferies-builds-4bn-european-direct-lending-capacity-as-allianzgi-anchors-inaugural-fund.html",
+      "date": "Sep 10, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
@@ -144,38 +145,6 @@
       "moments": [
         "acquisition",
         "pe_investment"
-      ]
-    },
-    {
-      "id": "a4fe936f8604",
-      "title": "UK government pension backing helps Clean Growth Fund II pass halfway for \u00a3150m-targeting climate VC strategy",
-      "summary": "Clean Growth Fund has reached an \u00a381.5m second close for its second climate technology fund, including a sizeable commitment from the \u00a3120bn UK local government pension pool Border to Coast. The post ",
-      "company": "UK",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/uk-government-pension-backing-helps-clean-growth-fund-ii-pass-halfway-for-150m-targeting-climate-vc-strategy.html",
-      "date": "Sep 09, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "456e7393a5d8",
-      "title": "TrueBridge more than doubles VC secondaries strategy with $508m Fund II close",
-      "summary": "TrueBridge Capital Partners has more than doubled the size of its dedicated venture secondaries strategy after closing its second fund on $508m, two years after raising $230m for its predecessor. The ",
-      "company": "TrueBridge",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/truebridge-more-than-doubles-vc-secondaries-strategy-with-508m-fund-ii-close.html",
-      "date": "Sep 09, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
       ]
     },
     {
@@ -206,21 +175,6 @@
       "score": 22,
       "moments": [
         "acquisition"
-      ]
-    },
-    {
-      "id": "4b7781a9e29a",
-      "title": "BTS, Beyonc\u00e9, George Strait & More: The Highest Grossing Artists at Each NFL Stadium",
-      "summary": "Here's a city-by-city look at the biggest concerts at each of the 30 NFL stadiums in the United States.",
-      "company": "BTS Beyonc\u00e9 George Strait",
-      "link": "https://www.billboard.com/lists/nfl-stadiums-highest-grossing-acts/",
-      "date": "Sep 09, 26",
-      "source": "Billboard",
-      "layer": 1,
-      "access": "pe",
-      "score": 21,
-      "moments": [
-        "record_breaking"
       ]
     },
     {
@@ -269,33 +223,93 @@
       ]
     },
     {
-      "id": "a73aae61f655",
-      "title": "Esports Was Supposed to Be Bigger Than the NBA. What Happened?",
-      "summary": "This story appears in The Hollywood Reporter + Sportico\u2019s September 2026 Sports issue. Click here to read more. Remember when professional esports team FaZe Clan IPO-ed at a $725 million valuation? Fo",
-      "company": "Esports Was Supposed",
-      "link": "https://www.sportico.com/business/sports/2026/what-happened-to-esports-1234943596/",
+      "id": "03e96e026e05",
+      "title": "Rosanne Cash pauses tour, postpones performances under doctor's orders after emergency",
+      "summary": "Singer-songwriter Rosanne Cash has postponed upcoming concert dates in Wyoming and Montana following a medical emergency under doctor's orders.",
+      "company": "Rosanne Cash",
+      "link": "https://www.latimes.com/entertainment-arts/story/2026-09-08/rosanne-cash-postpones-tour-dates-following-medical-emergency",
       "date": "Sep 08, 26",
-      "source": "Sportico",
+      "source": "LA Times Music",
       "layer": 1,
       "access": "pe",
       "score": 14,
       "moments": [
-        "ipo"
+        "acquisition"
       ]
     },
     {
-      "id": "4ac7ddfd56bd",
-      "title": "The IPO Window Is Closing. Here Are 8 Startups To Watch.",
-      "summary": "In the first half of this year, 58 venture-backed companies joined the public listings at $1 billion or above, per Crunchbase data. With the year\u2019s end now in sight, a small window remains for other s",
-      "company": "The IPO Window Is Closing Here",
-      "link": "https://news.crunchbase.com/public/startups-to-watch-ipo-ai-chips-fintech-2026/",
-      "date": "Sep 02, 26",
-      "source": "Crunchbase News",
+      "id": "eaab10f53a53",
+      "title": "Glastonbury Tickets Hit Record \u00a3408, Up 51% From Pre-Pandemic Asking Price",
+      "summary": "Glastonbury Festival tickets will cost more than \u00a3400 for the first time in 2027, extending a run of price increases... The post Glastonbury Tickets Hit Record \u00a3408, Up 51% From Pre-Pandemic Asking Pr",
+      "company": "Glastonbury Tickets Hit Record",
+      "link": "https://www.ticketnews.com/2026/09/glastonbury-2027-ticket-prices-record-408/",
+      "date": "Sep 09, 26",
+      "source": "Ticket News",
+      "layer": 1,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "b02f23c49254",
+      "title": "LIV Golf\u2019s Bankruptcy Through the Eyes of One of Its Creditors",
+      "summary": "After LIV Golf filed for Chapter 11 bankruptcy in New Jersey on Tuesday, the details have slowly trickled out as to what it would take for the breakaway circuit to survive. A proposed transaction with",
+      "company": "LIV Golf\u2019s Bankruptcy Through",
+      "link": "https://www.sportico.com/leagues/golf/2026/liv-golf-bankruptcy-creditors-1234944521/",
+      "date": "Sep 09, 26",
+      "source": "Sportico",
       "layer": 5,
-      "access": "venture",
+      "access": "pe",
       "score": 12,
       "moments": [
-        "ipo"
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "9bc262c4471e",
+      "title": "Olivia Rodrigo communes with her idols at Daisy Chain Fields",
+      "summary": "The 23-year-old pop star brought out Stevie Nicks, Sarah McLachlan and Alanis Morissette during her headlining set at Saturday's festival in Irvine.",
+      "company": "Olivia Rodrigo",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-08-30/olivia-rodrigo-daisy-chain-fields-stevie-nicks-sarah-mclachlan-alanis-morissette",
+      "date": "Aug 30, 26",
+      "source": "LA Times Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "3fac702a3c28",
+      "title": "Barry Manilow announces touring hiatus days after canceling third show this month",
+      "summary": "Barry Manilow has announced he needs to step away from the stage to recover after a busy summer tour. The 'Copacabana' crooner canceled three shows this month, citing 'technical difficulties' among ot",
+      "company": "Barry Manilow",
+      "link": "https://www.latimes.com/entertainment-arts/story/2026-08-26/barry-manilow-announces-hiatus-days-after-canceling-third-show",
+      "date": "Aug 26, 26",
+      "source": "LA Times Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "tour_announcement"
+      ]
+    },
+    {
+      "id": "e778cbd5067e",
+      "title": "End of the Road festival review \u2013 Pulp and CMAT lead indie landmark\u2019s joyous birthday party",
+      "summary": "Larmer Tree Gardens, WiltshireHitting 20, this festival has grown into a warm, genre-hopping powerhouse where fringe experimental acts are greeted as warmly as the star headlinersThere is a celebrator",
+      "company": "End",
+      "link": "https://www.theguardian.com/music/2026/sep/07/end-of-the-road-festival-review-pulp-cmat-larmer-tree-gardens-wiltshire",
+      "date": "Sep 07, 26",
+      "source": "Guardian Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "festival_headliner"
       ]
     },
     {
@@ -314,6 +328,21 @@
       ]
     },
     {
+      "id": "00bb6dc7399e",
+      "title": "1315 Capital acquires Argonaut\u2019s life sciences and diagnostics unit",
+      "summary": "The divested unit, now operating independently as Aluris Sciences, provides contract manufacturing for life sciences, diagnostics and combination drug product customers from formulation through commer",
+      "company": "Capital",
+      "link": "https://www.pehub.com/1315-capital-acquires-argonauts-life-sciences-and-diagnostics-unit/",
+      "date": "Sep 10, 26",
+      "source": "PE Hub",
+      "layer": 4,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
       "id": "ed24e331be68",
       "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
       "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
@@ -329,44 +358,31 @@
       ]
     },
     {
-      "id": "a722661d5648",
-      "title": "Inside Camelback Productions\u2019 Plans for a New 1,400-Acre, AI-Powered Production and Entertainment Complex \u2014 in Arizona (EXCLUSIVE)",
-      "summary": "Anita Verma-Lallian, founder of Camelback Productions, doesn\u2019t see the future of film production in Los Angeles. Instead, in her vision, it is on a complex one hour\u2019s drive west of Phoenix, complete w",
-      "company": "Inside Camelback Productions\u2019 Plans",
-      "link": "https://variety.com/2026/biz/news/inside-camelback-productions-ai-powered-production-arizona-1236849577/",
-      "date": "Sep 02, 26",
-      "source": "Variety Biz",
+      "id": "3e5725e26eed",
+      "title": "Ella Langley Leads 2026 CMA Awards Nominations With Nine, as Miranda Lambert, Kacey Musgraves Also Score Big Tallies",
+      "summary": "In perhaps the least surprising development in recent CMA Awards history, Ella Langley emerged at the front of the pack when nominations for the 2026 telecast were announced Thursday morning, scoring ",
+      "company": "Ella Langley Leads",
+      "link": "https://variety.com/2026/music/news/cma-awards-nominations-ella-langley-leads-2026-miranda-kacey-1236856514/",
+      "date": "Sep 10, 26",
+      "source": "Variety Music",
       "layer": 2,
       "access": "pe",
-      "score": 10,
+      "score": 6,
       "moments": [
-        "company_launch"
+        "acquisition"
       ]
     },
     {
-      "id": "d4bd3fbcefc2",
-      "title": "Taylor Swift Promoter Says Live Nation Shut Him Out as AEG Calls for Ticketmaster Breakup",
-      "summary": "One of the country&#8217;s biggest concert companies and the veteran promoter behind Taylor Swift&#8217;s Eras Tour are urging a federal... The post Taylor Swift Promoter Says Live Nation Shut Him Out",
-      "company": "Taylor Swift Promoter Says Live Nation",
-      "link": "https://www.ticketnews.com/2026/09/aeg-louis-messina-live-nation-settlement/",
-      "date": "Sep 08, 26",
+      "id": "e20bdb1bd51a",
+      "title": "Longtime Live Nation Foe Says DOJ Settlement Preserves the Leverage That Sank His Festival",
+      "summary": "Longtime concert promoter Tommy Dorfman is urging the federal court reviewing the Justice Department\u2019s settlement with Live Nation and Ticketmaster... The post Longtime Live Nation Foe Says DOJ Settle",
+      "company": "Longtime Live Nation Foe Says DOJ",
+      "link": "https://www.ticketnews.com/2026/09/tommy-dorfman-live-nation-settlement-rebates-festivals/",
+      "date": "Sep 09, 26",
       "source": "Ticket News",
       "layer": 3,
       "access": "pe",
-      "score": 20,
-      "moments": []
-    },
-    {
-      "id": "7c1b938e73ef",
-      "title": "Louis Messina, Taylor Swift\u2019s Tour Promoter, Urges Judge to Reject Live Nation/Ticketmaster Antitrust Settlement: \u2018I Could Go Out of Business Like...",
-      "summary": "You might think that the man who promoted Taylor Swift&#8217;s Eras Tour, as well as all of her other global outings, would be powerful enough not to feel intimidated by Live Nation and Ticketmaster. ",
-      "company": "Louis Messina Taylor Swift\u2019s Tour Promoter",
-      "link": "https://variety.com/2026/music/news/louis-messina-taylor-swift-promoter-live-nation-ticketmaster-1236855357/",
-      "date": "Sep 09, 26",
-      "source": "Variety Music",
-      "layer": 3,
-      "access": "pe",
-      "score": 16,
+      "score": 23,
       "moments": []
     },
     {
@@ -383,38 +399,25 @@
       "moments": []
     },
     {
-      "id": "81d96d64e2fa",
-      "title": "Santander Arena Launches in Santiago Following Live Nation Venue Takeover",
-      "summary": "Santiago\u2019s former Movistar Arena has officially begun operating as Santander Arena, completing a naming-rights change announced earlier this summer at... The post Santander Arena Launches in Santiago ",
-      "company": "Santander Arena Launches",
-      "link": "https://www.ticketnews.com/2026/09/santander-arena-launches-in-santiago-following-live-nation-venue-takeover/",
-      "date": "Sep 08, 26",
-      "source": "Ticket News",
-      "layer": 2,
-      "access": "pe",
-      "score": 14,
-      "moments": []
-    },
-    {
-      "id": "c70c71613c91",
-      "title": "Radiohead to Return to Australia and Japan for Limited 2027 Tour",
-      "summary": "Radiohead will return to Australia and Japan in 2027 for a 21-show tour built around extended arena runs in four... The post Radiohead to Return to Australia and Japan for Limited 2027 Tour appeared f",
-      "company": "Radiohead",
-      "link": "https://www.ticketnews.com/2026/09/radiohead-to-return-to-australia-and-japan-for-limited-2027-tour/",
-      "date": "Sep 08, 26",
-      "source": "Ticket News",
+      "id": "89e58f2175b9",
+      "title": "Kenny Albert on His Broadcasting Family, 60 Stadiums, Missing RedZone",
+      "summary": "Fox Sports",
+      "company": "Kenny Albert",
+      "link": "https://frontofficesports.com/article/kenny-albert-longest-tenured-fox-nfl-broadcaster/",
+      "date": "Sep 10, 26",
+      "source": "Front Office Sports",
       "layer": 2,
       "access": "pe",
       "score": 10,
       "moments": []
     },
     {
-      "id": "db18b0b689bb",
-      "title": "Megan Moroney Announces 2027 Australian Leg of Cloud 9 Tour",
-      "summary": "Megan Moroney is extending her \u201cCloud 9 Tour\u201d into 2027 with three arena shows in Australia. The country singer will... The post Megan Moroney Announces 2027 Australian Leg of Cloud 9 Tour appeared fi",
-      "company": "Megan Moroney Announces",
-      "link": "https://www.ticketnews.com/2026/09/megan-moroney-announces-2027-australian-leg-of-cloud-9-tour/",
-      "date": "Sep 08, 26",
+      "id": "a07cc5cfb85a",
+      "title": "T-Mobile Arena\u2019s Outdoor Plaza Gets New Name Through Paramount+ Partnership",
+      "summary": "T-Mobile Arena is giving its outdoor gathering space a new name as part of a multiyear partnership with Paramount+. The... The post T-Mobile Arena\u2019s Outdoor Plaza Gets New Name Through Paramount+ Part",
+      "company": "T-Mobile Arena\u2019s Outdoor Plaza Gets New",
+      "link": "https://www.ticketnews.com/2026/09/t-mobile-arenas-outdoor-plaza-gets-new-name-through-paramount-partnership/",
+      "date": "Sep 10, 26",
       "source": "Ticket News",
       "layer": 2,
       "access": "pe",
@@ -435,6 +438,19 @@
       "moments": []
     },
     {
+      "id": "6d1d95143047",
+      "title": "Trans-Siberian Orchestra Unveils 30th Anniversary \u2018The Ghosts of Christmas Eve\u2019 Winter Tour",
+      "summary": "Trans-Siberian Orchestra has announced its 2026 winter tour, which will celebrate the group\u2019s 30th anniversary and feature a new staging... The post Trans-Siberian Orchestra Unveils 30th Anniversary \u2018",
+      "company": "Trans-Siberian Orchestra Unveils",
+      "link": "https://www.ticketnews.com/2026/09/trans-siberian-orchestra-unveils-30th-anniversary-the-ghosts-of-christmas-eve-winter-tour/",
+      "date": "Sep 10, 26",
+      "source": "Ticket News",
+      "layer": 4,
+      "access": "pe",
+      "score": 7,
+      "moments": []
+    },
+    {
       "id": "33467f08ab3e",
       "title": "Staind Kick Off 25th Anniversary 'Break the Cycle' Tour",
       "summary": "Adam Bettcher, Getty Images, Live Nation",
@@ -443,19 +459,6 @@
       "date": "Sep 09, 26",
       "source": "Loudwire",
       "layer": 3,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "a3b19107680b",
-      "title": "Vuelta a Espa\u00f1a: Matthew \u2060Brennan rounds off famous five with sprint success",
-      "summary": "Young British rider squeezes out Meeus and Cort NielsenMas moves step closer to landing first Grand Tour victoryMatthew Brennan claimed a fifth Vuelta a Espa\u00f1a stage victory on Wednesday as the young ",
-      "company": "Vuelta",
-      "link": "https://www.theguardian.com/sport/2026/sep/09/vuelta-espana-matthew-brennan-fifth-stage-win-cycling",
-      "date": "Sep 09, 26",
-      "source": "Guardian Sport",
-      "layer": 4,
       "access": "pe",
       "score": 5,
       "moments": []
@@ -487,12 +490,12 @@
       "moments": []
     },
     {
-      "id": "71dd7ff44607",
-      "title": "Irish Regulator Accuses Ticketmaster of Misleading Oasis Ticket Buyers With \u201cPlatinum\u201d Offers",
-      "summary": "Ireland\u2019s consumer watchdog has accused Ticketmaster of misleading Oasis ticket buyers over both its \u201cPlatinum\u201d ticket designation and the way... The post Irish Regulator Accuses Ticketmaster of Misle",
-      "company": "Irish Regulator Accuses Ticketmaster",
-      "link": "https://www.ticketnews.com/2026/09/ticketmaster-oasis-ireland-consumer-law-charges/",
-      "date": "Sep 08, 26",
+      "id": "49abe413b550",
+      "title": "AXS Becomes Official Ticketing Provider for Florida Theatre",
+      "summary": "The Florida Theatre in Jacksonville has selected AXS as its official ticketing partner under a new exclusive agreement announced Wednesday.... The post AXS Becomes Official Ticketing Provider for Flor",
+      "company": "AXS Becomes Official Ticketing Provider",
+      "link": "https://www.ticketnews.com/2026/09/axs-becomes-official-ticketing-provider-for-florida-theatre/",
+      "date": "Sep 09, 26",
       "source": "Ticket News",
       "layer": 3,
       "access": "pe",
