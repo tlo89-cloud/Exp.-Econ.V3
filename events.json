@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-10T16:07:33.267488+00:00",
-  "total": 34,
+  "generated": "2026-09-11T16:11:00.562546+00:00",
+  "total": 35,
   "scraped": [
     {
       "id": "c7376aeb32c9",
@@ -17,22 +17,6 @@
         "acquisition",
         "pe_investment",
         "fund_launch"
-      ]
-    },
-    {
-      "id": "67f9113750d2",
-      "title": "Former Apple Engineers\u2019 Physical AI Startup Lyte Raises $165M At $1.6B Valuation",
-      "summary": "Lyte, a physical AI startup building sensing and perception technology for robots, has raised a Maverick Silicon-led $165 million Series C funding at a $1.6 billion post-money valuation.",
-      "company": "Former Apple Engineers\u2019 Physical AI Startup",
-      "link": "https://news.crunchbase.com/venture/robotics-ai-startup-lyte-seriesc-raise-maverick/",
-      "date": "Sep 02, 26",
-      "source": "Crunchbase News",
-      "layer": 5,
-      "access": "venture",
-      "score": 25,
-      "moments": [
-        "funding_round",
-        "valuation"
       ]
     },
     {
@@ -68,19 +52,67 @@
       ]
     },
     {
+      "id": "098778b36059",
+      "title": "Connecticut pension fund commits $500m to Fortress credit, $250m to IFM infrastructure",
+      "summary": "Connecticut Retirement Plans and Trust Funds has approved $750m of new private-market commitments, splitting the capital between Fortress Investment Group's latest lending strategy and an IFM infrastr",
+      "company": "Connecticut",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/connecticut-pension-fund-commits-500m-to-fortress-credit-250m-to-ifm-infrastructure.html",
+      "date": "Sep 11, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "pe_investment",
+        "lp_commitment"
+      ]
+    },
+    {
+      "id": "01a09d84cf51",
+      "title": "Pinegrove closes $1.5bn oversubscribed SIF XII as Florida pension anchors venture programme",
+      "summary": "Pinegrove Venture Partners has closed its 12th Strategic Investors Fund on $1.5bn, securing an oversubscribed raise for its venture fund-of-funds and co-investment strategy despite a difficult environ",
+      "company": "Pinegrove",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/pinegrove-closes-1-5bn-oversubscribed-sif-xii-as-florida-pension-anchors-venture-programme.html",
+      "date": "Sep 11, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
       "id": "ece7cfa32912",
       "title": "Sara Bareilles Confronted Grief, and Found Herself",
       "summary": "Her new album, \u201cGood Grief,\u201d mourns friends including her Broadway co-star Gavin Creel. She\u2019s also adapting the Meg Wolitzer novel \u201cThe Interestings\u201d into a musical.",
       "company": "Sara Bareilles Confronted Grief",
       "link": "https://www.nytimes.com/2026/09/09/arts/sara-bareilles-good-grief-interestings.html",
       "date": "Sep 09, 26",
-      "source": "NYT Arts",
+      "source": "NYT Music",
       "layer": 1,
       "access": "pe",
       "score": 15,
       "moments": [
         "album_announcement",
         "company_launch"
+      ]
+    },
+    {
+      "id": "0111c2412135",
+      "title": "Ardian, Sagemount, Eir, Thoma Bravo back life sciences software; 1315 Capital eyes value creation potential in Argonaut\u2019s diagnostics division",
+      "summary": "AI and regulatory complexity are driving demand for life sciences software, which in turn has attracted private equity; 1315 Capital closes a carve-out deal with a portfolio company of Telegraph Hill ",
+      "company": "Ardian Sagemount Eir Thoma Bravo",
+      "link": "https://www.pehub.com/ardian-sagemount-eir-thoma-bravo-back-life-sciences-software-1315-capital-eyes-value-creation-potential-in-argonauts-diagnostics-division/",
+      "date": "Sep 11, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
@@ -113,38 +145,6 @@
       "moments": [
         "pe_investment",
         "fund_launch"
-      ]
-    },
-    {
-      "id": "692a799fd9ad",
-      "title": "Jefferies builds $4bn European direct-lending capacity as AllianzGI anchors inaugural fund",
-      "summary": "Jefferies Credit Partners has built almost $4bn of lending capacity for its European direct-lending strategy after holding the first close of its inaugural European Direct Lending Fund, anchored by Al",
-      "company": "Jefferies",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/jefferies-builds-4bn-european-direct-lending-capacity-as-allianzgi-anchors-inaugural-fund.html",
-      "date": "Sep 10, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "f1fa69cd568a",
-      "title": "Warburg Pincus, Berkshire Partners seal $11.75bn CPP exit to GE Aerospace, Cerberus sells Tenet for $1.6bn",
-      "summary": "GE Aerospace has agreed to acquire Consolidated Precision Products from Warburg Pincus and Berkshire Partners for $11.75bn, handing the sponsors an exit from the aerospace castings specialist. The pos",
-      "company": "Warburg Pincus Berkshire Partners",
-      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/warburg-pincus-berkshire-partners-seal-11-75bn-cpp-exit-to-ge-aerospace-cerberus-sells-tenet-for-1-6bn.html",
-      "date": "Sep 09, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "acquisition",
-        "pe_investment"
       ]
     },
     {
@@ -193,33 +193,63 @@
       ]
     },
     {
-      "id": "71092027d4fd",
-      "title": "Evanescence review \u2013 devastating power and range from one of rock\u2019s great vocal talents",
-      "summary": "First Direct Arena, LeedsThe titanic choruses and stormy metal riffs of latest album Sanctuary are the perfect foundation for Amy Lee\u2019s astonishing, skyscraping vocal range To watch Evanescence in con",
-      "company": "Evanescence",
-      "link": "https://www.theguardian.com/music/2026/sep/09/evanescence-review-first-direct-arena-leeds",
-      "date": "Sep 09, 26",
-      "source": "Guardian Music",
+      "id": "d0560e2b7afc",
+      "title": "Artists who can\u2019t to tour invited to apply for latest in \u00a3300k funding: \u201cAn even bigger step to making live music more inclusive\u201d",
+      "summary": "Phase two of the FAC's UKAT fund closes this weekend, and comes from ticket levy money raised by Wolf Alice, Harry Styles, Lorde, Radiohead and more The post Artists who can&#8217;t to tour invited to",
+      "company": "Artists",
+      "link": "https://www.nme.com/news/music/artist-fund-touring-fac-ukat-300k-levy-apply-3968296?utm_source=rss&utm_medium=rss&utm_campaign=artist-fund-touring-fac-ukat-300k-levy-apply",
+      "date": "Sep 11, 26",
+      "source": "NME",
       "layer": 1,
       "access": "pe",
       "score": 19,
+      "moments": [
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "332af64374aa",
+      "title": "Apollo Sports Capital eyes potential NFL investment",
+      "summary": "TOP STORY: Apollo Sports Capital is interested in taking a stake in an NFL franchise as the league continues to open team ownership to institutional investors, according to a report by Bloomberg citin",
+      "company": "Apollo Sports Capital",
+      "link": "https://www.privateequitywire.co.uk/apollo-sports-capital-eyes-potential-nfl-investment/",
+      "date": "Sep 11, 26",
+      "source": "PE Wire",
+      "layer": 1,
+      "access": "pe",
+      "score": 17,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "6e589a0a57c1",
+      "title": "Music Industry Moves: Brian Eno Relaunches Opal Records; Columbia Records Names Corey \u2018C-Notes\u2019 Calder SVP",
+      "summary": "Opal Records, the label founded by the legendary musician-producer Brian Eno in 1988, is returning after more than three decades. The relaunch is beginning with the reissue of two Eno albums: \u201cAnother",
+      "company": "Music Industry Moves",
+      "link": "https://variety.com/2026/music/news/brian-eno-relaunches-opal-records-1236857390/",
+      "date": "Sep 10, 26",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 15,
       "moments": [
         "company_launch"
       ]
     },
     {
-      "id": "9851df5dce80",
-      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-      "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
-      "company": "Accel",
-      "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-      "date": "Sep 03, 26",
-      "source": "TechCrunch Startups",
-      "layer": 2,
-      "access": "venture",
+      "id": "dde6e0d422a4",
+      "title": "Deal Roundup: Mubadala joins $1bn Luckin Coffee deal, Positron AI seals $875m Series C",
+      "summary": "Mubadala has agreed a significant minority investment in Chinese coffee chain Luckin Coffee alongside existing controlling shareholder Centurium Capital in a transaction with an aggregate value of app",
+      "company": "Deal Roundup",
+      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-mubadala-joins-1bn-luckin-coffee-deal-positron-ai-seals-875m-series-c.html",
+      "date": "Sep 11, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
       "score": 15,
       "moments": [
-        "valuation"
+        "pe_investment"
       ]
     },
     {
@@ -235,36 +265,6 @@
       "score": 14,
       "moments": [
         "acquisition"
-      ]
-    },
-    {
-      "id": "eaab10f53a53",
-      "title": "Glastonbury Tickets Hit Record \u00a3408, Up 51% From Pre-Pandemic Asking Price",
-      "summary": "Glastonbury Festival tickets will cost more than \u00a3400 for the first time in 2027, extending a run of price increases... The post Glastonbury Tickets Hit Record \u00a3408, Up 51% From Pre-Pandemic Asking Pr",
-      "company": "Glastonbury Tickets Hit Record",
-      "link": "https://www.ticketnews.com/2026/09/glastonbury-2027-ticket-prices-record-408/",
-      "date": "Sep 09, 26",
-      "source": "Ticket News",
-      "layer": 1,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "b02f23c49254",
-      "title": "LIV Golf\u2019s Bankruptcy Through the Eyes of One of Its Creditors",
-      "summary": "After LIV Golf filed for Chapter 11 bankruptcy in New Jersey on Tuesday, the details have slowly trickled out as to what it would take for the breakaway circuit to survive. A proposed transaction with",
-      "company": "LIV Golf\u2019s Bankruptcy Through",
-      "link": "https://www.sportico.com/leagues/golf/2026/liv-golf-bankruptcy-creditors-1234944521/",
-      "date": "Sep 09, 26",
-      "source": "Sportico",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "pe_investment"
       ]
     },
     {
@@ -298,18 +298,18 @@
       ]
     },
     {
-      "id": "e778cbd5067e",
-      "title": "End of the Road festival review \u2013 Pulp and CMAT lead indie landmark\u2019s joyous birthday party",
-      "summary": "Larmer Tree Gardens, WiltshireHitting 20, this festival has grown into a warm, genre-hopping powerhouse where fringe experimental acts are greeted as warmly as the star headlinersThere is a celebrator",
-      "company": "End",
-      "link": "https://www.theguardian.com/music/2026/sep/07/end-of-the-road-festival-review-pulp-cmat-larmer-tree-gardens-wiltshire",
-      "date": "Sep 07, 26",
-      "source": "Guardian Music",
-      "layer": 1,
-      "access": "pe",
+      "id": "fa87451333fc",
+      "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
+      "summary": "Collaborative Fund just bought into D.C. United and its stadium, with firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.",
+      "company": "Thrive Capital",
+      "link": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
+      "date": "Sep 10, 26",
+      "source": "TechCrunch Venture",
+      "layer": 2,
+      "access": "venture",
       "score": 12,
       "moments": [
-        "festival_headliner"
+        "company_launch"
       ]
     },
     {
@@ -328,21 +328,6 @@
       ]
     },
     {
-      "id": "00bb6dc7399e",
-      "title": "1315 Capital acquires Argonaut\u2019s life sciences and diagnostics unit",
-      "summary": "The divested unit, now operating independently as Aluris Sciences, provides contract manufacturing for life sciences, diagnostics and combination drug product customers from formulation through commer",
-      "company": "Capital",
-      "link": "https://www.pehub.com/1315-capital-acquires-argonauts-life-sciences-and-diagnostics-unit/",
-      "date": "Sep 10, 26",
-      "source": "PE Hub",
-      "layer": 4,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
       "id": "ed24e331be68",
       "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
       "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
@@ -355,6 +340,21 @@
       "score": 11,
       "moments": [
         "company_launch"
+      ]
+    },
+    {
+      "id": "624c6cfcf5d4",
+      "title": "HarbourVest raises $2.4bn for private credit secondary strategy",
+      "summary": "HarbourVest Partners has secured $2.4bn in initial capital commitments for a new private credit secondary strategy, as demand for liquidity in the private debt market continues to drive growth in the ",
+      "company": "HarbourVest",
+      "link": "https://www.privateequitywire.co.uk/harbourvest-raises-2-4bn-for-private-credit-secondary-strategy/",
+      "date": "Sep 11, 26",
+      "source": "PE Wire",
+      "layer": 3,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "funding_round"
       ]
     },
     {
@@ -373,29 +373,16 @@
       ]
     },
     {
-      "id": "e20bdb1bd51a",
-      "title": "Longtime Live Nation Foe Says DOJ Settlement Preserves the Leverage That Sank His Festival",
-      "summary": "Longtime concert promoter Tommy Dorfman is urging the federal court reviewing the Justice Department\u2019s settlement with Live Nation and Ticketmaster... The post Longtime Live Nation Foe Says DOJ Settle",
-      "company": "Longtime Live Nation Foe Says DOJ",
-      "link": "https://www.ticketnews.com/2026/09/tommy-dorfman-live-nation-settlement-rebates-festivals/",
-      "date": "Sep 09, 26",
+      "id": "ae064be34818",
+      "title": "Antitrust Institute Urges Judge to Probe Political Motives Behind Live Nation Settlement in Tunney Act Filing",
+      "summary": "The American Antitrust Institute is urging the federal judge reviewing the Justice Department\u2019s settlement with Live Nation and Ticketmaster to... The post Antitrust Institute Urges Judge to Probe Pol",
+      "company": "Antitrust Institute Urges Judge",
+      "link": "https://www.ticketnews.com/2026/09/aai-live-nation-tunney-act-political-influence/",
+      "date": "Sep 10, 26",
       "source": "Ticket News",
       "layer": 3,
       "access": "pe",
-      "score": 23,
-      "moments": []
-    },
-    {
-      "id": "ca9fd815d31b",
-      "title": "Rogers Stadium in Toronto Is Damaged by Thunderstorm Before AC/DC Show",
-      "summary": "The music venue, which opened in 2025, was built specifically for large concerts. The fate of its next show, featuring AC/DC, is unclear.",
-      "company": "Rogers Stadium",
-      "link": "https://www.nytimes.com/2026/09/03/world/canada/toronto-rogers-stadium-thunderstorm-damage.html",
-      "date": "Sep 04, 26",
-      "source": "NYT Music",
-      "layer": 2,
-      "access": "pe",
-      "score": 15,
+      "score": 11,
       "moments": []
     },
     {
@@ -412,42 +399,81 @@
       "moments": []
     },
     {
-      "id": "a07cc5cfb85a",
-      "title": "T-Mobile Arena\u2019s Outdoor Plaza Gets New Name Through Paramount+ Partnership",
-      "summary": "T-Mobile Arena is giving its outdoor gathering space a new name as part of a multiyear partnership with Paramount+. The... The post T-Mobile Arena\u2019s Outdoor Plaza Gets New Name Through Paramount+ Part",
-      "company": "T-Mobile Arena\u2019s Outdoor Plaza Gets New",
-      "link": "https://www.ticketnews.com/2026/09/t-mobile-arenas-outdoor-plaza-gets-new-name-through-paramount-partnership/",
+      "id": "fba94ad43d0c",
+      "title": "India\u2019s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+      "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
+      "company": "India\u2019s Pocket FM",
+      "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
       "date": "Sep 10, 26",
-      "source": "Ticket News",
+      "source": "TechCrunch Startups",
       "layer": 2,
       "access": "pe",
       "score": 10,
       "moments": []
     },
     {
-      "id": "6aca72ecc67d",
-      "title": "SEC\u2019s LSU Threat Puts Conference Autonomy to the Test",
-      "summary": "As Congress weighs whether to grant the NCAA a limited antitrust exception to bring more order to the chaos of college sports, conferences have intriguingly become willing to litigate against their ow",
-      "company": "SEC\u2019s LSU Threat Puts Conference Autonomy",
-      "link": "https://www.sportico.com/law/analysis/2026/ncaa-conferences-power-struggle-lsu-texas-tech-1234944285/",
-      "date": "Sep 09, 26",
-      "source": "Sportico",
+      "id": "6519070b6295",
+      "title": "Springboks v All Blacks a US World Cup preview in Baltimore as thrilling series goes down to the wire",
+      "summary": "\u2018Rugby\u2019s Greatest Rivalry\u2019 will culminate on US soil on Saturday, a staging post on the road to America hosting the World Cup in 2031When New Zealand and South Africa kick off at M&amp;T Bank Stadium ",
+      "company": "Springboks",
+      "link": "https://www.theguardian.com/sport/2026/sep/11/springboks-all-blacks-rugby-baltimore",
+      "date": "Sep 11, 26",
+      "source": "Guardian Sport",
+      "layer": 2,
+      "access": "pe",
+      "score": 9,
+      "moments": []
+    },
+    {
+      "id": "d73cb5485e22",
+      "title": "'Nobody was cooler' than former Kings coach and beloved broadcaster Barry Melrose, who sold the U.S. on hockey",
+      "summary": "Barry Melrose, the mullet-wearing former Kings coach and longtime ESPN analyst who helped popularize hockey in the United States, is remembered fondly by Wayne Gretzky, Lil Wayne, Scott Van Pelt and o",
+      "company": "'Nobody",
+      "link": "https://www.latimes.com/sports/story/2026-09-10/barry-melrose-reactions-tributes-nhl-espn-kings-wayne-gretzky",
+      "date": "Sep 10, 26",
+      "source": "LA Times Sports",
       "layer": 3,
       "access": "pe",
       "score": 7,
       "moments": []
     },
     {
-      "id": "6d1d95143047",
-      "title": "Trans-Siberian Orchestra Unveils 30th Anniversary \u2018The Ghosts of Christmas Eve\u2019 Winter Tour",
-      "summary": "Trans-Siberian Orchestra has announced its 2026 winter tour, which will celebrate the group\u2019s 30th anniversary and feature a new staging... The post Trans-Siberian Orchestra Unveils 30th Anniversary \u2018",
-      "company": "Trans-Siberian Orchestra Unveils",
-      "link": "https://www.ticketnews.com/2026/09/trans-siberian-orchestra-unveils-30th-anniversary-the-ghosts-of-christmas-eve-winter-tour/",
-      "date": "Sep 10, 26",
+      "id": "e4ac33611ebc",
+      "title": "Amazon Music Live Sets Season 5 With Noah Kahan, Doja Cat and More",
+      "summary": "\u201cAmazon Music Live\u201d will return for its fifth season with performances from Noah Kahan, Don Toliver, Lainey Wilson and Doja... The post Amazon Music Live Sets Season 5 With Noah Kahan, Doja Cat and Mo",
+      "company": "Amazon Music Live Sets Season",
+      "link": "https://www.ticketnews.com/2026/09/amazon-music-live-sets-season-5-with-noah-kahan-doja-cat-and-more/",
+      "date": "Sep 11, 26",
       "source": "Ticket News",
-      "layer": 4,
+      "layer": 3,
       "access": "pe",
       "score": 7,
+      "moments": []
+    },
+    {
+      "id": "44c781e10205",
+      "title": "Live Nation\u2019s Ticket Arbitration Battles Head to Second Circuit, Nevada Supreme Court",
+      "summary": "Live Nation and Ticketmaster\u2019s long-running fight to force consumer ticket disputes into private arbitration has moved onto two new appellate... The post Live Nation&#8217;s Ticket Arbitration Battles",
+      "company": "",
+      "link": "https://www.ticketnews.com/2026/09/live-nation-ticket-arbitration-second-circuit-nevada-supreme-court/",
+      "date": "Sep 10, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 6,
+      "moments": []
+    },
+    {
+      "id": "ecc8b190076a",
+      "title": "DOJ Probe Into Clippers, Kawhi Adds Criminal Risk to Cap Case",
+      "summary": "The U.S. Department of Justice has reportedly launched an investigation into whether the Los Angeles Clippers committed crimes in allegedly arranging for team sponsors to pay Kawhi Leonard for no-show",
+      "company": "DOJ Probe Into Clippers Kawhi Adds",
+      "link": "https://www.sportico.com/law/analysis/2026/los-angeles-clippers-kawhi-doj-investigation-1234944754/",
+      "date": "Sep 11, 26",
+      "source": "Sportico",
+      "layer": 3,
+      "access": "pe",
+      "score": 5,
       "moments": []
     },
     {
@@ -464,13 +490,13 @@
       "moments": []
     },
     {
-      "id": "7d9596ab0e1d",
-      "title": "\u2018Liberation,\u2019 \u2018Purpose\u2019 and 39 More Shows to See in the U.S. This Fall",
-      "summary": "This season is rich with sharp productions, like Bess Wohl\u2019s and Branden Jacobs-Jenkins\u2019s Pulitzer winners, Cole Escola\u2019s \u201cOh, Mary!\u201d and the hip-hop musical \u201cMexodus.\u201d",
-      "company": "\u2018Liberation,\u2019 \u2018Purpose\u2019",
-      "link": "https://www.nytimes.com/2026/09/09/theater/liberation-purpose-oh-mary-mexodus-shows-in-us-2026.html",
-      "date": "Sep 09, 26",
-      "source": "NYT Arts",
+      "id": "d8ac998c116b",
+      "title": "Excelsior Energy Capital exits two solar plants to Enel",
+      "summary": "The Faraday and Skyhawk solar plants are utility-scale facilities in Utah and Tennessee backed by long-term power purchase agreements with PacifiCorp and the Tennessee Valley Authority. The post Excel",
+      "company": "Excelsior Energy Capital",
+      "link": "https://www.pehub.com/excelsior-energy-capital-exits-two-solar-plants-to-enel/",
+      "date": "Sep 11, 26",
+      "source": "PE Hub",
       "layer": 4,
       "access": "pe",
       "score": 4,
@@ -485,19 +511,6 @@
       "date": "May 09, 26",
       "source": "Venues Today",
       "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "49abe413b550",
-      "title": "AXS Becomes Official Ticketing Provider for Florida Theatre",
-      "summary": "The Florida Theatre in Jacksonville has selected AXS as its official ticketing partner under a new exclusive agreement announced Wednesday.... The post AXS Becomes Official Ticketing Provider for Flor",
-      "company": "AXS Becomes Official Ticketing Provider",
-      "link": "https://www.ticketnews.com/2026/09/axs-becomes-official-ticketing-provider-for-florida-theatre/",
-      "date": "Sep 09, 26",
-      "source": "Ticket News",
-      "layer": 3,
       "access": "pe",
       "score": 4,
       "moments": []
