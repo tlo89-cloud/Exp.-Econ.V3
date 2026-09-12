@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-11T16:11:00.562546+00:00",
+  "generated": "2026-09-12T15:18:09.480038+00:00",
   "total": 35,
   "scraped": [
     {
@@ -20,6 +20,22 @@
       ]
     },
     {
+      "id": "27848a30eee1",
+      "title": "Bluejay Capital\u2019s Pacific West Acquires Coleman Industrial Construction in Midwest",
+      "summary": "Founded in 1979, Coleman Industrial Construction provides construction, renovation, environmental, maintenance and repair services for rail and industrial facilities, primarily serving Class I railroa",
+      "company": "",
+      "link": "https://www.pehub.com/bluejay-capitals-pacific-west-acquires-coleman-industrial-construction-in-midwest/",
+      "date": "Sep 11, 26",
+      "source": "PE Hub",
+      "layer": 2,
+      "access": "pe",
+      "score": 18,
+      "moments": [
+        "acquisition",
+        "company_launch"
+      ]
+    },
+    {
       "id": "b44fe26dec8d",
       "title": "CEECAT hits \u20ac135m first close for Fund III as EIF, EBRD commit \u20ac80m",
       "summary": "CEECAT Capital has reached a \u20ac135m first close for its third Emerging Europe-focused private equity fund after securing \u20ac80m of combined commitments from the European Investment Fund and European Bank",
@@ -36,19 +52,35 @@
       ]
     },
     {
-      "id": "96001314a96d",
-      "title": "Blackstone targets liquid cooling with FCH; FFL scoops up office of the CFO biz Waylin Partners",
-      "summary": "Blackstone agrees to acquire a provider of data center cooling services and components; FFL Partners completes investment in a provider of services focused on the office of the chief financial officer",
-      "company": "Blackstone",
-      "link": "https://www.pehub.com/blackstone-targets-liquid-cooling-with-fch-ffl-scoops-up-office-of-the-cfo-biz-waylin-partners/",
-      "date": "Sep 10, 26",
+      "id": "387aec6e37ea",
+      "title": "Avesi Partners-backed Danforth Health acquires rare disease consultancy Ambit",
+      "summary": "Ambit RD, founded to help biopharma companies navigate commercial challenges in rare and specialty disease markets, brings AI-powered patient identification and analytics tools to Danforth's platform.",
+      "company": "Avesi Partners-backed Danforth Health",
+      "link": "https://www.pehub.com/avesi-partners-backed-danforth-health-acquires-rare-disease-consultancy-ambit/",
+      "date": "Sep 11, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
       "score": 16,
       "moments": [
         "acquisition",
-        "pe_investment"
+        "company_launch"
+      ]
+    },
+    {
+      "id": "bd3bda93cd9b",
+      "title": "InTandem Capital\u2019s Ivy Fertility Acquires Santa Barbara Fertility Center",
+      "summary": "Santa Barbara Fertility Center, founded by reproductive endocrinologist Rene Allen in 2008, joins Ivy Fertility's network as its founder continues practicing there. The post InTandem Capital&#8217;s I",
+      "company": "",
+      "link": "https://www.pehub.com/intandem-capitals-ivy-fertility-acquires-santa-barbara-fertility-center/",
+      "date": "Sep 11, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "acquisition",
+        "company_launch"
       ]
     },
     {
@@ -193,18 +225,18 @@
       ]
     },
     {
-      "id": "d0560e2b7afc",
-      "title": "Artists who can\u2019t to tour invited to apply for latest in \u00a3300k funding: \u201cAn even bigger step to making live music more inclusive\u201d",
-      "summary": "Phase two of the FAC's UKAT fund closes this weekend, and comes from ticket levy money raised by Wolf Alice, Harry Styles, Lorde, Radiohead and more The post Artists who can&#8217;t to tour invited to",
-      "company": "Artists",
-      "link": "https://www.nme.com/news/music/artist-fund-touring-fac-ukat-300k-levy-apply-3968296?utm_source=rss&utm_medium=rss&utm_campaign=artist-fund-touring-fac-ukat-300k-levy-apply",
+      "id": "36dcdb5ea27f",
+      "title": "Belgian Authorities Green Light Live Nation\u2019s Pukkelpop Acquisition, With Conditions",
+      "summary": "Live Nation will retain ownership of Belgian music festival Pukkelpop, but it will be barred from folding the event into... The post Belgian Authorities Green Light Live Nation&#8217;s Pukkelpop Acqui",
+      "company": "",
+      "link": "https://www.ticketnews.com/2026/09/live-nation-pukkelpop-10-year-separation/",
       "date": "Sep 11, 26",
-      "source": "NME",
+      "source": "Ticket News",
       "layer": 1,
       "access": "pe",
       "score": 19,
       "moments": [
-        "fund_launch"
+        "acquisition"
       ]
     },
     {
@@ -218,36 +250,6 @@
       "layer": 1,
       "access": "pe",
       "score": 17,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "6e589a0a57c1",
-      "title": "Music Industry Moves: Brian Eno Relaunches Opal Records; Columbia Records Names Corey \u2018C-Notes\u2019 Calder SVP",
-      "summary": "Opal Records, the label founded by the legendary musician-producer Brian Eno in 1988, is returning after more than three decades. The relaunch is beginning with the reissue of two Eno albums: \u201cAnother",
-      "company": "Music Industry Moves",
-      "link": "https://variety.com/2026/music/news/brian-eno-relaunches-opal-records-1236857390/",
-      "date": "Sep 10, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "dde6e0d422a4",
-      "title": "Deal Roundup: Mubadala joins $1bn Luckin Coffee deal, Positron AI seals $875m Series C",
-      "summary": "Mubadala has agreed a significant minority investment in Chinese coffee chain Luckin Coffee alongside existing controlling shareholder Centurium Capital in a transaction with an aggregate value of app",
-      "company": "Deal Roundup",
-      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-mubadala-joins-1bn-luckin-coffee-deal-positron-ai-seals-875m-series-c.html",
-      "date": "Sep 11, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 15,
       "moments": [
         "pe_investment"
       ]
@@ -268,6 +270,36 @@
       ]
     },
     {
+      "id": "79daecef6c15",
+      "title": "Brent Hinds\u2019 Estate Sues Mastodon Over Late Guitarist\u2019s Share of Band",
+      "summary": "Lawsuit claims band offered $80,000 to buy out Hinds\u2019 stake, and that new album Marrow Deep\u2019s cover features illustration of Hinds without permission",
+      "company": "Brent Hinds\u2019 Estate Sues Mastodon Over",
+      "link": "https://www.rollingstone.com/music/music-news/brent-hinds-estate-lawsuit-mastodon-1235625314/",
+      "date": "Sep 11, 26",
+      "source": "Rolling Stone News",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "4c298ecdc833",
+      "title": "Ocean Way, the Santa Monica beach festival, canceled due to impact of offshore hurricane",
+      "summary": "Ocean Way, the beachfront Santa Monica music festival, has been canceled just two weeks before debuting. It was slated to have headline sets by the Killers and Olivia Dean.",
+      "company": "Ocean Way",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-09-11/ocean-way-canceled-santa-monica-festival-killers-olivia-dean",
+      "date": "Sep 11, 26",
+      "source": "LA Times Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
       "id": "9bc262c4471e",
       "title": "Olivia Rodrigo communes with her idols at Daisy Chain Fields",
       "summary": "The 23-year-old pop star brought out Stevie Nicks, Sarah McLachlan and Alanis Morissette during her headlining set at Saturday's festival in Irvine.",
@@ -280,21 +312,6 @@
       "score": 12,
       "moments": [
         "festival_headliner"
-      ]
-    },
-    {
-      "id": "3fac702a3c28",
-      "title": "Barry Manilow announces touring hiatus days after canceling third show this month",
-      "summary": "Barry Manilow has announced he needs to step away from the stage to recover after a busy summer tour. The 'Copacabana' crooner canceled three shows this month, citing 'technical difficulties' among ot",
-      "company": "Barry Manilow",
-      "link": "https://www.latimes.com/entertainment-arts/story/2026-08-26/barry-manilow-announces-hiatus-days-after-canceling-third-show",
-      "date": "Aug 26, 26",
-      "source": "LA Times Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "tour_announcement"
       ]
     },
     {
@@ -343,6 +360,36 @@
       ]
     },
     {
+      "id": "e822b02b319b",
+      "title": "Kylie Minogue to Deliver 20-Minute \u2018Spectacle\u2019 at AFL Grand Final",
+      "summary": "The Grand Final takes place Saturday, Sept. 26, at the MCG, with around 100,000 fans expected at the stadium.",
+      "company": "Kylie Minogue",
+      "link": "https://www.billboard.com/music/pop/kylie-minogues-afl-grand-final-show-mcg-1236338919/",
+      "date": "Sep 12, 26",
+      "source": "Billboard",
+      "layer": 2,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "ed75b3ef5c69",
+      "title": "Zverev beats Khachanov in straight sets to reach US Open final \u2013 as it happened",
+      "summary": "Alexander Zverev reached his first grand slam final in a row with a 6-3 7-6 (7) 7-6 (6) victory against Karen Khachanov in New YorkKaren Khachanov emerges from the tunnel first, followed by Alexander ",
+      "company": "Zverev",
+      "link": "https://www.theguardian.com/sport/live/2026/sep/11/us-open-tennis-2026-mens-semi-final-alexander-zverev-v-karen-khachanov-live",
+      "date": "Sep 11, 26",
+      "source": "Guardian Sport",
+      "layer": 2,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
       "id": "624c6cfcf5d4",
       "title": "HarbourVest raises $2.4bn for private credit secondary strategy",
       "summary": "HarbourVest Partners has secured $2.4bn in initial capital commitments for a new private credit secondary strategy, as demand for liquidity in the private debt market continues to drive growth in the ",
@@ -358,34 +405,6 @@
       ]
     },
     {
-      "id": "3e5725e26eed",
-      "title": "Ella Langley Leads 2026 CMA Awards Nominations With Nine, as Miranda Lambert, Kacey Musgraves Also Score Big Tallies",
-      "summary": "In perhaps the least surprising development in recent CMA Awards history, Ella Langley emerged at the front of the pack when nominations for the 2026 telecast were announced Thursday morning, scoring ",
-      "company": "Ella Langley Leads",
-      "link": "https://variety.com/2026/music/news/cma-awards-nominations-ella-langley-leads-2026-miranda-kacey-1236856514/",
-      "date": "Sep 10, 26",
-      "source": "Variety Music",
-      "layer": 2,
-      "access": "pe",
-      "score": 6,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "ae064be34818",
-      "title": "Antitrust Institute Urges Judge to Probe Political Motives Behind Live Nation Settlement in Tunney Act Filing",
-      "summary": "The American Antitrust Institute is urging the federal judge reviewing the Justice Department\u2019s settlement with Live Nation and Ticketmaster to... The post Antitrust Institute Urges Judge to Probe Pol",
-      "company": "Antitrust Institute Urges Judge",
-      "link": "https://www.ticketnews.com/2026/09/aai-live-nation-tunney-act-political-influence/",
-      "date": "Sep 10, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 11,
-      "moments": []
-    },
-    {
       "id": "89e58f2175b9",
       "title": "Kenny Albert on His Broadcasting Family, 60 Stadiums, Missing RedZone",
       "summary": "Fox Sports",
@@ -396,32 +415,6 @@
       "layer": 2,
       "access": "pe",
       "score": 10,
-      "moments": []
-    },
-    {
-      "id": "fba94ad43d0c",
-      "title": "India\u2019s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-      "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
-      "company": "India\u2019s Pocket FM",
-      "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-      "date": "Sep 10, 26",
-      "source": "TechCrunch Startups",
-      "layer": 2,
-      "access": "pe",
-      "score": 10,
-      "moments": []
-    },
-    {
-      "id": "6519070b6295",
-      "title": "Springboks v All Blacks a US World Cup preview in Baltimore as thrilling series goes down to the wire",
-      "summary": "\u2018Rugby\u2019s Greatest Rivalry\u2019 will culminate on US soil on Saturday, a staging post on the road to America hosting the World Cup in 2031When New Zealand and South Africa kick off at M&amp;T Bank Stadium ",
-      "company": "Springboks",
-      "link": "https://www.theguardian.com/sport/2026/sep/11/springboks-all-blacks-rugby-baltimore",
-      "date": "Sep 11, 26",
-      "source": "Guardian Sport",
-      "layer": 2,
-      "access": "pe",
-      "score": 9,
       "moments": []
     },
     {
@@ -451,19 +444,6 @@
       "moments": []
     },
     {
-      "id": "44c781e10205",
-      "title": "Live Nation\u2019s Ticket Arbitration Battles Head to Second Circuit, Nevada Supreme Court",
-      "summary": "Live Nation and Ticketmaster\u2019s long-running fight to force consumer ticket disputes into private arbitration has moved onto two new appellate... The post Live Nation&#8217;s Ticket Arbitration Battles",
-      "company": "",
-      "link": "https://www.ticketnews.com/2026/09/live-nation-ticket-arbitration-second-circuit-nevada-supreme-court/",
-      "date": "Sep 10, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 6,
-      "moments": []
-    },
-    {
       "id": "ecc8b190076a",
       "title": "DOJ Probe Into Clippers, Kawhi Adds Criminal Risk to Cap Case",
       "summary": "The U.S. Department of Justice has reportedly launched an investigation into whether the Los Angeles Clippers committed crimes in allegedly arranging for team sponsors to pay Kawhi Leonard for no-show",
@@ -484,6 +464,32 @@
       "link": "https://loudwire.com/staind-25th-anniversary-break-the-cycle-tour-2026-setlists-video/",
       "date": "Sep 09, 26",
       "source": "Loudwire",
+      "layer": 3,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "de0b26c7ed12",
+      "title": "Amazon Prime Video Uses A.I. for Lip-Synced Translations",
+      "summary": "The streamer released a version of a popular German series in which the actors\u2019 lip movements have been digitally altered.",
+      "company": "Amazon Prime Video Uses A.I",
+      "link": "https://www.nytimes.com/2026/09/10/arts/television/amazon-prime-video-ai-translation-dub.html",
+      "date": "Sep 10, 26",
+      "source": "NYT Arts",
+      "layer": 3,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "1113f3e69d6e",
+      "title": "Afghan woman deported in first-ever \"Alien Terrorist\" court case, DOJ says",
+      "summary": "An Afghan national who was the first-ever case before the federal Alien Terrorist Removal Court has been deported, the Justice Department announced Friday.The big picture: The DOJ win before the previ",
+      "company": "Afghan",
+      "link": "https://www.axios.com/2026/09/11/alien-terrorist-court-first-deportation",
+      "date": "Sep 11, 26",
+      "source": "Axios",
       "layer": 3,
       "access": "pe",
       "score": 5,
