@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-12T15:18:09.480038+00:00",
-  "total": 35,
+  "generated": "2026-09-13T15:54:56.287886+00:00",
+  "total": 34,
   "scraped": [
     {
       "id": "c7376aeb32c9",
@@ -255,6 +255,21 @@
       ]
     },
     {
+      "id": "2e546eeb5841",
+      "title": "My Chemical Romance Tease Possible New Album During Tour-Closing Show",
+      "summary": "A new record would be the band's first full-length album since 2010's Danger Days: The True Lives of the Fabulous Killjoys.",
+      "company": "My Chemical Romance Tease Possible New",
+      "link": "https://www.billboard.com/music/music-news/my-chemical-romance-tease-possible-new-album-1236339172/",
+      "date": "Sep 13, 26",
+      "source": "Billboard",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
       "id": "03e96e026e05",
       "title": "Rosanne Cash pauses tour, postpones performances under doctor's orders after emergency",
       "summary": "Singer-songwriter Rosanne Cash has postponed upcoming concert dates in Wyoming and Montana following a medical emergency under doctor's orders.",
@@ -270,6 +285,21 @@
       ]
     },
     {
+      "id": "b54788380ac2",
+      "title": "Stray Kids Drives Fans Wild in Historic Rock in Rio Debut",
+      "summary": "The group becomes the first K-pop act to headline the festival.",
+      "company": "Stray Kids Drives Fans Wild",
+      "link": "https://www.billboard.com/music/music-news/stray-kids-rock-in-rio-brazil-debut-review-recap-1236338948/",
+      "date": "Sep 12, 26",
+      "source": "Billboard",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
       "id": "79daecef6c15",
       "title": "Brent Hinds\u2019 Estate Sues Mastodon Over Late Guitarist\u2019s Share of Band",
       "summary": "Lawsuit claims band offered $80,000 to buy out Hinds\u2019 stake, and that new album Marrow Deep\u2019s cover features illustration of Hinds without permission",
@@ -282,36 +312,6 @@
       "score": 12,
       "moments": [
         "album_announcement"
-      ]
-    },
-    {
-      "id": "4c298ecdc833",
-      "title": "Ocean Way, the Santa Monica beach festival, canceled due to impact of offshore hurricane",
-      "summary": "Ocean Way, the beachfront Santa Monica music festival, has been canceled just two weeks before debuting. It was slated to have headline sets by the Killers and Olivia Dean.",
-      "company": "Ocean Way",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-09-11/ocean-way-canceled-santa-monica-festival-killers-olivia-dean",
-      "date": "Sep 11, 26",
-      "source": "LA Times Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "9bc262c4471e",
-      "title": "Olivia Rodrigo communes with her idols at Daisy Chain Fields",
-      "summary": "The 23-year-old pop star brought out Stevie Nicks, Sarah McLachlan and Alanis Morissette during her headlining set at Saturday's festival in Irvine.",
-      "company": "Olivia Rodrigo",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-08-30/olivia-rodrigo-daisy-chain-fields-stevie-nicks-sarah-mclachlan-alanis-morissette",
-      "date": "Aug 30, 26",
-      "source": "LA Times Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "festival_headliner"
       ]
     },
     {
@@ -360,36 +360,6 @@
       ]
     },
     {
-      "id": "e822b02b319b",
-      "title": "Kylie Minogue to Deliver 20-Minute \u2018Spectacle\u2019 at AFL Grand Final",
-      "summary": "The Grand Final takes place Saturday, Sept. 26, at the MCG, with around 100,000 fans expected at the stadium.",
-      "company": "Kylie Minogue",
-      "link": "https://www.billboard.com/music/pop/kylie-minogues-afl-grand-final-show-mcg-1236338919/",
-      "date": "Sep 12, 26",
-      "source": "Billboard",
-      "layer": 2,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "ed75b3ef5c69",
-      "title": "Zverev beats Khachanov in straight sets to reach US Open final \u2013 as it happened",
-      "summary": "Alexander Zverev reached his first grand slam final in a row with a 6-3 7-6 (7) 7-6 (6) victory against Karen Khachanov in New YorkKaren Khachanov emerges from the tunnel first, followed by Alexander ",
-      "company": "Zverev",
-      "link": "https://www.theguardian.com/sport/live/2026/sep/11/us-open-tennis-2026-mens-semi-final-alexander-zverev-v-karen-khachanov-live",
-      "date": "Sep 11, 26",
-      "source": "Guardian Sport",
-      "layer": 2,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
       "id": "624c6cfcf5d4",
       "title": "HarbourVest raises $2.4bn for private credit secondary strategy",
       "summary": "HarbourVest Partners has secured $2.4bn in initial capital commitments for a new private credit secondary strategy, as demand for liquidity in the private debt market continues to drive growth in the ",
@@ -405,6 +375,19 @@
       ]
     },
     {
+      "id": "ad6934b2739a",
+      "title": "BIGBANG Celebrate 20 Years Together With MetLife Stadium Concert: 13 Best Moments",
+      "summary": "The K-pop legends played their only East Coast date of the XX : COSMOS World Tour, marking their first New York-area show in over a decade.",
+      "company": "BIGBANG Celebrate",
+      "link": "https://www.billboard.com/lists/bigbang-xx-cosmos-new-york-metlife-stadium-best-moments/",
+      "date": "Sep 13, 26",
+      "source": "Billboard",
+      "layer": 2,
+      "access": "pe",
+      "score": 15,
+      "moments": []
+    },
+    {
       "id": "89e58f2175b9",
       "title": "Kenny Albert on His Broadcasting Family, 60 Stadiums, Missing RedZone",
       "summary": "Fox Sports",
@@ -418,16 +401,16 @@
       "moments": []
     },
     {
-      "id": "d73cb5485e22",
-      "title": "'Nobody was cooler' than former Kings coach and beloved broadcaster Barry Melrose, who sold the U.S. on hockey",
-      "summary": "Barry Melrose, the mullet-wearing former Kings coach and longtime ESPN analyst who helped popularize hockey in the United States, is remembered fondly by Wayne Gretzky, Lil Wayne, Scott Van Pelt and o",
-      "company": "'Nobody",
-      "link": "https://www.latimes.com/sports/story/2026-09-10/barry-melrose-reactions-tributes-nhl-espn-kings-wayne-gretzky",
+      "id": "fba94ad43d0c",
+      "title": "India\u2019s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+      "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
+      "company": "India\u2019s Pocket FM",
+      "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
       "date": "Sep 10, 26",
-      "source": "LA Times Sports",
-      "layer": 3,
+      "source": "TechCrunch Startups",
+      "layer": 2,
       "access": "pe",
-      "score": 7,
+      "score": 10,
       "moments": []
     },
     {
