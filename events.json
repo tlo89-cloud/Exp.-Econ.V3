@@ -1,37 +1,37 @@
 {
-  "generated": "2026-09-14T17:56:50.655427+00:00",
-  "total": 35,
+  "generated": "2026-09-15T16:38:56.144102+00:00",
+  "total": 33,
   "scraped": [
     {
-      "id": "b44fe26dec8d",
-      "title": "CEECAT hits \u20ac135m first close for Fund III as EIF, EBRD commit \u20ac80m",
-      "summary": "CEECAT Capital has reached a \u20ac135m first close for its third Emerging Europe-focused private equity fund after securing \u20ac80m of combined commitments from the European Investment Fund and European Bank",
-      "company": "CEECAT",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/central-and-eastern-europe-by-region/turkey-central-and-eastern-europe/100209923.html",
-      "date": "Sep 10, 26",
-      "source": "AltAssets",
-      "layer": 2,
-      "access": "pe",
-      "score": 18,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "c2ad88a63831",
-      "title": "Thompson Street-backed Allyant expands with acquisition of Braille Works",
-      "summary": "Braille Works, founded in 1994 by Joyce and Lou Fioritto, has spent more than three decades helping organizations make information accessible for people who are blind or have low vision, serving healt",
-      "company": "Thompson Street-backed Allyant",
-      "link": "https://www.pehub.com/thompson-street-backed-allyant-expands-with-acquisition-of-braille-works/",
-      "date": "Sep 14, 26",
+      "id": "a862dd13fe2a",
+      "title": "Warburg Pincus appoints Philip Nolan as head of US wealth",
+      "summary": "Warburg Pincus is a private equity firm founded in 1966 with more than $105 billion in assets under management and investments spanning more than 45 countries. The post Warburg Pincus appoints Philip ",
+      "company": "Warburg Pincus",
+      "link": "https://www.pehub.com/warburg-pincus-appoints-philip-nolan-as-head-of-us-wealth/",
+      "date": "Sep 15, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
-      "score": 16,
+      "score": 22,
       "moments": [
-        "acquisition",
+        "pe_investment",
         "company_launch"
+      ]
+    },
+    {
+      "id": "25b44f2e3add",
+      "title": "Lambrini Girls announce new album \u2018No Refunds\u2019 with incendiary single \u2018Bang Bang Bang\u2019",
+      "summary": "The Brighton duo have also announced their biggest headline tour to date The post Lambrini Girls announce new album &#8216;No Refunds&#8217; with incendiary single &#8216;Bang Bang Bang&#8217; appeare",
+      "company": "Lambrini Girls",
+      "link": "https://www.nme.com/news/music/lambrini-girls-announce-new-album-no-refunds-with-incendiary-single-bang-bang-bang-3968948?utm_source=rss&utm_medium=rss&utm_campaign=lambrini-girls-announce-new-album-no-refunds-with-incendiary-single-bang-bang-bang",
+      "date": "Sep 15, 26",
+      "source": "NME",
+      "layer": 1,
+      "access": "pe",
+      "score": 21,
+      "moments": [
+        "album_announcement",
+        "festival_headliner"
       ]
     },
     {
@@ -80,6 +80,22 @@
       "moments": [
         "album_announcement",
         "company_launch"
+      ]
+    },
+    {
+      "id": "272cf4ab4ac8",
+      "title": "KKR, Neuberger to take minority stake in Datavant; Carlyle joins MIT Generative AI Impact Consortium as PE firms double down on AI",
+      "summary": "Neuberger and KKR agree to acquire a significant minority stake in health information tech company Datavant from New Mountain Capital; RedCloud Capital invests in APS Environmental Group; Carlyle join",
+      "company": "KKR Neuberger",
+      "link": "https://www.pehub.com/kkr-neuberger-to-take-minority-stake-in-datavant-carlyle-joins-mit-generative-ai-impact-consortium-as-pe-firms-double-down-on-ai/",
+      "date": "Sep 15, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "acquisition",
+        "pe_investment"
       ]
     },
     {
@@ -161,21 +177,6 @@
       ]
     },
     {
-      "id": "f461f995da66",
-      "title": "Macklemore Dropped From Ed Sheeran Tour After \u2018Free Palestine\u2019 Speech",
-      "summary": "Macklemore has been dropped from the remainder of Ed Sheeran&#8217;s U.S. Loop Tour after making headlines for saying &#8220;free Palestine&#8221; on stage and delivering a political speech during the",
-      "company": "Macklemore Dropped From Ed Sheeran Tour",
-      "link": "https://variety.com/2026/music/news/macklemore-dropped-ed-sheeran-tour-free-palestine-speech-1236861137/",
-      "date": "Sep 14, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 20,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
       "id": "71092027d4fd",
       "title": "Evanescence review \u2013 devastating power and range from one of rock\u2019s great vocal talents",
       "summary": "First Direct Arena, LeedsThe titanic choruses and stormy metal riffs of latest album Sanctuary are the perfect foundation for Amy Lee\u2019s astonishing, skyscraping vocal range To watch Evanescence in con",
@@ -191,13 +192,13 @@
       ]
     },
     {
-      "id": "956c9d65ffe3",
-      "title": "The Fray Announce 2027 Australia, New Zealand Tour With Dashboard Confessional",
-      "summary": "The Fray will return to Australia and New Zealand in February 2027 for a series of headline concerts and outdoor... The post The Fray Announce 2027 Australia, New Zealand Tour With Dashboard Confessio",
-      "company": "The Fray Announce",
-      "link": "https://www.ticketnews.com/2026/09/the-fray-announce-2027-australia-new-zealand-tour-with-dashboard-confessional/",
+      "id": "5545c4871376",
+      "title": "Macklemore dropped from Ed Sheeran\u2019s US tour after \u2018free Palestine\u2019 speech",
+      "summary": "The American rapper will no longer support Sheeran\u2019s US leg of Loop tour after comments at MetLife Stadium showMacklemore has been dropped from the remainder of the US leg of Ed Sheeran\u2019s Loop tour, a",
+      "company": "Macklemore",
+      "link": "https://www.theguardian.com/music/2026/sep/14/macklemore-dropped-ed-sheeran-tour-free-palestine",
       "date": "Sep 14, 26",
-      "source": "Ticket News",
+      "source": "Guardian Music",
       "layer": 1,
       "access": "pe",
       "score": 17,
@@ -266,21 +267,6 @@
       ]
     },
     {
-      "id": "87494315e577",
-      "title": "Garth Brooks, Riley Green and Zach Top to Headline Stagecoach 2027",
-      "summary": "Garth Brooks, Riley Green and Zach Top will headline the 2027 Stagecoach Festival, leading a lineup that also includes a... The post Garth Brooks, Riley Green and Zach Top to Headline Stagecoach 2027 ",
-      "company": "Garth Brooks Riley Green",
-      "link": "https://www.ticketnews.com/2026/09/garth-brooks-riley-green-and-zach-top-to-headline-stagecoach-2027/",
-      "date": "Sep 14, 26",
-      "source": "Ticket News",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
       "id": "7b2f6a42ec31",
       "title": "Florida State Chops AD Alford in Latest Act of Seminole Unrest",
       "summary": "After years of upheaval in Florida State athletics\u2014including a then-unprecedented flirtation with private equity and a bitter legal fight with the Atlantic Coast Conference\u2014the school has parted ways ",
@@ -296,18 +282,18 @@
       ]
     },
     {
-      "id": "c90e93f53a21",
-      "title": "Bain Capital\u2019s Max de Groen expects deal activity to pick up over next year; Genstar and Aksia make growth investment in Richey May",
-      "summary": "Max de Groen, partner and co-head of Technology, North America Private Equity at Bain Capital, on how his firm is navigating disruption from AI in software; Genstar Capital and Aksia make a growth inv",
-      "company": "Bain Capital\u2019s Max",
-      "link": "https://www.pehub.com/bains-max-de-groen-expects-deal-activity-to-pick-up-over-next-year-genstar-and-aksia-make-growth-investment-in-richey-may/",
+      "id": "b087440aab22",
+      "title": "Stagecoach 2027: Garth Brooks, Zach Top and Riley Green will headline",
+      "summary": "Other acts on the bill for the annual music festival in Indio, Calif., include Willie Nelson, Kelly Clarkson, Stella Lefty, Shaboozey and David Lee Roth.",
+      "company": "Stagecoach 2027",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-09-14/stagecoach-2027-garth-brooks-zach-top-riley-green",
       "date": "Sep 14, 26",
-      "source": "PE Hub",
-      "layer": 5,
+      "source": "LA Times Music",
+      "layer": 1,
       "access": "pe",
       "score": 12,
       "moments": [
-        "pe_investment"
+        "festival_headliner"
       ]
     },
     {
@@ -356,79 +342,103 @@
       ]
     },
     {
-      "id": "00cba38b48a5",
-      "title": "VIP Announces Strategic Acquisition of Encompass Technologies to Accelerate the Future of Food &amp; Beverage Technology",
-      "summary": "Acquisition expands access to technology and accelerates AI innovation across the food & beverage industry COLCHESTER, Vt., Sept. 14, 2026 /PRNewswire/ -- VIP, a leading technology partner to the food",
-      "company": "VIP Announces Strategic Acquisition",
-      "link": "https://www.prnewswire.com/news-releases/vip-announces-strategic-acquisition-of-encompass-technologies-to-accelerate-the-future-of-food--beverage-technology-302877838.html",
-      "date": "Sep 14, 26",
-      "source": "PR Newswire",
-      "layer": 4,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "4c6084dab6d5",
-      "title": "AEG Presents Invests in Greenhouse Talent to Expand European Footprint",
-      "summary": "AEG Presents has invested in Greenhouse Talent, formalizing a partnership with the independent Benelux concert promoter after approximately two decades... The post AEG Presents Invests in Greenhouse T",
-      "company": "AEG Presents Invests",
-      "link": "https://www.ticketnews.com/2026/09/aeg-presents-invests-in-greenhouse-talent-to-expand-european-footprint/",
+      "id": "678fd31df8d9",
+      "title": "NIVA Calls for Ticketmaster Breakup, 50% Cap on Live Nation Tour Control",
+      "summary": "The National Independent Venue Association is urging a federal court to reject the Justice Department\u2019s proposed Live Nation settlement unless... The post NIVA Calls for Ticketmaster Breakup, 50% Cap ",
+      "company": "NIVA Calls",
+      "link": "https://www.ticketnews.com/2026/09/niva-live-nation-ticketmaster-breakup-tour-cap/",
       "date": "Sep 14, 26",
       "source": "Ticket News",
       "layer": 3,
       "access": "pe",
-      "score": 16,
+      "score": 14,
       "moments": []
     },
     {
-      "id": "0b86b00bc593",
-      "title": "Oasis Unveils 2027 Tour as Ticketmaster Faces New Rules From Live \u201925 Onsale",
-      "summary": "Oasis will return to the road in 2027 for 38 stadium shows across the UK, Ireland, mainland Europe and the... The post Oasis Unveils 2027 Tour as Ticketmaster Faces New Rules From Live \u201925 Onsale appe",
-      "company": "Oasis Unveils",
-      "link": "https://www.ticketnews.com/2026/09/oasis-live-27-tour-tickets-registration/",
+      "id": "338047e7b4ce",
+      "title": "Lily Allen on downsizing venues for her \u2018West End Girl\u2019 North America tour: \u201cThe ticket sales weren\u2019t there\u201d",
+      "summary": "\"I think the live industry is a minefield, and I don\u2019t know how it works\" The post Lily Allen on downsizing venues for her &#8216;West End Girl&#8217; North America tour: &#8220;The ticket sales weren",
+      "company": "Lily Allen",
+      "link": "https://www.nme.com/news/music/lily-allen-on-downsizing-venues-for-her-west-end-girl-us-tour-3969055?utm_source=rss&utm_medium=rss&utm_campaign=lily-allen-on-downsizing-venues-for-her-west-end-girl-us-tour",
+      "date": "Sep 15, 26",
+      "source": "NME",
+      "layer": 2,
+      "access": "pe",
+      "score": 13,
+      "moments": []
+    },
+    {
+      "id": "171b1c9e236b",
+      "title": "Method Man to Guest Star on CBS Drama \u2018Cupertino\u2019 as Rapper Suing AI Music Studio (EXCLUSIVE)",
+      "summary": "Cliff Smith may be known to most as Method Man, but in &#8220;Cupertino,&#8221; he is Yungwood. The Wu-Tang Clan member and actor will guest star in the CBS drama series as a rapper who picks a legal ",
+      "company": "Method Man",
+      "link": "https://variety.com/2026/tv/news/method-man-cbs-cupertino-rapper-ai-1236861711/",
+      "date": "Sep 15, 26",
+      "source": "Variety Music",
+      "layer": 2,
+      "access": "venture",
+      "score": 11,
+      "moments": []
+    },
+    {
+      "id": "39ee7c5d798c",
+      "title": "Raskin, Nadler Urge Judge to Probe \u2018Corrupt and Improper\u2019 Influence Behind Live Nation Settlement",
+      "summary": "Two senior House Judiciary Democrats are urging the federal judge reviewing the Justice Department\u2019s antitrust settlement with Live Nation and... The post Raskin, Nadler Urge Judge to Probe \u2018Corrupt a",
+      "company": "Raskin Nadler Urge Judge",
+      "link": "https://www.ticketnews.com/2026/09/raskin-nadler-live-nation-settlement-probe/",
       "date": "Sep 14, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 11,
+      "moments": []
+    },
+    {
+      "id": "490b0c914987",
+      "title": "Somerset Sounds Concert Series Set for 2027 Launch",
+      "summary": "Somerset County Cricket Club has partnered with Live Nation-owned promoter Full Fat 360 to launch Somerset Sounds, a new annual... The post Somerset Sounds Concert Series Set for 2027 Launch appeared ",
+      "company": "Somerset Sounds Concert Series Set",
+      "link": "https://www.ticketnews.com/2026/09/somerset-sounds-concert-series-set-for-2027-launch/",
+      "date": "Sep 14, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 11,
+      "moments": []
+    },
+    {
+      "id": "780bd173d334",
+      "title": "Zach Leonsis Promoted as Wizards, Capitals Near $750M in Revenue",
+      "summary": "Zach Leonsis has been promoted at Monumental Sports &#38; Entertainment, a move that pushes him closer to taking the reins of the sports empire currently run by his father, Ted. As part of a series of",
+      "company": "Zach Leonsis Promoted",
+      "link": "https://www.sportico.com/personalities/executives/2026/zach-leonsis-promoted-wizards-capitals-mystics-monumental-1234945056/",
+      "date": "Sep 15, 26",
+      "source": "Sportico",
+      "layer": 2,
+      "access": "pe",
+      "score": 10,
+      "moments": []
+    },
+    {
+      "id": "d1c5fb08913a",
+      "title": "Dave Chappelle Announces Limited Fall 2026 Arena Tour",
+      "summary": "Dave Chappelle has announced a seven-date arena tour scheduled for October and November, concluding with a performance at Madison Square... The post Dave Chappelle Announces Limited Fall 2026 Arena To",
+      "company": "Dave Chappelle Announces Limited Fall",
+      "link": "https://www.ticketnews.com/2026/09/dave-chappelle-announces-limited-fall-2026-arena-tour/",
+      "date": "Sep 15, 26",
       "source": "Ticket News",
       "layer": 2,
       "access": "pe",
-      "score": 12,
-      "moments": []
-    },
-    {
-      "id": "89e58f2175b9",
-      "title": "Kenny Albert on His Broadcasting Family, 60 Stadiums, Missing RedZone",
-      "summary": "Fox Sports",
-      "company": "Kenny Albert",
-      "link": "https://frontofficesports.com/article/kenny-albert-longest-tenured-fox-nfl-broadcaster/",
-      "date": "Sep 10, 26",
-      "source": "Front Office Sports",
-      "layer": 2,
-      "access": "pe",
       "score": 10,
       "moments": []
     },
     {
-      "id": "fba94ad43d0c",
-      "title": "India\u2019s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-      "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
-      "company": "India\u2019s Pocket FM",
-      "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-      "date": "Sep 10, 26",
-      "source": "TechCrunch Startups",
-      "layer": 2,
-      "access": "pe",
-      "score": 10,
-      "moments": []
-    },
-    {
-      "id": "878ccb1658c3",
-      "title": "Macklemore Says Robert Kraft Rallied Stadium Owners to Force Him Off Ed Sheeran Tour",
-      "summary": "UPDATED: 12:35 PM Macklemore says New England Patriots owner Robert Kraft spearheaded the effort that forced him off Ed Sheeran\u2019s... The post Macklemore Says Robert Kraft Rallied Stadium Owners to For",
-      "company": "Macklemore Says Robert Kraft Rallied Stadium",
-      "link": "https://www.ticketnews.com/2026/09/macklemore-ed-sheeran-stadiums-cancel-shows/",
-      "date": "Sep 14, 26",
+      "id": "75b9c5b70cd1",
+      "title": "Kenny Chesney Returns to Stadiums With 19-Show Vibe Room 2027 Tour",
+      "summary": "Kenny Chesney is heading back to stadiums in 2027, announcing a 19-show Original Vibe Room Tour that will take the... The post Kenny Chesney Returns to Stadiums With 19-Show Vibe Room 2027 Tour appear",
+      "company": "Kenny Chesney Returns",
+      "link": "https://www.ticketnews.com/2026/09/kenny-chesney-2027-tour-dates-tickets-presale/",
+      "date": "Sep 15, 26",
       "source": "Ticket News",
       "layer": 2,
       "access": "pe",
@@ -436,42 +446,16 @@
       "moments": []
     },
     {
-      "id": "f4edfc941cb6",
-      "title": "Horizon Organic Celebrates Farmers Shaping the Future of Organic Dairy",
-      "summary": "Building on its longstanding investment in farmer partnerships, Horizon Organic is announcing 2026 HOPE Award and Scholarship recipients, along with Farm Aid and Organic Week Sponsorships BROOMFIELD, ",
-      "company": "Horizon Organic Celebrates Farmers Shaping",
-      "link": "https://www.prnewswire.com/news-releases/horizon-organic-celebrates-farmers-shaping-the-future-of-organic-dairy-302877957.html",
-      "date": "Sep 14, 26",
-      "source": "PR Newswire",
-      "layer": 4,
-      "access": "pe",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "ecc8b190076a",
-      "title": "DOJ Probe Into Clippers, Kawhi Adds Criminal Risk to Cap Case",
-      "summary": "The U.S. Department of Justice has reportedly launched an investigation into whether the Los Angeles Clippers committed crimes in allegedly arranging for team sponsors to pay Kawhi Leonard for no-show",
-      "company": "DOJ Probe Into Clippers Kawhi Adds",
-      "link": "https://www.sportico.com/law/analysis/2026/los-angeles-clippers-kawhi-doj-investigation-1234944754/",
-      "date": "Sep 11, 26",
+      "id": "af212c7e3f0c",
+      "title": "NFL\u2019s Down Under Opener Confirms Streamers Are Still Lagging TV",
+      "summary": "The NFL\u2019s field trip to Australia may have bumped NBC\u2019s annual Kickoff Game to Hump Day, but despite the somewhat unfamiliar launch date, the legacy rights-holder easily topped Netflix\u2019s Thursday nigh",
+      "company": "NFL\u2019s Down Under Opener Confirms Streamers",
+      "link": "https://www.sportico.com/business/media/2026/nfl-ratings-netflix-streamers-lagging-tv-1234944961/",
+      "date": "Sep 15, 26",
       "source": "Sportico",
       "layer": 3,
       "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "026a5c80d47b",
-      "title": "JJ Watt proves to be a solid replacement for Tony Romo as CBS\u2019s No 1 analyst",
-      "summary": "With the former Dallas Cowboys quarterback on leave after his arrest in July, CBS brought a dependable presence into the booth with Jim NantzIf you were looking for insight from the CBS team broadcast",
-      "company": "JJ Watt",
-      "link": "https://www.theguardian.com/sport/2026/sep/13/jj-watt-tony-romo-cbs-nfl-analysts",
-      "date": "Sep 14, 26",
-      "source": "Guardian Sport",
-      "layer": 3,
-      "access": "pe",
-      "score": 5,
+      "score": 9,
       "moments": []
     },
     {
@@ -485,19 +469,6 @@
       "layer": 3,
       "access": "pe",
       "score": 5,
-      "moments": []
-    },
-    {
-      "id": "385e8df402c2",
-      "title": "\u2018Very weak. Very bad\u2019: how Rodri\u2019s verdict exposed woeful Valencia\u2019s crisis | Sid Lowe",
-      "summary": "The World Cup winner\u2019s off-the-cuff assessment was brutally honest. Within days their manager and CEO were gone, but the problems run much deeperKiat Lim wanted to see Valencia play so badly, so that ",
-      "company": "\u2018Very",
-      "link": "https://www.theguardian.com/football/2026/sep/14/valencia-rodri-carlos-corberan-la-liga",
-      "date": "Sep 14, 26",
-      "source": "Guardian Sport",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
       "moments": []
     },
     {
