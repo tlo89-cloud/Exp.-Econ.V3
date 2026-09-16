@@ -1,31 +1,15 @@
 {
-  "generated": "2026-09-15T16:38:56.144102+00:00",
-  "total": 33,
+  "generated": "2026-09-16T16:31:04.628505+00:00",
+  "total": 31,
   "scraped": [
     {
-      "id": "a862dd13fe2a",
-      "title": "Warburg Pincus appoints Philip Nolan as head of US wealth",
-      "summary": "Warburg Pincus is a private equity firm founded in 1966 with more than $105 billion in assets under management and investments spanning more than 45 countries. The post Warburg Pincus appoints Philip ",
-      "company": "Warburg Pincus",
-      "link": "https://www.pehub.com/warburg-pincus-appoints-philip-nolan-as-head-of-us-wealth/",
-      "date": "Sep 15, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 22,
-      "moments": [
-        "pe_investment",
-        "company_launch"
-      ]
-    },
-    {
-      "id": "25b44f2e3add",
-      "title": "Lambrini Girls announce new album \u2018No Refunds\u2019 with incendiary single \u2018Bang Bang Bang\u2019",
-      "summary": "The Brighton duo have also announced their biggest headline tour to date The post Lambrini Girls announce new album &#8216;No Refunds&#8217; with incendiary single &#8216;Bang Bang Bang&#8217; appeare",
-      "company": "Lambrini Girls",
-      "link": "https://www.nme.com/news/music/lambrini-girls-announce-new-album-no-refunds-with-incendiary-single-bang-bang-bang-3968948?utm_source=rss&utm_medium=rss&utm_campaign=lambrini-girls-announce-new-album-no-refunds-with-incendiary-single-bang-bang-bang",
-      "date": "Sep 15, 26",
-      "source": "NME",
+      "id": "a5432c3d5e58",
+      "title": "Ezra Collective on Stunning New LP \u2018Here Because of Hope\u2019 & Collaborating with Olivia Dean: \u2018My Most Perfect A&R Moment!\u2019",
+      "summary": "The London-formed jazz group won the 2023 Mercury Prize and headline arenas in the U.K. New album Here Because of Hope a genre-spanning epic that could make them repeat winners.",
+      "company": "Ezra Collective",
+      "link": "https://www.billboard.com/music/features/ezra-collective-here-because-hope-olivia-dean-leona-lewis-1236341533/",
+      "date": "Sep 16, 26",
+      "source": "Billboard",
       "layer": 1,
       "access": "pe",
       "score": 21,
@@ -35,76 +19,60 @@
       ]
     },
     {
-      "id": "098778b36059",
-      "title": "Connecticut pension fund commits $500m to Fortress credit, $250m to IFM infrastructure",
-      "summary": "Connecticut Retirement Plans and Trust Funds has approved $750m of new private-market commitments, splitting the capital between Fortress Investment Group's latest lending strategy and an IFM infrastr",
-      "company": "Connecticut",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/connecticut-pension-fund-commits-500m-to-fortress-credit-250m-to-ifm-infrastructure.html",
-      "date": "Sep 11, 26",
+      "id": "754e54052913",
+      "title": "Crane Venture Partners raises $484m across four funds to build global seed investment platform",
+      "summary": "Crane Venture Partners has raised $484m across four investment vehicles as the London-founded venture investor expands from its European roots into a globally connected early-stage investment platform",
+      "company": "Crane Venture Partners",
+      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/crane-venture-partners-raises-484m-across-four-funds-to-build-global-seed-investment-platform.html",
+      "date": "Sep 16, 26",
       "source": "AltAssets",
       "layer": 5,
-      "access": "pe",
-      "score": 16,
+      "access": "venture",
+      "score": 19,
       "moments": [
-        "pe_investment",
-        "lp_commitment"
-      ]
-    },
-    {
-      "id": "01a09d84cf51",
-      "title": "Pinegrove closes $1.5bn oversubscribed SIF XII as Florida pension anchors venture programme",
-      "summary": "Pinegrove Venture Partners has closed its 12th Strategic Investors Fund on $1.5bn, securing an oversubscribed raise for its venture fund-of-funds and co-investment strategy despite a difficult environ",
-      "company": "Pinegrove",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/pinegrove-closes-1-5bn-oversubscribed-sif-xii-as-florida-pension-anchors-venture-programme.html",
-      "date": "Sep 11, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "ece7cfa32912",
-      "title": "Sara Bareilles Confronted Grief, and Found Herself",
-      "summary": "Her new album, \u201cGood Grief,\u201d mourns friends including her Broadway co-star Gavin Creel. She\u2019s also adapting the Meg Wolitzer novel \u201cThe Interestings\u201d into a musical.",
-      "company": "Sara Bareilles Confronted Grief",
-      "link": "https://www.nytimes.com/2026/09/09/arts/sara-bareilles-good-grief-interestings.html",
-      "date": "Sep 09, 26",
-      "source": "NYT Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "album_announcement",
+        "funding_round",
         "company_launch"
       ]
     },
     {
-      "id": "272cf4ab4ac8",
-      "title": "KKR, Neuberger to take minority stake in Datavant; Carlyle joins MIT Generative AI Impact Consortium as PE firms double down on AI",
-      "summary": "Neuberger and KKR agree to acquire a significant minority stake in health information tech company Datavant from New Mountain Capital; RedCloud Capital invests in APS Environmental Group; Carlyle join",
-      "company": "KKR Neuberger",
-      "link": "https://www.pehub.com/kkr-neuberger-to-take-minority-stake-in-datavant-carlyle-joins-mit-generative-ai-impact-consortium-as-pe-firms-double-down-on-ai/",
-      "date": "Sep 15, 26",
+      "id": "dad3542fe4de",
+      "title": "Investors bullish on Major League Baseball despite potential lockout; Niobrara acquires managed IT services provider MSP Corp",
+      "summary": "Also featured is a look at HR software deals from private equity firms Thoma Bravo, Gryphon and Main Capital. The post Investors bullish on Major League Baseball despite potential lockout; Niobrara ac",
+      "company": "Investors",
+      "link": "https://www.pehub.com/investors-bullish-on-major-league-baseball-despite-potential-lockout-niobrara-acquires-managed-it-services-provider-msp-corp/",
+      "date": "Sep 16, 26",
       "source": "PE Hub",
-      "layer": 5,
+      "layer": 1,
       "access": "pe",
-      "score": 13,
+      "score": 18,
       "moments": [
         "acquisition",
         "pe_investment"
       ]
     },
     {
-      "id": "8afd883fd060",
-      "title": "Ex-CPPIB CEO\u2019s Intrepid Growth Partners closes $525m debut fund to back AI growth companies",
-      "summary": "Intrepid Growth Partners has closed its inaugural fund at $525m, establishing a specialist growth investor focused on AI companies with the ambition to reshape established industries. The post Ex-CPPI",
-      "company": "Ex-CPPIB CEO\u2019s Intrepid Growth Partners",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/canada-north-america-by-region/intrepid-growth-partners.html",
-      "date": "Sep 14, 26",
+      "id": "ce7a5ccce4ab",
+      "title": "Carlyle more than triples infrastructure credit fund with $2.3bn Fund II close",
+      "summary": "Carlyle has raised about $2.3bn for its second infrastructure credit fund, taking in more than three-and-a-half times the capital secured for its predecessor as the investment giant scales its private",
+      "company": "Carlyle",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/carlyle-more-than-triples-infrastructure-credit-fund-with-2-3bn-fund-ii-close.html",
+      "date": "Sep 16, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "a5b8d0c6f2c7",
+      "title": "Portobello Capital beats target with \u20ac710m Fund V close as Spanish manager scales flagship by 18%",
+      "summary": "Portobello Capital has closed its fifth flagship buyout fund on \u20ac710m, beating its \u20ac600m target after less than 18 months of fundraising. The Madrid-based manager said Portobello Capital Fund V was it",
+      "company": "Portobello Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/spain-western-europe-europe-by-region/portobello-capital-beats-target-with-e710m-fund-v-close-as-spanish-manager-scales-flagship-by-18.html",
+      "date": "Sep 16, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -115,28 +83,12 @@
       ]
     },
     {
-      "id": "d4c0ff3faa91",
-      "title": "Volition Capital closes $950m Fund VI at hard cap, 41% larger than predecessor",
-      "summary": "Volition Capital has closed its sixth growth equity fund at a $950m hard cap, increasing the size of its flagship pool by about 41% from the $675m raised for Fund V. The post Volition Capital closes $",
-      "company": "Volition Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/volition-capital-closes-950m-fund-vi-at-hard-cap-41-larger-than-predecessor.html",
-      "date": "Sep 14, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "92a56c8d0e0e",
-      "title": "EIG nearly doubles infrastructure debt fund to $1.9bn, total raised for latest series tops $4bn",
-      "summary": "EIG has nearly doubled the size of its senior infrastructure debt fund series with a $1.9bn final close for its sixth vehicle, taking total capital raised across the strategy's latest fundraising to $",
-      "company": "EIG",
-      "link": "https://www.altassets.net/private-equity-news/by-news-type/fund-news/funds-closed/eig-nearly-doubles-infrastructure-debt-fund-to-1-9bn-total-raised-for-latest-series-tops-4bn.html",
-      "date": "Sep 10, 26",
+      "id": "c8dd1b633f48",
+      "title": "Goldman Sachs closes $9.6bn flagship buyout fund",
+      "summary": "Goldman Sachs Alternatives has closed its ninth flagship buyout fund on $9.6bn, almost matching its $9.7bn predecessor despite the prolonged slowdown in global private capital fundraising. The post Go",
+      "company": "Goldman Sachs",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/goldman-sachs-closes-9-6bn-flagship-buyout-fund.html",
+      "date": "Sep 16, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -192,33 +144,33 @@
       ]
     },
     {
-      "id": "5545c4871376",
-      "title": "Macklemore dropped from Ed Sheeran\u2019s US tour after \u2018free Palestine\u2019 speech",
-      "summary": "The American rapper will no longer support Sheeran\u2019s US leg of Loop tour after comments at MetLife Stadium showMacklemore has been dropped from the remainder of the US leg of Ed Sheeran\u2019s Loop tour, a",
-      "company": "Macklemore",
-      "link": "https://www.theguardian.com/music/2026/sep/14/macklemore-dropped-ed-sheeran-tour-free-palestine",
-      "date": "Sep 14, 26",
-      "source": "Guardian Music",
+      "id": "a4e5c94154af",
+      "title": "Laufey Signs With Interscope Records/ Verve Records (EXCLUSIVE)",
+      "summary": "Two-time Grammy-winner Laufey has signed with Universal Music Group\u2019s Interscope Records and Verve Records in an arrangement that reflects the fast-rising singer-songwriter\u2019s combination of pop and ja",
+      "company": "Laufey Signs With Interscope Records/ Verve",
+      "link": "https://variety.com/2026/music/news/laufey-signs-with-interscope-verve-exclusive-1236863770/",
+      "date": "Sep 16, 26",
+      "source": "Variety Music",
       "layer": 1,
       "access": "pe",
-      "score": 17,
+      "score": 16,
       "moments": [
-        "festival_headliner"
+        "record_deal"
       ]
     },
     {
-      "id": "dde6e0d422a4",
-      "title": "Deal Roundup: Mubadala joins $1bn Luckin Coffee deal, Positron AI seals $875m Series C",
-      "summary": "Mubadala has agreed a significant minority investment in Chinese coffee chain Luckin Coffee alongside existing controlling shareholder Centurium Capital in a transaction with an aggregate value of app",
-      "company": "Deal Roundup",
-      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-mubadala-joins-1bn-luckin-coffee-deal-positron-ai-seals-875m-series-c.html",
-      "date": "Sep 11, 26",
-      "source": "AltAssets",
-      "layer": 5,
+      "id": "5e6d9481e22e",
+      "title": "Metallica Announce 2027 North American Tour Dates",
+      "summary": "Metallica has confirmed a series of new North American stadium dates that extend the band&#8217;s M72 World Tour into 2027. Having played 99 shows in 26 countries since its April 2023 kick-off, the Li",
+      "company": "Metallica Announce",
+      "link": "https://variety.com/2026/music/news/metallica-2027-north-american-tour-dates-1236864236/",
+      "date": "Sep 16, 26",
+      "source": "Variety Music",
+      "layer": 2,
       "access": "pe",
-      "score": 15,
+      "score": 14,
       "moments": [
-        "pe_investment"
+        "tour_announcement"
       ]
     },
     {
@@ -252,48 +204,93 @@
       ]
     },
     {
-      "id": "9a0fac516ccc",
-      "title": "Waterland ends Giacom alliance but keeps Gamma takeover interest alive",
-      "summary": "Dutch private equity firm Waterland has ended its agreement to act in concert with UK telecoms provider Giacom in relation to a potential takeover of Gamma Communications, while leaving open the possi",
-      "company": "Waterland",
-      "link": "https://www.privateequitywire.co.uk/waterland-ends-giacom-alliance-but-keeps-gamma-takeover-interest-alive/",
-      "date": "Sep 14, 26",
-      "source": "PE Wire",
+      "id": "f6501e11407e",
+      "title": "Sky closes in on broadcast rights for first women\u2019s British & Irish Lions tour",
+      "summary": "Lions to play five fixtures in New Zealand in 2027Sky has held live rights for men\u2019s Lions since 1997The inaugural women\u2019s British &amp; Irish Lions tour of New Zealand next year is expected to be bro",
+      "company": "Sky",
+      "link": "https://www.theguardian.com/sport/2026/sep/16/womens-rugby-union-sky-broadcast-rights-first-british-irish-lions-tour",
+      "date": "Sep 16, 26",
+      "source": "Guardian Sport",
       "layer": 1,
       "access": "pe",
       "score": 14,
       "moments": [
-        "pe_investment"
+        "rights_deal"
       ]
     },
     {
-      "id": "7b2f6a42ec31",
-      "title": "Florida State Chops AD Alford in Latest Act of Seminole Unrest",
-      "summary": "After years of upheaval in Florida State athletics\u2014including a then-unprecedented flirtation with private equity and a bitter legal fight with the Atlantic Coast Conference\u2014the school has parted ways ",
-      "company": "Florida State Chops AD Alford",
-      "link": "https://www.sportico.com/leagues/college-sports/2026/florida-state-athletic-director-michael-alford-fired-1234944906/",
-      "date": "Sep 14, 26",
-      "source": "Sportico",
-      "layer": 3,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "b087440aab22",
-      "title": "Stagecoach 2027: Garth Brooks, Zach Top and Riley Green will headline",
-      "summary": "Other acts on the bill for the annual music festival in Indio, Calif., include Willie Nelson, Kelly Clarkson, Stella Lefty, Shaboozey and David Lee Roth.",
-      "company": "Stagecoach 2027",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-09-14/stagecoach-2027-garth-brooks-zach-top-riley-green",
-      "date": "Sep 14, 26",
-      "source": "LA Times Music",
+      "id": "26d523597e8a",
+      "title": "Private Equity Giant Apollo Taking \u2018Hard Look\u2019 at NFL Investment",
+      "summary": "Nicole Pereira Photography/Front Office Sports",
+      "company": "Private Equity Giant Apollo Taking \u2018Hard",
+      "link": "https://frontofficesports.com/article/nfl-private-equity-nfl-apollo/",
+      "date": "Sep 15, 26",
+      "source": "Front Office Sports",
       "layer": 1,
       "access": "pe",
       "score": 12,
       "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "61db06e642e1",
+      "title": "MUNA\u2019s Naomi McPherson to miss first shows of North American tour to care for mother with terminal cancer",
+      "summary": "\u201cIt has become clear that her passing will coincide with the beginning of this headline tour\u201d The post MUNA\u2019s Naomi McPherson to miss first shows of North American tour to care for mother with termina",
+      "company": "MUNA\u2019s Naomi McPherson",
+      "link": "https://www.nme.com/news/music/munas-naomi-mcpherson-to-miss-first-shows-of-north-american-tour-to-care-for-mother-with-terminal-cancer-3969276?utm_source=rss&utm_medium=rss&utm_campaign=munas-naomi-mcpherson-to-miss-first-shows-of-north-american-tour-to-care-for-mother-with-terminal-cancer",
+      "date": "Sep 16, 26",
+      "source": "NME",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
         "festival_headliner"
+      ]
+    },
+    {
+      "id": "4b26174edc01",
+      "title": "Partners Capital names Jennifer Fox Bensimon head of co-investments",
+      "summary": "Fox Bensimon joined Partners Capital's Co-Investment team in September 2024 after roles at private equity firms Trilantic North America and LNK Partners, where she focused on middle-market investing a",
+      "company": "Partners Capital",
+      "link": "https://www.pehub.com/partners-capital-names-jennifer-fox-bensimon-head-of-co-investments/",
+      "date": "Sep 16, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "2c113535048d",
+      "title": "Brightstar-backed Bendon acquires Hinkler\u2019s North American business in add-on deal",
+      "summary": "Hinkler's North American business designs and distributes children's coloring, activity and educational products under franchises including Kaleidoscope, Craft Maker and Piccadilly. The post Brightsta",
+      "company": "Brightstar-backed Bendon",
+      "link": "https://www.pehub.com/brightstar-backed-bendon-acquires-hinklers-north-american-business-in-add-on-deal/",
+      "date": "Sep 16, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "5e419f9831df",
+      "title": "Vitruvian Partners acquires majority stake in Smartling from Battery Ventures",
+      "summary": "Smartling's AI-powered LanguageAI platform serves more than 1,000 global brands, translating billions of words a year across websites, apps and marketing content. The post Vitruvian Partners acquires ",
+      "company": "Vitruvian Partners",
+      "link": "https://www.pehub.com/vitruvian-partners-acquires-majority-stake-in-smartling-from-battery-ventures/",
+      "date": "Sep 16, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "venture",
+      "score": 12,
+      "moments": [
+        "acquisition"
       ]
     },
     {
@@ -327,6 +324,21 @@
       ]
     },
     {
+      "id": "43a5134c9988",
+      "title": "James Cameron\u2019s Lightstorm Scoops Up AI-Powered 3D Tech Company Outsyders",
+      "summary": "James Cameron has long loved 3D. Now he\u2019s added an AI-powered 3D tech company to his collection. Cameron\u2019s Lightstorm Vision has purchased Outsyders, a technology company focused on boosting the 3D pr",
+      "company": "",
+      "link": "https://variety.com/2026/biz/news/james-camerons-lightstorm-ai-powered-3d-company-outsyders-1236864094/",
+      "date": "Sep 16, 26",
+      "source": "Variety Biz",
+      "layer": 4,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
       "id": "ed24e331be68",
       "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
       "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
@@ -342,69 +354,19 @@
       ]
     },
     {
-      "id": "678fd31df8d9",
-      "title": "NIVA Calls for Ticketmaster Breakup, 50% Cap on Live Nation Tour Control",
-      "summary": "The National Independent Venue Association is urging a federal court to reject the Justice Department\u2019s proposed Live Nation settlement unless... The post NIVA Calls for Ticketmaster Breakup, 50% Cap ",
-      "company": "NIVA Calls",
-      "link": "https://www.ticketnews.com/2026/09/niva-live-nation-ticketmaster-breakup-tour-cap/",
-      "date": "Sep 14, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 14,
-      "moments": []
-    },
-    {
-      "id": "338047e7b4ce",
-      "title": "Lily Allen on downsizing venues for her \u2018West End Girl\u2019 North America tour: \u201cThe ticket sales weren\u2019t there\u201d",
-      "summary": "\"I think the live industry is a minefield, and I don\u2019t know how it works\" The post Lily Allen on downsizing venues for her &#8216;West End Girl&#8217; North America tour: &#8220;The ticket sales weren",
-      "company": "Lily Allen",
-      "link": "https://www.nme.com/news/music/lily-allen-on-downsizing-venues-for-her-west-end-girl-us-tour-3969055?utm_source=rss&utm_medium=rss&utm_campaign=lily-allen-on-downsizing-venues-for-her-west-end-girl-us-tour",
-      "date": "Sep 15, 26",
-      "source": "NME",
+      "id": "8afc4168d59d",
+      "title": "Main Capital Partners agrees to acquire higher education software firm Watermark",
+      "summary": "Austin-based Watermark serves approximately 1,500 public and private higher education institutions through its Educational Impact Suite, supporting accreditation, faculty development and student-succe",
+      "company": "Main Capital Partners agrees to",
+      "link": "https://www.pehub.com/main-capital-partners-agrees-to-acquire-higher-education-software-firm-watermark/",
+      "date": "Sep 16, 26",
+      "source": "PE Hub",
       "layer": 2,
       "access": "pe",
-      "score": 13,
-      "moments": []
-    },
-    {
-      "id": "171b1c9e236b",
-      "title": "Method Man to Guest Star on CBS Drama \u2018Cupertino\u2019 as Rapper Suing AI Music Studio (EXCLUSIVE)",
-      "summary": "Cliff Smith may be known to most as Method Man, but in &#8220;Cupertino,&#8221; he is Yungwood. The Wu-Tang Clan member and actor will guest star in the CBS drama series as a rapper who picks a legal ",
-      "company": "Method Man",
-      "link": "https://variety.com/2026/tv/news/method-man-cbs-cupertino-rapper-ai-1236861711/",
-      "date": "Sep 15, 26",
-      "source": "Variety Music",
-      "layer": 2,
-      "access": "venture",
-      "score": 11,
-      "moments": []
-    },
-    {
-      "id": "39ee7c5d798c",
-      "title": "Raskin, Nadler Urge Judge to Probe \u2018Corrupt and Improper\u2019 Influence Behind Live Nation Settlement",
-      "summary": "Two senior House Judiciary Democrats are urging the federal judge reviewing the Justice Department\u2019s antitrust settlement with Live Nation and... The post Raskin, Nadler Urge Judge to Probe \u2018Corrupt a",
-      "company": "Raskin Nadler Urge Judge",
-      "link": "https://www.ticketnews.com/2026/09/raskin-nadler-live-nation-settlement-probe/",
-      "date": "Sep 14, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 11,
-      "moments": []
-    },
-    {
-      "id": "490b0c914987",
-      "title": "Somerset Sounds Concert Series Set for 2027 Launch",
-      "summary": "Somerset County Cricket Club has partnered with Live Nation-owned promoter Full Fat 360 to launch Somerset Sounds, a new annual... The post Somerset Sounds Concert Series Set for 2027 Launch appeared ",
-      "company": "Somerset Sounds Concert Series Set",
-      "link": "https://www.ticketnews.com/2026/09/somerset-sounds-concert-series-set-for-2027-launch/",
-      "date": "Sep 14, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 11,
-      "moments": []
+      "score": 8,
+      "moments": [
+        "acquisition"
+      ]
     },
     {
       "id": "780bd173d334",
@@ -420,26 +382,13 @@
       "moments": []
     },
     {
-      "id": "d1c5fb08913a",
-      "title": "Dave Chappelle Announces Limited Fall 2026 Arena Tour",
-      "summary": "Dave Chappelle has announced a seven-date arena tour scheduled for October and November, concluding with a performance at Madison Square... The post Dave Chappelle Announces Limited Fall 2026 Arena To",
-      "company": "Dave Chappelle Announces Limited Fall",
-      "link": "https://www.ticketnews.com/2026/09/dave-chappelle-announces-limited-fall-2026-arena-tour/",
+      "id": "e9a42a889755",
+      "title": "Kennedy Center Closes Its Doors Despite a Judge\u2019s Order",
+      "summary": "The announcement came after President Trump said he would cancel a $257 million renovation of the venue if his name is not returned to the building.",
+      "company": "Kennedy Center Closes Its Doors Despite",
+      "link": "https://www.nytimes.com/2026/09/15/arts/music/kennedy-center-trump-name-inscription-judge-ruling.html",
       "date": "Sep 15, 26",
-      "source": "Ticket News",
-      "layer": 2,
-      "access": "pe",
-      "score": 10,
-      "moments": []
-    },
-    {
-      "id": "75b9c5b70cd1",
-      "title": "Kenny Chesney Returns to Stadiums With 19-Show Vibe Room 2027 Tour",
-      "summary": "Kenny Chesney is heading back to stadiums in 2027, announcing a 19-show Original Vibe Room Tour that will take the... The post Kenny Chesney Returns to Stadiums With 19-Show Vibe Room 2027 Tour appear",
-      "company": "Kenny Chesney Returns",
-      "link": "https://www.ticketnews.com/2026/09/kenny-chesney-2027-tour-dates-tickets-presale/",
-      "date": "Sep 15, 26",
-      "source": "Ticket News",
+      "source": "NYT Arts",
       "layer": 2,
       "access": "pe",
       "score": 10,
@@ -459,16 +408,42 @@
       "moments": []
     },
     {
-      "id": "1113f3e69d6e",
-      "title": "Afghan woman deported in first-ever \"Alien Terrorist\" court case, DOJ says",
-      "summary": "An Afghan national who was the first-ever case before the federal Alien Terrorist Removal Court has been deported, the Justice Department announced Friday.The big picture: The DOJ win before the previ",
-      "company": "Afghan",
-      "link": "https://www.axios.com/2026/09/11/alien-terrorist-court-first-deportation",
-      "date": "Sep 11, 26",
-      "source": "Axios",
+      "id": "1c32ab8725ea",
+      "title": "Kennedy Center Board Orders Immediate Closure as Trump Ties Renovation to Naming Fight",
+      "summary": "The Kennedy Center\u2019s Trump-aligned board voted Tuesday to immediately close the performing arts venue\u2019s main building, accelerating a two-year renovation... The post Kennedy Center Board Orders Immedi",
+      "company": "",
+      "link": "https://www.ticketnews.com/2026/09/kennedy-center-immediate-closure-trump-name/",
+      "date": "Sep 15, 26",
+      "source": "Ticket News",
+      "layer": 2,
+      "access": "pe",
+      "score": 9,
+      "moments": []
+    },
+    {
+      "id": "7c6e26d51052",
+      "title": "Arch Manning apologizes for \u2018insensitive\u2019 joke about AI video of ESPN\u2019s Holly Rowe",
+      "summary": "Texas star called clip of coach slapping reporter \u2018hilarious\u2019Manning: \u2018Nothing funny about it \u2026 I need to do better\u2019Rowe posts that she accepts apology, will move forwardTexas\u2019s star quarterback, Arch",
+      "company": "Arch Manning",
+      "link": "https://www.theguardian.com/sport/2026/sep/15/arch-manning-apology-holly-rowe-ai-video",
+      "date": "Sep 15, 26",
+      "source": "Guardian Sport",
       "layer": 3,
       "access": "pe",
-      "score": 5,
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "e42e26669ed5",
+      "title": "Nouvelle \u00e9tude d'Oxford Economics : un plafond impos\u00e9 \u00e0 la production de plastique entra\u00eenerait une hausse du co\u00fbt des marchandises",
+      "summary": "Des politiques de recyclage cibl\u00e9es permettraient d'obtenir des gains de recyclage sup\u00e9rieurs de 68 % \u00e0 ceux obtenus par le biais d'un plafonnement \u00e0 5 % de la production de plastique vierge, tout en ",
+      "company": "Nouvelle",
+      "link": "https://www.prnewswire.com/news-releases/nouvelle-etude-doxford-economics--un-plafond-impose-a-la-production-de-plastique-entrainerait-une-hausse-du-cout-des-marchandises-302880887.html",
+      "date": "Sep 16, 26",
+      "source": "PR Newswire",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
       "moments": []
     },
     {
