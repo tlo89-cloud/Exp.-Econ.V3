@@ -1,20 +1,20 @@
 {
-  "generated": "2026-09-17T16:36:58.092103+00:00",
+  "generated": "2026-09-18T16:08:03.082234+00:00",
   "total": 34,
   "scraped": [
     {
-      "id": "79e831e5986e",
-      "title": "Bain Capital Ventures raises $1.6bn fund to back \u2018next-gen\u2019 AI startups",
-      "summary": "Bain Capital Ventures has raised $1.6bn for a new fund targeting early-stage companies developing infrastructure, security and other technologies expected to underpin the next phase of artificial inte",
-      "company": "Bain Capital Ventures",
-      "link": "https://www.privateequitywire.co.uk/bain-capital-ventures-raises-1-6bn-fund-to-back-next-gen-ai-startups/",
-      "date": "Sep 17, 26",
-      "source": "PE Wire",
-      "layer": 1,
-      "access": "venture",
+      "id": "22ec92c66059",
+      "title": "Portage closes $600m fintech fund slightly below predecessor as platform AUM reaches $7bn",
+      "summary": "Fintech specialist Portage has closed its fourth flagship venture fund on about $600m, slightly below the $655m raised by its predecessor four years ago despite growing its wider investment platform t",
+      "company": "Portage",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/portage-closes-600m-fintech-fund-slightly-below-predecessor-as-platform-aum-reaches-7bn.html",
+      "date": "Sep 18, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
       "score": 16,
       "moments": [
-        "funding_round",
+        "pe_investment",
         "fund_launch"
       ]
     },
@@ -51,11 +51,11 @@
       ]
     },
     {
-      "id": "bb17fb6d02c4",
-      "title": "Industrial tech specialist Artemis closes fourth fund on $254m",
-      "summary": "Industrial technology-focused private equity firm Artemis Capital Partners has closed its fourth fund on $254m as the Boston-based manager targets businesses exposed to growing aerospace, defence, lif",
-      "company": "Industrial tech specialist Artemis",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/industrial-tech-specialist-artemis-closes-fourth-fund-on-254m.html",
+      "id": "daf6810f7450",
+      "title": "Bain Capital Ventures picks up $1.6bn at Fund XI close",
+      "summary": "Bain Capital Ventures has raised $1.6bn for its eleventh core venture fund, as the investor concentrates its strategy around early-stage companies building AI infrastructure, applications and services",
+      "company": "Bain Capital Ventures",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/bain-capital-ventures-picks-up-1-6bn-at-fund-xi-close.html",
       "date": "Sep 17, 26",
       "source": "AltAssets",
       "layer": 5,
@@ -67,28 +67,12 @@
       ]
     },
     {
-      "id": "a5b8d0c6f2c7",
-      "title": "Portobello Capital beats target with \u20ac710m Fund V close as Spanish manager scales flagship by 18%",
-      "summary": "Portobello Capital has closed its fifth flagship buyout fund on \u20ac710m, beating its \u20ac600m target after less than 18 months of fundraising. The Madrid-based manager said Portobello Capital Fund V was it",
-      "company": "Portobello Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/spain-western-europe-europe-by-region/portobello-capital-beats-target-with-e710m-fund-v-close-as-spanish-manager-scales-flagship-by-18.html",
-      "date": "Sep 16, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "c8dd1b633f48",
-      "title": "Goldman Sachs closes $9.6bn flagship buyout fund",
-      "summary": "Goldman Sachs Alternatives has closed its ninth flagship buyout fund on $9.6bn, almost matching its $9.7bn predecessor despite the prolonged slowdown in global private capital fundraising. The post Go",
-      "company": "Goldman Sachs",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/goldman-sachs-closes-9-6bn-flagship-buyout-fund.html",
-      "date": "Sep 16, 26",
+      "id": "bb17fb6d02c4",
+      "title": "Industrial tech specialist Artemis closes fourth fund on $254m",
+      "summary": "Industrial technology-focused private equity firm Artemis Capital Partners has closed its fourth fund on $254m as the Boston-based manager targets businesses exposed to growing aerospace, defence, lif",
+      "company": "Industrial tech specialist Artemis",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/industrial-tech-specialist-artemis-closes-fourth-fund-on-254m.html",
+      "date": "Sep 17, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -114,18 +98,18 @@
       ]
     },
     {
-      "id": "71092027d4fd",
-      "title": "Evanescence review \u2013 devastating power and range from one of rock\u2019s great vocal talents",
-      "summary": "First Direct Arena, LeedsThe titanic choruses and stormy metal riffs of latest album Sanctuary are the perfect foundation for Amy Lee\u2019s astonishing, skyscraping vocal range To watch Evanescence in con",
-      "company": "Evanescence",
-      "link": "https://www.theguardian.com/music/2026/sep/09/evanescence-review-first-direct-arena-leeds",
-      "date": "Sep 09, 26",
-      "source": "Guardian Music",
+      "id": "3d91cdb2b902",
+      "title": "Orville Peck on His New Album \u2018Mule,\u2019 Battling Addiction and Making Out With a Pro Football Player",
+      "summary": "Orville Peck has a ritual he does before every concert. He hugs and tells each member of his band, \u201cI love you.\u201d And that\u2019s what the country music star did at Madison Square Garden on June 20, 2023, a",
+      "company": "Orville Peck",
+      "link": "https://variety.com/2026/music/columns/orville-peck-new-album-mule-addiction-making-out-pro-football-player-1236865568/",
+      "date": "Sep 17, 26",
+      "source": "Variety Music",
       "layer": 1,
       "access": "pe",
-      "score": 19,
+      "score": 17,
       "moments": [
-        "company_launch"
+        "album_announcement"
       ]
     },
     {
@@ -159,6 +143,51 @@
       ]
     },
     {
+      "id": "a594ff9d0c16",
+      "title": "Karol G Wows MetLife Stadium With Explosive Viajando Por El Mundo Tropitour",
+      "summary": "The Colombian superstar\u2019s first of two sold-out nights at the New Jersey stadium featured surprise appearances from Tainy, Judeline, and Rusowsky",
+      "company": "Karol",
+      "link": "https://www.rollingstone.com/music/music-latin/karol-g-viajando-por-el-mundo-tropitour-metlife-review-1235628699/",
+      "date": "Sep 18, 26",
+      "source": "Rolling Stone Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "surprise_appearance"
+      ]
+    },
+    {
+      "id": "51dbc53b3b8a",
+      "title": "Miley Cyrus and Fianc\u00e9 Maxx Morando Find Bliss at the Chateau Marmont in \u2018Let\u2019s Get Married\u2019 Video",
+      "summary": "The Grammy winning artist released the video a day before her new album, Bass Persuades, arrives",
+      "company": "Miley Cyrus",
+      "link": "https://www.rollingstone.com/music/music-news/miley-cyrus-maxx-morando-lets-get-married-video-1235628660/",
+      "date": "Sep 18, 26",
+      "source": "Rolling Stone Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "7f033b81c9e4",
+      "title": "Spotify Launches Fresh Finds Forward to Support 10,000 New Independent Artists",
+      "summary": "Participating artists will receive 12 months of free studio time, early access to select Spotify features, prioritized access to tour or music video partnerships, and more",
+      "company": "Spotify Launches Fresh Finds Forward",
+      "link": "https://www.rollingstone.com/music/music-news/spotify-launches-fresh-finds-forward-independent-artists-1235628656/",
+      "date": "Sep 18, 26",
+      "source": "Rolling Stone Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "streaming_milestone"
+      ]
+    },
+    {
       "id": "03e96e026e05",
       "title": "Rosanne Cash pauses tour, postpones performances under doctor's orders after emergency",
       "summary": "Singer-songwriter Rosanne Cash has postponed upcoming concert dates in Wyoming and Montana following a medical emergency under doctor's orders.",
@@ -189,21 +218,6 @@
       ]
     },
     {
-      "id": "26d523597e8a",
-      "title": "Private Equity Giant Apollo Taking \u2018Hard Look\u2019 at NFL Investment",
-      "summary": "Nicole Pereira Photography/Front Office Sports",
-      "company": "Private Equity Giant Apollo Taking \u2018Hard",
-      "link": "https://frontofficesports.com/article/nfl-private-equity-nfl-apollo/",
-      "date": "Sep 15, 26",
-      "source": "Front Office Sports",
-      "layer": 1,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
       "id": "b087440aab22",
       "title": "Stagecoach 2027: Garth Brooks, Zach Top and Riley Green will headline",
       "summary": "Other acts on the bill for the annual music festival in Indio, Calif., include Willie Nelson, Kelly Clarkson, Stella Lefty, Shaboozey and David Lee Roth.",
@@ -216,21 +230,6 @@
       "score": 12,
       "moments": [
         "festival_headliner"
-      ]
-    },
-    {
-      "id": "9cf11d283302",
-      "title": "They're your favorite rapper's favorite label. Thirty years in, Stones Throw still fights for L.A.",
-      "summary": "Chris Manak, who founded the label Stones Throw, influenced Ye and Tyler, the Creator and owns Highland Park's popular Gold Line Bar, looks back on 30 years of the tumultuous world of indie hip-hop: '",
-      "company": "They're",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-09-14/chris-manak-on-30th-anniversary-of-stones-throw-label-highland-park-festival",
-      "date": "Sep 14, 26",
-      "source": "LA Times Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "company_launch"
       ]
     },
     {
@@ -249,18 +248,33 @@
       ]
     },
     {
-      "id": "fa87451333fc",
-      "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
-      "summary": "Collaborative Fund just bought into D.C. United and its stadium, with firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.",
-      "company": "Thrive Capital",
-      "link": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
-      "date": "Sep 10, 26",
-      "source": "TechCrunch Venture",
-      "layer": 2,
-      "access": "venture",
+      "id": "b942068e2a93",
+      "title": "Hamilton Lane hires UBS global PE co-head to lead European primary GP relationships",
+      "summary": "Hamilton Lane has hired UBS Unified Global Alternatives co-head of private equity Diana Celotto as managing director to lead its primary GP relationships across Europe, adding a senior fund selector t",
+      "company": "Hamilton Lane",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/hamilton-lane-hires-ubs-global-pe-co-head-to-lead-european-primary-gp-relationships.html",
+      "date": "Sep 18, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
       "score": 12,
       "moments": [
-        "company_launch"
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "14bd01f446a0",
+      "title": "Siguler Guff raises record $3bn for small buyouts",
+      "summary": "Siguler Guff has raised more than $3bn for its US small-buyout strategy, marking the largest fundraising in the strategy\u2019s history as the private markets manager pulls in almost $700m through separate",
+      "company": "Siguler Guff",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/siguler-guff-raises-record-3bn-for-small-buyouts-as-fundraising-stretches-beyond-commingled-funds.html",
+      "date": "Sep 18, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "pe_investment"
       ]
     },
     {
@@ -294,14 +308,44 @@
       ]
     },
     {
-      "id": "13b62f980a04",
-      "title": "Arlington-backed Everest Clinical Research acquires Firma\u2019s data services unit",
-      "summary": "Firma Clinical Research's Biometrics and Data Services unit has supported more than 1,000 clinical studies and over 60 New Drug Application submissions across therapeutic areas including oncology, neu",
-      "company": "Arlington-backed Everest Clinical Research",
-      "link": "https://www.pehub.com/arlington-backed-everest-clinical-research-acquires-firmas-data-services-unit/",
+      "id": "5d51c6f8948b",
+      "title": "Watch Hayley Williams bring out Rico Nasty for B.o.B cover \u2018Airplanes\u2019 at Forest Hills Stadium",
+      "summary": "The collab marked the first time Williams had performed the 2010 song in 16 years The post Watch Hayley Williams bring out Rico Nasty for B.o.B cover &#8216;Airplanes&#8217; at Forest Hills Stadium ap",
+      "company": "Watch Hayley Williams",
+      "link": "https://www.nme.com/news/music/hayley-williams-brings-out-rico-nasty-for-b-o-b-airplanes-new-york-performance-watch-3969500?utm_source=rss&utm_medium=rss&utm_campaign=hayley-williams-brings-out-rico-nasty-for-b-o-b-airplanes-new-york-performance-watch",
+      "date": "Sep 18, 26",
+      "source": "NME",
+      "layer": 2,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "surprise_appearance"
+      ]
+    },
+    {
+      "id": "de55469a3a35",
+      "title": "Josh Allen shines again as Bills celebrate new home with slugfest victory over Lions",
+      "summary": "Detroit Lions 31-41 Buffalo BillsBills QB throws three TDs and rushes for twoJared Goff excellent in defeat for LionsJosh Allen quickly put his stamp on the Buffalo Bills\u2019 new stadium, which has been ",
+      "company": "Josh Allen",
+      "link": "https://www.theguardian.com/sport/2026/sep/17/buffalo-bills-detroit-lions-nfl-thursday-night-football",
+      "date": "Sep 18, 26",
+      "source": "Guardian Sport",
+      "layer": 2,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "venue_announcement"
+      ]
+    },
+    {
+      "id": "70660ba71492",
+      "title": "NewSpring Capital leads financing for cell therapy CDMO merger Kincellis",
+      "summary": "Kincellis Advanced Therapies is a US-based contract development and manufacturing organization for cell and advanced-therapy modalities, operating roughly 140,000 square feet of GMP manufacturing spac",
+      "company": "NewSpring Capital",
+      "link": "https://www.pehub.com/newspring-capital-leads-financing-for-cell-therapy-cdmo-merger-kincellis/",
       "date": "Sep 17, 26",
       "source": "PE Hub",
-      "layer": 5,
+      "layer": 2,
       "access": "pe",
       "score": 11,
       "moments": [
@@ -324,16 +368,16 @@
       ]
     },
     {
-      "id": "1eae41e58ed6",
-      "title": "Tallvine Partners\u2019 marine platform acquires Crosby\u2019s Gulf Coast assets",
-      "summary": "Crosby is a nearly 50-year-old provider of marine infrastructure services across the US Gulf Coast and inland waterways, operating a fleet of more than 150 tugboats, dredges and support vessels from L",
-      "company": "Tallvine Partners\u2019",
-      "link": "https://www.pehub.com/tallvine-partners-marine-platform-acquires-crosbys-gulf-coast-assets/",
+      "id": "d75271879bfd",
+      "title": "Kennedy Center Closure Prompts Legal Fight Over Trump-Backed Renovation",
+      "summary": "The federal judge denied a Democratic lawmaker\u2019s request for an emergency hearing on the closure, which began on Tuesday.",
+      "company": "Kennedy Center Closure Prompts Legal Fight",
+      "link": "https://www.nytimes.com/2026/09/17/arts/music/kennedy-center-closure-emergency-hearing.html",
       "date": "Sep 17, 26",
-      "source": "PE Hub",
-      "layer": 5,
+      "source": "NYT Arts",
+      "layer": 2,
       "access": "pe",
-      "score": 9,
+      "score": 6,
       "moments": [
         "acquisition"
       ]
@@ -352,58 +396,6 @@
       "moments": []
     },
     {
-      "id": "bb669c8d3fb4",
-      "title": "Macklemore pledges his $1m Ed Sheeran tour salary to Palestine aid",
-      "summary": "Rapper challenged billionaire stadium owner Robert Kraft to match donation, with Kraft saying he and Sheeran will give $2m to \u2018aid in the region\u2019Macklemore has announced he will donate the $1m salary ",
-      "company": "Macklemore",
-      "link": "https://www.theguardian.com/music/2026/sep/16/macklemore-ed-sheeran-tour-salary-palestine",
-      "date": "Sep 16, 26",
-      "source": "Guardian Music",
-      "layer": 2,
-      "access": "pe",
-      "score": 11,
-      "moments": []
-    },
-    {
-      "id": "780bd173d334",
-      "title": "Zach Leonsis Promoted as Wizards, Capitals Near $750M in Revenue",
-      "summary": "Zach Leonsis has been promoted at Monumental Sports &#38; Entertainment, a move that pushes him closer to taking the reins of the sports empire currently run by his father, Ted. As part of a series of",
-      "company": "Zach Leonsis Promoted",
-      "link": "https://www.sportico.com/personalities/executives/2026/zach-leonsis-promoted-wizards-capitals-mystics-monumental-1234945056/",
-      "date": "Sep 15, 26",
-      "source": "Sportico",
-      "layer": 2,
-      "access": "pe",
-      "score": 10,
-      "moments": []
-    },
-    {
-      "id": "e9a42a889755",
-      "title": "Kennedy Center Closes Its Doors Despite a Judge\u2019s Order",
-      "summary": "The announcement came after President Trump said he would cancel a $257 million renovation of the venue if his name is not returned to the building.",
-      "company": "Kennedy Center Closes Its Doors Despite",
-      "link": "https://www.nytimes.com/2026/09/15/arts/music/kennedy-center-trump-name-inscription-judge-ruling.html",
-      "date": "Sep 15, 26",
-      "source": "NYT Music",
-      "layer": 2,
-      "access": "pe",
-      "score": 10,
-      "moments": []
-    },
-    {
-      "id": "af212c7e3f0c",
-      "title": "NFL\u2019s Down Under Opener Confirms Streamers Are Still Lagging TV",
-      "summary": "The NFL\u2019s field trip to Australia may have bumped NBC\u2019s annual Kickoff Game to Hump Day, but despite the somewhat unfamiliar launch date, the legacy rights-holder easily topped Netflix\u2019s Thursday nigh",
-      "company": "NFL\u2019s Down Under Opener Confirms Streamers",
-      "link": "https://www.sportico.com/business/media/2026/nfl-ratings-netflix-streamers-lagging-tv-1234944961/",
-      "date": "Sep 15, 26",
-      "source": "Sportico",
-      "layer": 3,
-      "access": "pe",
-      "score": 9,
-      "moments": []
-    },
-    {
       "id": "04cf6011ee7e",
       "title": "Manchester City Expands SeatGeek Ticketing Deal Into Global Partnership",
       "summary": "Manchester City and SeatGeek are expanding their eight-year ticketing relationship into a broader global partnership, keeping SeatGeek\u2019s technology behind the... The post Manchester City Expands SeatG",
@@ -414,6 +406,19 @@
       "layer": 3,
       "access": "pe",
       "score": 9,
+      "moments": []
+    },
+    {
+      "id": "e83a86e574a9",
+      "title": "Blanche warned of contempt risk in Epstein files case",
+      "summary": "A federal judge warned Attorney General Todd Blanche Wednesday that he could face contempt proceedings if the Department of Justice fails to comply with an order involving the release or review of Eps",
+      "company": "Blanche",
+      "link": "https://www.axios.com/2026/09/17/epstein-files-doj-contempt-judge-blanche",
+      "date": "Sep 18, 26",
+      "source": "Axios",
+      "layer": 3,
+      "access": "pe",
+      "score": 8,
       "moments": []
     },
     {
@@ -430,6 +435,19 @@
       "moments": []
     },
     {
+      "id": "b054cf313b71",
+      "title": "Brian Windhorst Discusses Global Podcast Tour, LeBron\u2019s Fanatics Deal",
+      "summary": "Allen Kee/ESPN Images",
+      "company": "",
+      "link": "https://frontofficesports.com/article/brian-windhorst-global-podcast-tour-lebron-fanatics/",
+      "date": "Sep 17, 26",
+      "source": "Front Office Sports",
+      "layer": 3,
+      "access": "pe",
+      "score": 7,
+      "moments": []
+    },
+    {
       "id": "160324a53d1c",
       "title": "Hans Zimmer Announces 2027 North American \u2018The Next Level\u2019 Tour",
       "summary": "Hans Zimmer will bring his \u201cHans Zimmer Live \u2014 The Next Level\u201d production to North America in 2027 for a... The post Hans Zimmer Announces 2027 North American \u2018The Next Level\u2019 Tour appeared first on T",
@@ -443,39 +461,26 @@
       "moments": []
     },
     {
-      "id": "7708829ce8e2",
-      "title": "House Committee Advances Amended MAIN Event Ticketing Bill; Advocates Warn Against Turning Ticketmaster Rules Into Federal Law",
-      "summary": "The MAIN Event Ticketing Act is headed toward possible consideration by the full House after clearing the House Energy and... The post House Committee Advances Amended MAIN Event Ticketing Bill; Advoc",
-      "company": "House Committee Advances Amended MAIN Event",
-      "link": "https://www.ticketnews.com/2026/09/main-event-ticketing-act-house-committee-bots-act/",
-      "date": "Sep 16, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 6,
-      "moments": []
-    },
-    {
-      "id": "9bcc9c5ce7bc",
-      "title": "Ed Sheeran thinking out loud: Decision to boot Macklemore from tour over Gaza remarks 'not mine'",
-      "summary": "Ed Sheeran speaks out about his tour promoter's decision to drop Macklemore from the remaining dates of his Loop tour.",
-      "company": "Ed Sheeran thinking out loud",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-09-15/ed-sheeran-macklemore-tour-decision-not-mine-gaza",
-      "date": "Sep 15, 26",
-      "source": "LA Times Music",
+      "id": "845f6b2ccde1",
+      "title": "Rei Ami on Her New Pop Girl Era, and How Feeling Confident Inspired Her New Single \u20182 Loud\u2019: \u2018It\u2019s a Clapback\u2019 (EXCLUSIVE)",
+      "summary": "Rei Ami is loving life, and she&#8217;s also learned to love herself. But it wasn&#8217;t an easy journey getting to this stage. Before breaking out as one-third of Huntr/x in Netflix&#8217;s smash &#",
+      "company": "Rei Ami",
+      "link": "https://variety.com/2026/music/news/rei-ami-new-single-2-loud-1236852061/",
+      "date": "Sep 17, 26",
+      "source": "Variety Music",
       "layer": 3,
       "access": "pe",
       "score": 5,
       "moments": []
     },
     {
-      "id": "d928ddcae4d8",
-      "title": "Oasis live at Knebworth 2027: Transport, camping, hospitality and accessibility plans revealed with late trains for every gig",
-      "summary": "The band will play four huge nights there 31 years after their iconic 1996 gigs The post Oasis live at Knebworth 2027: Transport, camping, hospitality and accessibility plans revealed with late trains",
-      "company": "Oasis live at Knebworth 2027",
-      "link": "https://www.nme.com/news/music/oasis-live-at-knebworth-2027-transport-camping-hospitality-and-accessibility-plans-revealed-with-late-trains-for-every-gig-3969400?utm_source=rss&utm_medium=rss&utm_campaign=oasis-live-at-knebworth-2027-transport-camping-hospitality-and-accessibility-plans-revealed-with-late-trains-for-every-gig",
-      "date": "Sep 17, 26",
-      "source": "NME",
+      "id": "b58536a4d0bb",
+      "title": "\u2018Babylon Berlin\u2019 Recreates the Nazi Era, Keeping Swastikas Out of Sight",
+      "summary": "To film Hitler\u2019s rise to power, the makers of \u201cBabylon Berlin\u201d relied on silent songs, postproduction tricks and tall barriers to stay within German law.",
+      "company": "\u2018Babylon Berlin\u2019 Recreates",
+      "link": "https://www.nytimes.com/2026/09/18/arts/television/babylon-berlin-nazi-symbols-germany.html",
+      "date": "Sep 18, 26",
+      "source": "NYT Arts",
       "layer": 4,
       "access": "pe",
       "score": 4,
