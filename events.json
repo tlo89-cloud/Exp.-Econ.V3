@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-18T16:08:03.082234+00:00",
-  "total": 34,
+  "generated": "2026-09-19T15:40:25.135254+00:00",
+  "total": 37,
   "scraped": [
     {
       "id": "22ec92c66059",
@@ -98,18 +98,18 @@
       ]
     },
     {
-      "id": "3d91cdb2b902",
-      "title": "Orville Peck on His New Album \u2018Mule,\u2019 Battling Addiction and Making Out With a Pro Football Player",
-      "summary": "Orville Peck has a ritual he does before every concert. He hugs and tells each member of his band, \u201cI love you.\u201d And that\u2019s what the country music star did at Madison Square Garden on June 20, 2023, a",
-      "company": "Orville Peck",
-      "link": "https://variety.com/2026/music/columns/orville-peck-new-album-mule-addiction-making-out-pro-football-player-1236865568/",
-      "date": "Sep 17, 26",
-      "source": "Variety Music",
-      "layer": 1,
+      "id": "309d27c74562",
+      "title": "Sportico Transactions: Moves and Mergers Roundup for Sept. 18",
+      "summary": "Welcome to Sportico\u2019s transactions wire, a weekly rundown of personnel, partnerships and products across the sports business industry. PERSONNEL \u00cd\u00f1igo Aznar Named CRO of Inter Miami CF and Nu Stadium ",
+      "company": "Sportico Transactions",
+      "link": "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-roundup-sept-18-2026-1234945267/",
+      "date": "Sep 18, 26",
+      "source": "Sportico",
+      "layer": 2,
       "access": "pe",
-      "score": 17,
+      "score": 23,
       "moments": [
-        "album_announcement"
+        "acquisition"
       ]
     },
     {
@@ -143,28 +143,13 @@
       ]
     },
     {
-      "id": "a594ff9d0c16",
-      "title": "Karol G Wows MetLife Stadium With Explosive Viajando Por El Mundo Tropitour",
-      "summary": "The Colombian superstar\u2019s first of two sold-out nights at the New Jersey stadium featured surprise appearances from Tainy, Judeline, and Rusowsky",
-      "company": "Karol",
-      "link": "https://www.rollingstone.com/music/music-latin/karol-g-viajando-por-el-mundo-tropitour-metlife-review-1235628699/",
-      "date": "Sep 18, 26",
-      "source": "Rolling Stone Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "surprise_appearance"
-      ]
-    },
-    {
       "id": "51dbc53b3b8a",
       "title": "Miley Cyrus and Fianc\u00e9 Maxx Morando Find Bliss at the Chateau Marmont in \u2018Let\u2019s Get Married\u2019 Video",
       "summary": "The Grammy winning artist released the video a day before her new album, Bass Persuades, arrives",
       "company": "Miley Cyrus",
       "link": "https://www.rollingstone.com/music/music-news/miley-cyrus-maxx-morando-lets-get-married-video-1235628660/",
       "date": "Sep 18, 26",
-      "source": "Rolling Stone Music",
+      "source": "Rolling Stone News",
       "layer": 1,
       "access": "pe",
       "score": 14,
@@ -179,7 +164,7 @@
       "company": "Spotify Launches Fresh Finds Forward",
       "link": "https://www.rollingstone.com/music/music-news/spotify-launches-fresh-finds-forward-independent-artists-1235628656/",
       "date": "Sep 18, 26",
-      "source": "Rolling Stone Music",
+      "source": "Rolling Stone News",
       "layer": 1,
       "access": "pe",
       "score": 14,
@@ -218,6 +203,21 @@
       ]
     },
     {
+      "id": "5f851a44c8fc",
+      "title": "Ian Munsick Finds His American West Avatar on New Album \u2018The Mountain Goat\u2019",
+      "summary": "The country singer goes all in on going west with his first indie-released LP and a new bar not in Nashville but Deadwood, South Dakota",
+      "company": "Ian Munsick Finds His American West",
+      "link": "https://www.rollingstone.com/music/music-features/ian-munsick-interview-the-mountain-goat-1235628944/",
+      "date": "Sep 19, 26",
+      "source": "Rolling Stone Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
       "id": "b087440aab22",
       "title": "Stagecoach 2027: Garth Brooks, Zach Top and Riley Green will headline",
       "summary": "Other acts on the bill for the annual music festival in Indio, Calif., include Willie Nelson, Kelly Clarkson, Stella Lefty, Shaboozey and David Lee Roth.",
@@ -230,6 +230,21 @@
       "score": 12,
       "moments": [
         "festival_headliner"
+      ]
+    },
+    {
+      "id": "9cf11d283302",
+      "title": "They're your favorite rapper's favorite label. Thirty years in, Stones Throw still fights for L.A.",
+      "summary": "Chris Manak, who founded the label Stones Throw, influenced Ye and Tyler, the Creator and owns Highland Park's popular Gold Line Bar, looks back on 30 years of the tumultuous world of indie hip-hop: '",
+      "company": "They're",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-09-14/chris-manak-on-30th-anniversary-of-stones-throw-label-highland-park-festival",
+      "date": "Sep 14, 26",
+      "source": "LA Times Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "company_launch"
       ]
     },
     {
@@ -293,33 +308,18 @@
       ]
     },
     {
-      "id": "43a5134c9988",
-      "title": "James Cameron\u2019s Lightstorm Scoops Up AI-Powered 3D Tech Company Outsyders",
-      "summary": "James Cameron has long loved 3D. Now he\u2019s added an AI-powered 3D tech company to his collection. Cameron\u2019s Lightstorm Vision has purchased Outsyders, a technology company focused on boosting the 3D pr",
-      "company": "",
-      "link": "https://variety.com/2026/biz/news/james-camerons-lightstorm-ai-powered-3d-company-outsyders-1236864094/",
-      "date": "Sep 16, 26",
-      "source": "Variety Biz",
-      "layer": 4,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "5d51c6f8948b",
-      "title": "Watch Hayley Williams bring out Rico Nasty for B.o.B cover \u2018Airplanes\u2019 at Forest Hills Stadium",
-      "summary": "The collab marked the first time Williams had performed the 2010 song in 16 years The post Watch Hayley Williams bring out Rico Nasty for B.o.B cover &#8216;Airplanes&#8217; at Forest Hills Stadium ap",
-      "company": "Watch Hayley Williams",
-      "link": "https://www.nme.com/news/music/hayley-williams-brings-out-rico-nasty-for-b-o-b-airplanes-new-york-performance-watch-3969500?utm_source=rss&utm_medium=rss&utm_campaign=hayley-williams-brings-out-rico-nasty-for-b-o-b-airplanes-new-york-performance-watch",
-      "date": "Sep 18, 26",
-      "source": "NME",
+      "id": "70764d65c1d0",
+      "title": "Club Sportico: This May Be Private Equity\u2019s College Sports Play",
+      "summary": "For the past half decade, private equity firms of all sorts have sought new ways into college sports amid mounting opposition from many fans and trustees. A new $285 million development on the banks o",
+      "company": "Club Sportico",
+      "link": "https://www.sportico.com/leagues/college-sports/2026/tennessee-neyland-stadium-project-arctos-private-equity-1234945330/",
+      "date": "Sep 19, 26",
+      "source": "Sportico",
       "layer": 2,
       "access": "pe",
       "score": 11,
       "moments": [
-        "surprise_appearance"
+        "pe_investment"
       ]
     },
     {
@@ -374,39 +374,13 @@
       "company": "Kennedy Center Closure Prompts Legal Fight",
       "link": "https://www.nytimes.com/2026/09/17/arts/music/kennedy-center-closure-emergency-hearing.html",
       "date": "Sep 17, 26",
-      "source": "NYT Arts",
+      "source": "NYT Music",
       "layer": 2,
       "access": "pe",
       "score": 6,
       "moments": [
         "acquisition"
       ]
-    },
-    {
-      "id": "011dd8fd3784",
-      "title": "Bills\u2019 Highmark Stadium Debut Begins Boom in New NFL Venues",
-      "summary": "USA TODAY Network via Reuters Connect",
-      "company": "Bills\u2019 Highmark Stadium Debut Begins Boom",
-      "link": "https://frontofficesports.com/article/bills-highmark-stadium-debut-begins-boom-in-new-nfl-venues/",
-      "date": "Sep 17, 26",
-      "source": "Front Office Sports",
-      "layer": 2,
-      "access": "pe",
-      "score": 12,
-      "moments": []
-    },
-    {
-      "id": "04cf6011ee7e",
-      "title": "Manchester City Expands SeatGeek Ticketing Deal Into Global Partnership",
-      "summary": "Manchester City and SeatGeek are expanding their eight-year ticketing relationship into a broader global partnership, keeping SeatGeek\u2019s technology behind the... The post Manchester City Expands SeatG",
-      "company": "",
-      "link": "https://www.ticketnews.com/2026/09/manchester-city-seatgeek-ticketing-partnership/",
-      "date": "Sep 17, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 9,
-      "moments": []
     },
     {
       "id": "e83a86e574a9",
@@ -435,6 +409,19 @@
       "moments": []
     },
     {
+      "id": "629419dd4074",
+      "title": "Kalshi Asks Tribes to Embrace Prediction Markets After First Deal",
+      "summary": "The \u201cbrutal, bloody\u201d war Kalshi CEO Tarek Mansour declared last year against \u201c100 tribes\u201d and other critics of his company does not include the Tunica-Biloxi Tribe of Louisiana, which on Friday teamed",
+      "company": "Kalshi Asks Tribes",
+      "link": "https://www.sportico.com/business/sports-betting/2026/kalshi-tunica-biloxi-tribe-louisiana-tarek-mansour-1234945341/",
+      "date": "Sep 18, 26",
+      "source": "Sportico",
+      "layer": 4,
+      "access": "pe",
+      "score": 7,
+      "moments": []
+    },
+    {
       "id": "b054cf313b71",
       "title": "Brian Windhorst Discusses Global Podcast Tour, LeBron\u2019s Fanatics Deal",
       "summary": "Allen Kee/ESPN Images",
@@ -448,29 +435,81 @@
       "moments": []
     },
     {
-      "id": "160324a53d1c",
-      "title": "Hans Zimmer Announces 2027 North American \u2018The Next Level\u2019 Tour",
-      "summary": "Hans Zimmer will bring his \u201cHans Zimmer Live \u2014 The Next Level\u201d production to North America in 2027 for a... The post Hans Zimmer Announces 2027 North American \u2018The Next Level\u2019 Tour appeared first on T",
-      "company": "Hans Zimmer Announces",
-      "link": "https://www.ticketnews.com/2026/09/hans-zimmer-announces-2027-north-american-the-next-level-tour/",
-      "date": "Sep 17, 26",
-      "source": "Ticket News",
-      "layer": 4,
+      "id": "c3b572cbeefa",
+      "title": "Paramount and California AG Bonta Reportedly in \u2018Advanced Talks\u2019 to Settle Antitrust Suit",
+      "summary": "David Ellison&#8217;s Paramount Skydance is in &#8220;advanced talks&#8221; with California Attorney General Rob Bonta to settle the 12-state antitrust suit that&#8217;s holding up its takeover of War",
+      "company": "Paramount",
+      "link": "https://variety.com/2026/film/news/paramount-california-ag-bonta-advanced-talks-settle-antitrust-suit-1236867326/",
+      "date": "Sep 18, 26",
+      "source": "Variety Biz",
+      "layer": 3,
       "access": "pe",
       "score": 7,
       "moments": []
     },
     {
-      "id": "845f6b2ccde1",
-      "title": "Rei Ami on Her New Pop Girl Era, and How Feeling Confident Inspired Her New Single \u20182 Loud\u2019: \u2018It\u2019s a Clapback\u2019 (EXCLUSIVE)",
-      "summary": "Rei Ami is loving life, and she&#8217;s also learned to love herself. But it wasn&#8217;t an easy journey getting to this stage. Before breaking out as one-third of Huntr/x in Netflix&#8217;s smash &#",
-      "company": "Rei Ami",
-      "link": "https://variety.com/2026/music/news/rei-ami-new-single-2-loud-1236852061/",
-      "date": "Sep 17, 26",
-      "source": "Variety Music",
+      "id": "dedbe6a2b294",
+      "title": "St. Pete Country Fest Adds StubHub as Official Resale Marketplace",
+      "summary": "StubHub has been named the Official Ticket Resale Partner of St. Pete Country Fest, giving fans an official secondary marketplace... The post St. Pete Country Fest Adds StubHub as Official Resale Mark",
+      "company": "St Pete Country Fest Adds StubHub",
+      "link": "https://www.ticketnews.com/2026/09/st-pete-country-fest-adds-stubhub-as-official-resale-marketplace/",
+      "date": "Sep 18, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 6,
+      "moments": []
+    },
+    {
+      "id": "16830f29d2a8",
+      "title": "NewC Moves to Match Ticketmaster Offer as S\u00e3o Paulo Ticketing Fight Escalates",
+      "summary": "S\u00e3o Paulo FC\u2019s contested plan to hand ticketing operations at MorumBIS to Ticketmaster has gained another wrinkle, with rival bidder... The post NewC Moves to Match Ticketmaster Offer as S\u00e3o Paulo Tic",
+      "company": "NewC Moves",
+      "link": "https://www.ticketnews.com/2026/09/newc-match-ticketmaster-sao-paulo-ticketing-offer/",
+      "date": "Sep 18, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 6,
+      "moments": []
+    },
+    {
+      "id": "176066eb700b",
+      "title": "Oceanfront Film Finance and Allegro Finance Launch $100 Million Production Financing Partnership",
+      "summary": "Oceanfront Film Finance has partnered with Allegro Finance to increase financing opportunities for film and television productions, launching with an initial $100 million fund for eligible projects. T",
+      "company": "Oceanfront Film Finance",
+      "link": "https://variety.com/2026/biz/news/oceanfront-film-finance-allegro-finance-partnership-1236867363/",
+      "date": "Sep 18, 26",
+      "source": "Variety Biz",
+      "layer": 4,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "96ff2a5b763c",
+      "title": "DOJ won't enforce handgun ban for 18- to 20-year-olds",
+      "summary": "The Justice Department said Friday it will not criminally enforce a 1968 federal law barring licensed gun dealers from selling handguns to 18- to 20-year-olds, after its Office of Legal Counsel conclu",
+      "company": "DOJ",
+      "link": "https://www.axios.com/2026/09/18/trump-doj-handgun-sales-ban-under-21",
+      "date": "Sep 18, 26",
+      "source": "Axios",
       "layer": 3,
       "access": "pe",
       "score": 5,
+      "moments": []
+    },
+    {
+      "id": "6e921a2a7cb4",
+      "title": "Learfield CEO on $40M Football Rosters, Jersey Patch Boom and Changes in NCAA Landscape",
+      "summary": "Learfield CEO Cole Gahagan on NIL spending, jersey patches and college sports money.",
+      "company": "Learfield CEO",
+      "link": "https://frontofficesports.com/videos/learfield-ceo-on-40m-football-rosters-jersey-patch-boom-and-changes-in-ncaa-landscape/",
+      "date": "Sep 18, 26",
+      "source": "Front Office Sports",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
       "moments": []
     },
     {
