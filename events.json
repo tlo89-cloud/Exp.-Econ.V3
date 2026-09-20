@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-19T15:40:25.135254+00:00",
-  "total": 37,
+  "generated": "2026-09-20T15:45:51.545362+00:00",
+  "total": 38,
   "scraped": [
     {
       "id": "22ec92c66059",
@@ -143,33 +143,18 @@
       ]
     },
     {
-      "id": "51dbc53b3b8a",
-      "title": "Miley Cyrus and Fianc\u00e9 Maxx Morando Find Bliss at the Chateau Marmont in \u2018Let\u2019s Get Married\u2019 Video",
-      "summary": "The Grammy winning artist released the video a day before her new album, Bass Persuades, arrives",
-      "company": "Miley Cyrus",
-      "link": "https://www.rollingstone.com/music/music-news/miley-cyrus-maxx-morando-lets-get-married-video-1235628660/",
-      "date": "Sep 18, 26",
-      "source": "Rolling Stone News",
+      "id": "d12273fbfc29",
+      "title": "Orville Peck Dedicates Performance to \u2018All the Gay Cowboys\u2019: \u2018We Exist, We Walk Among You\u2019",
+      "summary": "Orville Peck made his headlining debut at the Hollywood Bowl on Friday night. But it wasn&#8217;t the first time the country singer performed at the legendary amphitheater. He performed at the outdoor",
+      "company": "Orville Peck Dedicates Performance",
+      "link": "https://variety.com/2026/music/columns/orville-peck-dedicates-willie-nelson-duet-gay-cowboys-hollywood-bowl-1236869602/",
+      "date": "Sep 19, 26",
+      "source": "Variety Music",
       "layer": 1,
       "access": "pe",
       "score": 14,
       "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "7f033b81c9e4",
-      "title": "Spotify Launches Fresh Finds Forward to Support 10,000 New Independent Artists",
-      "summary": "Participating artists will receive 12 months of free studio time, early access to select Spotify features, prioritized access to tour or music video partnerships, and more",
-      "company": "Spotify Launches Fresh Finds Forward",
-      "link": "https://www.rollingstone.com/music/music-news/spotify-launches-fresh-finds-forward-independent-artists-1235628656/",
-      "date": "Sep 18, 26",
-      "source": "Rolling Stone News",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "streaming_milestone"
+        "festival_headliner"
       ]
     },
     {
@@ -248,6 +233,21 @@
       ]
     },
     {
+      "id": "4c298ecdc833",
+      "title": "Ocean Way, the Santa Monica beach festival, canceled due to impact of offshore hurricane",
+      "summary": "Ocean Way, the beachfront Santa Monica music festival, has been canceled just two weeks before debuting. It was slated to have headline sets by the Killers and Olivia Dean.",
+      "company": "Ocean Way",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-09-11/ocean-way-canceled-santa-monica-festival-killers-olivia-dean",
+      "date": "Sep 11, 26",
+      "source": "LA Times Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
       "id": "1bde050f123c",
       "title": "A Hard Year For Software IPOs",
       "summary": "U.S. venture-backed technology companies have secured around $90 billion in domestic public offerings this year, per Crunchbase data. That\u2019s already the second-highest annual tally on record, and we\u2019v",
@@ -323,21 +323,6 @@
       ]
     },
     {
-      "id": "de55469a3a35",
-      "title": "Josh Allen shines again as Bills celebrate new home with slugfest victory over Lions",
-      "summary": "Detroit Lions 31-41 Buffalo BillsBills QB throws three TDs and rushes for twoJared Goff excellent in defeat for LionsJosh Allen quickly put his stamp on the Buffalo Bills\u2019 new stadium, which has been ",
-      "company": "Josh Allen",
-      "link": "https://www.theguardian.com/sport/2026/sep/17/buffalo-bills-detroit-lions-nfl-thursday-night-football",
-      "date": "Sep 18, 26",
-      "source": "Guardian Sport",
-      "layer": 2,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "venue_announcement"
-      ]
-    },
-    {
       "id": "70660ba71492",
       "title": "NewSpring Capital leads financing for cell therapy CDMO merger Kincellis",
       "summary": "Kincellis Advanced Therapies is a US-based contract development and manufacturing organization for cell and advanced-therapy modalities, operating roughly 140,000 square feet of GMP manufacturing spac",
@@ -381,6 +366,19 @@
       "moments": [
         "acquisition"
       ]
+    },
+    {
+      "id": "011dd8fd3784",
+      "title": "Bills\u2019 Highmark Stadium Debut Begins Boom in New NFL Venues",
+      "summary": "USA TODAY Network via Reuters Connect",
+      "company": "Bills\u2019 Highmark Stadium Debut Begins Boom",
+      "link": "https://frontofficesports.com/article/bills-highmark-stadium-debut-begins-boom-in-new-nfl-venues/",
+      "date": "Sep 17, 26",
+      "source": "Front Office Sports",
+      "layer": 2,
+      "access": "pe",
+      "score": 12,
+      "moments": []
     },
     {
       "id": "e83a86e574a9",
@@ -442,6 +440,19 @@
       "link": "https://variety.com/2026/film/news/paramount-california-ag-bonta-advanced-talks-settle-antitrust-suit-1236867326/",
       "date": "Sep 18, 26",
       "source": "Variety Biz",
+      "layer": 3,
+      "access": "pe",
+      "score": 7,
+      "moments": []
+    },
+    {
+      "id": "aeb5c4642eae",
+      "title": "Mediaplanet Launches Women vs. Cancer Campaign in the Los Angeles Times to Advance Awareness, Early Detection and Advocacy",
+      "summary": "National campaign features ESPN broadcaster and cervical cancer survivor Erin Andrews alongside leading women's cancer organizations and experts NEW YORK, Sept. 20, 2026 /PRNewswire/ -- Mediaplanet to",
+      "company": "Mediaplanet Launches Women",
+      "link": "https://www.prnewswire.com/news-releases/mediaplanet-launches-women-vs-cancer-campaign-in-the-los-angeles-times-to-advance-awareness-early-detection-and-advocacy-302882510.html",
+      "date": "Sep 20, 26",
+      "source": "PR Newswire",
       "layer": 3,
       "access": "pe",
       "score": 7,
