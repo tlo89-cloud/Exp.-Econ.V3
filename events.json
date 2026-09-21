@@ -1,7 +1,55 @@
 {
-  "generated": "2026-09-20T15:45:51.545362+00:00",
-  "total": 38,
+  "generated": "2026-09-21T18:04:14.404252+00:00",
+  "total": 37,
   "scraped": [
+    {
+      "id": "6ca3decd7d38",
+      "title": "NBA changes PE rules ahead of proposed $12.5bn Lakers acquisition",
+      "summary": "The NBA is changing its rules governing private equity investment in franchises, clearing a potential regulatory hurdle for the proposed $12.5bn acquisition of the Los Angeles Lakers by Joshua Kushner",
+      "company": "NBA",
+      "link": "https://www.privateequitywire.co.uk/nba-changes-pe-rules-ahead-of-proposed-12-5bn-lakers-acquisition/",
+      "date": "Sep 21, 26",
+      "source": "PE Wire",
+      "layer": 1,
+      "access": "pe",
+      "score": 24,
+      "moments": [
+        "acquisition",
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "967af37a05a1",
+      "title": "Changing attitude of consumers leads to increased PE interest in better-for-you foods; OceanSound-backed PAR excellence acquires Terso",
+      "summary": "Digging into how evolving consumer tendencies are driving private equity\u2019s interest in the better-for-you food and beverage subsector; OceanSound Partners-backed PAR Excellence Systems announces acqui",
+      "company": "Changing",
+      "link": "https://www.pehub.com/changing-attitude-of-consumers-leads-to-increased-pe-interest-in-better-for-you-foods-oceansound-backed-par-excellence-acquires-terso/",
+      "date": "Sep 21, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 19,
+      "moments": [
+        "acquisition",
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "9cbb4a0932fb",
+      "title": "Pulse Fund closes $63m debut climate vehicle with sovereign wealth, family office backing",
+      "summary": "Climate-focused venture investor Pulse Fund has closed its debut fund on $63m, drawing commitments from an Asian sovereign wealth fund alongside institutional investors, family offices and corporate L",
+      "company": "Pulse Fund",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/pulse-fund-closes-63m-debut-climate-vehicle-with-sovereign-wealth-family-office-backing.html",
+      "date": "Sep 21, 26",
+      "source": "AltAssets",
+      "layer": 1,
+      "access": "pe",
+      "score": 18,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
     {
       "id": "22ec92c66059",
       "title": "Portage closes $600m fintech fund slightly below predecessor as platform AUM reaches $7bn",
@@ -35,19 +83,19 @@
       ]
     },
     {
-      "id": "e1680ae52136",
-      "title": "Morgan Stanley closes oversubscribed $1.3bn debut growth equity fund, commits almost 25% of capital itself",
-      "summary": "Morgan Stanley Investment Management has closed its inaugural dedicated growth equity fund on an oversubscribed $1.3bn. The post Morgan Stanley closes oversubscribed $1.3bn debut growth equity fund, c",
-      "company": "Morgan Stanley",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/morgan-stanley-closes-oversubscribed-1-3bn-debut-growth-equity-fund-commits-almost-25-of-capital-itself.html",
-      "date": "Sep 17, 26",
-      "source": "AltAssets",
-      "layer": 5,
+      "id": "71bd7c126d52",
+      "title": "How a Swedish fishing village and a lack of advice unlocked Tove Lo's new album 'Estrus'",
+      "summary": "Before making her newest album, \"Estrus,\" Swedish singer-songwriter Tove Lo felt pressure to make it profound. But after returning to a small village in Sweden, she was instead reminded of who she is ",
+      "company": "How",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-09-21/tove-lo-talks-new-album-estrus-motherhood-giving-advice",
+      "date": "Sep 21, 26",
+      "source": "LA Times Music",
+      "layer": 1,
       "access": "pe",
-      "score": 16,
+      "score": 13,
       "moments": [
-        "pe_investment",
-        "fund_launch"
+        "album_announcement",
+        "company_launch"
       ]
     },
     {
@@ -83,18 +131,19 @@
       ]
     },
     {
-      "id": "e9c36d3008c4",
-      "title": "Knitting Factory Entertainment Acquires Minority Stake in Does Entertainment, Forming Strategic Growth Partnership to Expand National Live...",
-      "summary": "Companies Align to Accelerate Venue Development, Talent Buying, Concert Promotion and Strategic Growth Across North America Los Angeles, CA / Wilmington, NC, July 14, 2026 \u2013&#160;Knitting Factory Ente",
-      "company": "",
-      "link": "https://venuestoday.com/knitting-factory-entertainment-acquires-minority-stake-in-does-entertainment-forming-strategic-growth-partnership-to-expand-national-live-entertainment-platform/",
-      "date": "Jul 15, 26",
-      "source": "Venues Today",
-      "layer": 2,
+      "id": "95698fda8a22",
+      "title": "Investindustrial\u2019s Nexture signs deal to acquire Dubai chocolate maker La Crema",
+      "summary": "La Crema, a Dubai-based manufacturer of chocolate and other food ingredients, has grown since its 2016 founding by Bilal Khalife into a supplier for ice cream, bakery and fine pastry makers across the",
+      "company": "Investindustrial\u2019s Nexture",
+      "link": "https://www.pehub.com/investindustrials-nexture-signs-deal-to-acquire-dubai-chocolate-maker-la-crema/",
+      "date": "Sep 21, 26",
+      "source": "PE Hub",
+      "layer": 5,
       "access": "pe",
-      "score": 24,
+      "score": 10,
       "moments": [
-        "acquisition"
+        "acquisition",
+        "company_launch"
       ]
     },
     {
@@ -110,6 +159,36 @@
       "score": 23,
       "moments": [
         "acquisition"
+      ]
+    },
+    {
+      "id": "a973f7195ca3",
+      "title": "What\u2019s in the Paramount Settlement With States: Commitment to Not Sell Studio Lots, Additional $300M U.S. Film Production Investment, CNN Oversight...",
+      "summary": "The details of Paramount&#8217;s deal with 12 states settling their antitrust case &#8212; paving the way for its takeover of Warner Bros. Discovery, the biggest merger in Hollywood history &#8212; ha",
+      "company": "What\u2019s",
+      "link": "https://variety.com/2026/film/news/paramount-states-settlement-terms-warner-bros-1236871264/",
+      "date": "Sep 21, 26",
+      "source": "Variety Biz",
+      "layer": 3,
+      "access": "pe",
+      "score": 19,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "b9e8991bdb88",
+      "title": "Troye Sivan on His Bold New Album, Touring with Charli XCX and Casting Nicole Kidman",
+      "summary": "The Australian pop star had a whirlwind couple of years on the road and on TV. Now, he\u2019s back with a new album \u2014 and he\u2019s feeling more introspective than ever",
+      "company": "Troye Sivan",
+      "link": "https://www.rollingstone.com/music/music-features/troye-sivan-new-album-shes-the-best-nicole-kidman-charli-1235629189/",
+      "date": "Sep 21, 26",
+      "source": "Rolling Stone Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 17,
+      "moments": [
+        "album_announcement"
       ]
     },
     {
@@ -143,21 +222,6 @@
       ]
     },
     {
-      "id": "d12273fbfc29",
-      "title": "Orville Peck Dedicates Performance to \u2018All the Gay Cowboys\u2019: \u2018We Exist, We Walk Among You\u2019",
-      "summary": "Orville Peck made his headlining debut at the Hollywood Bowl on Friday night. But it wasn&#8217;t the first time the country singer performed at the legendary amphitheater. He performed at the outdoor",
-      "company": "Orville Peck Dedicates Performance",
-      "link": "https://variety.com/2026/music/columns/orville-peck-dedicates-willie-nelson-duet-gay-cowboys-hollywood-bowl-1236869602/",
-      "date": "Sep 19, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
       "id": "03e96e026e05",
       "title": "Rosanne Cash pauses tour, postpones performances under doctor's orders after emergency",
       "summary": "Singer-songwriter Rosanne Cash has postponed upcoming concert dates in Wyoming and Montana following a medical emergency under doctor's orders.",
@@ -173,33 +237,18 @@
       ]
     },
     {
-      "id": "77216f5277d5",
-      "title": "Beck: Ride Lonesome review \u2013 stunning end to the heartache trilogy of Sea Change and Morning Phase",
-      "summary": "(Iliad/Capitol)On his first album in seven years, Beck keeps the quality control extremely high as he surveys mid-50s malaise in the wake of divorceThe last time Beck released an album it was 2019 and",
-      "company": "Beck",
-      "link": "https://www.theguardian.com/music/2026/sep/14/beck-ride-lonesome-review-stunning-end-to-the-heartache-trilogy-of-sea-change-and-morning-phase",
-      "date": "Sep 14, 26",
-      "source": "Guardian Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "5f851a44c8fc",
-      "title": "Ian Munsick Finds His American West Avatar on New Album \u2018The Mountain Goat\u2019",
-      "summary": "The country singer goes all in on going west with his first indie-released LP and a new bar not in Nashville but Deadwood, South Dakota",
-      "company": "Ian Munsick Finds His American West",
-      "link": "https://www.rollingstone.com/music/music-features/ian-munsick-interview-the-mountain-goat-1235628944/",
-      "date": "Sep 19, 26",
-      "source": "Rolling Stone Music",
-      "layer": 1,
+      "id": "6c14907fc205",
+      "title": "Suki Waterhouse Sets Australian Loveland Tour Dates for December",
+      "summary": "The tour opens Dec. 8 at the Sydney Opera House Forecourt as part of the venue's On the Steps series.",
+      "company": "",
+      "link": "https://www.billboard.com/music/concerts/suki-waterhouse-australian-loveland-tour-1236344260/",
+      "date": "Sep 21, 26",
+      "source": "Billboard",
+      "layer": 2,
       "access": "pe",
       "score": 12,
       "moments": [
-        "album_announcement"
+        "tour_announcement"
       ]
     },
     {
@@ -233,18 +282,18 @@
       ]
     },
     {
-      "id": "4c298ecdc833",
-      "title": "Ocean Way, the Santa Monica beach festival, canceled due to impact of offshore hurricane",
-      "summary": "Ocean Way, the beachfront Santa Monica music festival, has been canceled just two weeks before debuting. It was slated to have headline sets by the Killers and Olivia Dean.",
-      "company": "Ocean Way",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-09-11/ocean-way-canceled-santa-monica-festival-killers-olivia-dean",
-      "date": "Sep 11, 26",
-      "source": "LA Times Music",
-      "layer": 1,
+      "id": "7953df7ab8e2",
+      "title": "3 reasons why private equity is backing \u2018better for you\u2019",
+      "summary": "\"The fact people want cleaner labels, functional ingredients and organic options is a long-term trend that is here to stay,\" Mathieu Sasseville of Fondaction tells PE Hub. The post 3 reasons why priva",
+      "company": "",
+      "link": "https://www.pehub.com/3-reasons-why-private-equity-is-backing-better-for-you/",
+      "date": "Sep 21, 26",
+      "source": "PE Hub",
+      "layer": 5,
       "access": "pe",
       "score": 12,
       "moments": [
-        "festival_headliner"
+        "pe_investment"
       ]
     },
     {
@@ -263,29 +312,14 @@
       ]
     },
     {
-      "id": "b942068e2a93",
-      "title": "Hamilton Lane hires UBS global PE co-head to lead European primary GP relationships",
-      "summary": "Hamilton Lane has hired UBS Unified Global Alternatives co-head of private equity Diana Celotto as managing director to lead its primary GP relationships across Europe, adding a senior fund selector t",
-      "company": "Hamilton Lane",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/hamilton-lane-hires-ubs-global-pe-co-head-to-lead-european-primary-gp-relationships.html",
-      "date": "Sep 18, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "14bd01f446a0",
-      "title": "Siguler Guff raises record $3bn for small buyouts",
-      "summary": "Siguler Guff has raised more than $3bn for its US small-buyout strategy, marking the largest fundraising in the strategy\u2019s history as the private markets manager pulls in almost $700m through separate",
-      "company": "Siguler Guff",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/siguler-guff-raises-record-3bn-for-small-buyouts-as-fundraising-stretches-beyond-commingled-funds.html",
-      "date": "Sep 18, 26",
-      "source": "AltAssets",
-      "layer": 5,
+      "id": "2be741c259ae",
+      "title": "Korea Investment Corp explores sale of more than $1bn in PE stakes",
+      "summary": "Korea Investment Corp, South Korea's sovereign wealth fund, is exploring a sale of private equity investments worth more than $1bn as institutional investors continue to turn to the secondary market t",
+      "company": "Korea Investment Corp",
+      "link": "https://www.privateequitywire.co.uk/korea-investment-corp-explores-sale-of-more-than-1bn-in-pe-stakes/",
+      "date": "Sep 21, 26",
+      "source": "PE Wire",
+      "layer": 3,
       "access": "pe",
       "score": 12,
       "moments": [
@@ -323,36 +357,6 @@
       ]
     },
     {
-      "id": "70660ba71492",
-      "title": "NewSpring Capital leads financing for cell therapy CDMO merger Kincellis",
-      "summary": "Kincellis Advanced Therapies is a US-based contract development and manufacturing organization for cell and advanced-therapy modalities, operating roughly 140,000 square feet of GMP manufacturing spac",
-      "company": "NewSpring Capital",
-      "link": "https://www.pehub.com/newspring-capital-leads-financing-for-cell-therapy-cdmo-merger-kincellis/",
-      "date": "Sep 17, 26",
-      "source": "PE Hub",
-      "layer": 2,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "ed24e331be68",
-      "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
-      "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
-      "company": "Niloufar Banisaied",
-      "link": "https://venuestoday.com/niloufar-banisaied-is-bringing-timeless-design-and-the-guest-experience-at-the-forefront/",
-      "date": "Jun 09, 26",
-      "source": "Venues Today",
-      "layer": 4,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
       "id": "d75271879bfd",
       "title": "Kennedy Center Closure Prompts Legal Fight Over Trump-Backed Renovation",
       "summary": "The federal judge denied a Democratic lawmaker\u2019s request for an emergency hearing on the closure, which began on Tuesday.",
@@ -378,6 +382,32 @@
       "layer": 2,
       "access": "pe",
       "score": 12,
+      "moments": []
+    },
+    {
+      "id": "2d42df4b9048",
+      "title": "Mutares exits automotive supplier Cimos in management buyout backed by Vero Automotive",
+      "summary": "Cimos, a producer of aluminum and iron castings and machined components for the automotive industry, employs about 1,350 people and generates revenues of approximately \u20ac120m across four countries. The",
+      "company": "Mutares",
+      "link": "https://www.pehub.com/mutares-exits-automotive-supplier-cimos-in-management-buyout-backed-by-vero-automotive/",
+      "date": "Sep 18, 26",
+      "source": "PE Hub",
+      "layer": 2,
+      "access": "pe",
+      "score": 12,
+      "moments": []
+    },
+    {
+      "id": "6b9b172cc6fc",
+      "title": "Paramount Settles Antitrust Suit, Clearing Path for $110 Billion WBD Deal",
+      "summary": "REUTERS/Brendan McDermid",
+      "company": "",
+      "link": "https://frontofficesports.com/article/paramount-settles-antitrust-suit-clearing-path-for-110-billion-wbd-deal/",
+      "date": "Sep 21, 26",
+      "source": "Front Office Sports",
+      "layer": 3,
+      "access": "pe",
+      "score": 8,
       "moments": []
     },
     {
@@ -446,37 +476,11 @@
       "moments": []
     },
     {
-      "id": "aeb5c4642eae",
-      "title": "Mediaplanet Launches Women vs. Cancer Campaign in the Los Angeles Times to Advance Awareness, Early Detection and Advocacy",
-      "summary": "National campaign features ESPN broadcaster and cervical cancer survivor Erin Andrews alongside leading women's cancer organizations and experts NEW YORK, Sept. 20, 2026 /PRNewswire/ -- Mediaplanet to",
-      "company": "Mediaplanet Launches Women",
-      "link": "https://www.prnewswire.com/news-releases/mediaplanet-launches-women-vs-cancer-campaign-in-the-los-angeles-times-to-advance-awareness-early-detection-and-advocacy-302882510.html",
-      "date": "Sep 20, 26",
-      "source": "PR Newswire",
-      "layer": 3,
-      "access": "pe",
-      "score": 7,
-      "moments": []
-    },
-    {
       "id": "dedbe6a2b294",
       "title": "St. Pete Country Fest Adds StubHub as Official Resale Marketplace",
       "summary": "StubHub has been named the Official Ticket Resale Partner of St. Pete Country Fest, giving fans an official secondary marketplace... The post St. Pete Country Fest Adds StubHub as Official Resale Mark",
       "company": "St Pete Country Fest Adds StubHub",
       "link": "https://www.ticketnews.com/2026/09/st-pete-country-fest-adds-stubhub-as-official-resale-marketplace/",
-      "date": "Sep 18, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 6,
-      "moments": []
-    },
-    {
-      "id": "16830f29d2a8",
-      "title": "NewC Moves to Match Ticketmaster Offer as S\u00e3o Paulo Ticketing Fight Escalates",
-      "summary": "S\u00e3o Paulo FC\u2019s contested plan to hand ticketing operations at MorumBIS to Ticketmaster has gained another wrinkle, with rival bidder... The post NewC Moves to Match Ticketmaster Offer as S\u00e3o Paulo Tic",
-      "company": "NewC Moves",
-      "link": "https://www.ticketnews.com/2026/09/newc-match-ticketmaster-sao-paulo-ticketing-offer/",
       "date": "Sep 18, 26",
       "source": "Ticket News",
       "layer": 3,
@@ -524,26 +528,13 @@
       "moments": []
     },
     {
-      "id": "b58536a4d0bb",
-      "title": "\u2018Babylon Berlin\u2019 Recreates the Nazi Era, Keeping Swastikas Out of Sight",
-      "summary": "To film Hitler\u2019s rise to power, the makers of \u201cBabylon Berlin\u201d relied on silent songs, postproduction tricks and tall barriers to stay within German law.",
-      "company": "\u2018Babylon Berlin\u2019 Recreates",
-      "link": "https://www.nytimes.com/2026/09/18/arts/television/babylon-berlin-nazi-symbols-germany.html",
-      "date": "Sep 18, 26",
-      "source": "NYT Arts",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "8f95fdb4c719",
-      "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
-      "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
-      "company": "Global Times",
-      "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/",
-      "date": "May 09, 26",
-      "source": "Venues Today",
+      "id": "a969218243ea",
+      "title": "Investindustrial-backed Nexture to expand into UAE with La Crema; European exits in focus",
+      "summary": "EQT, Main Capital and Mutares announced exits last week. The post Investindustrial-backed Nexture to expand into UAE with La Crema; European exits in focus appeared first on PE Hub.",
+      "company": "Investindustrial-backed Nexture",
+      "link": "https://www.pehub.com/investindustrial-backed-nexture-to-expand-into-uae-with-la-crema-european-exits-in-focus/",
+      "date": "Sep 21, 26",
+      "source": "PE Hub",
       "layer": 4,
       "access": "pe",
       "score": 4,
