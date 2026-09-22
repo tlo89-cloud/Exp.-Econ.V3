@@ -1,39 +1,7 @@
 {
-  "generated": "2026-09-21T18:04:14.404252+00:00",
-  "total": 37,
+  "generated": "2026-09-22T16:37:53.757878+00:00",
+  "total": 39,
   "scraped": [
-    {
-      "id": "6ca3decd7d38",
-      "title": "NBA changes PE rules ahead of proposed $12.5bn Lakers acquisition",
-      "summary": "The NBA is changing its rules governing private equity investment in franchises, clearing a potential regulatory hurdle for the proposed $12.5bn acquisition of the Los Angeles Lakers by Joshua Kushner",
-      "company": "NBA",
-      "link": "https://www.privateequitywire.co.uk/nba-changes-pe-rules-ahead-of-proposed-12-5bn-lakers-acquisition/",
-      "date": "Sep 21, 26",
-      "source": "PE Wire",
-      "layer": 1,
-      "access": "pe",
-      "score": 24,
-      "moments": [
-        "acquisition",
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "967af37a05a1",
-      "title": "Changing attitude of consumers leads to increased PE interest in better-for-you foods; OceanSound-backed PAR excellence acquires Terso",
-      "summary": "Digging into how evolving consumer tendencies are driving private equity\u2019s interest in the better-for-you food and beverage subsector; OceanSound Partners-backed PAR Excellence Systems announces acqui",
-      "company": "Changing",
-      "link": "https://www.pehub.com/changing-attitude-of-consumers-leads-to-increased-pe-interest-in-better-for-you-foods-oceansound-backed-par-excellence-acquires-terso/",
-      "date": "Sep 21, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 19,
-      "moments": [
-        "acquisition",
-        "pe_investment"
-      ]
-    },
     {
       "id": "9cbb4a0932fb",
       "title": "Pulse Fund closes $63m debut climate vehicle with sovereign wealth, family office backing",
@@ -51,12 +19,12 @@
       ]
     },
     {
-      "id": "22ec92c66059",
-      "title": "Portage closes $600m fintech fund slightly below predecessor as platform AUM reaches $7bn",
-      "summary": "Fintech specialist Portage has closed its fourth flagship venture fund on about $600m, slightly below the $655m raised by its predecessor four years ago despite growing its wider investment platform t",
-      "company": "Portage",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/portage-closes-600m-fintech-fund-slightly-below-predecessor-as-platform-aum-reaches-7bn.html",
-      "date": "Sep 18, 26",
+      "id": "83de7c869c28",
+      "title": "Schroders Capital closes record $1.3bn co-invest fund as annual PE fundraising tops $5bn",
+      "summary": "Schroders Capital has raised $1.3bn for its fourth flagship private equity co-investment fund, making it the firm's largest closed-ended commingled PE vehicle to date. The post Schroders Capital close",
+      "company": "Schroders Capital",
+      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/schroders-capital-closes-record-1-3bn-co-invest-fund-as-annual-pe-fundraising-tops-5bn.html",
+      "date": "Sep 22, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -67,12 +35,28 @@
       ]
     },
     {
-      "id": "8949affc8f55",
-      "title": "Brighteye broadens beyond edtech with $72m first close for third fund",
-      "summary": "European venture investor Brighteye Ventures has reached a $72m first close for its third fund as the former edtech specialist broadens its investment remit into AI, productivity and labour technology",
-      "company": "Brighteye",
-      "link": "https://www.altassets.net/private-equity-news/by-news-type/fund-news/funds-closed/brighteye-broadens-beyond-edtech-with-72m-first-close-for-third-fund.html",
-      "date": "Sep 17, 26",
+      "id": "2d35cb8826fe",
+      "title": "Deal Roundup: Carlyle, CVC strike \u20ac1bn BauWatch deal, HIG agrees $866m Mistras take-private",
+      "summary": "Carlyle and CVC DIF have agreed to acquire 90% of European remote-security business BauWatch from German family investment group Haniel in a deal valuing the company at about \u20ac1bn, according to Reuter",
+      "company": "Deal Roundup",
+      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-carlyle-cvc-strike-e1bn-bauwatch-deal-hig-agrees-866m-mistras-take-private.html",
+      "date": "Sep 22, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "acquisition",
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "22ec92c66059",
+      "title": "Portage closes $600m fintech fund slightly below predecessor as platform AUM reaches $7bn",
+      "summary": "Fintech specialist Portage has closed its fourth flagship venture fund on about $600m, slightly below the $655m raised by its predecessor four years ago despite growing its wider investment platform t",
+      "company": "Portage",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/portage-closes-600m-fintech-fund-slightly-below-predecessor-as-platform-aum-reaches-7bn.html",
+      "date": "Sep 18, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -115,35 +99,18 @@
       ]
     },
     {
-      "id": "bb17fb6d02c4",
-      "title": "Industrial tech specialist Artemis closes fourth fund on $254m",
-      "summary": "Industrial technology-focused private equity firm Artemis Capital Partners has closed its fourth fund on $254m as the Boston-based manager targets businesses exposed to growing aerospace, defence, lif",
-      "company": "Industrial tech specialist Artemis",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/industrial-tech-specialist-artemis-closes-fourth-fund-on-254m.html",
-      "date": "Sep 17, 26",
-      "source": "AltAssets",
-      "layer": 5,
+      "id": "e9c36d3008c4",
+      "title": "Knitting Factory Entertainment Acquires Minority Stake in Does Entertainment, Forming Strategic Growth Partnership to Expand National Live...",
+      "summary": "Companies Align to Accelerate Venue Development, Talent Buying, Concert Promotion and Strategic Growth Across North America Los Angeles, CA / Wilmington, NC, July 14, 2026 \u2013&#160;Knitting Factory Ente",
+      "company": "",
+      "link": "https://venuestoday.com/knitting-factory-entertainment-acquires-minority-stake-in-does-entertainment-forming-strategic-growth-partnership-to-expand-national-live-entertainment-platform/",
+      "date": "Jul 15, 26",
+      "source": "Venues Today",
+      "layer": 2,
       "access": "pe",
-      "score": 13,
+      "score": 24,
       "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "95698fda8a22",
-      "title": "Investindustrial\u2019s Nexture signs deal to acquire Dubai chocolate maker La Crema",
-      "summary": "La Crema, a Dubai-based manufacturer of chocolate and other food ingredients, has grown since its 2016 founding by Bilal Khalife into a supplier for ice cream, bakery and fine pastry makers across the",
-      "company": "Investindustrial\u2019s Nexture",
-      "link": "https://www.pehub.com/investindustrials-nexture-signs-deal-to-acquire-dubai-chocolate-maker-la-crema/",
-      "date": "Sep 21, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 10,
-      "moments": [
-        "acquisition",
-        "company_launch"
+        "acquisition"
       ]
     },
     {
@@ -162,8 +129,8 @@
       ]
     },
     {
-      "id": "a973f7195ca3",
-      "title": "What\u2019s in the Paramount Settlement With States: Commitment to Not Sell Studio Lots, Additional $300M U.S. Film Production Investment, CNN Oversight...",
+      "id": "c66340af29a0",
+      "title": "What\u2019s in the Paramount Settlement With States: Commitment to Not Sell Studio Lots, Additional $300M Yearly Investment in U.S. Film Production, CNN...",
       "summary": "The details of Paramount&#8217;s deal with 12 states settling their antitrust case &#8212; paving the way for its takeover of Warner Bros. Discovery, the biggest merger in Hollywood history &#8212; ha",
       "company": "What\u2019s",
       "link": "https://variety.com/2026/film/news/paramount-states-settlement-terms-warner-bros-1236871264/",
@@ -174,21 +141,6 @@
       "score": 19,
       "moments": [
         "acquisition"
-      ]
-    },
-    {
-      "id": "b9e8991bdb88",
-      "title": "Troye Sivan on His Bold New Album, Touring with Charli XCX and Casting Nicole Kidman",
-      "summary": "The Australian pop star had a whirlwind couple of years on the road and on TV. Now, he\u2019s back with a new album \u2014 and he\u2019s feeling more introspective than ever",
-      "company": "Troye Sivan",
-      "link": "https://www.rollingstone.com/music/music-features/troye-sivan-new-album-shes-the-best-nicole-kidman-charli-1235629189/",
-      "date": "Sep 21, 26",
-      "source": "Rolling Stone Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 17,
-      "moments": [
-        "album_announcement"
       ]
     },
     {
@@ -222,13 +174,43 @@
       ]
     },
     {
-      "id": "03e96e026e05",
-      "title": "Rosanne Cash pauses tour, postpones performances under doctor's orders after emergency",
-      "summary": "Singer-songwriter Rosanne Cash has postponed upcoming concert dates in Wyoming and Montana following a medical emergency under doctor's orders.",
-      "company": "Rosanne Cash",
-      "link": "https://www.latimes.com/entertainment-arts/story/2026-09-08/rosanne-cash-postpones-tour-dates-following-medical-emergency",
-      "date": "Sep 08, 26",
-      "source": "LA Times Music",
+      "id": "6200ef33c025",
+      "title": "Certares extends near-decade Guardian Alarm investment through New 2ND-led continuation deal",
+      "summary": "Certares has extended its almost decade-long ownership of Guardian Alarm through a single-asset continuation fund led by New 2ND Capital. The post Certares extends near-decade Guardian Alarm investmen",
+      "company": "Certares",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/certares-extends-near-decade-guardian-alarm-investment-through-new-2nd-led-continuation-deal.html",
+      "date": "Sep 22, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "58fed033fc2f",
+      "title": "QIA sets up $5bn US private markets programme with JP Morgan",
+      "summary": "Qatar Investment Authority has agreed a $20bn investment partnership with JP Morgan Asset Management that includes a $5bn private-markets programme targeting US middle-market companies. The post QIA s",
+      "company": "QIA",
+      "link": "https://www.altassets.net/private-equity-news/by-region/middle-east-and-israel-by-region/qia-sets-up-5bn-us-private-markets-programme-with-jp-morgan.html",
+      "date": "Sep 22, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "4b193cbbc90f",
+      "title": "Bret Michaels Plans October Stage Return Following 2026 Tour Cancellation",
+      "summary": "Bret Michaels is preparing to resume his solo touring schedule in October after emergency surgery forced him to cancel performances... The post Bret Michaels Plans October Stage Return Following 2026 ",
+      "company": "Bret Michaels Plans October Stage Return",
+      "link": "https://www.ticketnews.com/2026/09/bret-michaels-plans-october-stage-return-following-2026-tour-cancellation/",
+      "date": "Sep 22, 26",
+      "source": "Ticket News",
       "layer": 1,
       "access": "pe",
       "score": 14,
@@ -237,18 +219,78 @@
       ]
     },
     {
-      "id": "6c14907fc205",
-      "title": "Suki Waterhouse Sets Australian Loveland Tour Dates for December",
-      "summary": "The tour opens Dec. 8 at the Sydney Opera House Forecourt as part of the venue's On the Steps series.",
-      "company": "",
-      "link": "https://www.billboard.com/music/concerts/suki-waterhouse-australian-loveland-tour-1236344260/",
-      "date": "Sep 21, 26",
-      "source": "Billboard",
-      "layer": 2,
+      "id": "86e0fb9584ae",
+      "title": "Merged Paramount-Warner Bros. Will Be a \u2018Streaming Powerhouse,\u2019 Wall Street Analysts Say \u2014 but Saddled With More Than $77 Billion in Debt",
+      "summary": "Paramount Skydance\u2019s David Ellison has prevailed in his dogged pursuit of Warner Bros. Discovery: He\u2019s won the deal. Now comes the hard part: making the economics of the combined company work, given a",
+      "company": "Merged Paramount-Warner Bros Will Be",
+      "link": "https://variety.com/2026/tv/news/merged-paramount-plus-warner-bros-hbo-max-streaming-powerhouse-1236872026/",
+      "date": "Sep 22, 26",
+      "source": "Variety Biz",
+      "layer": 3,
       "access": "pe",
       "score": 12,
       "moments": [
-        "tour_announcement"
+        "acquisition"
+      ]
+    },
+    {
+      "id": "0e338926b0ae",
+      "title": "Inside the Exclusive Music Gigs at Private-Members Clubs",
+      "summary": "Private clubs in New York are setting themselves apart with premium live events, including DJ sets from ANOTR, an Alanis Morissette-headlined music festival, and scaled-back performances from Jack Har",
+      "company": "Inside",
+      "link": "https://www.rollingstone.com/music/music-features/music-shows-concerts-private-clubs-1235625181/",
+      "date": "Sep 22, 26",
+      "source": "Rolling Stone Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "a8aeeb9bc34a",
+      "title": "Sea.Hear.Now 2026: See The Best Photos",
+      "summary": "Every year since 2018 \u2014 except for 2020, thanks to the pandemic \u2014 the Sea.Hear.Now festival in Asbury Park, N.J., has provided a destination for East Coast music fans. Past lineups have included some ",
+      "company": "Sea.Hear.Now 2026",
+      "link": "https://www.rollingstone.com/music/music-pictures/sea-hear-now-festival-2026-best-photos-beach-1235629464/",
+      "date": "Sep 21, 26",
+      "source": "Rolling Stone Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "8de3016a1b07",
+      "title": "The Jesus And Mary Chain and The Psychedelic Furs announce 2027 UK co-headline tour",
+      "summary": "Tickets go on sale later this week The post The Jesus And Mary Chain and The Psychedelic Furs announce 2027 UK co-headline tour appeared first on NME.",
+      "company": "The Jesus And Mary Chain",
+      "link": "https://www.nme.com/news/music/the-jesus-and-mary-chain-and-the-psychedelic-furs-announce-2027-uk-co-headline-tour-3970116?utm_source=rss&utm_medium=rss&utm_campaign=the-jesus-and-mary-chain-and-the-psychedelic-furs-announce-2027-uk-co-headline-tour",
+      "date": "Sep 22, 26",
+      "source": "NME",
+      "layer": 5,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "festival_headliner"
+      ]
+    },
+    {
+      "id": "c25666337593",
+      "title": "After Crucial Paramount Agreement Come Relief, Anger and Concern",
+      "summary": "Few seem totally satisfied by the settlement that will let Paramount\u2019s $111 billion acquisition of Warner Bros. Discovery move forward.",
+      "company": "",
+      "link": "https://www.nytimes.com/2026/09/21/movies/paramount-agreement-reaction.html",
+      "date": "Sep 21, 26",
+      "source": "NYT Arts",
+      "layer": 3,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "acquisition"
       ]
     },
     {
@@ -282,44 +324,14 @@
       ]
     },
     {
-      "id": "7953df7ab8e2",
-      "title": "3 reasons why private equity is backing \u2018better for you\u2019",
-      "summary": "\"The fact people want cleaner labels, functional ingredients and organic options is a long-term trend that is here to stay,\" Mathieu Sasseville of Fondaction tells PE Hub. The post 3 reasons why priva",
-      "company": "",
-      "link": "https://www.pehub.com/3-reasons-why-private-equity-is-backing-better-for-you/",
-      "date": "Sep 21, 26",
+      "id": "85983ddec094",
+      "title": "Haelan Capital Partners debuts; KKR launches Akrapoint Commercial Capital; PE bets on rail services",
+      "summary": "A new healthcare focused shop, Haelan Capital Partners, has launched today; private equity firms have taken note of pent-up demand for rail services and are allocating money to the sector; KKR launche",
+      "company": "Haelan Capital Partners",
+      "link": "https://www.pehub.com/haelan-capital-partners-debuts-kkr-launches-akrapoint-commercial-capital-pe-bets-on-rail-services/",
+      "date": "Sep 22, 26",
       "source": "PE Hub",
       "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "1bde050f123c",
-      "title": "A Hard Year For Software IPOs",
-      "summary": "U.S. venture-backed technology companies have secured around $90 billion in domestic public offerings this year, per Crunchbase data. That\u2019s already the second-highest annual tally on record, and we\u2019v",
-      "company": "Hard Year For Software IPOs",
-      "link": "https://news.crunchbase.com/public/energy-ai-defense-saas-ipos-2026/",
-      "date": "Sep 16, 26",
-      "source": "Crunchbase News",
-      "layer": 5,
-      "access": "venture",
-      "score": 12,
-      "moments": [
-        "ipo"
-      ]
-    },
-    {
-      "id": "2be741c259ae",
-      "title": "Korea Investment Corp explores sale of more than $1bn in PE stakes",
-      "summary": "Korea Investment Corp, South Korea's sovereign wealth fund, is exploring a sale of private equity investments worth more than $1bn as institutional investors continue to turn to the secondary market t",
-      "company": "Korea Investment Corp",
-      "link": "https://www.privateequitywire.co.uk/korea-investment-corp-explores-sale-of-more-than-1bn-in-pe-stakes/",
-      "date": "Sep 21, 26",
-      "source": "PE Wire",
-      "layer": 3,
       "access": "pe",
       "score": 12,
       "moments": [
@@ -357,6 +369,21 @@
       ]
     },
     {
+      "id": "ed24e331be68",
+      "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
+      "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
+      "company": "Niloufar Banisaied",
+      "link": "https://venuestoday.com/niloufar-banisaied-is-bringing-timeless-design-and-the-guest-experience-at-the-forefront/",
+      "date": "Jun 09, 26",
+      "source": "Venues Today",
+      "layer": 4,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
       "id": "d75271879bfd",
       "title": "Kennedy Center Closure Prompts Legal Fight Over Trump-Backed Renovation",
       "summary": "The federal judge denied a Democratic lawmaker\u2019s request for an emergency hearing on the closure, which began on Tuesday.",
@@ -372,35 +399,50 @@
       ]
     },
     {
-      "id": "011dd8fd3784",
-      "title": "Bills\u2019 Highmark Stadium Debut Begins Boom in New NFL Venues",
-      "summary": "USA TODAY Network via Reuters Connect",
-      "company": "Bills\u2019 Highmark Stadium Debut Begins Boom",
-      "link": "https://frontofficesports.com/article/bills-highmark-stadium-debut-begins-boom-in-new-nfl-venues/",
-      "date": "Sep 17, 26",
-      "source": "Front Office Sports",
-      "layer": 2,
+      "id": "8d7b3310643a",
+      "title": "Wayne-Sanderson Farms Mobilizes Nationwide Network to Support Mercy Chefs Disaster Relief Efforts",
+      "summary": "Leveraging facilities across its footprint, the company delivers vital protein to disaster victims and emergency responders coast-to-coast and abroad OAKWOOD, Ga., Sept. 22, 2026 /PRNewswire/ -- Demon",
+      "company": "",
+      "link": "https://www.prnewswire.com/news-releases/wayne-sanderson-farms-mobilizes-nationwide-network-to-support-mercy-chefs-disaster-relief-efforts-302886445.html",
+      "date": "Sep 22, 26",
+      "source": "PR Newswire",
+      "layer": 4,
       "access": "pe",
-      "score": 12,
+      "score": 6,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "f812c8b5bde8",
+      "title": "Seat Unique Lands Five-Year Exclusive Deal for AEG Presents UK Tours",
+      "summary": "Seat Unique has signed a five-year exclusive partnership with AEG Presents to become the promoter\u2019s official hospitality and VIP partner... The post Seat Unique Lands Five-Year Exclusive Deal for AEG ",
+      "company": "Seat Unique Lands Five-Year Exclusive Deal",
+      "link": "https://www.ticketnews.com/2026/09/seat-unique-lands-five-year-exclusive-deal-for-aeg-presents-uk-tours/",
+      "date": "Sep 21, 26",
+      "source": "Ticket News",
+      "layer": 3,
+      "access": "pe",
+      "score": 18,
       "moments": []
     },
     {
-      "id": "2d42df4b9048",
-      "title": "Mutares exits automotive supplier Cimos in management buyout backed by Vero Automotive",
-      "summary": "Cimos, a producer of aluminum and iron castings and machined components for the automotive industry, employs about 1,350 people and generates revenues of approximately \u20ac120m across four countries. The",
-      "company": "Mutares",
-      "link": "https://www.pehub.com/mutares-exits-automotive-supplier-cimos-in-management-buyout-backed-by-vero-automotive/",
-      "date": "Sep 18, 26",
-      "source": "PE Hub",
+      "id": "5414f457939f",
+      "title": "\u2018I needed an IV\u2019: shoes melt as turf temperature reaches 157F in Eagles-Titans game",
+      "summary": "Eagles coach says game was \u2018hot as shit\u2019Cam Jurgens had to replace cleats several timesThe Tennessee Titans were happy to get off the field on Sunday, and not just because they lost their second game ",
+      "company": "IV\u2019:",
+      "link": "https://www.theguardian.com/sport/2026/sep/21/titans-eagles-game-heat-cleats-melt-nfl-temperature",
+      "date": "Sep 21, 26",
+      "source": "Guardian Sport",
       "layer": 2,
       "access": "pe",
-      "score": 12,
+      "score": 10,
       "moments": []
     },
     {
       "id": "6b9b172cc6fc",
       "title": "Paramount Settles Antitrust Suit, Clearing Path for $110 Billion WBD Deal",
-      "summary": "REUTERS/Brendan McDermid",
+      "summary": "Brendan McDermid-Reuters",
       "company": "",
       "link": "https://frontofficesports.com/article/paramount-settles-antitrust-suit-clearing-path-for-110-billion-wbd-deal/",
       "date": "Sep 21, 26",
@@ -411,14 +453,14 @@
       "moments": []
     },
     {
-      "id": "e83a86e574a9",
-      "title": "Blanche warned of contempt risk in Epstein files case",
-      "summary": "A federal judge warned Attorney General Todd Blanche Wednesday that he could face contempt proceedings if the Department of Justice fails to comply with an order involving the release or review of Eps",
-      "company": "Blanche",
-      "link": "https://www.axios.com/2026/09/17/epstein-files-doj-contempt-judge-blanche",
-      "date": "Sep 18, 26",
-      "source": "Axios",
-      "layer": 3,
+      "id": "bfdb44967f05",
+      "title": "Lionel Richie Undergoes Heart Procedure, Cancels 3 Upcoming Shows: \u2018Everything Went Perfectly\u2019",
+      "summary": "The superstar has been troubled by dizziness and other issues on his arena tour.",
+      "company": "",
+      "link": "https://www.billboard.com/music/music-news/lionel-richie-heart-procedure-cancels-shows-1236344517/",
+      "date": "Sep 22, 26",
+      "source": "Billboard",
+      "layer": 2,
       "access": "pe",
       "score": 8,
       "moments": []
@@ -450,19 +492,6 @@
       "moments": []
     },
     {
-      "id": "b054cf313b71",
-      "title": "Brian Windhorst Discusses Global Podcast Tour, LeBron\u2019s Fanatics Deal",
-      "summary": "Allen Kee/ESPN Images",
-      "company": "",
-      "link": "https://frontofficesports.com/article/brian-windhorst-global-podcast-tour-lebron-fanatics/",
-      "date": "Sep 17, 26",
-      "source": "Front Office Sports",
-      "layer": 3,
-      "access": "pe",
-      "score": 7,
-      "moments": []
-    },
-    {
       "id": "c3b572cbeefa",
       "title": "Paramount and California AG Bonta Reportedly in \u2018Advanced Talks\u2019 to Settle Antitrust Suit",
       "summary": "David Ellison&#8217;s Paramount Skydance is in &#8220;advanced talks&#8221; with California Attorney General Rob Bonta to settle the 12-state antitrust suit that&#8217;s holding up its takeover of War",
@@ -476,19 +505,6 @@
       "moments": []
     },
     {
-      "id": "dedbe6a2b294",
-      "title": "St. Pete Country Fest Adds StubHub as Official Resale Marketplace",
-      "summary": "StubHub has been named the Official Ticket Resale Partner of St. Pete Country Fest, giving fans an official secondary marketplace... The post St. Pete Country Fest Adds StubHub as Official Resale Mark",
-      "company": "St Pete Country Fest Adds StubHub",
-      "link": "https://www.ticketnews.com/2026/09/st-pete-country-fest-adds-stubhub-as-official-resale-marketplace/",
-      "date": "Sep 18, 26",
-      "source": "Ticket News",
-      "layer": 3,
-      "access": "pe",
-      "score": 6,
-      "moments": []
-    },
-    {
       "id": "176066eb700b",
       "title": "Oceanfront Film Finance and Allegro Finance Launch $100 Million Production Financing Partnership",
       "summary": "Oceanfront Film Finance has partnered with Allegro Finance to increase financing opportunities for film and television productions, launching with an initial $100 million fund for eligible projects. T",
@@ -497,6 +513,19 @@
       "date": "Sep 18, 26",
       "source": "Variety Biz",
       "layer": 4,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "9bcc9c5ce7bc",
+      "title": "Ed Sheeran thinking out loud: Decision to boot Macklemore from tour over Gaza remarks 'not mine'",
+      "summary": "Ed Sheeran speaks out about his tour promoter's decision to drop Macklemore from the remaining dates of his Loop tour.",
+      "company": "Ed Sheeran thinking out loud",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-09-15/ed-sheeran-macklemore-tour-decision-not-mine-gaza",
+      "date": "Sep 15, 26",
+      "source": "LA Times Music",
+      "layer": 3,
       "access": "pe",
       "score": 5,
       "moments": []
@@ -528,13 +557,13 @@
       "moments": []
     },
     {
-      "id": "a969218243ea",
-      "title": "Investindustrial-backed Nexture to expand into UAE with La Crema; European exits in focus",
-      "summary": "EQT, Main Capital and Mutares announced exits last week. The post Investindustrial-backed Nexture to expand into UAE with La Crema; European exits in focus appeared first on PE Hub.",
-      "company": "Investindustrial-backed Nexture",
-      "link": "https://www.pehub.com/investindustrial-backed-nexture-to-expand-into-uae-with-la-crema-european-exits-in-focus/",
-      "date": "Sep 21, 26",
-      "source": "PE Hub",
+      "id": "8f95fdb4c719",
+      "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
+      "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
+      "company": "Global Times",
+      "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/",
+      "date": "May 09, 26",
+      "source": "Venues Today",
       "layer": 4,
       "access": "pe",
       "score": 4,
