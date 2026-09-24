@@ -1,85 +1,38 @@
 {
-  "generated": "2026-09-23T16:30:06.701503+00:00",
-  "total": 38,
+  "generated": "2026-09-24T16:50:12.551007+00:00",
+  "total": 31,
   "scraped": [
     {
-      "id": "9b0a869c5fa1",
-      "title": "Sundance Growth doubles fund size with $250m Fund II close 15 months after debut raise",
-      "summary": "Sundance Growth has doubled the size of its flagship growth equity strategy with a $250m second fund close, just 15 months after raising its $125m debut vehicle. The post Sundance Growth doubles fund ",
-      "company": "Sundance Growth",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/sundance-growth-doubles-fund-size-with-250m-fund-ii-close-15-months-after-debut-raise.html",
-      "date": "Sep 23, 26",
+      "id": "b214eaacee8d",
+      "title": "Connect Ventures hits $55m first close for fifth fund, sharpens focus on technical founders",
+      "summary": "Connect Ventures has reached a $55m first close for its fifth fund, as the European early-stage investor sharpens its strategy around technically led companies in AI, infrastructure, hardware, robotic",
+      "company": "Connect Ventures",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/connect-ventures-hits-55m-first-close-for-fifth-fund-sharpens-focus-on-technical-founders.html",
+      "date": "Sep 24, 26",
       "source": "AltAssets",
-      "layer": 1,
+      "layer": 5,
+      "access": "pe",
+      "score": 17,
+      "moments": [
+        "pe_investment",
+        "fund_launch",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "bbfa8ed3df25",
+      "title": "Paramount to Raise $7.5 Billion More in Debt to Fund Warner Bros. Deal",
+      "summary": "Paramount Skydance said Thursday it is launching a syndication to raise $7.5 billion through a proposed senior secured incremental tranche of term &#8220;B&#8221; loans. The David Ellison-led company ",
+      "company": "Paramount",
+      "link": "https://variety.com/2026/film/news/paramount-7-5-billion-more-debt-warner-bros-merger-1236874269/",
+      "date": "Sep 24, 26",
+      "source": "Variety Biz",
+      "layer": 3,
       "access": "pe",
       "score": 18,
       "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "a55bb80f3822",
-      "title": "Arlington-backed AVS Bio acquires UK bioreagent supplier Biorbyt in add-on deal",
-      "summary": "Biorbyt, founded in 2011 and headquartered in Cambridge, UK, supplies bio-reagents, antibodies, proteins and other biomaterials for life science research through a catalog of more than 1 million SKUs.",
-      "company": "Arlington-backed AVS Bio",
-      "link": "https://www.pehub.com/arlington-backed-avs-bio-acquires-uk-bioreagent-supplier-biorbyt-in-add-on-deal/",
-      "date": "Sep 23, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 16,
-      "moments": [
         "acquisition",
-        "company_launch"
-      ]
-    },
-    {
-      "id": "a61ca4d18d03",
-      "title": "GHK Capital-backed WSB acquires engineering firm Poly",
-      "summary": "Dothan, Alabama-based Poly, founded in 1959, specializes in architecture, civil and environmental engineering, and federal and military facility design, including more than 130 military training range",
-      "company": "GHK Capital-backed WSB",
-      "link": "https://www.pehub.com/ghk-capital-backed-wsb-acquires-engineering-firm-poly/",
-      "date": "Sep 23, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "acquisition",
-        "company_launch"
-      ]
-    },
-    {
-      "id": "8b535088685a",
-      "title": "Eight in 10 PE firms now holding assets for five years-plus amid price rise expectations",
-      "summary": "Eight in 10 US private equity firms are now holding portfolio companies for at least five years, while an even larger proportion expect acquisition prices to rise over the coming 12 months as competit",
-      "company": "Eight",
-      "link": "https://www.altassets.net/featured/eight-in-10-pe-firms-now-holding-assets-for-five-years-plus-amid-price-rise-expectations.html",
-      "date": "Sep 23, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "acquisition",
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "83de7c869c28",
-      "title": "Schroders Capital closes record $1.3bn co-invest fund as annual PE fundraising tops $5bn",
-      "summary": "Schroders Capital has raised $1.3bn for its fourth flagship private equity co-investment fund, making it the firm's largest closed-ended commingled PE vehicle to date. The post Schroders Capital close",
-      "company": "Schroders Capital",
-      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/schroders-capital-closes-record-1-3bn-co-invest-fund-as-annual-pe-fundraising-tops-5bn.html",
-      "date": "Sep 22, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
+        "funding_round"
       ]
     },
     {
@@ -99,12 +52,12 @@
       ]
     },
     {
-      "id": "c1c2f892878e",
-      "title": "Apollo-backed Forge to acquire Becker\u2019s Healthcare from Pamlico Capital",
-      "summary": "Becker's Healthcare, founded by Scott Becker and led by president and chief executive Jessica Cole since 2010, provides media and events services to hospital, health system and healthcare executives a",
-      "company": "Apollo-backed Forge to",
-      "link": "https://www.pehub.com/apollo-backed-forge-to-acquire-beckers-healthcare-from-pamlico-capital/",
-      "date": "Sep 23, 26",
+      "id": "58297fb8128a",
+      "title": "Arcline\u2019s DwyerOmega agrees to acquire Kansas instrumentation maker SOR Controls Group",
+      "summary": "Founded in 1946, SOR designs and manufactures electronic and mechanical instruments that measure pressure, temperature, level and flow. The post Arcline&#8217;s DwyerOmega agrees to acquire Kansas ins",
+      "company": "Arcline\u2019s DwyerOmega",
+      "link": "https://www.pehub.com/arclines-dwyeromega-agrees-to-acquire-kansas-instrumentation-maker-sor-controls-group/",
+      "date": "Sep 24, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
@@ -115,19 +68,35 @@
       ]
     },
     {
-      "id": "51242d709ffa",
-      "title": "CVC-backed Bamboo Insurance postpones planned US IPO",
-      "summary": "CVC Capital Partners-backed home insurer Bamboo Insurance has postponed its planned US initial public offering, according to a report by Bloomberg citing unnamed people familiar with the matter, in a ",
-      "company": "CVC-backed Bamboo Insurance",
-      "link": "https://www.privateequitywire.co.uk/cvc-backed-bamboo-insurance-postpones-planned-us-ipo/",
-      "date": "Sep 23, 26",
-      "source": "PE Wire",
+      "id": "860c8a731995",
+      "title": "Argos closes ninth mid-market fund at \u20ac736m, 64% above previous vintage",
+      "summary": "Argos has closed its ninth European mid-market private equity fund on \u20ac736m, marking a 64% jump from the \u20ac450m raised for its predecessor vehicle. The post Argos closes ninth mid-market fund at \u20ac736m,",
+      "company": "Argos",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/argos-closes-ninth-mid-market-fund-at-e736m-64-above-previous-vintage.html",
+      "date": "Sep 24, 26",
+      "source": "AltAssets",
       "layer": 5,
       "access": "pe",
       "score": 13,
       "moments": [
-        "ipo",
-        "pe_investment"
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "e6383a5d332a",
+      "title": "DTCP defence fund reaches \u20ac455m as EIFO, Danica join first close",
+      "summary": "DTCP has pulled in \u20ac455m at the first close of its debut defence fund, putting the vehicle within 10% of its \u20ac500m target. The post DTCP defence fund reaches \u20ac455m as EIFO, Danica join first close app",
+      "company": "DTCP",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/germany-western-europe-europe-by-region/dtcp-defence-fund-reaches-e455m-as-eifo-danica-join-first-close.html",
+      "date": "Sep 24, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
@@ -146,13 +115,13 @@
       ]
     },
     {
-      "id": "5d97c8e9d701",
-      "title": "YouTube Locks Down Coachella Rights Through 2030 as It Unveils New Microdrama-Inspired Experience for Shorts, AI-Powered Tools for Music and Studio...",
+      "id": "836733ff53f7",
+      "title": "YouTube Locks Down Coachella Rights Through 2030 as It Unveils New Microdrama-Inspired Experience for Shorts, AI-Powered Tools for Music and Studio,...",
       "summary": "YouTube&#8217;s staying in the Coachella desert for a few more years. The streamer will remain the exclusive free streaming home of Coachella through 2030, continuing its nearly 15-year partnership wi",
       "company": "YouTube Locks Down Coachella Rights Through",
       "link": "https://variety.com/2026/biz/news/youtube-coachella-2030-made-on-youtube-1236872595/",
       "date": "Sep 23, 26",
-      "source": "Variety Biz",
+      "source": "Variety Music",
       "layer": 1,
       "access": "pe",
       "score": 19,
@@ -161,18 +130,33 @@
       ]
     },
     {
-      "id": "c66340af29a0",
-      "title": "What\u2019s in the Paramount Settlement With States: Commitment to Not Sell Studio Lots, Additional $300M Yearly Investment in U.S. Film Production, CNN...",
-      "summary": "The details of Paramount&#8217;s deal with 12 states settling their antitrust case &#8212; paving the way for its takeover of Warner Bros. Discovery, the biggest merger in Hollywood history &#8212; ha",
-      "company": "What\u2019s",
-      "link": "https://variety.com/2026/film/news/paramount-states-settlement-terms-warner-bros-1236871264/",
-      "date": "Sep 21, 26",
-      "source": "Variety Biz",
-      "layer": 3,
+      "id": "5a0acb371337",
+      "title": "Spotify Adds Setlists, Venue Info to Reserved Concert Ticket Program",
+      "summary": "Spotify is expanding its Reserved concert ticket program with setlists, venue information and other features designed to keep fans using... The post Spotify Adds Setlists, Venue Info to Reserved Conce",
+      "company": "Spotify Adds Setlists Venue Info",
+      "link": "https://www.ticketnews.com/2026/09/spotify-reserved-setlists-venue-info/",
+      "date": "Sep 24, 26",
+      "source": "Ticket News",
+      "layer": 1,
       "access": "pe",
-      "score": 19,
+      "score": 18,
       "moments": [
-        "acquisition"
+        "streaming_milestone"
+      ]
+    },
+    {
+      "id": "5247e4f65f02",
+      "title": "Music Industry Moves: Chvrches Sign With Futures Music Group; MSG Entertainment Names Josephine Vaccarello President",
+      "summary": "Scottish pop trio Chvrches have signed with Futures Music Group and alongside that announcement have released their first single in three years, &#8220;Roses.&#8221; The group will play two shows in t",
+      "company": "Music Industry Moves",
+      "link": "https://variety.com/2026/music/news/chvrches-sign-with-futures-1236874505/",
+      "date": "Sep 24, 26",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 17,
+      "moments": [
+        "record_deal"
       ]
     },
     {
@@ -191,33 +175,18 @@
       ]
     },
     {
-      "id": "ce9bcd857ebc",
-      "title": "MLB Raises Private Equity Ownership Limit to 20%",
-      "summary": "Kim Klement Neitzel-USA TODAY Sports",
-      "company": "MLB Raises Private Equity Ownership Limit",
-      "link": "https://frontofficesports.com/article/mlb-raises-private-equity-ownership-limit-to-up-to-20-percent/",
-      "date": "Sep 23, 26",
-      "source": "Front Office Sports",
+      "id": "42a38685c538",
+      "title": "MLB ups private equity ownership limit to 20% per franchise",
+      "summary": "Major League Baseball (MLB) has revised its ownership framework to allow private equity firms to hold stakes of up to 20% in individual franchises, according to a report by Front Office Sports.",
+      "company": "MLB",
+      "link": "https://www.privateequitywire.co.uk/mlb-ups-private-equity-ownership-limit-to-20-per-franchise/",
+      "date": "Sep 24, 26",
+      "source": "PE Wire",
       "layer": 1,
       "access": "pe",
-      "score": 15,
+      "score": 17,
       "moments": [
         "pe_investment"
-      ]
-    },
-    {
-      "id": "6db2b26add00",
-      "title": "Manchester United report seventh straight annual loss and sell fans \u00a3125 grass clumps",
-      "summary": "Net loss of \u00a343m for year ended 30 June 2026Revenue hits record \u00a3677.6m and forecast to growManchester United have reported an annual loss for the seventh successive year, taking the club\u2019s combined l",
-      "company": "Manchester United",
-      "link": "https://www.theguardian.com/football/2026/sep/23/manchester-united-seventh-straight-annual-loss-record-revenue-financial-results",
-      "date": "Sep 23, 26",
-      "source": "Guardian Sport",
-      "layer": 2,
-      "access": "pe",
-      "score": 15,
-      "moments": [
-        "acquisition"
       ]
     },
     {
@@ -236,12 +205,12 @@
       ]
     },
     {
-      "id": "6200ef33c025",
-      "title": "Certares extends near-decade Guardian Alarm investment through New 2ND-led continuation deal",
-      "summary": "Certares has extended its almost decade-long ownership of Guardian Alarm through a single-asset continuation fund led by New 2ND Capital. The post Certares extends near-decade Guardian Alarm investmen",
-      "company": "Certares",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/certares-extends-near-decade-guardian-alarm-investment-through-new-2nd-led-continuation-deal.html",
-      "date": "Sep 22, 26",
+      "id": "6a73447e0d67",
+      "title": "British Business Bank backs Advent funds with \u00a3135m, as life sciences commitments near \u00a3750m",
+      "summary": "The British Business Bank has agreed to back two Advent Life Sciences funds with up to \u00a3135m amid an ongoing expansion in its funding for the sector. The post British Business Bank backs Advent funds ",
+      "company": "British Business Bank",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/british-business-bank-backs-advent-funds-with-135m-as-life-sciences-commitments-near-750m.html",
+      "date": "Sep 24, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -251,74 +220,74 @@
       ]
     },
     {
-      "id": "86b52a362ed4",
-      "title": "Chris Stapleton to Headline Buckeye Country Superfest 2027",
-      "summary": "Chris Stapleton will headline Buckeye Country Superfest when the one-day country music event returns to Ohio Stadium in Columbus on... The post Chris Stapleton to Headline Buckeye Country Superfest 20",
-      "company": "Chris Stapleton",
-      "link": "https://www.ticketnews.com/2026/09/chris-stapleton-to-headline-buckeye-country-superfest-2027/",
-      "date": "Sep 23, 26",
-      "source": "Ticket News",
+      "id": "99953bd12645",
+      "title": "RedBird Capital Signs Deal to Acquire Majority Stake in Puck, Valuing News Outfit at $250 Million",
+      "summary": "Puck, the five-year-old media upstart, has a new owner: RedBird Capital Partners, the investment firm that is a backer of other media companies including Paramount Skydance and its merger bid for Warn",
+      "company": "RedBird Capital Signs Deal",
+      "link": "https://variety.com/2026/biz/news/redbird-acquires-puck-250-million-valuation-1236874335/",
+      "date": "Sep 24, 26",
+      "source": "Variety Biz",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "af275ddce1be",
+      "title": "Michael Kiwanuka shares full details of self-produced new album \u2018FUDGE\u2019: \u201cIt captures a sense of optimism, playfulness and freedom\u201d",
+      "summary": "The announcement comes after he confirmed that all live commitments are on hold indefinitely, having suffered a stroke The post Michael Kiwanuka shares full details of self-produced new album &#8216;F",
+      "company": "Michael Kiwanuka",
+      "link": "https://www.nme.com/news/music/michael-kiwanuka-shares-full-details-of-self-produced-new-album-fudge-it-captures-a-sense-of-optimism-playfulness-and-freedom-3970591?utm_source=rss&utm_medium=rss&utm_campaign=michael-kiwanuka-shares-full-details-of-self-produced-new-album-fudge-it-captures-a-sense-of-optimism-playfulness-and-freedom",
+      "date": "Sep 24, 26",
+      "source": "NME",
+      "layer": 1,
+      "access": "public",
+      "score": 14,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "09f725758f11",
+      "title": "Cheyne raises \u00a33bn for ninth European real estate debt programme, more than half already deployed",
+      "summary": "Cheyne Capital has raised \u00a33bn across its latest European real estate debt strategy and adjacent vehicles, with more than half of investors' capital already deployed across a 73-loan portfolio. The po",
+      "company": "Cheyne",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/cheyne-raises-3bn-for-ninth-european-real-estate-debt-programme-more-than-half-already-deployed.html",
+      "date": "Sep 24, 26",
+      "source": "AltAssets",
       "layer": 2,
       "access": "pe",
       "score": 14,
       "moments": [
-        "festival_headliner"
+        "pe_investment"
       ]
     },
     {
-      "id": "86e0fb9584ae",
-      "title": "Merged Paramount-Warner Bros. Will Be a \u2018Streaming Powerhouse,\u2019 Wall Street Analysts Say \u2014 but Saddled With More Than $77 Billion in Debt",
-      "summary": "Paramount Skydance\u2019s David Ellison has prevailed in his dogged pursuit of Warner Bros. Discovery: He\u2019s won the deal. Now comes the hard part: making the economics of the combined company work, given a",
-      "company": "Merged Paramount-Warner Bros Will Be",
-      "link": "https://variety.com/2026/tv/news/merged-paramount-plus-warner-bros-hbo-max-streaming-powerhouse-1236872026/",
-      "date": "Sep 22, 26",
-      "source": "Variety Biz",
-      "layer": 3,
+      "id": "8d41bfb8acab",
+      "title": "Ball Arena Plans $135M Renovation Through 2028-29",
+      "summary": "Kroenke Sports &#38; Entertainment is planning a $135 million renovation of Denver\u2019s Ball Arena, with work expected to continue through... The post Ball Arena Plans $135M Renovation Through 2028-29 ap",
+      "company": "Ball Arena Plans",
+      "link": "https://www.ticketnews.com/2026/09/ball-arena-plans-135m-renovation-through-2028-29/",
+      "date": "Sep 24, 26",
+      "source": "Ticket News",
+      "layer": 2,
       "access": "pe",
-      "score": 12,
+      "score": 13,
       "moments": [
-        "acquisition"
+        "venue_announcement"
       ]
     },
     {
-      "id": "c25666337593",
-      "title": "After Crucial Paramount Agreement Come Relief, Anger and Concern",
-      "summary": "Few seem totally satisfied by the settlement that will let Paramount\u2019s $111 billion acquisition of Warner Bros. Discovery move forward.",
-      "company": "",
-      "link": "https://www.nytimes.com/2026/09/21/movies/paramount-agreement-reaction.html",
-      "date": "Sep 21, 26",
-      "source": "NYT Arts",
-      "layer": 3,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
-      "id": "b087440aab22",
-      "title": "Stagecoach 2027: Garth Brooks, Zach Top and Riley Green will headline",
-      "summary": "Other acts on the bill for the annual music festival in Indio, Calif., include Willie Nelson, Kelly Clarkson, Stella Lefty, Shaboozey and David Lee Roth.",
-      "company": "Stagecoach 2027",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-09-14/stagecoach-2027-garth-brooks-zach-top-riley-green",
-      "date": "Sep 14, 26",
-      "source": "LA Times Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "9cf11d283302",
-      "title": "They're your favorite rapper's favorite label. Thirty years in, Stones Throw still fights for L.A.",
-      "summary": "Chris Manak, who founded the label Stones Throw, influenced Ye and Tyler, the Creator and owns Highland Park's popular Gold Line Bar, looks back on 30 years of the tumultuous world of indie hip-hop: '",
-      "company": "They're",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-09-14/chris-manak-on-30th-anniversary-of-stones-throw-label-highland-park-festival",
-      "date": "Sep 14, 26",
-      "source": "LA Times Music",
-      "layer": 1,
+      "id": "f169e6ca8e09",
+      "title": "Atlantic Street Capital inks majority investment deal for HVAC distributor GLP",
+      "summary": "Founded in 1958, Toronto-based GLP supplies HVAC equipment, parts and components to utilities, telecom and industrial customers. The post Atlantic Street Capital inks majority investment deal for HVAC",
+      "company": "Atlantic Street Capital",
+      "link": "https://www.pehub.com/atlantic-street-capital-inks-majority-investment-deal-for-hvac-distributor-glp/",
+      "date": "Sep 24, 26",
+      "source": "PE Hub",
+      "layer": 5,
       "access": "pe",
       "score": 12,
       "moments": [
@@ -326,33 +295,33 @@
       ]
     },
     {
-      "id": "4c298ecdc833",
-      "title": "Ocean Way, the Santa Monica beach festival, canceled due to impact of offshore hurricane",
-      "summary": "Ocean Way, the beachfront Santa Monica music festival, has been canceled just two weeks before debuting. It was slated to have headline sets by the Killers and Olivia Dean.",
-      "company": "Ocean Way",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-09-11/ocean-way-canceled-santa-monica-festival-killers-olivia-dean",
-      "date": "Sep 11, 26",
-      "source": "LA Times Music",
-      "layer": 1,
+      "id": "61c7ca90ec07",
+      "title": "EQT builds GCC investment platform with Abu Dhabi launch",
+      "summary": "EQT has launched a dedicated Middle East investment platform and opened an Abu Dhabi office, putting private equity and infrastructure professionals on the ground as the $389bn alternatives manager ex",
+      "company": "EQT",
+      "link": "https://www.altassets.net/private-equity-news/by-region/middle-east-and-israel-by-region/eqt-builds-gcc-investment-platform-with-abu-dhabi-launch.html",
+      "date": "Sep 24, 26",
+      "source": "AltAssets",
+      "layer": 5,
       "access": "pe",
       "score": 12,
       "moments": [
-        "festival_headliner"
+        "pe_investment"
       ]
     },
     {
-      "id": "1bde050f123c",
-      "title": "A Hard Year For Software IPOs",
-      "summary": "U.S. venture-backed technology companies have secured around $90 billion in domestic public offerings this year, per Crunchbase data. That\u2019s already the second-highest annual tally on record, and we\u2019v",
-      "company": "Hard Year For Software IPOs",
-      "link": "https://news.crunchbase.com/public/energy-ai-defense-saas-ipos-2026/",
-      "date": "Sep 16, 26",
-      "source": "Crunchbase News",
+      "id": "143a076c6d32",
+      "title": "Advent targets $3bn for debut mid-market fund after positive performance in segment",
+      "summary": "Private equity giant Advent International is targeting $3bn for its first dedicated global mid-market buyout fund, building on positive performance from its existing investments in the segment. The po",
+      "company": "Advent",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/advent-targets-3bn-for-debut-mid-market-fund-after-testing-strategy-across-23-deals.html",
+      "date": "Sep 23, 26",
+      "source": "AltAssets",
       "layer": 5,
-      "access": "venture",
+      "access": "pe",
       "score": 12,
       "moments": [
-        "ipo"
+        "pe_investment"
       ]
     },
     {
@@ -371,36 +340,6 @@
       ]
     },
     {
-      "id": "70764d65c1d0",
-      "title": "Club Sportico: This May Be Private Equity\u2019s College Sports Play",
-      "summary": "For the past half decade, private equity firms of all sorts have sought new ways into college sports amid mounting opposition from many fans and trustees. A new $285 million development on the banks o",
-      "company": "Club Sportico",
-      "link": "https://www.sportico.com/leagues/college-sports/2026/tennessee-neyland-stadium-project-arctos-private-equity-1234945330/",
-      "date": "Sep 19, 26",
-      "source": "Sportico",
-      "layer": 2,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "32e68971c1ca",
-      "title": "Brown University to promote Kennedy to CIO as Dietze prepares to move on from $8bn endowment",
-      "summary": "Brown University has promoted deputy CIO Joshua Kennedy to lead its $8bn endowment as Jane Dietze prepares to leave after eight years as CIO. The post Brown University to promote Kennedy to CIO as Die",
-      "company": "Brown University",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/brown-university-to-promote-kennedy-to-cio-as-dietze-prepares-to-move-on-from-8bn-endowment.html",
-      "date": "Sep 23, 26",
-      "source": "AltAssets",
-      "layer": 4,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
       "id": "ed24e331be68",
       "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
       "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
@@ -416,44 +355,46 @@
       ]
     },
     {
-      "id": "d75271879bfd",
-      "title": "Kennedy Center Closure Prompts Legal Fight Over Trump-Backed Renovation",
-      "summary": "The federal judge denied a Democratic lawmaker\u2019s request for an emergency hearing on the closure, which began on Tuesday.",
-      "company": "Kennedy Center Closure Prompts Legal Fight",
-      "link": "https://www.nytimes.com/2026/09/17/arts/music/kennedy-center-closure-emergency-hearing.html",
-      "date": "Sep 17, 26",
-      "source": "NYT Music",
+      "id": "0c14d032870f",
+      "title": "Blackstone completes Eurowind deal, Searchlight backs $1.6bn Priority Technology take-private",
+      "summary": "Blackstone Infrastructure has completed its investment in Danish renewables developer Eurowind Energy, acquiring a 24.7% stake and committing up to \u20ac2bn to accelerate the company&#8217;s European deve",
+      "company": "Blackstone",
+      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/blackstone-completes-eurowind-deal-searchlight-backs-1-6bn-priority-technology-take-private.html",
+      "date": "Sep 24, 26",
+      "source": "AltAssets",
+      "layer": 2,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "c136d8797dfd",
+      "title": "Tell us: do you enjoy listening to music on CDs?",
+      "summary": "Is this a recent development, or are you a die-hard compact disc fan? What do you like about the format?Despite the prevalence of music streaming services, CDs players appear to be having a resurgence",
+      "company": "Tell us",
+      "link": "https://www.theguardian.com/music/2026/sep/24/do-you-enjoy-listening-to-music-on-cd-compact-disc",
+      "date": "Sep 24, 26",
+      "source": "Guardian Music",
       "layer": 2,
       "access": "pe",
       "score": 6,
       "moments": [
-        "acquisition"
+        "company_launch"
       ]
     },
     {
-      "id": "81d56340534e",
-      "title": "Oasis Adds More Live \u201927 Shows in U.K., Italy and Germany",
-      "summary": "Oasis has added four more dates to their Live &#8217;27 tour. Due to phenomenal demand, the resurrected Britpop band will now play at Munich&#8217;s Allianz Arena on July 6, Rome&#8217;s Olympic Stadi",
-      "company": "Oasis Adds More Live",
-      "link": "https://variety.com/2026/music/global/oasis-more-live-27-shows-uk-italy-germany-1236873146/",
-      "date": "Sep 23, 26",
-      "source": "Variety Music",
+      "id": "cf4326a32e1b",
+      "title": "Cowboys Eye Star-Like Development Around AT&T Stadium",
+      "summary": "The Dallas Cowboys\u2019 $2 billion real estate development at The Star, the team\u2019s practice facility in Frisco, Texas, is the envy of sports teams around the country. Now the world\u2019s most valuable sports ",
+      "company": "",
+      "link": "https://www.sportico.com/business/real-estate/2026/cowboys-develop-land-att-stadium-arlington-texas-1234945521/",
+      "date": "Sep 24, 26",
+      "source": "Sportico",
       "layer": 2,
       "access": "pe",
-      "score": 13,
-      "moments": []
-    },
-    {
-      "id": "6b9b172cc6fc",
-      "title": "Paramount Settles Antitrust Suit, Clearing Path for $110 Billion WBD Deal",
-      "summary": "Brendan McDermid-Reuters",
-      "company": "",
-      "link": "https://frontofficesports.com/article/paramount-settles-antitrust-suit-clearing-path-for-110-billion-wbd-deal/",
-      "date": "Sep 21, 26",
-      "source": "Front Office Sports",
-      "layer": 3,
-      "access": "pe",
-      "score": 8,
+      "score": 17,
       "moments": []
     },
     {
@@ -470,39 +411,26 @@
       "moments": []
     },
     {
-      "id": "c3b572cbeefa",
-      "title": "Paramount and California AG Bonta Reportedly in \u2018Advanced Talks\u2019 to Settle Antitrust Suit",
-      "summary": "David Ellison&#8217;s Paramount Skydance is in &#8220;advanced talks&#8221; with California Attorney General Rob Bonta to settle the 12-state antitrust suit that&#8217;s holding up its takeover of War",
-      "company": "Paramount",
-      "link": "https://variety.com/2026/film/news/paramount-california-ag-bonta-advanced-talks-settle-antitrust-suit-1236867326/",
-      "date": "Sep 18, 26",
-      "source": "Variety Biz",
-      "layer": 3,
-      "access": "pe",
-      "score": 7,
-      "moments": []
-    },
-    {
-      "id": "da0502a442ba",
-      "title": "Live Nation, C3 Fight Punitive Damages Push in Drakeo the Ruler Death Lawsuit",
-      "summary": "Live Nation and C3 Presents are asking a Los Angeles judge to reject an effort by Drakeo the Ruler\u2019s estate... The post Live Nation, C3 Fight Punitive Damages Push in Drakeo the Ruler Death Lawsuit ap",
-      "company": "Live Nation C3 Fight Punitive Damages",
-      "link": "https://www.ticketnews.com/2026/09/live-nation-c3-drakeo-punitive-damages-lawsuit/",
+      "id": "a04e0a2e6619",
+      "title": "Gary Glitter Doc Postponed at Netflix After \u2018New Legal Information,\u2019 Trailer Pulled From YouTube",
+      "summary": "Netflix has postponed the release of a documentary about former pop star and convicted sexual abuser Gary Glitter just three weeks before its release, citing \u201cnew legal information.\u201d \u201cHunting Gary Gli",
+      "company": "Gary Glitter Doc Postponed",
+      "link": "https://variety.com/2026/music/global/gary-glitter-documentary-postponed-netflix-1236873429/",
       "date": "Sep 23, 26",
-      "source": "Ticket News",
+      "source": "Variety Music",
       "layer": 3,
       "access": "pe",
       "score": 7,
       "moments": []
     },
     {
-      "id": "176066eb700b",
-      "title": "Oceanfront Film Finance and Allegro Finance Launch $100 Million Production Financing Partnership",
-      "summary": "Oceanfront Film Finance has partnered with Allegro Finance to increase financing opportunities for film and television productions, launching with an initial $100 million fund for eligible projects. T",
-      "company": "Oceanfront Film Finance",
-      "link": "https://variety.com/2026/biz/news/oceanfront-film-finance-allegro-finance-partnership-1236867363/",
-      "date": "Sep 18, 26",
-      "source": "Variety Biz",
+      "id": "ba81da080e8a",
+      "title": "A Weary Hollywood Celebrates the Prospect of Federal Funding",
+      "summary": "In response to an exodus of movie and TV production, a bill is being introduced in Congress that would use tax credits to subsidize filming in the United States.",
+      "company": "Weary Hollywood Celebrates",
+      "link": "https://www.nytimes.com/2026/09/24/movies/film-tax-credit-congress-bill.html",
+      "date": "Sep 24, 26",
+      "source": "NYT Arts",
       "layer": 4,
       "access": "pe",
       "score": 5,
@@ -519,32 +447,6 @@
       "layer": 3,
       "access": "pe",
       "score": 5,
-      "moments": []
-    },
-    {
-      "id": "769635b47b65",
-      "title": "Sombr hits back at \u201cincredibly insane\u201d nepo baby claims",
-      "summary": "The singer's father previously worked as a musician before moving into HIV/AIDS fundraising and events production The post Sombr hits back at &#8220;incredibly insane&#8221; nepo baby claims appeared ",
-      "company": "Sombr",
-      "link": "https://www.nme.com/news/music/sombr-hits-back-at-incredibly-insane-nepo-baby-claims-3970428?utm_source=rss&utm_medium=rss&utm_campaign=sombr-hits-back-at-incredibly-insane-nepo-baby-claims",
-      "date": "Sep 23, 26",
-      "source": "NME",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
-      "moments": []
-    },
-    {
-      "id": "1324d0a36c6f",
-      "title": "Cubs\u2019 Bregman suffers reported facial fractures after being hit by foul ball in \u2018terrible accident\u2019",
-      "summary": "Third baseman was standing near on-deck circle32-year-old hopes to return for postseasonChicago Cubs third baseman Alex Bregman suffered facial fractures when he was hit in the head by a foul ball on ",
-      "company": "Cubs\u2019 Bregman",
-      "link": "https://www.theguardian.com/sport/2026/sep/21/alex-bregman-foul-ball-injury-baseball",
-      "date": "Sep 22, 26",
-      "source": "Guardian Sport",
-      "layer": 3,
-      "access": "pe",
-      "score": 4,
       "moments": []
     },
     {
