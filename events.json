@@ -1,21 +1,21 @@
 {
-  "generated": "2026-09-24T16:50:12.551007+00:00",
-  "total": 31,
+  "generated": "2026-09-25T16:54:38.735535+00:00",
+  "total": 32,
   "scraped": [
     {
-      "id": "b214eaacee8d",
-      "title": "Connect Ventures hits $55m first close for fifth fund, sharpens focus on technical founders",
-      "summary": "Connect Ventures has reached a $55m first close for its fifth fund, as the European early-stage investor sharpens its strategy around technically led companies in AI, infrastructure, hardware, robotic",
-      "company": "Connect Ventures",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/connect-ventures-hits-55m-first-close-for-fifth-fund-sharpens-focus-on-technical-founders.html",
-      "date": "Sep 24, 26",
-      "source": "AltAssets",
+      "id": "dca2f51f7c23",
+      "title": "Clearlake\u2019s PrimeSource Brands adds JACLO in 12th acquisition since 2020",
+      "summary": "Founded in 1901, Cranford, New Jersey-based JACLO makes and distributes decorative bath fixtures and plumbing products. The post Clearlake&#8217;s PrimeSource Brands adds JACLO in 12th acquisition sin",
+      "company": "Clearlake\u2019s PrimeSource Brands",
+      "link": "https://www.pehub.com/clearlakes-primesource-brands-adds-jaclo-in-12th-acquisition-since-2020/",
+      "date": "Sep 25, 26",
+      "source": "PE Hub",
       "layer": 5,
       "access": "pe",
-      "score": 17,
+      "score": 20,
       "moments": [
-        "pe_investment",
-        "fund_launch",
+        "acquisition",
+        "festival_headliner",
         "company_launch"
       ]
     },
@@ -36,6 +36,38 @@
       ]
     },
     {
+      "id": "0384e6c6d46a",
+      "title": "Zero Infinity Partners boosts infratech strategy by 50% with $156m Fund II close",
+      "summary": "Zero Infinity Partners has increased the size of its early-stage infrastructure technology strategy by 50% with an oversubscribed $156m second fund close, three years after launching its debut vehicle",
+      "company": "Zero Infinity Partners",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/zero-infinity-partners-boosts-infratech-strategy-by-50-with-156m-fund-ii-close.html",
+      "date": "Sep 25, 26",
+      "source": "AltAssets",
+      "layer": 1,
+      "access": "pe",
+      "score": 18,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "5b057f5134c4",
+      "title": "BayPine-backed Relation Insurance acquires assets of Pennsylvania agency LaPlaca",
+      "summary": "Founded in 1988, Chalfont-based LaPlaca provides business insurance, employee benefits and personal lines coverage. The post BayPine-backed Relation Insurance acquires assets of Pennsylvania agency La",
+      "company": "BayPine-backed Relation Insurance",
+      "link": "https://www.pehub.com/baypine-backed-relation-insurance-acquires-assets-of-pennsylvania-agency-laplaca/",
+      "date": "Sep 25, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "acquisition",
+        "company_launch"
+      ]
+    },
+    {
       "id": "71bd7c126d52",
       "title": "How a Swedish fishing village and a lack of advice unlocked Tove Lo's new album 'Estrus'",
       "summary": "Before making her newest album, \"Estrus,\" Swedish singer-songwriter Tove Lo felt pressure to make it profound. But after returning to a small village in Sweden, she was instead reminded of who she is ",
@@ -48,22 +80,6 @@
       "score": 13,
       "moments": [
         "album_announcement",
-        "company_launch"
-      ]
-    },
-    {
-      "id": "58297fb8128a",
-      "title": "Arcline\u2019s DwyerOmega agrees to acquire Kansas instrumentation maker SOR Controls Group",
-      "summary": "Founded in 1946, SOR designs and manufactures electronic and mechanical instruments that measure pressure, temperature, level and flow. The post Arcline&#8217;s DwyerOmega agrees to acquire Kansas ins",
-      "company": "Arcline\u2019s DwyerOmega",
-      "link": "https://www.pehub.com/arclines-dwyeromega-agrees-to-acquire-kansas-instrumentation-maker-sor-controls-group/",
-      "date": "Sep 24, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "acquisition",
         "company_launch"
       ]
     },
@@ -100,6 +116,22 @@
       ]
     },
     {
+      "id": "4b17817aefc7",
+      "title": "Aegon AM launches insurance-backed private credit fund for institutional investors",
+      "summary": "Aegon Asset Management has launched an evergreen private credit fund that uses insurance policies from highly rated insurers to provide additional protection against borrower defaults, targeting insti",
+      "company": "Aegon AM",
+      "link": "https://www.privateequitywire.co.uk/aegon-am-launches-insurance-backed-private-credit-fund-for-institutional-investors/",
+      "date": "Sep 25, 26",
+      "source": "PE Wire",
+      "layer": 2,
+      "access": "pe",
+      "score": 10,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
       "id": "e9c36d3008c4",
       "title": "Knitting Factory Entertainment Acquires Minority Stake in Does Entertainment, Forming Strategic Growth Partnership to Expand National Live...",
       "summary": "Companies Align to Accelerate Venue Development, Talent Buying, Concert Promotion and Strategic Growth Across North America Los Angeles, CA / Wilmington, NC, July 14, 2026 \u2013&#160;Knitting Factory Ente",
@@ -121,7 +153,7 @@
       "company": "YouTube Locks Down Coachella Rights Through",
       "link": "https://variety.com/2026/biz/news/youtube-coachella-2030-made-on-youtube-1236872595/",
       "date": "Sep 23, 26",
-      "source": "Variety Music",
+      "source": "Variety Biz",
       "layer": 1,
       "access": "pe",
       "score": 19,
@@ -130,33 +162,33 @@
       ]
     },
     {
-      "id": "5a0acb371337",
-      "title": "Spotify Adds Setlists, Venue Info to Reserved Concert Ticket Program",
-      "summary": "Spotify is expanding its Reserved concert ticket program with setlists, venue information and other features designed to keep fans using... The post Spotify Adds Setlists, Venue Info to Reserved Conce",
-      "company": "Spotify Adds Setlists Venue Info",
-      "link": "https://www.ticketnews.com/2026/09/spotify-reserved-setlists-venue-info/",
-      "date": "Sep 24, 26",
-      "source": "Ticket News",
+      "id": "50dd81385512",
+      "title": "NFL to maintain 10% PE ownership cap despite MLB and NBA changes",
+      "summary": "The NFL has no immediate plans to increase its 10% cap on team ownership stakes for private equity firms, despite recent moves by Major League Baseball and the NBA to loosen their respective restricti",
+      "company": "NFL",
+      "link": "https://www.privateequitywire.co.uk/nfl-to-maintain-10-pe-ownership-cap-despite-mlb-and-nba-changes/",
+      "date": "Sep 25, 26",
+      "source": "PE Wire",
       "layer": 1,
       "access": "pe",
       "score": 18,
       "moments": [
-        "streaming_milestone"
+        "pe_investment"
       ]
     },
     {
-      "id": "5247e4f65f02",
-      "title": "Music Industry Moves: Chvrches Sign With Futures Music Group; MSG Entertainment Names Josephine Vaccarello President",
-      "summary": "Scottish pop trio Chvrches have signed with Futures Music Group and alongside that announcement have released their first single in three years, &#8220;Roses.&#8221; The group will play two shows in t",
-      "company": "Music Industry Moves",
-      "link": "https://variety.com/2026/music/news/chvrches-sign-with-futures-1236874505/",
-      "date": "Sep 24, 26",
-      "source": "Variety Music",
+      "id": "217b638cc667",
+      "title": "Nothing But Thieves tell us about \u201csubverting expectations\u201d on introspective \u2018Stray Dogs\u2019: \u201cWe\u2019re a band that takes left turns\u201d",
+      "summary": "The Southend outfit spoke to NME about going back to basics on their \"smaller and noisy\" latest album, looked back at their debut LP, and teased what to expect from their biggest headline tour to date",
+      "company": "Nothing But Thieves",
+      "link": "https://www.nme.com/news/music/nothing-but-thieves-interview-stray-dogs-5-reflection-fans-tour-3970747?utm_source=rss&utm_medium=rss&utm_campaign=nothing-but-thieves-interview-stray-dogs-5-reflection-fans-tour",
+      "date": "Sep 25, 26",
+      "source": "NME",
       "layer": 1,
       "access": "pe",
       "score": 17,
       "moments": [
-        "record_deal"
+        "festival_headliner"
       ]
     },
     {
@@ -175,18 +207,18 @@
       ]
     },
     {
-      "id": "42a38685c538",
-      "title": "MLB ups private equity ownership limit to 20% per franchise",
-      "summary": "Major League Baseball (MLB) has revised its ownership framework to allow private equity firms to hold stakes of up to 20% in individual franchises, according to a report by Front Office Sports.",
-      "company": "MLB",
-      "link": "https://www.privateequitywire.co.uk/mlb-ups-private-equity-ownership-limit-to-20-per-franchise/",
+      "id": "b88963f4e8f9",
+      "title": "Judge Questions Legal Points of Paramount\u2019s Settlement With States at Hearing, Says a Ruling Will Come in \u2018Due Course\u2019",
+      "summary": "The judge overseeing the antitrust case filed by 12 state attorneys general seeking to block the Paramount-Warner Bros. Discovery merger questioned the parties about their settlement at a hearing Thur",
+      "company": "Judge Questions Legal Points",
+      "link": "https://variety.com/2026/film/news/judge-paramount-state-ags-settlement-hearing-1236874529/",
       "date": "Sep 24, 26",
-      "source": "PE Wire",
-      "layer": 1,
+      "source": "Variety Biz",
+      "layer": 3,
       "access": "pe",
-      "score": 17,
+      "score": 16,
       "moments": [
-        "pe_investment"
+        "acquisition"
       ]
     },
     {
@@ -220,6 +252,21 @@
       ]
     },
     {
+      "id": "075e751daf3f",
+      "title": "Elton John, Charli xcx, Burna Boy and More Set Shows at New Apple Music Hall in London",
+      "summary": "London&#8217;s new venue Apple Music Hall has announced its inaugural lineup, including performances from Elton John, Charli xcx, Burna Boy and more. John is set to open the venue \u2014 a state-of-the-art",
+      "company": "Elton John Charli",
+      "link": "https://variety.com/2026/music/global/elton-john-charli-xcx-burna-boy-london-apple-music-hall-1236875445/",
+      "date": "Sep 25, 26",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "venue_announcement"
+      ]
+    },
+    {
       "id": "99953bd12645",
       "title": "RedBird Capital Signs Deal to Acquire Majority Stake in Puck, Valuing News Outfit at $250 Million",
       "summary": "Puck, the five-year-old media upstart, has a new owner: RedBird Capital Partners, the investment firm that is a backer of other media companies including Paramount Skydance and its merger bid for Warn",
@@ -232,21 +279,6 @@
       "score": 14,
       "moments": [
         "acquisition"
-      ]
-    },
-    {
-      "id": "af275ddce1be",
-      "title": "Michael Kiwanuka shares full details of self-produced new album \u2018FUDGE\u2019: \u201cIt captures a sense of optimism, playfulness and freedom\u201d",
-      "summary": "The announcement comes after he confirmed that all live commitments are on hold indefinitely, having suffered a stroke The post Michael Kiwanuka shares full details of self-produced new album &#8216;F",
-      "company": "Michael Kiwanuka",
-      "link": "https://www.nme.com/news/music/michael-kiwanuka-shares-full-details-of-self-produced-new-album-fudge-it-captures-a-sense-of-optimism-playfulness-and-freedom-3970591?utm_source=rss&utm_medium=rss&utm_campaign=michael-kiwanuka-shares-full-details-of-self-produced-new-album-fudge-it-captures-a-sense-of-optimism-playfulness-and-freedom",
-      "date": "Sep 24, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "public",
-      "score": 14,
-      "moments": [
-        "album_announcement"
       ]
     },
     {
@@ -265,57 +297,12 @@
       ]
     },
     {
-      "id": "8d41bfb8acab",
-      "title": "Ball Arena Plans $135M Renovation Through 2028-29",
-      "summary": "Kroenke Sports &#38; Entertainment is planning a $135 million renovation of Denver\u2019s Ball Arena, with work expected to continue through... The post Ball Arena Plans $135M Renovation Through 2028-29 ap",
-      "company": "Ball Arena Plans",
-      "link": "https://www.ticketnews.com/2026/09/ball-arena-plans-135m-renovation-through-2028-29/",
-      "date": "Sep 24, 26",
-      "source": "Ticket News",
-      "layer": 2,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "venue_announcement"
-      ]
-    },
-    {
-      "id": "f169e6ca8e09",
-      "title": "Atlantic Street Capital inks majority investment deal for HVAC distributor GLP",
-      "summary": "Founded in 1958, Toronto-based GLP supplies HVAC equipment, parts and components to utilities, telecom and industrial customers. The post Atlantic Street Capital inks majority investment deal for HVAC",
-      "company": "Atlantic Street Capital",
-      "link": "https://www.pehub.com/atlantic-street-capital-inks-majority-investment-deal-for-hvac-distributor-glp/",
-      "date": "Sep 24, 26",
-      "source": "PE Hub",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "61c7ca90ec07",
-      "title": "EQT builds GCC investment platform with Abu Dhabi launch",
-      "summary": "EQT has launched a dedicated Middle East investment platform and opened an Abu Dhabi office, putting private equity and infrastructure professionals on the ground as the $389bn alternatives manager ex",
-      "company": "EQT",
-      "link": "https://www.altassets.net/private-equity-news/by-region/middle-east-and-israel-by-region/eqt-builds-gcc-investment-platform-with-abu-dhabi-launch.html",
-      "date": "Sep 24, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "143a076c6d32",
-      "title": "Advent targets $3bn for debut mid-market fund after positive performance in segment",
-      "summary": "Private equity giant Advent International is targeting $3bn for its first dedicated global mid-market buyout fund, building on positive performance from its existing investments in the segment. The po",
-      "company": "Advent",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/advent-targets-3bn-for-debut-mid-market-fund-after-testing-strategy-across-23-deals.html",
-      "date": "Sep 23, 26",
+      "id": "7f9c12be6a22",
+      "title": "Lightspeed halves India fund size to $250m as it sharpens strategy around AI",
+      "summary": "Lightspeed Venture Partners is targeting $250m for its fifth India fund - half the size of its predecessor - as the VC major sharpens its early-stage investment strategy in the region around artificia",
+      "company": "Lightspeed",
+      "link": "https://www.altassets.net/private-equity-news/by-region/asia-by-region/india-asia-by-region/lightspeed-halves-india-fund-size-to-250m-as-it-sharpens-strategy-around-ai.html",
+      "date": "Sep 25, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -340,6 +327,21 @@
       ]
     },
     {
+      "id": "d488af555c24",
+      "title": "Oaktree agrees to \u20ac810m sale of Italian power firm COL Group to Eaton",
+      "summary": "Founded in 1920 near Turin, COL employs more than 400 people across four production sites in Italy. The post Oaktree agrees to \u20ac810m sale of Italian power firm COL Group to Eaton appeared first on PE ",
+      "company": "Oaktree",
+      "link": "https://www.pehub.com/oaktree-agrees-to-e810m-sale-of-italian-power-firm-col-group-to-eaton/",
+      "date": "Sep 25, 26",
+      "source": "PE Hub",
+      "layer": 4,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
       "id": "ed24e331be68",
       "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
       "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
@@ -352,6 +354,51 @@
       "score": 11,
       "moments": [
         "company_launch"
+      ]
+    },
+    {
+      "id": "acf332c9a2a2",
+      "title": "Barry Diller Drops Bid to Acquire MGM Resorts: \u2018We Didn\u2019t Feel the Mix Was Coming Together\u2019",
+      "summary": "People Inc., the media company controlled by Barry Diller, is scrapping its proposed bid to acquire MGM Resorts International. People Inc. (which changed its name from IAC this spring) owns about 27% ",
+      "company": "Barry Diller Drops Bid",
+      "link": "https://variety.com/2026/biz/news/barry-diller-mgm-resorts-abandons-acquisition-bid-people-inc-1236873791/",
+      "date": "Sep 23, 26",
+      "source": "Variety Biz",
+      "layer": 5,
+      "access": "public",
+      "score": 9,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "b4c6ea8c50dd",
+      "title": "\u2018It\u2019s Very Simple\u2019: 50 Years of Making Avant-Garde Music Sound Effortless",
+      "summary": "Founded by Pierre Boulez to treat new compositions with orchestral rigor, Ensemble Intercontemporain has honed the art of turning forbidding scores into expressive sound.",
+      "company": "\u2018It\u2019s Very Simple\u2019:",
+      "link": "https://www.nytimes.com/2026/09/23/arts/music/ensemble-intercontemporain-50th-anniversary.html",
+      "date": "Sep 23, 26",
+      "source": "NYT Music",
+      "layer": 5,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "e767ca954676",
+      "title": "Nawaqanitawase genius helps Roosters sink Dolphins and reach NRL grand final",
+      "summary": "Rooster 36-20 Dolphins as union-bound winger runs in two triesReturning Sam Walker orchestrates win at Suncorp StadiumSydney Roosters are through to their first NRL grand final in seven years after Ma",
+      "company": "Nawaqanitawase",
+      "link": "https://www.theguardian.com/sport/2026/sep/25/nawaqanitawase-genius-helps-roosters-sink-dolphins-and-reach-grand-final",
+      "date": "Sep 25, 26",
+      "source": "Guardian Sport",
+      "layer": 2,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "festival_headliner"
       ]
     },
     {
@@ -370,32 +417,19 @@
       ]
     },
     {
-      "id": "c136d8797dfd",
-      "title": "Tell us: do you enjoy listening to music on CDs?",
-      "summary": "Is this a recent development, or are you a die-hard compact disc fan? What do you like about the format?Despite the prevalence of music streaming services, CDs players appear to be having a resurgence",
-      "company": "Tell us",
-      "link": "https://www.theguardian.com/music/2026/sep/24/do-you-enjoy-listening-to-music-on-cd-compact-disc",
-      "date": "Sep 24, 26",
-      "source": "Guardian Music",
+      "id": "2d57b5251fea",
+      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence\u2019s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+      "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development Save up to $200",
+      "company": "TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+      "date": "Sep 25, 26",
+      "source": "TechCrunch Startups",
       "layer": 2,
       "access": "pe",
       "score": 6,
       "moments": [
         "company_launch"
       ]
-    },
-    {
-      "id": "cf4326a32e1b",
-      "title": "Cowboys Eye Star-Like Development Around AT&T Stadium",
-      "summary": "The Dallas Cowboys\u2019 $2 billion real estate development at The Star, the team\u2019s practice facility in Frisco, Texas, is the envy of sports teams around the country. Now the world\u2019s most valuable sports ",
-      "company": "",
-      "link": "https://www.sportico.com/business/real-estate/2026/cowboys-develop-land-att-stadium-arlington-texas-1234945521/",
-      "date": "Sep 24, 26",
-      "source": "Sportico",
-      "layer": 2,
-      "access": "pe",
-      "score": 17,
-      "moments": []
     },
     {
       "id": "0e0d45f50553",
@@ -408,19 +442,6 @@
       "layer": 4,
       "access": "pe",
       "score": 8,
-      "moments": []
-    },
-    {
-      "id": "a04e0a2e6619",
-      "title": "Gary Glitter Doc Postponed at Netflix After \u2018New Legal Information,\u2019 Trailer Pulled From YouTube",
-      "summary": "Netflix has postponed the release of a documentary about former pop star and convicted sexual abuser Gary Glitter just three weeks before its release, citing \u201cnew legal information.\u201d \u201cHunting Gary Gli",
-      "company": "Gary Glitter Doc Postponed",
-      "link": "https://variety.com/2026/music/global/gary-glitter-documentary-postponed-netflix-1236873429/",
-      "date": "Sep 23, 26",
-      "source": "Variety Music",
-      "layer": 3,
-      "access": "pe",
-      "score": 7,
       "moments": []
     },
     {
@@ -437,19 +458,6 @@
       "moments": []
     },
     {
-      "id": "9bcc9c5ce7bc",
-      "title": "Ed Sheeran thinking out loud: Decision to boot Macklemore from tour over Gaza remarks 'not mine'",
-      "summary": "Ed Sheeran speaks out about his tour promoter's decision to drop Macklemore from the remaining dates of his Loop tour.",
-      "company": "Ed Sheeran thinking out loud",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-09-15/ed-sheeran-macklemore-tour-decision-not-mine-gaza",
-      "date": "Sep 15, 26",
-      "source": "LA Times Music",
-      "layer": 3,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
       "id": "8f95fdb4c719",
       "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
       "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
@@ -458,6 +466,19 @@
       "date": "May 09, 26",
       "source": "Venues Today",
       "layer": 4,
+      "access": "pe",
+      "score": 4,
+      "moments": []
+    },
+    {
+      "id": "00f3c2f0d858",
+      "title": "StubHub Wins Arbitration Ruling in CEO Ticket Fund Class Action",
+      "summary": "StubHub has won a ruling forcing a proposed class action over CEO Eric Baker\u2019s ties to professional ticket reseller Andro... The post StubHub Wins Arbitration Ruling in CEO Ticket Fund Class Action ap",
+      "company": "StubHub Wins Arbitration Ruling",
+      "link": "https://www.ticketnews.com/2026/09/stubhub-arbitration-ceo-ticket-fund-class-action/",
+      "date": "Sep 25, 26",
+      "source": "Ticket News",
+      "layer": 3,
       "access": "pe",
       "score": 4,
       "moments": []
