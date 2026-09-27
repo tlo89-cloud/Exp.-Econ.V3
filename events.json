@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-26T16:06:34.562395+00:00",
-  "total": 31,
+  "generated": "2026-09-27T16:42:26.217270+00:00",
+  "total": 32,
   "scraped": [
     {
       "id": "dca2f51f7c23",
@@ -100,6 +100,22 @@
       ]
     },
     {
+      "id": "44f52cc2fd42",
+      "title": "NFL week three: Chiefs at Dolphins, Chargers at Bills, Patriots at Jaguars, and more \u2013 live",
+      "summary": "Live updates from the 6pm BST games around the NFLGet in touch: mail Graham about all the latest matchesSo what has been the difference for Cincinnati on defense? The acquisition of tackle Dexter Lawr",
+      "company": "NFL week three",
+      "link": "https://www.theguardian.com/sport/live/2026/sep/27/nfl-week-three-chiefs-dolphins-chargers-bills-patriots-jaguars-live",
+      "date": "Sep 27, 26",
+      "source": "Guardian Sport",
+      "layer": 1,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "acquisition",
+        "company_launch"
+      ]
+    },
+    {
       "id": "860c8a731995",
       "title": "Argos closes ninth mid-market fund at \u20ac736m, 64% above previous vintage",
       "summary": "Argos has closed its ninth European mid-market private equity fund on \u20ac736m, marking a 64% jump from the \u20ac450m raised for its predecessor vehicle. The post Argos closes ninth mid-market fund at \u20ac736m,",
@@ -148,6 +164,21 @@
       ]
     },
     {
+      "id": "e9c36d3008c4",
+      "title": "Knitting Factory Entertainment Acquires Minority Stake in Does Entertainment, Forming Strategic Growth Partnership to Expand National Live...",
+      "summary": "Companies Align to Accelerate Venue Development, Talent Buying, Concert Promotion and Strategic Growth Across North America Los Angeles, CA / Wilmington, NC, July 14, 2026 \u2013&#160;Knitting Factory Ente",
+      "company": "",
+      "link": "https://venuestoday.com/knitting-factory-entertainment-acquires-minority-stake-in-does-entertainment-forming-strategic-growth-partnership-to-expand-national-live-entertainment-platform/",
+      "date": "Jul 15, 26",
+      "source": "Venues Today",
+      "layer": 2,
+      "access": "pe",
+      "score": 24,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
       "id": "50dd81385512",
       "title": "NFL to maintain 10% PE ownership cap despite MLB and NBA changes",
       "summary": "The NFL has no immediate plans to increase its 10% cap on team ownership stakes for private equity firms, despite recent moves by Major League Baseball and the NBA to loosen their respective restricti",
@@ -160,36 +191,6 @@
       "score": 18,
       "moments": [
         "pe_investment"
-      ]
-    },
-    {
-      "id": "27222df44e56",
-      "title": "Laila! Is About to Deliver SZA\u2019s Favorite Music of 2026",
-      "summary": "The 20-year-old singer and producer tells us about making her new album, We\u2019ll Never Be This Young Again; touring with Kali Uchis and Mariah the Scientist; and her new obsession of Muay Thai kickboxin",
-      "company": "Laila! Is About",
-      "link": "https://www.rollingstone.com/music/music-features/laila-new-music-interview-sza-cosign-1235630582/",
-      "date": "Sep 25, 26",
-      "source": "Rolling Stone Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 17,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
-      "id": "217b638cc667",
-      "title": "Nothing But Thieves tell us about \u201csubverting expectations\u201d on introspective \u2018Stray Dogs\u2019: \u201cWe\u2019re a band that takes left turns\u201d",
-      "summary": "The Southend outfit spoke to NME about going back to basics on their \"smaller and noisy\" latest album, looked back at their debut LP, and teased what to expect from their biggest headline tour to date",
-      "company": "Nothing But Thieves",
-      "link": "https://www.nme.com/news/music/nothing-but-thieves-interview-stray-dogs-5-reflection-fans-tour-3970747?utm_source=rss&utm_medium=rss&utm_campaign=nothing-but-thieves-interview-stray-dogs-5-reflection-fans-tour",
-      "date": "Sep 25, 26",
-      "source": "NME",
-      "layer": 1,
-      "access": "pe",
-      "score": 17,
-      "moments": [
-        "festival_headliner"
       ]
     },
     {
@@ -238,21 +239,6 @@
       ]
     },
     {
-      "id": "075e751daf3f",
-      "title": "Elton John, Charli xcx, Burna Boy and More Set Shows at New Apple Music Hall in London",
-      "summary": "London&#8217;s new venue Apple Music Hall has announced its inaugural lineup, including performances from Elton John, Charli xcx, Burna Boy and more. John is set to open the venue \u2014 a state-of-the-art",
-      "company": "Elton John Charli",
-      "link": "https://variety.com/2026/music/global/elton-john-charli-xcx-burna-boy-london-apple-music-hall-1236875445/",
-      "date": "Sep 25, 26",
-      "source": "Variety Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 14,
-      "moments": [
-        "venue_announcement"
-      ]
-    },
-    {
       "id": "99953bd12645",
       "title": "RedBird Capital Signs Deal to Acquire Majority Stake in Puck, Valuing News Outfit at $250 Million",
       "summary": "Puck, the five-year-old media upstart, has a new owner: RedBird Capital Partners, the investment firm that is a backer of other media companies including Paramount Skydance and its merger bid for Warn",
@@ -278,6 +264,36 @@
       "layer": 2,
       "access": "pe",
       "score": 14,
+      "moments": [
+        "pe_investment"
+      ]
+    },
+    {
+      "id": "78df46de3634",
+      "title": "Lizzy McAlpine to Tour North America, Europe and Australia in 2027",
+      "summary": "Lizzy McAlpine will take her new album Angel on the road in 2027 with \u201cThe Over Country Tour,\u201d a run... The post Lizzy McAlpine to Tour North America, Europe and Australia in 2027 appeared first on Ti",
+      "company": "Lizzy McAlpine",
+      "link": "https://www.ticketnews.com/2026/09/lizzy-mcalpine-to-tour-north-america-europe-and-australia-in-2027/",
+      "date": "Sep 25, 26",
+      "source": "Ticket News",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "bba9042ab920",
+      "title": "NFL Has No Plan to Follow MLB, NBA in Loosening Private Equity Rules",
+      "summary": "Kirby Lee-Imagn Images",
+      "company": "NFL Has No Plan",
+      "link": "https://frontofficesports.com/article/nfl-private-equity-mlb-nba/",
+      "date": "Sep 24, 26",
+      "source": "Front Office Sports",
+      "layer": 1,
+      "access": "pe",
+      "score": 13,
       "moments": [
         "pe_investment"
       ]
@@ -335,6 +351,21 @@
       "link": "https://www.pehub.com/oaktree-agrees-to-e810m-sale-of-italian-power-firm-col-group-to-eaton/",
       "date": "Sep 25, 26",
       "source": "PE Hub",
+      "layer": 4,
+      "access": "pe",
+      "score": 11,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "ed24e331be68",
+      "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
+      "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
+      "company": "Niloufar Banisaied",
+      "link": "https://venuestoday.com/niloufar-banisaied-is-bringing-timeless-design-and-the-guest-experience-at-the-forefront/",
+      "date": "Jun 09, 26",
+      "source": "Venues Today",
       "layer": 4,
       "access": "pe",
       "score": 11,
@@ -416,19 +447,6 @@
       "moments": []
     },
     {
-      "id": "44f641f2489d",
-      "title": "Audax agrees to sale of specialty wire and cable firm GCG to Rexel",
-      "summary": "Chicago-headquartered GCG, whose 2026 revenue is on pace to exceed $1.1bn, has about 950 employees across 16 locations. The post Audax agrees to sale of specialty wire and cable firm GCG to Rexel appe",
-      "company": "Audax",
-      "link": "https://www.pehub.com/audax-agrees-to-sale-of-specialty-wire-and-cable-firm-gcg-to-rexel/",
-      "date": "Sep 25, 26",
-      "source": "PE Hub",
-      "layer": 2,
-      "access": "pe",
-      "score": 10,
-      "moments": []
-    },
-    {
       "id": "0e0d45f50553",
       "title": "Twisted X Grows U.S. Footwear Manufacturing with Expansion of Built in the USA Collection",
       "summary": "DECATUR, Texas, Sept. 17, 2026 (GLOBE NEWSWIRE) -- Twisted X, a Twisted X Global Brands company, is expanding its Built in the USA Collection with seven new work footwear styles, continuing the compan",
@@ -442,19 +460,6 @@
       "moments": []
     },
     {
-      "id": "7823c7167f0b",
-      "title": "Interscope\u2019s Nicole Wyskoarko & Common Among Black Music Action Coalition Gala Honorees",
-      "summary": "Presented by Live Nation, the sixth annual fundraiser also celebrated Patti LaBelle and Public Enemy, among others.",
-      "company": "Interscope\u2019s Nicole Wyskoarko",
-      "link": "https://www.billboard.com/pro/common-patti-labelle-honored-black-music-action-coalition/",
-      "date": "Sep 26, 26",
-      "source": "Billboard",
-      "layer": 3,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
       "id": "ba81da080e8a",
       "title": "A Weary Hollywood Celebrates the Prospect of Federal Funding",
       "summary": "In response to an exodus of movie and TV production, a bill is being introduced in Congress that would use tax credits to subsidize filming in the United States.",
@@ -465,6 +470,19 @@
       "layer": 4,
       "access": "pe",
       "score": 5,
+      "moments": []
+    },
+    {
+      "id": "8f95fdb4c719",
+      "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
+      "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
+      "company": "Global Times",
+      "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/",
+      "date": "May 09, 26",
+      "source": "Venues Today",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
       "moments": []
     }
   ]
