@@ -1,37 +1,85 @@
 {
-  "generated": "2026-09-29T17:54:38.309459+00:00",
-  "total": 31,
+  "generated": "2026-09-30T17:50:04.532493+00:00",
+  "total": 33,
   "scraped": [
     {
-      "id": "d2792c4340cf",
-      "title": "Bessemer more than doubles growth fund as VC major raises $5.75bn",
-      "summary": "Bessemer Venture Partners has more than doubled the size of its dedicated growth fund amid a major expansion of its later-stage investment strategy, as the VC giant raised $5.75bn across a new group o",
-      "company": "Bessemer",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/bessemer-more-than-doubles-growth-fund-as-vc-major-raises-5-75bn.html",
-      "date": "Sep 28, 26",
+      "id": "c1e5920b550d",
+      "title": "Deal Roundup: Apollo completes record $3.7bn Japan buyout; Bain backs Kahua at $1bn-plus valuation",
+      "summary": "Apollo has completed its acquisition of Nippon Sheet Glass in a transaction carrying an enterprise value of almost $3.7bn, completing what the alternatives giant says is its largest private equity inv",
+      "company": "Deal Roundup",
+      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-apollo-completes-record-3-7bn-japan-buyout-bain-backs-kahua-at-1bn-plus-valuation.html",
+      "date": "Sep 30, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
       "score": 22,
       "moments": [
-        "funding_round",
+        "acquisition",
         "pe_investment"
       ]
     },
     {
-      "id": "23486cac520a",
-      "title": "Deal Roundup: Third Point leads $3.36bn Nscale financing; Audax exits GCG to Rexel for $1.4bn",
-      "summary": "Third Point has led a $3.36bn pre-IPO convertible financing for British AI infrastructure business Nscale, with Nvidia, funds managed by Apollo, Citadel, Hudson Bay Capital, Abu Dhabi Investment Counc",
-      "company": "Deal Roundup",
-      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-third-point-leads-3-36bn-nscale-financing-audax-exits-gcg-to-rexel-for-1-4bn.html",
-      "date": "Sep 28, 26",
+      "id": "66f295914e3d",
+      "title": "Princeton Equity more than doubles flagship fund size, with $1.3bn close after just two months",
+      "summary": "Franchise investment specialist Princeton Equity Group has more than doubled the size of its flagship private equity fund after raising $1.3bn for Fund III in just two months. The post Princeton Equit",
+      "company": "Princeton Equity",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/princeton-equity-more-than-doubles-flagship-fund-size-with-1-3bn-close-after-just-two-months.html",
+      "date": "Sep 30, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
       "score": 19,
       "moments": [
-        "ipo",
-        "pe_investment"
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "5bb4acdd8af3",
+      "title": "Rising Point surges past target with $325m debut fund close, after shift from independent sponsor model",
+      "summary": "Rising Point Capital Management has raised $325m for its first institutional private equity fund after moving from an independent sponsor model to committed capital. The post Rising Point surges past ",
+      "company": "Rising Point",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/rising-point-surges-past-target-with-325m-debut-fund-close-after-shift-from-independent-sponsor-model.html",
+      "date": "Sep 30, 26",
+      "source": "AltAssets",
+      "layer": 1,
+      "access": "pe",
+      "score": 18,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "4807de5caa5b",
+      "title": "Wynnchurch Capital\u2019s EMS acquires Florida fencing and hurricane shutter distributor AMD Supply",
+      "summary": "The Deerfield Beach-based company, founded in 2006, also supplies aluminum extrusions, screen doors and hardware to customers in the Southeast, Caribbean and Latin America. The post Wynnchurch Capital",
+      "company": "Wynnchurch Capital\u2019s EMS",
+      "link": "https://www.pehub.com/wynnchurch-capitals-ems-acquires-florida-fencing-and-hurricane-shutter-distributor-amd-supply/",
+      "date": "Sep 30, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "acquisition",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "04e1d1a4aa70",
+      "title": "HIG Capital completes acquisition of UK safety equipment distributor Arco",
+      "summary": "Arco was founded in 1884 and supplies safety equipment and site safety services to infrastructure, defense, utilities and healthcare customers. The post HIG Capital completes acquisition of UK safety ",
+      "company": "HIG Capital",
+      "link": "https://www.pehub.com/hig-capital-completes-acquisition-of-uk-safety-equipment-distributor-arco/",
+      "date": "Sep 30, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "acquisition",
+        "company_launch"
       ]
     },
     {
@@ -48,6 +96,22 @@
       "moments": [
         "album_announcement",
         "company_launch"
+      ]
+    },
+    {
+      "id": "27fafd08bece",
+      "title": "Energy Revolution Ventures targets near-threefold fund size increase with $50m Fund II",
+      "summary": "Energy Revolution Ventures is targeting a near-threefold increase in fund size with a $50m second vehicle focused on early-stage energy transition technology. The post Energy Revolution Ventures targe",
+      "company": "Energy Revolution Ventures",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/energy-revolution-ventures-targets-near-threefold-fund-size-increase-with-50m-fund-ii.html",
+      "date": "Sep 30, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
       ]
     },
     {
@@ -98,36 +162,6 @@
       ]
     },
     {
-      "id": "2985f1fa2911",
-      "title": "Manchester City guilty over Premier League charges after \u00a3900m of \u2018sham\u2019 contracts",
-      "summary": "Commission: club broke rules over nine-season periodCity will appeal against verdict before Friday deadlineManchester City breached Premier League financial rules by creating \u201csham\u201d contracts to help ",
-      "company": "Manchester City",
-      "link": "https://www.theguardian.com/football/2026/sep/29/manchester-city-found-guilty-all-premier-league-charges-rule-breaches",
-      "date": "Sep 29, 26",
-      "source": "Guardian Sport",
-      "layer": 1,
-      "access": "pe",
-      "score": 18,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "3448060b9fd0",
-      "title": "Inside Encore After Hours\u2019 Intimate Evening With Gigi Perez",
-      "summary": "Gigi Perez, fresh off her stadium tour with Noah Kahan, performed for a select group of Gap Inc.\u2019s Encore loyalty program members during New York Fashion Week at the Cherry Lane Theatre, an iconic and",
-      "company": "Inside Encore After Hours\u2019 Intimate Evening",
-      "link": "https://www.rollingstone.com/music/music-news/inside-encore-after-hours-intimate-evening-gigi-perez-1235632977/",
-      "date": "Sep 28, 26",
-      "source": "Rolling Stone News",
-      "layer": 2,
-      "access": "pe",
-      "score": 17,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
       "id": "a006b81804f9",
       "title": "Baby Rose's 'Yearnalism' was made for small rooms. She got arenas first",
       "summary": "After opening for Olivia Dean in arenas, R&amp;B singer Baby Rose will bring her yearning-filled album \"Yearnalism\" to intimate Blue Note shows in Los Angeles, her first headlining dates there.",
@@ -158,29 +192,29 @@
       ]
     },
     {
-      "id": "b88963f4e8f9",
-      "title": "Judge Questions Legal Points of Paramount\u2019s Settlement With States at Hearing, Says a Ruling Will Come in \u2018Due Course\u2019",
-      "summary": "The judge overseeing the antitrust case filed by 12 state attorneys general seeking to block the Paramount-Warner Bros. Discovery merger questioned the parties about their settlement at a hearing Thur",
-      "company": "Judge Questions Legal Points",
-      "link": "https://variety.com/2026/film/news/judge-paramount-state-ags-settlement-hearing-1236874529/",
-      "date": "Sep 24, 26",
+      "id": "1f1f9d74ef85",
+      "title": "Women in Vertical Media Advocacy Organization Launches in Los Angeles",
+      "summary": "A group of prominent women working in the microdrama arena have launched Women In Vertical Media, an industry organization that aims to advance the visibility, influence and economic equity of women i",
+      "company": "Women",
+      "link": "https://variety.com/2026/biz/news/women-in-vertical-media-launch-los-angeles-microdrama-1236877785/",
+      "date": "Sep 29, 26",
       "source": "Variety Biz",
-      "layer": 3,
+      "layer": 1,
       "access": "pe",
       "score": 16,
       "moments": [
-        "acquisition"
+        "company_launch"
       ]
     },
     {
-      "id": "853ed9556fd1",
-      "title": "FanDuel\u2019s Parent Can\u2019t Buy a Break",
-      "summary": "FanDuel parent Flutter Entertainment\u2019s vision for diversifying its gambling portfolio through investments in India and Brazil has fallen apart, costing the company hundreds of millions of dollars in p",
-      "company": "FanDuel\u2019s Parent Can\u2019t Buy",
-      "link": "https://www.sportico.com/business/sports-betting/2026/flutter-brazil-india-ban-stock-fanduel-1234945940/",
-      "date": "Sep 28, 26",
-      "source": "Sportico",
-      "layer": 2,
+      "id": "e49ec93c2cf9",
+      "title": "Music Industry Moves: Universal Music Names Libby Bush President of Global Brands and Commercial Partnerships; Avex Acquires 85% of Brandon...",
+      "summary": "Universal Music Group has named Libby Bush to the newly created role of President, Global Brands and Commercial Partnerships, starting in November. According to the announcement, she will \u201clead a new ",
+      "company": "Music Industry Moves",
+      "link": "https://variety.com/2026/music/news/universal-music-libby-bush-global-brands-1236878574/",
+      "date": "Sep 29, 26",
+      "source": "Variety Music",
+      "layer": 1,
       "access": "pe",
       "score": 15,
       "moments": [
@@ -203,36 +237,6 @@
       ]
     },
     {
-      "id": "c17ee217c121",
-      "title": "Same Same But Different Builds Ticketing Platform to Cut 2027 Fees to 75 Cents",
-      "summary": "Same Same But Different is moving its 2027 festival ticketing onto a platform developed by its own co-founder, cutting the... The post Same Same But Different Builds Ticketing Platform to Cut 2027 Fee",
-      "company": "Same Same But Different Builds Ticketing",
-      "link": "https://www.ticketnews.com/2026/09/same-same-but-different-shoptickets-ticket-fees/",
-      "date": "Sep 29, 26",
-      "source": "Ticket News",
-      "layer": 1,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "42c7cc73ab10",
-      "title": "Oura\u2019s Stalled IPO Delays Potential Payout for Sports Stars, Owners",
-      "summary": "Oura, the maker of popular biometric tracking rings, announced Tuesday morning that it would delay its planned $2.2 billion IPO due to market \u201cuncertainty.\u201d The move could affect a number of the compa",
-      "company": "Oura\u2019s Stalled IPO Delays Potential Payout",
-      "link": "https://www.sportico.com/business/finance/2026/oura-sports-investors-shaq-lance-manu-dodgers-islanders-1234946114/",
-      "date": "Sep 29, 26",
-      "source": "Sportico",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "ipo"
-      ]
-    },
-    {
       "id": "855abac19320",
       "title": "Dead Kennedys announce that founding guitarist East Bay Ray has Parkinson's disease",
       "summary": "East Bay Ray, a founding member of the San Francisco punk band Dead Kennedys, \"plans to continue performing and touring,\" management said.",
@@ -248,29 +252,14 @@
       ]
     },
     {
-      "id": "823a34589a0c",
-      "title": "Seligman doubles venture capital allocation to $1bn just eight months after platform launch",
-      "summary": "Seligman Investments has doubled the deployable capital available to its venture arm to $1bn, just eight months after launching the platform with $500m, amid a surge in investment opportunities across",
-      "company": "Seligman",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/seligman-doubles-venture-capital-allocation-to-1bn-just-eight-months-after-platform-launch.html",
-      "date": "Sep 29, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 12,
-      "moments": [
-        "pe_investment"
-      ]
-    },
-    {
-      "id": "bba35443ef98",
-      "title": "Ryan Castro Unveils First Madison Square Garden Headlining Show",
-      "summary": "Ryan Castro will headline Madison Square Garden for the first time on December 12, bringing his \u201cLos Chorros Con Richy... The post Ryan Castro Unveils First Madison Square Garden Headlining Show appea",
-      "company": "Ryan Castro Unveils First Madison Square",
-      "link": "https://www.ticketnews.com/2026/09/ryan-castro-unveils-first-madison-square-garden-headlining-show/",
-      "date": "Sep 28, 26",
-      "source": "Ticket News",
-      "layer": 5,
+      "id": "9ff39cae499c",
+      "title": "The Pussycat Dolls review \u2013 Nicole Scherzinger\u2019s star power dominates fraught reunion",
+      "summary": "Utilita Arena, BirminghamFirst announced in 2019 and now launching with just three of the original lineup, the Dolls whip up a whirlwind of hair-flipping and put on a decent spectacleThe road to the P",
+      "company": "The Pussycat Dolls",
+      "link": "https://www.theguardian.com/music/2026/sep/30/pussycat-dolls-review-nicole-scherzinger-utilita-arena-birmingham-uk-tour",
+      "date": "Sep 30, 26",
+      "source": "Guardian Music",
+      "layer": 2,
       "access": "pe",
       "score": 12,
       "moments": [
@@ -293,21 +282,6 @@
       ]
     },
     {
-      "id": "444ff9180f9e",
-      "title": "MNEK on writing smash hits, battling self-doubt and his solo struggles: \u2018I\u2019m a fat Black gay man. Try selling that\u2019",
-      "summary": "The artist has written for Beyonc\u00e9 and been nominated for two Grammys, yet individual success has eluded him. Now he\u2019s back with a new album that puts queer joy in the spotlight \u2013 and, he says, he\u2019s f",
-      "company": "MNEK",
-      "link": "https://www.theguardian.com/music/2026/sep/25/mnek-music-interview-uzoechi-osisioma-emenike-bulldozer-album",
-      "date": "Sep 25, 26",
-      "source": "Guardian Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "album_announcement"
-      ]
-    },
-    {
       "id": "ed24e331be68",
       "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
       "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
@@ -320,6 +294,21 @@
       "score": 11,
       "moments": [
         "company_launch"
+      ]
+    },
+    {
+      "id": "43021ff18f10",
+      "title": "David Ellison Recruits Mattel\u2019s Ynon Kreiz for Senior Role at Merged Paramount-Warner Bros.",
+      "summary": "Ynon Kreiz, who is stepping down as CEO of Mattel after eight years, will join David Ellison&#8217;s Paramount &#8212; which is on the brink of closing its mega-merger with Warner Bros. Discovery &#82",
+      "company": "David Ellison Recruits Mattel\u2019s Ynon Kreiz",
+      "link": "https://variety.com/2026/film/news/paramount-david-ellison-ynon-kreiz-senior-role-mattel-1236893607/",
+      "date": "Sep 30, 26",
+      "source": "Variety Biz",
+      "layer": 3,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "acquisition"
       ]
     },
     {
@@ -338,32 +327,19 @@
       ]
     },
     {
-      "id": "2d57b5251fea",
-      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence\u2019s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-      "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $20",
-      "company": "TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-      "date": "Sep 25, 26",
-      "source": "TechCrunch Startups",
-      "layer": 2,
+      "id": "3941ec61ba1b",
+      "title": "How the Art of Hospitality is Changing Esports Players\u2019 Lives",
+      "summary": "At the Esports Foundation, Hans Jagnow is determined to treat gamers like rock stars",
+      "company": "How",
+      "link": "https://www.rollingstone.com/music/music-news/how-the-art-of-hospitality-changing-esports-players-lives-1235633130/",
+      "date": "Sep 30, 26",
+      "source": "Rolling Stone Music",
+      "layer": 4,
       "access": "pe",
       "score": 6,
       "moments": [
         "company_launch"
       ]
-    },
-    {
-      "id": "92b398ac81ff",
-      "title": "PepsiCo and Live Nation Announce New Multi-Year Food and Beverage Partnership",
-      "summary": "PepsiCo is expanding its presence at live music venues across the United States through a new multi-year partnership with Live... The post PepsiCo and Live Nation Announce New Multi-Year Food and Beve",
-      "company": "PepsiCo",
-      "link": "https://www.ticketnews.com/2026/09/pepsico-and-live-nation-announce-new-multi-year-food-and-beverage-partnership/",
-      "date": "Sep 29, 26",
-      "source": "Ticket News",
-      "layer": 2,
-      "access": "pe",
-      "score": 12,
-      "moments": []
     },
     {
       "id": "ccccc422fe2e",
@@ -379,25 +355,12 @@
       "moments": []
     },
     {
-      "id": "e38573d0e2f9",
-      "title": "Pepperdine's new sports arena is perfect venue for high school championships",
-      "summary": "Opening in December, Pepperdine's Mountain Arena creates more opportunities for high schools to use it for basketball and volleyball championship events.",
-      "company": "Pepperdine's",
-      "link": "https://www.latimes.com/sports/highschool/story/2026-09-27/pepperdines-new-sports-arena-perfect-venue-for-high-school-championships",
-      "date": "Sep 27, 26",
-      "source": "LA Times Sports",
-      "layer": 2,
-      "access": "pe",
-      "score": 10,
-      "moments": []
-    },
-    {
-      "id": "37e542596efa",
-      "title": "The Truth Set to Open October 1 in Nashville",
-      "summary": "The Truth, a new 4,400-capacity live music venue from Live Nation and AJ Capital, is set to open October 1... The post The Truth Set to Open October 1 in Nashville appeared first on TicketNews.",
-      "company": "The Truth Set",
-      "link": "https://www.ticketnews.com/2026/09/the-truth-set-to-open-october-1-in-nashville/",
-      "date": "Sep 29, 26",
+      "id": "575b3c99fd9a",
+      "title": "National Harbor Sphere Financing Advances as Labor Deal Remains Unresolved",
+      "summary": "Prince George\u2019s County lawmakers advanced two measures needed to support public financing for Sphere Entertainment\u2019s planned National Harbor venue, keeping... The post National Harbor Sphere Financing",
+      "company": "National Harbor Sphere Financing Advances",
+      "link": "https://www.ticketnews.com/2026/09/national-harbor-sphere-financing-advances-as-labor-deal-remains-unresolved/",
+      "date": "Sep 30, 26",
       "source": "Ticket News",
       "layer": 2,
       "access": "pe",
@@ -405,16 +368,42 @@
       "moments": []
     },
     {
-      "id": "38957d150951",
-      "title": "Judge Rejects Ticketmaster Bid to Escape FTC BOTS Act Lawsuit",
-      "summary": "A federal judge has rejected Live Nation and Ticketmaster\u2019s attempt to dismiss a sweeping Federal Trade Commission lawsuit accusing the... The post Judge Rejects Ticketmaster Bid to Escape FTC BOTS Ac",
-      "company": "Judge Rejects Ticketmaster Bid",
-      "link": "https://www.ticketnews.com/2026/09/ticketmaster-ftc-bots-act-lawsuit-dismissal-denied/",
+      "id": "dad9a0e314f5",
+      "title": "Photos - Slipknot Celebrate Stadium Tour With Fan Events",
+      "summary": "PHOTOS @CLICKTROTTA, Sarah Louise Bennett, Leora Bermeister",
+      "company": "Photos",
+      "link": "https://loudwire.com/photos-slipknot-stadium-tour-fan-events-2026/",
       "date": "Sep 29, 26",
-      "source": "Ticket News",
-      "layer": 3,
+      "source": "Loudwire",
+      "layer": 2,
       "access": "pe",
-      "score": 9,
+      "score": 8,
+      "moments": []
+    },
+    {
+      "id": "c827228a6bd5",
+      "title": "Slipknot Announce 2027 Stadium Tour With 11 Different Openers",
+      "summary": "Jonathan Weiner",
+      "company": "Slipknot Announce",
+      "link": "https://loudwire.com/slipknot-2027-tour-dates/",
+      "date": "Sep 28, 26",
+      "source": "Loudwire",
+      "layer": 2,
+      "access": "pe",
+      "score": 8,
+      "moments": []
+    },
+    {
+      "id": "631ed77e5197",
+      "title": "C\u00e9line Dion review \u2013 singer\u2019s first live show in years marks a triumphant, emotional return",
+      "summary": "Plenitude Arena, ParisDion wiped away tears and belted out the notes, giving an astounding performance despite her diagnosis of stiff person syndromeIn 2022, when C\u00e9line Dion shared that she had been ",
+      "company": "C\u00e9line Dion",
+      "link": "https://www.theguardian.com/music/2026/sep/13/celine-dion-review-paris-comeback-emotional-triumphant-return-plenitude-arena",
+      "date": "Sep 13, 26",
+      "source": "Guardian Music",
+      "layer": 2,
+      "access": "pe",
+      "score": 8,
       "moments": []
     },
     {
@@ -428,6 +417,45 @@
       "layer": 4,
       "access": "pe",
       "score": 8,
+      "moments": []
+    },
+    {
+      "id": "c5729640e547",
+      "title": "Composers of \u2018The Chronology of Water,\u2019 \u2018Sirat\u2019 Among World Soundtrack Awards\u2019 Discovery Nominees",
+      "summary": "The World Soundtrack Awards&#8217; Discovery of the Year prize has a knack for spotting emerging talent. Gustavo Santaolalla (\u201c21 Grams\u201d), Michael Giacchino (\u201cThe Incredibles\u201d) and Nicholas Britell (\u201c",
+      "company": "Composers",
+      "link": "https://variety.com/2026/artisans/festivals/world-soundtrack-awards-discovery-of-the-year-nominees-2-1236885975/",
+      "date": "Sep 30, 26",
+      "source": "Variety Music",
+      "layer": 3,
+      "access": "pe",
+      "score": 6,
+      "moments": []
+    },
+    {
+      "id": "769c9c09043d",
+      "title": "How San Francisco\u2019s Bill Graham Civic Auditorium Carries Namesake\u2019s Independent Spirit",
+      "summary": "Since first opening its doors in 1915, the venue has served as a centerpiece for San Francisco\u2019s downtown area.",
+      "company": "How San Francisco\u2019s Bill Graham Civic",
+      "link": "https://www.billboard.com/pro/indie-venue-of-the-month-bill-graham-civic-san-francisco/",
+      "date": "Sep 30, 26",
+      "source": "Billboard",
+      "layer": 2,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "5cf05f62424a",
+      "title": "How Utopai Studios Is Defining Production Intelligence for Film and Television",
+      "summary": "Filmmakers have always adopted new technology to expand what they can put on the screen. Nonlinear editing changed how films are cut; digital cinematography changed how they are shot and reviewed; vis",
+      "company": "How Utopai Studios Is Defining Production",
+      "link": "https://variety.com/2026/biz/news/utopai-studios-defining-production-intelligence-for-film-television-1236878187/",
+      "date": "Sep 30, 26",
+      "source": "Variety Biz",
+      "layer": 4,
+      "access": "pe",
+      "score": 4,
       "moments": []
     },
     {
