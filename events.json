@@ -1,7 +1,23 @@
 {
-  "generated": "2026-09-30T17:50:04.532493+00:00",
-  "total": 33,
+  "generated": "2026-10-01T18:15:32.712100+00:00",
+  "total": 39,
   "scraped": [
+    {
+      "id": "b0d60756108f",
+      "title": "Sia Sells 50% of Music Catalog to Pophouse in $180 Million Partnership Deal",
+      "summary": "Pophouse Entertainment, the Sweden-based entertainment and music investment firm co-founded by ABBA\u2019s Bjorn Ulvaeus, has acquired a 50% stake in the publishing and master music rights of Australian si",
+      "company": "Sia Sells",
+      "link": "https://variety.com/2026/music/news/sia-sells-music-catalog-pophouse-180-million-1236894783/",
+      "date": "Oct 01, 26",
+      "source": "Variety Music",
+      "layer": 1,
+      "access": "venture",
+      "score": 25,
+      "moments": [
+        "acquisition",
+        "company_launch"
+      ]
+    },
     {
       "id": "c1e5920b550d",
       "title": "Deal Roundup: Apollo completes record $3.7bn Japan buyout; Bain backs Kahua at $1bn-plus valuation",
@@ -19,44 +35,28 @@
       ]
     },
     {
-      "id": "66f295914e3d",
-      "title": "Princeton Equity more than doubles flagship fund size, with $1.3bn close after just two months",
-      "summary": "Franchise investment specialist Princeton Equity Group has more than doubled the size of its flagship private equity fund after raising $1.3bn for Fund III in just two months. The post Princeton Equit",
-      "company": "Princeton Equity",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/princeton-equity-more-than-doubles-flagship-fund-size-with-1-3bn-close-after-just-two-months.html",
-      "date": "Sep 30, 26",
+      "id": "5474cc76b284",
+      "title": "DIG Ventures raises $120m third fund to target Europe\u2019s AI infrastructure startups",
+      "summary": "European early-stage investor DIG Ventures has raised $120m for its third fund to target startups building the infrastructure underpinning the rapid expansion of artificial intelligence. The post DIG ",
+      "company": "DIG Ventures",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/dig-ventures-raises-120m-third-fund-to-target-europes-ai-infrastructure-startups.html",
+      "date": "Oct 01, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
       "score": 19,
       "moments": [
-        "pe_investment",
-        "fund_launch"
+        "funding_round",
+        "pe_investment"
       ]
     },
     {
-      "id": "5bb4acdd8af3",
-      "title": "Rising Point surges past target with $325m debut fund close, after shift from independent sponsor model",
-      "summary": "Rising Point Capital Management has raised $325m for its first institutional private equity fund after moving from an independent sponsor model to committed capital. The post Rising Point surges past ",
-      "company": "Rising Point",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/rising-point-surges-past-target-with-325m-debut-fund-close-after-shift-from-independent-sponsor-model.html",
-      "date": "Sep 30, 26",
-      "source": "AltAssets",
-      "layer": 1,
-      "access": "pe",
-      "score": 18,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "4807de5caa5b",
-      "title": "Wynnchurch Capital\u2019s EMS acquires Florida fencing and hurricane shutter distributor AMD Supply",
-      "summary": "The Deerfield Beach-based company, founded in 2006, also supplies aluminum extrusions, screen doors and hardware to customers in the Southeast, Caribbean and Latin America. The post Wynnchurch Capital",
-      "company": "Wynnchurch Capital\u2019s EMS",
-      "link": "https://www.pehub.com/wynnchurch-capitals-ems-acquires-florida-fencing-and-hurricane-shutter-distributor-amd-supply/",
-      "date": "Sep 30, 26",
+      "id": "77c466c13ff9",
+      "title": "Thoma Bravo and 7Ridge\u2019s Trading Technologies acquires equities trading platform TRAFiX",
+      "summary": "Founded in 2014 and headquartered in Mineola, New York, TRAFiX provides order and execution management systems and FIX connectivity for equities and equity options trading. The post Thoma Bravo and 7R",
+      "company": "Thoma Bravo",
+      "link": "https://www.pehub.com/thoma-bravo-and-7ridges-trading-technologies-acquires-equities-trading-platform-trafix/",
+      "date": "Oct 01, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
@@ -67,76 +67,92 @@
       ]
     },
     {
-      "id": "04e1d1a4aa70",
-      "title": "HIG Capital completes acquisition of UK safety equipment distributor Arco",
-      "summary": "Arco was founded in 1884 and supplies safety equipment and site safety services to infrastructure, defense, utilities and healthcare customers. The post HIG Capital completes acquisition of UK safety ",
-      "company": "HIG Capital",
-      "link": "https://www.pehub.com/hig-capital-completes-acquisition-of-uk-safety-equipment-distributor-arco/",
-      "date": "Sep 30, 26",
+      "id": "f55d23f1b166",
+      "title": "Sterling Group, Point 41 Capital back garage door demand; Antin snaps up heavy-lift helicopter biz; Blue Point\u2019s Weaver adds on Shapley\u2019s",
+      "summary": "With homeowners aiming to increase their property\u2019s value, demand for garage doors is on the rise \u2013 private equity has taken note; Antin Infrastructure Partners acquires a majority stake in High Perfo",
+      "company": "Sterling Group Point",
+      "link": "https://www.pehub.com/sterling-group-point-41-capital-back-garage-door-demand-antin-snaps-up-heavy-lift-helicopter-biz-blue-points-weaver-adds-on-shapleys/",
+      "date": "Oct 01, 26",
       "source": "PE Hub",
       "layer": 5,
       "access": "pe",
       "score": 16,
-      "moments": [
-        "acquisition",
-        "company_launch"
-      ]
-    },
-    {
-      "id": "71bd7c126d52",
-      "title": "How a Swedish fishing village and a lack of advice unlocked Tove Lo's new album 'Estrus'",
-      "summary": "Before making her newest album, \"Estrus,\" Swedish singer-songwriter Tove Lo felt pressure to make it profound. But after returning to a small village in Sweden, she was instead reminded of who she is ",
-      "company": "How",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-09-21/tove-lo-talks-new-album-estrus-motherhood-giving-advice",
-      "date": "Sep 21, 26",
-      "source": "LA Times Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "album_announcement",
-        "company_launch"
-      ]
-    },
-    {
-      "id": "27fafd08bece",
-      "title": "Energy Revolution Ventures targets near-threefold fund size increase with $50m Fund II",
-      "summary": "Energy Revolution Ventures is targeting a near-threefold increase in fund size with a $50m second vehicle focused on early-stage energy transition technology. The post Energy Revolution Ventures targe",
-      "company": "Energy Revolution Ventures",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/united-kingdom-western-europe-europe-by-region/energy-revolution-ventures-targets-near-threefold-fund-size-increase-with-50m-fund-ii.html",
-      "date": "Sep 30, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
-      "moments": [
-        "pe_investment",
-        "fund_launch"
-      ]
-    },
-    {
-      "id": "79099c4c0afd",
-      "title": "Deal Roundup: AAR strikes $4bn-EV deal for Bain-backed MRO; GTCR buys Tactacam",
-      "summary": "AAR has agreed to acquire a 65% controlling interest in Bain Capital-backed MRO Holdings at a $4bn implied enterprise value, paying about $1.8bn of equity value for the initial stake and repaying roug",
-      "company": "Deal Roundup",
-      "link": "https://www.altassets.net/private-equity-news/by-region/global-by-region/deal-roundup-aar-strikes-4bn-ev-deal-for-bain-backed-mro-gtcr-buys-tactacam.html",
-      "date": "Sep 29, 26",
-      "source": "AltAssets",
-      "layer": 5,
-      "access": "pe",
-      "score": 13,
       "moments": [
         "acquisition",
         "pe_investment"
       ]
     },
     {
-      "id": "ef0db68ec372",
-      "title": "Sofinnova grows medtech company-creation strategy by 30% with \u20ac82m Fund IV close",
-      "summary": "Sofinnova Partners has increased the size of its specialist medtech company-creation strategy by 30% after closing its fourth MD Start fund on an oversubscribed \u20ac82m. The post Sofinnova grows medtech ",
-      "company": "Sofinnova",
-      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/france-western-europe-europe-by-region/sofinnova-grows-medtech-company-creation-strategy-by-30-with-e82m-fund-iv-close.html",
-      "date": "Sep 29, 26",
+      "id": "a6134cfd5496",
+      "title": "LFM Capital\u2019s SisTech acquires avionics electronics maker Alta Data Technologies",
+      "summary": "The Rio Rancho, New Mexico-based company, founded in 2007, supplies off-the-shelf interface cards and Ethernet converters that enable data exchange between avionics subsystems. The post LFM Capital&#8",
+      "company": "LFM Capital\u2019s SisTech",
+      "link": "https://www.pehub.com/lfm-capitals-sistech-acquires-avionics-electronics-maker-alta-data-technologies/",
+      "date": "Oct 01, 26",
+      "source": "PE Hub",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "acquisition",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "7e1f2b1c9a57",
+      "title": "SWEN closes first Article 9 Europa fund at \u20ac236m with 80% already committed",
+      "summary": "SWEN Capital Partners has closed its first Article 9 fund in its long-running Europa private equity programme on \u20ac236m, with 80% of the vehicle already committed to investments. The post SWEN closes f",
+      "company": "SWEN",
+      "link": "https://www.altassets.net/private-equity-news/by-region/europe-by-region/western-europe-europe-by-region/france-western-europe-europe-by-region/swen-closes-first-article-9-europa-fund-at-e236m-with-80-already-committed.html",
+      "date": "Oct 01, 26",
+      "source": "AltAssets",
+      "layer": 5,
+      "access": "pe",
+      "score": 16,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "1224edf1ef3f",
+      "title": "Stonelake grows opportunistic real estate strategy 34% with $1bn Fund VIII close",
+      "summary": "Stonelake Capital Partners has grown its flagship opportunistic real estate fund by about 34% after hitting a $1bn hard cap for its eighth vehicle. The post Stonelake grows opportunistic real estate s",
+      "company": "Stonelake",
+      "link": "https://www.altassets.net/private-equity-news/by-news-type/fund-news/funds-closed/stonelake-grows-opportunistic-real-estate-strategy-34-with-1bn-fund-viii-close.html",
+      "date": "Oct 01, 26",
+      "source": "AltAssets",
+      "layer": 2,
+      "access": "pe",
+      "score": 15,
+      "moments": [
+        "pe_investment",
+        "fund_launch"
+      ]
+    },
+    {
+      "id": "e82047952753",
+      "title": "Is Neko Health\u2019s body scan worth it? Spotify billionaire\u2019s startup has come to America",
+      "summary": "Spotify founder Daniel Ek\u2019s Neko Health raised $700 million to build a business around scanning your body, but it\u2019s not the only company centering its roadmap around a new kind of preventative healthc",
+      "company": "Is Neko Health\u2019s",
+      "link": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
+      "date": "Sep 30, 26",
+      "source": "TechCrunch Startups",
+      "layer": 1,
+      "access": "venture",
+      "score": 13,
+      "moments": [
+        "streaming_milestone",
+        "company_launch"
+      ]
+    },
+    {
+      "id": "127f03ea6c33",
+      "title": "Stride Consumer grows fund 30% with $550m hard-cap close after four-month raise",
+      "summary": "Stride Consumer Partners has increased its fund size by 30% after closing its second growth equity vehicle at a $550m hard cap following a roughly four-month fundraising process. The post Stride Consu",
+      "company": "Stride Consumer",
+      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/stride-consumer-grows-fund-30-with-550m-hard-cap-close-after-four-month-raise.html",
+      "date": "Oct 01, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -144,6 +160,22 @@
       "moments": [
         "pe_investment",
         "fund_launch"
+      ]
+    },
+    {
+      "id": "c876c64112aa",
+      "title": "A Neko Health investor on the $700M bet to scan your whole body",
+      "summary": "Spotify founder Daniel Ek\u2019s Neko Health raised $700 million to build a business around scanning your body, but it\u2019s not the only company centering its roadmap around a new kind of preventative healthc",
+      "company": "Neko Health",
+      "link": "https://techcrunch.com/podcast/the-investor-behind-neko-healths-700m-bet-on-scanning-your-whole-body/",
+      "date": "Sep 30, 26",
+      "source": "TechCrunch Startups",
+      "layer": 1,
+      "access": "pe",
+      "score": 10,
+      "moments": [
+        "streaming_milestone",
+        "company_launch"
       ]
     },
     {
@@ -157,6 +189,21 @@
       "layer": 2,
       "access": "pe",
       "score": 24,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "71cdc9397edb",
+      "title": "French Regulator Drops Live Nation Arena Review Despite Unresolved Competition Concerns",
+      "summary": "France\u2019s competition regulator has ended its review of Live Nation\u2019s acquisition of Pl\u00e9nitude Arena without reaching a conclusion on whether... The post French Regulator Drops Live Nation Arena Review",
+      "company": "French Regulator Drops Live Nation Arena",
+      "link": "https://www.ticketnews.com/2026/10/live-nation-plenitude-arena-competition-review/",
+      "date": "Oct 01, 26",
+      "source": "Ticket News",
+      "layer": 2,
+      "access": "pe",
+      "score": 19,
       "moments": [
         "acquisition"
       ]
@@ -192,42 +239,27 @@
       ]
     },
     {
-      "id": "1f1f9d74ef85",
-      "title": "Women in Vertical Media Advocacy Organization Launches in Los Angeles",
-      "summary": "A group of prominent women working in the microdrama arena have launched Women In Vertical Media, an industry organization that aims to advance the visibility, influence and economic equity of women i",
-      "company": "Women",
-      "link": "https://variety.com/2026/biz/news/women-in-vertical-media-launch-los-angeles-microdrama-1236877785/",
-      "date": "Sep 29, 26",
-      "source": "Variety Biz",
-      "layer": 1,
-      "access": "pe",
-      "score": 16,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "e49ec93c2cf9",
-      "title": "Music Industry Moves: Universal Music Names Libby Bush President of Global Brands and Commercial Partnerships; Avex Acquires 85% of Brandon...",
-      "summary": "Universal Music Group has named Libby Bush to the newly created role of President, Global Brands and Commercial Partnerships, starting in November. According to the announcement, she will \u201clead a new ",
-      "company": "Music Industry Moves",
-      "link": "https://variety.com/2026/music/news/universal-music-libby-bush-global-brands-1236878574/",
-      "date": "Sep 29, 26",
-      "source": "Variety Music",
-      "layer": 1,
+      "id": "4e84dd100890",
+      "title": "The IPO Window Is Opening Selectively; Readiness Will Decide Who Gets Through",
+      "summary": "The 2026 IPO market is reopening selectively, favoring large companies that spent the slowdown strengthening their financial reporting, governance and operations, writes guest author Mark Williams, ch",
+      "company": "The IPO Window Is Opening Selectively;",
+      "link": "https://news.crunchbase.com/public/ipo-window-opening-readiness-required-williams-datasite/",
+      "date": "Oct 01, 26",
+      "source": "Crunchbase News",
+      "layer": 2,
       "access": "pe",
       "score": 15,
       "moments": [
-        "acquisition"
+        "ipo"
       ]
     },
     {
-      "id": "0434bd80ba4b",
-      "title": "NYC pension chief proposes $5bn private markets climate investment expansion",
-      "summary": "New York City comptroller Mark Levine is seeking to put another $5bn of the city\u2019s pension capital into private-market climate strategies spanning power generation, grid modernisation, energy storage ",
-      "company": "NYC",
-      "link": "https://www.altassets.net/private-equity-news/by-region/north-america-by-region/united-states-north-america-by-region/nyc-pension-chief-proposes-5bn-private-markets-climate-investment-expansion.html",
-      "date": "Sep 29, 26",
+      "id": "e899b06c2f36",
+      "title": "SaaS buyout multiples collapse from 20.4x to 11.7x as PE investment falls to $58.8bn",
+      "summary": "Private equity valuation multiples for SaaS businesses have fallen sharply as sponsors contend with AI disruption risk, higher financing costs and a market increasingly focused on profitability rather",
+      "company": "SaaS",
+      "link": "https://www.altassets.net/featured/saas-buyout-multiples-collapse-from-20-4x-to-11-7x-as-pe-investment-falls-to-58-8bn.html",
+      "date": "Oct 01, 26",
       "source": "AltAssets",
       "layer": 5,
       "access": "pe",
@@ -237,18 +269,78 @@
       ]
     },
     {
-      "id": "855abac19320",
-      "title": "Dead Kennedys announce that founding guitarist East Bay Ray has Parkinson's disease",
-      "summary": "East Bay Ray, a founding member of the San Francisco punk band Dead Kennedys, \"plans to continue performing and touring,\" management said.",
-      "company": "Dead Kennedys",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-09-23/dead-kennedys-guitarist-east-bay-ray-has-parkinsons-disease",
-      "date": "Sep 23, 26",
+      "id": "f9858808be42",
+      "title": "Paramount-Warner Bros. Merger Set to Close Next Week After Judge OKs Settlement With State AGs",
+      "summary": "Paramount chief David Ellison, after a fierce year-long battle, is finally about to get his hands on Warner Bros. Discovery &#8212; in the most expensive takeover in Hollywood history. On Wednesday, U",
+      "company": "Paramount-Warner Bros Merger Set",
+      "link": "https://variety.com/2026/film/news/paramount-warner-bros-merger-judge-approves-settlement-ags-1236893467/",
+      "date": "Sep 30, 26",
+      "source": "Variety Biz",
+      "layer": 3,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "132ad7c221b3",
+      "title": "Death From Above 1979 Moves North American Tour to 2027 Ahead of New Album",
+      "summary": "Death From Above 1979 has postponed its fall North American tour until early 2027, giving ticket holders a 30-day window... The post Death From Above 1979 Moves North American Tour to 2027 Ahead of Ne",
+      "company": "Death From Above",
+      "link": "https://www.ticketnews.com/2026/10/death-from-above-1979-moves-north-american-tour-to-2027-ahead-of-new-album/",
+      "date": "Oct 01, 26",
+      "source": "Ticket News",
+      "layer": 1,
+      "access": "pe",
+      "score": 14,
+      "moments": [
+        "album_announcement"
+      ]
+    },
+    {
+      "id": "1d6c173f5f59",
+      "title": "The Money Behind Arizona State\u2019s Beleaguered Hockey Program",
+      "summary": "For the past decade, Arizona State\u2019s Division I ice hockey program has captured national attention as an outlier in a relatively niche sport. As the NHL found renewed success across the American south",
+      "company": "The Money Behind Arizona State\u2019s Beleaguered",
+      "link": "https://www.sportico.com/leagues/college-sports/2026/arizona-state-hockey-budget-coach-powers-salary-1234946379/",
+      "date": "Oct 01, 26",
+      "source": "Sportico",
+      "layer": 1,
+      "access": "pe",
+      "score": 13,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "72791b96b476",
+      "title": "David Ellison Taps Mattel\u2019s Ynon Kreiz to Be Co-CEO of Merged Paramount-Warner Bros.",
+      "summary": "Ynon Kreiz, who is stepping down as CEO of Mattel after eight years, will join David Ellison\u2019s Paramount &#8212; which is expected to close its mega-merger with Warner Bros. Discovery on Oct. 6 &#8212",
+      "company": "David Ellison Taps Mattel\u2019s Ynon Kreiz",
+      "link": "https://variety.com/2026/film/news/paramount-david-ellison-ynon-kreiz-co-ceo-mattel-1236893607/",
+      "date": "Sep 30, 26",
+      "source": "Variety Biz",
+      "layer": 3,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
+      "id": "9f5a75892cf1",
+      "title": "Wynonna Judd confirms rift with sister Ashley Judd: 'We're taking a break'",
+      "summary": "Country star Wynonna Judd has revealed, ahead of her new album release, that she and sister Ashley Judd are currently taking a break from their relationship.",
+      "company": "Wynonna Judd",
+      "link": "https://www.latimes.com/entertainment-arts/story/2026-09-30/wynonna-judd-confirms-she-sister-ashley-judd-are-on-outs",
+      "date": "Oct 01, 26",
       "source": "LA Times Music",
       "layer": 1,
       "access": "pe",
       "score": 12,
       "moments": [
-        "company_launch"
+        "album_announcement"
       ]
     },
     {
@@ -262,21 +354,6 @@
       "layer": 2,
       "access": "pe",
       "score": 12,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "e50d0d8d604b",
-      "title": "After a record year, YouTube extends its Coachella livestream deal to 2030",
-      "summary": "YouTube has renewed its exclusive Coachella livestream deal with Goldenvoice through 2030, after the 2026 festival set a record for concurrent viewers.",
-      "company": "After",
-      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-09-23/youtube-coachella-livestream-deal-2030",
-      "date": "Sep 23, 26",
-      "source": "LA Times Music",
-      "layer": 1,
-      "access": "pe",
-      "score": 11,
       "moments": [
         "festival_headliner"
       ]
@@ -297,21 +374,6 @@
       ]
     },
     {
-      "id": "43021ff18f10",
-      "title": "David Ellison Recruits Mattel\u2019s Ynon Kreiz for Senior Role at Merged Paramount-Warner Bros.",
-      "summary": "Ynon Kreiz, who is stepping down as CEO of Mattel after eight years, will join David Ellison&#8217;s Paramount &#8212; which is on the brink of closing its mega-merger with Warner Bros. Discovery &#82",
-      "company": "David Ellison Recruits Mattel\u2019s Ynon Kreiz",
-      "link": "https://variety.com/2026/film/news/paramount-david-ellison-ynon-kreiz-senior-role-mattel-1236893607/",
-      "date": "Sep 30, 26",
-      "source": "Variety Biz",
-      "layer": 3,
-      "access": "pe",
-      "score": 9,
-      "moments": [
-        "acquisition"
-      ]
-    },
-    {
       "id": "628336cbcacd",
       "title": "The Week\u2019s 10 Biggest Funding Rounds: Cybersecurity, AI And Health Take The Lead",
       "summary": "This week delivered a bountiful supply of big startup funding rounds, led by two $400 million financings for cybersecurity unicorns and large financings for startups across hot sectors, including foun",
@@ -327,19 +389,47 @@
       ]
     },
     {
-      "id": "3941ec61ba1b",
-      "title": "How the Art of Hospitality is Changing Esports Players\u2019 Lives",
-      "summary": "At the Esports Foundation, Hans Jagnow is determined to treat gamers like rock stars",
-      "company": "How",
-      "link": "https://www.rollingstone.com/music/music-news/how-the-art-of-hospitality-changing-esports-players-lives-1235633130/",
+      "id": "1c877d182073",
+      "title": "Fed watchdog clears former chair Powell in renovation probe",
+      "summary": "A Federal Reserve watchdog found no criminal wrongdoing by former chair Jerome Powell in its investigation of the central bank's expensive headquarters renovation, according to a report released on We",
+      "company": "Fed",
+      "link": "https://www.axios.com/2026/09/30/fed-powell-ig-building",
       "date": "Sep 30, 26",
-      "source": "Rolling Stone Music",
+      "source": "Axios",
+      "layer": 2,
+      "access": "pe",
+      "score": 9,
+      "moments": [
+        "company_launch"
+      ]
+    },
+    {
+      "id": "083af7ebc54e",
+      "title": "\u2018Shane was rascality personified\u2019: the Pogues on their late frontman, anti-Irish prejudice and the feud over Fairytale of New York",
+      "summary": "The Celtic punk band\u2019s co-founders Spider Stacy and James Fearnley take your questions about Shane MacGowan, ruffling the feathers of trad musicians and putting Laurence Fox in his placeThe Pogues ear",
+      "company": "\u2018Shane",
+      "link": "https://www.theguardian.com/music/2026/oct/01/the-pogues-shane-macgowan-anti-irish-prejudice-fairytale-of-new-york",
+      "date": "Oct 01, 26",
+      "source": "Guardian Music",
       "layer": 4,
       "access": "pe",
       "score": 6,
       "moments": [
         "company_launch"
       ]
+    },
+    {
+      "id": "4ea1550f20aa",
+      "title": "Ohio Commissioner\u2019s VIP Post Malone Tickets Draw Ethics Questions After $250K County Sponsorship",
+      "summary": "Franklin County Commissioner Erica Crawley\u2019s use of six VIP tickets and hospitality access at a July Post Malone concert is... The post Ohio Commissioner\u2019s VIP Post Malone Tickets Draw Ethics Question",
+      "company": "Ohio Commissioner\u2019s VIP Post Malone Tickets",
+      "link": "https://www.ticketnews.com/2026/10/erica-crawley-post-malone-tickets-ethics/",
+      "date": "Oct 01, 26",
+      "source": "Ticket News",
+      "layer": 4,
+      "access": "pe",
+      "score": 13,
+      "moments": []
     },
     {
       "id": "ccccc422fe2e",
@@ -355,19 +445,6 @@
       "moments": []
     },
     {
-      "id": "575b3c99fd9a",
-      "title": "National Harbor Sphere Financing Advances as Labor Deal Remains Unresolved",
-      "summary": "Prince George\u2019s County lawmakers advanced two measures needed to support public financing for Sphere Entertainment\u2019s planned National Harbor venue, keeping... The post National Harbor Sphere Financing",
-      "company": "National Harbor Sphere Financing Advances",
-      "link": "https://www.ticketnews.com/2026/09/national-harbor-sphere-financing-advances-as-labor-deal-remains-unresolved/",
-      "date": "Sep 30, 26",
-      "source": "Ticket News",
-      "layer": 2,
-      "access": "pe",
-      "score": 9,
-      "moments": []
-    },
-    {
       "id": "dad9a0e314f5",
       "title": "Photos - Slipknot Celebrate Stadium Tour With Fan Events",
       "summary": "PHOTOS @CLICKTROTTA, Sarah Louise Bennett, Leora Bermeister",
@@ -375,32 +452,6 @@
       "link": "https://loudwire.com/photos-slipknot-stadium-tour-fan-events-2026/",
       "date": "Sep 29, 26",
       "source": "Loudwire",
-      "layer": 2,
-      "access": "pe",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "c827228a6bd5",
-      "title": "Slipknot Announce 2027 Stadium Tour With 11 Different Openers",
-      "summary": "Jonathan Weiner",
-      "company": "Slipknot Announce",
-      "link": "https://loudwire.com/slipknot-2027-tour-dates/",
-      "date": "Sep 28, 26",
-      "source": "Loudwire",
-      "layer": 2,
-      "access": "pe",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "631ed77e5197",
-      "title": "C\u00e9line Dion review \u2013 singer\u2019s first live show in years marks a triumphant, emotional return",
-      "summary": "Plenitude Arena, ParisDion wiped away tears and belted out the notes, giving an astounding performance despite her diagnosis of stiff person syndromeIn 2022, when C\u00e9line Dion shared that she had been ",
-      "company": "C\u00e9line Dion",
-      "link": "https://www.theguardian.com/music/2026/sep/13/celine-dion-review-paris-comeback-emotional-triumphant-return-plenitude-arena",
-      "date": "Sep 13, 26",
-      "source": "Guardian Music",
       "layer": 2,
       "access": "pe",
       "score": 8,
@@ -420,27 +471,66 @@
       "moments": []
     },
     {
-      "id": "c5729640e547",
-      "title": "Composers of \u2018The Chronology of Water,\u2019 \u2018Sirat\u2019 Among World Soundtrack Awards\u2019 Discovery Nominees",
-      "summary": "The World Soundtrack Awards&#8217; Discovery of the Year prize has a knack for spotting emerging talent. Gustavo Santaolalla (\u201c21 Grams\u201d), Michael Giacchino (\u201cThe Incredibles\u201d) and Nicholas Britell (\u201c",
-      "company": "Composers",
-      "link": "https://variety.com/2026/artisans/festivals/world-soundtrack-awards-discovery-of-the-year-nominees-2-1236885975/",
-      "date": "Sep 30, 26",
-      "source": "Variety Music",
-      "layer": 3,
+      "id": "c332cd156f71",
+      "title": "Taemin Postpones North American Tour as U.S. Visa Delays Hit Production Crew",
+      "summary": "K-pop star Taemin has postponed the entire North American leg of his 2026-27 LiMiNaL World Tour, with his team blaming... The post Taemin Postpones North American Tour as U.S. Visa Delays Hit Producti",
+      "company": "Taemin Postpones North American Tour",
+      "link": "https://www.ticketnews.com/2026/10/taemin-postpones-north-american-tour-as-u-s-visa-delays-hit-production-crew/",
+      "date": "Oct 01, 26",
+      "source": "Ticket News",
+      "layer": 4,
       "access": "pe",
-      "score": 6,
+      "score": 7,
       "moments": []
     },
     {
-      "id": "769c9c09043d",
-      "title": "How San Francisco\u2019s Bill Graham Civic Auditorium Carries Namesake\u2019s Independent Spirit",
-      "summary": "Since first opening its doors in 1915, the venue has served as a centerpiece for San Francisco\u2019s downtown area.",
-      "company": "How San Francisco\u2019s Bill Graham Civic",
-      "link": "https://www.billboard.com/pro/indie-venue-of-the-month-bill-graham-civic-san-francisco/",
+      "id": "865d07c7a4fa",
+      "title": "Smashing Pumpkins Play 32 Songs at 'Rats in a Cage' Tour Launch",
+      "summary": "Ethan Miller, Getty Images, Live Nation",
+      "company": "Smashing Pumpkins Play",
+      "link": "https://loudwire.com/smashing-pumpkins-2026-setlist-rats-in-a-cage/",
+      "date": "Oct 01, 26",
+      "source": "Loudwire",
+      "layer": 3,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "7511bdb3ed35",
+      "title": "Cristiano Ronaldo\u2019s Portugal walkout divides a nation as Jorge Jesus asserts control",
+      "summary": "Row sparked by head coach\u2019s decision to leave the 41-year-old on the bench has left a great international career at risk of ending in acrimonyThe drama surrounding Cristiano Ronaldo and the national t",
+      "company": "Cristiano Ronaldo\u2019s Portugal",
+      "link": "https://www.theguardian.com/football/2026/oct/01/cristiano-ronaldos-portugal-walkout-divides-a-nation-as-jorge-jesus-asserts-control",
+      "date": "Oct 01, 26",
+      "source": "Guardian Sport",
+      "layer": 3,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "3708e230bc56",
+      "title": "Trump's DOJ takes its fight with federal judges to Minnesota",
+      "summary": "The Justice Department filed a complaint against a group of federal judges from Minnesota for speaking to The New York Times about the impact of the immigration enforcement surge on their court. The b",
+      "company": "Trump's DOJ",
+      "link": "https://www.axios.com/2026/09/30/doj-misconduct-complaint-minnesota-judges",
       "date": "Sep 30, 26",
-      "source": "Billboard",
-      "layer": 2,
+      "source": "Axios",
+      "layer": 3,
+      "access": "pe",
+      "score": 5,
+      "moments": []
+    },
+    {
+      "id": "ef35a45949b0",
+      "title": "944 children abused by Catholic clergy, Mass. AG says \u2014 but no new charges",
+      "summary": "The Massachusetts attorney general released a report Wednesday documenting more than 270 Catholic clerics accused of sexually abusing 944 children across three dioceses \u2014 but the investigation will re",
+      "company": "Catholic",
+      "link": "https://www.axios.com/2026/09/30/massachusetts-catholic-clergy-sex-abuse-report",
+      "date": "Sep 30, 26",
+      "source": "Axios",
+      "layer": 4,
       "access": "pe",
       "score": 5,
       "moments": []
@@ -459,27 +549,27 @@
       "moments": []
     },
     {
-      "id": "7ee8c42d18f1",
-      "title": "Victor Glover, First Black Astronaut to Fly to the Moon, Signs With CAA",
-      "summary": "CAA has signed emeritus astronaut Victor Glover for representation in all areas. Glover is a retired U.S. Navy captain and NASA astronaut who made history several times during his career as a space ex",
-      "company": "Victor Glover First Black Astronaut",
-      "link": "https://variety.com/2026/biz/news/caa-victor-glover-first-black-astronaut-moon-1236875875/",
-      "date": "Sep 28, 26",
-      "source": "Variety Biz",
+      "id": "fccd628072ad",
+      "title": "The BRIT Awards 2026 deliver \u00a35million boost to Manchester in first year outside London",
+      "summary": "\u201cIt was a recognition not only of our unmatched music heritage, but our growing reputation for putting on national and global events and making a success of them,\u201d said the Mayor of Greater Manchester",
+      "company": "The BRIT Awards",
+      "link": "https://www.nme.com/news/music/brit-awards-2026-5million-boost-manchester-outside-london-3971776?utm_source=rss&utm_medium=rss&utm_campaign=brit-awards-2026-5million-boost-manchester-outside-london",
+      "date": "Oct 01, 26",
+      "source": "NME",
       "layer": 4,
       "access": "pe",
       "score": 4,
       "moments": []
     },
     {
-      "id": "8f95fdb4c719",
-      "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
-      "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
-      "company": "Global Times",
-      "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/",
-      "date": "May 09, 26",
-      "source": "Venues Today",
-      "layer": 4,
+      "id": "80e89d78dd70",
+      "title": "California Gives Bonta New Monopoly Enforcement Tool After Ticketmaster Verdict",
+      "summary": "California Attorney General Rob Bonta will enter 2027 with a new state-law tool for pursuing monopolization cases after Gov. Gavin... The post California Gives Bonta New Monopoly Enforcement Tool Afte",
+      "company": "",
+      "link": "https://www.ticketnews.com/2026/10/california-compete-act-bonta-ticketmaster-monopoly/",
+      "date": "Oct 01, 26",
+      "source": "Ticket News",
+      "layer": 3,
       "access": "pe",
       "score": 4,
       "moments": []
