@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T17:41:01.343377+00:00",
-  "total": 34,
+  "generated": "2026-10-03T15:59:54.318624+00:00",
+  "total": 31,
   "scraped": [
     {
       "id": "9273429acbb8",
@@ -164,18 +164,18 @@
       ]
     },
     {
-      "id": "e9c36d3008c4",
-      "title": "Knitting Factory Entertainment Acquires Minority Stake in Does Entertainment, Forming Strategic Growth Partnership to Expand National Live...",
-      "summary": "Companies Align to Accelerate Venue Development, Talent Buying, Concert Promotion and Strategic Growth Across North America Los Angeles, CA / Wilmington, NC, July 14, 2026 \u2013&#160;Knitting Factory Ente",
-      "company": "",
-      "link": "https://venuestoday.com/knitting-factory-entertainment-acquires-minority-stake-in-does-entertainment-forming-strategic-growth-partnership-to-expand-national-live-entertainment-platform/",
-      "date": "Jul 15, 26",
-      "source": "Venues Today",
-      "layer": 2,
+      "id": "453caa1c96b7",
+      "title": "Tom Morello: \u2018If It Kills Like Fascism, Brothers and Sisters, It\u2019s Fascism\u2019",
+      "summary": "The musician-activist dropped a heavy new album, toured with Springsteen, and is launching the Power to the People festival \u2014 and he\u2019s got a lot more to say",
+      "company": "Tom Morello",
+      "link": "https://www.rollingstone.com/music/music-features/tom-morello-interview-album-sheeran-springsteen-audioslave-1235635303/",
+      "date": "Oct 03, 26",
+      "source": "Rolling Stone Music",
+      "layer": 1,
       "access": "pe",
-      "score": 24,
+      "score": 17,
       "moments": [
-        "acquisition"
+        "album_announcement"
       ]
     },
     {
@@ -224,28 +224,13 @@
       ]
     },
     {
-      "id": "30a7aa0b014e",
-      "title": "La Roux Announced \u2018Old Flames\u2019 North American Tour",
-      "summary": "La Roux will return to North America for a 13-date headlining tour in early 2027, bringing her upcoming album Old... The post La Roux Announced \u2018Old Flames\u2019 North American Tour appeared first on Ticke",
-      "company": "La Roux Announced \u2018Old Flames\u2019 North",
-      "link": "https://www.ticketnews.com/2026/10/la-roux-announced-old-flames-north-american-tour/",
-      "date": "Oct 01, 26",
-      "source": "Ticket News",
-      "layer": 1,
-      "access": "pe",
-      "score": 17,
-      "moments": [
-        "festival_headliner"
-      ]
-    },
-    {
-      "id": "416b9e005e12",
-      "title": "Music deals in focus after Pophouse acquires stake in Sia\u2019s master music rights; Forward Consumer Partners featured in They Said It",
-      "summary": "The deal is Pophouse\u2019s third artist partnership of 2026. In July, the firm bought a stake in the publishing and master music rights of Iron Maiden, along with the band\u2019s name, image and likeness right",
-      "company": "Music deals in focus after Pophouse",
-      "link": "https://www.pehub.com/music-deals-in-focus-after-pophouse-acquires-stake-in-sias-master-music-rights-forward-consumer-partners-featured-in-they-said-it/",
+      "id": "e17e7b086688",
+      "title": "Sportico Transactions: Moves and Mergers Roundup for Oct. 2",
+      "summary": "Welcome to Sportico\u2019s transactions wire, a weekly rundown of personnel, partnerships and products across the sports business industry. PERSONNEL NWSL Names Senior Director of Pathways and Development ",
+      "company": "Sportico Transactions",
+      "link": "https://www.sportico.com/personalities/people/2026/sportico-transactions-moves-mergers-roundup-oct-2-2026-1234946443/",
       "date": "Oct 02, 26",
-      "source": "PE Hub",
+      "source": "Sportico",
       "layer": 1,
       "access": "pe",
       "score": 16,
@@ -269,6 +254,21 @@
       ]
     },
     {
+      "id": "37adb1151640",
+      "title": "European Entertainment Leaders Mostly Optimistic About David Ellison\u2019s Takeover of Warner Bros.: \u2018I Believe in His Commitment to Cinema\u2019",
+      "summary": "After nearly a year of dealmaking drama, Paramount Skydance&#8217;s takeover of Warner Bros. Discovery is about to become reality. Across Europe, where the Paramount chief David Ellison has spent time",
+      "company": "",
+      "link": "https://variety.com/2026/film/news/europe-leaders-optimistic-paramount-warner-bros-takeover-1236897580/",
+      "date": "Oct 02, 26",
+      "source": "Variety Biz",
+      "layer": 3,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "acquisition"
+      ]
+    },
+    {
       "id": "159a9542f204",
       "title": "Ynon Kreiz, as Co-CEO of Paramount, to Receive Pay Package Worth More Than $46.5 Million",
       "summary": "Ynon Kreiz, as David Ellison&#8217;s right-hand man at the merged Paramount-Warner Bros. Discovery, is getting a big pay bump over his pay package as CEO of Mattel. Kreiz, 61, signed an initial five-y",
@@ -281,6 +281,21 @@
       "score": 12,
       "moments": [
         "acquisition"
+      ]
+    },
+    {
+      "id": "675fadf798ad",
+      "title": "See AC/DC Bring Out Dave Grohl for \u2018Highway to Hell\u2019 at Power Up Tour\u2019s Final Show",
+      "summary": "Foo Fighters served as openers at New Jersey's MetLife Stadium, the last show on AC/DC's itinerary for the foreseeable future, and maybe longer",
+      "company": "See AC/DC Bring Out Dave Grohl",
+      "link": "https://www.rollingstone.com/music/music-news/ac-dc-out-dave-grohl-highway-to-hell-power-up-tour-finale-1235636450/",
+      "date": "Oct 03, 26",
+      "source": "Rolling Stone Music",
+      "layer": 2,
+      "access": "pe",
+      "score": 12,
+      "moments": [
+        "surprise_appearance"
       ]
     },
     {
@@ -314,55 +329,66 @@
       ]
     },
     {
-      "id": "ed24e331be68",
-      "title": "Niloufar Banisaied is Bringing Timeless Design and the Guest Experience at the Forefront",
-      "summary": "Niloufar Banisaied\u2019s multi-decade commitment to minimalism, operational precision, and understated elegance continues to shape a private strategist&#8217;s approach to modern luxury. The modern hospit",
-      "company": "Niloufar Banisaied",
-      "link": "https://venuestoday.com/niloufar-banisaied-is-bringing-timeless-design-and-the-guest-experience-at-the-forefront/",
-      "date": "Jun 09, 26",
-      "source": "Venues Today",
+      "id": "dea84e1dc568",
+      "title": "Skydance Blasts Off: Can David Ellison Make Paramount-Warner Bros. Merger Fly?",
+      "summary": "David Ellison has emerged victorious. And he\u2019s boldly \u2014 or arrogantly, if you prefer \u2014 decided to name the entertainment giant that he\u2019s bolted together Skydance Corp., nodding to the original name of",
+      "company": "Skydance Blasts Off",
+      "link": "https://variety.com/2026/film/news/skydance-david-ellison-paramount-warner-bros-merger-debt-1236898108/",
+      "date": "Oct 03, 26",
+      "source": "Variety Biz",
       "layer": 4,
-      "access": "pe",
-      "score": 11,
-      "moments": [
-        "company_launch"
-      ]
-    },
-    {
-      "id": "1c877d182073",
-      "title": "Fed watchdog clears former chair Powell in renovation probe",
-      "summary": "A Federal Reserve watchdog found no criminal wrongdoing by former chair Jerome Powell in its investigation of the central bank's expensive headquarters renovation, according to a report released on We",
-      "company": "Fed",
-      "link": "https://www.axios.com/2026/09/30/fed-powell-ig-building",
-      "date": "Sep 30, 26",
-      "source": "Axios",
-      "layer": 2,
       "access": "pe",
       "score": 9,
       "moments": [
-        "company_launch"
+        "acquisition"
       ]
     },
     {
-      "id": "0132adccb6bb",
-      "title": "Kennedy Center Honors 2026 Moving Forward \u2014 But Not at the Embattled Venue",
-      "summary": "The Kennedy Center will announce the honorees and the program\u2019s broadcast partner at a later date.",
-      "company": "Kennedy Center Honors",
-      "link": "https://www.billboard.com/music/awards/kennedy-center-honors-2026-will-be-held-different-venue-1236352640/",
-      "date": "Oct 02, 26",
+      "id": "46f50f9ca248",
+      "title": "Ye\u2019s Two Russian Stadium Concerts Canceled, Promoters Announce: \u2018Sincere Regret\u2019",
+      "summary": "The two announced gigs at St. Peterburg's Gazprom Arena were in limbo from the start after the venue stated that it had not signed a rental agreement.",
+      "company": "Ye\u2019s Two Russian Stadium Concerts Canceled",
+      "link": "https://www.billboard.com/music/rb-hip-hop/kanye-west-russian-stadium-concerts-canceled-1236351799/",
+      "date": "Oct 03, 26",
       "source": "Billboard",
+      "layer": 2,
+      "access": "pe",
+      "score": 22,
+      "moments": []
+    },
+    {
+      "id": "5c9e7b6d9f4a",
+      "title": "Zach Bryan wears \u2018Free Palestine\u2019 shirt at Gillette Stadium following Robert Kraft-Macklemore row",
+      "summary": "Macklemore was recently barred from the same venue before being dropped from Ed Sheeran\u2019s tour over his pro-Palestine statements The post Zach Bryan wears \u2018Free Palestine\u2019 shirt at Gillette Stadium fo",
+      "company": "Zach Bryan",
+      "link": "https://www.nme.com/news/music/zach-bryan-wears-free-palestine-shirt-at-gillette-stadium-following-robert-kraft-macklemore-row-3972037?utm_source=rss&utm_medium=rss&utm_campaign=zach-bryan-wears-free-palestine-shirt-at-gillette-stadium-following-robert-kraft-macklemore-row",
+      "date": "Oct 03, 26",
+      "source": "NME",
+      "layer": 2,
+      "access": "pe",
+      "score": 15,
+      "moments": []
+    },
+    {
+      "id": "fff965a793be",
+      "title": "Kennedy Center Honors Moving to Washington, D.C. Arena Amid Venue\u2019s Closure",
+      "summary": "2026 show will take place at Capital One Arena, home of basketball and hockey teams, while the performing arts center is \"temporarily closed\" for the foreseeable future",
+      "company": "Kennedy Center Honors Moving",
+      "link": "https://www.rollingstone.com/music/music-news/kennedy-center-honors-washington-d-c-arena-venue-closure-1235636463/",
+      "date": "Oct 03, 26",
+      "source": "Rolling Stone Music",
       "layer": 2,
       "access": "pe",
       "score": 10,
       "moments": []
     },
     {
-      "id": "b6c5336aeb22",
-      "title": "Muse announce \u2018The Wow! Signal\u2019 2027 European arena tour",
-      "summary": "The new dates will follow the band's upcoming shows in the UK and Europe this year The post Muse announce &#8216;The Wow! Signal&#8217; 2027 European arena tour appeared first on NME.",
-      "company": "Muse",
-      "link": "https://www.nme.com/news/music/muse-announce-the-wow-signal-2027-european-arena-tour-dates-buy-tickets-3971921?utm_source=rss&utm_medium=rss&utm_campaign=muse-announce-the-wow-signal-2027-european-arena-tour-dates-buy-tickets",
-      "date": "Oct 02, 26",
+      "id": "8ce661d24e70",
+      "title": "Greta Van Fleet announce 2027 \u2018Into The Beginning\u2019 UK, European and North American tour",
+      "summary": "The huge 59-date run includes arena shows in London, Birmingham, Manchester and Glasgow The post Greta Van Fleet announce 2027 &#8216;Into The Beginning&#8217; UK, European and North American tour app",
+      "company": "Greta Van Fleet",
+      "link": "https://www.nme.com/news/music/greta-van-fleet-announce-2027-uk-european-north-american-tour-tickets-3972051?utm_source=rss&utm_medium=rss&utm_campaign=greta-van-fleet-announce-2027-uk-european-north-american-tour-tickets",
+      "date": "Oct 03, 26",
       "source": "NME",
       "layer": 2,
       "access": "pe",
@@ -377,19 +403,6 @@
       "link": "https://frontofficesports.com/article/nike-revenue-down-company-signals-workforce-reduction/",
       "date": "Oct 01, 26",
       "source": "Front Office Sports",
-      "layer": 2,
-      "access": "pe",
-      "score": 8,
-      "moments": []
-    },
-    {
-      "id": "dad9a0e314f5",
-      "title": "Photos - Slipknot Celebrate Stadium Tour With Fan Events",
-      "summary": "PHOTOS @CLICKTROTTA, Sarah Louise Bennett, Leora Bermeister",
-      "company": "Photos",
-      "link": "https://loudwire.com/photos-slipknot-stadium-tour-fan-events-2026/",
-      "date": "Sep 29, 26",
-      "source": "Loudwire",
       "layer": 2,
       "access": "pe",
       "score": 8,
@@ -445,58 +458,6 @@
       "layer": 3,
       "access": "pe",
       "score": 5,
-      "moments": []
-    },
-    {
-      "id": "3708e230bc56",
-      "title": "Trump's DOJ takes its fight with federal judges to Minnesota",
-      "summary": "The Justice Department filed a complaint against a group of federal judges from Minnesota for speaking to The New York Times about the impact of the immigration enforcement surge on their court. The b",
-      "company": "Trump's DOJ",
-      "link": "https://www.axios.com/2026/09/30/doj-misconduct-complaint-minnesota-judges",
-      "date": "Sep 30, 26",
-      "source": "Axios",
-      "layer": 3,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "ef35a45949b0",
-      "title": "944 children abused by Catholic clergy, Mass. AG says \u2014 but no new charges",
-      "summary": "The Massachusetts attorney general released a report Wednesday documenting more than 270 Catholic clerics accused of sexually abusing 944 children across three dioceses \u2014 but the investigation will re",
-      "company": "Catholic",
-      "link": "https://www.axios.com/2026/09/30/massachusetts-catholic-clergy-sex-abuse-report",
-      "date": "Sep 30, 26",
-      "source": "Axios",
-      "layer": 4,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "2aa1932a04f3",
-      "title": "Global cruise leaders and Florida International University join to launch university-wide FIU Cruise Excellence Center",
-      "summary": "MIAMI, Oct. 2, 2026 /PRNewswire/ -- Florida International University announced the launch of the FIU Cruise Excellence Center, led by its Chaplin School of Hospitality & Tourism Management. The initia",
-      "company": "Global",
-      "link": "https://www.prnewswire.com/news-releases/global-cruise-leaders-and-florida-international-university-join-to-launch-university-wide-fiu-cruise-excellence-center-302897361.html",
-      "date": "Oct 02, 26",
-      "source": "PR Newswire",
-      "layer": 4,
-      "access": "pe",
-      "score": 5,
-      "moments": []
-    },
-    {
-      "id": "8f95fdb4c719",
-      "title": "Global Times: Evidence from Tokyo Trial witnesses points to irrefutable historical verdict on Japan\u2019s atrocities of aggression",
-      "summary": "Editor&#8217;s Note: The just trial of Japanese war criminals by the International Military Tribunal for the Far East (also known as the Tokyo Trial), through a vast number of eyewitness accounts, mat",
-      "company": "Global Times",
-      "link": "https://venuestoday.com/global-times-evidence-from-tokyo-trial-witnesses-points-to-irrefutable-historical-verdict-on-japans-atrocities-of-aggression/",
-      "date": "May 09, 26",
-      "source": "Venues Today",
-      "layer": 4,
-      "access": "pe",
-      "score": 4,
       "moments": []
     }
   ]
